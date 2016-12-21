@@ -31,13 +31,13 @@ public class RedditParser {
 	private static int PAGES_COUNT_TO_PARSE = 20;
 	private static Logger logger = Logger.getLogger(Main.class);
 
-	private static List<String> existingMovies = getExistingMoviesYTuri();
+	public static List<String> existingMovies = getExistingMoviesYTuri();
 
 	private CacheRepository cache = new CacheRepository();
 
 	public void start() {
 		BasicConfigurator.configure();
-		List<Movie> movies = parseAllPages("https://www.reddit.com/r/fullmoviesonyoutube/?count=275&after=t3_5e419e");
+		List<Movie> movies = parseAllPages("https://www.reddit.com/r/fullmoviesonyoutube/?count=775&after=t3_540ywu");
 		Iterator<Movie> iterator = movies.iterator();
 		while (iterator.hasNext()) {
 			if (existingMovies.contains(iterator.next().getYoutubeId()))
@@ -58,7 +58,7 @@ public class RedditParser {
 		return ret;
 	}
 
-	private static List<Movie> getExistingMovies() {
+	public static List<Movie> getExistingMovies() {
 		List<Movie> movies = new ArrayList<Movie>();
 
 		try (BufferedReader br = new BufferedReader(new FileReader("myfile.txt"))) {

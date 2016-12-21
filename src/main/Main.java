@@ -1,7 +1,9 @@
 package main;
 
+import java.awt.image.RenderedImage;
 import java.io.BufferedInputStream;
 import java.io.ByteArrayOutputStream;
+import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.net.HttpURLConnection;
@@ -12,9 +14,11 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.imageio.ImageIO;
+
 import org.apache.log4j.Logger;
 
-import main.parsers.RedditParser;
+import main.parsers.SubsceneSubsParser;
 
 public class Main {
 
@@ -33,18 +37,21 @@ public class Main {
 
 	public static void main(String[] args) throws Exception {
 
-		// String movieName = "Test8";
-		// String releaseYear = "1997";
-		// String youtubeLink = "https://www.youtube.com/watch?v=esWeD7MxpEU";
+		String movieName = "blair witch";
+		String releaseYear = "2016";
+		String youtubeLink = "https://www.youtube.com/watch?v=esWeD7MxpEU";
 		// YTSubsParser ytParser = new YTSubsParser();
 		// SubtitleFile ytSubtitleFile = ytParser.getSubtitles(movieName,
 		// youtubeLink);
-		RedditParser reddirParser = new RedditParser();
-		reddirParser.start();
-		// SubsceneSubsParser subsceneParser = new SubsceneSubsParser();
-		// List<SubtitleFile> subtitlesList =
-		// subsceneParser.getSubtitles(movieName, releaseYear);
-		//// System.out.println(subtitlesList);
+
+		// RedditParser reddirParser = new RedditParser();
+		// reddirParser.start();
+
+		// downloadYtPictures(RedditParser.getExistingMovies());
+
+		SubsceneSubsParser subsceneParser = new SubsceneSubsParser();
+		List<SubtitleFile> subtitlesList = subsceneParser.getSubtitles(movieName, releaseYear);
+		System.out.println(subtitlesList);
 		// int i = 0;
 		//
 		// for (SubtitleFile subtitleFile : subtitlesList) {
@@ -69,6 +76,21 @@ public class Main {
 
 	}
 
+	private static void downloadYtPictures(List<Movie> list) {
+		for (Movie movie : list) {
+			try {
+				RenderedImage image = null;
+				URL url = new URL("https://img.youtube.com/vi/" + movie.getYoutubeId() + "/hqdefault.jpg");
+				image = ImageIO.read(url);
+
+				File file = new File("images/" + movie.getYoutubeId() + ".jpg");
+				ImageIO.write(image, "jpg", file);
+			} catch (IOException e) {
+				System.out.println(e);
+			}
+		}
+	}
+
 	public static List<Movie> downloadSubs(List<Movie> movies) {
 		CacheRepository cacheRepository = new CacheRepository();
 		List<Movie> ret = new ArrayList<Movie>();
@@ -90,6 +112,7 @@ public class Main {
 				}
 			} catch (IOException | InterruptedException e) {
 				System.out.println("Did not download subs for movie: " + movie.getName());
+				cacheRepository.insert("noSubsForThisVideo#" + movie.getYoutubeId(), "y");
 			}
 		}
 		return ret;
