@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ec9a167-8ea0-4581-8c41-7e9905ec164e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_lingala_zip4j_zip4j_1_3_2.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.ltk.core.refactoring.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bundle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bundle_ca.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bundle_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bundle_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bundle_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bundle_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bundle_zh_HanS.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Bundle_zh_HanT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/Changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/Google2SRT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/LICENSE-Apache_Commons_IO.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/LICENSE-JDOM.TXT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/LICENSE.TXT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/README.TXT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/_index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/download.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/help.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/screenshots.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/download.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/help.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/screenshots.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/download.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/help.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/screenshots.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/img/batch.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/img/ca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/img/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/img/en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/img/es.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/img/it.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/img/jar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/img/pt-br.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/img/screenshot1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/img/screenshot1_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/img/screenshot2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/img/screenshot2_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/img/sh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/download.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/help.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/screenshots.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/download.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/help.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/screenshots.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/lib/commons-io-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/lib/jdom.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/run.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/run.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Bundle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Bundle_ca.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Bundle_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Bundle_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Bundle_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Bundle_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Bundle_zh_HanS.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Bundle_zh_HanT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Common.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Converter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/GUI.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/GUI.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/NetSubtitle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Network.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/SRTFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/TableModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/XMLFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/ca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/es.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/it.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/pt_BR.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/zh_HanS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/zh_HanT.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/META-INF/persistence.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Test5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Test6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Test8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Bundle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Bundle_ca.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Bundle_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Bundle_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Bundle_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Bundle_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Bundle_zh_HanS.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Bundle_zh_HanT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Bundle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Bundle_ca.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Bundle_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Bundle_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Bundle_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Bundle_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Bundle_zh_HanS.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Bundle_zh_HanT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Common.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Converter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/GUI$tIdioma.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/GUI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/GUI.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/NetSubtitle$Method.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/NetSubtitle$Tipus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/NetSubtitle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Network$HostNoGV.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Network$InvalidDocId.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Network$NoDocId.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Network$NoQuery.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Network$NoSubs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Network$NoYouTubeParamV.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/Network.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/SRTFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/TableModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/XMLFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/ca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/es.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/it.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/pt_BR.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/zh_HanS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/google2srt/zh_HanT.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/Bundle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/Bundle_ca.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/Bundle_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/Bundle_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/Bundle_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/Bundle_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/Bundle_zh_HanS.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/Bundle_zh_HanT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/Movie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/OpenSubtitlesParser$GenericExtFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/OpenSubtitlesParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/RedditParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/SubsceneSubsParser$GenericExtFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/SubsceneSubsParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/Subtitle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/SubtitleFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/SubtitleToMove.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/SubtitlesUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/TwoSimiliarSubtitle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/Utils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/main/YTSubsParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/-021Y09VK5g.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/-6lEvmumQT4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/-95c4y1iBPM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/-AL3TJBVaTg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/-SP4iii_THQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/-_dh0Rpl5KQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/-c2wtqAfQlQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0Hm9QCfkWnY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0WXZZjjWvX0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0hKj1Vk9OwA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/0tIvoGpznyM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/14Mfmn7vN4g.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/222A7yrRWSk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/2QhZy-Xf07U.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/2dToRPHzL3A.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/2jl5NKxjeSM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/2w12OrANH34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/3K1DKuYwCF8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/3PGY962mLbk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/4DsjLyOZXl0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/4OSSSp1qKQE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/4c9PORUcW1I.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/5Wau72wKhrk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/5y1baaLRx0c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/6KsysHdGrsM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/6Qb-AYqkNUE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/79zNYimqYgo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/7ZvAxj78Ifo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/873FfF-Wyeg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/8LYxO_LKYq0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/8PxmIW-X0Kk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/8VHca68YuJI.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/8dgosa7wkfY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/8jYeXur7PvQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/8yPlXcSLOOo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/9-V_zYaVAFY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/9Yn9q25NWAw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/9ePwEn5yFLY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/9gOLWijUUt8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ATAd4YUBrAE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/AoiLlwH_YD0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/B9pHNwTyh7o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/BGIik2H3eto.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/BMMZQsYpdHM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/BsSuuE-5SDY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/DdTHg4SQNGE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/DyOolResmEk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/E5zA-j5WZUQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/FGqHNU-LElM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/FeIyp622i3s.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Fxl2U5DSz9w.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/GVsddgwHi40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/GbB_D4MbkF0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/GlFtMxG6mnY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/HBErRh-1CFk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/HL2H8jagor8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/HQIRmimwLCo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/HqRcAv6I1WA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Hr9MVhVKMsY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/I-N_bmJiO2w.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/I2ul_vgEl6U.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ItUojuPbaiI.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/LdSdahQu7iE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/LgHIsoGEFSg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/M2EdYGSk1VE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/M5wJw3MvwaY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/MABZpflS-qE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/MUpLDZ47VA4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/MmQqpEy96r4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/MyrVANQu65I.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NJrqFzRcnic.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NZzHljr2OKM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NnaUeQe1m5c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/O-LZI2bfzU0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/PCblCImmgu8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/PQveLvg1ucE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/PaHbACoYNSA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Pb51aSiwUEA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Q2dgRqJSkCk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/RtOmdPvZ4Xk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/RwY6ZNmV1OU.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/SPcYkxmhGs0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/S_ZXsUZvEZw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Srio6FiGNvo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/TCMume4osgE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/TGRDYpCmMcM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/TpUjaxZL04w.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/U2V8Tqg9tIA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/UZrQQg7Lioo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/VPpTdz391jY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/VVisd9ihWv0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/VdYMFb86Aqs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/VnqgCQ7Uk8g.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/W84ryswwe3I.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/WCqR7n4N9HM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/WRBHGj78_wc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/XziLNeFm1ok.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/YItwF9hVhk4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Yepvi55U4Bc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/YpriPJnBByQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Zsqaab-unLs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Zwh7faRvwiA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ZzyYzK94UU4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_5HgtuCNCfc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_gdVxkrfF0w.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_mMbrHXjXlo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_oKrd9YHgPU.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/a-o5Yzl5gBY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/aG7i8CYA6uU.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/alUFKzUuudI.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bFEjhWJfYp8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bLTFr_KqVLE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bNa6jZ5mPVM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bTMRwneqKzs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bbjOShe8dtY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cHltWy2BmVQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ddHfau_ONSw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/dkA8JR2p_tQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/eD0x2oLq2zQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/elL1Bz_q88A.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fCZBnUt6rZ0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fbinlUiPYtM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fbjnw1mMATA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fc-P8Kyvnz4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fnENewgrCzM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gLAMlTFUeeQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/hUkVcd7SbTw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/hXM-g-UAJiA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/i-71Ohcw-yc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/i-cNZ5u7wpE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/i7sywjzOohs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/iDYpRhoZqBY.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/iVbnt4vQE6w.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/isuY3Xg3Th4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/j1kCSsR3em0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jbPRSW1Ft1o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jhprqMss_7s.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/jlw2CFiSCgc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/kMZ33cbDP9c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ka8HZcnxFp4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/lQNxVoMlsCE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/lZvKrIYv6wk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/m6f_2wQRD74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mEhfJQfRva8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/milbW4RDIco.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/mogDhH76FeE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/p4OJl6gujCw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/rM3W_LzcsHo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/rUsO0uxsrrg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/rhoIW5B3NAg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/rwpL0KX_BxI.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/s54sLlRNmHc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sTRzpRTJn-o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sa42pxJyq64.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sm8Ll1dmoDk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/uo65INjv5s0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ut-hn7sFieE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/uvyD3I1dwNs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/uwaSM8NAD7A.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/uxAHYSIoT-I.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vQvPCVE2b_s.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vdl5XCKzPWk.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vgRMteY-o0k.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vtvJWKaDI9s.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/w2Fd_f1epgo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/wc4R3SOif0g.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/who5T9K5320.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/wkPHeRoB-OA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/wq5Ifor-NCA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ww60AmXXhBc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/x7bGOa9x9M4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/xD0fgwzZPIc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/xaFTZRTDOJ8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/xnGHJ7VlYYc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/xs84E9XXRkA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/y4HZjON6YgM.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/y4kdKdibTMQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/y97Ywl7RtUw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/yS37kyfnGy4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/yTjOMcA6RCc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/yYl4ejS6xko.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/yZfe6QUJihw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/yj0DHTiE0lA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/yjLWrxRlmXE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/z4zTisrdBxI.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/zZ3WS4JoTLU.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/zai5vEiReGw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jsoup-1.8.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myfile.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/CHANGELOG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/NOTICE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/apache-mime4j-0.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/bsh-2.0b4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/cglib-nodep-2.1_3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/commons-codec-1.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/commons-exec-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/commons-io-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/commons-logging-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/gson-2.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/guava-19.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/hamcrest-core-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/hamcrest-library-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/httpclient-4.5.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/httpcore-4.4.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/httpmime-4.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/jcommander-1.48.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/jna-4.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/jna-platform-4.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/junit-4.12.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/netty-3.5.7.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/phantomjsdriver-1.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/libs/testng-6.9.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/selenium-java-2.53.0-srcs.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/selenium-2.53.0/selenium-java-2.53.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Bundle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Bundle_ca.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Bundle_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Bundle_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Bundle_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Bundle_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Bundle_zh_HanS.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Bundle_zh_HanT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_ca.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_zh_HanS.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_zh_HanT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/Common.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/Converter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/GUI.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/GUI.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/NetSubtitle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/Network.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/SRTFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/TableModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/XMLFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/ca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/es.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/it.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/pt_BR.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/zh_HanS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/zh_HanT.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Bundle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Bundle_ca.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Bundle_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Bundle_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Bundle_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Bundle_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Bundle_zh_HanS.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Bundle_zh_HanT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Cache.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/CacheRepository.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/CacheRowMapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Movie.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Subtitle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/SubtitleFile.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/SubtitleToMove.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/SubtitlesUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/TwoSimiliarSubtitle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/Utils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/parsers/OpenSubtitlesParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/parsers/RedditParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/parsers/YTSubsParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/file.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/subscene/Starship+Troopers/Starship.Troopers.1997.1080p.BluRay.H264.AAC-RARBG.srt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/subscene/blair+witch/Blair.Witch.2016.1080p.BluRay.H264.AAC-RARBG.srt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/subscene/blair+witch/Blair.Witch.2016.720p.BluRay.x264-Replica.HI.srt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/subscene/blair+witch/Blair.Witch.2016.720p.BluRay.x264-Replica.srt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/subscene/home+alone/Home.Alone.1990.REMASTERED.720p.BluRay.X264-AMIABLE.srt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/subscene/temp/blair-witch/english/1469757.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/subscene/temp/blair-witch/english/1469781.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/subscene/temp/blair-witch/english/1469782.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/subscene/temp/home-alone/english/1202727.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/subscene/temp/home-alone/english/968950.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/subscene/temp/starship-troopers/english/1273566.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-021Y09VK5g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-6lEvmumQT4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-95c4y1iBPM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-SP4iii_THQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-_dh0Rpl5KQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-c2wtqAfQlQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0Hm9QCfkWnY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0RC_hoVg6pQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0WXZZjjWvX0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0hKj1Vk9OwA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0tIvoGpznyM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/14Mfmn7vN4g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/1kcU2HxmeMY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/222A7yrRWSk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/2QhZy-Xf07U" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/2jl5NKxjeSM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/2w12OrANH34" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/3PGY962mLbk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/4DsjLyOZXl0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/4OSSSp1qKQE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/4c9PORUcW1I" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/5Wau72wKhrk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/5y1baaLRx0c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/6KsysHdGrsM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/79zNYimqYgo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/7ZvAxj78Ifo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/873FfF-Wyeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8LYxO_LKYq0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8PxmIW-X0Kk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8VHca68YuJI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8dgosa7wkfY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8jYeXur7PvQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8yPlXcSLOOo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/9-V_zYaVAFY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/9Yn9q25NWAw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/9ePwEn5yFLY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/9gOLWijUUt8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ATAd4YUBrAE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/AoiLlwH_YD0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/B9pHNwTyh7o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/BGIik2H3eto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/BMMZQsYpdHM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/BijV29_1eAA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/BsSuuE-5SDY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/DCbekHrQNYU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/DdTHg4SQNGE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/DyOolResmEk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/E5zA-j5WZUQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/FGqHNU-LElM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/FeIyp622i3s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Fxl2U5DSz9w" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/GVsddgwHi40" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/GbB_D4MbkF0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/GlFtMxG6mnY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/HBErRh-1CFk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/HQIRmimwLCo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/HqRcAv6I1WA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Hr9MVhVKMsY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/I-N_bmJiO2w" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/I2ul_vgEl6U" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Ipo86q8C-80" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ItUojuPbaiI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/LdSdahQu7iE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/LgHIsoGEFSg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/M2EdYGSk1VE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/M5wJw3MvwaY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/MABZpflS-qE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/MUpLDZ47VA4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/MmQqpEy96r4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/MyrVANQu65I" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/NJrqFzRcnic" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/NZzHljr2OKM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/NnaUeQe1m5c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/O-LZI2bfzU0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/PCblCImmgu8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/PQveLvg1ucE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/PaHbACoYNSA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Pb51aSiwUEA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Q2dgRqJSkCk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/RtOmdPvZ4Xk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/RwY6ZNmV1OU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/SPcYkxmhGs0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/S_ZXsUZvEZw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Srio6FiGNvo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/TCMume4osgE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/TGRDYpCmMcM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/TpUjaxZL04w" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/U2V8Tqg9tIA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/UZrQQg7Lioo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Ub9KKOCBeH8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/VPpTdz391jY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/VdYMFb86Aqs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/VnqgCQ7Uk8g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/W84ryswwe3I" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/WCqR7n4N9HM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/WRBHGj78_wc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/XziLNeFm1ok" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/YItwF9hVhk4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Yepvi55U4Bc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/YpriPJnBByQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/YtMMQ5a869Y" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Zsqaab-unLs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Zwh7faRvwiA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ZzyYzK94UU4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/_5HgtuCNCfc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/_gdVxkrfF0w" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/_mMbrHXjXlo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/_oKrd9YHgPU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/a-o5Yzl5gBY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/aG7i8CYA6uU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/aWoplbv2KMY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/alUFKzUuudI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bFEjhWJfYp8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bLTFr_KqVLE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bNa6jZ5mPVM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bTMRwneqKzs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bbjOShe8dtY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/cHltWy2BmVQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ddHfau_ONSw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/dkA8JR2p_tQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/eD0x2oLq2zQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/eQWNhiJMUvU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/elL1Bz_q88A" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fCZBnUt6rZ0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fbinlUiPYtM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fbjnw1mMATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fc-P8Kyvnz4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fnENewgrCzM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/gJ5Vrc4lJmQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/hUkVcd7SbTw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/hXM-g-UAJiA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/i-71Ohcw-yc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/i-cNZ5u7wpE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/i7sywjzOohs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/iDYpRhoZqBY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/iVbnt4vQE6w" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/j1kCSsR3em0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/jbPRSW1Ft1o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/jhprqMss_7s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/jlw2CFiSCgc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/kATwZpPgK-w" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/kMZ33cbDP9c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ka8HZcnxFp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/lQNxVoMlsCE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/lZvKrIYv6wk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/mEhfJQfRva8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/milbW4RDIco" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/mogDhH76FeE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/rHOOVb6XDkI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/rM3W_LzcsHo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/rUsO0uxsrrg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/rwpL0KX_BxI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/s54sLlRNmHc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/s9S7psudRFk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/sTRzpRTJn-o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/sa42pxJyq64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/sm8Ll1dmoDk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/uo65INjv5s0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ut-hn7sFieE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/uvyD3I1dwNs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/uwaSM8NAD7A" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/uxAHYSIoT-I" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/vQvPCVE2b_s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/vdl5XCKzPWk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/vgRMteY-o0k" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/vtvJWKaDI9s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/w2Fd_f1epgo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/wc4R3SOif0g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/who5T9K5320" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/wkPHeRoB-OA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/wq5Ifor-NCA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ww60AmXXhBc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/x7bGOa9x9M4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/xD0fgwzZPIc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/xaFTZRTDOJ8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/xnGHJ7VlYYc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/xs84E9XXRkA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/y4HZjON6YgM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/y4kdKdibTMQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/y97Ywl7RtUw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yS37kyfnGy4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yYl4ejS6xko" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yZfe6QUJihw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yj0DHTiE0lA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yjLWrxRlmXE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/z4zTisrdBxI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/zZ3WS4JoTLU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/zai5vEiReGw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles:youtube:_o9zeGbkjKk8_0_en.srt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles:youtube_o9zeGbkjKk8_0_en.srt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Bundle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Bundle_ca.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Bundle_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Bundle_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Bundle_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Bundle_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Bundle_zh_HanS.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Bundle_zh_HanT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_ca.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_zh_HanS.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_zh_HanT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Common.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Converter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/GUI$tIdioma.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/GUI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/GUI.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$Method.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$Tipus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$HostNoGV.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$InvalidDocId.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$NoDocId.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$NoQuery.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$NoSubs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$NoYouTubeParamV.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/SRTFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/TableModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/XMLFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/ca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/es.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/it.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/pt_BR.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/zh_HanS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/zh_HanT.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Bundle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Bundle_ca.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Bundle_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Bundle_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Bundle_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Bundle_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Bundle_zh_HanS.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Bundle_zh_HanT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Cache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/CacheRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/CacheRowMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Movie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Subtitle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/SubtitleFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/SubtitleToMove.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/SubtitlesUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/TwoSimiliarSubtitle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/Utils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/parsers/OpenSubtitlesParser$GenericExtFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/parsers/OpenSubtitlesParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/parsers/RedditParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/parsers/SubsceneSubsParser$GenericExtFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/parsers/SubsceneSubsParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/parsers/YTSubsParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ytsubs_o9zeGbkjKk8_0_en.srt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zip4j_1.3.2.jar" afterPath="" />
+    </list>
+    <ignored path="main.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="main" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="63" column="53" selection-start-line="63" selection-start-column="53" selection-end-line="63" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubtitlesUtils.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/SubtitlesUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+              <folding>
+                <element signature="e#5630#5651#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoSimiliarSubtitle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/TwoSimiliarSubtitle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Subtitle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Subtitle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubtitleFile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/SubtitleFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+              <folding>
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YTSubsParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/parsers/YTSubsParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OpenSubtitlesParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/parsers/OpenSubtitlesParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubsceneSubsParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/parsers/YTSubsParser.java" />
+        <option value="$PROJECT_DIR$/src/main/SubtitleFile.java" />
+        <option value="$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java" />
+        <option value="$PROJECT_DIR$/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/SubtitlesUtils.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1552" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subtitles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subtitles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subscene" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SubtitlesUtils.testCheckIfSimiliar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="main" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.SubtitlesUtils" />
+      <option name="METHOD_NAME" value="testCheckIfSimiliar" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SubtitlesUtils.testCheckIfSimiliar" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SubtitlesUtils.testCheckIfSimiliar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ec9a167-8ea0-4581-8c41-7e9905ec164e" name="Default" comment="" />
+      <created>1482403174268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1482403174268</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SubtitlesUtils_testCheckIfSimiliar - 2016.12.26 at 01h 26m 14s.xml">
+      <configuration name="SubtitlesUtils.testCheckIfSimiliar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubtitlesUtils_testCheckIfSimiliar - 2016.12.26 at 01h 26m 30s.xml">
+      <configuration name="SubtitlesUtils.testCheckIfSimiliar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubtitlesUtils_testCheckIfSimiliar - 2016.12.26 at 01h 27m 35s.xml">
+      <configuration name="SubtitlesUtils.testCheckIfSimiliar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubtitlesUtils_testCheckIfSimiliar - 2016.12.26 at 01h 27m 50s.xml">
+      <configuration name="SubtitlesUtils.testCheckIfSimiliar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubtitlesUtils_testCheckIfSimiliar - 2016.12.26 at 01h 29m 09s.xml">
+      <configuration name="SubtitlesUtils.testCheckIfSimiliar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubtitlesUtils_testCheckIfSimiliar - 2016.12.26 at 01h 30m 04s.xml">
+      <configuration name="SubtitlesUtils.testCheckIfSimiliar" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19638069" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4002829" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/SubtitlesUtils.java</url>
+          <line>155</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/SubtitlesUtils.java</url>
+          <line>217</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/SubtitlesUtils.java</url>
+          <line>319</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="43" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/5y1baaLRx0c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/5y1baaLRx0c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/parsers/OpenSubtitlesParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/parsers/YTSubsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/SubtitleFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Subtitle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/TwoSimiliarSubtitle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="63" column="53" selection-start-line="63" selection-start-column="53" selection-end-line="63" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/SubtitlesUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+          <folding>
+            <element signature="e#5630#5651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

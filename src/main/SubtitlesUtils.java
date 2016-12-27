@@ -1,6 +1,11 @@
 package main;
 
+import org.apache.commons.exec.util.StringUtils;
+import org.jsoup.Jsoup;
+import org.junit.Test;
+
 import static java.lang.Math.abs;
+import static org.junit.Assert.assertNotNull;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -18,9 +23,6 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Set;
-import java.util.Vector;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class SubtitlesUtils {
 
@@ -38,7 +40,7 @@ public class SubtitlesUtils {
 				sub.start = startEnd[0];
 				sub.end = startEnd[1];
 				while ((line = reader.readLine()) != null && !line.isEmpty()) {
-					sub.text = sub.text + " " + line;
+					sub.text = sub.text + " " + Jsoup.parse(line).text();
 				}
 				// System.out.println();
 				subtitles.add(sub);
@@ -150,6 +152,7 @@ public class SubtitlesUtils {
 
 		List<TwoSimiliarSubtitle> similiarSubtitlesList = findSimiliarSubtitles(subs, ySubs);
 
+		System.out.println("Similiar subtitles count: " + similiarSubtitlesList.size());
 		int indDiffSum = 0;
 		
 		System.out.println("\n\ndifferences:\n");
@@ -181,7 +184,7 @@ public class SubtitlesUtils {
 		}
 		
 		System.out.println(foundCount);				
-		return sum / similiarSubtitlesList.size();
+		return similiarSubtitlesList.size() > 0 ? (sum / similiarSubtitlesList.size()) : Integer.MAX_VALUE;
 
 		// mostFrequent(startAndEndsMilli);
 		// moveSubtitles(subsToMove, subs);
@@ -193,10 +196,7 @@ public class SubtitlesUtils {
 
 		List<TwoSimiliarSubtitle> ret = new ArrayList<TwoSimiliarSubtitle>();
 
-		final int SUBS_INDEXES_DISTANCE = 20;
-		final int MIN_SUB_WORD_COUNT = 5;
-		final int MIN_IDENTICAL_WORDS_COUNT = 6;
-		final int MIN_WORD_LENGTH = 3;
+		final int SUBS_INDEXES_DISTANCE = 3;
 
 		System.out.println("i: " + subs.size());
 		System.out.println("y: " + ySubs.size());
@@ -206,39 +206,23 @@ public class SubtitlesUtils {
 		
 		
 		aa: for (int i = SUBS_INDEXES_DISTANCE; i < subs.size(); i++) {
+
 			if(i > biggestI)
 				biggestI = i;
+
 			for (int y = i - SUBS_INDEXES_DISTANCE; (y < i + SUBS_INDEXES_DISTANCE) && y < ySubs.size(); y++) {
+
 				if(y > biggestY)
 					biggestY = y;
+
 				Subtitle ytSubtitle = ySubs.get(y);
 				Subtitle subtitle = subs.get(i);
 
-				String[] ytSubWords = ytSubtitle.text.trim().replaceAll("[^a-zA-Z ']+", "").split("[ ]+");
-				String[] subWords = subtitle.text.trim().replaceAll("[^a-zA-Z ']+", "").split("[ ]+");
-
-				int ytSubWordCount = ytSubWords.length;
-				int subWordCount = subWords.length;
-				
-				if (subWordCount < MIN_SUB_WORD_COUNT)
-					continue aa;
-				if(ytSubWordCount < MIN_SUB_WORD_COUNT)
-					continue;				
-				if(subtitle.text.split(" ").length != ytSubtitle.text.split(" ").length)
-					continue;
-
-				List<String> ytSubWordsList = removeWordsShorterThan(MIN_WORD_LENGTH, ytSubWords);
-				List<String> subWordsList = removeWordsShorterThan(MIN_WORD_LENGTH, subWords);
-				
-				int identicalWordsCount = calculateCountOfSameWords(ytSubWordsList, subWordsList);
-
-				if (identicalWordsCount > MIN_IDENTICAL_WORDS_COUNT && (subWordsList.size() == identicalWordsCount || ytSubWordsList.size() == identicalWordsCount)) {
-					TwoSimiliarSubtitle twoSimiliarSubtitle = new TwoSimiliarSubtitle(identicalWordsCount, i, y,
-							subtitle, ytSubtitle);
-					ret.add(twoSimiliarSubtitle);
+				TwoSimiliarSubtitle x = checkIfSimiliar(ytSubtitle, subtitle, i , y);
+				if (x != null) {
+					ret.add(x);
 					break;
 				}
-					
 			}
 			
 		}
@@ -246,6 +230,50 @@ public class SubtitlesUtils {
 		 System.out.println("biggestY: " + biggestY);
 		 
 		return ret;
+	}
+
+	@Test
+	public void testCheckIfSimiliar()
+	{
+		Subtitle subtitle = new Subtitle();
+		subtitle.text = "I wish I could say the same.";
+
+		Subtitle ytSubtitle = new Subtitle();
+		ytSubtitle.text = "I wish I could say the same";
+
+		assertNotNull(checkIfSimiliar(ytSubtitle, subtitle, 5, 5));
+	}
+
+	public static TwoSimiliarSubtitle checkIfSimiliar(Subtitle ytSubtitle, Subtitle subtitle, int i, int y) {
+		final int MIN_SUB_WORD_COUNT = 3;
+		final int MIN_IDENTICAL_WORDS_COUNT = 3;
+		final int MIN_WORD_LENGTH = 3;
+
+		String[] ytSubWords = ytSubtitle.text.trim().replaceAll("[^a-zA-Z ']+", "").split("[ ]+");
+		String[] subWords = subtitle.text.trim().replaceAll("[^a-zA-Z ']+", "").split("[ ]+");
+
+		int ytSubWordCount = ytSubWords.length;
+		int subWordCount = subWords.length;
+
+		if (subWordCount < MIN_SUB_WORD_COUNT)
+            return null;
+		if(ytSubWordCount < MIN_SUB_WORD_COUNT)
+            return null;
+//				if(subtitle.text.split(" ").length != ytSubtitle.text.split(" ").length)
+//					continue;
+
+		List<String> ytSubWordsList = removeWordsShorterThan(MIN_WORD_LENGTH, ytSubWords);
+		List<String> subWordsList = removeWordsShorterThan(MIN_WORD_LENGTH, subWords);
+
+		int identicalWordsCount = calculateCountOfSameWords(ytSubWordsList, subWordsList);
+
+//				if (identicalWordsCount > MIN_IDENTICAL_WORDS_COUNT && (subWordsList.size() == identicalWordsCount || ytSubWordsList.size() == identicalWordsCount)) {
+		if (identicalWordsCount >= MIN_IDENTICAL_WORDS_COUNT) {
+            TwoSimiliarSubtitle twoSimiliarSubtitle = new TwoSimiliarSubtitle(identicalWordsCount, i, y,
+                    subtitle, ytSubtitle);
+            return twoSimiliarSubtitle;
+        }
+		return null;
 	}
 
 	private static List<String> removeWordsShorterThan(final int MIN_WORD_LENGTH, String[] ytSubWords) {

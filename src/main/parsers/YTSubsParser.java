@@ -12,12 +12,7 @@ import java.io.Writer;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.List;
-import java.util.Vector;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -25,17 +20,16 @@ import google2srt.GUI;
 import main.Subtitle;
 import main.SubtitleFile;
 import main.SubtitlesUtils;
-import main.Utils;
 
 public class YTSubsParser {
 
-	private final String outputFolder = "subtitles" + File.separator + "youtube" + File.separator;
+	public static final String OUTPUT_FOLDER = "subtitles" + File.separator + "youtube" + File.separator;
 
 	public SubtitleFile getSubtitles(String title, String ytMovieURL) throws MalformedURLException, IOException {
 
 		try {
 
-			String subtitlesDestinationFolder = this.outputFolder + title.replaceAll("[ ]+", "-") + File.separator;
+			String subtitlesDestinationFolder = this.OUTPUT_FOLDER + title.replaceAll("[ ]+", "-") + File.separator;
 
 			System.out.println("subtitles destination folder" + subtitlesDestinationFolder);
 			main.Utils.createFolderAndMissingDirectoriesToIt(subtitlesDestinationFolder);

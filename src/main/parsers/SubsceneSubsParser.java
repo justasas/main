@@ -11,10 +11,7 @@ import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -30,7 +27,7 @@ public class SubsceneSubsParser {
 
 	private final String SUBSCENE_URL = "https://subscene.com";
 	private final String SUBTITLES_FOLDER = "subtitles/subscene/";
-	private final int MAXIMUM_MOVIES_TO_CHECK = 1;
+	private final int MAXIMUM_MOVIES_TO_CHECK = 3;
 	private final int MAXIMUM_SUBTITLES_TO_DOWNLOAD_FOR_A_MOVIE = 3;
 
 	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
@@ -42,9 +39,9 @@ public class SubsceneSubsParser {
 	private static final String USER_AGENT = "Mozilla/5.0 (X11; U; Linux i686) Gecko/20071127 Firefox/2.0.0.11";
 	public final static String TEMP_SUBTITLES_FOLDER = "subtitles/subscene/temp/";
 
-	public List<SubtitleFile> getSubtitles(String title, String releaseYear) {
+	public Set<SubtitleFile> getSubtitles(String title, String releaseYear) {
 
-		List<SubtitleFile> ret = new ArrayList<>();
+		Set<SubtitleFile> ret = new HashSet<>();
 
 		try {
 
