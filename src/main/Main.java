@@ -35,8 +35,8 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
 
-        String movieName = "Legend of The Drunken Master";
-        String releaseYear = "1994";
+        String movieName = "Hobgoblins";
+        String releaseYear = "";
 //		String youtubeLink = "https://www.youtube.com/watch?v=4OSSSp1qKQE";
 //		 YTSubsParser ytParser = new YTSubsParser();
 //		 SubtitleFile ytSubtitleFile = ytParser.getSubtitles(movieName,
@@ -47,9 +47,9 @@ public class Main {
 
         // downloadYtPictures(RedditParser.getExistingMovies());
         BufferedReader reader = new BufferedReader(
-                new FileReader(YTSubsParser.OUTPUT_FOLDER + "4OSSSp1qKQE"));
-
-        SubtitleFile ytSubtitleFile = new SubtitleFile(SubtitlesUtils.parseSubtitles(reader), "4OSSSp1qKQE");
+                new FileReader(YTSubsParser.OUTPUT_FOLDER + "B9pHNwTyh7o"));
+        //4OSSSp1qKQE
+        SubtitleFile ytSubtitleFile = new SubtitleFile(SubtitlesUtils.parseSubtitles(reader), "B9pHNwTyh7o");
 
 
 
@@ -59,7 +59,7 @@ public class Main {
          int i = 0;
 
         for (SubtitleFile subtitleFile : subtitlesList) {
-            if(i++ == 1) {
+            if(i++ == 0) {
                 int avarageTimesDiff =
                         SubtitlesUtils.findAvarageTimesDiff(subtitleFile.subtitles,
                                 ytSubtitleFile.subtitles);
