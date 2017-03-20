@@ -2,10 +2,436 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ec9a167-8ea0-4581-8c41-7e9905ec164e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/OSCARS.2016.The.88th.Annual.Academy.Awards.(Eng.Subs).SDTV.x264-[2Maverick].srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/the.88th.annual.academy.awards.2016.720p.hdtv.x264-c4tv-resynced.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/the.88th.annual.academy.awards.2016.720p.hdtv.x264-c4tv.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Ghost+Cat++2003+++360p+/Affair for 3 (2003) Affaere zu dritt.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/affre-zu-dritt-2003/english/617035.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/cuckoo-third-season-2016/english/1291345.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/cuckoo-third-season-2016/english/1291346.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/cuckoo-third-season-2016/english/1296268.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/cuckoo-third-season-2016/english/1369738.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/entertainment-weekly-2016/english/1302221.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1267476.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1267477.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1279612.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1284497.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1284498.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1289092.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1289093.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1295104.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1297533.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1297550.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/imax-coral-reef-adventure-2003/english/1515668.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293525.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293526.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293527.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293529.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293530.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293531.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293532.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293560.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/los-angeles-plays-itself-2003/english/1213836.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-88th-annual-academy-awards-the-oscars-2016/english/1286776.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-88th-annual-academy-awards-the-oscars-2016/english/1286914.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-88th-annual-academy-awards-the-oscars-2016/english/1287115.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-88th-annual-academy-awards-the-oscars-2016/english/1290424.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srt/Controller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srt/Settings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srt/SupportedFileTypesFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srt/TXTFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srt/Video.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srtOLD/Common.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srtOLD/Converter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srtOLD/GUI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srtOLD/NetSubtitle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srtOLD/SRTFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srtOLD/XMLFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/SubtitlesCommon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/youtube/downloaders/CCsubs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/youtube/downloaders/Google2SRTDownloader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/youtube/downloaders/YoutubeSubsDownloader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x01 - Birth..srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x01 - Birth.WEBRip.hi.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x02 - The Application..srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x02 - The Application.hi.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x03 - Mums Group (2).srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x03 - Mums Group .hi.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x04 - Life of Dale..srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x04 - Life of Dale.hi.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x05 - University Challenged.-WEBRip C4TV &amp; RED.English.C.orig.Addic7ed.com.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x05 - University Challenged..srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x06 - Mother's Day..srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x07 - GED Prom..srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x07 - GED Prom.hi.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x08 - Viva la Joy..srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x08 - Viva la Joy.hi.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x09 - Ex-Boyfriend.hi.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x10 - Finale.hi.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x10 - Finale.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E01.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E02.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E03.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E04.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E05.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E06.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E07.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E08.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/S01E01 Pilot.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/S01E02 Book Report.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Ghost+Cat++2003+++360p+/IMAX - Coral Reef Adventure 720p.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Ghost+Cat++2003+++360p+/Los Angeles Plays Itself 2003 1080p Blu-ray AVC DTS-HD MA 2.0-KESH.EN   (00802.mpls)   23.976.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/&amp;quot;killdozer&amp;quot; (1974 best quality)_1r3y-SRsNPI_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/A parody of the Hound of the Baskervilles 1978 comedy, a detective on the novel by Conan Doyle_GSEhJS7G3QM_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/ADAM GREEN&amp;#39;S ALADDIN - FULL MOVIE (OFFICIAL)_-c2wtqAfQlQ_1__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Admiral (2008) with English subtitles_1pxbSluvT8w_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Alice ou la derniere fugue_MkWCsYLWxqA_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Audie Murphy, Susan Cabot, Paul Kelly  Romance, Western 1953_BtRp8KBJTpU_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/B9pHNwTyh7o_0_en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Battlefield Baseball (2003) eng subs_vdl5XCKzPWk_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/By a Man&amp;#39;s Face Shall You Know Him (1966)_bT60selrWMc_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/C.R.A.Z.Y (2005) BluRay---720p w_ Subs_Q_eAviwptE4_1__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/City Of God 2002 720p Bluray x264 anoXmous_Yy9aKBBczeg_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Crimson Gold [2004] [Jafar Panahi]_f_t58XHpnFU_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Dark Star   John Carpenter Sci Fi 1974 (full movie)_ZyUVhuOWPuY_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Delivery Man 2013 Full Movie_gF1x9oupG14_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Duel (1971)_wFfbDrkGcG4_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Eating Raoul (1982 black comedy)_jbY6QIJJWYg_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Ellen Page (GhostCat) 2003 Full Movie Family Drama Mystery Animal Supernatural_eP98tP7_Zjc_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Fallen Angels _ Ángeles Caídos _ Duo Luo Tian Shi (1995) [Wong Kar-Wai] Eng. &amp;amp; Esp. Subs_nBISX5tQ9tI_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Fan-O-Rama_ A Futurama Fan Film_f-1RMKdWz8M_3__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Fingerface (full movie)_TCMume4osgE_1__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Flyerboy_nwV_KjeHQXs_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Following (1998) Christopher Nolan&amp;#39;s First Movie English Full Movie_Vzq_O6NXykc_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hell Comes To Frogtown_lQNxVoMlsCE_1__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hindi HD Full Movie&amp;quot;Aa Jao Please&amp;quot;(Come Back Please).hindi b grade movie.hot b&amp;#39;grade Film Subtitles_qHfEdCU8q_A_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 15.34.05 EET 2017_B9pHNwTyh7o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 15.47.37 EET 2017_B9pHNwTyh7o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 15.49.45 EET 2017_B9pHNwTyh7o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 15.49.54 EET 2017_B9pHNwTyh7o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 16.29.13 EET 2017_B9pHNwTyh7o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 16.35.05 EET 2017_B9pHNwTyh7o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 16.37.40 EET 2017_B9pHNwTyh7o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 16.38.05 EET 2017_B9pHNwTyh7o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Isle of Destiny 1940 South Seas Pacific Adventure Movie Film_x3xEfGJGdnM_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/KUNG FURY Official Movie [HD]_bS5P_LAqiVg_5__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/La Casa dalle Finestre che Ridono - Film Completo Italiano Horror_who5T9K5320_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/MST3k 508 - Operation Double 007_14Mfmn7vN4g_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/MST3k 524 - 12 to the Moon_itxqtFjT40w_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/MST3k 601 - Girls Town_LG5ttzxRAsE_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Maas (Maari) Telugu Full Movie __ Dhanush, Kajal Agarwal, Anirudh_ka_rE__84Hk_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Mariyan (Maryan) Latest Telugu Full Movie __ 2015 __ Dhanush_i2pXuPUGA34_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/New Horror Thriller Movie 2017 February Full English Film_fU_MFIneCKY_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Nuremberg (2000)_VnqgCQ7Uk8g_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Pink Floyd - The Story of &amp;quot;Wish You Were Here&amp;quot; (2011)_wbM2_-JeDuY_1__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Re-Animator ( 1985 )._GHDudCPLtRs_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Robert Young, Randolph Scott, Dean Jagger,  History, Western ,Movei 1941_t0T604Vx3Xc_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/STAR WARS EP 4_ Laser Moon Awakens_Lu9dUG3_KNA_0_Correct Subtitles_en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Scary Horror Movie in English 2017 Full Thriller Film_yBvOYgQds9w_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Six String Samurai (1998) _ Official Full Movie [subtitles]_oaPP00uNkNI_2__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Star War The Third Gathers_ Backstroke of the West HD (Dubbed)_XziLNeFm1ok_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Submarine (2010)_9gSTFEw0rdU_2__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/TRAILER PARK JESUS ~ (feature comedy full movie) funny English movie ► free movies on youtube_8tfNc8rcVgw_1__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Lionshare (2009)_CZKRdsL6f6I_1__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Pentagon Wars_iDYpRhoZqBY_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Room_8SOf5qLU3dM_1__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/[Horror] The Possession Experiment (2016) [360p]_Mon Mar 20 13.59.13 EET 2017_yBvOYgQds9w" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/_lHHAmSNV-PY_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/_x_HHnXeMWT0_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Город Зеро_MUpLDZ47VA4_1__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Дорога на Берлин_DjHTWMP_T1U_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Зеркало (HD)_9Yn9q25NWAw_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Кин-дза-дза! 1 серия _ Kin-dza-dza! film 1_I47CNxwlt9U_3__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Особенности национальной охоты в зимний период (English subtitles)_WqYaq3sjgYA_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/♪ Roman Holiday (1953) Full Movie_4DsjLyOZXl0_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/《喋血雙雄 》The Killer  (1989)_9ePwEn5yFLY_0__en.srt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/GUI.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/parsers/YTSubsParser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/file.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-021Y09VK5g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-6lEvmumQT4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-95c4y1iBPM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-SP4iii_THQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-_dh0Rpl5KQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-c2wtqAfQlQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0Hm9QCfkWnY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0RC_hoVg6pQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0WXZZjjWvX0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0hKj1Vk9OwA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0tIvoGpznyM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/14Mfmn7vN4g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/1kcU2HxmeMY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/222A7yrRWSk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/2QhZy-Xf07U" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/2jl5NKxjeSM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/2w12OrANH34" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/3PGY962mLbk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/4DsjLyOZXl0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/4OSSSp1qKQE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/4OSSSp1qKQE - Copy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/4OSSSp1qKQE - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/4c9PORUcW1I" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/5Wau72wKhrk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/5y1baaLRx0c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/6KsysHdGrsM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/79zNYimqYgo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/7ZvAxj78Ifo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/873FfF-Wyeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8LYxO_LKYq0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8PxmIW-X0Kk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8VHca68YuJI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8dgosa7wkfY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8jYeXur7PvQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8yPlXcSLOOo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/9-V_zYaVAFY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/9Yn9q25NWAw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/9ePwEn5yFLY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/9gOLWijUUt8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ATAd4YUBrAE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/AoiLlwH_YD0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/B9pHNwTyh7o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/BGIik2H3eto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/BMMZQsYpdHM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/BijV29_1eAA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/BsSuuE-5SDY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/DCbekHrQNYU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/DdTHg4SQNGE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/DyOolResmEk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/E5zA-j5WZUQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/FGqHNU-LElM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/FeIyp622i3s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Fxl2U5DSz9w" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/GVsddgwHi40" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/GbB_D4MbkF0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/GlFtMxG6mnY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/HBErRh-1CFk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/HQIRmimwLCo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/HqRcAv6I1WA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Hr9MVhVKMsY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/I-N_bmJiO2w" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/I2ul_vgEl6U" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Ipo86q8C-80" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ItUojuPbaiI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/LdSdahQu7iE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/LgHIsoGEFSg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/M2EdYGSk1VE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/M5wJw3MvwaY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/MABZpflS-qE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/MUpLDZ47VA4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/MmQqpEy96r4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/MyrVANQu65I" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/NJrqFzRcnic" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/NZzHljr2OKM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/NnaUeQe1m5c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/O-LZI2bfzU0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/PCblCImmgu8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/PQveLvg1ucE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/PaHbACoYNSA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Pb51aSiwUEA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Q2dgRqJSkCk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/RtOmdPvZ4Xk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/RwY6ZNmV1OU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/SPcYkxmhGs0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/S_ZXsUZvEZw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Srio6FiGNvo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/TCMume4osgE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/TGRDYpCmMcM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/TpUjaxZL04w" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/U2V8Tqg9tIA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/UZrQQg7Lioo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Ub9KKOCBeH8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/VPpTdz391jY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/VdYMFb86Aqs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/VnqgCQ7Uk8g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/W84ryswwe3I" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/WCqR7n4N9HM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/WRBHGj78_wc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/XziLNeFm1ok" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/YItwF9hVhk4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Yepvi55U4Bc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/YpriPJnBByQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/YtMMQ5a869Y" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Zsqaab-unLs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Zwh7faRvwiA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ZzyYzK94UU4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/_5HgtuCNCfc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/_gdVxkrfF0w" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/_mMbrHXjXlo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/_oKrd9YHgPU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/a-o5Yzl5gBY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/aG7i8CYA6uU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/aWoplbv2KMY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/alUFKzUuudI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bFEjhWJfYp8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bLTFr_KqVLE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bNa6jZ5mPVM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bTMRwneqKzs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bbjOShe8dtY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/cHltWy2BmVQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ddHfau_ONSw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/dkA8JR2p_tQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/eD0x2oLq2zQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/eQWNhiJMUvU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/elL1Bz_q88A" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fCZBnUt6rZ0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fbinlUiPYtM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fbjnw1mMATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fc-P8Kyvnz4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fnENewgrCzM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/gJ5Vrc4lJmQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/hUkVcd7SbTw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/hXM-g-UAJiA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/i-71Ohcw-yc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/i-cNZ5u7wpE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/i7sywjzOohs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/iDYpRhoZqBY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/iVbnt4vQE6w" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/j1kCSsR3em0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/jbPRSW1Ft1o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/jhprqMss_7s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/jlw2CFiSCgc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/kATwZpPgK-w" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/kMZ33cbDP9c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ka8HZcnxFp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/lQNxVoMlsCE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/lZvKrIYv6wk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/mEhfJQfRva8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/milbW4RDIco" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/mogDhH76FeE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/rHOOVb6XDkI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/rM3W_LzcsHo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/rUsO0uxsrrg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/rwpL0KX_BxI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/s54sLlRNmHc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/s9S7psudRFk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/sTRzpRTJn-o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/sa42pxJyq64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/sm8Ll1dmoDk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/uo65INjv5s0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ut-hn7sFieE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/uvyD3I1dwNs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/uwaSM8NAD7A" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/uxAHYSIoT-I" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/vQvPCVE2b_s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/vdl5XCKzPWk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/vgRMteY-o0k" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/vtvJWKaDI9s" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/w2Fd_f1epgo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/wc4R3SOif0g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/who5T9K5320" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/wkPHeRoB-OA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/wq5Ifor-NCA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ww60AmXXhBc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/x7bGOa9x9M4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/xD0fgwzZPIc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/xaFTZRTDOJ8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/xnGHJ7VlYYc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/xs84E9XXRkA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/y4HZjON6YgM" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/y4kdKdibTMQ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/y97Ywl7RtUw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yS37kyfnGy4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yYl4ejS6xko" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yZfe6QUJihw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yj0DHTiE0lA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yjLWrxRlmXE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/z4zTisrdBxI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/zZ3WS4JoTLU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/zai5vEiReGw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_ca.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_zh_HanS.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_zh_HanT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/GUI$tIdioma.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/GUI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/GUI.form" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$HostNoGV.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$InvalidDocId.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$NoDocId.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$NoQuery.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$NoSubs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$NoYouTubeParamV.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/TableModel$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/TableModel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/ca.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/en.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/es.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/it.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/pt_BR.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/zh_HanS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/zh_HanT.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/parsers/YTSubsParser.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_ca.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_ca.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_en.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_en.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_es.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_es.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_it.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_it.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_pt_BR.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_pt_BR.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_zh_HanS.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_zh_HanS.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_zh_HanT.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_zh_HanT.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/GUI.form" afterPath="$PROJECT_DIR$/src/google2srtOLD/GUI.form" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Network.java" afterPath="$PROJECT_DIR$/src/google2srtOLD/Network.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/TableModel.java" afterPath="$PROJECT_DIR$/src/google2srtOLD/TableModel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/ca.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/ca.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/en.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/en.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/es.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/es.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/it.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/it.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/pt_BR.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/pt_BR.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/zh_HanS.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/zh_HanS.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/zh_HanT.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/zh_HanT.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/Common.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/Common.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/Converter.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/Converter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$1.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$Method.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$Method.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$Tipus.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$Tipus.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/SRTFilter.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/SRTFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/XMLFilter.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/XMLFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/Main.class" afterPath="$PROJECT_DIR$/target/classes/main/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/SubtitlesUtils.class" afterPath="$PROJECT_DIR$/target/classes/main/SubtitlesUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/parsers/RedditParser.class" afterPath="$PROJECT_DIR$/target/classes/main/parsers/RedditParser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/parsers/SubsceneSubsParser.class" afterPath="$PROJECT_DIR$/target/classes/main/parsers/SubsceneSubsParser.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/Changelog.txt" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/Changelog.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/README.TXT" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/README.TXT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/download.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/download.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/help.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/help.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/index.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/screenshots.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/screenshots.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/download.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/download.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/help.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/help.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/index.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/screenshots.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/screenshots.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/download.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/download.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/help.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/help.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/index.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/screenshots.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/screenshots.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/download.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/download.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/help.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/help.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/index.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/screenshots.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/screenshots.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/download.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/download.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/help.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/help.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/index.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/screenshots.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/screenshots.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Converter.java" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Converter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfile.txt" afterPath="$PROJECT_DIR$/myfile.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/google2srt/Common.java" afterPath="$PROJECT_DIR$/src/google2srt/Common.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/google2srt/Converter.java" afterPath="$PROJECT_DIR$/src/google2srt/Converter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/google2srt/NetSubtitle.java" afterPath="$PROJECT_DIR$/src/google2srt/NetSubtitle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/google2srt/SRTFilter.java" afterPath="$PROJECT_DIR$/src/google2srt/SRTFilter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/google2srt/XMLFilter.java" afterPath="$PROJECT_DIR$/src/google2srt/XMLFilter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/Main.java" afterPath="$PROJECT_DIR$/src/main/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/SubtitlesUtils.java" afterPath="$PROJECT_DIR$/src/main/SubtitlesUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/parsers/RedditParser.java" afterPath="$PROJECT_DIR$/src/main/parsers/RedditParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java" afterPath="$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java" />
     </list>
     <ignored path="main.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,112 +455,120 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-408">
-              <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="B9pHNwTyh7o" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/subtitles/youtube/B9pHNwTyh7o">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52355">
-              <caret line="3485" column="3" selection-start-line="3485" selection-start-column="3" selection-end-line="3485" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubtitlesUtils.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/SubtitlesUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="209" column="0" selection-start-line="209" selection-start-column="0" selection-end-line="209" selection-end-column="0" />
+            <state relative-caret-position="-40">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
-                <marker date="1483315830054" expanded="false" signature="7147:7168" ph="&lt;~&gt;" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#634#642#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4OSSSp1qKQE" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/subtitles/youtube/4OSSSp1qKQE">
+      <file leaf-file-name="RedditParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/parsers/RedditParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-976">
-              <caret line="177" column="5" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="7" />
+            <state relative-caret-position="166">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="The.Legend.of.Drunken.Master.1994.720p.BluRay.x264.srt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/subtitles/subscene/Legend+of+The+Drunken+Master/The.Legend.of.Drunken.Master.1994.720p.BluRay.x264.srt">
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="405" column="15" selection-start-line="405" selection-start-column="8" selection-end-line="405" selection-end-column="15" />
+            <state relative-caret-position="192">
+              <caret line="2237" column="18" selection-start-line="2237" selection-start-column="18" selection-end-line="2237" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoSimiliarSubtitle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/TwoSimiliarSubtitle.java">
+      <file leaf-file-name="myfile.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myfile.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="96">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Subtitle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Subtitle.java">
+      <file leaf-file-name="SubtitlesUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/SubtitlesUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="212">
+              <caret line="523" column="23" selection-start-line="523" selection-start-column="23" selection-end-line="523" selection-end-column="23" />
+              <folding>
+                <marker date="1489999100844" expanded="false" signature="12078:12099" ph="&lt;~&gt;" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubtitleFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/SubtitleFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubsceneSubsParser.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SubsceneSubsParser.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+            <state relative-caret-position="167">
+              <caret line="176" column="48" selection-start-line="176" selection-start-column="48" selection-end-line="176" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZipFile.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/net/lingala/zip4j/zip4j/1.3.2/zip4j-1.3.2.jar!/net/lingala/zip4j/core/ZipFile.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Google2SRTDownloader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/youtube/downloaders/Google2SRTDownloader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/google2srt/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Movie.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Movie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#8708#8709#0" expanded="false" />
-                <element signature="e#8731#8732#0" expanded="false" />
-                <element signature="e#8793#8794#0" expanded="false" />
-                <element signature="e#8829#8830#0" expanded="false" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -150,10 +584,29 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/parsers/YTSubsParser.java" />
         <option value="$PROJECT_DIR$/src/main/SubtitleFile.java" />
-        <option value="$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java" />
         <option value="$PROJECT_DIR$/src/main/Subtitle.java" />
-        <option value="$PROJECT_DIR$/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/SubtitleScOM.java" />
+        <option value="$PROJECT_DIR$/src/main/SubtitleDifferences.java" />
+        <option value="$PROJECT_DIR$/src/main/youtube/downloaders/CCsubs.java" />
+        <option value="$PROJECT_DIR$/src/main/youtube/downloaders/YTSubsParser.java" />
+        <option value="$PROJECT_DIR$/src/google2srt/Common.java" />
+        <option value="$PROJECT_DIR$/src/google2srt/NetSubtitle.java" />
+        <option value="$PROJECT_DIR$/src/google2srt/SRTFilter.java" />
+        <option value="$PROJECT_DIR$/src/google2srt/SupportedFileTypesFilter.java" />
+        <option value="$PROJECT_DIR$/src/google2srt/TXTFilter.java" />
+        <option value="$PROJECT_DIR$/src/google2srt/XMLFilter.java" />
+        <option value="$PROJECT_DIR$/src/google2srt/Converter.java" />
+        <option value="$PROJECT_DIR$/src/google2srt/Video.java" />
+        <option value="$PROJECT_DIR$/src/google2srtOLD/GUI.java" />
+        <option value="$PROJECT_DIR$/myfile.txt" />
+        <option value="$PROJECT_DIR$/src/main/SubtitlesCommon.java" />
+        <option value="$PROJECT_DIR$/src/google2srt/Settings.java" />
+        <option value="$PROJECT_DIR$/src/google2srt/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/youtube/downloaders/Google2SRTDownloader.java" />
         <option value="$PROJECT_DIR$/src/main/SubtitlesUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/parsers/RedditParser.java" />
+        <option value="$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java" />
       </list>
     </option>
   </component>
@@ -165,10 +618,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="210" />
-    <option name="y" value="88" />
-    <option name="width" value="1207" />
-    <option name="height" value="809" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -188,13 +641,15 @@
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -202,6 +657,116 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -241,7 +806,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="youtube" />
+              <option name="myItemId" value="subscene" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subtitles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="subscene" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -274,14 +861,94 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="downloaders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parsers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="google2srtOLD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="google2srt" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Problems" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,12 +956,20 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="SearchEverywhereHistoryKey" value="downloadSubs&#9;PSI&#9;JAVA://main.youtube.downloaders.CCsubs#downloadSubs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Justas.Rutkauskas\workspace\main\subtitles\youtube" />
+      <recent name="C:\Users\Justas.Rutkauskas\workspace\main\src\google2srt" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="main.*" />
+          <option name="PATTERN" value="main.SubtitlesCommon" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,7 +989,7 @@
     <configuration default="false" name="SubtitlesUtils.testCheckIfSimiliar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="main.*" />
+          <option name="PATTERN" value="main.SubtitlesCommon" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -595,6 +1270,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8ec9a167-8ea0-4581-8c41-7e9905ec164e" name="Default" comment="" />
@@ -626,29 +1304,29 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="210" y="88" width="1207" height="809" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281471" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3683432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3716143" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3243243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16129032" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28091684" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.102345414" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25027084" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4002829" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3445287" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -666,23 +1344,40 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+" />
+    <option name="LAST_COMMIT_MESSAGE" value="+" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/SubtitlesUtils.java</url>
-          <line>85</line>
+          <url>file://$PROJECT_DIR$/src/google2srtOLD/GUI.java</url>
+          <line>151</line>
           <properties />
-          <option name="timeStamp" value="43" />
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+          <condition expression="startHours == 1" language="JAVA" />
           <url>file://$PROJECT_DIR$/src/main/SubtitlesUtils.java</url>
-          <line>163</line>
+          <line>75</line>
           <properties />
-          <option name="timeStamp" value="46" />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Main.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Main.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="87" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="47" />
+      <option name="time" value="96" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -691,107 +1386,288 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/B9pHNwTyh7o" />
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/9gOLWijUUt8" />
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/-c2wtqAfQlQ" />
+    <entry file="file://$PROJECT_DIR$/src/google2srt/SupportedFileTypesFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="63" column="53" selection-start-line="63" selection-start-column="53" selection-end-line="63" selection-end-column="53" />
-          <folding />
+        <state relative-caret-position="425">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/SubtitlesUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/google2srt/TXTFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/google2srt/XMLFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3638">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
           <folding>
-            <marker date="1483315830054" expanded="false" signature="7147:7168" ph="&lt;~&gt;" />
+            <element signature="e#0#33182#0" expanded="false" />
+            <element signature="e#33104#33105#0" expanded="false" />
+            <element signature="e#33178#33179#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/TwoSimiliarSubtitle.java">
+    <entry file="file://$PROJECT_DIR$/src/google2srt/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4572">
+          <caret line="320" column="34" selection-start-line="320" selection-start-column="34" selection-end-line="320" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/google2srt/SRTFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/google2srt/Common.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/youtube/downloaders/YoutubeSubsDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/google2srt/NetSubtitle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Google2SRT-0.6.1/src/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#70798#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3030#3119#0" expanded="false" />
+            <element signature="e#6017#6018#0" expanded="false" />
+            <element signature="e#6076#6077#0" expanded="false" />
+            <element signature="e#6417#6418#0" expanded="false" />
+            <element signature="e#6476#6477#0" expanded="false" />
+            <element signature="e#6893#6894#0" expanded="false" />
+            <element signature="e#6950#6951#0" expanded="false" />
+            <element signature="e#7101#7102#0" expanded="false" />
+            <element signature="e#7157#7158#0" expanded="false" />
+            <element signature="e#7584#7585#0" expanded="false" />
+            <element signature="e#7642#7643#0" expanded="false" />
+            <element signature="e#8024#8025#0" expanded="false" />
+            <element signature="e#8085#8086#0" expanded="false" />
+            <element signature="e#8473#8474#0" expanded="false" />
+            <element signature="e#8535#8536#0" expanded="false" />
+            <element signature="e#8926#8927#0" expanded="false" />
+            <element signature="e#8989#8990#0" expanded="false" />
+            <element signature="e#10317#10318#0" expanded="false" />
+            <element signature="e#10382#10383#0" expanded="false" />
+            <element signature="e#10825#10826#0" expanded="false" />
+            <element signature="e#10890#10891#0" expanded="false" />
+            <element signature="e#11333#11334#0" expanded="false" />
+            <element signature="e#11398#11399#0" expanded="false" />
+            <element signature="e#11712#11713#0" expanded="false" />
+            <element signature="e#11770#11771#0" expanded="false" />
+            <element signature="e#12099#12100#0" expanded="false" />
+            <element signature="e#12160#12161#0" expanded="false" />
+            <element signature="e#12616#12617#0" expanded="false" />
+            <element signature="e#12683#12684#0" expanded="false" />
+            <element signature="e#13126#13127#0" expanded="false" />
+            <element signature="e#13191#13192#0" expanded="false" />
+            <element signature="e#16149#16150#0" expanded="false" />
+            <element signature="e#16218#16219#0" expanded="false" />
+            <element signature="e#16691#16692#0" expanded="false" />
+            <element signature="e#16761#16762#0" expanded="false" />
+            <element signature="e#32414#32415#0" expanded="false" />
+            <element signature="e#32464#32465#0" expanded="false" />
+            <element signature="e#33144#33145#0" expanded="false" />
+            <element signature="e#33203#33204#0" expanded="false" />
+            <element signature="e#39474#39475#0" expanded="false" />
+            <element signature="e#39532#39533#0" expanded="false" />
+            <element signature="e#39853#39854#0" expanded="false" />
+            <element signature="e#39903#39904#0" expanded="false" />
+            <element signature="e#40165#40166#0" expanded="false" />
+            <element signature="e#40207#40208#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/Goblins/Mercedes SLS Electric Drive. Can Volts Ever Match Pistons_ - _CHRIS HARRIS ON CARS_IElqf-FCMs8_0__en.srt" />
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/Goblins/Mercedes SLS Electric Drive. Can Volts Ever Match Pistons_ - _CHRIS HARRIS ON CARS_IElqf-FCMs8_1__en.srt" />
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/Goblins/The Oscars and The Bechdel Test_PH8JuizIXw8_1__da.srt" />
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/0hKj1Vk9OwA" />
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/BasicConfigurator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/youtube/downloaders/CCsubs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="44" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/Goblins/The Oscars and The Bechdel Test_PH8JuizIXw8_3__en.srt" />
+    <entry file="file://$PROJECT_DIR$/src/main/CacheRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/The Stranger (1967) + subtitles_Y-ChQ33SII4_2__en.srt" />
+    <entry file="file://$PROJECT_DIR$/src/google2srt/Converter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/24 Hour Party People_Bj7D6JDa4YE_0__en.srt" />
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/C.R.A.Z.Y (2005) BluRay---720p w_ Subs_Q_eAviwptE4_1__en.srt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/By a Man&amp;#39;s Face Shall You Know Him (1966)_bT60selrWMc_0__en.srt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/ADAM GREEN&amp;#39;S ALADDIN - FULL MOVIE (OFFICIAL)_-c2wtqAfQlQ_1__en.srt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/_x_HHnXeMWT0_0__en.srt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtitles/youtube/_lHHAmSNV-PY_0__en.srt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/io/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/SubtitleFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Subtitle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtitles/subscene/Hobgoblins/The.Big.Spook.War.2005.DVDRip.XviD-WRD-CD1.srt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="603" column="0" selection-start-line="603" selection-start-column="0" selection-end-line="603" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subtitles/subscene/Starship+Troopers/Starship.Troopers.1997.1080p.BluRay.H264.AAC-RARBG.srt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="720" column="9" selection-start-line="720" selection-start-column="7" selection-end-line="720" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/SubtitlesCommon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Subtitle.java">
+    <entry file="file://$PROJECT_DIR$/subtitles/subscene/Hobgoblins/Hobgoblins.1988.720p.BluRay.x264-SADPANDA.srt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="10846">
+          <caret line="638" column="0" selection-start-line="638" selection-start-column="0" selection-end-line="638" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/SubtitleFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/parsers/YTSubsParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/parsers/OpenSubtitlesParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding>
-            <element signature="e#8775#8776#0" expanded="false" />
-            <element signature="e#8798#8799#0" expanded="false" />
-            <element signature="e#8860#8861#0" expanded="false" />
-            <element signature="e#8896#8897#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
+        <state relative-caret-position="598">
           <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#8708#8709#0" expanded="false" />
-            <element signature="e#8731#8732#0" expanded="false" />
-            <element signature="e#8793#8794#0" expanded="false" />
-            <element signature="e#8829#8830#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subtitles/youtube/5y1baaLRx0c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/subtitles/file.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -799,119 +1675,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subtitles/youtube/5y1baaLRx0c">
+    <entry file="file://$PROJECT_DIR$/src/google2srtOLD/GUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="149">
+          <caret line="220" column="102" selection-start-line="220" selection-start-column="102" selection-end-line="220" selection-end-column="102" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/parsers/OpenSubtitlesParser.java">
+    <entry file="file://$PROJECT_DIR$/src/google2srt/Settings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        <state relative-caret-position="295">
+          <caret line="432" column="27" selection-start-line="432" selection-start-column="27" selection-end-line="432" selection-end-column="27" />
           <folding>
-            <element signature="e#8775#8776#0" expanded="false" />
-            <element signature="e#8798#8799#0" expanded="false" />
-            <element signature="e#8860#8861#0" expanded="false" />
-            <element signature="e#8896#8897#0" expanded="false" />
+            <element signature="e#15752#15753#0" expanded="true" />
+            <element signature="e#15796#15797#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/parsers/YTSubsParser.java">
+    <entry file="file://$PROJECT_DIR$/src/main/youtube/downloaders/Google2SRTDownloader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        <state relative-caret-position="153">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/SubtitleFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+        <state relative-caret-position="149">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#8708#8709#0" expanded="false" />
-            <element signature="e#8731#8732#0" expanded="false" />
-            <element signature="e#8793#8794#0" expanded="false" />
-            <element signature="e#8829#8830#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subtitles/subscene/Legend+of+The+Drunken+Master/The.Legend.of.Drunken.Master.1994.720p.BluRay.x264.srt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="405" column="15" selection-start-line="405" selection-start-column="8" selection-end-line="405" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Subtitle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/TwoSimiliarSubtitle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subtitles/youtube/4OSSSp1qKQE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-976">
-          <caret line="177" column="5" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subtitles/youtube/B9pHNwTyh7o">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52355">
-          <caret line="3485" column="3" selection-start-line="3485" selection-start-column="3" selection-end-line="3485" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/SubtitlesUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="209" column="0" selection-start-line="209" selection-start-column="0" selection-end-line="209" selection-end-column="0" />
+        <state relative-caret-position="212">
+          <caret line="523" column="23" selection-start-line="523" selection-start-column="23" selection-end-line="523" selection-end-column="23" />
           <folding>
-            <marker date="1483315830054" expanded="false" signature="7147:7168" ph="&lt;~&gt;" />
+            <marker date="1489999100844" expanded="false" signature="12078:12099" ph="&lt;~&gt;" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/google2srt/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="2237" column="18" selection-start-line="2237" selection-start-column="18" selection-end-line="2237" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/parsers/RedditParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#634#642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/lingala/zip4j/zip4j/1.3.2/zip4j-1.3.2.jar!/net/lingala/zip4j/core/ZipFile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="176" column="48" selection-start-line="176" selection-start-column="48" selection-end-line="176" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>

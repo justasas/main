@@ -27,8 +27,8 @@ public class SubsceneSubsParser {
 
 	private final String SUBSCENE_URL = "https://subscene.com";
 	private final String SUBTITLES_FOLDER = "subtitles/subscene/";
-	private final int MAXIMUM_MOVIES_TO_CHECK = 3;
-	private final int MAXIMUM_SUBTITLES_TO_DOWNLOAD_FOR_A_MOVIE = 3;
+	private final int MAXIMUM_MOVIES_TO_CHECK = 5;
+	private final int MAXIMUM_SUBTITLES_TO_DOWNLOAD_FOR_A_MOVIE = 10;
 
 	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
 	static final String DB_URL = "jdbc:mysql://localhost:3306/web?useUnicode=true&characterEncoding=UTF-8";
@@ -154,7 +154,7 @@ public class SubsceneSubsParser {
 			String url = m.group(1);
 			String titleAndYear = m.group(2);
 			String year = titleAndYear.substring(titleAndYear.length() - 5, titleAndYear.length() - 1);
-			if (year != null && year.matches("[0-9]+")) {
+			if (year != null && year.matches("[0-9]+") && year.equals(releaseyear)) {
 				urls.add(url);
 			} else {
 				System.out.println("cant parse movie release year from string: " + titleAndYear);
@@ -254,19 +254,13 @@ public class SubsceneSubsParser {
 		return list;
 	}
 
-	private void unzipSourceToDestination(String source, String destination) {
+	private void unzipSourceToDestination(String source, String destination) throws ZipException {
+		ZipFile zipFile = new ZipFile(source);
 
-		try {
-			ZipFile zipFile = new ZipFile(source);
-
-			// if (zipFile.isEncrypted()) {
-			// zipFile.setPassword(password);
-			// }
-			zipFile.extractAll(destination);
-		} catch (ZipException e) {
-			e.printStackTrace();
-		}
-
+		// if (zipFile.isEncrypted()) {
+		// zipFile.setPassword(password);
+		// }
+		zipFile.extractAll(destination);
 	}
 
 	private void postLanguageSettings() {

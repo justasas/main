@@ -28,24 +28,22 @@ import main.Movie;
 
 public class RedditParser {
 
-	private static int PAGES_COUNT_TO_PARSE = 20;
+	private static int PAGES_COUNT_TO_PARSE = 5;
 	private static Logger logger = Logger.getLogger(Main.class);
 
 	public static List<String> existingMovies = getExistingMoviesYTuri();
 
 	private CacheRepository cache = new CacheRepository();
 
-	public void start() {
+	public List<Movie> start() {
 		BasicConfigurator.configure();
-		List<Movie> movies = parseAllPages("https://www.reddit.com/r/fullmoviesonyoutube/?count=775&after=t3_540ywu");
+		List<Movie> movies = parseAllPages("https://www.reddit.com/r/fullmoviesonyoutube/");
 		Iterator<Movie> iterator = movies.iterator();
 		while (iterator.hasNext()) {
 			if (existingMovies.contains(iterator.next().getYoutubeId()))
 				iterator.remove();
 		}
-		List<Movie> moviesWithSubtitles = Main.downloadSubs(movies);
-		saveToFile(moviesWithSubtitles);
-		// System.out.println("Subs downloaded: " + moviesWithSubtitles.size());
+		return movies;
 	}
 
 	private static List<String> getExistingMoviesYTuri() {
@@ -80,20 +78,6 @@ public class RedditParser {
 			e.printStackTrace();
 		}
 		return movies;
-	}
-
-	private void saveToFile(List<Movie> movies) {
-
-		for (Movie movie : movies) {
-			try {
-				String movieString = movie.getName() + "\n" + movie.getYoutubeId() + "\n" + movie.getReleaseYear()
-						+ "\n" + (movie.getGenres() != null ? StringUtils.join(movie.getGenres(), ",") : "") + "\n\n";
-
-				Files.write(Paths.get("myfile.txt"), movieString.getBytes(), StandardOpenOption.APPEND);
-			} catch (Exception e) {
-				// exception handling left as an exercise for the reader
-			}
-		}
 	}
 
 	public List<Movie> parseAllPages(String link) {
@@ -161,10 +145,10 @@ public class RedditParser {
 
 	private Document getDocument(String link) throws IOException {
 		Document document;
-		String html = cache.find(link);
-		if (html != null)
-			document = Jsoup.parse(html);
-		else {
+//		String html = cache.find(link);
+//		if (html != null)
+//			document = Jsoup.parse(html);
+//		else {
 			org.jsoup.Connection connect = Jsoup.connect(link).timeout(10000)
 					.userAgent(
 							"Mozilla/5.0 (Windows; U; WindowsNT 5.1; en-US; rv1.8.1.6) Gecko/20070725 Firefox/2.0.0.6")
@@ -172,15 +156,15 @@ public class RedditParser {
 
 			Response response = connect.execute();
 			document = response.parse();
-			cache.insert(link, document.toString());
-		}
+//			cache.insert(link, document.toString());
+//		}
 		return document;
 	}
 
 	private String getMovieIDFromYoutubeLink(String linkToMovie) {
 		logger.debug("Geeting id from link: " + linkToMovie);
 		for (String ytLink : Main.youtubeLinks) {
-			linkToMovie = linkToMovie.replace(ytLink, "");
+			linkToMovie = linkToMovie.replace(ytLink, "").replaceAll("(&)[^=]+=[^&$]+", "");
 		}
 		logger.debug("Found ID: " + linkToMovie);
 		return linkToMovie;

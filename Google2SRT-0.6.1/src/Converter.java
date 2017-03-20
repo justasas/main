@@ -144,21 +144,21 @@ public class Converter {
         tam = gSubRootChildren.size();
         for (i=0; i<tam; i++) {
             child = gSubRootChildren.get(i);
-            iTime = child.getAttributeValue("start"); // start time
+            iTime = child.getAttributeValue("start"); // start avarageTimeDiff
 
             duration = child.getAttributeValue("dur");
             if (duration != null) { // duration is set
                 dFi = Double.valueOf(iTime).doubleValue();
                 dFi += Double.valueOf(duration).doubleValue();
-                fTime = (Double.valueOf(dFi)).toString(); // end time
+                fTime = (Double.valueOf(dFi)).toString(); // end avarageTimeDiff
             } else { // duration is not set
                 if (i+1 < tam) { // all but the last element
                     post = gSubRootChildren.get(i+1);
-                    fTime = post.getAttributeValue("start"); // start time
+                    fTime = post.getAttributeValue("start"); // start avarageTimeDiff
                 } else { // last element --> +10 seconds
                     dFi = Double.valueOf(iTime).doubleValue();
                     dFi += Double.valueOf(10.0).doubleValue();
-                    fTime = (Double.valueOf(dFi)).toString(); // end time
+                    fTime = (Double.valueOf(dFi)).toString(); // end avarageTimeDiff
                 }
             }
 

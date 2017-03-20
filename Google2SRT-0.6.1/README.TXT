@@ -2,11 +2,11 @@
 kom <not.kom@gmail.com>
 --------------------------------------------------------------------------
 
-[Català]	Ajuda: Directori doc/ o http://google2srt.sourceforge.net
-[English]	Help: Directory doc/ or http://google2srt.sourceforge.net
-[Español]	Ayuda: Directorio doc/ o http://google2srt.sourceforge.net
-[Italiano]	Aiuto: Directory doc/ o http://google2srt.sourceforge.net
-[Português]	Ajuda: Diretório doc/ ou http://google2srt.sourceforge.net
+[Català]	Ajuda: Directori doc/ o http://google2srtOLD.sourceforge.net
+[English]	Help: Directory doc/ or http://google2srtOLD.sourceforge.net
+[Español]	Ayuda: Directorio doc/ o http://google2srtOLD.sourceforge.net
+[Italiano]	Aiuto: Directory doc/ o http://google2srtOLD.sourceforge.net
+[Português]	Ajuda: Diretório doc/ ou http://google2srtOLD.sourceforge.net
 
 
 CREDITS

@@ -38,7 +38,7 @@ Google2SRT 0.5.1 - 27/06/2009
 Google2SRT 0.5 - 06/06/2009
 * Fixed bug in subtitles list (not all subtitles were visible). Now using JTable
 * Internationalized GUI. Ease to add/modify messages/langs (not "hardcoded strings")
-* Better documentation (available on doc/ and http://google2srt.sourceforge.net)
+* Better documentation (available on doc/ and http://google2srtOLD.sourceforge.net)
 * Source clean...
     
 Google2SRT 0.4.1 - 01/05/2009

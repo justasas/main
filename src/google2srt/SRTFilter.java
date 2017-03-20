@@ -1,4 +1,4 @@
-/*
+package google2srt;/*
     This file is part of Google2SRT.
 
     Google2SRT is free software: you can redistribute it and/or modify
@@ -20,7 +20,6 @@
  * @author kom
  * @version "0.4, 09/06/08"
  */
-package google2srt;
 
 import java.io.File;
 import javax.swing.filechooser.*;

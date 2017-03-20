@@ -1,6 +1,5 @@
 package main;
 
-import org.apache.commons.exec.util.StringUtils;
 import org.jsoup.Jsoup;
 import org.junit.Test;
 
@@ -16,15 +15,11 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.nio.channels.FileChannel;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 public class SubtitlesUtils {
+
+	private static boolean parseMilliSeconds = true;
 
 	public static List<Subtitle> parseSubtitles(BufferedReader reader) throws IOException {
 
@@ -40,7 +35,7 @@ public class SubtitlesUtils {
 				sub.start = startEnd[0];
 				sub.end = startEnd[1];
 				while ((line = reader.readLine()) != null && !line.isEmpty()) {
-					sub.text = sub.text + " " + Jsoup.parse(line).text();
+					sub.text = sub.text + Jsoup.parse(line).text();
 				}
 				// System.out.println();
 				subtitles.add(sub);
@@ -80,27 +75,32 @@ public class SubtitlesUtils {
 		int startHours = Integer.parseInt(start[0]);
 		int startMins = Integer.parseInt(start[1]);
 		int startSecs = Integer.parseInt(start[2].split(",")[0]);
-//		String StartMilli = "000";
-//		int startMilli;
-//		if (!start[2].endsWith(",")) {
-//			StartMilli = start[2].split(",")[1];
-//			startMilli = Integer.parseInt(StartMilli);
-//		} else {
-//			startMilli = 0;
-//		}
-//
-//		if (StartMilli.length() == 2) {
-//			startMilli *= 10;
-//		} else {
-//			if (StartMilli.length() == 1) {
-//				startMilli *= 100;
-//			}
-//		}
-		return srtToMilli(startHours, startMins, startSecs, 0);
+
+		int startMilli = 0;
+
+		if(parseMilliSeconds) {
+			String StartMilli = "000";
+
+			if (!start[2].endsWith(",")) {
+				StartMilli = start[2].split(",")[1];
+				startMilli = Integer.parseInt(StartMilli);
+			} else {
+				startMilli = 0;
+			}
+
+			if (StartMilli.length() == 2) {
+				startMilli *= 10;
+			} else {
+				if (StartMilli.length() == 1) {
+					startMilli *= 100;
+				}
+			}
+		}
+		return srtToMilli(startHours, startMins, startSecs, startMilli);
 	}
 
 	public static int srtToMilli(int hours, int mins, int secs, int milli) {
-		return hours * 360000 + mins * 60000 + secs * 1000 + milli;
+		return hours * 3600000 + mins * 60000 + secs * 1000 + milli;
 	}
 
 	public static String milliToSrt(int time) {
@@ -148,7 +148,31 @@ public class SubtitlesUtils {
 		}
 	}
 
-	public static Integer findAvarageTimesDiff(List<Subtitle> subs, List<Subtitle> ySubs) {
+	public static SubtitleFile findMostSimiliarSubs(Set<SubtitleFile> subtitlesFileList, List<Subtitle> ySubs) {
+
+        int similarSubsCount = 0;
+        SubtitleFile ret = null;
+//        int i = 0;
+
+		for(SubtitleFile subtitlesFile : subtitlesFileList)
+		{
+//            if(i++ == 0) {
+
+                List<TwoSimiliarSubtitle> similiarSubtitlesList = findSimiliarSubtitles(subtitlesFile.subtitles, ySubs);
+
+                if (similiarSubtitlesList.size() > similarSubsCount) {
+                    similarSubsCount = similiarSubtitlesList.size();
+                    ret = subtitlesFile;
+                }
+
+                System.out.println("Similiar subtitles count: " + similiarSubtitlesList.size());
+//            }
+        }
+
+		return ret;
+	}
+
+	public static SubtitlesCommon findCommonThings(List<Subtitle> subs, List<Subtitle> ySubs) {
 
 		List<TwoSimiliarSubtitle> similiarSubtitlesList = findSimiliarSubtitles(subs, ySubs);
 
@@ -158,35 +182,141 @@ public class SubtitlesUtils {
 
 		int foundCount = 0;
 		int sum = 0;
+		List<Float> perSecondChange = new ArrayList<>();
+		List<TimeDifferenceCalculator> timeDifferenceCalculators = new ArrayList<>();
 
-		for (TwoSimiliarSubtitle twoSubtitles : similiarSubtitlesList) {
+		for (int a = 0; a < similiarSubtitlesList.size(); a++) {
+			if ((a + 2) > similiarSubtitlesList.size())
+				break;
 
-			Subtitle ytSubtitle = twoSubtitles.ytSubtitle;
-			Subtitle subtitle = twoSubtitles.subtitle;
+			TwoSimiliarSubtitle twoSubtitles = similiarSubtitlesList.get(a);
+            TwoSimiliarSubtitle currentPair = similiarSubtitlesList.get(a);
+            TwoSimiliarSubtitle nextPair = similiarSubtitlesList.get(a + 1);
 
-			int indDifference = abs(twoSubtitles.subtitleIndex - twoSubtitles.ytSubtitleIndex);
-			int startTimesDifference = srtSubToMilli(ytSubtitle.start) - srtSubToMilli(subtitle.start);
-			int endTimesDifference = srtSubToMilli(ytSubtitle.end) - srtSubToMilli(subtitle.end);
+            TimeDifferenceCalculator timeDifferenceCalculator = new TimeDifferenceCalculator(twoSubtitles).invoke();
+            SubtitlesVelocityCalculator subtitlesVelocityCalculator = new SubtitlesVelocityCalculator(currentPair, nextPair).invoke();
 
-			System.out.println("indDiff: " + indDifference);
-			System.out.println("start times(yt,orig):       YT:" + ytSubtitle.start + "     ORIG:" + subtitle.start + "          DIFF:" + + startTimesDifference);
-			System.out.println("ytSub ( " + twoSubtitles.ytSubtitleIndex + " ) :" + ytSubtitle.text);
-			System.out.println("sub   ( " + twoSubtitles.subtitleIndex + " ) :" + subtitle.text);
-			System.out.println();
-//			indDiffSum += indDifference;
+            printCalculationResults(twoSubtitles, timeDifferenceCalculator, subtitlesVelocityCalculator);
 
-			foundCount++;
+            perSecondChange.add(subtitlesVelocityCalculator.perSecondChange);
+			timeDifferenceCalculators.add(timeDifferenceCalculator);
 
-			sum += startTimesDifference;
-		}
+			sum += timeDifferenceCalculator.startTimesDifference;
+            foundCount++;
+        }
 
 		System.out.println(foundCount);
-		return similiarSubtitlesList.size() > 0 ? (sum / similiarSubtitlesList.size()) : Integer.MAX_VALUE;
 
-		// mostFrequent(startAndEndsMilli);
+		SubtitlesCommon subtitlesCommonInfo = new SubtitlesCommon();
+		subtitlesCommonInfo.avarageTimeDiff = similiarSubtitlesList.size() > 0 ? (sum / similiarSubtitlesList.size()) : Integer.MAX_VALUE;
+		subtitlesCommonInfo.velocity = findMostAccurateVelocity(perSecondChange);
+		subtitlesCommonInfo.similiarSubtitlesCount = foundCount;
+		subtitlesCommonInfo.mostFrequentTimeDiff = findMostFrequentTimeDiff(timeDifferenceCalculators);
+		return subtitlesCommonInfo;
+
+//		 mostFrequent(startAndEndsMilli);
 		// moveSubtitles(subsToMove, subs);
-		// System.out.println("max: "+ max + " index: " + index+ " time: "+ time
+		// System.out.println("max: "+ max + " index: " + index+ " avarageTimeDiff: "+ avarageTimeDiff
 		// + " diff: "+ maxDiff);
+	}
+
+	private static int findMostFrequentTimeDiff(List<TimeDifferenceCalculator> timeDifferenceCalculators) {
+		List<Integer> startTimeAndEndTimeDiffs = new ArrayList<Integer>();
+		for(TimeDifferenceCalculator diff : timeDifferenceCalculators)
+		{
+			startTimeAndEndTimeDiffs.add(round(diff.startTimesDifference));
+			startTimeAndEndTimeDiffs.add(round(diff.endTimesDifference));
+		}
+		Collections.sort(startTimeAndEndTimeDiffs);
+
+		Map<Integer, Integer> map = new HashMap<Integer, Integer>();
+		for (int i : startTimeAndEndTimeDiffs) {
+			Integer count = map.get(i);
+			map.put(i, count != null ? count+1 : 0);
+		}
+
+		System.out.println(Arrays.toString(map.entrySet().toArray()));
+
+		Integer popular = Collections.max(map.entrySet(),
+				new Comparator<Map.Entry<Integer, Integer>>() {
+					@Override
+					public int compare(Map.Entry<Integer, Integer> o1, Map.Entry<Integer, Integer> o2) {
+						return o1.getValue().compareTo(o2.getValue());
+					}
+				}).getKey();
+
+		System.out.println("Most popular DIFF: " + popular);
+
+		return popular;
+	}
+
+	private static int round(int number) {
+		int offset = (number >= 0) ? 500 : -500;
+		int roundedNumber = (number + offset) / 1000 * 1000;
+		return roundedNumber;
+	}
+
+	private static void printCalculationResults(TwoSimiliarSubtitle twoSubtitles, TimeDifferenceCalculator timeDifferenceCalculator, SubtitlesVelocityCalculator subtitlesVelocityCalculator) {
+        if (subtitlesVelocityCalculator.pairsStartTimeDifference != 0)
+        {
+            System.out.println("indDiff: " + timeDifferenceCalculator.indDifference);
+            System.out.println("start times(yt,orig):       YT:" + timeDifferenceCalculator.ytSubtitle.start + "     ORIG:" + timeDifferenceCalculator.subtitle.start + "          DIFF:" + timeDifferenceCalculator.startTimesDifference);
+			System.out.println("end times(yt,orig):       YT:" + timeDifferenceCalculator.ytSubtitle.end + "     ORIG:" + timeDifferenceCalculator.subtitle.end + "          DIFF:" + timeDifferenceCalculator.endTimesDifference);
+            System.out.println("ytSub ( " + twoSubtitles.ytSubtitleIndex + " ) :" + timeDifferenceCalculator.ytSubtitle.text);
+            System.out.println("sub   ( " + twoSubtitles.subtitleIndex + " ) :" + timeDifferenceCalculator.subtitle.text);
+            System.out.println("pairsStartTimeDifference: " + subtitlesVelocityCalculator.pairsStartTimeDifference);
+            System.out.println("differences substracted: " + subtitlesVelocityCalculator.differencesSubstracted);
+            System.out.println("per second change: " + subtitlesVelocityCalculator.perSecondChange);
+            System.out.println();
+
+        }
+    }
+
+    private static float findMostAccurateVelocity(List<Float> perSecondChange) {
+		Collections.sort(perSecondChange);
+		List<Float> distancesDifferencesAvarage = new ArrayList<>();
+//		List<Integer> distancesDifferences
+		float smallestDifference = 999999;
+		float ret = 0;
+		System.out.println("average: " + calculateAverage(perSecondChange));
+		for(int i = 0; i < perSecondChange.size()-1; i++) {
+			System.out.println(perSecondChange.get(i));
+			Float first = perSecondChange.get(i);
+			Float second = perSecondChange.get(i+1);
+
+			float difference = Math.abs(first - second);
+
+			if(difference < smallestDifference) {
+				smallestDifference = difference;
+				ret = first;
+			}
+
+
+//			int clousestPairsCount = 0;
+//			int clousestPairId = -1;
+
+//			for (int j = 0; j < perSecondChange.size(); j++) {
+//				if(i == j) {
+//					continue;
+//				}
+//
+//
+////				count++;
+//			}
+		}
+		System.out.println("closest" + ret);
+		return ret;
+	}
+
+	private static float calculateAverage(List<Float> marks) {
+		Float sum = 0f;
+		if(!marks.isEmpty()) {
+			for (Float mark : marks) {
+				sum += mark;
+			}
+			return sum.floatValue() / marks.size();
+		}
+		return sum;
 	}
 
 	private static List<TwoSimiliarSubtitle> findSimiliarSubtitles(List<Subtitle> subs, List<Subtitle> ySubs) {
@@ -215,8 +345,8 @@ public class SubtitlesUtils {
 				Subtitle subtitle = subs.get(i);
 
 				String ytWordsConjuction = "";
-				for(int c = y; (c < y+1) && (y+3 < ySubs.size()); c++) {
-					ytWordsConjuction += ySubs.get(c).text + " ";
+				for(int c = y; (c < y+1) && (y+1 < ySubs.size()); c++) {
+					ytWordsConjuction += ySubs.get(c).text;
 				}
 				int identicalWordsCount = checkIfSimiliar(ytWordsConjuction, subtitle.text);
 				if (identicalWordsCount > 0) {
@@ -294,7 +424,7 @@ public class SubtitlesUtils {
 
 	public static int checkIfSimiliar(String ytSubtitle, String subtitle) {
 		final int MIN_SUB_WORD_COUNT = 7;
-		final int MIN_IDENTICAL_WORDS_COUNT = 7;
+		final int MIN_IDENTICAL_WORDS_COUNT = 10;
 		final int MIN_WORD_LENGTH = 1;
 
 		String[] ytSubWords = ytSubtitle.trim().replaceAll("[^a-zA-Z ']+", "").split("[ ]+");
@@ -316,7 +446,7 @@ public class SubtitlesUtils {
 		int identicalWordsCount = calculateCountOfSameWords(ytSubWordsList, subWordsList);
 
 //				if (identicalWordsCount > MIN_IDENTICAL_WORDS_COUNT && (subWordsList.size() == identicalWordsCount || ytSubWordsList.size() == identicalWordsCount)) {
-		if (identicalWordsCount >= MIN_IDENTICAL_WORDS_COUNT) {
+		if (((ytSubWordCount == subWordCount) && identicalWordsCount > 4)) {
             return identicalWordsCount;
         }
 		return 0;
@@ -393,6 +523,10 @@ public class SubtitlesUtils {
 
 	public static void writeSubtitlesToFile(List<Subtitle> subs, String fileName)
 			throws FileNotFoundException, UnsupportedEncodingException {
+		if(subs.size() == 0) {
+			System.out.print("no subtitles for " + fileName);
+			return;
+		}
 		int nr = 1;
 		PrintWriter writer = new PrintWriter(fileName, "UTF-8");
 		for (Subtitle sub : subs) {
@@ -436,4 +570,57 @@ public class SubtitlesUtils {
 		return diff;
 	}
 
+	private static class TimeDifferenceCalculator {
+		private TwoSimiliarSubtitle twoSubtitles;
+		private Subtitle ytSubtitle;
+		private Subtitle subtitle;
+		private int indDifference;
+		private int startTimesDifference;
+		private int endTimesDifference;
+
+		public TimeDifferenceCalculator(TwoSimiliarSubtitle twoSubtitles) {
+			this.twoSubtitles = twoSubtitles;
+		}
+
+		public Subtitle getSubtitle() {
+			return subtitle;
+		}
+
+		public TimeDifferenceCalculator invoke() {
+			ytSubtitle = twoSubtitles.ytSubtitle;
+			subtitle = twoSubtitles.subtitle;
+
+			indDifference = abs(twoSubtitles.subtitleIndex - twoSubtitles.ytSubtitleIndex);
+			startTimesDifference = srtSubToMilli(ytSubtitle.start) - srtSubToMilli(subtitle.start);
+			endTimesDifference = srtSubToMilli(ytSubtitle.end) - srtSubToMilli(subtitle.end);
+			return this;
+		}
+	}
+
+	private static class SubtitlesVelocityCalculator {
+		private TwoSimiliarSubtitle currentPair;
+		private TwoSimiliarSubtitle nextPair;
+		private float differencesSubstracted;
+		private int pairsStartTimeDifference;
+		private float perSecondChange;
+
+		public SubtitlesVelocityCalculator(TwoSimiliarSubtitle currentPair, TwoSimiliarSubtitle nextPair) {
+			this.currentPair = currentPair;
+			this.nextPair = nextPair;
+		}
+
+		public SubtitlesVelocityCalculator invoke() {
+			int currentPairStartTimesDifference = srtSubToMilli(currentPair.ytSubtitle.start) - srtSubToMilli(currentPair.subtitle.start);
+			int nextPairStartTimesDifference = srtSubToMilli(nextPair.ytSubtitle.start) - srtSubToMilli(nextPair.subtitle.start);
+
+			differencesSubstracted = nextPairStartTimesDifference - currentPairStartTimesDifference;
+
+			pairsStartTimeDifference = srtSubToMilli(nextPair.ytSubtitle.start) - srtSubToMilli(currentPair.ytSubtitle.start);
+
+			if (pairsStartTimeDifference != 0) {
+				this.perSecondChange = differencesSubstracted / pairsStartTimeDifference;
+			}
+			return this;
+		}
+	}
 }
