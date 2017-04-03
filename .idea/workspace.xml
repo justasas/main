@@ -1,437 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ec9a167-8ea0-4581-8c41-7e9905ec164e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/OSCARS.2016.The.88th.Annual.Academy.Awards.(Eng.Subs).SDTV.x264-[2Maverick].srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/the.88th.annual.academy.awards.2016.720p.hdtv.x264-c4tv-resynced.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/the.88th.annual.academy.awards.2016.720p.hdtv.x264-c4tv.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Ghost+Cat++2003+++360p+/Affair for 3 (2003) Affaere zu dritt.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/affre-zu-dritt-2003/english/617035.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/cuckoo-third-season-2016/english/1291345.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/cuckoo-third-season-2016/english/1291346.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/cuckoo-third-season-2016/english/1296268.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/cuckoo-third-season-2016/english/1369738.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/entertainment-weekly-2016/english/1302221.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1267476.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1267477.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1279612.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1284497.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1284498.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1289092.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1289093.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1295104.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1297533.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/idiotsitter-2016/english/1297550.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/imax-coral-reef-adventure-2003/english/1515668.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293525.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293526.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293527.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293529.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293530.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293531.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293532.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/jericho-uk-first-season-2016/english/1293560.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/los-angeles-plays-itself-2003/english/1213836.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-88th-annual-academy-awards-the-oscars-2016/english/1286776.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-88th-annual-academy-awards-the-oscars-2016/english/1286914.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-88th-annual-academy-awards-the-oscars-2016/english/1287115.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-88th-annual-academy-awards-the-oscars-2016/english/1290424.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srt/Controller.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srt/Settings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srt/SupportedFileTypesFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srt/TXTFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srt/Video.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srtOLD/Common.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srtOLD/Converter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srtOLD/GUI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srtOLD/NetSubtitle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srtOLD/SRTFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/google2srtOLD/XMLFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/SubtitlesCommon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/youtube/downloaders/CCsubs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/youtube/downloaders/Google2SRTDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/youtube/downloaders/YoutubeSubsDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x01 - Birth..srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x01 - Birth.WEBRip.hi.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x02 - The Application..srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x02 - The Application.hi.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x03 - Mums Group (2).srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x03 - Mums Group .hi.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x04 - Life of Dale..srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x04 - Life of Dale.hi.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x05 - University Challenged.-WEBRip C4TV &amp; RED.English.C.orig.Addic7ed.com.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Cuckoo - 03x05 - University Challenged..srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x06 - Mother's Day..srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x07 - GED Prom..srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x07 - GED Prom.hi.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x08 - Viva la Joy..srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x08 - Viva la Joy.hi.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x09 - Ex-Boyfriend.hi.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x10 - Finale.hi.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Idiotsitter - 01x10 - Finale.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E01.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E02.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E03.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E04.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E05.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E06.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E07.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/Jericho S01E08.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/S01E01 Pilot.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/+Horror++The+Possession+Experiment++2016+++360p+/S01E02 Book Report.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Ghost+Cat++2003+++360p+/IMAX - Coral Reef Adventure 720p.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Ghost+Cat++2003+++360p+/Los Angeles Plays Itself 2003 1080p Blu-ray AVC DTS-HD MA 2.0-KESH.EN   (00802.mpls)   23.976.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/&amp;quot;killdozer&amp;quot; (1974 best quality)_1r3y-SRsNPI_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/A parody of the Hound of the Baskervilles 1978 comedy, a detective on the novel by Conan Doyle_GSEhJS7G3QM_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/ADAM GREEN&amp;#39;S ALADDIN - FULL MOVIE (OFFICIAL)_-c2wtqAfQlQ_1__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Admiral (2008) with English subtitles_1pxbSluvT8w_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Alice ou la derniere fugue_MkWCsYLWxqA_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Audie Murphy, Susan Cabot, Paul Kelly  Romance, Western 1953_BtRp8KBJTpU_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/B9pHNwTyh7o_0_en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Battlefield Baseball (2003) eng subs_vdl5XCKzPWk_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/By a Man&amp;#39;s Face Shall You Know Him (1966)_bT60selrWMc_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/C.R.A.Z.Y (2005) BluRay---720p w_ Subs_Q_eAviwptE4_1__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/City Of God 2002 720p Bluray x264 anoXmous_Yy9aKBBczeg_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Crimson Gold [2004] [Jafar Panahi]_f_t58XHpnFU_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Dark Star   John Carpenter Sci Fi 1974 (full movie)_ZyUVhuOWPuY_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Delivery Man 2013 Full Movie_gF1x9oupG14_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Duel (1971)_wFfbDrkGcG4_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Eating Raoul (1982 black comedy)_jbY6QIJJWYg_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Ellen Page (GhostCat) 2003 Full Movie Family Drama Mystery Animal Supernatural_eP98tP7_Zjc_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Fallen Angels _ Ángeles Caídos _ Duo Luo Tian Shi (1995) [Wong Kar-Wai] Eng. &amp;amp; Esp. Subs_nBISX5tQ9tI_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Fan-O-Rama_ A Futurama Fan Film_f-1RMKdWz8M_3__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Fingerface (full movie)_TCMume4osgE_1__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Flyerboy_nwV_KjeHQXs_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Following (1998) Christopher Nolan&amp;#39;s First Movie English Full Movie_Vzq_O6NXykc_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hell Comes To Frogtown_lQNxVoMlsCE_1__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hindi HD Full Movie&amp;quot;Aa Jao Please&amp;quot;(Come Back Please).hindi b grade movie.hot b&amp;#39;grade Film Subtitles_qHfEdCU8q_A_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 15.34.05 EET 2017_B9pHNwTyh7o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 15.47.37 EET 2017_B9pHNwTyh7o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 15.49.45 EET 2017_B9pHNwTyh7o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 15.49.54 EET 2017_B9pHNwTyh7o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 16.29.13 EET 2017_B9pHNwTyh7o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 16.35.05 EET 2017_B9pHNwTyh7o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 16.37.40 EET 2017_B9pHNwTyh7o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hobgoblins_Fri Mar 17 16.38.05 EET 2017_B9pHNwTyh7o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Isle of Destiny 1940 South Seas Pacific Adventure Movie Film_x3xEfGJGdnM_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/KUNG FURY Official Movie [HD]_bS5P_LAqiVg_5__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/La Casa dalle Finestre che Ridono - Film Completo Italiano Horror_who5T9K5320_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/MST3k 508 - Operation Double 007_14Mfmn7vN4g_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/MST3k 524 - 12 to the Moon_itxqtFjT40w_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/MST3k 601 - Girls Town_LG5ttzxRAsE_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Maas (Maari) Telugu Full Movie __ Dhanush, Kajal Agarwal, Anirudh_ka_rE__84Hk_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Mariyan (Maryan) Latest Telugu Full Movie __ 2015 __ Dhanush_i2pXuPUGA34_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/New Horror Thriller Movie 2017 February Full English Film_fU_MFIneCKY_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Nuremberg (2000)_VnqgCQ7Uk8g_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Pink Floyd - The Story of &amp;quot;Wish You Were Here&amp;quot; (2011)_wbM2_-JeDuY_1__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Re-Animator ( 1985 )._GHDudCPLtRs_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Robert Young, Randolph Scott, Dean Jagger,  History, Western ,Movei 1941_t0T604Vx3Xc_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/STAR WARS EP 4_ Laser Moon Awakens_Lu9dUG3_KNA_0_Correct Subtitles_en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Scary Horror Movie in English 2017 Full Thriller Film_yBvOYgQds9w_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Six String Samurai (1998) _ Official Full Movie [subtitles]_oaPP00uNkNI_2__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Star War The Third Gathers_ Backstroke of the West HD (Dubbed)_XziLNeFm1ok_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Submarine (2010)_9gSTFEw0rdU_2__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/TRAILER PARK JESUS ~ (feature comedy full movie) funny English movie ► free movies on youtube_8tfNc8rcVgw_1__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Lionshare (2009)_CZKRdsL6f6I_1__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Pentagon Wars_iDYpRhoZqBY_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Room_8SOf5qLU3dM_1__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/[Horror] The Possession Experiment (2016) [360p]_Mon Mar 20 13.59.13 EET 2017_yBvOYgQds9w" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/_lHHAmSNV-PY_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/_x_HHnXeMWT0_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Город Зеро_MUpLDZ47VA4_1__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Дорога на Берлин_DjHTWMP_T1U_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Зеркало (HD)_9Yn9q25NWAw_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Кин-дза-дза! 1 серия _ Kin-dza-dza! film 1_I47CNxwlt9U_3__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Особенности национальной охоты в зимний период (English subtitles)_WqYaq3sjgYA_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/♪ Roman Holiday (1953) Full Movie_4DsjLyOZXl0_0__en.srt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/《喋血雙雄 》The Killer  (1989)_9ePwEn5yFLY_0__en.srt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/google2srt/GUI.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/parsers/YTSubsParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/file.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-021Y09VK5g" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-6lEvmumQT4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-95c4y1iBPM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-SP4iii_THQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-_dh0Rpl5KQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/-c2wtqAfQlQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0Hm9QCfkWnY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0RC_hoVg6pQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0WXZZjjWvX0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0hKj1Vk9OwA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/0tIvoGpznyM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/14Mfmn7vN4g" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/1kcU2HxmeMY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/222A7yrRWSk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/2QhZy-Xf07U" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/2jl5NKxjeSM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/2w12OrANH34" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/3PGY962mLbk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/4DsjLyOZXl0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/4OSSSp1qKQE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/4OSSSp1qKQE - Copy" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/4OSSSp1qKQE - Shortcut.lnk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/4c9PORUcW1I" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/5Wau72wKhrk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/5y1baaLRx0c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/6KsysHdGrsM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/79zNYimqYgo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/7ZvAxj78Ifo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/873FfF-Wyeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8LYxO_LKYq0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8PxmIW-X0Kk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8VHca68YuJI" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8dgosa7wkfY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8jYeXur7PvQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/8yPlXcSLOOo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/9-V_zYaVAFY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/9Yn9q25NWAw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/9ePwEn5yFLY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/9gOLWijUUt8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ATAd4YUBrAE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/AoiLlwH_YD0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/B9pHNwTyh7o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/BGIik2H3eto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/BMMZQsYpdHM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/BijV29_1eAA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/BsSuuE-5SDY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/DCbekHrQNYU" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/DdTHg4SQNGE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/DyOolResmEk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/E5zA-j5WZUQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/FGqHNU-LElM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/FeIyp622i3s" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Fxl2U5DSz9w" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/GVsddgwHi40" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/GbB_D4MbkF0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/GlFtMxG6mnY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/HBErRh-1CFk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/HQIRmimwLCo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/HqRcAv6I1WA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Hr9MVhVKMsY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/I-N_bmJiO2w" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/I2ul_vgEl6U" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Ipo86q8C-80" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ItUojuPbaiI" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/LdSdahQu7iE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/LgHIsoGEFSg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/M2EdYGSk1VE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/M5wJw3MvwaY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/MABZpflS-qE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/MUpLDZ47VA4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/MmQqpEy96r4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/MyrVANQu65I" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/NJrqFzRcnic" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/NZzHljr2OKM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/NnaUeQe1m5c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/O-LZI2bfzU0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/PCblCImmgu8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/PQveLvg1ucE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/PaHbACoYNSA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Pb51aSiwUEA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Q2dgRqJSkCk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/RtOmdPvZ4Xk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/RwY6ZNmV1OU" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/SPcYkxmhGs0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/S_ZXsUZvEZw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Srio6FiGNvo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/TCMume4osgE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/TGRDYpCmMcM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/TpUjaxZL04w" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/U2V8Tqg9tIA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/UZrQQg7Lioo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Ub9KKOCBeH8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/VPpTdz391jY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/VdYMFb86Aqs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/VnqgCQ7Uk8g" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/W84ryswwe3I" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/WCqR7n4N9HM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/WRBHGj78_wc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/XziLNeFm1ok" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/YItwF9hVhk4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Yepvi55U4Bc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/YpriPJnBByQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/YtMMQ5a869Y" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Zsqaab-unLs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/Zwh7faRvwiA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ZzyYzK94UU4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/_5HgtuCNCfc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/_gdVxkrfF0w" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/_mMbrHXjXlo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/_oKrd9YHgPU" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/a-o5Yzl5gBY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/aG7i8CYA6uU" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/aWoplbv2KMY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/alUFKzUuudI" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bFEjhWJfYp8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bLTFr_KqVLE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bNa6jZ5mPVM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bTMRwneqKzs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/bbjOShe8dtY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/cHltWy2BmVQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ddHfau_ONSw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/dkA8JR2p_tQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/eD0x2oLq2zQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/eQWNhiJMUvU" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/elL1Bz_q88A" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fCZBnUt6rZ0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fbinlUiPYtM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fbjnw1mMATA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fc-P8Kyvnz4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/fnENewgrCzM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/gJ5Vrc4lJmQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/hUkVcd7SbTw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/hXM-g-UAJiA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/i-71Ohcw-yc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/i-cNZ5u7wpE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/i7sywjzOohs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/iDYpRhoZqBY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/iVbnt4vQE6w" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/j1kCSsR3em0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/jbPRSW1Ft1o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/jhprqMss_7s" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/jlw2CFiSCgc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/kATwZpPgK-w" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/kMZ33cbDP9c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ka8HZcnxFp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/lQNxVoMlsCE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/lZvKrIYv6wk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/mEhfJQfRva8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/milbW4RDIco" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/mogDhH76FeE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/rHOOVb6XDkI" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/rM3W_LzcsHo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/rUsO0uxsrrg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/rwpL0KX_BxI" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/s54sLlRNmHc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/s9S7psudRFk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/sTRzpRTJn-o" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/sa42pxJyq64" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/sm8Ll1dmoDk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/uo65INjv5s0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ut-hn7sFieE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/uvyD3I1dwNs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/uwaSM8NAD7A" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/uxAHYSIoT-I" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/vQvPCVE2b_s" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/vdl5XCKzPWk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/vgRMteY-o0k" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/vtvJWKaDI9s" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/w2Fd_f1epgo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/wc4R3SOif0g" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/who5T9K5320" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/wkPHeRoB-OA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/wq5Ifor-NCA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/ww60AmXXhBc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/x7bGOa9x9M4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/xD0fgwzZPIc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/xaFTZRTDOJ8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/xnGHJ7VlYYc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/xs84E9XXRkA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/y4HZjON6YgM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/y4kdKdibTMQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/y97Ywl7RtUw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yS37kyfnGy4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yYl4ejS6xko" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yZfe6QUJihw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yj0DHTiE0lA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/yjLWrxRlmXE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/z4zTisrdBxI" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/zZ3WS4JoTLU" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/subtitles/youtube/zai5vEiReGw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_ca.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_en.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_es.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_it.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_pt_BR.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_zh_HanS.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Bundle_zh_HanT.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/GUI$tIdioma.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/GUI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/GUI.form" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$HostNoGV.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$InvalidDocId.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$NoDocId.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$NoQuery.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$NoSubs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network$NoYouTubeParamV.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/Network.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/TableModel$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/TableModel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/ca.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/en.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/es.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/it.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/pt_BR.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/zh_HanS.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/google2srt/zh_HanT.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/main/parsers/YTSubsParser.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_ca.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_ca.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_en.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_en.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_es.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_es.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_it.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_it.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_pt_BR.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_pt_BR.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_zh_HanS.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_zh_HanS.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Bundle_zh_HanT.properties" afterPath="$PROJECT_DIR$/src/google2srtOLD/Bundle_zh_HanT.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/GUI.form" afterPath="$PROJECT_DIR$/src/google2srtOLD/GUI.form" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/Network.java" afterPath="$PROJECT_DIR$/src/google2srtOLD/Network.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/TableModel.java" afterPath="$PROJECT_DIR$/src/google2srtOLD/TableModel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/ca.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/ca.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/en.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/en.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/es.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/es.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/it.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/it.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/pt_BR.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/pt_BR.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/zh_HanS.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/zh_HanS.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/google2srt/zh_HanT.jpg" afterPath="$PROJECT_DIR$/src/google2srtOLD/zh_HanT.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/Common.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/Common.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/Converter.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/Converter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$1.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$Method.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$Method.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$Tipus.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle$Tipus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/NetSubtitle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/SRTFilter.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/SRTFilter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/google2srt/XMLFilter.class" afterPath="$PROJECT_DIR$/target/classes/google2srt/XMLFilter.class" />
+    <list default="true" id="8ec9a167-8ea0-4581-8c41-7e9905ec164e" name="Default" comment="+">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Itinéraire d'un enfant gâté 1988.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/f-formula-1-1988/english/1413083.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/girls-without-tomorrow-aka-call-girl-88-1988-ying-zhao-nu-lang-1988/english/185855.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/gorenos/english/1491246.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/heathers/english/1137423.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/heathers/english/1492635.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/heathers/english/53037.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/itinraire-dun-enfant-gt-1988/english/1345980.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/swamp-thing/english/1344825.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/swamp-thing/english/344802.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/swamp-thing/english/767849.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/swamp-thing/english/777772.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/swamp-thing/english/777773.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-thing/english/1038732.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-thing/english/1411413.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-thing/english/1411415.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-thing/english/1411437.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-thing/english/1411438.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-thing/english/1411449.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-thing/english/1412067.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/temp/the-thing/english/1412070.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesWithAutoCaptionedSubtitles.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/moviesWithOriginalSubs.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep01.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep02.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep03.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep04.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep05.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep06.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep07.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep08.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep09.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep10.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep11.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep12.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep13.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep14.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep15.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep16.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep17.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep18.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep19.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep20.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep21.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep22.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep23.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep24.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep25.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep26.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep27.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep28.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep29.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep30.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Formula 1 Ep31.english.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers++1988+++360p+/Girls.Without.Tomorrow.1988.DVDRip.XviD-AsiSter.English.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers/Heathers.1988.720p.BluRay.x264.YIFY.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/Heathers/Heathers.1989.720p.BluRay.x264.Ganool.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/The+Making+Of+The+Thing+p+See+The+Thing+first+if+you+haven't+/Swamp Thing (1982).srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/The+Making+Of+The+Thing+p+See+The+Thing+first+if+you+haven't+/Swamp.Thing.1982.1080p.BluRay.x264-HD4U.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/The+Making+Of+The+Thing+p+See+The+Thing+first+if+you+haven't+/Swamp.Thing.1982.720p.BluRay.x264-HD4U.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/The+Making+Of+The+Thing+p+See+The+Thing+first+if+you+haven't+/The.Thing.1982.REMASTERED.1080p.BluRay.AVC.DTS-HD.MA.5.1-FGT-SDH.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/The+Making+Of+The+Thing+p+See+The+Thing+first+if+you+haven't+/The.Thing.1982.REMASTERED.1080p.BluRay.AVC.DTS-HD.MA.5.1-FGT.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/The+Making+Of+The+Thing+p+See+The+Thing+first+if+you+haven't+/The.Thing.1982.REMASTERED.1080p.BluRay.x264-AMIABLE-HI.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/The+Making+Of+The+Thing+p+See+The+Thing+first+if+you+haven't+/The.Thing.1982.REMASTERED.1080p.BluRay.x264-AMIABLE.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/The+Making+Of+The+Thing+p+See+The+Thing+first+if+you+haven't+/The.Thing.1982.REMASTERED.720p.BluRay.x264-AMIABLE-HI.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/The+Making+Of+The+Thing+p+See+The+Thing+first+if+you+haven't+/The.Thing.1982.REMASTERED.720p.BluRay.x264-AMIABLE.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/The+Making+Of+The+Thing+p+See+The+Thing+first+if+you+haven't+/The.Thing.BluRay.23976.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/The+Making+Of+The+Thing+p+See+The+Thing+first+if+you+haven't+/[1982] Swamp Thing.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/subscene/gorenos+/Gorenos.2016.1080p.WEB-DL.AAC2.0.H264-FGT.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/(1932) The Old Dark House_cHltWy2BmVQ_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/A Muppet Family Christmas_J3h6eKTGhdE_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/ARISE The Church of the Subgenius Recruitment Video_o0x9ymMQUg8_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Attack of the Puppet People (1958)_aQsRE2tVQNM_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Battle Royal High School - 1987 - ANIMATION MOVIE_Kb3O-pgoEok_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Beastie Boys - Move On Up - The Full Movie_TZn-fO1W_dE_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Blast of Silence 1961_QfQDRmL4P8U_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/California Dreaming - The bankrupt Golden State - (vpro backlight documentary - 2010)_zKkJB8Etq54_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Casper A Spirited Beginning 1997 Full Movie_W84ryswwe3I_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Chopper Chicks in Zombietown_kc-E-MojDIc_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Christmas Animation Movies For Children Full Length Animation Movies English_9hcbU3mWd2A_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Christmas in Tattertown (1988) (best quality)_AoiLlwH_YD0_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Comet ISON_ Maybe, Hehe... Night of the Comet (1984) Full Movie_IRrniG0RWsA_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Common Law Cabin (1967)_J2F3Ai9shQA_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Copy of Shadows _ John Cassavetes (1959)._vPGM3nH0_2Y_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Cre@tur3s Fr0m th3 Aby55 @K@ pL@nkt0n_x7bGOa9x9M4_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/DARK TOUCH _ORIGINAL_FULL_LENGTH_ MOVIE_720P_ucgDmXB9skk_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Defenders of Space_pygrLbKU3rg_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Dr. Phibes Rises Again! (1972)_7_tCg3-VuKg_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Endgame (Beckett)_ok7Vc3jczNg_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Fan-O-Rama_ A Futurama Fan Film_f-1RMKdWz8M_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Fingerface (full movie)_TCMume4osgE_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/GUNNM - Battle Angel Alita - English Dub  🆗_r6zOJRTYNes_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Genesis II (1973)_CxU4x2HKtMM_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Heathers_Mon Apr 03 00.42.41 EEST 2017_x7d55pVHCyU" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Hell Comes To Frogtown_lQNxVoMlsCE_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Ice Cream Man 1995)_mQjM8kcTvHg_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Impressions Of Dune - Documentary 2003 - Frank Herbert&amp;#39;s Dune (1985) Documentary_hSA79XHMBFo_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/John Carpenter _ Kurt Russell -  The Making Of The Thing_qUbclpxMyYs_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/KUNG FURY Official Movie [HD]_bS5P_LAqiVg_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Last Ounce of Courage 2012 www.Filmecrestine.Net_dkA8JR2p_tQ_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Legend of The Drunken Master FULL MOVIE 1994 (Jackie Chan)_4OSSSp1qKQE_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Leonard Cohen - The Early Years - Full Movie_DCbekHrQNYU_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Louis CK - Chewed Up [napisy PL]_Fxl2U5DSz9w_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/MANOS - The Hands of Felt (full movie)_5sRWgT6FBXk_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/MST3K - Time Chasers_ddHfau_ONSw_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/MST3k.s08.e20 - Space Mutiny_sa42pxJyq64_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/MUSICAL&amp;#39;S - Jeremy 1973_jLi-oAbkEHQ_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Maniac Cop 3 - O Distintivo do Silêncio 1993 Legendado_PErxg3EcoFg_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Men Behind The Sun_bqnftyYWW4E_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Mother Goose Rock N&amp;#39; Rhyme - TV Movie -1990 - Jeff Stein_8GcOMJ2My6g_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/My Pet Monster Movie VHS 1986_sm8Ll1dmoDk_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/New Best Action Movie 2017 Full Length - Zombies Best Thriller Movies - Hollywood Movies 2017_1DxqEUVA3fQ_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/New Scary Horror Movie 2017⎮ English Full Thriller Movie_G_JNOKW2opg_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Noel (1992)_BzKj4jYuG-I_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Olive the Other Reindeer (1999)_s54sLlRNmHc_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Othello - Orson Welles_09NWcKA7JKw_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Path to Paradise - Full Movie_VdYMFb86Aqs_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Person of Interest - 2010 FULL MOVIE_ynba-pWDcZc_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Pink Floyd - The Story of &amp;quot;Wish You Were Here&amp;quot; (2011)_wbM2_-JeDuY_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Rapsittie Street Kids_ Believe in Santa (EXTREMELY RARE 2002 TV MOVIE)_4e-wuyjgDPQ_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Ruby Bridges 1998 Full movie_QZgnDbSQ4Io_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Rudolph The Red-Nosed Reindeer_ The Movie_RwY6ZNmV1OU_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/SPIDER BABY (1964) - Full Length horror movie_vHfPDRYJaeY_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Salesman Albert Maysles, David Maysles &amp;amp; Charlotte Mitchell Zwerin, 1969)_oXxZnL5HokA_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Salt of the Earth _ Full Classic Movie _ 1954 __ixSCmBxytbQ_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Santa Claus (1959) • Fantasy • Family • FULL KIDS MOVIE_QUjEQ1x1SuM_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Santa Claus Conquers the Martians (1964) [HD]_AKBB7MncwaE_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Saturday Matinee_ The Wasp Woman (1959)_5y1baaLRx0c_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Scarlet Street (1945) [240p]_ZHOqJ5QfGC0_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Scary Thriller Movies 2017 in English Hollywood⎮Horror Full Movie_DZbMemiSBQw_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/She  ~~ Prod. by Merian C. Cooper ~ 1935  ~Welcome to new subscribers, and thanks!_0hKj1Vk9OwA_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Sonny Boy (1989)_S0XynUNvAnI_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Star Wars - Music by John Williams Rare 1980 Documentary_6eWqxlCNnKE_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Starcrash _ 1978 __8hqcGK72XYQ_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/THE GALAXY INVADER_6T5_Ay13Yek_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/THE VISITORS (1972) Drama seventies James Woods_m2iRcah8LMg_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/TO OUR BRIGHT WHITE HEARTS _ ▼▼▲▲™_RWNmUW-MHLY_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Adventures of Teddy Ruxpin (Live Action) [COMPLETE]_i-71Ohcw-yc_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Bait (1973)_fbinlUiPYtM_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Crooked Way (1949) - John Payne, Sonny Tufts, Ellen Drew_7NokW3adOts_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Electric Grandmother_dZsnpgtYvHs_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Failing of Raymond (1971)_FGqHNU-LElM_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Guy From Harlem 1977) Full Movie UNCUT_mF3PfLgn9Lg_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Horror at 37,000 Feet (1973)_8LYxO_LKYq0_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Killer Shrews (1959) - Full Movie, Creature Feature_GVsddgwHi40_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Lionshare (2009)_CZKRdsL6f6I_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Little Shop of Horrors (1960) FULL MOVIE_xaFTZRTDOJ8_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Miracle Worker_bLTFr_KqVLE_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Missing Link (1980, Full Movie)_VLHusmBbDEQ_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Night Flier 1997 Fantasy, Horror, Mystery - Miguel Ferrer, Julie Entwisle, Dan Monahan_K6xW2m9L6lA_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/The Sadist - Full Length Thriller Movie_G0jmD0WL2mg_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Tribes 1970_aG7i8CYA6uU_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/WHISTLE STOP (1946) George Raft - Ava Gardner - Victor McLaglen_UE8gzD-J8FA_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Winona Ryder HEATHERS 1989 Full Movie HD_x7d55pVHCyU_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Without Warning [Full] (1994)_f9xMTA7qhZM_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/Wizards 1977 • Full_Lt1FrOSYJ4g_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/[[18+ Adult Film]]Independence Day (1983 - Dianne Wiest)_7t8NJbdddtM_0__en.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/gorenos  [360]_Mon Apr 03 01.22.40 EEST 2017_DZbMemiSBQw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/gorenos  [360]_Mon Apr 03 01.23.50 EEST 2017_DZbMemiSBQw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subtitles/youtube/the bed sitting room_de0w8tU0j1U_0__en.srt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myfile.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/Main.class" afterPath="$PROJECT_DIR$/target/classes/main/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/SubtitlesUtils.class" afterPath="$PROJECT_DIR$/target/classes/main/SubtitlesUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/Utils.class" afterPath="$PROJECT_DIR$/target/classes/main/Utils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/parsers/OpenSubtitlesParser.class" afterPath="$PROJECT_DIR$/target/classes/main/parsers/OpenSubtitlesParser.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/parsers/RedditParser.class" afterPath="$PROJECT_DIR$/target/classes/main/parsers/RedditParser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/parsers/SubsceneSubsParser$GenericExtFilter.class" afterPath="$PROJECT_DIR$/target/classes/main/parsers/SubsceneSubsParser$GenericExtFilter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/parsers/SubsceneSubsParser.class" afterPath="$PROJECT_DIR$/target/classes/main/parsers/SubsceneSubsParser.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/Changelog.txt" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/Changelog.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/README.TXT" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/README.TXT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/download.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/download.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/help.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/help.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/index.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/screenshots.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/ca/screenshots.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/download.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/download.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/help.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/help.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/index.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/screenshots.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/en/screenshots.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/download.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/download.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/help.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/help.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/index.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/screenshots.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/es/screenshots.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/download.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/download.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/help.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/help.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/index.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/screenshots.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/it/screenshots.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/download.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/download.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/help.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/help.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/index.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/screenshots.html" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/doc/pt-br/screenshots.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Converter.java" afterPath="$PROJECT_DIR$/Google2SRT-0.6.1/src/Converter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myfile.txt" afterPath="$PROJECT_DIR$/myfile.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/google2srt/Common.java" afterPath="$PROJECT_DIR$/src/google2srt/Common.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/google2srt/Converter.java" afterPath="$PROJECT_DIR$/src/google2srt/Converter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/google2srt/NetSubtitle.java" afterPath="$PROJECT_DIR$/src/google2srt/NetSubtitle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/google2srt/SRTFilter.java" afterPath="$PROJECT_DIR$/src/google2srt/SRTFilter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/google2srt/XMLFilter.java" afterPath="$PROJECT_DIR$/src/google2srt/XMLFilter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/Main.java" afterPath="$PROJECT_DIR$/src/main/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/SubtitlesUtils.java" afterPath="$PROJECT_DIR$/src/main/SubtitlesUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/Utils.java" afterPath="$PROJECT_DIR$/src/main/Utils.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/parsers/RedditParser.java" afterPath="$PROJECT_DIR$/src/main/parsers/RedditParser.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java" afterPath="$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subtitles/youtube/&amp;quot;killdozer&amp;quot; (1974 best quality)_1r3y-SRsNPI_0__en.srt" afterPath="$PROJECT_DIR$/subtitles/youtube/&amp;quot;killdozer&amp;quot; (1974 best quality)_1r3y-SRsNPI_0__en.srt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subtitles/youtube/Dark Star   John Carpenter Sci Fi 1974 (full movie)_ZyUVhuOWPuY_0__en.srt" afterPath="$PROJECT_DIR$/subtitles/youtube/Dark Star   John Carpenter Sci Fi 1974 (full movie)_ZyUVhuOWPuY_0__en.srt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subtitles/youtube/Ellen Page (GhostCat) 2003 Full Movie Family Drama Mystery Animal Supernatural_eP98tP7_Zjc_0__en.srt" afterPath="$PROJECT_DIR$/subtitles/youtube/Ellen Page (GhostCat) 2003 Full Movie Family Drama Mystery Animal Supernatural_eP98tP7_Zjc_0__en.srt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subtitles/youtube/Isle of Destiny 1940 South Seas Pacific Adventure Movie Film_x3xEfGJGdnM_0__en.srt" afterPath="$PROJECT_DIR$/subtitles/youtube/Isle of Destiny 1940 South Seas Pacific Adventure Movie Film_x3xEfGJGdnM_0__en.srt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subtitles/youtube/MST3k 508 - Operation Double 007_14Mfmn7vN4g_0__en.srt" afterPath="$PROJECT_DIR$/subtitles/youtube/MST3k 508 - Operation Double 007_14Mfmn7vN4g_0__en.srt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subtitles/youtube/MST3k 524 - 12 to the Moon_itxqtFjT40w_0__en.srt" afterPath="$PROJECT_DIR$/subtitles/youtube/MST3k 524 - 12 to the Moon_itxqtFjT40w_0__en.srt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subtitles/youtube/MST3k 601 - Girls Town_LG5ttzxRAsE_0__en.srt" afterPath="$PROJECT_DIR$/subtitles/youtube/MST3k 601 - Girls Town_LG5ttzxRAsE_0__en.srt" />
     </list>
     <ignored path="main.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -455,83 +205,30 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40">
-              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <state relative-caret-position="257">
+              <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#634#642#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RedditParser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/parsers/RedditParser.java">
+      <file leaf-file-name="moviesWithAutoCaptionedSubtitles.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moviesWithAutoCaptionedSubtitles.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="44">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
+      <file leaf-file-name="main.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="2237" column="18" selection-start-line="2237" selection-start-column="18" selection-end-line="2237" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myfile.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myfile.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubtitlesUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/SubtitlesUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="523" column="23" selection-start-line="523" selection-start-column="23" selection-end-line="523" selection-end-column="23" />
-              <folding>
-                <marker date="1489999100844" expanded="false" signature="12078:12099" ph="&lt;~&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubsceneSubsParser.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="176" column="48" selection-start-line="176" selection-start-column="48" selection-end-line="176" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ZipFile.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/net/lingala/zip4j/zip4j/1.3.2/zip4j-1.3.2.jar!/net/lingala/zip4j/core/ZipFile.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Google2SRTDownloader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/youtube/downloaders/Google2SRTDownloader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -540,22 +237,71 @@
       <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/google2srt/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+            <state relative-caret-position="3674">
+              <caret line="182" column="18" selection-start-line="182" selection-start-column="18" selection-end-line="182" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1366#1367#0" expanded="false" />
+                <element signature="e#1428#1429#0" expanded="false" />
+                <element signature="e#1487#1488#0" expanded="false" />
+                <element signature="e#1549#1550#0" expanded="false" />
+                <element signature="e#1593#1594#0" expanded="false" />
+                <element signature="e#1644#1645#0" expanded="false" />
+                <element signature="e#1689#1690#0" expanded="false" />
+                <element signature="e#1740#1741#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedditParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/parsers/RedditParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Movie.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Movie.java">
+      <file leaf-file-name="SubtitlesUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/SubtitlesUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+            <state relative-caret-position="169">
+              <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
               <folding>
-                <element signature="e#762#763#0" expanded="true" />
-                <element signature="e#815#816#0" expanded="true" />
+                <marker date="1490089445449" expanded="false" signature="12074:12095" ph="&lt;~&gt;" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubsceneSubsParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="2221" column="18" selection-start-line="2221" selection-start-column="18" selection-end-line="2221" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -604,9 +350,11 @@
         <option value="$PROJECT_DIR$/src/google2srt/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/youtube/downloaders/Google2SRTDownloader.java" />
         <option value="$PROJECT_DIR$/src/main/SubtitlesUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/Main.java" />
         <option value="$PROJECT_DIR$/src/main/parsers/RedditParser.java" />
+        <option value="$PROJECT_DIR$/src/main/Utils.java" />
+        <option value="$PROJECT_DIR$/moviesWithAutoCaptionedSubtitles.txt" />
         <option value="$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java" />
+        <option value="$PROJECT_DIR$/src/main/Main.java" />
       </list>
     </option>
   </component>
@@ -618,10 +366,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1277" />
+    <option name="height" value="1309" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -648,8 +394,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Problems" />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -748,87 +497,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; 1.8 &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rt.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="subtitles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="subtitles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="subscene" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="temp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="subtitles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="subscene" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -922,32 +591,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="google2srtOLD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="google2srt" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Problems" />
       </pane>
     </panes>
   </component>
@@ -957,7 +605,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="SearchEverywhereHistoryKey" value="downloadSubs&#9;PSI&#9;JAVA://main.youtube.downloaders.CCsubs#downloadSubs" />
+    <property name="SearchEverywhereHistoryKey" value="parse&#9;FILE&#9;file://C:/Users/Justas.Rutkauskas/workspace/main/src/main/parsers/SubsceneSubsParser.java&#10;downloadSubs&#9;PSI&#9;JAVA://main.youtube.downloaders.CCsubs#downloadSubs" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1281,6 +929,14 @@
       <option name="presentableId" value="Default" />
       <updated>1482403174268</updated>
     </task>
+    <task id="LOCAL-00001" summary="+">
+      <created>1490013641257</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1490013641257</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1303,30 +959,39 @@
       <configuration name="SubtitlesUtils.testCheckIfSimiliar" configurationId="JUnit" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1277" height="1309" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281471" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32760596" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3716143" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.371134" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28091684" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.102345414" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25027084" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27477103" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09590517" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24825175" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26136363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3445287" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1358,26 +1023,31 @@
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <condition expression="startHours == 1" language="JAVA" />
-          <url>file://$PROJECT_DIR$/src/main/SubtitlesUtils.java</url>
-          <line>75</line>
+          <url>file://$PROJECT_DIR$/src/main/Main.java</url>
+          <line>161</line>
           <properties />
-          <option name="timeStamp" value="80" />
+          <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/Main.java</url>
-          <line>47</line>
+          <line>53</line>
           <properties />
-          <option name="timeStamp" value="86" />
+          <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/Main.java</url>
-          <line>52</line>
+          <line>90</line>
           <properties />
-          <option name="timeStamp" value="87" />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Main.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="113" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="96" />
+      <option name="time" value="114" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1386,23 +1056,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/subtitles/youtube/B9pHNwTyh7o" />
-    <entry file="file://$PROJECT_DIR$/subtitles/youtube/9gOLWijUUt8" />
-    <entry file="file://$PROJECT_DIR$/subtitles/youtube/-c2wtqAfQlQ" />
-    <entry file="file://$PROJECT_DIR$/src/google2srt/SupportedFileTypesFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/google2srt/TXTFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/google2srt/XMLFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -1414,11 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3638">
           <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#33182#0" expanded="false" />
-            <element signature="e#33104#33105#0" expanded="false" />
-            <element signature="e#33178#33179#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1461,55 +1109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#70798#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3030#3119#0" expanded="false" />
-            <element signature="e#6017#6018#0" expanded="false" />
-            <element signature="e#6076#6077#0" expanded="false" />
-            <element signature="e#6417#6418#0" expanded="false" />
-            <element signature="e#6476#6477#0" expanded="false" />
-            <element signature="e#6893#6894#0" expanded="false" />
-            <element signature="e#6950#6951#0" expanded="false" />
-            <element signature="e#7101#7102#0" expanded="false" />
-            <element signature="e#7157#7158#0" expanded="false" />
-            <element signature="e#7584#7585#0" expanded="false" />
-            <element signature="e#7642#7643#0" expanded="false" />
-            <element signature="e#8024#8025#0" expanded="false" />
-            <element signature="e#8085#8086#0" expanded="false" />
-            <element signature="e#8473#8474#0" expanded="false" />
-            <element signature="e#8535#8536#0" expanded="false" />
-            <element signature="e#8926#8927#0" expanded="false" />
-            <element signature="e#8989#8990#0" expanded="false" />
-            <element signature="e#10317#10318#0" expanded="false" />
-            <element signature="e#10382#10383#0" expanded="false" />
-            <element signature="e#10825#10826#0" expanded="false" />
-            <element signature="e#10890#10891#0" expanded="false" />
-            <element signature="e#11333#11334#0" expanded="false" />
-            <element signature="e#11398#11399#0" expanded="false" />
-            <element signature="e#11712#11713#0" expanded="false" />
-            <element signature="e#11770#11771#0" expanded="false" />
-            <element signature="e#12099#12100#0" expanded="false" />
-            <element signature="e#12160#12161#0" expanded="false" />
-            <element signature="e#12616#12617#0" expanded="false" />
-            <element signature="e#12683#12684#0" expanded="false" />
-            <element signature="e#13126#13127#0" expanded="false" />
-            <element signature="e#13191#13192#0" expanded="false" />
-            <element signature="e#16149#16150#0" expanded="false" />
-            <element signature="e#16218#16219#0" expanded="false" />
-            <element signature="e#16691#16692#0" expanded="false" />
-            <element signature="e#16761#16762#0" expanded="false" />
-            <element signature="e#32414#32415#0" expanded="false" />
-            <element signature="e#32464#32465#0" expanded="false" />
-            <element signature="e#33144#33145#0" expanded="false" />
-            <element signature="e#33203#33204#0" expanded="false" />
-            <element signature="e#39474#39475#0" expanded="false" />
-            <element signature="e#39532#39533#0" expanded="false" />
-            <element signature="e#39853#39854#0" expanded="false" />
-            <element signature="e#39903#39904#0" expanded="false" />
-            <element signature="e#40165#40166#0" expanded="false" />
-            <element signature="e#40207#40208#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1524,22 +1123,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/youtube/downloaders/CCsubs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="44" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/subtitles/youtube/Goblins/The Oscars and The Bechdel Test_PH8JuizIXw8_3__en.srt" />
     <entry file="file://$PROJECT_DIR$/src/main/CacheRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1548,9 +1136,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1241">
           <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1559,7 +1144,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1567,7 +1151,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1575,7 +1158,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1583,7 +1165,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1591,7 +1172,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1599,7 +1179,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
           <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1607,7 +1186,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1631,7 +1209,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="603" column="0" selection-start-line="603" selection-start-column="0" selection-end-line="603" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1639,7 +1216,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
           <caret line="720" column="9" selection-start-line="720" selection-start-column="7" selection-end-line="720" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1655,7 +1231,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10846">
           <caret line="638" column="0" selection-start-line="638" selection-start-column="0" selection-end-line="638" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1667,14 +1242,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subtitles/file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/subtitles/file.txt" />
     <entry file="file://$PROJECT_DIR$/src/google2srtOLD/GUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -1687,82 +1255,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
           <caret line="432" column="27" selection-start-line="432" selection-start-column="27" selection-end-line="432" selection-end-column="27" />
-          <folding>
-            <element signature="e#15752#15753#0" expanded="true" />
-            <element signature="e#15796#15797#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/youtube/downloaders/Google2SRTDownloader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-          <folding>
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/SubtitlesUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="523" column="23" selection-start-line="523" selection-start-column="23" selection-end-line="523" selection-end-column="23" />
-          <folding>
-            <marker date="1489999100844" expanded="false" signature="12078:12099" ph="&lt;~&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/google2srt/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myfile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="2237" column="18" selection-start-line="2237" selection-start-column="18" selection-end-line="2237" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/parsers/RedditParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#634#642#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1770,14 +1262,162 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7854">
+          <caret line="387" column="18" selection-start-line="387" selection-start-column="18" selection-end-line="387" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19900#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3011#3012#0" expanded="false" />
+            <element signature="e#3058#3059#0" expanded="false" />
+            <element signature="e#15257#15258#0" expanded="false" />
+            <element signature="e#15284#15285#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="e#376#377#0" expanded="false" />
+            <element signature="e#401#402#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#489#490#0" expanded="false" />
+            <element signature="e#525#526#0" expanded="false" />
+            <element signature="e#545#546#0" expanded="false" />
+            <element signature="e#592#593#0" expanded="false" />
+            <element signature="e#619#620#0" expanded="false" />
+            <element signature="e#662#663#0" expanded="false" />
+            <element signature="e#695#696#0" expanded="false" />
+            <element signature="e#843#844#0" expanded="false" />
+            <element signature="e#861#862#0" expanded="false" />
+            <element signature="e#898#899#0" expanded="false" />
+            <element signature="e#921#922#0" expanded="false" />
+            <element signature="e#954#955#0" expanded="false" />
+            <element signature="e#977#978#0" expanded="false" />
+            <element signature="e#1024#1025#0" expanded="false" />
+            <element signature="e#1057#1058#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/youtube/downloaders/CCsubs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/youtube/downloaders/Google2SRTDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="48" column="37" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/google2srt/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3674">
+          <caret line="182" column="18" selection-start-line="182" selection-start-column="18" selection-end-line="182" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1366#1367#0" expanded="false" />
+            <element signature="e#1428#1429#0" expanded="false" />
+            <element signature="e#1487#1488#0" expanded="false" />
+            <element signature="e#1549#1550#0" expanded="false" />
+            <element signature="e#1593#1594#0" expanded="false" />
+            <element signature="e#1644#1645#0" expanded="false" />
+            <element signature="e#1689#1690#0" expanded="false" />
+            <element signature="e#1740#1741#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfile.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/parsers/RedditParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="2221" column="18" selection-start-line="2221" selection-start-column="18" selection-end-line="2221" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/SubtitlesUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="188" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+          <folding>
+            <marker date="1490089445449" expanded="false" signature="12074:12095" ph="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/parsers/SubsceneSubsParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="176" column="48" selection-start-line="176" selection-start-column="48" selection-end-line="176" selection-end-column="48" />
+        <state relative-caret-position="169">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviesWithAutoCaptionedSubtitles.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

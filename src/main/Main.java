@@ -7,10 +7,7 @@ import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 import javax.imageio.ImageIO;
 
@@ -45,14 +42,18 @@ public class Main {
     }
 
     private static void downloadMoviesAndTryToFindSubtitlesAndSyncThem() throws IOException {
-        RedditParser reddirParser = new RedditParser();
-        List<Movie> movies = reddirParser.start();
+//        RedditParser reddirParser = new RedditParser();
+//        List<Movie> movies = reddirParser.start();
 
-        List<Movie> moviesWithSubtitles = downloadSubs(movies, true);
+//        List<Movie> moviesWithSubtitles = downloadSubs(movies, true);
+//        saveToFile(moviesWithSubtitles, "moviesWithAutoCaptionedSubtitles.txt");
+        List<Movie> moviesWithSubtitles = readMoviesFromFile("moviesWithAutoCaptionedSubtitles.txt");
 
         for(Movie movie : moviesWithSubtitles) {
 //            String movieName = "Hobgoblins";
             String movieName = movie.getName();
+            movieName = movieName.replaceAll("\\(.+?\\)", "").replaceAll("\\(.+?\\)", "").trim();
+
             String releaseYear = movie.getReleaseYear();
 //            String ytId = "B9pHNwTyh7o";
             String ytId = movie.getYoutubeId();
@@ -67,6 +68,9 @@ public class Main {
 //
             SubtitleFile mostSimiliarSubsFile = SubtitlesUtils.findMostSimiliarSubs(subtitlesList, ytSubtitleFile.subtitles);
 //
+            if(mostSimiliarSubsFile == null)
+                continue;
+
             SubtitlesCommon subtitleCommon =
                     SubtitlesUtils.findCommonThings(mostSimiliarSubsFile.subtitles,
                             ytSubtitleFile.subtitles);
@@ -86,9 +90,36 @@ public class Main {
 
             SubtitlesUtils.writeSubtitlesToFile(mostSimiliarSubsFile.subtitles,
                     Google2SRTDownloader.OUTPUT_FOLDER + movieName + "_" + new Date().toString().replace(":", ".") + "_" + ytId);
-            saveToFile(moviesWithSubtitles);
+//            saveToFile(moviesWithSubtitles);
 //         downloadYtPictures(RedditParser.getExistingMovies());
         }
+    }
+
+    private static List<Movie> readMoviesFromFile(String fileName) {
+        List<Movie> movies = new ArrayList<>();
+
+        try {
+            BufferedReader br = new BufferedReader(new FileReader(fileName));
+
+            String line;
+            while((line = br.readLine()) != null)
+            {
+                Movie m = new Movie();
+                m.setName(line);
+                m.setYoutubeId(br.readLine());
+                m.setReleaseYear(br.readLine());
+                m.setGenres(Arrays.asList(br.readLine().split(",")));
+                m.setSubDownloadLocation(br.readLine());
+                br.readLine();
+                movies.add(m);
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return movies;
     }
 
     private static void downloadMoviesAndSubtitles() {
@@ -96,7 +127,7 @@ public class Main {
         List<Movie> movies = reddirParser.start();
 
         List<Movie> moviesWithSubtitles = downloadSubs(movies, false);
-        saveToFile(moviesWithSubtitles);
+//        saveToFile(moviesWithSubtitles);
     }
 
     public static List<Movie> downloadSubs(List<Movie> movies, boolean downloadAutoCaptioned) {
@@ -126,14 +157,14 @@ public class Main {
         return ret;
     }
 
-    private static void saveToFile(List<Movie> movies) {
-
+    private static void saveToFile(List<Movie> movies, String fileName) {
+        logger.debug("saving to file: " + fileName + " " + movies.size() + " movies");
         for (Movie movie : movies) {
             try {
                 String movieString = movie.getName() + "\n" + movie.getYoutubeId() + "\n" + movie.getReleaseYear()
-                        + "\n" + (movie.getGenres() != null ? StringUtils.join(movie.getGenres(), ",") : "") + "\n\n";
+                        + "\n" + (movie.getGenres() != null ? StringUtils.join(movie.getGenres(), ",") : "") + "\n" + movie.getSubDownloadLocation() + "\n\n";
 
-                Files.write(Paths.get("myfile.txt"), movieString.getBytes(), StandardOpenOption.APPEND);
+                Files.write(Paths.get(fileName), movieString.getBytes(), StandardOpenOption.APPEND);
             } catch (Exception e) {
                 // exception handling left as an exercise for the reader
             }

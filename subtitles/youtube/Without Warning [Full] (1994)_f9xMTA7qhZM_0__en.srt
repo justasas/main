@@ -1,0 +1,7828 @@
+﻿1
+00:00:14,679 --> 00:00:16,739
+you
+
+2
+00:00:30,269 --> 00:00:34,350
+we interrupt<font color="#CCCCCC"> this program for a special</font>
+
+3
+00:00:32,368 --> 00:00:37,920
+bulletin<font color="#E5E5E5"> here now is sandy hill</font>
+
+4
+00:00:34,350 --> 00:00:40,140
+seismologists at<font color="#CCCCCC"> Caltech now report at</font>
+
+5
+00:00:37,920 --> 00:00:41,670
+least three separate seismic events
+
+6
+00:00:40,140 --> 00:00:45,450
+tonight each in the northern hemisphere
+
+7
+00:00:41,670 --> 00:00:47,969
+with earth tremors of<font color="#E5E5E5"> magnitude 8.5 and</font>
+
+8
+00:00:45,450 --> 00:00:50,070
+above the<font color="#CCCCCC"> first location is believed to</font>
+
+9
+00:00:47,969 --> 00:00:52,979
+<font color="#E5E5E5">be in the Thunder Basin area of Wyoming</font>
+
+10
+00:00:50,070 --> 00:00:55,439
+that's about<font color="#CCCCCC"> 200 miles east of</font><font color="#E5E5E5"> Casper so</font>
+
+11
+00:00:52,979 --> 00:00:57,869
+far we have no reports<font color="#CCCCCC"> of casualties</font><font color="#E5E5E5"> the</font>
+
+12
+00:00:55,439 --> 00:01:00,030
+other two sites in<font color="#CCCCCC"> Europe and Asia have</font>
+
+13
+00:00:57,869 --> 00:01:01,530
+not been identified<font color="#E5E5E5"> but stay tuned at</font>
+
+14
+00:01:00,030 --> 00:01:04,198
+eleven o'clock news for further details
+
+15
+00:01:01,530 --> 00:01:06,680
+we now resume our regularly scheduled
+
+16
+00:01:04,198 --> 00:01:06,679
+program
+
+17
+00:01:26,319 --> 00:01:30,939
+we<font color="#E5E5E5"> interrupt this</font><font color="#CCCCCC"> program for a special</font>
+
+18
+00:01:29,109 --> 00:01:32,920
+report from<font color="#E5E5E5"> evening World News in</font>
+
+19
+00:01:30,939 --> 00:01:35,170
+Washington here now<font color="#CCCCCC"> is chief national</font>
+
+20
+00:01:32,920 --> 00:01:37,780
+<font color="#CCCCCC">affairs correspondent sander van</font><font color="#E5E5E5"> toker</font>
+
+21
+00:01:35,170 --> 00:01:40,060
+good evening<font color="#E5E5E5"> a meteor shower which</font>
+
+22
+00:01:37,780 --> 00:01:42,129
+appears<font color="#CCCCCC"> at this time every year erupted</font>
+
+23
+00:01:40,060 --> 00:01:44,710
+into a massive cosmic event tonight as
+
+24
+00:01:42,129 --> 00:01:47,739
+pieces of an enormous<font color="#E5E5E5"> asteroid plunged</font>
+
+25
+00:01:44,709 --> 00:01:50,289
+to earth reports are just coming in but
+
+26
+00:01:47,739 --> 00:01:54,669
+it appears that<font color="#E5E5E5"> at 824 p.m. eastern time</font>
+
+27
+00:01:50,290 --> 00:01:57,400
+the<font color="#E5E5E5"> near-earth asteroid known as 6645</font>
+
+28
+00:01:54,670 --> 00:01:59,859
+venturi hurtled from space and broke
+
+29
+00:01:57,400 --> 00:02:01,450
+apart striking the earth had three
+
+30
+00:01:59,859 --> 00:02:04,719
+separate points around<font color="#E5E5E5"> the globe</font>
+
+31
+00:02:01,450 --> 00:02:06,789
+aftershocks were felt from come<font color="#CCCCCC"> jhatka</font>
+
+32
+00:02:04,719 --> 00:02:10,060
+island in<font color="#E5E5E5"> the Aleutians to santiago</font>
+
+33
+00:02:06,789 --> 00:02:12,879
+chile in all three cases the meteorites
+
+34
+00:02:10,060 --> 00:02:15,789
+hit deserted rural areas leading wide
+
+35
+00:02:12,879 --> 00:02:17,979
+impact zones scientists say if any one
+
+36
+00:02:15,789 --> 00:02:19,840
+of<font color="#E5E5E5"> them had struck near an urban center</font>
+
+37
+00:02:17,979 --> 00:02:23,139
+the results would have been catastrophic
+
+38
+00:02:19,840 --> 00:02:25,209
+we begin our coverage with correspondent
+
+39
+00:02:23,139 --> 00:02:27,849
+Pamela Barnes outside mount palomar
+
+40
+00:02:25,209 --> 00:02:31,120
+observatory in the mountains east of<font color="#E5E5E5"> san</font>
+
+41
+00:02:27,849 --> 00:02:33,549
+<font color="#E5E5E5">diego sandy as this story first broke</font>
+
+42
+00:02:31,120 --> 00:02:36,280
+the report suggested that three massive
+
+43
+00:02:33,549 --> 00:02:38,260
+earthquake struck worldwide the<font color="#E5E5E5"> initial</font>
+
+44
+00:02:36,280 --> 00:02:40,780
+shock<font color="#E5E5E5"> waves registered within minutes of</font>
+
+45
+00:02:38,259 --> 00:02:43,479
+each other at<font color="#E5E5E5"> Caltech the best image we</font>
+
+46
+00:02:40,780 --> 00:02:46,060
+have<font color="#E5E5E5"> right now</font><font color="#CCCCCC"> is this infrared shot</font>
+
+47
+00:02:43,479 --> 00:02:50,139
+from a kh-11 reconnaissance satellites
+
+48
+00:02:46,060 --> 00:02:52,840
+the crater is 2.4 kilometers wide more
+
+49
+00:02:50,139 --> 00:02:55,719
+<font color="#E5E5E5">than a mile and a half across the</font><font color="#CCCCCC"> red</font>
+
+50
+00:02:52,840 --> 00:02:58,299
+you see around the rim is a section of
+
+51
+00:02:55,719 --> 00:03:00,669
+scorched earth from a wildfire that set
+
+52
+00:02:58,299 --> 00:03:03,400
+the grasslands<font color="#E5E5E5"> ablaze at the moment of</font>
+
+53
+00:03:00,669 --> 00:03:05,649
+impact correspond abri Walker was
+
+54
+00:03:03,400 --> 00:03:07,870
+vacationing in Wyoming when the meteor
+
+55
+00:03:05,650 --> 00:03:10,269
+hit she came in with<font color="#CCCCCC"> the</font><font color="#E5E5E5"> first fire</font>
+
+56
+00:03:07,870 --> 00:03:12,370
+crews and<font color="#E5E5E5"> we go to her above the crater</font>
+
+57
+00:03:10,269 --> 00:03:14,590
+I'm told<font color="#CCCCCC"> we're having</font><font color="#E5E5E5"> trouble with the</font>
+
+58
+00:03:12,370 --> 00:03:16,090
+feed from Wyoming so we'll bring bri
+
+59
+00:03:14,590 --> 00:03:18,700
+<font color="#E5E5E5">walker's report to you as</font><font color="#CCCCCC"> soon as</font>
+
+60
+00:03:16,090 --> 00:03:21,400
+possible in the<font color="#CCCCCC"> meantime we go to Barry</font>
+
+61
+00:03:18,699 --> 00:03:24,250
+Steinbrenner of affiliate<font color="#E5E5E5"> KTM</font><font color="#CCCCCC"> L in</font>
+
+62
+00:03:21,400 --> 00:03:25,689
+Casper Wyoming with fires from the
+
+63
+00:03:24,250 --> 00:03:28,719
+meteor crater raging out of control
+
+64
+00:03:25,689 --> 00:03:30,400
+units from<font color="#CCCCCC"> the third Air National Guard</font>
+
+65
+00:03:28,719 --> 00:03:32,979
+wing were quickly called in to
+
+66
+00:03:30,400 --> 00:03:34,930
+extinguish the flames more than 10,000
+
+67
+00:03:32,979 --> 00:03:36,698
+people living west of Thunder Basin are
+
+68
+00:03:34,930 --> 00:03:39,319
+being evacuated by National Guardsmen
+
+69
+00:03:36,699 --> 00:03:41,329
+amid fears the fires may spread
+
+70
+00:03:39,318 --> 00:03:43,998
+and there are numerous reports<font color="#CCCCCC"> of power</font>
+
+71
+00:03:41,329 --> 00:03:46,909
+outages both north and east of Cheyenne
+
+72
+00:03:43,998 --> 00:03:50,568
+this is Barry Steinbrenner Katie ml
+
+73
+00:03:46,908 --> 00:03:53,239
+Action News Casper Wyoming I'm told
+
+74
+00:03:50,568 --> 00:03:55,518
+we've now contacted correspondent Bree
+
+75
+00:03:53,239 --> 00:03:58,099
+Walker she now brings us pictures of
+
+76
+00:03:55,519 --> 00:04:01,099
+what is being called impact site alpha
+
+77
+00:03:58,098 --> 00:04:05,268
+located 60 miles north of Grover's mill
+
+78
+00:04:01,098 --> 00:04:07,098
+Wyoming Bree can you hear us<font color="#E5E5E5"> sandy as</font>
+
+79
+00:04:05,269 --> 00:04:10,188
+you well know I've covered my share of
+
+80
+00:04:07,098 --> 00:04:12,048
+disasters the LA riots Hurricane Andrew
+
+81
+00:04:10,188 --> 00:04:14,989
+last year's floods in the Mississippi
+
+82
+00:04:12,049 --> 00:04:17,120
+even mount st.<font color="#CCCCCC"> Helens when she blew but</font>
+
+83
+00:04:14,989 --> 00:04:19,519
+nothing<font color="#CCCCCC"> I've ever encountered could</font><font color="#E5E5E5"> have</font>
+
+84
+00:04:17,120 --> 00:04:22,129
+prepared me for this let's give you a
+
+85
+00:04:19,519 --> 00:04:24,918
+look from the choppers camera mounted
+
+86
+00:04:22,129 --> 00:04:28,250
+below what you're looking at now is is
+
+87
+00:04:24,918 --> 00:04:30,589
+the crater itself<font color="#CCCCCC"> a massive inferno is</font>
+
+88
+00:04:28,250 --> 00:04:32,060
+the only way you could<font color="#E5E5E5"> describe this in</font>
+
+89
+00:04:30,589 --> 00:04:34,549
+fact<font color="#E5E5E5"> one of the firefighters I talked</font><font color="#CCCCCC"> to</font>
+
+90
+00:04:32,060 --> 00:04:37,370
+<font color="#E5E5E5">said temperatures we r 1200 degrees</font>
+
+91
+00:04:34,550 --> 00:04:39,710
+<font color="#E5E5E5">Fahrenheit and above any human being</font>
+
+92
+00:04:37,370 --> 00:04:42,740
+within miles of this impact would have
+
+93
+00:04:39,709 --> 00:04:44,060
+been incinerated in seconds<font color="#CCCCCC"> and we</font><font color="#E5E5E5"> came</font>
+
+94
+00:04:42,740 --> 00:04:45,860
+<font color="#E5E5E5">in through the smoke</font><font color="#CCCCCC"> and haze along the</font>
+
+95
+00:04:44,060 --> 00:04:49,250
+craters east rim the scene<font color="#CCCCCC"> of</font>
+
+96
+00:04:45,860 --> 00:04:51,199
+devastation below was unbelievable with
+
+97
+00:04:49,250 --> 00:04:53,029
+<font color="#E5E5E5">dozens of state troopers and National</font>
+
+98
+00:04:51,199 --> 00:04:55,759
+Guardsmen surrounding the impact site
+
+99
+00:04:53,029 --> 00:04:58,339
+when the asteroid hit it touched off a
+
+100
+00:04:55,759 --> 00:05:01,158
+<font color="#E5E5E5">massive fire storm that destroys much of</font>
+
+101
+00:04:58,339 --> 00:05:03,019
+Thunder Basin we're told that chopper
+
+102
+00:05:01,158 --> 00:05:04,879
+you see down below is flying a team of
+
+103
+00:05:03,019 --> 00:05:07,310
+hazardous<font color="#E5E5E5"> materials</font><font color="#CCCCCC"> specialists from the</font>
+
+104
+00:05:04,879 --> 00:05:10,189
+Department of Energy we expect<font color="#E5E5E5"> that</font>
+
+105
+00:05:07,310 --> 00:05:12,079
+they'll<font color="#CCCCCC"> be checking for a radiation or</font>
+
+106
+00:05:10,189 --> 00:05:14,079
+any potentially deadly chemicals that
+
+107
+00:05:12,079 --> 00:05:17,978
+might still be off gas
+
+108
+00:05:14,079 --> 00:05:19,029
+the site and sandy sandy we're just
+
+109
+00:05:17,978 --> 00:05:21,128
+getting word that there may have been
+
+110
+00:05:19,029 --> 00:05:23,288
+some survivors along the Thunder Basin
+
+111
+00:05:21,129 --> 00:05:26,800
+National Grasslands we're gonna go over
+
+112
+00:05:23,288 --> 00:05:29,139
+<font color="#CCCCCC">there now for a look the two other</font>
+
+113
+00:05:26,800 --> 00:05:31,090
+pieces<font color="#E5E5E5"> of this gigantic meteorite came</font>
+
+114
+00:05:29,139 --> 00:05:33,550
+down first in the Gobi Desert<font color="#E5E5E5"> of China</font>
+
+115
+00:05:31,089 --> 00:05:35,468
+along the southern edge of Mongolia and
+
+116
+00:05:33,550 --> 00:05:37,718
+minutes later in a mountainous area of
+
+117
+00:05:35,468 --> 00:05:40,389
+the<font color="#CCCCCC"> pyrenees about 20 miles</font><font color="#E5E5E5"> south of</font>
+
+118
+00:05:37,718 --> 00:05:43,509
+<font color="#E5E5E5">lords in southern</font><font color="#CCCCCC"> france now tentatively</font>
+
+119
+00:05:40,389 --> 00:05:47,050
+known as impact site Bravo<font color="#CCCCCC"> Lords</font><font color="#E5E5E5"> was the</font>
+
+120
+00:05:43,509 --> 00:05:49,150
+site in 1858 of a fable visitation by
+
+121
+00:05:47,050 --> 00:05:51,400
+the Virgin Mary it's been a mecca for
+
+122
+00:05:49,149 --> 00:05:53,439
+religious pilgrims ever since but
+
+123
+00:05:51,399 --> 00:05:56,378
+tonight as correspondent Paul Whittaker
+
+124
+00:05:53,439 --> 00:05:59,800
+reports the mood there is one of fear
+
+125
+00:05:56,379 --> 00:06:02,259
+<font color="#CCCCCC">the churches are full here tonight with</font>
+
+126
+00:05:59,800 --> 00:06:03,579
+religious pilgrims giving thanks but<font color="#E5E5E5"> not</font>
+
+127
+00:06:02,259 --> 00:06:06,669
+because they came to this holy site
+
+128
+00:06:03,579 --> 00:06:08,228
+because they're alive only hours before
+
+129
+00:06:06,668 --> 00:06:09,968
+<font color="#E5E5E5">the asteroid fell in the mountains to</font>
+
+130
+00:06:08,228 --> 00:06:12,158
+the south hundreds of people<font color="#CCCCCC"> were still</font>
+
+131
+00:06:09,968 --> 00:06:14,199
+<font color="#E5E5E5">on the snow-capped peaks after a long</font>
+
+132
+00:06:12,158 --> 00:06:15,938
+day of recreation and skiing when it did
+
+133
+00:06:14,199 --> 00:06:17,620
+alternately fake English<font color="#CCCCCC"> or name he was</font>
+
+134
+00:06:15,939 --> 00:06:20,139
+in the<font color="#E5E5E5"> elastic to his label car off the</font>
+
+135
+00:06:17,620 --> 00:06:22,180
+mountain akula just as I heard started
+
+136
+00:06:20,139 --> 00:06:25,418
+to shake it p olice<font color="#CCCCCC"> channel in his</font>
+
+137
+00:06:22,180 --> 00:06:28,120
+friends and they<font color="#E5E5E5"> looked at the sky Huey</font>
+
+138
+00:06:25,418 --> 00:06:30,490
+fireball streaking across the sky did
+
+139
+00:06:28,120 --> 00:06:32,588
+yet to miss I mean this<font color="#CCCCCC"> woman Silva</font>
+
+140
+00:06:30,490 --> 00:06:33,939
+chenard also survived but when she got
+
+141
+00:06:32,588 --> 00:06:39,550
+down she discovered her husband
+
+142
+00:06:33,939 --> 00:06:45,250
+<font color="#CCCCCC">jean-paul was missing little ladonia</font><font color="#E5E5E5"> dis</font>
+
+143
+00:06:39,550 --> 00:06:48,759
+omnipony<font color="#CCCCCC"> whiskey young Queen um I he I I</font>
+
+144
+00:06:45,250 --> 00:06:53,408
+<font color="#CCCCCC">took down the cable kind Saul said here</font>
+
+145
+00:06:48,759 --> 00:07:02,979
+he wanted<font color="#E5E5E5"> to ski down for the last one</font>
+
+146
+00:06:53,408 --> 00:07:05,259
+<font color="#E5E5E5">of the day ironically today was their</font>
+
+147
+00:07:02,978 --> 00:07:06,939
+third anniversary<font color="#E5E5E5"> French rescue teams</font>
+
+148
+00:07:05,259 --> 00:07:10,210
+are combing the mountainside for skiers
+
+149
+00:07:06,939 --> 00:07:12,009
+jean-paul chenard a bitter twist to an
+
+150
+00:07:10,209 --> 00:07:14,888
+already frightening turn of events the
+
+151
+00:07:12,009 --> 00:07:17,270
+<font color="#CCCCCC">French have an expression plus</font><font color="#E5E5E5"> i chose</font>
+
+152
+00:07:14,889 --> 00:07:18,920
+Lucilla mem shows
+
+153
+00:07:17,269 --> 00:07:21,829
+the more things change the more they
+
+154
+00:07:18,920 --> 00:07:24,710
+stay the same but tonight is the lucky
+
+155
+00:07:21,829 --> 00:07:26,359
+<font color="#CCCCCC">ones celebrate happy to</font><font color="#E5E5E5"> be alive one</font>
+
+156
+00:07:24,709 --> 00:07:29,689
+senses these people will never be quite
+
+157
+00:07:26,360 --> 00:07:32,569
+the same again Paul Whittaker reporting
+
+158
+00:07:29,689 --> 00:07:34,819
+from Lourdes friends little is known
+
+159
+00:07:32,569 --> 00:07:37,159
+tonight about<font color="#CCCCCC"> the third impact site in</font>
+
+160
+00:07:34,819 --> 00:07:39,170
+China it is correspondent Denise<font color="#E5E5E5"> Wong</font>
+
+161
+00:07:37,160 --> 00:07:40,370
+reports in Beijing the communist
+
+162
+00:07:39,170 --> 00:07:43,220
+government has put the country on a
+
+163
+00:07:40,370 --> 00:07:45,019
+state of alert sandy it's just after<font color="#E5E5E5"> ten</font>
+
+164
+00:07:43,220 --> 00:07:48,350
+fifteen in the morning here in Beijing
+
+165
+00:07:45,019 --> 00:07:50,329
+since Xinhua the Chinese news agency has
+
+166
+00:07:48,350 --> 00:07:54,560
+reported<font color="#CCCCCC"> that the third asteroid hit at</font>
+
+167
+00:07:50,329 --> 00:07:57,229
+929 a.m. beijing time it struck at 105
+
+168
+00:07:54,560 --> 00:07:59,990
+degrees east 45 degrees north along
+
+169
+00:07:57,230 --> 00:08:01,730
+<font color="#E5E5E5">China's border with Mongolia while</font>
+
+170
+00:07:59,990 --> 00:08:04,129
+little<font color="#E5E5E5"> more has come</font><font color="#CCCCCC"> from the government</font>
+
+171
+00:08:01,730 --> 00:08:05,840
+here reuters has just released this
+
+172
+00:08:04,129 --> 00:08:09,409
+aerial photo taken by the<font color="#E5E5E5"> French</font>
+
+173
+00:08:05,839 --> 00:08:12,709
+satellite agency<font color="#CCCCCC"> SPO tea from 12 miles</font>
+
+174
+00:08:09,410 --> 00:08:15,800
+above the earth the crater is almost a
+
+175
+00:08:12,709 --> 00:08:18,829
+mile and a half across Denise that's
+
+176
+00:08:15,800 --> 00:08:21,410
+<font color="#E5E5E5">almost identical I repeat identical to</font>
+
+177
+00:08:18,829 --> 00:08:24,529
+the<font color="#E5E5E5"> Wyoming impact site what do you know</font>
+
+178
+00:08:21,410 --> 00:08:26,870
+about casualties well sandy<font color="#CCCCCC"> jinsong is</font>
+
+179
+00:08:24,529 --> 00:08:29,509
+in a<font color="#E5E5E5"> remote area of the gobi desert with</font>
+
+180
+00:08:26,870 --> 00:08:32,360
+no rail lines and few highways in or out
+
+181
+00:08:29,509 --> 00:08:34,399
+as a result it may be days before the
+
+182
+00:08:32,360 --> 00:08:37,039
+full damage from this third impact site
+
+183
+00:08:34,399 --> 00:08:38,779
+can be assessed we'll be<font color="#CCCCCC"> back to you</font>
+
+184
+00:08:37,039 --> 00:08:41,299
+Denise as soon as there's more I thank
+
+185
+00:08:38,779 --> 00:08:43,459
+you we switch now to the Johnson Space
+
+186
+00:08:41,299 --> 00:08:45,829
+Center where Matt Jensen is standing by
+
+187
+00:08:43,460 --> 00:08:47,870
+sandy the NASA scientists who tracked
+
+188
+00:08:45,830 --> 00:08:50,450
+these enormous asteroid sometimes refer
+
+189
+00:08:47,870 --> 00:08:52,970
+to them as killer rocks as such one of
+
+190
+00:08:50,450 --> 00:08:54,620
+the first questions<font color="#CCCCCC"> we asked was how how</font>
+
+191
+00:08:52,970 --> 00:08:56,269
+could an asteroid of<font color="#E5E5E5"> this magnitude have</font>
+
+192
+00:08:54,620 --> 00:08:58,879
+come so close to<font color="#CCCCCC"> earth and not be</font>
+
+193
+00:08:56,269 --> 00:09:00,649
+detected<font color="#CCCCCC"> till impact in July the comet</font>
+
+194
+00:08:58,879 --> 00:09:02,419
+shoemaker-levy 9 struck the planet
+
+195
+00:09:00,649 --> 00:09:04,279
+Jupiter in a series of massive impacts
+
+196
+00:09:02,419 --> 00:09:06,589
+equal enforced<font color="#E5E5E5"> to</font><font color="#CCCCCC"> two million hydrogen</font>
+
+197
+00:09:04,279 --> 00:09:08,389
+bombs these<font color="#E5E5E5"> events were monitored</font>
+
+198
+00:09:06,590 --> 00:09:10,129
+worldwide through the enormous I of the
+
+199
+00:09:08,389 --> 00:09:11,899
+hubble<font color="#CCCCCC"> space telescope orbiting the</font>
+
+200
+00:09:10,129 --> 00:09:13,460
+earth scientist had known for months
+
+201
+00:09:11,899 --> 00:09:15,139
+that these events on Jupiter were about
+
+202
+00:09:13,460 --> 00:09:17,060
+to take place in fact they were actually
+
+203
+00:09:15,139 --> 00:09:19,730
+<font color="#E5E5E5">able to predict the precise moments of</font>
+
+204
+00:09:17,059 --> 00:09:21,319
+impact dr.<font color="#E5E5E5"> Kurt</font><font color="#CCCCCC"> Loudon was one of the</font>
+
+205
+00:09:19,730 --> 00:09:23,539
+NASA scientists tracking shoemaker
+
+206
+00:09:21,320 --> 00:09:26,360
+<font color="#E5E5E5">leading well what about it doctor why</font>
+
+207
+00:09:23,539 --> 00:09:28,639
+the surprise this time well first off
+
+208
+00:09:26,360 --> 00:09:31,009
+there are at<font color="#CCCCCC"> present some 2,500</font><font color="#E5E5E5"> near</font>
+
+209
+00:09:28,639 --> 00:09:32,899
+asteroids magnitude 1 mile and above
+
+210
+00:09:31,009 --> 00:09:34,069
+<font color="#CCCCCC">that could intersect with the earth if</font>
+
+211
+00:09:32,899 --> 00:09:35,179
+only<font color="#CCCCCC"> I'd had a fight about ten percent</font>
+
+212
+00:09:34,070 --> 00:09:38,360
+of them and those have all been on
+
+213
+00:09:35,179 --> 00:09:40,370
+benign trajectories until tonight yes
+
+214
+00:09:38,360 --> 00:09:42,529
+where you see if an asteroid<font color="#E5E5E5"> is coming</font>
+
+215
+00:09:40,370 --> 00:09:44,090
+directly towards the<font color="#E5E5E5"> Earth it's very</font>
+
+216
+00:09:42,529 --> 00:09:46,370
+difficult to see it until it's literally
+
+217
+00:09:44,090 --> 00:09:48,530
+on top of us dr. loudness is Santa van
+
+218
+00:09:46,370 --> 00:09:51,470
+<font color="#E5E5E5">Oakland Washington do I understand you</font>
+
+219
+00:09:48,529 --> 00:09:52,970
+to say the earth is at risk for more of
+
+220
+00:09:51,470 --> 00:09:56,660
+these asteroids well<font color="#E5E5E5"> not to sound</font>
+
+221
+00:09:52,970 --> 00:10:02,899
+alarmist but one of those rocks came
+
+222
+00:09:56,659 --> 00:10:05,750
+down on a big city well well what<font color="#CCCCCC"> dr.</font>
+
+223
+00:10:02,899 --> 00:10:08,990
+let's just<font color="#CCCCCC"> say what maker oshima</font><font color="#E5E5E5"> seemed</font>
+
+224
+00:10:05,750 --> 00:10:10,850
+like a<font color="#E5E5E5"> three-alarm fire thank you that</font>
+
+225
+00:10:08,990 --> 00:10:13,100
+was dr.<font color="#CCCCCC"> Kurt Loudon at the Johnson Space</font>
+
+226
+00:10:10,850 --> 00:10:15,620
+Center in a moment we'll be joined by
+
+227
+00:10:13,100 --> 00:10:17,659
+dr. Carolyn Jaffe evening world news
+
+228
+00:10:15,620 --> 00:10:19,129
+<font color="#E5E5E5">science editor but first some rather</font>
+
+229
+00:10:17,659 --> 00:10:21,769
+startling developments from
+
+230
+00:10:19,129 --> 00:10:23,389
+correspondent<font color="#CCCCCC"> Bri Walker sandy we're</font>
+
+231
+00:10:21,769 --> 00:10:25,789
+told now that at least three men
+
+232
+00:10:23,389 --> 00:10:27,230
+perished in the fire storm touched off
+
+233
+00:10:25,789 --> 00:10:30,019
+by the impact<font color="#E5E5E5"> from the meteorite</font>
+
+234
+00:10:27,230 --> 00:10:32,210
+believed to be sheep ranchers who
+
+235
+00:10:30,019 --> 00:10:35,329
+releasing grazing lands from the<font color="#E5E5E5"> nearby</font>
+
+236
+00:10:32,210 --> 00:10:38,450
+Thunder Basin National Grasslands what
+
+237
+00:10:35,330 --> 00:10:40,940
+you are seeing is live and edit it's
+
+238
+00:10:38,450 --> 00:10:43,879
+hard to<font color="#E5E5E5"> believe but only miss camping in</font>
+
+239
+00:10:40,940 --> 00:10:47,180
+these hills this was lush green grazing
+
+240
+00:10:43,879 --> 00:10:51,679
+land leased by the government serpents
+
+241
+00:10:47,179 --> 00:10:53,929
+now it's all just ash and char you<font color="#E5E5E5"> can</font>
+
+242
+00:10:51,679 --> 00:10:56,209
+see<font color="#CCCCCC"> the</font><font color="#E5E5E5"> bodies of dead animals scattered</font>
+
+243
+00:10:53,929 --> 00:10:57,709
+everywhere Bree you should know you
+
+244
+00:10:56,210 --> 00:11:03,860
+should know<font color="#CCCCCC"> your signals breaking up</font>
+
+245
+00:10:57,710 --> 00:11:12,800
+what what<font color="#E5E5E5"> there let's get a closer look</font>
+
+246
+00:11:03,860 --> 00:11:14,690
+<font color="#CCCCCC">Oh God it's all I know yes the</font>
+
+247
+00:11:12,799 --> 00:11:17,929
+helicopter is<font color="#E5E5E5"> over Thunder Basin</font>
+
+248
+00:11:14,690 --> 00:11:23,660
+National Grasslands you have the picture
+
+249
+00:11:17,929 --> 00:11:27,139
+Billy god it's a human that me to go get
+
+250
+00:11:23,659 --> 00:11:30,409
+<font color="#E5E5E5">her come on Billy I have no idea</font><font color="#CCCCCC"> how</font>
+
+251
+00:11:27,139 --> 00:11:33,409
+anyone could have survived this but that
+
+252
+00:11:30,409 --> 00:11:37,068
+is a human being it appears<font color="#CCCCCC"> to be</font>
+
+253
+00:11:33,409 --> 00:11:40,159
+a child it's a child we're<font color="#CCCCCC"> moving in</font>
+
+254
+00:11:37,068 --> 00:11:42,769
+what you're seeing re walker or
+
+255
+00:11:40,159 --> 00:11:45,350
+cameraman Billy done now you're not
+
+256
+00:11:42,769 --> 00:11:48,289
+seeing it I hope you will they're<font color="#E5E5E5"> moving</font>
+
+257
+00:11:45,350 --> 00:11:50,329
+in there they are that's breathe moving
+
+258
+00:11:48,289 --> 00:11:54,620
+in on what appears to be a survivor
+
+259
+00:11:50,328 --> 00:11:56,149
+<font color="#E5E5E5">movies moving toward the church she's</font>
+
+260
+00:11:54,620 --> 00:12:00,169
+moving toward the child there she is
+
+261
+00:11:56,149 --> 00:12:06,049
+cameraman William<font color="#CCCCCC"> Dunne behind her it is</font>
+
+262
+00:12:00,169 --> 00:12:21,169
+definitely a child<font color="#E5E5E5"> okay it</font><font color="#CCCCCC"> looks like it</font>
+
+263
+00:12:06,049 --> 00:12:24,078
+is a<font color="#E5E5E5"> little girl cannot tell you what</font>
+
+264
+00:12:21,169 --> 00:12:27,289
+<font color="#CCCCCC">she is saying you can see</font><font color="#E5E5E5"> she appears</font>
+
+265
+00:12:24,078 --> 00:12:49,008
+badly burned how she survived never know
+
+266
+00:12:27,289 --> 00:12:51,019
+apparently we've lost our signal that's
+
+267
+00:12:49,009 --> 00:12:52,850
+just extraordinary to think that anyone
+
+268
+00:12:51,019 --> 00:12:55,669
+could have survived so close to<font color="#CCCCCC"> that</font>
+
+269
+00:12:52,850 --> 00:12:57,500
+fire zone it appears the<font color="#E5E5E5"> child was</font>
+
+270
+00:12:55,669 --> 00:13:00,139
+trying to say something something
+
+271
+00:12:57,500 --> 00:13:02,360
+incomprehensible she<font color="#E5E5E5"> obviously was in</font>
+
+272
+00:13:00,139 --> 00:13:04,339
+shock we'll try<font color="#E5E5E5"> to get back with</font>
+
+273
+00:13:02,360 --> 00:13:06,709
+correspondent<font color="#E5E5E5"> Walker to learn</font><font color="#CCCCCC"> more about</font>
+
+274
+00:13:04,339 --> 00:13:09,019
+<font color="#E5E5E5">that little girl's condition in</font><font color="#CCCCCC"> the</font>
+
+275
+00:13:06,708 --> 00:13:12,799
+meantime we'll give our affiliates a
+
+276
+00:13:09,019 --> 00:13:16,149
+chance to break this is Santa von ocher
+
+277
+00:13:12,799 --> 00:13:16,149
+in Washington
+
+278
+00:13:16,980 --> 00:13:35,278
+here once again is sander van ochre if
+
+279
+00:13:33,750 --> 00:13:37,320
+you're<font color="#E5E5E5"> just tuning in all of us</font>
+
+280
+00:13:35,278 --> 00:13:39,750
+witnessed a remarkable rescue<font color="#CCCCCC"> tonight</font>
+
+281
+00:13:37,320 --> 00:13:41,699
+after<font color="#E5E5E5"> three fragments Magi a'n't</font>
+
+282
+00:13:39,750 --> 00:13:44,519
+asteroid fell to Earth causing untold
+
+283
+00:13:41,698 --> 00:13:46,649
+damage worldwide an evening world news
+
+284
+00:13:44,519 --> 00:13:48,870
+crew was flying over one of the impact
+
+285
+00:13:46,649 --> 00:13:51,778
+sites when they saw something<font color="#E5E5E5"> moving</font>
+
+286
+00:13:48,870 --> 00:13:54,389
+correspond<font color="#E5E5E5"> abri</font><font color="#CCCCCC"> Walker and cameraman</font>
+
+287
+00:13:51,778 --> 00:13:57,028
+William<font color="#E5E5E5"> Dunne found a survivor a little</font>
+
+288
+00:13:54,389 --> 00:14:05,009
+girl<font color="#E5E5E5"> you still don't know who she</font><font color="#CCCCCC"> is or</font>
+
+289
+00:13:57,028 --> 00:14:06,629
+what she was saying at this moment our
+
+290
+00:14:05,009 --> 00:14:08,819
+helicopter<font color="#CCCCCC"> is flying her to Mercy</font>
+
+291
+00:14:06,629 --> 00:14:10,828
+Medical Center in Casper Wyoming and
+
+292
+00:14:08,820 --> 00:14:13,230
+<font color="#CCCCCC">will get word to you on her condition</font>
+
+293
+00:14:10,828 --> 00:14:15,208
+just<font color="#E5E5E5"> as soon as we have it joining me</font>
+
+294
+00:14:13,230 --> 00:14:17,909
+<font color="#CCCCCC">now is our science editor dr. Carolyn</font>
+
+295
+00:14:15,208 --> 00:14:19,500
+Jaffe<font color="#E5E5E5"> sandy in the grip of a story like</font>
+
+296
+00:14:17,909 --> 00:14:22,469
+this it's a reporter's job to<font color="#E5E5E5"> hold back</font>
+
+297
+00:14:19,500 --> 00:14:24,509
+remain dispassionate and yet when you
+
+298
+00:14:22,470 --> 00:14:26,399
+<font color="#CCCCCC">look in the</font><font color="#E5E5E5"> eyes of that child you can't</font>
+
+299
+00:14:24,509 --> 00:14:29,338
+<font color="#E5E5E5">help it be moved I understand</font><font color="#CCCCCC"> you</font>
+
+300
+00:14:26,399 --> 00:14:32,458
+prepared a report on just how powerful
+
+301
+00:14:29,339 --> 00:14:34,529
+these meteors can be that's right sandy
+
+302
+00:14:32,458 --> 00:14:36,539
+the philosopher George Santayana once
+
+303
+00:14:34,528 --> 00:14:39,240
+said that<font color="#E5E5E5"> he</font><font color="#CCCCCC"> who forgets history is</font>
+
+304
+00:14:36,539 --> 00:14:41,099
+destined to repeat it well the three
+
+305
+00:14:39,240 --> 00:14:43,560
+asteroid fragments that rain down on the
+
+306
+00:14:41,100 --> 00:14:45,959
+earth tonight weren't the first and most
+
+307
+00:14:43,559 --> 00:14:48,059
+likely they won't be the last the crater
+
+308
+00:14:45,958 --> 00:14:50,698
+at Winslow Arizona more than half a mile
+
+309
+00:14:48,059 --> 00:14:52,768
+across an enormous hole caused by an
+
+310
+00:14:50,698 --> 00:14:56,338
+iron asteroid just 60<font color="#CCCCCC"> metres wide that</font>
+
+311
+00:14:52,769 --> 00:14:58,948
+hit more<font color="#CCCCCC"> than 50,000 years ago in 1908</font>
+
+312
+00:14:56,339 --> 00:15:00,810
+an object the same size exploded a few
+
+313
+00:14:58,948 --> 00:15:03,359
+miles above<font color="#CCCCCC"> the ground near tunguska</font>
+
+314
+00:15:00,809 --> 00:15:06,479
+river in<font color="#CCCCCC"> siberia the shockwave with the</font>
+
+315
+00:15:03,360 --> 00:15:08,909
+force of<font color="#E5E5E5"> 15 hydrogen bombs incinerated</font>
+
+316
+00:15:06,480 --> 00:15:10,230
+millions of acres in an impact area that
+
+317
+00:15:08,909 --> 00:15:11,939
+would have spread from<font color="#CCCCCC"> Maine to the</font>
+
+318
+00:15:10,230 --> 00:15:14,220
+Carolinas if it had hit the Northeast
+
+319
+00:15:11,940 --> 00:15:16,709
+but both<font color="#E5E5E5"> of these were just BB shots</font>
+
+320
+00:15:14,220 --> 00:15:18,870
+compared to the big one known now<font color="#CCCCCC"> as the</font>
+
+321
+00:15:16,708 --> 00:15:20,309
+KT event scientists now believe an
+
+322
+00:15:18,870 --> 00:15:22,948
+object in the order of<font color="#E5E5E5"> seven to ten</font>
+
+323
+00:15:20,309 --> 00:15:24,689
+<font color="#CCCCCC">kilometers wide impacted 65 million</font>
+
+324
+00:15:22,948 --> 00:15:27,120
+years<font color="#E5E5E5"> ago along the Mexican Yucatan</font>
+
+325
+00:15:24,690 --> 00:15:28,920
+Peninsula a month after impact the
+
+326
+00:15:27,120 --> 00:15:30,799
+debris from the<font color="#E5E5E5"> giant crater covered the</font>
+
+327
+00:15:28,919 --> 00:15:32,929
+earth in a dust like cloud that blocked
+
+328
+00:15:30,799 --> 00:15:34,549
+virtually all sunlight billions of
+
+329
+00:15:32,929 --> 00:15:36,708
+<font color="#E5E5E5">life-forms were killed within weeks and</font>
+
+330
+00:15:34,549 --> 00:15:39,409
+ultimately the dinosaurs that had ruled
+
+331
+00:15:36,708 --> 00:15:42,169
+the world for 140 million years perished
+
+332
+00:15:39,409 --> 00:15:43,549
+and<font color="#CCCCCC"> sandy of an asteroid even one half</font>
+
+333
+00:15:42,169 --> 00:15:45,889
+that size were to hit the earth today
+
+334
+00:15:43,549 --> 00:15:47,629
+the death rate could<font color="#E5E5E5"> easily match that</font>
+
+335
+00:15:45,889 --> 00:15:49,039
+of the Black Plague which wiped out half
+
+336
+00:15:47,629 --> 00:15:51,169
+the population in Europe during the
+
+337
+00:15:49,039 --> 00:15:53,599
+Middle Ages or the question I've got to
+
+338
+00:15:51,169 --> 00:15:55,458
+put to<font color="#CCCCCC"> you is how real is the threat to</font>
+
+339
+00:15:53,600 --> 00:15:58,519
+<font color="#E5E5E5">the earth today I'm afraid</font><font color="#CCCCCC"> it's quite</font>
+
+340
+00:15:55,458 --> 00:16:00,500
+real two years ago NASA scientists
+
+341
+00:15:58,519 --> 00:16:02,570
+calculated<font color="#E5E5E5"> that the odds of a person</font>
+
+342
+00:16:00,500 --> 00:16:05,208
+dying from a near-earth asteroid were
+
+343
+00:16:02,570 --> 00:16:06,980
+about 1 in 20,000 about the same<font color="#E5E5E5"> as</font>
+
+344
+00:16:05,208 --> 00:16:09,319
+being killed in an airline crash and
+
+345
+00:16:06,980 --> 00:16:12,230
+that's what<font color="#E5E5E5"> they assumed until tonight</font>
+
+346
+00:16:09,320 --> 00:16:15,230
+you see the<font color="#CCCCCC"> dangers increasing why is</font>
+
+347
+00:16:12,230 --> 00:16:17,720
+that astronomers<font color="#CCCCCC"> at NASA's JPL say there</font>
+
+348
+00:16:15,230 --> 00:16:19,730
+is a<font color="#CCCCCC"> 20-percent likelihood that because</font>
+
+349
+00:16:17,720 --> 00:16:21,560
+of the meteor shower<font color="#E5E5E5"> tonight we can</font>
+
+350
+00:16:19,730 --> 00:16:24,170
+expect more of these Earthbound asteroid
+
+351
+00:16:21,559 --> 00:16:26,449
+forgive me I apologized but they're
+
+352
+00:16:24,169 --> 00:16:29,208
+ready now for that report<font color="#E5E5E5"> from NASA and</font>
+
+353
+00:16:26,450 --> 00:16:31,370
+we go to the Johnson Space Center where
+
+354
+00:16:29,208 --> 00:16:33,139
+correspondent Matthew Jensen is standing
+
+355
+00:16:31,370 --> 00:16:35,060
+by Matt sandy the men and women who
+
+356
+00:16:33,139 --> 00:16:36,828
+<font color="#E5E5E5">tracked these giant near-earth objects</font>
+
+357
+00:16:35,059 --> 00:16:39,139
+have been working nonstop<font color="#E5E5E5"> to analyze the</font>
+
+358
+00:16:36,828 --> 00:16:41,179
+data ever since the first impact at 724
+
+359
+00:16:39,139 --> 00:16:43,069
+central time we were inside the
+
+360
+00:16:41,179 --> 00:16:45,439
+<font color="#CCCCCC">Operations Center where we regularly</font>
+
+361
+00:16:43,070 --> 00:16:47,450
+follow the shuttle flights then just
+
+362
+00:16:45,440 --> 00:16:49,550
+moments ago some data came in from
+
+363
+00:16:47,450 --> 00:16:51,680
+<font color="#E5E5E5">NASA's big radio telescope at Goldstone</font>
+
+364
+00:16:49,549 --> 00:16:53,299
+<font color="#CCCCCC">in the Mojave Desert and all reporters</font>
+
+365
+00:16:51,679 --> 00:16:55,458
+were asked<font color="#E5E5E5"> to move behind this wall of</font>
+
+366
+00:16:53,299 --> 00:16:56,990
+glass they say a statement is imminent
+
+367
+00:16:55,458 --> 00:16:59,689
+but right<font color="#E5E5E5"> now we're watching and waiting</font>
+
+368
+00:16:56,990 --> 00:17:02,089
+we'll be<font color="#CCCCCC"> back to you Matt but</font><font color="#E5E5E5"> first for</font>
+
+369
+00:16:59,690 --> 00:17:04,160
+<font color="#E5E5E5">an insight on what may be happening we</font>
+
+370
+00:17:02,089 --> 00:17:07,939
+go to correspondent Warren only at
+
+371
+00:17:04,160 --> 00:17:10,279
+Goldstone<font color="#CCCCCC"> Warren sandy this enormous 70</font>
+
+372
+00:17:07,939 --> 00:17:12,439
+<font color="#CCCCCC">meters steerable antenna is part of</font>
+
+373
+00:17:10,279 --> 00:17:14,899
+NASA's Deep Space Network used to track
+
+374
+00:17:12,439 --> 00:17:16,699
+spacecraft when a comet or asteroid is
+
+375
+00:17:14,900 --> 00:17:19,130
+identified<font color="#CCCCCC"> by widefield telescopes like</font>
+
+376
+00:17:16,699 --> 00:17:21,829
+the one at Mount Palomar the data is fed
+
+377
+00:17:19,130 --> 00:17:24,169
+here and the space debris as they call
+
+378
+00:17:21,828 --> 00:17:26,509
+these killer rocks is then tracked with
+
+379
+00:17:24,169 --> 00:17:27,919
+precision now the scientists who work
+
+380
+00:17:26,509 --> 00:17:30,679
+here are normally rather cool
+
+381
+00:17:27,919 --> 00:17:33,830
+understated<font color="#E5E5E5"> people but about an hour ago</font>
+
+382
+00:17:30,679 --> 00:17:36,870
+when the data on 6645 venturi was fully
+
+383
+00:17:33,829 --> 00:17:39,569
+analyzed this marine<font color="#E5E5E5"> ella copter made</font>
+
+384
+00:17:36,869 --> 00:17:42,269
+scheduled for landing a pair of<font color="#CCCCCC"> MPs</font>
+
+385
+00:17:39,569 --> 00:17:44,339
+raced inside they emerged minutes later
+
+386
+00:17:42,269 --> 00:17:46,950
+with one of the scientists here and they
+
+387
+00:17:44,339 --> 00:17:48,599
+rushed him aboard the chopper no word
+
+388
+00:17:46,950 --> 00:17:51,000
+yet on the side of his name or his
+
+389
+00:17:48,599 --> 00:17:52,679
+position with NASA sources say he was
+
+390
+00:17:51,000 --> 00:17:55,319
+flown to nearby edwards air force base
+
+391
+00:17:52,680 --> 00:17:58,019
+for a trip by jet to the<font color="#E5E5E5"> Space Center</font><font color="#CCCCCC"> in</font>
+
+392
+00:17:55,319 --> 00:17:59,700
+Houston weren't what could have been so
+
+393
+00:17:58,019 --> 00:18:01,319
+important that they<font color="#E5E5E5"> couldn't have linked</font>
+
+394
+00:17:59,700 --> 00:18:03,210
+up with Houston by phone or a
+
+395
+00:18:01,319 --> 00:18:05,639
+teleconference another good question
+
+396
+00:18:03,210 --> 00:18:06,779
+with no answer from here sandy one
+
+397
+00:18:05,640 --> 00:18:08,430
+source says that the scientists
+
+398
+00:18:06,779 --> 00:18:10,829
+involvement may have something to do
+
+399
+00:18:08,430 --> 00:18:14,160
+<font color="#CCCCCC">with the asteroids trajectory both</font>
+
+400
+00:18:10,829 --> 00:18:16,619
+before and after<font color="#CCCCCC"> it broke up</font><font color="#E5E5E5"> thank you</font>
+
+401
+00:18:14,160 --> 00:18:18,870
+very much we've<font color="#CCCCCC"> just received an update</font>
+
+402
+00:18:16,619 --> 00:18:21,689
+from correspondent Denise<font color="#E5E5E5"> Wong in</font>
+
+403
+00:18:18,869 --> 00:18:23,879
+<font color="#E5E5E5">Beijing there are no known casualties</font>
+
+404
+00:18:21,690 --> 00:18:26,250
+near the third impact site designated
+
+405
+00:18:23,880 --> 00:18:28,679
+<font color="#CCCCCC">charlie however the impact is said to</font>
+
+406
+00:18:26,250 --> 00:18:31,710
+have damaged the tinction hydroelectric
+
+407
+00:18:28,679 --> 00:18:33,210
+dam 40<font color="#E5E5E5"> kilometers to the south power</font>
+
+408
+00:18:31,710 --> 00:18:35,308
+outages have been reported throughout
+
+409
+00:18:33,210 --> 00:18:37,319
+most of Liang Shan province and the
+
+410
+00:18:35,308 --> 00:18:39,779
+<font color="#E5E5E5">Chinese government is requesting</font>
+
+411
+00:18:37,319 --> 00:18:42,389
+emergency generating equipment and Red
+
+412
+00:18:39,779 --> 00:18:44,819
+Cross assistance for the estimated 7.5
+
+413
+00:18:42,390 --> 00:18:47,820
+million people now without electricity
+
+414
+00:18:44,819 --> 00:18:49,349
+or running water<font color="#E5E5E5"> doctor we've just</font>
+
+415
+00:18:47,819 --> 00:18:51,029
+gotten word on the condition of that
+
+416
+00:18:49,349 --> 00:18:54,029
+little girl found wandering near the
+
+417
+00:18:51,029 --> 00:18:55,920
+<font color="#CCCCCC">Wyoming impact site we go now to evening</font>
+
+418
+00:18:54,029 --> 00:18:57,928
+World News correspondent<font color="#CCCCCC"> Bree</font><font color="#E5E5E5"> Walker</font>
+
+419
+00:18:55,920 --> 00:19:00,509
+standing by at<font color="#E5E5E5"> mercy medical center in</font>
+
+420
+00:18:57,929 --> 00:19:02,670
+<font color="#E5E5E5">Casper</font><font color="#CCCCCC"> the little girl we found at the</font>
+
+421
+00:19:00,509 --> 00:19:04,289
+scene was badly burned she's an
+
+422
+00:19:02,670 --> 00:19:06,779
+intensive care now being treated for
+
+423
+00:19:04,289 --> 00:19:08,399
+exposure and<font color="#CCCCCC"> second degree burns doctors</font>
+
+424
+00:19:06,779 --> 00:19:10,678
+have sedated her and they say she's
+
+425
+00:19:08,400 --> 00:19:12,210
+resting comfortably meanwhile the<font color="#E5E5E5"> Macomb</font>
+
+426
+00:19:10,679 --> 00:19:14,040
+County Sheriff's Department<font color="#CCCCCC"> has set up a</font>
+
+427
+00:19:12,210 --> 00:19:16,140
+special hotline<font color="#E5E5E5"> to try to find out who</font>
+
+428
+00:19:14,039 --> 00:19:22,139
+the little girl is if you can<font color="#E5E5E5"> help</font>
+
+429
+00:19:16,140 --> 00:19:24,720
+here's the number 1<font color="#E5E5E5"> 805 554 818 Bree</font>
+
+430
+00:19:22,140 --> 00:19:27,090
+Walker evening world news Casper Wyoming
+
+431
+00:19:24,720 --> 00:19:30,210
+there's more now in the<font color="#E5E5E5"> fate of another</font>
+
+432
+00:19:27,089 --> 00:19:32,879
+victim French skier jean-paul soon<font color="#CCCCCC"> are</font>
+
+433
+00:19:30,210 --> 00:19:35,579
+after combing the area near the second
+
+434
+00:19:32,880 --> 00:19:38,040
+asteroid impact site French rescue
+
+435
+00:19:35,579 --> 00:19:40,289
+workers came upon<font color="#CCCCCC"> Jean Paul June are</font>
+
+436
+00:19:38,039 --> 00:19:42,990
+huddled in a snow cave near the base of
+
+437
+00:19:40,289 --> 00:19:45,059
+Mount<font color="#CCCCCC"> vigne men will have</font><font color="#E5E5E5"> an update soon</font>
+
+438
+00:19:42,990 --> 00:19:48,150
+from<font color="#CCCCCC"> correspondent Paul Whittaker in</font>
+
+439
+00:19:45,059 --> 00:19:49,799
+southern France sandy in this era<font color="#E5E5E5"> of</font>
+
+440
+00:19:48,150 --> 00:19:50,519
+home video where people<font color="#E5E5E5"> seem to shoot</font>
+
+441
+00:19:49,799 --> 00:19:52,710
+everything I
+
+442
+00:19:50,519 --> 00:19:55,889
+us this was inevitable we've just
+
+443
+00:19:52,710 --> 00:19:58,440
+<font color="#E5E5E5">received</font><font color="#CCCCCC"> tape from KW BF our affiliate</font>
+
+444
+00:19:55,890 --> 00:20:01,050
+in newcastle wyoming some 80 miles from
+
+445
+00:19:58,440 --> 00:20:03,600
+<font color="#E5E5E5">the impact site it purports to show</font>
+
+446
+00:20:01,049 --> 00:20:05,759
+asteroid fragment alpha streaking across
+
+447
+00:20:03,599 --> 00:20:08,189
+the sky as it roars towards Thunder
+
+448
+00:20:05,759 --> 00:20:09,839
+Basin I'm told it was shot by Chris
+
+449
+00:20:08,190 --> 00:20:11,910
+O'Neill the father of three<font color="#E5E5E5"> from</font>
+
+450
+00:20:09,839 --> 00:20:16,439
+Newcastle the voice you're hearing is
+
+451
+00:20:11,910 --> 00:20:18,630
+mr. O'Neill's on a reason Oh Tyler you
+
+452
+00:20:16,440 --> 00:20:20,759
+look great please<font color="#E5E5E5"> Gary Joshua gosh</font>
+
+453
+00:20:18,630 --> 00:20:21,990
+that's<font color="#CCCCCC"> an</font><font color="#E5E5E5"> ugly</font><font color="#CCCCCC"> map buddy great come on</font>
+
+454
+00:20:20,759 --> 00:20:28,109
+<font color="#E5E5E5">doesn't shoot him on it every time to</font>
+
+455
+00:20:21,990 --> 00:20:33,450
+tell<font color="#E5E5E5"> them what</font><font color="#CCCCCC"> you're gonna say what is</font>
+
+456
+00:20:28,109 --> 00:20:35,969
+that get the kids in the house the tape
+
+457
+00:20:33,450 --> 00:20:39,000
+<font color="#CCCCCC">was analyzed by the FAA</font><font color="#E5E5E5"> and apparently</font>
+
+458
+00:20:35,970 --> 00:20:41,100
+that<font color="#E5E5E5"> was the Alpha fragment from 6645</font>
+
+459
+00:20:39,000 --> 00:20:44,430
+venturi we're gonna watch it<font color="#E5E5E5"> once more</font>
+
+460
+00:20:41,099 --> 00:20:49,980
+as it comes into<font color="#E5E5E5"> the camera's lens get</font>
+
+461
+00:20:44,430 --> 00:20:51,600
+the kids in the house sandy were happy
+
+462
+00:20:49,980 --> 00:20:53,160
+to report that no one<font color="#E5E5E5"> was hurt and the</font>
+
+463
+00:20:51,599 --> 00:20:55,740
+children went on to trick-or-treat with
+
+464
+00:20:53,160 --> 00:20:57,900
+one incredible story to tell well thank
+
+465
+00:20:55,740 --> 00:20:59,849
+goodness for<font color="#CCCCCC"> that there's new</font>
+
+466
+00:20:57,900 --> 00:21:02,519
+information on<font color="#E5E5E5"> that scientists rushed to</font>
+
+467
+00:20:59,849 --> 00:21:06,269
+<font color="#E5E5E5">Houston to confer</font><font color="#CCCCCC"> with NASA officials he</font>
+
+468
+00:21:02,519 --> 00:21:09,000
+is dr. Avram Mandel an astrophysicist at
+
+469
+00:21:06,269 --> 00:21:11,009
+NASA's Jet Propulsion lab sanding
+
+470
+00:21:09,000 --> 00:21:12,509
+sources say dr.<font color="#E5E5E5"> Mandel visits a Space</font>
+
+471
+00:21:11,009 --> 00:21:14,369
+<font color="#E5E5E5">Center here in Houston at least once a</font>
+
+472
+00:21:12,509 --> 00:21:16,230
+month<font color="#CCCCCC"> but this is far from a routine</font>
+
+473
+00:21:14,369 --> 00:21:17,849
+trip in fact we've just learned that
+
+474
+00:21:16,230 --> 00:21:19,860
+he's flown here not on<font color="#CCCCCC"> a conventional</font>
+
+475
+00:21:17,849 --> 00:21:22,740
+carrier but in the jump seat of an air
+
+476
+00:21:19,859 --> 00:21:25,019
+force f-16 with a maximum<font color="#E5E5E5"> airspeed of</font>
+
+477
+00:21:22,740 --> 00:21:26,640
+<font color="#E5E5E5">more</font><font color="#CCCCCC"> than 1,400 miles an hour the flight</font>
+
+478
+00:21:25,019 --> 00:21:29,369
+time<font color="#E5E5E5"> from Edwards to Houston should put</font>
+
+479
+00:21:26,640 --> 00:21:31,230
+dr.<font color="#E5E5E5"> Mandel on the ground some 22 minutes</font>
+
+480
+00:21:29,369 --> 00:21:33,539
+from now sandy correspondent Robert
+
+481
+00:21:31,230 --> 00:21:35,880
+<font color="#E5E5E5">Moreno has just flown</font><font color="#CCCCCC"> in from Denver and</font>
+
+482
+00:21:33,539 --> 00:21:38,129
+he is at the<font color="#E5E5E5"> edge of impact site alpha</font>
+
+483
+00:21:35,880 --> 00:21:41,340
+apparently the police there have<font color="#E5E5E5"> just</font>
+
+484
+00:21:38,130 --> 00:21:42,960
+changed the ground rules Robert all the
+
+485
+00:21:41,339 --> 00:21:44,429
+news crews here have<font color="#E5E5E5"> been asked to pull</font>
+
+486
+00:21:42,960 --> 00:21:46,259
+back from the immediate edge of the
+
+487
+00:21:44,430 --> 00:21:47,700
+crater the official reason is safety
+
+488
+00:21:46,259 --> 00:21:50,700
+<font color="#E5E5E5">state police saying that there have been</font>
+
+489
+00:21:47,700 --> 00:21:51,220
+aftershocks as with<font color="#E5E5E5"> the impact but none</font>
+
+490
+00:21:50,700 --> 00:21:53,110
+of the press
+
+491
+00:21:51,220 --> 00:21:54,700
+on the ground here<font color="#CCCCCC"> was felt anything and</font>
+
+492
+00:21:53,109 --> 00:21:56,979
+there's been stepped<font color="#E5E5E5"> up activity at the</font>
+
+493
+00:21:54,700 --> 00:22:00,279
+crater by NASA scientists we shot this
+
+494
+00:21:56,980 --> 00:22:02,589
+video only moments ago sandy as you can
+
+495
+00:22:00,279 --> 00:22:04,629
+see dozens of investigators from net the
+
+496
+00:22:02,589 --> 00:22:06,908
+Pentagon<font color="#CCCCCC"> have been flown into the</font><font color="#E5E5E5"> site</font>
+
+497
+00:22:04,630 --> 00:22:09,520
+which<font color="#CCCCCC"> is now beginning xem bola sequel</font>
+
+498
+00:22:06,909 --> 00:22:12,490
+<font color="#CCCCCC">airbase you can see a chopper below</font>
+
+499
+00:22:09,519 --> 00:22:14,288
+<font color="#E5E5E5">landing carrying additional troops armed</font>
+
+500
+00:22:12,490 --> 00:22:15,970
+with assault weapons why the government
+
+501
+00:22:14,288 --> 00:22:17,798
+would need firepower like that at the
+
+502
+00:22:15,970 --> 00:22:20,679
+site of<font color="#CCCCCC"> a meteor impact is anyone's</font>
+
+503
+00:22:17,798 --> 00:22:22,629
+guess we're told<font color="#E5E5E5"> among the personnel</font>
+
+504
+00:22:20,679 --> 00:22:25,720
+being moved<font color="#E5E5E5"> to the site is a team of map</font>
+
+505
+00:22:22,630 --> 00:22:28,390
+makers from the US<font color="#CCCCCC"> Geological Survey in</font>
+
+506
+00:22:25,720 --> 00:22:30,700
+addition<font color="#E5E5E5"> the FAA</font><font color="#CCCCCC"> is now established a</font>
+
+507
+00:22:28,390 --> 00:22:33,038
+no-fly zone immediately over the crater
+
+508
+00:22:30,700 --> 00:22:34,600
+they've made it<font color="#E5E5E5"> quite clear that anyone</font>
+
+509
+00:22:33,038 --> 00:22:36,369
+violating this restriction would be
+
+510
+00:22:34,599 --> 00:22:37,689
+<font color="#E5E5E5">fired upon so if these are the last</font>
+
+511
+00:22:36,369 --> 00:22:40,869
+pictures you're likely to see for<font color="#CCCCCC"> a</font>
+
+512
+00:22:37,690 --> 00:22:42,759
+while sandy had impact site we're going
+
+513
+00:22:40,869 --> 00:22:44,139
+<font color="#E5E5E5">to have to cut away a statement is</font>
+
+514
+00:22:42,759 --> 00:22:46,269
+imminent from the press room at the
+
+515
+00:22:44,140 --> 00:22:48,909
+Johnson Space Center we go<font color="#E5E5E5"> now to</font>
+
+516
+00:22:46,269 --> 00:22:50,859
+correspondent Matt Jensen after a
+
+517
+00:22:48,909 --> 00:22:53,620
+virtual blackout since the first impact
+
+518
+00:22:50,859 --> 00:22:55,839
+jail Powell NASA's director of community
+
+519
+00:22:53,619 --> 00:22:59,079
+relations is about to speak now
+
+520
+00:22:55,839 --> 00:23:01,629
+mr. pelvis can you have a have a short
+
+521
+00:22:59,079 --> 00:23:05,079
+statement there will be no questions at
+
+522
+00:23:01,630 --> 00:23:06,460
+this time let me just say from the
+
+523
+00:23:05,079 --> 00:23:08,139
+outset that what we're about<font color="#E5E5E5"> to show you</font>
+
+524
+00:23:06,460 --> 00:23:10,090
+is based on findings that are
+
+525
+00:23:08,140 --> 00:23:14,320
+preliminary at best she didn't get that
+
+526
+00:23:10,089 --> 00:23:18,548
+the findings are not I repeat not
+
+527
+00:23:14,319 --> 00:23:20,168
+definitive data just analyzed by the
+
+528
+00:23:18,548 --> 00:23:23,500
+<font color="#E5E5E5">space center's computers suggest that</font>
+
+529
+00:23:20,169 --> 00:23:24,909
+the asteroid 6645 venturi was
+
+530
+00:23:23,500 --> 00:23:27,819
+approaching the earth on him on a
+
+531
+00:23:24,909 --> 00:23:30,760
+precise trajectory for impact at 90
+
+532
+00:23:27,819 --> 00:23:33,819
+degrees north latitude when it broke up
+
+533
+00:23:30,759 --> 00:23:35,619
+<font color="#CCCCCC">over the polar ice cap the three debris</font>
+
+534
+00:23:33,819 --> 00:23:39,460
+segments that split apart linens<font color="#CCCCCC"> the</font>
+
+535
+00:23:35,619 --> 00:23:43,000
+following impact points<font color="#CCCCCC"> zero degrees</font>
+
+536
+00:23:39,460 --> 00:23:45,460
+longitude near Lord<font color="#CCCCCC"> France the other two</font>
+
+537
+00:23:43,000 --> 00:23:48,250
+<font color="#CCCCCC">sites were</font><font color="#E5E5E5"> at 105 degrees west and</font>
+
+538
+00:23:45,460 --> 00:23:52,450
+Wyoming and the same longitude east in
+
+539
+00:23:48,250 --> 00:23:56,079
+Mongolia here and here all three sites
+
+540
+00:23:52,450 --> 00:23:59,679
+were located at 45 degrees north
+
+541
+00:23:56,079 --> 00:24:03,879
+latitude what<font color="#CCCCCC"> their that is all we</font><font color="#E5E5E5"> have</font>
+
+542
+00:23:59,679 --> 00:24:05,769
+at this point broke up over the North
+
+543
+00:24:03,880 --> 00:24:10,809
+<font color="#CCCCCC">Pole and came down in a perfect pattern</font>
+
+544
+00:24:05,769 --> 00:24:12,099
+that is<font color="#E5E5E5"> correct made no conclusions at</font>
+
+545
+00:24:10,808 --> 00:24:13,869
+this point well what are the chances
+
+546
+00:24:12,099 --> 00:24:15,158
+that a random asteroid would hit and
+
+547
+00:24:13,869 --> 00:24:18,729
+break<font color="#CCCCCC"> up and</font><font color="#E5E5E5"> fall with such precision</font>
+
+548
+00:24:15,159 --> 00:24:19,840
+I'm<font color="#CCCCCC"> feeling Rebecca dr. Ephraim</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> OH</font>
+
+549
+00:24:18,730 --> 00:24:22,480
+<font color="#E5E5E5">is being flown here on an Air Force</font>
+
+550
+00:24:19,839 --> 00:24:23,589
+fighter jet what about it<font color="#E5E5E5"> well you</font>
+
+551
+00:24:22,480 --> 00:24:24,970
+couldn't<font color="#E5E5E5"> have gotten him down here any</font>
+
+552
+00:24:23,589 --> 00:24:28,599
+faster if you'd shot him from a cannon
+
+553
+00:24:24,970 --> 00:24:30,460
+so what's your point well according<font color="#CCCCCC"> to</font>
+
+554
+00:24:28,599 --> 00:24:32,918
+<font color="#E5E5E5">his bio he is a founding member of Seti</font>
+
+555
+00:24:30,460 --> 00:24:34,659
+does that mean extraterrestrials were
+
+556
+00:24:32,919 --> 00:24:36,520
+involved like I said at the<font color="#E5E5E5"> beginning</font>
+
+557
+00:24:34,659 --> 00:24:37,850
+there are no questions<font color="#E5E5E5"> they'll do</font>
+
+558
+00:24:36,519 --> 00:24:45,259
+nothing
+
+559
+00:24:37,849 --> 00:24:46,428
+there you have it sandy back during<font color="#E5E5E5"> the</font>
+
+560
+00:24:45,259 --> 00:24:49,220
+Watergate they would have called that a
+
+561
+00:24:46,429 --> 00:24:50,660
+non-denial denial this isn't like NASA
+
+562
+00:24:49,220 --> 00:24:52,279
+ever since the Challenger disaster
+
+563
+00:24:50,660 --> 00:24:54,259
+they've been one<font color="#E5E5E5"> of the most open</font>
+
+564
+00:24:52,279 --> 00:24:56,329
+agencies in the government that's right
+
+565
+00:24:54,259 --> 00:24:58,910
+sandy but as soon as<font color="#E5E5E5"> I mentioned city</font>
+
+566
+00:24:56,329 --> 00:25:01,099
+Powell shut right down seddie was
+
+567
+00:24:58,910 --> 00:25:03,380
+originally a NASA program yes but just
+
+568
+00:25:01,099 --> 00:25:05,178
+<font color="#E5E5E5">last year their funding was cut most of</font>
+
+569
+00:25:03,380 --> 00:25:07,429
+<font color="#E5E5E5">the scientists here are members of Seti</font>
+
+570
+00:25:05,179 --> 00:25:09,710
+and as you know sandy<font color="#CCCCCC"> assedi is an</font>
+
+571
+00:25:07,429 --> 00:25:11,900
+acronym it stands for the search for
+
+572
+00:25:09,710 --> 00:25:14,029
+extraterrestrial intelligence these are
+
+573
+00:25:11,900 --> 00:25:18,140
+scientists who<font color="#CCCCCC"> are dedicated the belief</font>
+
+574
+00:25:14,029 --> 00:25:20,480
+that there is life on other planets our
+
+575
+00:25:18,140 --> 00:25:35,570
+continuing coverage asteroid fire from
+
+576
+00:25:20,480 --> 00:25:37,700
+the sky will resume after this evening
+
+577
+00:25:35,569 --> 00:25:40,129
+<font color="#E5E5E5">world news continues its coverage with</font>
+
+578
+00:25:37,700 --> 00:25:43,159
+dr. Carolyn Jaffe and sander van ochre
+
+579
+00:25:40,130 --> 00:25:45,140
+for those of you<font color="#E5E5E5"> just joining us we're</font>
+
+580
+00:25:43,159 --> 00:25:47,299
+tracking the story of a large near-earth
+
+581
+00:25:45,140 --> 00:25:49,400
+asteroid that broke up over<font color="#E5E5E5"> in the North</font>
+
+582
+00:25:47,298 --> 00:25:51,200
+<font color="#E5E5E5">Pole</font><font color="#CCCCCC"> tonight and collided with the earth</font>
+
+583
+00:25:49,400 --> 00:25:53,780
+<font color="#CCCCCC">that three sites in the United States</font>
+
+584
+00:25:51,200 --> 00:25:56,808
+Europe and Asia we'll have more on the
+
+585
+00:25:53,779 --> 00:25:59,029
+damage<font color="#E5E5E5"> in a moment</font><font color="#CCCCCC"> but first news on two</font>
+
+586
+00:25:56,808 --> 00:26:01,158
+of the survivors correspondent Paul
+
+587
+00:25:59,029 --> 00:26:04,730
+Whittaker begins with this live report
+
+588
+00:26:01,159 --> 00:26:06,620
+from Lourdes in southern France sandy
+
+589
+00:26:04,730 --> 00:26:08,179
+rescuers are bringing skier jean-paul
+
+590
+00:26:06,619 --> 00:26:09,709
+<font color="#CCCCCC">Shannara down from the mountain where</font>
+
+591
+00:26:08,179 --> 00:26:11,630
+he's been stranded since the asteroid
+
+592
+00:26:09,710 --> 00:26:13,519
+hit earlier this evening we've been
+
+593
+00:26:11,630 --> 00:26:16,250
+<font color="#E5E5E5">getting reports that his condition is</font>
+
+594
+00:26:13,519 --> 00:26:17,389
+critical he's semi-comatose and
+
+595
+00:26:16,250 --> 00:26:19,940
+suffering from frostbite and
+
+596
+00:26:17,390 --> 00:26:21,259
+third-degree burns getting him down<font color="#E5E5E5"> off</font>
+
+597
+00:26:19,940 --> 00:26:23,538
+this mountain has been an incredible
+
+598
+00:26:21,259 --> 00:26:25,308
+<font color="#E5E5E5">task as you can well imagine and and his</font>
+
+599
+00:26:23,538 --> 00:26:27,679
+<font color="#E5E5E5">wife Sylvia is clearly relieved that</font>
+
+600
+00:26:25,308 --> 00:26:29,089
+he's been found alive she's<font color="#E5E5E5"> going to</font>
+
+601
+00:26:27,679 --> 00:26:31,038
+accompany him<font color="#CCCCCC"> to the burn center and</font>
+
+602
+00:26:29,089 --> 00:26:32,298
+nice we're gonna follow this story and
+
+603
+00:26:31,038 --> 00:26:34,369
+we'll get<font color="#E5E5E5"> back</font><font color="#CCCCCC"> to you</font><font color="#E5E5E5"> as soon as we know</font>
+
+604
+00:26:32,298 --> 00:26:37,369
+more this is Paul Whittaker evening
+
+605
+00:26:34,369 --> 00:26:39,259
+world news reporting from Lourdes we
+
+606
+00:26:37,369 --> 00:26:41,869
+switched on a mercy medical center in
+
+607
+00:26:39,259 --> 00:26:45,919
+Casper Wyoming where<font color="#E5E5E5"> corresponding abri</font>
+
+608
+00:26:41,869 --> 00:26:47,569
+Walker is standing by Bree sandy a woman
+
+609
+00:26:45,919 --> 00:26:49,130
+called<font color="#E5E5E5"> here to the hotline just moments</font>
+
+610
+00:26:47,569 --> 00:26:50,189
+ago and<font color="#E5E5E5"> said the little girl is her</font>
+
+611
+00:26:49,130 --> 00:26:52,049
+<font color="#E5E5E5">daughter</font>
+
+612
+00:26:50,190 --> 00:26:53,519
+sheriff gave few other details but did
+
+613
+00:26:52,048 --> 00:26:54,898
+issue a statement confirming<font color="#CCCCCC"> the</font>
+
+614
+00:26:53,519 --> 00:26:57,028
+identity of a little girl as
+
+615
+00:26:54,898 --> 00:26:59,459
+eight-year-old<font color="#E5E5E5"> Kimberly Hastings of</font>
+
+616
+00:26:57,028 --> 00:27:01,710
+Corrales New Mexico apparently she had
+
+617
+00:26:59,460 --> 00:27:03,720
+been missing<font color="#CCCCCC"> since last Friday no one</font>
+
+618
+00:27:01,710 --> 00:27:06,269
+knows yet how she got this far north
+
+619
+00:27:03,720 --> 00:27:08,490
+Corrales is almost 400 miles from where
+
+620
+00:27:06,269 --> 00:27:10,620
+the asteroid hit doctors say she is
+
+621
+00:27:08,490 --> 00:27:13,230
+still<font color="#CCCCCC"> in critical condition tonight yet</font>
+
+622
+00:27:10,619 --> 00:27:15,209
+she<font color="#CCCCCC"> is one lucky little girl with a</font>
+
+623
+00:27:13,230 --> 00:27:17,220
+mystery<font color="#E5E5E5"> over little Kimberly's identity</font>
+
+624
+00:27:15,210 --> 00:27:19,409
+cleared up we shift now to a larger
+
+625
+00:27:17,220 --> 00:27:21,750
+question how<font color="#E5E5E5"> is it</font><font color="#CCCCCC"> that an asteroid</font>
+
+626
+00:27:19,409 --> 00:27:24,659
+could break up and fall to earth with an
+
+627
+00:27:21,750 --> 00:27:26,909
+almost geometric precision my colleague
+
+628
+00:27:24,659 --> 00:27:29,399
+science editor dr. Carolyn Jaffe has
+
+629
+00:27:26,909 --> 00:27:31,799
+found one astronomer who believes he has
+
+630
+00:27:29,398 --> 00:27:34,319
+<font color="#CCCCCC">the answer</font><font color="#E5E5E5"> you were looking at the</font><font color="#CCCCCC"> sieve</font>
+
+631
+00:27:31,798 --> 00:27:36,298
+<font color="#CCCCCC">tranquility a vast stretch of craters</font>
+
+632
+00:27:34,319 --> 00:27:38,099
+created over the<font color="#E5E5E5"> centuries when</font>
+
+633
+00:27:36,298 --> 00:27:40,829
+asteroids pockmarked the lunar surface
+
+634
+00:27:38,099 --> 00:27:43,619
+this shot<font color="#CCCCCC"> of the moon was taken through</font>
+
+635
+00:27:40,829 --> 00:27:46,259
+a<font color="#E5E5E5"> 158 inch</font><font color="#CCCCCC"> cassegrain reflector</font>
+
+636
+00:27:43,619 --> 00:27:48,750
+telescope<font color="#E5E5E5"> the man operating it is dr.</font>
+
+637
+00:27:46,259 --> 00:27:50,730
+Robert<font color="#E5E5E5"> Pearlman a caltech PhD and</font>
+
+638
+00:27:48,750 --> 00:27:53,250
+astronomer who has personally identified
+
+639
+00:27:50,730 --> 00:27:55,589
+a half dozen major comets dr. Perlman
+
+640
+00:27:53,250 --> 00:28:00,089
+what's the significance of tonight's
+
+641
+00:27:55,589 --> 00:28:02,548
+event well you see in in astronomical
+
+642
+00:28:00,089 --> 00:28:05,668
+terms tonight's event coming so close to
+
+643
+00:28:02,548 --> 00:28:07,500
+shoemaker-levy 9 is really unique in
+
+644
+00:28:05,669 --> 00:28:10,080
+recorded history we understand that you
+
+645
+00:28:07,500 --> 00:28:12,750
+<font color="#E5E5E5">actually have a photograph of 6645</font>
+
+646
+00:28:10,079 --> 00:28:16,980
+venturi taken just before it broke up um
+
+647
+00:28:12,750 --> 00:28:20,278
+this was<font color="#E5E5E5"> taken at an elevation</font><font color="#CCCCCC"> of 12,500</font>
+
+648
+00:28:16,980 --> 00:28:22,349
+<font color="#CCCCCC">miles above the pole now four minutes</font>
+
+649
+00:28:20,278 --> 00:28:25,558
+later when<font color="#E5E5E5"> we attempted</font><font color="#CCCCCC"> to take</font><font color="#E5E5E5"> another</font>
+
+650
+00:28:22,349 --> 00:28:28,138
+plate the asteroid exploded dr. Perlman
+
+651
+00:28:25,558 --> 00:28:30,480
+sander van ochre Oh mr. von ocher I
+
+652
+00:28:28,138 --> 00:28:33,058
+understand you're the co-chair with dr.
+
+653
+00:28:30,480 --> 00:28:36,028
+Avram Mandel of SETI the search for
+
+654
+00:28:33,058 --> 00:28:37,319
+extraterrestrial intelligence I am well
+
+655
+00:28:36,028 --> 00:28:39,269
+doctor what do you make of the
+
+656
+00:28:37,319 --> 00:28:41,819
+announcement<font color="#CCCCCC"> by NASA the asteroid</font>
+
+657
+00:28:39,269 --> 00:28:43,470
+fragments struck and precise order well
+
+658
+00:28:41,819 --> 00:28:47,638
+it just confirms what<font color="#CCCCCC"> we've been saying</font>
+
+659
+00:28:43,470 --> 00:28:49,860
+for years I mean with with 200 billion
+
+660
+00:28:47,638 --> 00:28:52,709
+stellar systems in the<font color="#CCCCCC"> Milky Way galaxy</font>
+
+661
+00:28:49,859 --> 00:28:55,589
+alone the existence<font color="#E5E5E5"> of intelligent life</font>
+
+662
+00:28:52,710 --> 00:28:57,509
+beyond Earth is undeniable perhaps but
+
+663
+00:28:55,589 --> 00:28:59,189
+why jump to that conclusion in this case
+
+664
+00:28:57,509 --> 00:29:01,250
+<font color="#CCCCCC">just because the asteroid fragments hit</font>
+
+665
+00:28:59,190 --> 00:29:03,230
+at the same latitude<font color="#E5E5E5"> uh</font>
+
+666
+00:29:01,250 --> 00:29:08,240
+<font color="#CCCCCC">that's a very very good question let me</font>
+
+667
+00:29:03,230 --> 00:29:13,190
+see if this yes yes uh can you see this
+
+668
+00:29:08,240 --> 00:29:15,650
+yes we<font color="#CCCCCC"> can alright</font><font color="#E5E5E5"> 6645 venturi</font>
+
+669
+00:29:13,190 --> 00:29:18,500
+<font color="#CCCCCC">approached the earth on a dead center</font>
+
+670
+00:29:15,650 --> 00:29:20,509
+trajectory for the North Pole<font color="#E5E5E5"> the angles</font>
+
+671
+00:29:18,500 --> 00:29:25,490
+<font color="#E5E5E5">of the three impact sites a B and C are</font>
+
+672
+00:29:20,509 --> 00:29:26,839
+exactly 45 degrees huh the odds against
+
+673
+00:29:25,490 --> 00:29:31,279
+that happening in<font color="#E5E5E5"> nature or</font><font color="#CCCCCC"> something</font>
+
+674
+00:29:26,839 --> 00:29:33,199
+like go tens of the 58th power so what
+
+675
+00:29:31,279 --> 00:29:36,680
+<font color="#E5E5E5">are you saying I'm saying that what</font>
+
+676
+00:29:33,200 --> 00:29:41,120
+we've seen tonight is unnatural could it
+
+677
+00:29:36,680 --> 00:29:43,310
+happen at random not a chance oh thank
+
+678
+00:29:41,119 --> 00:29:45,019
+you doctor that was astronomer Robert
+
+679
+00:29:43,309 --> 00:29:46,460
+<font color="#CCCCCC">Pearlman executive director of</font><font color="#E5E5E5"> the</font>
+
+680
+00:29:45,019 --> 00:29:49,579
+American<font color="#E5E5E5"> observatory in Kitt Peak</font>
+
+681
+00:29:46,460 --> 00:29:51,710
+Arizona we need to point out for our
+
+682
+00:29:49,579 --> 00:29:54,019
+viewers the danger of speculation at
+
+683
+00:29:51,710 --> 00:29:55,940
+this point because of the<font color="#E5E5E5"> breaking</font>
+
+684
+00:29:54,019 --> 00:29:59,210
+events tonight we're bringing<font color="#CCCCCC"> you</font>
+
+685
+00:29:55,940 --> 00:30:01,309
+information that's live and unedited
+
+686
+00:29:59,210 --> 00:30:02,930
+that's right sandy and viewers should
+
+687
+00:30:01,309 --> 00:30:05,179
+keep that<font color="#E5E5E5"> in mind as they watch this</font>
+
+688
+00:30:02,930 --> 00:30:08,480
+next report from Barry Steinbrenner of
+
+689
+00:30:05,180 --> 00:30:10,640
+affiliate<font color="#CCCCCC"> KTM l in Casper Wyoming a 39</font>
+
+690
+00:30:08,480 --> 00:30:13,130
+year old crop duster pilot identified as
+
+691
+00:30:10,640 --> 00:30:14,900
+Dwayne Thomas Haskell was questioned<font color="#CCCCCC"> by</font>
+
+692
+00:30:13,130 --> 00:30:16,010
+local law enforcement and<font color="#E5E5E5"> Air Force</font>
+
+693
+00:30:14,900 --> 00:30:18,980
+officials tonight and later released
+
+694
+00:30:16,009 --> 00:30:20,660
+after reporting a UFO the alleged
+
+695
+00:30:18,980 --> 00:30:23,329
+<font color="#E5E5E5">incident occurred as he was landing his</font>
+
+696
+00:30:20,660 --> 00:30:26,930
+<font color="#E5E5E5">plans some 40 miles west of crash site</font>
+
+697
+00:30:23,329 --> 00:30:31,159
+alpha here Benson while
+
+698
+00:30:26,930 --> 00:30:34,400
+I ask you<font color="#E5E5E5"> about the UFO mr. Haskell</font>
+
+699
+00:30:31,160 --> 00:30:39,019
+already said all I'm gonna say party
+
+700
+00:30:34,400 --> 00:30:41,750
+<font color="#E5E5E5">said I told him</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> pussy</font><font color="#CCCCCC"> ball</font><font color="#E5E5E5"> I know but</font>
+
+701
+00:30:39,019 --> 00:30:44,809
+why were you in there so long<font color="#CCCCCC"> Gilly much</font>
+
+702
+00:30:41,750 --> 00:30:46,819
+luck since Haskell refuses to talk we
+
+703
+00:30:44,809 --> 00:30:49,369
+tape this interview with sheriff's
+
+704
+00:30:46,819 --> 00:30:51,379
+deputy Hanson Peters the first<font color="#E5E5E5"> official</font>
+
+705
+00:30:49,369 --> 00:30:54,589
+to speak with Haskell he told<font color="#E5E5E5"> me that he</font>
+
+706
+00:30:51,380 --> 00:30:57,710
+was<font color="#E5E5E5"> just</font><font color="#CCCCCC"> coming down at around 6 45</font>
+
+707
+00:30:54,589 --> 00:31:00,349
+after Dustin all day anyway Haskell was
+
+708
+00:30:57,710 --> 00:31:01,910
+shaken<font color="#E5E5E5"> I mean the man was terrified he</font>
+
+709
+00:31:00,349 --> 00:31:04,909
+said he was just<font color="#CCCCCC"> coming in when this</font>
+
+710
+00:31:01,910 --> 00:31:07,130
+thing appeared on his right hand side
+
+711
+00:31:04,910 --> 00:31:09,019
+and<font color="#E5E5E5"> if all him a few</font><font color="#CCCCCC"> hundred feet as he</font>
+
+712
+00:31:07,130 --> 00:31:10,760
+landed and then it streaked across his
+
+713
+00:31:09,019 --> 00:31:13,190
+windshield than the thing took off
+
+714
+00:31:10,759 --> 00:31:15,859
+straight<font color="#CCCCCC"> up like shot at this</font><font color="#E5E5E5"> point the</font>
+
+715
+00:31:13,190 --> 00:31:17,240
+pilot Haskell is in seclusion we checked
+
+716
+00:31:15,859 --> 00:31:19,789
+with<font color="#E5E5E5"> the FAA to see if there was</font>
+
+717
+00:31:17,240 --> 00:31:22,220
+anything unusual on radar and they had
+
+718
+00:31:19,789 --> 00:31:26,450
+no<font color="#E5E5E5"> comment this is Barry Steinbrenner</font>
+
+719
+00:31:22,220 --> 00:31:28,339
+Katie ml Action News Wyoming well we've
+
+720
+00:31:26,450 --> 00:31:30,049
+just learned that<font color="#E5E5E5"> mr. Haskell has sold</font>
+
+721
+00:31:28,339 --> 00:31:32,569
+his story to<font color="#E5E5E5"> the National Enquirer</font>
+
+722
+00:31:30,049 --> 00:31:35,119
+though he denies<font color="#CCCCCC"> it the</font><font color="#E5E5E5"> full purchase</font>
+
+723
+00:31:32,569 --> 00:31:38,269
+price is believed to be upwards of 100
+
+724
+00:31:35,119 --> 00:31:40,699
+thousand dollars well was there<font color="#CCCCCC"> really</font>
+
+725
+00:31:38,269 --> 00:31:42,650
+something up there tonight we took our
+
+726
+00:31:40,700 --> 00:31:46,500
+cameras outside just moments ago to get
+
+727
+00:31:42,650 --> 00:31:51,450
+reactions do I<font color="#CCCCCC"> believe in UFOs</font>
+
+728
+00:31:46,500 --> 00:31:54,390
+I don't know I like aliens I like<font color="#CCCCCC"> that</font>
+
+729
+00:31:51,450 --> 00:31:57,779
+theory I have no doubt that he's a UFO
+
+730
+00:31:54,390 --> 00:32:01,080
+um I definitely definitely don't think
+
+731
+00:31:57,779 --> 00:32:03,660
+<font color="#E5E5E5">it's you have what's he done that to me</font>
+
+732
+00:32:01,079 --> 00:32:05,250
+is<font color="#CCCCCC"> just humans arrogancy to think that</font>
+
+733
+00:32:03,660 --> 00:32:08,040
+everything<font color="#E5E5E5"> can be explained with</font>
+
+734
+00:32:05,250 --> 00:32:11,369
+scientific data and information I<font color="#CCCCCC"> mean</font>
+
+735
+00:32:08,039 --> 00:32:13,440
+for years we've always assumed that
+
+736
+00:32:11,369 --> 00:32:16,500
+there's no life on other planets<font color="#E5E5E5"> broke</font>
+
+737
+00:32:13,440 --> 00:32:22,440
+why would I be there I'm not surprised I
+
+738
+00:32:16,500 --> 00:32:28,440
+don't know<font color="#E5E5E5"> i I really don't i don't</font>
+
+739
+00:32:22,440 --> 00:32:30,090
+believe in aliens all right did you know
+
+740
+00:32:28,440 --> 00:32:32,460
+the White House has been noticeably
+
+741
+00:32:30,089 --> 00:32:34,829
+silent in all this the president's out
+
+742
+00:32:32,460 --> 00:32:37,319
+of the country at the g7 economic summit
+
+743
+00:32:34,829 --> 00:32:39,059
+and for him that may be a blessing but
+
+744
+00:32:37,319 --> 00:32:41,069
+there's at least one segment of the
+
+745
+00:32:39,059 --> 00:32:43,710
+administration willing to comment on the
+
+746
+00:32:41,069 --> 00:32:46,139
+alleged UFO incident we go<font color="#CCCCCC"> now to</font>
+
+747
+00:32:43,710 --> 00:32:48,269
+national security correspondent Mark
+
+748
+00:32:46,140 --> 00:32:50,100
+<font color="#CCCCCC">Minetti at the Pentagon here with me</font>
+
+749
+00:32:48,269 --> 00:32:52,379
+tonight is a deputy undersecretary of
+
+750
+00:32:50,099 --> 00:32:58,319
+defense for advanced technologies dr.
+
+751
+00:32:52,380 --> 00:32:59,910
+<font color="#E5E5E5">Norbert</font><font color="#CCCCCC"> Hazleton now doctor with NASA's</font>
+
+752
+00:32:58,319 --> 00:33:02,369
+announcement of how the asteroid
+
+753
+00:32:59,910 --> 00:33:05,490
+fragments came in I suppose<font color="#CCCCCC"> that talk of</font>
+
+754
+00:33:02,369 --> 00:33:06,659
+<font color="#CCCCCC">UFOs was inevitable absolutely they all</font>
+
+755
+00:33:05,490 --> 00:33:09,720
+come out of the woodwork at times like
+
+756
+00:33:06,660 --> 00:33:12,060
+<font color="#E5E5E5">this i granted the the crop duster</font>
+
+757
+00:33:09,720 --> 00:33:13,620
+report has yet to be confirmed but what
+
+758
+00:33:12,059 --> 00:33:16,889
+<font color="#CCCCCC">about the findings of dr. Robert</font>
+
+759
+00:33:13,619 --> 00:33:20,489
+<font color="#E5E5E5">Pearlman he's a respected scientist look</font>
+
+760
+00:33:16,890 --> 00:33:22,710
+there's an irresponsible segment of the
+
+761
+00:33:20,490 --> 00:33:24,870
+<font color="#E5E5E5">scientific community that seems bent on</font>
+
+762
+00:33:22,710 --> 00:33:27,870
+proving the existence of little green
+
+763
+00:33:24,869 --> 00:33:29,250
+men and that's fine the problem is is
+
+764
+00:33:27,869 --> 00:33:33,209
+that the US has been trying to establish
+
+765
+00:33:29,250 --> 00:33:34,890
+contact for decades to<font color="#E5E5E5"> no avail seven</font>
+
+766
+00:33:33,210 --> 00:33:36,539
+separate unmanned probes have been
+
+767
+00:33:34,890 --> 00:33:39,210
+launched toward the edge of the galaxy
+
+768
+00:33:36,539 --> 00:33:41,190
+beaming messages from Earth there have
+
+769
+00:33:39,210 --> 00:33:45,000
+<font color="#E5E5E5">been more</font><font color="#CCCCCC"> than a thousand US Space</font>
+
+770
+00:33:41,190 --> 00:33:48,240
+Shuttle own since<font color="#E5E5E5"> the 1950s another 2400</font>
+
+771
+00:33:45,000 --> 00:33:51,750
+by the Russians<font color="#E5E5E5"> twelve men landed on the</font>
+
+772
+00:33:48,240 --> 00:33:53,400
+moon and returned without sightings we
+
+773
+00:33:51,750 --> 00:33:56,259
+wanted<font color="#CCCCCC"> to</font><font color="#E5E5E5"> find them there was nothing</font>
+
+774
+00:33:53,400 --> 00:33:58,210
+what<font color="#CCCCCC"> about the geometric pattern of the</font>
+
+775
+00:33:56,259 --> 00:34:00,549
+crashes I mean how could something so
+
+776
+00:33:58,210 --> 00:34:03,279
+precise simply be attributed as a
+
+777
+00:34:00,549 --> 00:34:06,339
+natural phenomenon well I've got<font color="#CCCCCC"> just</font>
+
+778
+00:34:03,279 --> 00:34:08,289
+one<font color="#CCCCCC"> answer for</font><font color="#E5E5E5"> you snowflakes hundreds</font>
+
+779
+00:34:06,339 --> 00:34:10,898
+of trillions of fall to<font color="#CCCCCC"> earth every year</font>
+
+780
+00:34:08,289 --> 00:34:14,380
+each with an intricate geometric pattern
+
+781
+00:34:10,898 --> 00:34:15,699
+and no two alike nature is precise in
+
+782
+00:34:14,380 --> 00:34:19,690
+its randomness and that is the
+
+783
+00:34:15,699 --> 00:34:22,418
+<font color="#CCCCCC">fascination of it thank you doctor back</font>
+
+784
+00:34:19,690 --> 00:34:24,280
+to<font color="#CCCCCC"> you sandy with these allegations of</font>
+
+785
+00:34:22,418 --> 00:34:27,339
+UFO involvement we shouldn't forget the
+
+786
+00:34:24,280 --> 00:34:29,530
+real story here that the more than<font color="#CCCCCC"> 2,000</font>
+
+787
+00:34:27,340 --> 00:34:32,050
+near-earth asteroids still uncharted by
+
+788
+00:34:29,530 --> 00:34:34,300
+NASA represent a significant threat<font color="#CCCCCC"> to</font>
+
+789
+00:34:32,050 --> 00:34:36,460
+the earth two years<font color="#CCCCCC"> ago during a</font>
+
+790
+00:34:34,300 --> 00:34:38,110
+football game in Peekskill New York fans
+
+791
+00:34:36,460 --> 00:34:40,210
+observed this meteorite streaked<font color="#CCCCCC"> through</font>
+
+792
+00:34:38,110 --> 00:34:43,690
+the sky where it almost<font color="#E5E5E5"> destroyed a</font>
+
+793
+00:34:40,210 --> 00:34:45,970
+residential neighborhood in 1972 an
+
+794
+00:34:43,690 --> 00:34:48,429
+alert photographer in the Grand Teton
+
+795
+00:34:45,969 --> 00:34:51,369
+National Park caught this object as<font color="#E5E5E5"> its</font>
+
+796
+00:34:48,429 --> 00:34:53,980
+streaked across the sky at 33,000 miles
+
+797
+00:34:51,369 --> 00:34:55,898
+an hour with an estimated<font color="#CCCCCC"> weight of 1</font>
+
+798
+00:34:53,980 --> 00:34:57,760
+million pounds it narrowly missed a
+
+799
+00:34:55,898 --> 00:35:00,849
+campground with thousands of people and
+
+800
+00:34:57,760 --> 00:35:03,940
+in 1989 an asteroid half a mile wide
+
+801
+00:35:00,849 --> 00:35:05,440
+narrowly missed the planet the earth had
+
+802
+00:35:03,940 --> 00:35:08,349
+been directly in line with that<font color="#E5E5E5"> giant</font>
+
+803
+00:35:05,440 --> 00:35:10,119
+rock only six hours earlier you're
+
+804
+00:35:08,349 --> 00:35:13,839
+<font color="#E5E5E5">saying that we were only six hours away</font>
+
+805
+00:35:10,119 --> 00:35:15,609
+from catastrophe that's right I in<font color="#CCCCCC"> fact</font>
+
+806
+00:35:13,840 --> 00:35:18,370
+after that near miss a congressional
+
+807
+00:35:15,610 --> 00:35:20,860
+report concluded quote had the asteroid
+
+808
+00:35:18,369 --> 00:35:22,900
+struck the earth it would have caused a
+
+809
+00:35:20,860 --> 00:35:25,090
+disaster unprecedented in human history
+
+810
+00:35:22,900 --> 00:35:27,010
+doctors you<font color="#CCCCCC"> know government officials</font>
+
+811
+00:35:25,090 --> 00:35:28,960
+continue to<font color="#E5E5E5"> insist that tonight's</font>
+
+812
+00:35:27,010 --> 00:35:30,910
+asteroid hits were of natural origin
+
+813
+00:35:28,960 --> 00:35:34,090
+there's a growing segment of the
+
+814
+00:35:30,909 --> 00:35:36,219
+population who cents something more<font color="#E5E5E5"> and</font>
+
+815
+00:35:34,090 --> 00:35:37,870
+joining us<font color="#CCCCCC"> now is Terrance</font><font color="#E5E5E5"> Freeman</font>
+
+816
+00:35:36,219 --> 00:35:40,480
+author of<font color="#E5E5E5"> the recent bestseller</font>
+
+817
+00:35:37,869 --> 00:35:42,759
+messengers<font color="#CCCCCC"> from beyond mr. Freeman</font>
+
+818
+00:35:40,480 --> 00:35:44,409
+welcome glad to be here sandy I'm mr.
+
+819
+00:35:42,760 --> 00:35:46,510
+Freeman you've long been a proponent of
+
+820
+00:35:44,409 --> 00:35:49,599
+<font color="#E5E5E5">the theory that intelligent life has</font>
+
+821
+00:35:46,510 --> 00:35:51,340
+visited earth before correct oh there's
+
+822
+00:35:49,599 --> 00:35:52,960
+no question there are<font color="#E5E5E5"> ancient cave</font>
+
+823
+00:35:51,340 --> 00:35:55,300
+drawings showing figures<font color="#CCCCCC"> and space</font>
+
+824
+00:35:52,960 --> 00:35:57,760
+helmets the pyramids the enormous
+
+825
+00:35:55,300 --> 00:36:00,039
+figures on Easter Island even the circle
+
+826
+00:35:57,760 --> 00:36:02,260
+at Stonehenge<font color="#CCCCCC"> were all built at a time</font>
+
+827
+00:36:00,039 --> 00:36:04,029
+before<font color="#E5E5E5"> we had the technical</font><font color="#CCCCCC"> skills</font><font color="#E5E5E5"> to</font>
+
+828
+00:36:02,260 --> 00:36:06,520
+create them i'm sorry mr.<font color="#CCCCCC"> freeman but</font>
+
+829
+00:36:04,030 --> 00:36:09,039
+you seem<font color="#CCCCCC"> to be denying all human</font>
+
+830
+00:36:06,519 --> 00:36:11,168
+achievement on the contrary men
+
+831
+00:36:09,039 --> 00:36:13,479
+women accomplish these things but they
+
+832
+00:36:11,168 --> 00:36:15,938
+were guided by forces on high it's
+
+833
+00:36:13,478 --> 00:36:18,399
+axiomatic you can trace the benchmarks
+
+834
+00:36:15,938 --> 00:36:19,928
+throughout history they come<font color="#E5E5E5"> every few</font>
+
+835
+00:36:18,400 --> 00:36:21,969
+hundred years and we are long overdue
+
+836
+00:36:19,929 --> 00:36:23,769
+well there are<font color="#E5E5E5"> plenty of responsible</font>
+
+837
+00:36:21,969 --> 00:36:26,380
+scientists who would argue<font color="#CCCCCC"> that</font><font color="#E5E5E5"> these</font>
+
+838
+00:36:23,768 --> 00:36:27,879
+asteroids are long overdue you know
+
+839
+00:36:26,380 --> 00:36:29,949
+there's a dictum that scientists are
+
+840
+00:36:27,880 --> 00:36:32,499
+taught to follow it says that<font color="#CCCCCC"> when you</font>
+
+841
+00:36:29,949 --> 00:36:34,809
+are faced with an enigma<font color="#E5E5E5"> the best</font>
+
+842
+00:36:32,498 --> 00:36:37,298
+explanation is usually the simplest and
+
+843
+00:36:34,809 --> 00:36:39,969
+most logical one in this case asteroids
+
+844
+00:36:37,298 --> 00:36:42,159
+not a Leo got interrupt you both we've
+
+845
+00:36:39,969 --> 00:36:44,708
+<font color="#CCCCCC">just received a disturbing report from</font>
+
+846
+00:36:42,159 --> 00:36:47,288
+correspondent Robert<font color="#E5E5E5"> Moreno he's now on</font>
+
+847
+00:36:44,708 --> 00:36:51,219
+the ground near impact sine alpha in
+
+848
+00:36:47,289 --> 00:36:53,289
+Wyoming Robert sandy two events in the
+
+849
+00:36:51,219 --> 00:36:55,449
+last<font color="#E5E5E5"> 10</font><font color="#CCCCCC"> minutes</font><font color="#E5E5E5"> a foot asteroid impact</font>
+
+850
+00:36:53,289 --> 00:36:57,759
+in a chilling new light first our new
+
+851
+00:36:55,449 --> 00:36:59,889
+friend about a but doesn't aircraft were
+
+852
+00:36:57,759 --> 00:37:02,228
+forced to land when an intense radio
+
+853
+00:36:59,889 --> 00:37:04,509
+signal be coming our navigational system
+
+854
+00:37:02,228 --> 00:37:06,879
+then after we hit the ground began to
+
+855
+00:37:04,509 --> 00:37:09,099
+<font color="#E5E5E5">hear that noise in the</font><font color="#CCCCCC"> background</font><font color="#E5E5E5"> a lot</font>
+
+856
+00:37:06,880 --> 00:37:11,289
+of pulsating hum coming from the
+
+857
+00:37:09,099 --> 00:37:13,390
+direction of the meteor crater the
+
+858
+00:37:11,289 --> 00:37:14,439
+decimals increased minute by minute<font color="#E5E5E5"> to</font>
+
+859
+00:37:13,389 --> 00:37:16,778
+the point where you almost<font color="#E5E5E5"> have to</font>
+
+860
+00:37:14,438 --> 00:37:19,449
+scream to be heard Bob can<font color="#CCCCCC"> you get any</font>
+
+861
+00:37:16,778 --> 00:37:21,159
+closer<font color="#E5E5E5"> to the right crater can you get</font>
+
+862
+00:37:19,449 --> 00:37:24,088
+any closer to<font color="#E5E5E5"> the rim of the crater</font>
+
+863
+00:37:21,159 --> 00:37:24,088
+right hi
+
+864
+00:37:25,119 --> 00:37:58,990
+oh you're the sound of rich as we move
+
+865
+00:37:30,130 --> 00:38:01,960
+towards the<font color="#CCCCCC"> greater it seriously the AP</font>
+
+866
+00:37:58,989 --> 00:38:04,328
+is reporting that state police units as
+
+867
+00:38:01,960 --> 00:38:07,150
+far away as Casper Wyoming have been
+
+868
+00:38:04,329 --> 00:38:09,759
+picking up that same loud hum on their
+
+869
+00:38:07,150 --> 00:38:12,130
+radios and there's this statement<font color="#CCCCCC"> just</font>
+
+870
+00:38:09,759 --> 00:38:14,889
+<font color="#CCCCCC">in from NASA's Jet Propulsion Laboratory</font>
+
+871
+00:38:12,130 --> 00:38:17,619
+quote a persistent audio signal of
+
+872
+00:38:14,889 --> 00:38:19,719
+unknown origin on the edge of the FM
+
+873
+00:38:17,619 --> 00:38:22,720
+band is being<font color="#E5E5E5"> emitted from the vortex of</font>
+
+874
+00:38:19,719 --> 00:38:25,268
+the crater unquote in other words<font color="#E5E5E5"> that</font>
+
+875
+00:38:22,719 --> 00:38:27,699
+apparently benign piece of space rock is
+
+876
+00:38:25,268 --> 00:38:30,278
+charged electronically and sending out
+
+877
+00:38:27,699 --> 00:38:32,259
+some<font color="#E5E5E5"> sort of signal Matt Jensen has more</font>
+
+878
+00:38:30,278 --> 00:38:34,059
+from Houston officials here<font color="#E5E5E5"> at the</font>
+
+879
+00:38:32,259 --> 00:38:36,009
+Johnson Space Center have confirmed that
+
+880
+00:38:34,059 --> 00:38:38,650
+similar radio signals have now been
+
+881
+00:38:36,009 --> 00:38:41,139
+detected emanating<font color="#E5E5E5"> from the Bravo and</font>
+
+882
+00:38:38,650 --> 00:38:42,519
+Charlie impact sites in southern France
+
+883
+00:38:41,139 --> 00:38:45,548
+and in the Gobi Desert of Mongolia
+
+884
+00:38:42,518 --> 00:38:47,528
+there's no official<font color="#E5E5E5"> word from NASA but</font>
+
+885
+00:38:45,548 --> 00:38:50,349
+sources here say that the signals could
+
+886
+00:38:47,528 --> 00:38:52,630
+be natural in origin the result of what
+
+887
+00:38:50,349 --> 00:38:55,450
+is being described as quote a pulsating
+
+888
+00:38:52,630 --> 00:38:57,039
+charged ion field which developed during
+
+889
+00:38:55,449 --> 00:38:59,348
+the parent asteroids flight through the
+
+890
+00:38:57,039 --> 00:39:01,839
+atmosphere we repeat at this<font color="#CCCCCC"> juncture</font>
+
+891
+00:38:59,349 --> 00:39:06,369
+<font color="#CCCCCC">the word is that</font><font color="#E5E5E5"> the signals are of</font>
+
+892
+00:39:01,838 --> 00:39:08,558
+natural origin back to you there's some
+
+893
+00:39:06,369 --> 00:39:11,230
+activity at the FAA's air traffic system
+
+894
+00:39:08,559 --> 00:39:13,720
+command in Washington<font color="#CCCCCC"> DC we go there now</font>
+
+895
+00:39:11,230 --> 00:39:15,460
+with correspondent Mike Curtis Caroline
+
+896
+00:39:13,719 --> 00:39:16,988
+I'm<font color="#E5E5E5"> standing in the aviation command</font>
+
+897
+00:39:15,460 --> 00:39:19,358
+center where authorities have now
+
+898
+00:39:16,989 --> 00:39:21,608
+confirmed that signals emanating from
+
+899
+00:39:19,358 --> 00:39:23,858
+the asteroid sites have begun to disrupt
+
+900
+00:39:21,608 --> 00:39:26,048
+commercial air traffic with me now is
+
+901
+00:39:23,858 --> 00:39:27,338
+<font color="#E5E5E5">facility manager David case David are</font>
+
+902
+00:39:26,048 --> 00:39:29,588
+<font color="#CCCCCC">you able to shed any</font><font color="#E5E5E5"> light on this</font>
+
+903
+00:39:27,338 --> 00:39:31,480
+<font color="#E5E5E5">situation for us well traffic</font><font color="#CCCCCC"> has been</font>
+
+904
+00:39:29,588 --> 00:39:33,818
+<font color="#E5E5E5">disrupted across the country but as you</font>
+
+905
+00:39:31,480 --> 00:39:35,559
+<font color="#E5E5E5">can see on</font><font color="#CCCCCC"> the screen behind me the</font>
+
+906
+00:39:33,818 --> 00:39:38,139
+problem is most acute at<font color="#CCCCCC"> O'Hare in</font>
+
+907
+00:39:35,559 --> 00:39:38,930
+Chicago Wayne County Airport in Detroit
+
+908
+00:39:38,139 --> 00:39:40,759
+<font color="#E5E5E5">and</font>
+
+909
+00:39:38,929 --> 00:39:42,588
+<font color="#E5E5E5">New York City hubs Newark JFK and</font>
+
+910
+00:39:40,760 --> 00:39:45,170
+LaGuardia Oh mr. case this is Carolyn
+
+911
+00:39:42,588 --> 00:39:46,880
+Jaffe 45 degrees north is<font color="#CCCCCC"> the very same</font>
+
+912
+00:39:45,170 --> 00:39:51,858
+parallel where the asteroid fragments
+
+913
+00:39:46,880 --> 00:39:53,960
+struck yes ma'am you have<font color="#E5E5E5"> any comment on</font>
+
+914
+00:39:51,858 --> 00:39:55,578
+<font color="#CCCCCC">that oh no I'm afraid to have nothing to</font>
+
+915
+00:39:53,960 --> 00:39:56,960
+say about that<font color="#E5E5E5"> at this time if you'll</font>
+
+916
+00:39:55,579 --> 00:40:01,130
+excuse me I have<font color="#E5E5E5"> to get</font><font color="#CCCCCC"> back to work</font>
+
+917
+00:39:56,960 --> 00:40:04,220
+this is my Curtis reporting live back to
+
+918
+00:40:01,130 --> 00:40:05,869
+you Caroline thanks Mike in a moment we
+
+919
+00:40:04,219 --> 00:40:08,899
+hope to<font color="#CCCCCC"> have more on</font><font color="#E5E5E5"> those mysterious</font>
+
+920
+00:40:05,869 --> 00:40:11,030
+radio signals we stress again we<font color="#E5E5E5"> don't</font>
+
+921
+00:40:08,900 --> 00:40:14,000
+yet know the full significance of all
+
+922
+00:40:11,030 --> 00:40:16,130
+this but one thing is clear an event
+
+923
+00:40:14,000 --> 00:40:19,579
+that began some<font color="#E5E5E5"> ninety five minutes ago</font>
+
+924
+00:40:16,130 --> 00:40:21,650
+<font color="#E5E5E5">with few human casualties has now grown</font>
+
+925
+00:40:19,579 --> 00:40:25,519
+into an international air crisis
+
+926
+00:40:21,650 --> 00:40:28,970
+affecting thousands our continuing
+
+927
+00:40:25,519 --> 00:40:37,250
+coverage asteroid fire from the sky will
+
+928
+00:40:28,969 --> 00:40:39,409
+return in a moment here once again<font color="#E5E5E5"> our</font>
+
+929
+00:40:37,250 --> 00:40:42,289
+dr. Carolyn Jaffe and sander van ochre
+
+930
+00:40:39,409 --> 00:40:44,598
+for those of<font color="#CCCCCC"> you just joining us now we</font>
+
+931
+00:40:42,289 --> 00:40:46,909
+are following an ever-widening crisis
+
+932
+00:40:44,599 --> 00:40:49,640
+touched off by the impact tonight of a
+
+933
+00:40:46,909 --> 00:40:52,009
+massive meteor that broke up and fell<font color="#CCCCCC"> to</font>
+
+934
+00:40:49,639 --> 00:40:54,769
+earth radio signals<font color="#CCCCCC"> from the</font><font color="#E5E5E5"> three</font>
+
+935
+00:40:52,010 --> 00:40:57,079
+impact sites are affecting<font color="#E5E5E5"> air traffic</font>
+
+936
+00:40:54,769 --> 00:40:59,088
+worldwide and faa officials are
+
+937
+00:40:57,079 --> 00:41:02,780
+recommending that people fly tonight
+
+938
+00:40:59,088 --> 00:41:04,818
+only if it's<font color="#E5E5E5"> absolutely necessary we go</font>
+
+939
+00:41:02,780 --> 00:41:07,970
+<font color="#CCCCCC">now to one of the city's hardest hit</font>
+
+940
+00:41:04,818 --> 00:41:11,630
+correspondent Ernie Anastos is in New
+
+941
+00:41:07,969 --> 00:41:13,279
+York they come<font color="#E5E5E5"> here to Times Square as</font>
+
+942
+00:41:11,630 --> 00:41:15,440
+they always do in the world is in
+
+943
+00:41:13,280 --> 00:41:17,700
+trouble the Cuban Missile Crisis the
+
+944
+00:41:15,440 --> 00:41:20,490
+Kennedy assassination the war in the gun
+
+945
+00:41:17,699 --> 00:41:21,869
+all recorded up on that<font color="#E5E5E5"> side when you</font>
+
+946
+00:41:20,489 --> 00:41:23,939
+want to take the pulse<font color="#CCCCCC"> meat of the</font>
+
+947
+00:41:21,869 --> 00:41:26,369
+planet few places can give you a reading
+
+948
+00:41:23,940 --> 00:41:28,920
+like New York ever since the meteor
+
+949
+00:41:26,369 --> 00:41:30,869
+shower started several hours ago things
+
+950
+00:41:28,920 --> 00:41:32,730
+we take for granted have been<font color="#E5E5E5"> affected</font>
+
+951
+00:41:30,869 --> 00:41:34,769
+officials at Newark Airport are
+
+952
+00:41:32,730 --> 00:41:37,320
+reporting delays of up to<font color="#E5E5E5"> three hours</font>
+
+953
+00:41:34,769 --> 00:41:39,509
+the situation<font color="#CCCCCC"> is worse at LaGuardia</font><font color="#E5E5E5"> and</font>
+
+954
+00:41:37,320 --> 00:41:42,240
+the two runways at JFK have been
+
+955
+00:41:39,510 --> 00:41:44,250
+completely shut down all new york-bound
+
+956
+00:41:42,239 --> 00:41:46,229
+air traffic was diverted<font color="#E5E5E5"> to Boston and</font>
+
+957
+00:41:44,250 --> 00:41:48,599
+<font color="#E5E5E5">Hartford as interference from the three</font>
+
+958
+00:41:46,230 --> 00:41:51,059
+impact sites continues to scramble radar
+
+959
+00:41:48,599 --> 00:41:53,789
+the only planes moving at LaGuardia were
+
+960
+00:41:51,059 --> 00:41:55,949
+outgoing flights the resulting gridlock
+
+961
+00:41:53,789 --> 00:41:58,079
+at airports has produced massive traffic
+
+962
+00:41:55,949 --> 00:42:00,210
+jams this is the Holland Tunnel tonight
+
+963
+00:41:58,079 --> 00:42:02,099
+and as you can see<font color="#E5E5E5"> traffic backed up</font>
+
+964
+00:42:00,210 --> 00:42:04,260
+with thousands leaving the city by car
+
+965
+00:42:02,099 --> 00:42:05,969
+others abandoned their vehicles and
+
+966
+00:42:04,260 --> 00:42:08,790
+rushed into the tunnel trying to get out
+
+967
+00:42:05,969 --> 00:42:11,009
+of<font color="#CCCCCC"> the city on foot New York</font><font color="#E5E5E5"> City 911</font>
+
+968
+00:42:08,789 --> 00:42:12,779
+emergency center is overloaded now and
+
+969
+00:42:11,010 --> 00:42:14,280
+running on<font color="#E5E5E5"> backup generators at this</font>
+
+970
+00:42:12,780 --> 00:42:16,380
+hour the police and fire departments
+
+971
+00:42:14,280 --> 00:42:19,830
+have called in all off-duty personnel
+
+972
+00:42:16,380 --> 00:42:22,260
+during the crisis and finally hundreds
+
+973
+00:42:19,829 --> 00:42:24,239
+of people of all denominations<font color="#CCCCCC"> Jam st.</font>
+
+974
+00:42:22,260 --> 00:42:26,220
+Patrick's Cathedral tonight for a prayer
+
+975
+00:42:24,239 --> 00:42:31,859
+vigil conducted by Terrans<font color="#CCCCCC"> cardinal</font>
+
+976
+00:42:26,219 --> 00:42:33,689
+<font color="#E5E5E5">O'Connell so sandy here we are at the</font>
+
+977
+00:42:31,860 --> 00:42:36,059
+<font color="#E5E5E5">foot of the tower where the ball drops</font>
+
+978
+00:42:33,690 --> 00:42:38,460
+every New Year's Eve and if we<font color="#CCCCCC"> get stood</font>
+
+979
+00:42:36,059 --> 00:42:41,820
+here last December 31st looking ahead to
+
+980
+00:42:38,460 --> 00:42:44,760
+1994 I assure<font color="#CCCCCC"> you that no one would have</font>
+
+981
+00:42:41,820 --> 00:42:48,000
+predicted this<font color="#E5E5E5"> Ernie Anastos evening</font>
+
+982
+00:42:44,760 --> 00:42:49,980
+World News New York as money markets
+
+983
+00:42:48,000 --> 00:42:51,989
+open now in Asia there<font color="#E5E5E5"> are reports that</font>
+
+984
+00:42:49,980 --> 00:42:54,929
+trading has been<font color="#CCCCCC"> suspended on the Hong</font>
+
+985
+00:42:51,989 --> 00:42:56,639
+Kong<font color="#CCCCCC"> and</font><font color="#E5E5E5"> Tokyo markets scattered power</font>
+
+986
+00:42:54,929 --> 00:42:58,889
+outages have been reported throughout
+
+987
+00:42:56,639 --> 00:43:01,739
+Europe and Asia but for the most part
+
+988
+00:42:58,889 --> 00:43:03,809
+people are staying calm just watching
+
+989
+00:43:01,739 --> 00:43:07,019
+and waiting<font color="#E5E5E5"> to see if the unthinkable is</font>
+
+990
+00:43:03,809 --> 00:43:09,779
+possible could intelligent life exists
+
+991
+00:43:07,019 --> 00:43:12,690
+elsewhere outside our solar system and
+
+992
+00:43:09,780 --> 00:43:16,290
+if<font color="#E5E5E5"> so do they have the</font><font color="#CCCCCC"> capability of</font>
+
+993
+00:43:12,690 --> 00:43:19,019
+visiting earth dr. sandy America is a
+
+994
+00:43:16,289 --> 00:43:20,639
+country that thrives on conspiracy the
+
+995
+00:43:19,019 --> 00:43:22,860
+very word cover-up is part of<font color="#E5E5E5"> our</font>
+
+996
+00:43:20,639 --> 00:43:24,929
+national lexicon and for close to five
+
+997
+00:43:22,860 --> 00:43:26,579
+decades now tens of thousands of
+
+998
+00:43:24,929 --> 00:43:28,440
+Americans have been convinced of two
+
+999
+00:43:26,579 --> 00:43:30,599
+things that<font color="#E5E5E5"> there is something out there</font>
+
+1000
+00:43:28,440 --> 00:43:31,019
+and the government doesn't want<font color="#CCCCCC"> us to</font>
+
+1001
+00:43:30,599 --> 00:43:35,130
+<font color="#CCCCCC">know</font>
+
+1002
+00:43:31,019 --> 00:43:37,230
+the UFO era began in 1947 when a sheep
+
+1003
+00:43:35,130 --> 00:43:39,210
+rancher in Roswell<font color="#CCCCCC"> New Mexico found</font>
+
+1004
+00:43:37,230 --> 00:43:42,059
+fragments of what<font color="#E5E5E5"> he said was a flying</font>
+
+1005
+00:43:39,210 --> 00:43:43,769
+<font color="#E5E5E5">disk later the Air Force called it a</font>
+
+1006
+00:43:42,059 --> 00:43:46,590
+weather balloon but a secret government
+
+1007
+00:43:43,769 --> 00:43:48,960
+report made public years later described
+
+1008
+00:43:46,590 --> 00:43:51,480
+the recovery of four tiny bodies from
+
+1009
+00:43:48,960 --> 00:43:53,670
+the Roswell crash site and ever<font color="#CCCCCC"> since</font>
+
+1010
+00:43:51,480 --> 00:43:56,610
+then there have been hundreds of
+
+1011
+00:43:53,670 --> 00:43:58,590
+reported sightings however the air force
+
+1012
+00:43:56,610 --> 00:44:00,990
+shutdown<font color="#CCCCCC"> Project Blue Book concluding</font>
+
+1013
+00:43:58,590 --> 00:44:03,750
+quote no evidence<font color="#E5E5E5"> has been found that</font>
+
+1014
+00:44:00,989 --> 00:44:06,179
+<font color="#E5E5E5">any of the UFO reports reflect a threat</font>
+
+1015
+00:44:03,750 --> 00:44:08,909
+<font color="#E5E5E5">to our national security well there's</font>
+
+1016
+00:44:06,179 --> 00:44:11,190
+science fact in their science fiction to
+
+1017
+00:44:08,909 --> 00:44:13,469
+help separate the two we go now to a man
+
+1018
+00:44:11,190 --> 00:44:16,050
+who spent<font color="#CCCCCC"> years studying the threat from</font>
+
+1019
+00:44:13,469 --> 00:44:19,109
+these massive meteors arthur c clarke
+
+1020
+00:44:16,050 --> 00:44:21,690
+<font color="#E5E5E5">the noted author of 2001 and dozens of</font>
+
+1021
+00:44:19,110 --> 00:44:24,210
+other books was recently nominated for
+
+1022
+00:44:21,690 --> 00:44:26,849
+the<font color="#E5E5E5"> Nobel Peace Prize he joins us now</font>
+
+1023
+00:44:24,210 --> 00:44:29,639
+live<font color="#CCCCCC"> from his home in colombo sri lanka</font>
+
+1024
+00:44:26,849 --> 00:44:33,539
+dr. Clark<font color="#E5E5E5"> thanks for being with us my</font>
+
+1025
+00:44:29,639 --> 00:44:36,000
+pleasure dr. Clark as far back as 1973
+
+1026
+00:44:33,539 --> 00:44:38,099
+in your book rendezvous<font color="#CCCCCC"> with Rama you</font>
+
+1027
+00:44:36,000 --> 00:44:40,440
+wrote about<font color="#E5E5E5"> the threat from near-earth</font>
+
+1028
+00:44:38,099 --> 00:44:42,299
+asteroids isn't that right that's
+
+1029
+00:44:40,440 --> 00:44:44,579
+correct there are those who believe
+
+1030
+00:44:42,300 --> 00:44:47,220
+tonight's impacts may have some
+
+1031
+00:44:44,579 --> 00:44:49,139
+connection to extraterrestrials what's
+
+1032
+00:44:47,219 --> 00:44:50,699
+your view well<font color="#CCCCCC"> I believe</font><font color="#E5E5E5"> there's plenty</font>
+
+1033
+00:44:49,139 --> 00:44:54,839
+of intelligent life out there in space
+
+1034
+00:44:50,699 --> 00:44:57,509
+<font color="#CCCCCC">actual visitors very</font><font color="#E5E5E5"> unlikely despite</font>
+
+1035
+00:44:54,840 --> 00:45:00,809
+the claims of<font color="#CCCCCC"> the UFO enthusiasts why is</font>
+
+1036
+00:44:57,510 --> 00:45:05,280
+that well we've been<font color="#E5E5E5"> sending out radio</font>
+
+1037
+00:45:00,809 --> 00:45:07,049
+radar signals for 50 years they know
+
+1038
+00:45:05,280 --> 00:45:09,030
+fill a volume of space hundred
+
+1039
+00:45:07,050 --> 00:45:11,340
+light-years across but we haven't had
+
+1040
+00:45:09,030 --> 00:45:12,900
+any reply well UFO advocates<font color="#E5E5E5"> would say</font>
+
+1041
+00:45:11,340 --> 00:45:14,579
+that<font color="#E5E5E5"> you have had replies but that the</font>
+
+1042
+00:45:12,900 --> 00:45:17,010
+government just<font color="#E5E5E5"> isn't telling and</font>
+
+1043
+00:45:14,579 --> 00:45:21,090
+<font color="#E5E5E5">nelson's I'd give any sorcerer gate</font>
+
+1044
+00:45:17,010 --> 00:45:23,940
+about 24 hours<font color="#CCCCCC"> to unravel and apart</font><font color="#E5E5E5"> from</font>
+
+1045
+00:45:21,090 --> 00:45:26,670
+the broadcast transmissions<font color="#E5E5E5"> nASA has</font>
+
+1046
+00:45:23,940 --> 00:45:29,550
+made attempts to send messages to any
+
+1047
+00:45:26,670 --> 00:45:32,730
+possible civilization in space using<font color="#CCCCCC"> the</font>
+
+1048
+00:45:29,550 --> 00:45:34,710
+Voyager space probes I understand you
+
+1049
+00:45:32,730 --> 00:45:39,150
+have a copy thereof the<font color="#CCCCCC"> discs</font><font color="#E5E5E5"> they sent</font>
+
+1050
+00:45:34,710 --> 00:45:42,630
+out on Voyager 2 yes the record like
+
+1051
+00:45:39,150 --> 00:45:44,079
+this<font color="#E5E5E5"> carrying pictures and messages from</font>
+
+1052
+00:45:42,630 --> 00:45:46,209
+the peoples of<font color="#E5E5E5"> Earth</font>
+
+1053
+00:45:44,079 --> 00:45:48,249
+from the United Nations well if they're
+
+1054
+00:45:46,208 --> 00:45:51,548
+out there and we sent them a beacon so
+
+1055
+00:45:48,248 --> 00:45:53,259
+to speak why<font color="#E5E5E5"> wouldn't they answer I'm</font>
+
+1056
+00:45:51,548 --> 00:45:55,538
+afraid<font color="#CCCCCC"> is a function of time and space</font>
+
+1057
+00:45:53,259 --> 00:45:57,548
+the distance<font color="#E5E5E5"> between advanced</font>
+
+1058
+00:45:55,539 --> 00:45:59,769
+civilizations may be thousands of
+
+1059
+00:45:57,548 --> 00:46:02,079
+light-years so even if they were
+
+1060
+00:45:59,768 --> 00:46:04,568
+traveling the speed of light it might
+
+1061
+00:46:02,079 --> 00:46:07,298
+<font color="#CCCCCC">take them several millennia to get here</font>
+
+1062
+00:46:04,568 --> 00:46:09,728
+but just<font color="#E5E5E5"> for</font><font color="#CCCCCC"> the sake of argument say it</font>
+
+1063
+00:46:07,298 --> 00:46:12,130
+was possible all right then the question
+
+1064
+00:46:09,728 --> 00:46:14,588
+<font color="#E5E5E5">is why bother to come here for the earth</font>
+
+1065
+00:46:12,130 --> 00:46:16,989
+<font color="#CCCCCC">to be chosen we must assume ur are the</font>
+
+1066
+00:46:14,588 --> 00:46:19,239
+special not looking at the primitive
+
+1067
+00:46:16,989 --> 00:46:21,699
+state of our civilization I think that's
+
+1068
+00:46:19,239 --> 00:46:25,630
+<font color="#E5E5E5">very conceited so what are you saying</font>
+
+1069
+00:46:21,699 --> 00:46:27,968
+well as a much bigger issue at stake the
+
+1070
+00:46:25,630 --> 00:46:31,209
+need to protect ourselves against rogue
+
+1071
+00:46:27,969 --> 00:46:33,608
+asteroids which are<font color="#E5E5E5"> very real and pose a</font>
+
+1072
+00:46:31,208 --> 00:46:36,518
+much bigger threat to earth thank you
+
+1073
+00:46:33,608 --> 00:46:39,489
+dr. Clark that was scientist and author
+
+1074
+00:46:36,518 --> 00:46:42,098
+arthur c clarke speaking to us from<font color="#CCCCCC"> sri</font>
+
+1075
+00:46:39,489 --> 00:46:43,838
+<font color="#CCCCCC">lanka we go to lurch france where</font>
+
+1076
+00:46:42,099 --> 00:46:45,940
+correspondent Paul Whittaker has an
+
+1077
+00:46:43,838 --> 00:46:48,489
+update on the<font color="#E5E5E5"> condition of jean-paul</font>
+
+1078
+00:46:45,940 --> 00:46:50,588
+June are the<font color="#E5E5E5"> French skier who survived</font>
+
+1079
+00:46:48,489 --> 00:46:52,119
+the second impact i'm here<font color="#E5E5E5"> at julian</font>
+
+1080
+00:46:50,588 --> 00:46:54,099
+airport near lords france where just
+
+1081
+00:46:52,119 --> 00:46:55,630
+moments ago doctors airlifted jean-paul
+
+1082
+00:46:54,099 --> 00:46:58,209
+chenard to the colon bear Burn Center
+
+1083
+00:46:55,630 --> 00:47:00,130
+and nice we spoke to shun arts wife
+
+1084
+00:46:58,208 --> 00:47:05,799
+Sylvie just moments before the departed
+
+1085
+00:47:00,130 --> 00:47:10,539
+what is your husband's condition please
+
+1086
+00:47:05,800 --> 00:47:13,720
+he he was trying<font color="#CCCCCC"> to tell</font><font color="#E5E5E5"> me</font><font color="#CCCCCC"> I don't</font><font color="#E5E5E5"> know</font>
+
+1087
+00:47:10,539 --> 00:47:17,590
+maybe<font color="#CCCCCC"> are</font><font color="#E5E5E5"> you survived I just don't know</font>
+
+1088
+00:47:13,719 --> 00:47:21,519
+<font color="#CCCCCC">that jump on it strong and you will</font><font color="#E5E5E5"> not</font>
+
+1089
+00:47:17,590 --> 00:47:23,320
+give up<font color="#E5E5E5"> if you double money in the</font>
+
+1090
+00:47:21,519 --> 00:47:25,000
+meantime<font color="#CCCCCC"> Air France</font><font color="#E5E5E5"> has suspended all</font>
+
+1091
+00:47:23,320 --> 00:47:27,070
+flights in and out of Rome where these
+
+1092
+00:47:25,000 --> 00:47:28,989
+bizarre radio signals threatened to
+
+1093
+00:47:27,070 --> 00:47:32,470
+paralyze one of Europe's busiest
+
+1094
+00:47:28,989 --> 00:47:34,750
+airports this is Paul Whittaker evening
+
+1095
+00:47:32,469 --> 00:47:37,719
+world news Julian airport near<font color="#E5E5E5"> Lords</font>
+
+1096
+00:47:34,750 --> 00:47:40,269
+France<font color="#CCCCCC"> Wyoming police have widened the</font>
+
+1097
+00:47:37,719 --> 00:47:43,179
+area of evacuation to some 200 miles
+
+1098
+00:47:40,269 --> 00:47:45,730
+around impact site alpha we're about<font color="#CCCCCC"> to</font>
+
+1099
+00:47:43,179 --> 00:47:49,119
+<font color="#CCCCCC">go live to correspondent Robert</font><font color="#E5E5E5"> Moreno</font>
+
+1100
+00:47:45,730 --> 00:47:51,250
+near no I'm sorry we're<font color="#CCCCCC"> not going there</font>
+
+1101
+00:47:49,119 --> 00:47:53,199
+were not we just received word of an
+
+1102
+00:47:51,250 --> 00:47:55,690
+unscheduled briefing at the White House
+
+1103
+00:47:53,199 --> 00:47:59,319
+correspondent Mike Curtis is standing by
+
+1104
+00:47:55,690 --> 00:48:01,150
+Mike<font color="#CCCCCC"> sandhya formal briefing had been</font>
+
+1105
+00:47:59,320 --> 00:48:03,760
+scheduled<font color="#E5E5E5"> for eleven pm tonight to</font>
+
+1106
+00:48:01,150 --> 00:48:05,230
+coincide with local news broadcast but
+
+1107
+00:48:03,760 --> 00:48:06,730
+moments ago the White House press<font color="#E5E5E5"> corps</font>
+
+1108
+00:48:05,230 --> 00:48:09,070
+was summoned here for what's being
+
+1109
+00:48:06,730 --> 00:48:12,309
+described as a high<font color="#CCCCCC"> priority briefing</font>
+
+1110
+00:48:09,070 --> 00:48:14,910
+thrust secretary Barbara Schiller that
+
+1111
+00:48:12,309 --> 00:48:14,909
+must<font color="#E5E5E5"> be her now</font>
+
+1112
+00:48:16,559 --> 00:48:25,469
+<font color="#E5E5E5">yeah earlier tonight following the</font>
+
+1113
+00:48:23,699 --> 00:48:27,869
+impact of three meteor fragments
+
+1114
+00:48:25,469 --> 00:48:29,609
+<font color="#E5E5E5">President Clinton directed NASA to begin</font>
+
+1115
+00:48:27,869 --> 00:48:31,829
+around-the-clock monitoring of all
+
+1116
+00:48:29,610 --> 00:48:33,870
+near-earth asteroids with a potential<font color="#E5E5E5"> of</font>
+
+1117
+00:48:31,829 --> 00:48:37,679
+penetrating the atmosphere at
+
+1118
+00:48:33,869 --> 00:48:39,869
+approximately 9 17 p.m. the<font color="#E5E5E5"> Air Force's</font>
+
+1119
+00:48:37,679 --> 00:48:42,359
+geodes tracking stations at<font color="#CCCCCC"> Skaro New</font>
+
+1120
+00:48:39,869 --> 00:48:45,089
+Mexico Maui Hawaii and Diego Garcia<font color="#E5E5E5"> and</font>
+
+1121
+00:48:42,360 --> 00:48:47,849
+<font color="#E5E5E5">the Indian Ocean detected the presence</font>
+
+1122
+00:48:45,090 --> 00:48:51,750
+of what appears to be a second asteroid
+
+1123
+00:48:47,849 --> 00:48:54,299
+at 65 meters or 200 feet in length it is
+
+1124
+00:48:51,750 --> 00:48:58,139
+<font color="#E5E5E5">on a trajectory almost identical</font><font color="#CCCCCC"> to the</font>
+
+1125
+00:48:54,300 --> 00:49:00,269
+path of 6<font color="#E5E5E5"> 645 interi the radio telescope</font>
+
+1126
+00:48:58,139 --> 00:49:04,170
+at Arecibo Puerto Rico locked on<font color="#CCCCCC"> and</font>
+
+1127
+00:49:00,269 --> 00:49:05,670
+they confirm that the object is heading
+
+1128
+00:49:04,170 --> 00:49:09,000
+toward the<font color="#CCCCCC"> earth at an airspeed of</font>
+
+1129
+00:49:05,670 --> 00:49:11,340
+32,000 miles per hour<font color="#E5E5E5"> the expected</font>
+
+1130
+00:49:09,000 --> 00:49:16,590
+impact in the area of the polar ice<font color="#E5E5E5"> cap</font>
+
+1131
+00:49:11,340 --> 00:49:19,110
+is some five minutes from now at 952
+
+1132
+00:49:16,590 --> 00:49:21,720
+p.m. eastern time<font color="#E5E5E5"> the President and</font>
+
+1133
+00:49:19,110 --> 00:49:26,640
+Joint Chiefs of Staff ordered units of
+
+1134
+00:49:21,719 --> 00:49:29,219
+the 388<font color="#E5E5E5"> Fighter Wing from Hill Air Force</font>
+
+1135
+00:49:26,639 --> 00:49:32,009
+Base<font color="#E5E5E5"> to you in Utah to a full alert a</font>
+
+1136
+00:49:29,219 --> 00:49:33,809
+pair<font color="#E5E5E5"> of f-16 fighters from the 18th</font>
+
+1137
+00:49:32,010 --> 00:49:36,030
+<font color="#E5E5E5">Space Surveillance squadron were ordered</font>
+
+1138
+00:49:33,809 --> 00:49:38,519
+into the air on a defense condition to
+
+1139
+00:49:36,030 --> 00:49:40,890
+status the planes are armed<font color="#CCCCCC"> with hawk</font>
+
+1140
+00:49:38,519 --> 00:49:42,599
+optically guided missiles capable of
+
+1141
+00:49:40,889 --> 00:49:46,199
+destroying the asteroid before impact
+
+1142
+00:49:42,599 --> 00:49:49,650
+these missiles are tipped with two
+
+1143
+00:49:46,199 --> 00:49:53,250
+kiloton low-yield nuclear warheads the
+
+1144
+00:49:49,650 --> 00:49:55,889
+the f-16s are expected to be in target
+
+1145
+00:49:53,250 --> 00:49:58,670
+range at approximately ten sixteen is
+
+1146
+00:49:55,889 --> 00:49:58,670
+four minutes from now
+
+1147
+00:49:59,739 --> 00:50:05,229
+<font color="#E5E5E5">Mario yes Barbara how can the president</font>
+
+1148
+00:50:02,980 --> 00:50:07,869
+possibly justify the use of nuclear
+
+1149
+00:50:05,230 --> 00:50:09,880
+weapons<font color="#E5E5E5"> uh well a panel from the</font>
+
+1150
+00:50:07,869 --> 00:50:12,670
+National Academy<font color="#CCCCCC"> of Sciences met tonight</font>
+
+1151
+00:50:09,880 --> 00:50:15,039
+and their<font color="#CCCCCC"> conclusion was that if the</font>
+
+1152
+00:50:12,670 --> 00:50:16,900
+asteroid penetrated the ice cap then the
+
+1153
+00:50:15,039 --> 00:50:19,210
+consequences to the Earth's ecological
+
+1154
+00:50:16,900 --> 00:50:24,430
+balance could be absolutely catastrophic
+
+1155
+00:50:19,210 --> 00:50:26,530
+what about<font color="#E5E5E5"> the radio signals jamming air</font>
+
+1156
+00:50:24,429 --> 00:50:29,199
+traffic how will that affect the f-16s
+
+1157
+00:50:26,530 --> 00:50:31,150
+<font color="#CCCCCC">launch uh it is our understanding that</font>
+
+1158
+00:50:29,199 --> 00:50:36,730
+the traffic is affected only long the
+
+1159
+00:50:31,150 --> 00:50:39,430
+45th parallel yes yes Michelle did the
+
+1160
+00:50:36,730 --> 00:50:41,289
+president consult Congress the President
+
+1161
+00:50:39,429 --> 00:50:43,690
+did speak with leaders<font color="#CCCCCC"> of both houses</font>
+
+1162
+00:50:41,289 --> 00:50:46,090
+organ<font color="#E5E5E5"> see and what about other world</font>
+
+1163
+00:50:43,690 --> 00:50:49,059
+leaders<font color="#CCCCCC"> Russian president Boris Yeltsin</font>
+
+1164
+00:50:46,090 --> 00:50:51,100
+<font color="#E5E5E5">and chinese premier</font><font color="#CCCCCC"> deng xiaoping have</font>
+
+1165
+00:50:49,059 --> 00:50:53,139
+been informed<font color="#E5E5E5"> both leaders have</font>
+
+1166
+00:50:51,099 --> 00:50:54,699
+expressed their consent as has the
+
+1167
+00:50:53,139 --> 00:50:55,900
+chairman of the UN<font color="#CCCCCC"> Security Council let</font>
+
+1168
+00:50:54,699 --> 00:50:57,460
+me just wait let me just tell you one
+
+1169
+00:50:55,900 --> 00:51:00,820
+other thing and that is that the missile
+
+1170
+00:50:57,460 --> 00:51:02,199
+hardware that<font color="#CCCCCC"> is to be</font><font color="#E5E5E5"> used is identical</font>
+
+1171
+00:51:00,820 --> 00:51:05,940
+to that which was deployed so
+
+1172
+00:51:02,199 --> 00:51:05,939
+successfully in the Gulf War that's all
+
+1173
+00:51:07,530 --> 00:51:11,730
+there's word just in that the event will
+
+1174
+00:51:09,900 --> 00:51:13,920
+be monitored live at the Johnson Space
+
+1175
+00:51:11,730 --> 00:51:16,260
+Center they're deciding whether or not
+
+1176
+00:51:13,920 --> 00:51:18,030
+to give the media access<font color="#E5E5E5"> to the feed but</font>
+
+1177
+00:51:16,260 --> 00:51:20,280
+NASA which has been quite quiet
+
+1178
+00:51:18,030 --> 00:51:22,950
+throughout much of this crisis now seems
+
+1179
+00:51:20,280 --> 00:51:27,060
+to be opening up Matt Jensen's live in
+
+1180
+00:51:22,949 --> 00:51:29,129
+Houston why the sudden<font color="#E5E5E5"> turn around sandy</font>
+
+1181
+00:51:27,059 --> 00:51:31,139
+no one here wants to openly break ranks
+
+1182
+00:51:29,130 --> 00:51:32,369
+with the White House or the Pentagon but
+
+1183
+00:51:31,139 --> 00:51:34,049
+there<font color="#E5E5E5"> are a number of scientists who are</font>
+
+1184
+00:51:32,369 --> 00:51:36,839
+unsure<font color="#CCCCCC"> about the use of nuclear weapons</font>
+
+1185
+00:51:34,050 --> 00:51:39,060
+among them dr.<font color="#CCCCCC"> Kurt loudon who we spoke</font>
+
+1186
+00:51:36,840 --> 00:51:42,269
+with<font color="#E5E5E5"> earlier</font><font color="#CCCCCC"> dr. what</font><font color="#E5E5E5"> is your concern</font>
+
+1187
+00:51:39,059 --> 00:51:45,090
+simply this with an incoming projectile
+
+1188
+00:51:42,269 --> 00:51:46,530
+moving at 50 times the speed of sound at
+
+1189
+00:51:45,090 --> 00:51:49,680
+close quarters air engagement may be
+
+1190
+00:51:46,530 --> 00:51:51,900
+quite ineffective also the prospect of a
+
+1191
+00:51:49,679 --> 00:51:54,059
+nuclear burst over the ice cap may
+
+1192
+00:51:51,900 --> 00:51:55,680
+produce consequences even more dire for
+
+1193
+00:51:54,059 --> 00:51:57,630
+the Earth's for the Earth's ecology
+
+1194
+00:51:55,679 --> 00:52:00,569
+ladies and gentlemen the point being
+
+1195
+00:51:57,630 --> 00:52:02,400
+dead deal will be monitoring US
+
+1196
+00:52:00,570 --> 00:52:05,340
+Strategic Command off at Air Force Base
+
+1197
+00:52:02,400 --> 00:52:06,840
+Omaha Nebraska we will be listening to
+
+1198
+00:52:05,340 --> 00:52:09,180
+the voice of<font color="#E5E5E5"> Air</font><font color="#CCCCCC"> Force launch control</font>
+
+1199
+00:52:06,840 --> 00:52:14,130
+officer major Scotty powers you will be
+
+1200
+00:52:09,179 --> 00:52:16,259
+allowed to stay that was Dale Powell the
+
+1201
+00:52:14,130 --> 00:52:18,599
+director<font color="#CCCCCC"> of community relations here for</font>
+
+1202
+00:52:16,260 --> 00:52:19,860
+NASA he has<font color="#CCCCCC"> just told the press that we</font>
+
+1203
+00:52:18,599 --> 00:52:21,869
+will be allowed<font color="#E5E5E5"> to stay here in the</font>
+
+1204
+00:52:19,860 --> 00:52:24,329
+Operations Center where they will<font color="#CCCCCC"> be</font>
+
+1205
+00:52:21,869 --> 00:52:25,710
+monitoring the f-16s so we'll be back
+
+1206
+00:52:24,329 --> 00:52:28,860
+when the missiles are ready to be
+
+1207
+00:52:25,710 --> 00:52:30,389
+launched doctor there's late word from
+
+1208
+00:52:28,860 --> 00:52:32,610
+New York where<font color="#CCCCCC"> the</font><font color="#E5E5E5"> United Nations</font>
+
+1209
+00:52:30,389 --> 00:52:34,739
+<font color="#CCCCCC">Security Council has gone into special</font>
+
+1210
+00:52:32,610 --> 00:52:38,099
+session correspondent Ernie Anastos is
+
+1211
+00:52:34,739 --> 00:52:40,799
+outside UN headquarters excuse me could
+
+1212
+00:52:38,099 --> 00:52:41,650
+you tell<font color="#CCCCCC"> me</font><font color="#E5E5E5"> why you're here tonight to</font>
+
+1213
+00:52:40,800 --> 00:52:43,839
+<font color="#E5E5E5">let the world</font>
+
+1214
+00:52:41,650 --> 00:52:45,789
+snow that if we are<font color="#E5E5E5"> being visited the</font>
+
+1215
+00:52:43,838 --> 00:52:47,440
+asteroids represent some kind of contact
+
+1216
+00:52:45,789 --> 00:52:50,170
+in the world should respond in peace
+
+1217
+00:52:47,440 --> 00:52:52,150
+ambassador what action will the council
+
+1218
+00:52:50,170 --> 00:52:54,730
+take in the event of the<font color="#E5E5E5"> unthinkable</font><font color="#CCCCCC"> and</font>
+
+1219
+00:52:52,150 --> 00:52:56,470
+these are indeed extraterrestrials<font color="#E5E5E5"> we'll</font>
+
+1220
+00:52:54,730 --> 00:52:59,289
+try and formulate an agenda for
+
+1221
+00:52:56,469 --> 00:53:02,019
+receiving them personally I don't<font color="#CCCCCC"> care</font>
+
+1222
+00:52:59,289 --> 00:53:03,940
+<font color="#E5E5E5">if it's asteroids or aliens the most</font>
+
+1223
+00:53:02,019 --> 00:53:06,338
+important thing<font color="#E5E5E5"> is to keep our families</font>
+
+1224
+00:53:03,940 --> 00:53:08,409
+safe keep our home safe they come to
+
+1225
+00:53:06,338 --> 00:53:10,239
+<font color="#E5E5E5">Brooklyn will know what to do and I come</font>
+
+1226
+00:53:08,409 --> 00:53:12,519
+down here<font color="#CCCCCC"> with my boys from sweet</font>
+
+1227
+00:53:10,239 --> 00:53:16,239
+<font color="#E5E5E5">college vicar maybe we could find us</font>
+
+1228
+00:53:12,519 --> 00:53:18,489
+some slack some heads why so hostile you
+
+1229
+00:53:16,239 --> 00:53:20,229
+kidding me<font color="#E5E5E5"> I got a brother flies for the</font>
+
+1230
+00:53:18,489 --> 00:53:23,979
+elephants now these things<font color="#E5E5E5"> are messing</font>
+
+1231
+00:53:20,230 --> 00:53:25,449
+with<font color="#E5E5E5"> a track we got to stop the two</font>
+
+1232
+00:53:23,980 --> 00:53:27,699
+fighters<font color="#E5E5E5"> that took off from Hill Air</font>
+
+1233
+00:53:25,449 --> 00:53:31,269
+Force Base<font color="#CCCCCC"> in Utah will be designated</font>
+
+1234
+00:53:27,699 --> 00:53:33,009
+interceptor<font color="#E5E5E5"> one and interceptor</font><font color="#CCCCCC"> too we</font>
+
+1235
+00:53:31,269 --> 00:53:36,489
+go back now<font color="#CCCCCC"> to Mission Control at the</font>
+
+1236
+00:53:33,010 --> 00:53:38,859
+Johnson Space Center sandy we're at
+
+1237
+00:53:36,489 --> 00:53:40,750
+t-minus 52 seconds and counting gear
+
+1238
+00:53:38,858 --> 00:53:42,759
+you'll be seeing three pictures up on
+
+1239
+00:53:40,750 --> 00:53:44,559
+that active matrix display on the
+
+1240
+00:53:42,760 --> 00:53:46,150
+furthest screen is a feed from the
+
+1241
+00:53:44,559 --> 00:53:49,480
+tracking<font color="#E5E5E5"> station at Socorro New Mexico</font>
+
+1242
+00:53:46,150 --> 00:53:51,190
+showing the incoming asteroid the middle
+
+1243
+00:53:49,480 --> 00:53:53,469
+screen will<font color="#CCCCCC"> be a graphic</font><font color="#E5E5E5"> showing the two</font>
+
+1244
+00:53:51,190 --> 00:53:55,510
+f-16s and the asteroid in relation to
+
+1245
+00:53:53,469 --> 00:53:57,489
+the North Pole and the<font color="#CCCCCC"> image</font><font color="#E5E5E5"> on</font><font color="#CCCCCC"> the far</font>
+
+1246
+00:53:55,510 --> 00:54:01,720
+left is<font color="#E5E5E5"> from a camera mounted in the</font>
+
+1247
+00:53:57,489 --> 00:54:04,118
+<font color="#E5E5E5">cockpit of interceptor one thi minus</font>
+
+1248
+00:54:01,719 --> 00:54:05,739
+<font color="#CCCCCC">thirty second that's major Scotty powers</font>
+
+1249
+00:54:04,119 --> 00:54:08,920
+<font color="#CCCCCC">we're fourth launch control office able</font>
+
+1250
+00:54:05,739 --> 00:54:11,439
+warheads<font color="#E5E5E5"> manatee confirm lock-on</font>
+
+1251
+00:54:08,920 --> 00:54:14,079
+guidance Roger radar like to clock
+
+1252
+00:54:11,440 --> 00:54:18,690
+prepare to fire then egress lift cleared
+
+1253
+00:54:14,079 --> 00:54:22,170
+<font color="#CCCCCC">to fire in three two one and gate</font>
+
+1254
+00:54:18,690 --> 00:54:26,068
+come on home boys ten seconds to calm
+
+1255
+00:54:22,170 --> 00:54:28,349
+down hey said because I sit I to judge
+
+1256
+00:54:26,068 --> 00:54:31,889
+by you're losing video on India wanna
+
+1257
+00:54:28,349 --> 00:54:33,480
+come to you guys we have<font color="#CCCCCC"> a</font><font color="#E5E5E5"> nice it seems</font>
+
+1258
+00:54:31,889 --> 00:54:34,949
+<font color="#E5E5E5">like a water direct hit on the asteroid</font>
+
+1259
+00:54:33,480 --> 00:54:36,990
+that there's to do you<font color="#CCCCCC"> cause some</font>
+
+1260
+00:54:34,949 --> 00:54:39,239
+concern here that we've lost my image of
+
+1261
+00:54:36,989 --> 00:54:41,519
+the cockpit you got me say again<font color="#CCCCCC"> okay</font>
+
+1262
+00:54:39,239 --> 00:54:43,259
+now Joe do you<font color="#E5E5E5"> want in the detail in via</font>
+
+1263
+00:54:41,519 --> 00:54:51,599
+ones in detail what happened to the
+
+1264
+00:54:43,260 --> 00:54:53,160
+image your<font color="#CCCCCC"> own no</font><font color="#E5E5E5"> comment today we have</font>
+
+1265
+00:54:51,599 --> 00:54:55,318
+with you the pilot people are watching
+
+1266
+00:54:53,159 --> 00:54:58,469
+<font color="#CCCCCC">here John now</font><font color="#E5E5E5"> we come in hey Louie one</font>
+
+1267
+00:54:55,318 --> 00:55:00,029
+<font color="#E5E5E5">India to do you have to let us</font><font color="#CCCCCC"> know did</font>
+
+1268
+00:54:58,469 --> 00:55:15,118
+we<font color="#E5E5E5"> lose pilots on this or not with a</font>
+
+1269
+00:55:00,030 --> 00:55:16,859
+pilot shot down at 10 16 p.m. some four
+
+1270
+00:55:15,119 --> 00:55:18,930
+seconds before the asteroid was
+
+1271
+00:55:16,858 --> 00:55:21,989
+destroyed the transponder signals from
+
+1272
+00:55:18,929 --> 00:55:24,088
+the two f-16s cut off the radar<font color="#CCCCCC"> screens</font>
+
+1273
+00:55:21,989 --> 00:55:25,739
+at<font color="#E5E5E5"> the same time the sounds we've been</font>
+
+1274
+00:55:24,088 --> 00:55:29,789
+hearing from<font color="#E5E5E5"> the craters were heard I</font>
+
+1275
+00:55:25,739 --> 00:55:33,029
+f-16 the to pirates Air Force Captain
+
+1276
+00:55:29,789 --> 00:55:36,449
+Charles Wright Kaiser 32 and Major John
+
+1277
+00:55:33,030 --> 00:55:39,599
+pastor<font color="#CCCCCC"> alley 36 both of Hill Air Force</font>
+
+1278
+00:55:36,449 --> 00:55:42,118
+Base are missing and presumed dead the
+
+1279
+00:55:39,599 --> 00:55:43,859
+nuclear submarine USS Houston which
+
+1280
+00:55:42,119 --> 00:55:46,858
+surfaced at the polar ice cap<font color="#E5E5E5"> has</font>
+
+1281
+00:55:43,858 --> 00:55:49,920
+reported seeing debris consistent with
+
+1282
+00:55:46,858 --> 00:55:52,199
+the afterburner of an f-16 search teams
+
+1283
+00:55:49,920 --> 00:55:54,690
+are racing to the scene from gander
+
+1284
+00:55:52,199 --> 00:55:56,519
+Newfoundland now to the Pentagon<font color="#E5E5E5"> where</font>
+
+1285
+00:55:54,690 --> 00:55:57,990
+the<font color="#CCCCCC"> Air Force is about to conduct a</font>
+
+1286
+00:55:56,519 --> 00:56:02,309
+briefing on what they're calling
+
+1287
+00:55:57,989 --> 00:56:04,169
+defensive engagement with the meteor the
+
+1288
+00:56:02,309 --> 00:56:06,920
+<font color="#E5E5E5">post-mortem will be having by deputy</font>
+
+1289
+00:56:04,170 --> 00:56:09,650
+under secretary defence<font color="#CCCCCC"> Norbert Hazleton</font>
+
+1290
+00:56:06,920 --> 00:56:13,548
+<font color="#E5E5E5">Lucien Alexander US Air Force chief of</font>
+
+1291
+00:56:09,650 --> 00:56:16,608
+staff let me say at the outset that we
+
+1292
+00:56:13,548 --> 00:56:19,759
+are deeply grieved over the loss of two
+
+1293
+00:56:16,608 --> 00:56:21,739
+outstanding Air Force pilots but they
+
+1294
+00:56:19,760 --> 00:56:23,960
+gave their lives so that<font color="#E5E5E5"> we can stand</font>
+
+1295
+00:56:21,739 --> 00:56:28,098
+here<font color="#E5E5E5"> tonight and report a near-perfect</font>
+
+1296
+00:56:23,960 --> 00:56:30,949
+mission profile I want to<font color="#E5E5E5"> stress that</font>
+
+1297
+00:56:28,099 --> 00:56:34,068
+the warhead loads were extremely low
+
+1298
+00:56:30,949 --> 00:56:35,539
+yield any trace radiation should
+
+1299
+00:56:34,068 --> 00:56:38,779
+dissipate in the atmosphere within a
+
+1300
+00:56:35,539 --> 00:56:41,000
+matter of<font color="#CCCCCC"> day radio signals from</font><font color="#E5E5E5"> Wyoming</font>
+
+1301
+00:56:38,780 --> 00:56:43,069
+France and Mongolia have ceased once
+
+1302
+00:56:41,000 --> 00:56:44,239
+<font color="#E5E5E5">again there is every reason to believe</font>
+
+1303
+00:56:43,068 --> 00:56:46,608
+that what the people of<font color="#E5E5E5"> the earth</font>
+
+1304
+00:56:44,239 --> 00:56:49,489
+experienced was a natural phenomenon
+
+1305
+00:56:46,608 --> 00:56:51,980
+general Alexander get up general
+
+1306
+00:56:49,489 --> 00:56:54,019
+Alexander how can you attribute this to
+
+1307
+00:56:51,980 --> 00:56:57,380
+natural phenomenon<font color="#E5E5E5"> but we all saw the</font>
+
+1308
+00:56:54,019 --> 00:57:00,048
+glow inside the cockpit just a lens
+
+1309
+00:56:57,380 --> 00:57:01,369
+<font color="#CCCCCC">flare at air speeds like that with the</font>
+
+1310
+00:57:00,048 --> 00:57:03,650
+light conditions over the pole the
+
+1311
+00:57:01,369 --> 00:57:06,170
+cockpit array throws off a number of
+
+1312
+00:57:03,650 --> 00:57:08,510
+video spikes okay<font color="#E5E5E5"> but wait what are what</font>
+
+1313
+00:57:06,170 --> 00:57:12,380
+<font color="#E5E5E5">about the trajectory all right come on</font>
+
+1314
+00:57:08,510 --> 00:57:14,180
+6645 venturi and the same asteroid the
+
+1315
+00:57:12,380 --> 00:57:16,880
+latest one they were<font color="#E5E5E5"> on the identical</font>
+
+1316
+00:57:14,179 --> 00:57:19,338
+path not surprising it's not surprising
+
+1317
+00:57:16,880 --> 00:57:24,470
+it's<font color="#E5E5E5"> quite possible they were both part</font>
+
+1318
+00:57:19,338 --> 00:57:27,108
+of the same source asteroid the pieces
+
+1319
+00:57:24,469 --> 00:57:29,358
+simply split in deep space and came in
+
+1320
+00:57:27,108 --> 00:57:31,098
+online only one thing ladies and
+
+1321
+00:57:29,358 --> 00:57:32,389
+gentlemen if there was<font color="#CCCCCC"> ever an argument</font>
+
+1322
+00:57:31,099 --> 00:57:34,880
+for jump-starting the anti-missile
+
+1323
+00:57:32,389 --> 00:57:38,389
+defense shield this<font color="#E5E5E5"> is it we were lucky</font>
+
+1324
+00:57:34,880 --> 00:57:40,400
+tonight good shooting great hardware the
+
+1325
+00:57:38,389 --> 00:57:43,029
+next time it might be a different<font color="#CCCCCC"> story</font>
+
+1326
+00:57:40,400 --> 00:57:43,030
+next
+
+1327
+00:57:43,300 --> 00:57:48,640
+<font color="#E5E5E5">that anti-missile shield the general was</font>
+
+1328
+00:57:46,719 --> 00:57:50,919
+talking about of course<font color="#E5E5E5"> is the Star Wars</font>
+
+1329
+00:57:48,639 --> 00:57:52,779
+system a favorite of President Reagan's
+
+1330
+00:57:50,920 --> 00:57:55,480
+put on the<font color="#CCCCCC"> Shelf when President Clinton</font>
+
+1331
+00:57:52,780 --> 00:57:57,460
+came into power sandy the air force f-16
+
+1332
+00:57:55,480 --> 00:57:59,559
+jet carrying dr. Avram Mandel has
+
+1333
+00:57:57,460 --> 00:58:01,059
+touched down in Houston he's<font color="#E5E5E5"> about to</font>
+
+1334
+00:57:59,559 --> 00:58:03,190
+arrive at the Johnson Space Center in
+
+1335
+00:58:01,059 --> 00:58:05,829
+Houston and Matt Jensen is<font color="#E5E5E5"> there life</font>
+
+1336
+00:58:03,190 --> 00:58:07,599
+<font color="#E5E5E5">Matthew yeah Carolyn any minute</font><font color="#CCCCCC"> now that</font>
+
+1337
+00:58:05,829 --> 00:58:09,159
+door behind me will open in a man who
+
+1338
+00:58:07,599 --> 00:58:20,170
+has<font color="#CCCCCC"> been</font><font color="#E5E5E5"> something of an enigma and all</font>
+
+1339
+00:58:09,159 --> 00:58:23,170
+this will arrive and speak<font color="#E5E5E5"> with her any</font>
+
+1340
+00:58:20,170 --> 00:58:26,050
+comment imagine over there do you<font color="#CCCCCC"> have a</font>
+
+1341
+00:58:23,170 --> 00:58:28,240
+comment the action of<font color="#CCCCCC"> the Pentagon is</font>
+
+1342
+00:58:26,050 --> 00:58:29,920
+frankly unforgivable there is a force
+
+1343
+00:58:28,239 --> 00:58:32,109
+behind these asteroids that is clearly
+
+1344
+00:58:29,920 --> 00:58:33,940
+intelligent the fact that they chose to
+
+1345
+00:58:32,110 --> 00:58:35,470
+land first in unpopulated areas
+
+1346
+00:58:33,940 --> 00:58:38,289
+demonstrates clearly that they meant us
+
+1347
+00:58:35,469 --> 00:58:40,000
+no harm the radio signal<font color="#E5E5E5"> was acting</font>
+
+1348
+00:58:38,289 --> 00:58:42,159
+nearly as a sort of transponder to help
+
+1349
+00:58:40,000 --> 00:58:45,460
+steer the second vehicle in a second
+
+1350
+00:58:42,159 --> 00:58:47,859
+<font color="#E5E5E5">vehicle this is very people the entire</font>
+
+1351
+00:58:45,460 --> 00:58:50,260
+notion of a flying saucer is a fiction
+
+1352
+00:58:47,860 --> 00:58:52,690
+it's<font color="#E5E5E5"> a fiction they took the form that</font>
+
+1353
+00:58:50,260 --> 00:58:55,090
+<font color="#CCCCCC">they wanted</font><font color="#E5E5E5"> to take they came in the way</font>
+
+1354
+00:58:52,690 --> 00:58:57,610
+that they chose<font color="#E5E5E5"> to come in peace at</font>
+
+1355
+00:58:55,090 --> 00:58:59,079
+first what are you saying doctor but I'm
+
+1356
+00:58:57,610 --> 00:59:01,300
+<font color="#E5E5E5">saying is</font><font color="#CCCCCC"> that we have made a</font>
+
+1357
+00:58:59,079 --> 00:59:03,809
+pre-emptive strike<font color="#E5E5E5"> people we have just</font>
+
+1358
+00:59:01,300 --> 00:59:03,810
+declared war
+
+1359
+00:59:07,599 --> 00:59:13,088
+it's clear that dr. Mendel is quite
+
+1360
+00:59:10,179 --> 00:59:15,879
+emotional and as soon as we have details
+
+1361
+00:59:13,088 --> 00:59:18,518
+of his meeting here<font color="#E5E5E5"> we'll be back this</font>
+
+1362
+00:59:15,880 --> 00:59:20,950
+is Matt Jensen evening world news at the
+
+1363
+00:59:18,518 --> 00:59:23,078
+Johnson Space Center an evening<font color="#CCCCCC"> world</font>
+
+1364
+00:59:20,949 --> 00:59:24,879
+<font color="#E5E5E5">news telephone pole suggested more than</font>
+
+1365
+00:59:23,079 --> 00:59:27,130
+two-thirds of the public now believes
+
+1366
+00:59:24,880 --> 00:59:29,950
+that the asteroids are connected to
+
+1367
+00:59:27,130 --> 00:59:31,298
+alien life-forms it has been a night
+
+1368
+00:59:29,949 --> 00:59:33,818
+filled with charges and counter-charges
+
+1369
+00:59:31,298 --> 00:59:35,889
+but we would be remiss as journalists if
+
+1370
+00:59:33,818 --> 00:59:38,259
+we didn't separate fact from allegation
+
+1371
+00:59:35,889 --> 00:59:40,960
+to the best<font color="#E5E5E5"> of anyone's knowledge at</font>
+
+1372
+00:59:38,259 --> 00:59:42,880
+this point the giant meteors that came
+
+1373
+00:59:40,960 --> 00:59:49,119
+to earth<font color="#E5E5E5"> tonight were of natural origin</font>
+
+1374
+00:59:42,880 --> 00:59:51,400
+all right<font color="#E5E5E5"> um with</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> radio signals now</font>
+
+1375
+00:59:49,119 --> 00:59:54,190
+silent Robert<font color="#CCCCCC"> Moreno is live from faith</font>
+
+1376
+00:59:51,400 --> 00:59:57,729
+Wyoming town less than 50 miles from<font color="#E5E5E5"> the</font>
+
+1377
+00:59:54,190 --> 00:59:59,769
+<font color="#E5E5E5">impact site alpha Robert I'm here in</font>
+
+1378
+00:59:57,728 --> 01:00:02,048
+faith an old religious community dating
+
+1379
+00:59:59,768 --> 01:00:03,998
+back to<font color="#CCCCCC"> the mid 19th century the town is</font>
+
+1380
+01:00:02,048 --> 01:00:05,889
+well outside the evacuation zone there
+
+1381
+01:00:03,998 --> 01:00:08,528
+were no reported casualties or incidents
+
+1382
+01:00:05,889 --> 01:00:09,940
+after the nearby impact then after the
+
+1383
+01:00:08,528 --> 01:00:12,909
+meteor explosion at the<font color="#E5E5E5"> North Pole</font>
+
+1384
+01:00:09,940 --> 01:00:14,979
+Wyoming Edison detected an unusual power
+
+1385
+01:00:12,909 --> 01:00:17,228
+surge here they<font color="#E5E5E5"> sent a repair crew out</font>
+
+1386
+01:00:14,978 --> 01:00:20,409
+<font color="#CCCCCC">to inspect and when they got here this</font>
+
+1387
+01:00:17,228 --> 01:00:22,929
+is what they found sandy the streets are
+
+1388
+01:00:20,409 --> 01:00:25,929
+deserted everybody has vanished men
+
+1389
+01:00:22,929 --> 01:00:27,308
+women children cats and dogs<font color="#CCCCCC"> and cars</font>
+
+1390
+01:00:25,929 --> 01:00:29,318
+are<font color="#E5E5E5"> left in</font><font color="#CCCCCC"> the middle</font><font color="#E5E5E5"> of the streets</font>
+
+1391
+01:00:27,309 --> 01:00:31,778
+and except for the National Guardsmen
+
+1392
+01:00:29,318 --> 01:00:35,170
+there isn't a soul here the town is
+
+1393
+01:00:31,778 --> 01:00:36,969
+completely empty frozen in time the
+
+1394
+01:00:35,170 --> 01:00:38,650
+sidewalks are strewn with trick-or-treat
+
+1395
+01:00:36,969 --> 01:00:40,039
+bags as if the children<font color="#E5E5E5"> had simply drop</font>
+
+1396
+01:00:38,650 --> 01:00:42,740
+them as they left
+
+1397
+01:00:40,039 --> 01:00:45,529
+I don't know what else<font color="#CCCCCC"> to</font><font color="#E5E5E5"> say it's eerie</font>
+
+1398
+01:00:42,739 --> 01:00:47,389
+air national guard sergeant<font color="#E5E5E5"> Leroy digs</font>
+
+1399
+01:00:45,530 --> 01:00:49,250
+told us he was a forward recon<font color="#E5E5E5"> in Desert</font>
+
+1400
+01:00:47,389 --> 01:00:51,440
+Storm<font color="#E5E5E5"> but that he never saw anything</font>
+
+1401
+01:00:49,250 --> 01:00:53,900
+like<font color="#E5E5E5"> this it's like they got swallowed</font>
+
+1402
+01:00:51,440 --> 01:00:56,570
+up we did a full house to house check
+
+1403
+01:00:53,900 --> 01:00:59,059
+for radiation toxic emissions we got
+
+1404
+01:00:56,570 --> 01:01:02,090
+<font color="#E5E5E5">nothing I'm telling</font><font color="#CCCCCC"> you there's no way</font>
+
+1405
+01:00:59,059 --> 01:01:04,699
+to explain<font color="#E5E5E5"> this the rescue workers are</font>
+
+1406
+01:01:02,090 --> 01:01:07,039
+even using motion detectors set to<font color="#E5E5E5"> pick</font>
+
+1407
+01:01:04,699 --> 01:01:10,219
+up the smallest movement but<font color="#E5E5E5"> there's</font>
+
+1408
+01:01:07,039 --> 01:01:13,820
+nothing in a town where 3,000 people
+
+1409
+01:01:10,219 --> 01:01:16,009
+live work and go to school everyone is
+
+1410
+01:01:13,820 --> 01:01:17,809
+simply gone as soon as we have any word
+
+1411
+01:01:16,010 --> 01:01:20,210
+on what<font color="#CCCCCC"> happened here we'll be back but</font>
+
+1412
+01:01:17,809 --> 01:01:24,199
+for<font color="#E5E5E5"> now this is</font><font color="#CCCCCC"> a ghost town</font><font color="#E5E5E5"> this is</font>
+
+1413
+01:01:20,210 --> 01:01:26,329
+robert murray no faith<font color="#CCCCCC"> wyoming a rather</font>
+
+1414
+01:01:24,199 --> 01:01:28,609
+sad note from<font color="#CCCCCC"> france Paul Whittaker</font>
+
+1415
+01:01:26,329 --> 01:01:30,409
+reports from outside the<font color="#E5E5E5"> coulomb be a</font>
+
+1416
+01:01:28,610 --> 01:01:32,960
+burn center and nice where it's now
+
+1417
+01:01:30,409 --> 01:01:34,579
+morning it's 643 a.m. Greenwich Time
+
+1418
+01:01:32,960 --> 01:01:36,530
+<font color="#CCCCCC">here's sandy and doctors have just sent</font>
+
+1419
+01:01:34,579 --> 01:01:38,299
+word that Jean Paul chenard the<font color="#E5E5E5"> French</font>
+
+1420
+01:01:36,530 --> 01:01:40,610
+skier<font color="#E5E5E5"> they plucked off the mountain has</font>
+
+1421
+01:01:38,300 --> 01:01:42,530
+died he regained consciousness briefly
+
+1422
+01:01:40,610 --> 01:01:44,599
+before succumbing to injuries sustained
+
+1423
+01:01:42,530 --> 01:01:45,890
+when the asteroid hit and doctors were
+
+1424
+01:01:44,599 --> 01:01:48,079
+able<font color="#E5E5E5"> to get a recording of his last</font>
+
+1425
+01:01:45,889 --> 01:01:50,150
+words here fearing<font color="#E5E5E5"> that it would be</font>
+
+1426
+01:01:48,079 --> 01:01:52,039
+exploited by the tabloid press his widow
+
+1427
+01:01:50,150 --> 01:01:54,579
+Sylvie has requested<font color="#CCCCCC"> that it be released</font>
+
+1428
+01:01:52,039 --> 01:01:54,579
+to the<font color="#CCCCCC"> network's</font>
+
+1429
+01:01:59,699 --> 01:02:05,960
+Sean's thing
+
+1430
+01:02:06,480 --> 01:02:18,179
+evening<font color="#E5E5E5"> world news continuing coverage</font>
+
+1431
+01:02:10,559 --> 01:02:19,829
+will resume in a moment continuing our
+
+1432
+01:02:18,179 --> 01:02:21,750
+coverage in the aftermath of three
+
+1433
+01:02:19,829 --> 01:02:23,670
+enormous meteor fragments that struck
+
+1434
+01:02:21,750 --> 01:02:26,159
+<font color="#CCCCCC">the earth tonight</font><font color="#E5E5E5"> we go first a</font>
+
+1435
+01:02:23,670 --> 01:02:28,440
+correspondent Mike Curtis at the FAA's
+
+1436
+01:02:26,159 --> 01:02:30,868
+air traffic system command in Washington
+
+1437
+01:02:28,440 --> 01:02:32,849
+DC radio signals<font color="#CCCCCC"> from the three impact</font>
+
+1438
+01:02:30,869 --> 01:02:34,920
+sites may have stopped but aviation
+
+1439
+01:02:32,849 --> 01:02:37,529
+authorities report ticket counters jams
+
+1440
+01:02:34,920 --> 01:02:39,659
+at airports nationwide this is
+
+1441
+01:02:37,530 --> 01:02:41,400
+<font color="#CCCCCC">baltimore-washington international most</font>
+
+1442
+01:02:39,659 --> 01:02:43,349
+airlines report delays of up to three
+
+1443
+01:02:41,400 --> 01:02:45,809
+hours as dozens of flights are<font color="#E5E5E5"> being</font>
+
+1444
+01:02:43,349 --> 01:02:48,059
+diverted there sandy this is a
+
+1445
+01:02:45,809 --> 01:02:49,500
+continental light market unfortunately
+
+1446
+01:02:48,059 --> 01:02:51,690
+the people at this end<font color="#E5E5E5"> of the terminal</font>
+
+1447
+01:02:49,500 --> 01:02:54,179
+are able to<font color="#E5E5E5"> get out</font><font color="#CCCCCC"> because these</font>
+
+1448
+01:02:51,690 --> 01:02:55,920
+flights are still taking<font color="#E5E5E5"> off authorities</font>
+
+1449
+01:02:54,179 --> 01:02:58,440
+say it may be morning before traffic
+
+1450
+01:02:55,920 --> 01:03:00,059
+returns to normal this is my Curtis at
+
+1451
+01:02:58,440 --> 01:03:03,240
+the aviation command center Washington
+
+1452
+01:03:00,059 --> 01:03:05,250
+<font color="#CCCCCC">DC meanwhile correspondent Warren only</font>
+
+1453
+01:03:03,239 --> 01:03:07,769
+has news on the final words of French
+
+1454
+01:03:05,250 --> 01:03:09,750
+skier jean-paul<font color="#CCCCCC"> shuna he's</font><font color="#E5E5E5"> outside</font>
+
+1455
+01:03:07,769 --> 01:03:12,480
+NASA's Goldstone facility in<font color="#E5E5E5"> the Mojave</font>
+
+1456
+01:03:09,750 --> 01:03:13,889
+Desert Warren Carolyn in this breaking
+
+1457
+01:03:12,480 --> 01:03:15,659
+story that seems<font color="#E5E5E5"> to take a different</font>
+
+1458
+01:03:13,889 --> 01:03:18,059
+turn every minute we have just<font color="#CCCCCC"> learned</font>
+
+1459
+01:03:15,659 --> 01:03:20,579
+<font color="#CCCCCC">that the last words of</font><font color="#E5E5E5"> John Paul shoe</font>
+
+1460
+01:03:18,059 --> 01:03:22,590
+narp are being analyzed here by NASA's
+
+1461
+01:03:20,579 --> 01:03:24,299
+computers they're checking for any
+
+1462
+01:03:22,590 --> 01:03:27,059
+similarities between<font color="#E5E5E5"> shoe</font><font color="#CCCCCC"> NARS</font>
+
+1463
+01:03:24,300 --> 01:03:28,890
+incomprehensible speech pattern and<font color="#CCCCCC"> that</font>
+
+1464
+01:03:27,059 --> 01:03:31,619
+of eight-year-old Kimberly Hastings who
+
+1465
+01:03:28,889 --> 01:03:33,960
+of course is found more<font color="#CCCCCC"> than 6,000 miles</font>
+
+1466
+01:03:31,619 --> 01:03:37,050
+<font color="#E5E5E5">away we'll have more on this when</font><font color="#CCCCCC"> we get</font>
+
+1467
+01:03:33,960 --> 01:03:38,820
+it now back<font color="#E5E5E5"> to you we have an</font><font color="#CCCCCC"> update now</font>
+
+1468
+01:03:37,050 --> 01:03:40,680
+on little Kimberly Hastings<font color="#E5E5E5"> the</font>
+
+1469
+01:03:38,820 --> 01:03:43,530
+eight-year-old girl found wandering near
+
+1470
+01:03:40,679 --> 01:03:45,750
+impact site alpha<font color="#CCCCCC"> Bri walkers and mercy</font>
+
+1471
+01:03:43,530 --> 01:03:48,960
+medical center in Casper Wyoming<font color="#CCCCCC"> Bri</font>
+
+1472
+01:03:45,750 --> 01:03:50,639
+finally some good news to report as
+
+1473
+01:03:48,960 --> 01:03:52,920
+little<font color="#E5E5E5"> Kimberly's condition is upgraded</font>
+
+1474
+01:03:50,639 --> 01:03:54,089
+from critical to stable doctors are
+
+1475
+01:03:52,920 --> 01:03:55,769
+still<font color="#E5E5E5"> not able to get through to her</font>
+
+1476
+01:03:54,090 --> 01:03:57,300
+verbally so there's no way<font color="#E5E5E5"> to know what</font>
+
+1477
+01:03:55,769 --> 01:03:59,579
+if<font color="#E5E5E5"> anything she remembers from the</font>
+
+1478
+01:03:57,300 --> 01:04:01,740
+asteroid crash as to how she<font color="#E5E5E5"> got</font><font color="#CCCCCC"> to the</font>
+
+1479
+01:03:59,579 --> 01:04:03,119
+<font color="#CCCCCC">impact site when Donna Hastings her</font>
+
+1480
+01:04:01,739 --> 01:04:05,629
+mother arrived at the hospital does
+
+1481
+01:04:03,119 --> 01:04:08,509
+moments ago she was mobbed by media
+
+1482
+01:04:05,630 --> 01:04:11,809
+the answer<font color="#CCCCCC"> to that question how to cure</font>
+
+1483
+01:04:08,509 --> 01:04:14,088
+linkage from wildin daddy I got a court
+
+1484
+01:04:11,809 --> 01:04:15,380
+order<font color="#E5E5E5"> keeping away being care about it</font>
+
+1485
+01:04:14,088 --> 01:04:18,108
+<font color="#CCCCCC">this come on Sonya with the phrase</font>
+
+1486
+01:04:15,380 --> 01:04:19,608
+<font color="#E5E5E5">thanks fellas more three days ago</font><font color="#CCCCCC"> she</font>
+
+1487
+01:04:18,108 --> 01:04:21,798
+went<font color="#E5E5E5"> off the daycare</font><font color="#CCCCCC"> and you just up and</font>
+
+1488
+01:04:19,608 --> 01:04:24,710
+took her from me but why so far<font color="#E5E5E5"> from</font>
+
+1489
+01:04:21,798 --> 01:04:29,420
+home come on we're in here was gonna go
+
+1490
+01:04:24,710 --> 01:04:49,400
+<font color="#E5E5E5">to Canada give it a network right you're</font>
+
+1491
+01:04:29,420 --> 01:04:51,079
+the<font color="#E5E5E5"> one who's found Kimber sandy dr.</font>
+
+1492
+01:04:49,400 --> 01:04:53,088
+Robert<font color="#E5E5E5"> Pearlman the astronomer we</font>
+
+1493
+01:04:51,079 --> 01:04:55,490
+interviewed earlier has done a computer
+
+1494
+01:04:53,088 --> 01:04:57,768
+analysis of the first three<font color="#E5E5E5"> impact sites</font>
+
+1495
+01:04:55,489 --> 01:04:59,358
+he's joining us now live from his lab at
+
+1496
+01:04:57,768 --> 01:05:02,479
+the American<font color="#CCCCCC"> Observatory in Kitt Peak</font>
+
+1497
+01:04:59,358 --> 01:05:07,190
+Arizona dr. Perlman can you hear me yes
+
+1498
+01:05:02,480 --> 01:05:10,940
+thanks this is a 3d<font color="#E5E5E5"> model of 6 645</font>
+
+1499
+01:05:07,190 --> 01:05:13,608
+venturi as it came<font color="#E5E5E5"> to earth it breaks up</font>
+
+1500
+01:05:10,940 --> 01:05:16,400
+<font color="#E5E5E5">an appoint some 6500 miles above 90</font>
+
+1501
+01:05:13,608 --> 01:05:19,429
+degrees north latitude which is the true
+
+1502
+01:05:16,400 --> 01:05:21,680
+north pole you can<font color="#CCCCCC"> see the three</font>
+
+1503
+01:05:19,429 --> 01:05:25,879
+fragments falling to their impact sites
+
+1504
+01:05:21,679 --> 01:05:28,129
+designated alpha Bravo and Charlie as i
+
+1505
+01:05:25,880 --> 01:05:30,318
+connect the trajectories you will see
+
+1506
+01:05:28,130 --> 01:05:33,440
+what looks like a<font color="#E5E5E5"> diamond shaped pyramid</font>
+
+1507
+01:05:30,318 --> 01:05:37,099
+with its apex above the pole the angles
+
+1508
+01:05:33,440 --> 01:05:38,720
+on impact are exactly 45 degrees forgive
+
+1509
+01:05:37,099 --> 01:05:40,519
+me dr. Perlman but that looks remarkably
+
+1510
+01:05:38,719 --> 01:05:42,558
+like the line drawn you showed us
+
+1511
+01:05:40,518 --> 01:05:45,889
+earlier what's so new about this model
+
+1512
+01:05:42,559 --> 01:05:49,250
+well it will become<font color="#CCCCCC"> relevant</font><font color="#E5E5E5"> when I show</font>
+
+1513
+01:05:45,889 --> 01:05:52,129
+you this now this<font color="#CCCCCC"> is an exact</font>
+
+1514
+01:05:49,250 --> 01:05:56,239
+reproduction of a pixelated message that
+
+1515
+01:05:52,130 --> 01:05:59,150
+was sent out in 1973 on pioneer 11 here
+
+1516
+01:05:56,239 --> 01:06:01,879
+you will see symbols for man the solar
+
+1517
+01:05:59,150 --> 01:06:04,130
+system the DNA double helix which is the
+
+1518
+01:06:01,880 --> 01:06:05,930
+basic molecule of life and a figure
+
+1519
+01:06:04,130 --> 01:06:12,200
+representing the Pioneer spacecraft
+
+1520
+01:06:05,929 --> 01:06:16,358
+itself you<font color="#CCCCCC"> will note the upside-down</font>
+
+1521
+01:06:12,199 --> 01:06:16,358
+pyramid now watch
+
+1522
+01:06:17,389 --> 01:06:24,829
+it's unmistakable the asteroid<font color="#E5E5E5"> fragments</font>
+
+1523
+01:06:21,829 --> 01:06:26,719
+represented a symbol they were using the
+
+1524
+01:06:24,829 --> 01:06:29,779
+descent vectors to send us a<font color="#CCCCCC"> message</font>
+
+1525
+01:06:26,719 --> 01:06:31,939
+that's an intriguing theory<font color="#CCCCCC"> dr. perma</font>
+
+1526
+01:06:29,780 --> 01:06:34,940
+but I'm sure you'll agree it's subject
+
+1527
+01:06:31,940 --> 01:06:36,920
+to debate of course we've invited dr.
+
+1528
+01:06:34,940 --> 01:06:39,050
+Norbert<font color="#CCCCCC"> Hazleton to join us he's deputy</font>
+
+1529
+01:06:36,920 --> 01:06:41,210
+under secretary defence and if you don't
+
+1530
+01:06:39,050 --> 01:06:45,500
+<font color="#E5E5E5">mind he has some questions not at all</font>
+
+1531
+01:06:41,210 --> 01:06:47,449
+fire away dr. Hazelton dr. Perlman if I
+
+1532
+01:06:45,500 --> 01:06:49,429
+understand you correctly you're saying
+
+1533
+01:06:47,449 --> 01:06:53,089
+that<font color="#E5E5E5"> aliens visited earth tonight and no</font>
+
+1534
+01:06:49,429 --> 01:06:55,609
+no I said it<font color="#CCCCCC"> was possible come come you</font>
+
+1535
+01:06:53,090 --> 01:06:57,950
+brought in pioneer you've matched a
+
+1536
+01:06:55,610 --> 01:07:00,500
+couple of triangles what are you saying
+
+1537
+01:06:57,949 --> 01:07:02,750
+well<font color="#E5E5E5"> if you put it</font><font color="#CCCCCC"> like that point blank</font>
+
+1538
+01:07:00,500 --> 01:07:05,329
+yes it sounds improbable but consider
+
+1539
+01:07:02,750 --> 01:07:08,210
+what happened<font color="#CCCCCC"> tonight the</font><font color="#E5E5E5"> pattern of the</font>
+
+1540
+01:07:05,329 --> 01:07:10,279
+impact sites the radio signals survivors
+
+1541
+01:07:08,210 --> 01:07:15,079
+speaking in tongues an entire town
+
+1542
+01:07:10,280 --> 01:07:16,880
+missing forgive me doctor this isn't
+
+1543
+01:07:15,079 --> 01:07:18,349
+some Trekkie convention there are
+
+1544
+01:07:16,880 --> 01:07:21,410
+millions of<font color="#E5E5E5"> people in the world right</font>
+
+1545
+01:07:18,349 --> 01:07:22,849
+now panicking needlessly yes and<font color="#CCCCCC"> I would</font>
+
+1546
+01:07:21,409 --> 01:07:24,949
+like<font color="#E5E5E5"> to know how much that has to do</font>
+
+1547
+01:07:22,849 --> 01:07:27,559
+with the hair-trigger responses the
+
+1548
+01:07:24,949 --> 01:07:29,809
+<font color="#E5E5E5">Pentagon der if you can show me aliens</font>
+
+1549
+01:07:27,559 --> 01:07:31,969
+in those triangles i'll give you<font color="#E5E5E5"> the</font>
+
+1550
+01:07:29,809 --> 01:07:33,199
+second gunman on the grassy knoll listen
+
+1551
+01:07:31,969 --> 01:07:35,329
+you know as well<font color="#CCCCCC"> as I do</font><font color="#E5E5E5"> that the</font>
+
+1552
+01:07:33,199 --> 01:07:37,819
+<font color="#E5E5E5">scientific community is divided on this</font>
+
+1553
+01:07:35,329 --> 01:07:40,610
+but you people you people see this as an
+
+1554
+01:07:37,820 --> 01:07:42,260
+opportunity to hotwire Star Wars<font color="#E5E5E5"> and it</font>
+
+1555
+01:07:40,610 --> 01:07:44,480
+shouldn't come down to<font color="#CCCCCC"> that there is</font>
+
+1556
+01:07:42,260 --> 01:07:47,000
+much more<font color="#E5E5E5"> at</font><font color="#CCCCCC"> stake here you're damn</font>
+
+1557
+01:07:44,480 --> 01:07:49,369
+right there<font color="#CCCCCC"> is gentlemen I'm sorry but</font>
+
+1558
+01:07:47,000 --> 01:07:51,079
+we've run<font color="#E5E5E5"> out of time you've just</font><font color="#CCCCCC"> heard</font>
+
+1559
+01:07:49,369 --> 01:07:53,210
+from astronomer Robert Perlman and
+
+1560
+01:07:51,079 --> 01:07:55,880
+deputy undersecretary of<font color="#CCCCCC"> Defense</font><font color="#E5E5E5"> Norbert</font>
+
+1561
+01:07:53,210 --> 01:07:57,380
+<font color="#CCCCCC">Hazleton and now to recap</font><font color="#E5E5E5"> the earth was</font>
+
+1562
+01:07:55,880 --> 01:07:59,570
+rocked tonight by three separate
+
+1563
+01:07:57,380 --> 01:08:01,550
+fragments from an enormous meteor that
+
+1564
+01:07:59,570 --> 01:08:04,190
+landed in the United States Europe and
+
+1565
+01:08:01,550 --> 01:08:06,380
+Asia a second meteor on a direct path
+
+1566
+01:08:04,190 --> 01:08:09,110
+with the<font color="#E5E5E5"> first one was shot down by us</font>
+
+1567
+01:08:06,380 --> 01:08:11,180
+planes using nuclear weapons over the
+
+1568
+01:08:09,110 --> 01:08:13,849
+North Pole<font color="#E5E5E5"> the two pilots</font><font color="#CCCCCC"> in that</font>
+
+1569
+01:08:11,179 --> 01:08:15,949
+mission perished after radio signals
+
+1570
+01:08:13,849 --> 01:08:18,170
+from the three meteor fragments began
+
+1571
+01:08:15,949 --> 01:08:20,599
+jamming<font color="#CCCCCC"> air-traffic World Wide Shut</font>
+
+1572
+01:08:18,170 --> 01:08:23,600
+unrest grow cotton<font color="#CCCCCC"> a number</font>
+
+1573
+01:08:20,600 --> 01:08:24,980
+the<font color="#E5E5E5"> some speculating that the asteroids</font>
+
+1574
+01:08:23,600 --> 01:08:27,620
+may have a connection to
+
+1575
+01:08:24,979 --> 01:08:30,439
+extraterrestrials that issue has
+
+1576
+01:08:27,619 --> 01:08:32,599
+fractured the<font color="#E5E5E5"> scientific community while</font>
+
+1577
+01:08:30,439 --> 01:08:34,279
+the sole survivor<font color="#CCCCCC"> of the asteroid impact</font>
+
+1578
+01:08:32,600 --> 01:08:37,370
+in Wyoming an<font color="#CCCCCC"> eight-year-old girl</font>
+
+1579
+01:08:34,279 --> 01:08:40,039
+remains hospitalized unable to<font color="#CCCCCC"> speak</font>
+
+1580
+01:08:37,369 --> 01:08:42,079
+President<font color="#E5E5E5"> Clinton is now jetting back to</font>
+
+1581
+01:08:40,039 --> 01:08:44,300
+Washington aboard Air Force One<font color="#E5E5E5"> he</font>
+
+1582
+01:08:42,079 --> 01:08:47,180
+scheduled an address to the nation when
+
+1583
+01:08:44,300 --> 01:08:50,900
+he lands at andrews air force base at 11
+
+1584
+01:08:47,180 --> 01:08:53,180
+16 p.m. eastern time me sandy but dr.
+
+1585
+01:08:50,899 --> 01:08:54,589
+Avram<font color="#E5E5E5"> Mandel the SETI scientists rush to</font>
+
+1586
+01:08:53,180 --> 01:08:55,880
+the Johnson Space Center has just
+
+1587
+01:08:54,590 --> 01:08:57,590
+emerged from a meeting with NASA
+
+1588
+01:08:55,880 --> 01:09:00,020
+officials he's talking<font color="#CCCCCC"> with reporters</font>
+
+1589
+01:08:57,590 --> 01:09:03,800
+right now and we pick up his comments in
+
+1590
+01:09:00,020 --> 01:09:05,570
+progress no no I'm way past that why do
+
+1591
+01:09:03,800 --> 01:09:07,940
+this<font color="#E5E5E5"> here because</font><font color="#CCCCCC"> I'm no longer speaking</font>
+
+1592
+01:09:05,569 --> 01:09:09,799
+as a staff scientist at NASA effective
+
+1593
+01:09:07,939 --> 01:09:12,289
+at<font color="#CCCCCC"> nine-thirty 2 p.m. central time I</font>
+
+1594
+01:09:09,800 --> 01:09:13,850
+resigned my position as a concerned
+
+1595
+01:09:12,289 --> 01:09:16,220
+astronomer and most importantly as a
+
+1596
+01:09:13,850 --> 01:09:17,930
+human being<font color="#E5E5E5"> I can no longer associate</font>
+
+1597
+01:09:16,220 --> 01:09:24,020
+myself with<font color="#E5E5E5"> the government's handling of</font>
+
+1598
+01:09:17,930 --> 01:09:26,840
+this ongoing crisis look we were given a
+
+1599
+01:09:24,020 --> 01:09:30,500
+gift tonight people we had a visitation
+
+1600
+01:09:26,840 --> 01:09:33,470
+they came in peace and we answered them
+
+1601
+01:09:30,500 --> 01:09:35,750
+with<font color="#E5E5E5"> two thousand tons of TNT at the end</font>
+
+1602
+01:09:33,470 --> 01:09:39,170
+of a nuclear warhead yeah what if<font color="#E5E5E5"> this</font>
+
+1603
+01:09:35,750 --> 01:09:41,239
+had been Jesus<font color="#E5E5E5"> or Buddha or Mohammad or</font>
+
+1604
+01:09:39,170 --> 01:09:43,489
+or a profit of old I mean haven't we
+
+1605
+01:09:41,239 --> 01:09:45,260
+learned anything from history<font color="#E5E5E5"> but we all</font>
+
+1606
+01:09:43,489 --> 01:09:47,719
+know that<font color="#E5E5E5"> we have the most violent</font>
+
+1607
+01:09:45,260 --> 01:09:49,550
+planet in the galaxy but why in god's
+
+1608
+01:09:47,720 --> 01:09:52,699
+name why did we have to take it to them
+
+1609
+01:09:49,550 --> 01:09:54,440
+look<font color="#E5E5E5"> dr. e you're upset what do we do</font>
+
+1610
+01:09:52,699 --> 01:09:55,729
+this to run hello<font color="#E5E5E5"> I</font><font color="#CCCCCC"> I wanted to do this</font>
+
+1611
+01:09:54,439 --> 01:09:57,619
+the right way to deal that's why I flew
+
+1612
+01:09:55,729 --> 01:09:59,089
+out here I tried to plead with these
+
+1613
+01:09:57,619 --> 01:10:00,349
+people have didn't do any good dr.
+
+1614
+01:09:59,090 --> 01:10:01,940
+Mendel you mentioned<font color="#E5E5E5"> before</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> this is</font>
+
+1615
+01:10:00,350 --> 01:10:08,990
+an ongoing crisis what did you mean by
+
+1616
+01:10:01,939 --> 01:10:10,039
+that<font color="#CCCCCC"> you don't know no you mean they</font>
+
+1617
+01:10:08,989 --> 01:10:12,109
+haven't told you anything look the
+
+1618
+01:10:10,039 --> 01:10:14,390
+doctor is clearly disturbed hola be
+
+1619
+01:10:12,109 --> 01:10:18,789
+don't you do this this is not respond
+
+1620
+01:10:14,390 --> 01:10:18,789
+saying I am responsible to myself now
+
+1621
+01:10:21,039 --> 01:10:32,380
+I'm so<font color="#CCCCCC"> sorry I'm so so sorry</font><font color="#E5E5E5"> in</font>
+
+1622
+01:10:30,279 --> 01:10:38,949
+<font color="#CCCCCC">approximately 10 32 p.m. eastern time</font>
+
+1623
+01:10:32,380 --> 01:10:41,739
+the<font color="#CCCCCC"> radio telescope hit tongue at</font>
+
+1624
+01:10:38,949 --> 01:10:43,510
+Goldstone Mojave received a signal<font color="#CCCCCC"> Air</font>
+
+1625
+01:10:41,739 --> 01:10:46,359
+<font color="#CCCCCC">Force</font><font color="#E5E5E5"> tracking stations locked on as</font>
+
+1626
+01:10:43,510 --> 01:10:48,489
+well there are three asteroids of a
+
+1627
+01:10:46,359 --> 01:10:52,659
+magnitude of two miles each and above
+
+1628
+01:10:48,489 --> 01:10:54,760
+<font color="#CCCCCC">that are on a trajectory with earth they</font>
+
+1629
+01:10:52,659 --> 01:10:56,619
+are headed directly toward three of the
+
+1630
+01:10:54,760 --> 01:10:59,530
+earth's most populous cities<font color="#CCCCCC"> Beijing in</font>
+
+1631
+01:10:56,619 --> 01:11:01,479
+the People's Republic of China Moscow as
+
+1632
+01:10:59,529 --> 01:11:03,699
+well as Washington DC what our<font color="#E5E5E5"> cities</font>
+
+1633
+01:11:01,479 --> 01:11:05,049
+doctor I don't know I can only guess<font color="#E5E5E5"> and</font>
+
+1634
+01:11:03,699 --> 01:11:06,399
+that is that they<font color="#CCCCCC"> are the capitals of</font>
+
+1635
+01:11:05,050 --> 01:11:08,619
+the only three nations on this planet
+
+1636
+01:11:06,399 --> 01:11:12,339
+who<font color="#CCCCCC"> have a first-strike nuclear threat</font>
+
+1637
+01:11:08,619 --> 01:11:17,019
+the the asteroids are expected to hit
+
+1638
+01:11:12,340 --> 01:11:24,130
+sometime around<font color="#E5E5E5"> 1052 p.m. eastern time</font>
+
+1639
+01:11:17,020 --> 01:11:28,900
+that's it's nine minutes from now we
+
+1640
+01:11:24,130 --> 01:11:31,569
+declared war against<font color="#E5E5E5"> them people we did</font>
+
+1641
+01:11:28,899 --> 01:11:38,519
+it and now they've just<font color="#CCCCCC"> decided to</font>
+
+1642
+01:11:31,569 --> 01:11:42,750
+respond so may God have mercy on us all
+
+1643
+01:11:38,520 --> 01:11:57,870
+our coverage of<font color="#E5E5E5"> this continuing crisis</font>
+
+1644
+01:11:42,750 --> 01:12:00,149
+will resume after this from now<font color="#CCCCCC"> on we'll</font>
+
+1645
+01:11:57,869 --> 01:12:03,359
+stay<font color="#CCCCCC"> on the air continuously until this</font>
+
+1646
+01:12:00,149 --> 01:12:05,399
+crisis is over as we count down now to
+
+1647
+01:12:03,359 --> 01:12:07,500
+the moment<font color="#E5E5E5"> of impact the mayors of the</font>
+
+1648
+01:12:05,399 --> 01:12:10,139
+nation's<font color="#E5E5E5"> ten largest cities have all</font>
+
+1649
+01:12:07,500 --> 01:12:12,539
+imposed curfews looting is widespread
+
+1650
+01:12:10,140 --> 01:12:15,510
+amid fears of food shortages as the
+
+1651
+01:12:12,539 --> 01:12:17,699
+crisis deepens meanwhile<font color="#CCCCCC"> the radio</font>
+
+1652
+01:12:15,510 --> 01:12:19,949
+signals that all three impact sites have
+
+1653
+01:12:17,699 --> 01:12:22,260
+resumed this time they're affecting not
+
+1654
+01:12:19,949 --> 01:12:25,109
+only commercial air traffic but radio
+
+1655
+01:12:22,260 --> 01:12:27,780
+and TV signals across<font color="#CCCCCC"> the globe in many</font>
+
+1656
+01:12:25,109 --> 01:12:30,059
+countries telephone service is out the
+
+1657
+01:12:27,779 --> 01:12:31,649
+<font color="#CCCCCC">reaction in this country has been panic</font>
+
+1658
+01:12:30,060 --> 01:12:32,730
+hopefully everything's gonna be okay but
+
+1659
+01:12:31,649 --> 01:12:35,729
+I just<font color="#E5E5E5"> don't know what I'm gonna do when</font>
+
+1660
+01:12:32,729 --> 01:12:37,169
+it happens well as<font color="#CCCCCC"> a</font><font color="#E5E5E5"> as of right now I'm</font>
+
+1661
+01:12:35,729 --> 01:12:38,939
+not<font color="#CCCCCC"> really frightened because I mean I</font>
+
+1662
+01:12:37,170 --> 01:12:40,920
+<font color="#CCCCCC">really I haven't seen him and I mean</font>
+
+1663
+01:12:38,939 --> 01:12:42,779
+they haven't really<font color="#E5E5E5"> come after me but</font>
+
+1664
+01:12:40,920 --> 01:12:45,329
+they start coming after me yeah<font color="#E5E5E5"> we'll be</font>
+
+1665
+01:12:42,779 --> 01:12:47,250
+<font color="#CCCCCC">hungry scared I gotta</font><font color="#E5E5E5"> get out of here my</font>
+
+1666
+01:12:45,329 --> 01:12:50,279
+<font color="#E5E5E5">family's waiting for me now it ben de</font>
+
+1667
+01:12:47,250 --> 01:12:54,000
+ligar if idea I'm not<font color="#E5E5E5"> a religious person</font>
+
+1668
+01:12:50,279 --> 01:12:56,880
+I haven't been to mass in years but I
+
+1669
+01:12:54,000 --> 01:12:58,979
+<font color="#E5E5E5">came tonight sandy there are reports of</font>
+
+1670
+01:12:56,880 --> 01:13:00,810
+panic worldwide as fears begin to mount
+
+1671
+01:12:58,979 --> 01:13:02,909
+as you can see here the French<font color="#E5E5E5"> police</font>
+
+1672
+01:13:00,810 --> 01:13:05,039
+are having no success in trying to calm
+
+1673
+01:13:02,909 --> 01:13:06,779
+the people who are rioting while in
+
+1674
+01:13:05,039 --> 01:13:08,880
+<font color="#E5E5E5">Washington and other cities around the</font>
+
+1675
+01:13:06,779 --> 01:13:10,500
+world the fear is being expressed in
+
+1676
+01:13:08,880 --> 01:13:13,409
+candlelight vigils and other peaceful
+
+1677
+01:13:10,500 --> 01:13:16,829
+gatherings no one seems to know what to
+
+1678
+01:13:13,409 --> 01:13:18,510
+do or where<font color="#E5E5E5"> to go no place is safe as we</font>
+
+1679
+01:13:16,829 --> 01:13:20,819
+realize the magnitude of this crisis
+
+1680
+01:13:18,510 --> 01:13:23,280
+people take to the streets in different
+
+1681
+01:13:20,819 --> 01:13:25,079
+ways but one thing is clear racial and
+
+1682
+01:13:23,279 --> 01:13:27,449
+national boundaries are disappearing as
+
+1683
+01:13:25,079 --> 01:13:29,100
+the world reacts to a greater danger the
+
+1684
+01:13:27,449 --> 01:13:31,349
+best advice<font color="#CCCCCC"> anyone can give at this</font>
+
+1685
+01:13:29,100 --> 01:13:34,200
+point is to<font color="#CCCCCC"> get inside a building move</font>
+
+1686
+01:13:31,350 --> 01:13:36,570
+to<font color="#E5E5E5"> the basement and stay there in the</font>
+
+1687
+01:13:34,199 --> 01:13:39,359
+<font color="#E5E5E5">event broadcast stations lose power turn</font>
+
+1688
+01:13:36,569 --> 01:13:44,130
+to the emergency broadcast network at am
+
+1689
+01:13:39,359 --> 01:13:46,049
+640 or FM 10 2.4 we begin<font color="#CCCCCC"> with a series</font>
+
+1690
+01:13:44,130 --> 01:13:48,289
+of reports from<font color="#E5E5E5"> evening World News</font>
+
+1691
+01:13:46,050 --> 01:13:51,529
+<font color="#E5E5E5">correspondence</font>
+
+1692
+01:13:48,289 --> 01:13:53,119
+his<font color="#E5E5E5"> paul collingwood in</font><font color="#CCCCCC"> moscow it's 640</font>
+
+1693
+01:13:51,529 --> 01:13:55,609
+in the morning he ran red square is
+
+1694
+01:13:53,119 --> 01:13:57,590
+completely deserted even<font color="#E5E5E5"> during the</font>
+
+1695
+01:13:55,609 --> 01:13:59,389
+darkest days of<font color="#E5E5E5"> the Cold War when</font><font color="#CCCCCC"> the US</font>
+
+1696
+01:13:57,590 --> 01:14:03,350
+nuclear arsenal was aimed at<font color="#CCCCCC"> this city</font>
+
+1697
+01:13:59,390 --> 01:14:04,789
+you never felt such palpable fear this
+
+1698
+01:14:03,350 --> 01:14:07,190
+is not<font color="#CCCCCC"> a religious country but this</font>
+
+1699
+01:14:04,789 --> 01:14:10,039
+<font color="#CCCCCC">morning the churches and synagogues are</font>
+
+1700
+01:14:07,189 --> 01:14:11,839
+filled this is Michael Curtis reporting
+
+1701
+01:14:10,039 --> 01:14:14,420
+from Washington a city normally
+
+1702
+01:14:11,840 --> 01:14:16,610
+associated with great power but tonight
+
+1703
+01:14:14,420 --> 01:14:19,010
+<font color="#CCCCCC">all anybody really feels is powerless</font>
+
+1704
+01:14:16,609 --> 01:14:21,319
+some people have gone home to be with
+
+1705
+01:14:19,010 --> 01:14:22,760
+their families some are in transit
+
+1706
+01:14:21,319 --> 01:14:26,210
+trying to get out<font color="#CCCCCC"> of this city but a</font>
+
+1707
+01:14:22,760 --> 01:14:28,670
+group of<font color="#E5E5E5"> people have gathered</font><font color="#CCCCCC"> here to be</font>
+
+1708
+01:14:26,210 --> 01:14:31,100
+together at the feet of a great man who
+
+1709
+01:14:28,670 --> 01:14:32,930
+once saved this Union perhaps in the
+
+1710
+01:14:31,100 --> 01:14:35,750
+hope<font color="#CCCCCC"> that he might somehow do it again</font>
+
+1711
+01:14:32,930 --> 01:14:38,840
+what would<font color="#E5E5E5"> you do if you were told you</font>
+
+1712
+01:14:35,750 --> 01:14:40,789
+<font color="#E5E5E5">only have seven minutes to live or maybe</font>
+
+1713
+01:14:38,840 --> 01:14:43,670
+it's just a strange attraction we have
+
+1714
+01:14:40,789 --> 01:14:47,600
+for witnessing natural disasters tidal
+
+1715
+01:14:43,670 --> 01:14:50,390
+waves great fires or this asteroids
+
+1716
+01:14:47,600 --> 01:14:53,210
+falling to earth whatever the<font color="#CCCCCC"> reason is</font>
+
+1717
+01:14:50,390 --> 01:14:57,800
+all we can<font color="#E5E5E5"> really do is wait and watch</font>
+
+1718
+01:14:53,210 --> 01:15:00,319
+and pray this is Denise<font color="#E5E5E5"> Wong reporting</font>
+
+1719
+01:14:57,800 --> 01:15:01,489
+in Beijing where an eerie calm has set
+
+1720
+01:15:00,319 --> 01:15:04,279
+in after hours of fierce fighting
+
+1721
+01:15:01,489 --> 01:15:07,159
+between riot police and angry student
+
+1722
+01:15:04,279 --> 01:15:08,569
+demonstrators now people simply want<font color="#E5E5E5"> to</font>
+
+1723
+01:15:07,159 --> 01:15:11,479
+be with their families and we can
+
+1724
+01:15:08,569 --> 01:15:13,939
+understand why all<font color="#E5E5E5"> services a reported</font>
+
+1725
+01:15:11,479 --> 01:15:17,329
+<font color="#E5E5E5">shut down hospitals are overflowing</font>
+
+1726
+01:15:13,939 --> 01:15:19,849
+there's word of a massive fire raging
+
+1727
+01:15:17,329 --> 01:15:23,090
+through<font color="#E5E5E5"> Shanghai with no apparatus or</font>
+
+1728
+01:15:19,850 --> 01:15:25,789
+firefighters to stop it if this is<font color="#E5E5E5"> your</font>
+
+1729
+01:15:23,090 --> 01:15:29,239
+<font color="#CCCCCC">last day on earth you want to spend it</font>
+
+1730
+01:15:25,789 --> 01:15:31,390
+<font color="#CCCCCC">with the people you love Denise Wong</font>
+
+1731
+01:15:29,239 --> 01:15:35,920
+evening world news in beige
+
+1732
+01:15:31,390 --> 01:15:37,060
+you know Carolyn a time like this you
+
+1733
+01:15:35,920 --> 01:15:39,520
+can't help but feel for our
+
+1734
+01:15:37,060 --> 01:15:41,680
+correspondence elsewhere you know Denise
+
+1735
+01:15:39,520 --> 01:15:45,340
+<font color="#E5E5E5">Wong has got a husband and two children</font>
+
+1736
+01:15:41,680 --> 01:15:46,630
+up in San<font color="#E5E5E5"> Francisco yes the threat is</font>
+
+1737
+01:15:45,340 --> 01:15:48,400
+imminent of course to the cities that
+
+1738
+01:15:46,630 --> 01:15:51,670
+<font color="#E5E5E5">we've just</font><font color="#CCCCCC"> mentioned but if the</font>
+
+1739
+01:15:48,399 --> 01:15:55,179
+asteroids hit<font color="#CCCCCC"> Earth as feared the entire</font>
+
+1740
+01:15:51,670 --> 01:15:56,949
+planet will<font color="#CCCCCC"> be impacted Matt Jensen is</font>
+
+1741
+01:15:55,180 --> 01:15:59,950
+standing by as he has been all night at
+
+1742
+01:15:56,949 --> 01:16:01,569
+the Johnson Space Center Matthew Carolyn
+
+1743
+01:15:59,949 --> 01:16:03,099
+as you can see behind me many the
+
+1744
+01:16:01,569 --> 01:16:04,869
+scientists here at the<font color="#E5E5E5"> Operations Center</font>
+
+1745
+01:16:03,100 --> 01:16:08,140
+<font color="#E5E5E5">have gone home to be with their families</font>
+
+1746
+01:16:04,869 --> 01:16:10,539
+of the few that remain dr.<font color="#E5E5E5"> Kirk</font><font color="#CCCCCC"> loudoun</font>
+
+1747
+01:16:08,140 --> 01:16:12,490
+doctor we've been told that if even one
+
+1748
+01:16:10,539 --> 01:16:13,779
+of<font color="#E5E5E5"> these asteroids impacts as expected</font>
+
+1749
+01:16:12,489 --> 01:16:16,000
+<font color="#CCCCCC">the effect worldwide could be</font>
+
+1750
+01:16:13,779 --> 01:16:18,639
+apocalyptic could you elaborate yeah
+
+1751
+01:16:16,000 --> 01:16:21,760
+<font color="#E5E5E5">just like the KT event 65 million years</font>
+
+1752
+01:16:18,640 --> 01:16:24,100
+ago if an asteroid<font color="#CCCCCC"> one mile or larger</font>
+
+1753
+01:16:21,760 --> 01:16:25,510
+strikes on land it'll throw up enough to
+
+1754
+01:16:24,100 --> 01:16:31,600
+<font color="#E5E5E5">breed to create what amounts to a</font>
+
+1755
+01:16:25,510 --> 01:16:33,250
+nuclear winter yeah we can see the
+
+1756
+01:16:31,600 --> 01:16:36,100
+screens behind us you<font color="#E5E5E5"> can see the three</font>
+
+1757
+01:16:33,250 --> 01:16:38,560
+asteroids as they<font color="#E5E5E5"> proceed</font><font color="#CCCCCC"> on target they</font>
+
+1758
+01:16:36,100 --> 01:16:43,300
+are now some 11,000 miles from<font color="#E5E5E5"> Earth but</font>
+
+1759
+01:16:38,560 --> 01:16:45,760
+closing<font color="#E5E5E5"> fast with five minutes and</font>
+
+1760
+01:16:43,300 --> 01:16:47,890
+Counting until the asteroids break the
+
+1761
+01:16:45,760 --> 01:16:50,050
+Earth's atmosphere late word from the
+
+1762
+01:16:47,890 --> 01:16:52,930
+<font color="#E5E5E5">Pentagon that there's a plan in</font><font color="#CCCCCC"> place to</font>
+
+1763
+01:16:50,050 --> 01:16:55,659
+<font color="#CCCCCC">meet them head-on general Lucian</font>
+
+1764
+01:16:52,930 --> 01:16:57,520
+Alexander is<font color="#E5E5E5"> Brittany reporting Air</font>
+
+1765
+01:16:55,659 --> 01:16:59,019
+Force Space Command and the US Navy are
+
+1766
+01:16:57,520 --> 01:17:01,780
+preparing to counter the threat of
+
+1767
+01:16:59,020 --> 01:17:04,540
+nuclear<font color="#E5E5E5"> weapons directed by the most</font>
+
+1768
+01:17:01,779 --> 01:17:06,609
+advanced guidance system each carrying
+
+1769
+01:17:04,539 --> 01:17:09,760
+10 independently targetable re-entry
+
+1770
+01:17:06,609 --> 01:17:11,859
+vehicles they'll be launched from the
+
+1771
+01:17:09,760 --> 01:17:13,869
+Trident submarine USS<font color="#E5E5E5"> Ohio in the north</font>
+
+1772
+01:17:11,859 --> 01:17:17,019
+sea and from fe<font color="#E5E5E5"> Warren Air Force Base</font><font color="#CCCCCC"> in</font>
+
+1773
+01:17:13,869 --> 01:17:18,880
+<font color="#E5E5E5">cheyenne wyoming the Soviets and the</font>
+
+1774
+01:17:17,020 --> 01:17:21,070
+Chinese have agreed not to respond for
+
+1775
+01:17:18,880 --> 01:17:23,650
+fear of an all-out nuclear exchange this
+
+1776
+01:17:21,069 --> 01:17:25,659
+peacekeeper and Trident d5 devices will
+
+1777
+01:17:23,649 --> 01:17:27,219
+hit their targets and take them out with
+
+1778
+01:17:25,659 --> 01:17:29,519
+surgical precision and minimum
+
+1779
+01:17:27,220 --> 01:17:34,260
+collateral damage
+
+1780
+01:17:29,520 --> 01:17:37,650
+can nuclear missiles be against UFOs we
+
+1781
+01:17:34,260 --> 01:17:40,079
+still have no definitive proof of alien
+
+1782
+01:17:37,649 --> 01:17:41,789
+life forms there's every likelihood that
+
+1783
+01:17:40,079 --> 01:17:43,949
+these asteroids are the result of a
+
+1784
+01:17:41,789 --> 01:17:45,810
+meteor shower of massive proportions the
+
+1785
+01:17:43,949 --> 01:17:48,449
+point is either we cut and run and we
+
+1786
+01:17:45,810 --> 01:17:53,970
+stand<font color="#E5E5E5"> it right we're now DEFCON 1</font>
+
+1787
+01:17:48,449 --> 01:17:55,859
+<font color="#E5E5E5">t-minus three minutes</font><font color="#CCCCCC"> encounter no</font>
+
+1788
+01:17:53,970 --> 01:17:57,510
+Carolyn in the midst of a story like
+
+1789
+01:17:55,859 --> 01:18:00,509
+this when you're talking about millions
+
+1790
+01:17:57,510 --> 01:18:03,480
+of lives being affected I can't help but
+
+1791
+01:18:00,510 --> 01:18:06,180
+<font color="#E5E5E5">think</font><font color="#CCCCCC"> of one Kimberly Hastings in</font>
+
+1792
+01:18:03,479 --> 01:18:09,899
+Wyoming we go now to Bree Walker at
+
+1793
+01:18:06,180 --> 01:18:12,000
+mercy medical center in Wyoming with all
+
+1794
+01:18:09,899 --> 01:18:17,489
+the hope in this room just moments ago I
+
+1795
+01:18:12,000 --> 01:18:20,460
+don't quite<font color="#E5E5E5"> know how to say this shortly</font>
+
+1796
+01:18:17,489 --> 01:18:23,489
+after we spoke to<font color="#E5E5E5"> you little Kimberly</font>
+
+1797
+01:18:20,460 --> 01:18:26,760
+Hastings collapsed and went<font color="#E5E5E5"> into cardiac</font>
+
+1798
+01:18:23,489 --> 01:18:31,349
+arrest a crash team rushed ended but
+
+1799
+01:18:26,760 --> 01:18:35,789
+they at 851 p.m. little Kimberly
+
+1800
+01:18:31,350 --> 01:18:38,550
+Hastings passed away and whatever it is
+
+1801
+01:18:35,789 --> 01:18:43,710
+that she knew about<font color="#CCCCCC"> that asteroid went</font>
+
+1802
+01:18:38,550 --> 01:18:45,300
+with her we are now less than three
+
+1803
+01:18:43,710 --> 01:18:50,760
+minutes from the first impact<font color="#E5E5E5"> and the</font>
+
+1804
+01:18:45,300 --> 01:18:55,619
+<font color="#CCCCCC">people's republic god I just</font><font color="#E5E5E5"> want to say</font>
+
+1805
+01:18:50,760 --> 01:19:01,920
+something<font color="#CCCCCC"> to</font><font color="#E5E5E5"> uh Lindsay my little girl</font>
+
+1806
+01:18:55,619 --> 01:19:04,649
+she's six she had it<font color="#CCCCCC"> and she had a tooth</font>
+
+1807
+01:19:01,920 --> 01:19:10,949
+out last week the tooth fairy brought
+
+1808
+01:19:04,649 --> 01:19:15,179
+her a silver dollar honey I want you to
+
+1809
+01:19:10,949 --> 01:19:19,470
+know<font color="#CCCCCC"> that mommy loves you very much I</font>
+
+1810
+01:19:15,180 --> 01:19:23,070
+went you and Daddy you hold each other
+
+1811
+01:19:19,470 --> 01:19:26,520
+real real tight I know how much<font color="#E5E5E5"> I</font><font color="#CCCCCC"> love</font>
+
+1812
+01:19:23,069 --> 01:19:32,009
+you<font color="#E5E5E5"> both I'm just gonna finish up here</font>
+
+1813
+01:19:26,520 --> 01:19:35,760
+and we're all gonna be together real
+
+1814
+01:19:32,010 --> 01:19:38,760
+soon Carolyn you don't have to stay<font color="#CCCCCC"> here</font>
+
+1815
+01:19:35,760 --> 01:19:45,539
+you don't let some
+
+1816
+01:19:38,760 --> 01:19:47,310
+let's<font color="#E5E5E5"> just see it through you sure we're</font>
+
+1817
+01:19:45,539 --> 01:19:49,409
+now less than two minutes<font color="#E5E5E5"> before the Air</font>
+
+1818
+01:19:47,310 --> 01:19:51,420
+Force launches its peacekeeper missiles
+
+1819
+01:19:49,409 --> 01:19:53,849
+will be live via satellite with
+
+1820
+01:19:51,420 --> 01:19:56,699
+correspondent Denise<font color="#E5E5E5"> Wong in Beijing</font>
+
+1821
+01:19:53,850 --> 01:19:58,500
+<font color="#CCCCCC">paul collingwood in Moscow</font><font color="#E5E5E5"> and Mike</font>
+
+1822
+01:19:56,699 --> 01:20:01,050
+Curtis here in the nation's capital<font color="#E5E5E5"> and</font>
+
+1823
+01:19:58,500 --> 01:20:05,279
+now for<font color="#CCCCCC"> the launch phase we go to Matt</font>
+
+1824
+01:20:01,050 --> 01:20:06,750
+Jensen at the Johnson Space Center sandy
+
+1825
+01:20:05,279 --> 01:20:07,920
+the radio signals<font color="#CCCCCC"> at you here</font><font color="#E5E5E5"> and that</font>
+
+1826
+01:20:06,750 --> 01:20:09,630
+are coming through our headsets are
+
+1827
+01:20:07,920 --> 01:20:11,670
+coming off the feed from impact site
+
+1828
+01:20:09,630 --> 01:20:12,810
+alpha the sound is<font color="#CCCCCC"> ear piercing I'm</font>
+
+1829
+01:20:11,670 --> 01:20:19,560
+gonna have to do the<font color="#E5E5E5"> rest of your pear</font>
+
+1830
+01:20:12,810 --> 01:20:21,870
+phone it's<font color="#E5E5E5"> okay mapping we can hear</font><font color="#CCCCCC"> you</font>
+
+1831
+01:20:19,560 --> 01:20:24,660
+<font color="#E5E5E5">now the asteroids have now been being</font>
+
+1832
+01:20:21,869 --> 01:20:27,300
+designated x-ray Yankee and Zulu that's
+
+1833
+01:20:24,659 --> 01:20:29,189
+<font color="#E5E5E5">xyc in a few seconds you'll</font><font color="#CCCCCC"> be able to</font>
+
+1834
+01:20:27,300 --> 01:20:31,949
+see them hurtling down towards Earth at
+
+1835
+01:20:29,189 --> 01:20:34,019
+four to five thousand miles an hour the
+
+1836
+01:20:31,949 --> 01:20:37,050
+missile exchange will<font color="#CCCCCC"> be monitored by</font>
+
+1837
+01:20:34,020 --> 01:20:39,300
+<font color="#E5E5E5">tracking stations in Maui Socorro and in</font>
+
+1838
+01:20:37,050 --> 01:20:41,909
+Diego Garcia attention all stations
+
+1839
+01:20:39,300 --> 01:20:43,650
+status green alert that<font color="#E5E5E5"> voice you're</font>
+
+1840
+01:20:41,909 --> 01:20:45,210
+hearing these amateur scouting<font color="#E5E5E5"> Ohioans</font>
+
+1841
+01:20:43,649 --> 01:20:47,399
+<font color="#CCCCCC">the launch control on combat crew</font>
+
+1842
+01:20:45,210 --> 01:20:50,279
+initiate execute launch command on my
+
+1843
+01:20:47,399 --> 01:20:52,049
+mark in 10 seconds his voice is from the
+
+1844
+01:20:50,279 --> 01:20:56,969
+US strategic command offutt air force
+
+1845
+01:20:52,050 --> 01:21:01,560
+base in Omaha arrived four three two one
+
+1846
+01:20:56,970 --> 01:21:04,740
+<font color="#CCCCCC">launcher closure open missile away</font><font color="#E5E5E5"> you</font>
+
+1847
+01:21:01,560 --> 01:21:06,900
+<font color="#E5E5E5">loose ones Beijing is target one impact</font>
+
+1848
+01:21:04,739 --> 01:21:11,039
+respected at 40 seconds per mile zero
+
+1849
+01:21:06,899 --> 01:21:13,710
+interference is<font color="#CCCCCC"> too strong do</font><font color="#E5E5E5"> you see</font>
+
+1850
+01:21:11,039 --> 01:21:14,800
+anything at all oh you're breaking up
+
+1851
+01:21:13,710 --> 01:21:17,050
+sandy
+
+1852
+01:21:14,800 --> 01:21:22,180
+I'm going<font color="#E5E5E5"> to have to take a header off I</font>
+
+1853
+01:21:17,050 --> 01:21:29,680
+think you re good I saw anything see and
+
+1854
+01:21:22,180 --> 01:21:32,650
+yet I can't tell you I'm impact / China
+
+1855
+01:21:29,680 --> 01:21:34,300
+t minus<font color="#E5E5E5"> 15 with wealthy audio that I</font>
+
+1856
+01:21:32,649 --> 01:21:36,729
+assume<font color="#E5E5E5"> that's a pic of</font><font color="#CCCCCC"> her</font><font color="#E5E5E5"> husband</font>
+
+1857
+01:21:34,300 --> 01:21:38,739
+graylen and her two children Keisha and
+
+1858
+01:21:36,729 --> 01:21:42,399
+Mallory I said before they all live in
+
+1859
+01:21:38,739 --> 01:21:48,729
+san francisc Denise please hold on<font color="#CCCCCC"> where</font>
+
+1860
+01:21:42,399 --> 01:21:51,699
+he can<font color="#E5E5E5"> 21 we've lost contact with Denise</font>
+
+1861
+01:21:48,729 --> 01:21:55,389
+<font color="#CCCCCC">Wang in Beijing Matt Jensen can you tell</font>
+
+1862
+01:21:51,699 --> 01:21:56,979
+us the status from where you are well by
+
+1863
+01:21:55,390 --> 01:21:58,720
+the cheering behind me i'm sure you can
+
+1864
+01:21:56,979 --> 01:22:00,969
+tell we've had total incineration on
+
+1865
+01:21:58,720 --> 01:22:03,970
+x-ray but it is far from over yet
+
+1866
+01:22:00,970 --> 01:22:06,940
+interest we believe the<font color="#E5E5E5"> first asteroid</font>
+
+1867
+01:22:03,970 --> 01:22:09,340
+has been destroyed we go now to Paul
+
+1868
+01:22:06,939 --> 01:22:11,379
+Collingwood in Moscow Paul what should
+
+1869
+01:22:09,340 --> 01:22:14,350
+look like where you are nothing so far
+
+1870
+01:22:11,380 --> 01:22:18,400
+<font color="#CCCCCC">SEC has done the sick piercing signal in</font>
+
+1871
+01:22:14,350 --> 01:22:20,950
+my headset sandy for<font color="#E5E5E5"> the record I'm a</font>
+
+1872
+01:22:18,399 --> 01:22:24,099
+four-year correspondent we're all proud
+
+1873
+01:22:20,949 --> 01:22:29,260
+of you Paul and your collar and tomorrow
+
+1874
+01:22:24,100 --> 01:22:33,610
+would have been my 28th birthday well<font color="#CCCCCC"> I</font>
+
+1875
+01:22:29,260 --> 01:22:44,920
+love you mom and dad 65
+
+1876
+01:22:33,609 --> 01:22:46,960
+<font color="#CCCCCC">three two one sandy what happened this</font>
+
+1877
+01:22:44,920 --> 01:22:48,670
+should have impacted by now Paul it
+
+1878
+01:22:46,960 --> 01:22:51,250
+looks<font color="#E5E5E5"> like we've destroyed truly I am</font>
+
+1879
+01:22:48,670 --> 01:22:55,810
+390 engine hi Curtis of the link is a
+
+1880
+01:22:51,250 --> 01:22:58,060
+little sandy it's really it's impossible
+
+1881
+01:22:55,810 --> 01:23:01,150
+to see anything tonight it's a it's so
+
+1882
+01:22:58,060 --> 01:23:03,550
+overcast all night long impact over
+
+1883
+01:23:01,149 --> 01:23:05,859
+Washington<font color="#E5E5E5"> into my god fortnight</font><font color="#CCCCCC"> now</font>
+
+1884
+01:23:03,550 --> 01:23:08,890
+<font color="#E5E5E5">network now I see it it's so bright and</font>
+
+1885
+01:23:05,859 --> 01:23:11,649
+it's coming<font color="#E5E5E5"> in fast big guy got the</font>
+
+1886
+01:23:08,890 --> 01:23:13,270
+counter it's<font color="#E5E5E5"> it's getting too close</font>
+
+1887
+01:23:11,649 --> 01:23:15,659
+sandy why aren't they shooting at this
+
+1888
+01:23:13,270 --> 01:23:15,660
+thing now
+
+1889
+01:23:27,229 --> 01:23:33,859
+how does it feel out there it's this
+
+1890
+01:23:30,470 --> 01:23:36,500
+fabulous it's like the day the wall went
+
+1891
+01:23:33,859 --> 01:23:38,210
+down yeah happy birthday Paul happy
+
+1892
+01:23:36,500 --> 01:23:41,510
+birthday oh thank you soon Thank You
+
+1893
+01:23:38,210 --> 01:23:42,890
+Denise we're gonna go<font color="#CCCCCC"> home I'd say</font>
+
+1894
+01:23:41,510 --> 01:23:45,650
+you've earned it thanks<font color="#CCCCCC"> for a job well</font>
+
+1895
+01:23:42,890 --> 01:23:48,410
+<font color="#E5E5E5">done thank you very much have a very</font>
+
+1896
+01:23:45,649 --> 01:23:50,359
+good<font color="#E5E5E5"> day have a good day reaction from</font>
+
+1897
+01:23:48,409 --> 01:23:53,529
+around the world is typical of this live
+
+1898
+01:23:50,359 --> 01:23:53,529
+footage we're seeing right<font color="#E5E5E5"> now</font>
+
+1899
+01:23:58,479 --> 01:24:03,039
+well<font color="#CCCCCC"> before we sign off correspondent</font>
+
+1900
+01:24:01,090 --> 01:24:05,829
+Warren only has some information for us
+
+1901
+01:24:03,039 --> 01:24:07,630
+from Goldstone sandy the scientists here
+
+1902
+01:24:05,829 --> 01:24:09,430
+have deciphered the speech patterns at
+
+1903
+01:24:07,630 --> 01:24:39,340
+<font color="#CCCCCC">Kimberley Hastings and John Paul June</font>
+
+1904
+01:24:09,430 --> 01:24:45,820
+are here's the<font color="#E5E5E5"> feed now 147 member</font>
+
+1905
+01:24:39,340 --> 01:24:53,050
+<font color="#CCCCCC">states we committed that's the recorded</font>
+
+1906
+01:24:45,819 --> 01:24:54,369
+message we sent up in Voyager to Sandy
+
+1907
+01:24:53,050 --> 01:24:57,159
+there's a report from the johnson space
+
+1908
+01:24:54,369 --> 01:24:59,529
+center Matt Jensen is there with a comes
+
+1909
+01:24:57,159 --> 01:25:01,210
+to us live mad Carolyn as you can see
+
+1910
+01:24:59,529 --> 01:25:03,219
+the elation in the room behind me<font color="#CCCCCC"> has</font>
+
+1911
+01:25:01,210 --> 01:25:05,109
+stopped<font color="#E5E5E5"> people cheering and celebrating</font>
+
+1912
+01:25:03,220 --> 01:25:07,239
+and then it was if a balloon<font color="#E5E5E5"> would burst</font>
+
+1913
+01:25:05,109 --> 01:25:10,920
+quiet permeated the room and<font color="#E5E5E5"> nobody</font>
+
+1914
+01:25:07,238 --> 01:25:10,919
+seems to be giving any indication why
+
+1915
+01:25:11,470 --> 01:25:16,390
+now what is it now what do you see just
+
+1916
+01:25:14,979 --> 01:25:18,279
+tell him tell<font color="#CCCCCC"> us</font><font color="#E5E5E5"> what you're seeing Matt</font>
+
+1917
+01:25:16,390 --> 01:25:21,190
+the count what sick and<font color="#CCCCCC"> wonder</font><font color="#E5E5E5"> well</font>
+
+1918
+01:25:18,279 --> 01:25:22,989
+what's the<font color="#CCCCCC"> Tama</font><font color="#E5E5E5"> man's name I'm told his</font>
+
+1919
+01:25:21,189 --> 01:25:24,819
+name is Patrick Patrick Patrick just
+
+1920
+01:25:22,989 --> 01:25:27,069
+move the camera to the screen show us
+
+1921
+01:25:24,819 --> 01:25:28,569
+what you're<font color="#E5E5E5"> seeing on the screen Patrick</font>
+
+1922
+01:25:27,069 --> 01:25:31,420
+you read it over show us what's on this
+
+1923
+01:25:28,569 --> 01:25:33,039
+track trajectories no there's too many
+
+1924
+01:25:31,420 --> 01:25:34,960
+there's too many to calculate now look
+
+1925
+01:25:33,039 --> 01:25:37,960
+for a success was to transport got me
+
+1926
+01:25:34,960 --> 01:25:40,899
+taking friends mrs. you coming Elizabeth
+
+1927
+01:25:37,960 --> 01:25:45,579
+<font color="#CCCCCC">do you copy the vector code 95 Mexico</font>
+
+1928
+01:25:40,899 --> 01:25:48,309
+<font color="#CCCCCC">signals used in Mexico City respond 7</font>
+
+1929
+01:25:45,579 --> 01:25:52,420
+these change frequencies and copy<font color="#CCCCCC"> mexico</font>
+
+1930
+01:25:48,310 --> 01:25:54,880
+<font color="#CCCCCC">city now is teacher</font><font color="#E5E5E5"> in caracas london do</font>
+
+1931
+01:25:52,420 --> 01:25:56,890
+you read me this is<font color="#E5E5E5"> negative</font><font color="#CCCCCC"> london if</font>
+
+1932
+01:25:54,880 --> 01:25:58,630
+you're there please<font color="#E5E5E5"> add a guru anchorage</font>
+
+1933
+01:25:56,890 --> 01:26:01,090
+reports judo is rev respir<font color="#CCCCCC"> our spice</font>
+
+1934
+01:25:58,630 --> 01:26:03,159
+fishing Russia is astonishing I'm
+
+1935
+01:26:01,090 --> 01:26:04,779
+capitulation<font color="#CCCCCC"> is left our support any</font>
+
+1936
+01:26:03,159 --> 01:26:07,479
+mirror sir you can hear the<font color="#E5E5E5"> sound of my</font>
+
+1937
+01:26:04,779 --> 01:26:10,929
+league of nations before russia car oh
+
+1938
+01:26:07,479 --> 01:26:14,289
+please come<font color="#E5E5E5"> obviously</font><font color="#CCCCCC"> we'll stay on</font><font color="#E5E5E5"> as</font>
+
+1939
+01:26:10,930 --> 01:26:16,690
+long as we can and will keep feeding you
+
+1940
+01:26:14,289 --> 01:26:21,640
+the signal from the<font color="#E5E5E5"> Johnson Space Center</font>
+
+1941
+01:26:16,689 --> 01:26:25,629
+as long<font color="#CCCCCC"> as possible with all the</font>
+
+1942
+01:26:21,640 --> 01:26:27,070
+missiles in all the power I could only
+
+1943
+01:26:25,630 --> 01:26:32,710
+leave you with this thought from
+
+1944
+01:26:27,069 --> 01:26:37,479
+Shakespeare before dear Brutus<font color="#E5E5E5"> lot in</font>
+
+1945
+01:26:32,710 --> 01:26:38,980
+your stories selves or just came in at
+
+1946
+01:26:37,479 --> 01:26:40,989
+<font color="#E5E5E5">Edinburgh is bendable iterated</font><font color="#CCCCCC"> weird</font>
+
+1947
+01:26:38,979 --> 01:26:42,429
+capital she hasn't run in Washington
+
+1948
+01:26:40,989 --> 01:26:44,439
+<font color="#E5E5E5">this is you like Washington I you read</font>
+
+1949
+01:26:42,430 --> 01:26:46,659
+through door buzzed washington this<font color="#E5E5E5"> is</font>
+
+1950
+01:26:44,439 --> 01:26:49,009
+Houston control please come in come in
+
+1951
+01:26:46,659 --> 01:26:51,729
+Washington<font color="#E5E5E5"> this is Houston control</font>
+
+1952
+01:26:49,010 --> 01:26:51,730
+<font color="#E5E5E5">Washington come in</font>
+
+1953
+01:27:25,479 --> 01:27:27,539
+you
+
+1954
+01:27:34,510 --> 01:27:40,340
+now
+
+1955
+01:27:38,279 --> 01:27:40,340
+you
+
+1956
+01:28:13,729 --> 01:28:15,789
+you
+
+1957
+01:28:23,988 --> 01:28:26,049
+you
+

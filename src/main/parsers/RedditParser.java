@@ -28,16 +28,16 @@ import main.Movie;
 
 public class RedditParser {
 
-	private static int PAGES_COUNT_TO_PARSE = 5;
+	private static int PAGES_COUNT_TO_PARSE = 50;
 	private static Logger logger = Logger.getLogger(Main.class);
 
-	public static List<String> existingMovies = getExistingMoviesYTuri();
+	public static List<String> existingMovies = getExistingMoviesYTuri("file.txt");
 
 	private CacheRepository cache = new CacheRepository();
 
 	public List<Movie> start() {
 		BasicConfigurator.configure();
-		List<Movie> movies = parseAllPages("https://www.reddit.com/r/fullmoviesonyoutube/");
+		List<Movie> movies = parseAllPages("https://www.reddit.com/r/fullmoviesonyoutube/?count=200&after=t3_5vfcdn");
 		Iterator<Movie> iterator = movies.iterator();
 		while (iterator.hasNext()) {
 			if (existingMovies.contains(iterator.next().getYoutubeId()))
@@ -46,20 +46,20 @@ public class RedditParser {
 		return movies;
 	}
 
-	private static List<String> getExistingMoviesYTuri() {
+	private static List<String> getExistingMoviesYTuri(String fileName) {
 		List<String> ret = new ArrayList<String>();
 
-		List<Movie> movies = getExistingMovies();
+		List<Movie> movies = getExistingMovies(fileName);
 		for (Movie movie : movies) {
 			ret.add(movie.getYoutubeId());
 		}
 		return ret;
 	}
 
-	public static List<Movie> getExistingMovies() {
+	public static List<Movie> getExistingMovies(String filename) {
 		List<Movie> movies = new ArrayList<Movie>();
 
-		try (BufferedReader br = new BufferedReader(new FileReader("myfile.txt"))) {
+		try (BufferedReader br = new BufferedReader(new FileReader(filename))) {
 			String line;
 			while ((line = br.readLine()) != null) {
 				Movie m = new Movie();
@@ -92,6 +92,7 @@ public class RedditParser {
 
 				logger.debug("current page index: " + currentPageInd);
 
+				logger.debug("getting document: " + link);
 				Document document = getDocument(link);
 
 				for (Element movieHtmlBlock : document.getElementsByAttributeValue("class",

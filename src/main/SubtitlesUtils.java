@@ -331,7 +331,7 @@ public class SubtitlesUtils {
 		int biggestY = 0;
 
 
-		aa: for (int i = SUBS_INDEXES_DISTANCE; i < subs.size(); i++) {
+		for (int i = SUBS_INDEXES_DISTANCE; i < subs.size(); i++) {
 
 			if(i > biggestI)
 				biggestI = i;

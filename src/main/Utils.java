@@ -7,7 +7,7 @@ import java.nio.file.Paths;
 
 public class Utils {
 
-	public final static String UNWANTED_SYMBOLS_IN_FOLDER_NAME_REGEX = "[^a-zA-Z0-9']";
+	public final static String UNWANTED_SYMBOLS_IN_FOLDER_NAME_REGEX = "[^a-zA-Z']+";
 
 	public static void createDirectoriesToFile(String filePath) {
 		try {

@@ -46,7 +46,7 @@ public class SubsceneSubsParser {
 		try {
 
 			title = title.replaceAll(Utils.UNWANTED_SYMBOLS_IN_FOLDER_NAME_REGEX, "+");
-			List<String> linksToDifferentMovies = getLinksToMovies(this.SUBSCENE_URL + "/subtitles/title?q=" + title,
+			Set<String> linksToDifferentMovies = getLinksToMovies(this.SUBSCENE_URL + "/subtitles/title?q=" + title,
 					releaseYear);
 
 			int counter = 0;
@@ -83,11 +83,11 @@ public class SubsceneSubsParser {
 		return null;
 	}
 
-	private List<String> getLinksToMovies(String searchUrl, String releaseYear) throws Exception {
+	private Set<String> getLinksToMovies(String searchUrl, String releaseYear) throws Exception {
 
 		String pageWithLinksToMovies = getHtml(searchUrl);
 
-		List<String> linksToMovies = parseLinksToMovies(pageWithLinksToMovies, releaseYear);
+		Set<String> linksToMovies = parseLinksToMovies(pageWithLinksToMovies, releaseYear);
 
 		return linksToMovies;
 	}
@@ -143,9 +143,9 @@ public class SubsceneSubsParser {
 		return html;
 	}
 
-	private List<String> parseLinksToMovies(String page, String releaseyear) {
+	private Set<String> parseLinksToMovies(String page, String releaseyear) {
 
-		List<String> urls = new ArrayList<>();
+		Set<String> urls = new HashSet<>();
 
 		Pattern p = Pattern.compile("<div class=\"title\">\\s+<a href=\"(.+?)\">(.+?)</a>");
 
