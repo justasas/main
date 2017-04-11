@@ -1,0 +1,1111 @@
+﻿1
+00:00:18,810 --> 00:00:21,145
+<font color="#404040">ANNOUNCER: </font><i>A galaxy divided by war.</i>
+
+2
+00:00:22,188 --> 00:00:26,233
+<i>Peaceful worlds must choose sides</i>
+<i>or face the threat of invasion.</i>
+
+3
+00:00:26,317 --> 00:00:30,320
+<i>Republic and Separatist armies vie</i>
+<i>for the allegiance of neutral planets.</i>
+
+4
+00:00:30,405 --> 00:00:33,407
+<i>Desperate to build a Republic supply base</i>
+<i>in the system of Toydaria,</i>
+
+5
+00:00:33,491 --> 00:00:38,412
+<i>Jedi Master Yoda travels to secret</i>
+<i>negotiations on a remote neutral moon.</i>
+
+6
+00:00:45,420 --> 00:00:48,255
+<font color="#404040">GUARD:</font> We are getting no signal
+from the Republic, Your Highness.
+
+7
+00:00:48,590 --> 00:00:50,799
+<font color="#404040">KATUUNKO:</font> I don't see anything.
+
+8
+00:00:51,509 --> 00:00:54,011
+It is not like the Jedi to be late.
+
+9
+00:00:54,095 --> 00:00:56,472
+<font color="#404040">VENTRESS:</font> Greetings, King Katuunko.
+
+10
+00:01:00,560 --> 00:01:03,979
+-Who are you?
+-I am only a messenger, Majesty.
+
+11
+00:01:04,022 --> 00:01:06,565
+My master wishes to speak with you.
+
+12
+00:01:09,027 --> 00:01:14,865
+<i>Katuunko, great king of Toydaria,</i>
+<i>forgive my intrusion.</i>
+
+13
+00:01:15,241 --> 00:01:16,533
+Count Dooku.
+
+14
+00:01:16,659 --> 00:01:20,204
+<i>I am aware Master Yoda hopes</i>
+<i>you will allow the Jedi</i>
+
+15
+00:01:20,330 --> 00:01:23,248
+<i>to build a Republic base in your system</i>
+
+16
+00:01:23,333 --> 00:01:26,877
+<i>in exchange for protection, correct?</i>
+
+17
+00:01:27,003 --> 00:01:29,379
+Your spies serve you well, Count.
+
+18
+00:01:29,506 --> 00:01:33,425
+<i>I ask, how can the Jedi protect you</i>
+
+19
+00:01:33,510 --> 00:01:36,512
+<i>if they cannot protect themselves?</i>
+
+20
+00:01:37,222 --> 00:01:41,850
+Toydarian Royal Delegation,
+this is the Republic Envoy. Please respond.
+
+21
+00:01:42,852 --> 00:01:45,354
+General, the Toydarians' beacon
+is active on the moon,
+
+22
+00:01:45,396 --> 00:01:47,231
+but all our transmissions
+are being jammed.
+
+23
+00:01:47,357 --> 00:01:48,357
+Hmm.
+
+24
+00:01:53,196 --> 00:01:54,363
+<font color="#DF01D7">(ALARM BEEPING)</font>
+
+25
+00:01:55,865 --> 00:01:58,408
+DROID CAPTAIN:
+We caught them by surprise, all right.
+
+26
+00:02:03,456 --> 00:02:04,790
+<font color="#404040">CLONE:</font> We're losing our shields!
+
+27
+00:02:04,874 --> 00:02:07,042
+Too late it is. Sprung is the trap.
+
+28
+00:02:11,422 --> 00:02:14,800
+-I must get you to safety, General.
+-Retreat you must.
+
+29
+00:02:14,884 --> 00:02:19,054
+On the moon below is my mission.
+There I must go.
+
+30
+00:02:23,101 --> 00:02:26,061
+I suppose you and your droid armies
+can do better?
+
+31
+00:02:26,729 --> 00:02:28,230
+<i>Without a doubt.</i>
+
+32
+00:02:28,273 --> 00:02:32,317
+<i>I sense you are one</i>
+<i>who respects strength, Your Highness.</i>
+
+33
+00:02:32,402 --> 00:02:37,281
+<i>Our droid armies outnumber</i>
+<i>the Republic clones 100 to one.</i>
+
+34
+00:02:37,407 --> 00:02:38,907
+Perhaps,
+
+35
+00:02:38,950 --> 00:02:44,163
+but I have heard that a single Jedi
+equals 100 battle droids.
+
+36
+00:02:44,664 --> 00:02:47,958
+Quickly, now.
+Reach the planet's surface we must.
+
+37
+00:02:48,418 --> 00:02:52,296
+In an escape pod, sir?
+The enemy will fire at anything we launch.
+
+38
+00:02:52,422 --> 00:02:55,090
+Then launch all of them you will. Hmm?
+
+39
+00:03:02,098 --> 00:03:05,684
+<i>Master Yoda's powers</i>
+<i>have been greatly exaggerated.</i>
+
+40
+00:03:05,977 --> 00:03:08,270
+That remains to be seen, Count.
+
+41
+00:03:08,646 --> 00:03:15,110
+<i>Indeed. When you decide to join us,</i>
+<i>my apprentice will contact me.</i>
+
+42
+00:03:29,000 --> 00:03:30,959
+Hang on. Almost...
+
+43
+00:03:34,714 --> 00:03:39,384
+-What a terrible shot.
+-Oh, well, it's my programming.
+
+44
+00:03:42,639 --> 00:03:44,223
+That was a close one!
+
+45
+00:03:44,307 --> 00:03:46,225
+General, I think we're out of range.
+
+46
+00:03:46,309 --> 00:03:49,728
+I agree, but entering another trap we are.
+
+47
+00:03:51,648 --> 00:03:55,317
+-Are you sure?
+-A disturbance in the Force there is.
+
+48
+00:03:59,656 --> 00:04:03,408
+My lord, Master Yoda's warship
+has fled the system.
+
+49
+00:04:03,743 --> 00:04:08,038
+What further evidence do you require
+of the Jedi's weakness?
+
+50
+00:04:08,748 --> 00:04:10,666
+<font color="#DF01D7">(DEVICE BEEPING)</font>
+
+51
+00:04:12,877 --> 00:04:15,170
+This is King Katuunko. Speak.
+
+52
+00:04:15,546 --> 00:04:17,673
+<i>Master Yoda would like</i>
+<i>to talk with you, sir.</i>
+
+53
+00:04:20,677 --> 00:04:23,262
+A pleasure it is to hear your voice,
+Your Highness.
+
+54
+00:04:23,346 --> 00:04:25,889
+Master Yoda of the Jedi Council this is.
+
+55
+00:04:26,057 --> 00:04:30,769
+Master Jedi, I thought perhaps
+Count Dooku had frightened you off.
+
+56
+00:04:31,229 --> 00:04:35,190
+<i>Delayed have I been,</i>
+<i>but not too far away am I now.</i>
+
+57
+00:04:35,233 --> 00:04:39,444
+<i>Unaware I was</i>
+<i>Count Dooku was invited to our meeting.</i>
+
+58
+00:04:39,529 --> 00:04:41,863
+The Count invited himself.
+
+59
+00:04:41,906 --> 00:04:44,199
+He assures me that, in this time of war,
+
+60
+00:04:44,284 --> 00:04:47,786
+his droids can offer my world
+greater security than your Jedi.
+
+61
+00:04:47,954 --> 00:04:51,081
+<i>Hmm. A matter of debate that is.</i>
+
+62
+00:04:51,207 --> 00:04:54,793
+Your Majesty might prefer
+more than words.
+
+63
+00:04:54,877 --> 00:04:56,420
+What do you have in mind?
+
+64
+00:04:56,546 --> 00:05:00,924
+lf Yoda is indeed
+the Jedi warrior you believe he is,
+
+65
+00:05:01,050 --> 00:05:02,718
+let him prove it.
+
+66
+00:05:02,760 --> 00:05:05,887
+Allow me to send my best troops
+to capture him.
+
+67
+00:05:05,930 --> 00:05:09,433
+lf he escapes, join the Republic.
+
+68
+00:05:09,559 --> 00:05:14,896
+But should my droids defeat Yoda,
+consider an alliance with the Separatists.
+
+69
+00:05:15,398 --> 00:05:18,942
+I did not request Yoda's presence here
+to test him in battle.
+
+70
+00:05:19,068 --> 00:05:23,905
+<i>Accept the challenge I do, Your Highness.</i>
+<i>Arrive by nightfall I will.</i>
+
+71
+00:05:25,575 --> 00:05:28,910
+Master Yoda must be given a fair fight.
+
+72
+00:05:29,245 --> 00:05:33,248
+My dear King Katuunko,
+I would have it no other way.
+
+73
+00:05:42,342 --> 00:05:47,637
+Beautiful this moon is, hmm?
+Amazing the universe is.
+
+74
+00:05:55,772 --> 00:05:59,816
+There's gotta be a full battalion in there.
+Probably packing armor, too.
+
+75
+00:05:59,942 --> 00:06:00,942
+<font color="#DF01D7">(GUN CHARGING)</font>
+
+76
+00:06:01,652 --> 00:06:02,986
+We'll have something for them.
+
+77
+00:06:06,949 --> 00:06:08,950
+l am deploying my forces, Master.
+
+78
+00:06:09,369 --> 00:06:14,873
+<i>Yoda has made a grave mistake</i>
+<i>straying this far from Coruscant.</i>
+
+79
+00:06:14,957 --> 00:06:18,960
+l will see the Jedi gets his "fair fight."
+
+80
+00:06:19,462 --> 00:06:23,632
+Carry only what you need.
+Too much weight, slow you down it will.
+
+81
+00:06:24,509 --> 00:06:27,135
+Destroy Ventress your weapons will not.
+
+82
+00:06:27,220 --> 00:06:30,013
+Come, come, Lieutenant. Hurry we must.
+
+83
+00:06:30,640 --> 00:06:33,183
+Sir, the rendezvous point is that way.
+
+84
+00:06:33,976 --> 00:06:36,144
+As is our enemy.
+
+85
+00:06:36,229 --> 00:06:39,856
+To reach our goal,
+a straight path we will not follow.
+
+86
+00:06:40,483 --> 00:06:42,150
+Let's move it, boys!
+
+87
+00:06:44,028 --> 00:06:45,529
+Find Master Yoda.
+
+88
+00:06:45,822 --> 00:06:48,407
+Uh... What does he look like?
+
+89
+00:06:48,491 --> 00:06:51,243
+He'll be the small, shriveled green one
+
+90
+00:06:51,661 --> 00:06:53,995
+with the lightsaber!
+
+91
+00:06:54,038 --> 00:06:58,500
+Small, huh? Don't worry, Supreme Leader,
+we'll take care of him.
+
+92
+00:07:13,891 --> 00:07:17,436
+I think I see them.
+They're hiding deep in the trees.
+
+93
+00:07:17,520 --> 00:07:19,396
+Fire on Sector 11!
+
+94
+00:07:28,030 --> 00:07:31,783
+At ease be, my friends.
+Within range we are not.
+
+95
+00:07:36,289 --> 00:07:38,748
+Uh... Hold it. Hold it.
+
+96
+00:07:40,084 --> 00:07:45,046
+I said hold it! Wait!
+That's far enough! I mean it!
+
+97
+00:07:45,131 --> 00:07:48,216
+Stop! I said stop!
+
+98
+00:07:49,802 --> 00:07:53,805
+-We're too big to fit in there.
+-No, we're not. Watch this.
+
+99
+00:07:58,561 --> 00:08:01,396
+-You were right.
+-Next time, listen to orders!
+
+100
+00:08:03,232 --> 00:08:05,275
+Those tanks are too big to follow.
+
+101
+00:08:05,401 --> 00:08:09,613
+See? See? Size is not everything, hmm?
+
+102
+00:08:09,906 --> 00:08:13,366
+Smaller in number are we,
+but larger in mind.
+
+103
+00:08:13,409 --> 00:08:14,451
+<font color="#DF01D7">(LAUGHING)</font>
+
+104
+00:08:14,577 --> 00:08:17,704
+<font color="#404040">CLONE 1:</font> Do you have any idea
+what the General is talking about?
+
+105
+00:08:17,747 --> 00:08:21,082
+<font color="#404040">CLONE 2:</font> How should I know?
+There's no figuring a Jedi Master.
+
+106
+00:08:22,084 --> 00:08:24,294
+<font color="#404040">DROID COMMANDER:</font> Infantry, advance!
+
+107
+00:08:25,421 --> 00:08:27,380
+Go get them, boys!
+
+108
+00:08:32,303 --> 00:08:34,930
+Sir, there are two patrols
+coming in on foot.
+
+109
+00:08:34,972 --> 00:08:37,307
+Now is the time
+to face the enemy, Lieutenant.
+
+110
+00:08:37,433 --> 00:08:38,767
+Ambush them we will.
+
+111
+00:08:41,896 --> 00:08:45,565
+<font color="#404040">CLONE 1:</font> We'll flank them from the south.
+<font color="#404040">CLONE 2:</font> Right. Let's move!
+
+112
+00:08:56,327 --> 00:08:57,452
+<font color="#DF01D7">(LASER FIRES)</font>
+
+113
+00:08:57,495 --> 00:08:59,412
+What was that?
+
+114
+00:08:59,455 --> 00:09:00,956
+Blast him!
+
+115
+00:09:04,252 --> 00:09:06,795
+Look! A little green life form!
+
+116
+00:09:06,837 --> 00:09:10,090
+You buckethead! That's the Jedi!
+
+117
+00:09:10,132 --> 00:09:12,801
+He is a little one! Blast him!
+
+118
+00:09:16,639 --> 00:09:19,015
+Split up by squad and spread out!
+
+119
+00:09:19,141 --> 00:09:21,142
+<font color="#404040">DROID 1:</font> Roger, roger.
+<font color="#404040">DROID 2:</font> Roger, roger.
+
+120
+00:09:26,941 --> 00:09:30,151
+Okay, clankers, suck laser!
+
+121
+00:09:39,620 --> 00:09:42,706
+<font color="#404040">CLONE 1:</font> Where's the General?
+<font color="#404040">CLONE 2:</font> I don't know. We got separated.
+
+122
+00:09:43,332 --> 00:09:44,833
+Clankers!
+
+123
+00:09:46,502 --> 00:09:48,837
+<font color="#404040">CLONE:</font> Fall back!
+There are too many of them!
+
+124
+00:09:59,724 --> 00:10:01,975
+He's around here somewhere.
+
+125
+00:10:03,144 --> 00:10:04,519
+Hey! Get off of me!
+
+126
+00:10:04,645 --> 00:10:05,687
+<font color="#DF01D7">(YODA LAUGHING)</font>
+
+127
+00:10:06,022 --> 00:10:07,689
+Don't move.
+
+128
+00:10:17,700 --> 00:10:20,535
+<i>The Jedi destroyed our advance troops.</i>
+
+129
+00:10:20,661 --> 00:10:25,206
+Ha! Master Yoda
+is living up to my expectations.
+
+130
+00:10:25,249 --> 00:10:29,419
+Commander,
+have you pinpointed the Jedi's location?
+
+131
+00:10:29,545 --> 00:10:32,172
+<i>Affirmative.</i>
+<i>The clones gave away their position.</i>
+
+132
+00:10:32,214 --> 00:10:35,592
+<i>Our heavy troops are moving</i>
+<i>to engage them now.</i>
+
+133
+00:10:38,012 --> 00:10:40,889
+<font color="#DF01D7">(EXPLOSIONS)</font>
+
+134
+00:10:40,931 --> 00:10:43,433
+<font color="#404040">CLONE 1:</font> I hope the General reaches
+the rendezvous point.
+
+135
+00:10:43,559 --> 00:10:45,769
+<font color="#404040">CLONE 2:</font> We're sure buying him time.
+
+136
+00:10:53,402 --> 00:10:55,195
+<font color="#DF01D7">(CLONE GROANS)</font>
+
+137
+00:10:58,574 --> 00:11:01,242
+-Lieutenant, can you walk?
+-I think I'm okay.
+
+138
+00:11:02,036 --> 00:11:03,912
+<font color="#404040">DROID:</font> Die, Republic dogs.
+
+139
+00:11:17,593 --> 00:11:19,427
+What are we gonna do, sir?
+
+140
+00:11:19,470 --> 00:11:20,553
+Hmm.
+
+141
+00:11:26,936 --> 00:11:29,270
+-What's the General doing?
+-Keep blasting!
+
+142
+00:11:34,610 --> 00:11:36,236
+<font color="#404040">DROID:</font> Hey, what's going on?
+
+143
+00:11:42,576 --> 00:11:46,413
+Get out of the way! All of you!
+I'm having a serious malfunction.
+
+144
+00:11:47,790 --> 00:11:49,332
+Don't shoot!
+
+145
+00:11:50,418 --> 00:11:52,794
+I’m on your side!
+
+146
+00:11:57,299 --> 00:11:58,842
+You found us just in time, sir.
+
+147
+00:11:58,968 --> 00:12:01,177
+Left behind no one will be.
+
+148
+00:12:01,303 --> 00:12:03,138
+<font color="#DF01D7">(RATTLING)</font>
+
+149
+00:12:05,474 --> 00:12:07,267
+Rollies, inbound!
+
+150
+00:12:12,982 --> 00:12:15,150
+Retreat! Cover you I will.
+
+151
+00:12:24,160 --> 00:12:28,371
+<i>Republic troops are injured.</i>
+<i>The Jedi is in full retreat, Supreme Leader.</i>
+
+152
+00:12:28,706 --> 00:12:31,458
+Good. Pursue them without delay.
+
+153
+00:12:32,209 --> 00:12:34,544
+The contest is not over yet.
+
+154
+00:12:36,505 --> 00:12:40,884
+Master Yoda! I hear you're having trouble
+with the Droid Army.
+
+155
+00:12:41,010 --> 00:12:43,470
+<i>Trouble? I know nothing of this trouble.</i>
+
+156
+00:12:43,554 --> 00:12:46,014
+<i>Look forward to our meeting soon I do.</i>
+
+157
+00:12:47,683 --> 00:12:50,810
+The Jedi won't elude me for long.
+
+158
+00:13:01,572 --> 00:13:04,699
+Are you sure we should go in there,
+General? There's no way out.
+
+159
+00:13:05,201 --> 00:13:07,410
+Now rest we must.
+
+160
+00:13:32,394 --> 00:13:34,395
+<font color="#404040">CLONE 1:</font> We're low on ammo, sir.
+
+161
+00:13:34,522 --> 00:13:37,398
+Only two grenades,
+and one rocket for the launcher.
+
+162
+00:13:37,858 --> 00:13:41,277
+<font color="#404040">CLONE 2:</font> Against a battalion?
+Forget it. We've lost.
+
+163
+00:13:41,403 --> 00:13:44,030
+So certain of defeat are you?
+
+164
+00:13:47,034 --> 00:13:49,577
+With respect, General,
+maybe you should go on.
+
+165
+00:13:49,703 --> 00:13:51,079
+Let us slow them down.
+
+166
+00:13:53,207 --> 00:13:57,085
+All around us
+is that which we need to prevail. Yes.
+
+167
+00:14:00,923 --> 00:14:05,927
+Come. Sit. Your helmets, remove them.
+Your faces I wish to see.
+
+168
+00:14:08,639 --> 00:14:12,475
+There's not much to look at here, sir.
+We all share the same face.
+
+169
+00:14:12,601 --> 00:14:14,602
+Deceive you eyes can.
+
+170
+00:14:14,645 --> 00:14:17,730
+In the Force,
+very different each one of you are.
+
+171
+00:14:19,316 --> 00:14:22,569
+Rys, always focused on the enemy are you.
+
+172
+00:14:23,946 --> 00:14:27,949
+For inspiration,
+look to yourself and those beside you.
+
+173
+00:14:30,411 --> 00:14:35,999
+Jjeck, concerned about weapons you are.
+Weapons do not win battles.
+
+174
+00:14:36,125 --> 00:14:41,462
+Your mind, powerful it is.
+Outthink the droids you can.
+
+175
+00:14:43,424 --> 00:14:47,802
+Thire, rush not into fights. Long is the war.
+
+176
+00:14:47,887 --> 00:14:52,390
+Only by surviving it will you prevail. Yes.
+
+177
+00:14:54,852 --> 00:15:00,231
+Clones you may be,
+but the Force resides in all life forms.
+
+178
+00:15:00,316 --> 00:15:03,151
+Use it you can to quiet your mind.
+
+179
+00:15:03,569 --> 00:15:06,905
+<font color="#DF01D7">(RUMBLING)</font>
+
+180
+00:15:14,246 --> 00:15:16,831
+Tanks. Is that the best
+they can throw at us?
+
+181
+00:15:16,916 --> 00:15:20,001
+Yeah, but I've only got one shot left.
+
+182
+00:15:20,085 --> 00:15:21,377
+Greet them I will.
+
+183
+00:15:21,503 --> 00:15:25,006
+General, you don't plan to take
+that whole column by yourself?
+
+184
+00:15:25,841 --> 00:15:26,883
+<font color="#DF01D7">(LAUGHS)</font>
+
+185
+00:15:27,009 --> 00:15:30,011
+Have you three I do.
+Outnumbered are they.
+
+186
+00:15:31,847 --> 00:15:34,515
+Know the time to help me you will.
+
+187
+00:15:48,030 --> 00:15:50,698
+It's the Jedi! Block his escape!
+
+188
+00:15:51,533 --> 00:15:53,076
+Prepare to fire!
+
+189
+00:15:58,749 --> 00:16:01,292
+<i>Supreme Leader, we've found the Jedi.</i>
+
+190
+00:16:01,377 --> 00:16:06,381
+-Excellent. Where is he?
+<i>-He's just sitting here in front of our tanks.</i>
+
+191
+00:16:06,423 --> 00:16:09,050
+Shoot him! Shoot him now!
+
+192
+00:16:09,718 --> 00:16:12,637
+Quickly! Ready, aim, fire!
+
+193
+00:16:13,430 --> 00:16:14,764
+Fire!
+
+194
+00:16:23,440 --> 00:16:25,650
+<font color="#404040">DROID COMMANDER:</font>
+He's going under the tank!
+
+195
+00:16:32,783 --> 00:16:34,325
+Oh, no!
+
+196
+00:16:34,410 --> 00:16:37,578
+Run for it!
+
+197
+00:16:39,081 --> 00:16:42,917
+But I just got promoted!
+
+198
+00:16:47,589 --> 00:16:50,466
+<font color="#404040">CLONE:</font> It doesn't look like
+the General needs help to me.
+
+199
+00:16:56,181 --> 00:16:57,432
+<font color="#DF01D7">(BEEPING)</font>
+
+200
+00:16:57,474 --> 00:16:59,142
+We've got him in our sights!
+
+201
+00:17:06,984 --> 00:17:08,359
+<font color="#DF01D7">(DROID SCREAMING)</font>
+
+202
+00:17:10,821 --> 00:17:12,447
+<font color="#DF01D7">(LAUGHING)</font>
+
+203
+00:17:12,531 --> 00:17:15,450
+That's a lot of smoke for a surrender.
+
+204
+00:17:16,201 --> 00:17:20,997
+Report. What's going on over there?
+224, come in!
+
+205
+00:17:22,207 --> 00:17:24,167
+Where is 224?
+
+206
+00:17:24,293 --> 00:17:27,837
+<i>Destroyed, Supreme Leader.</i>
+<i>The Jedi has overrun our position and...</i>
+
+207
+00:17:27,963 --> 00:17:28,963
+<i><font color="#DF01D7">(SCREAMS)</font></i>
+
+208
+00:17:30,132 --> 00:17:35,136
+l think perhaps all those stories
+about the Jedi are true.
+
+209
+00:17:35,179 --> 00:17:38,306
+The fight isn't over yet, Majesty.
+
+210
+00:17:39,975 --> 00:17:40,975
+<font color="#DF01D7">(BEEPS)</font>
+
+211
+00:17:49,735 --> 00:17:51,527
+<font color="#404040">CLONE:</font> The General's cutting them up.
+
+212
+00:17:51,653 --> 00:17:52,695
+<font color="#DF01D7">(ALL LAUGHING)</font>
+
+213
+00:17:52,821 --> 00:17:55,990
+We got trouble.
+The clankers sent reinforcements.
+
+214
+00:17:58,035 --> 00:18:01,245
+The General's too busy with that tank.
+He won't see them coming.
+
+215
+00:18:01,330 --> 00:18:03,664
+I think I know how to deal with them.
+
+216
+00:18:28,565 --> 00:18:29,690
+-Yeah!
+-Yeah!
+
+217
+00:18:29,733 --> 00:18:32,944
+-Great shot, sir!
+-That's giving it to the clankers!
+
+218
+00:18:39,952 --> 00:18:41,035
+<font color="#404040">YODA:</font> Hmm.
+
+219
+00:18:41,203 --> 00:18:44,372
+Learned something today,
+have you, Lieutenant, hmm?
+
+220
+00:18:44,414 --> 00:18:46,874
+l think we all did, General.
+
+221
+00:18:51,255 --> 00:18:54,924
+Come, behind schedule are we.
+Not polite to be late.
+
+222
+00:19:04,726 --> 00:19:10,314
+You were right, Count Dooku.
+One Jedi is not worth 100 battle droids.
+
+223
+00:19:10,399 --> 00:19:12,900
+More like 1,000!
+
+224
+00:19:12,943 --> 00:19:16,112
+I’m sorry,
+but I will be joining the Republic.
+
+225
+00:19:16,238 --> 00:19:19,574
+<i>I urge you to reconsider, wise king.</i>
+
+226
+00:19:19,658 --> 00:19:21,659
+<i>I promise you won't regret it.</i>
+
+227
+00:19:21,743 --> 00:19:25,496
+Your agent also promised me
+Yoda would get a fair fight.
+
+228
+00:19:25,581 --> 00:19:28,332
+I will not deal with those
+who break their words.
+
+229
+00:19:29,293 --> 00:19:30,751
+<i>So be it.</i>
+
+230
+00:19:30,836 --> 00:19:35,089
+<i>Perhaps our negotiations</i>
+<i>will more fruitful with your successor.</i>
+
+231
+00:19:35,174 --> 00:19:37,258
+<i>Ventress! Kill him!</i>
+
+232
+00:19:48,812 --> 00:19:51,022
+<font color="#DF01D7">(VENTRESS GRUNTING)</font>
+
+233
+00:19:54,526 --> 00:19:59,780
+Jedi Master Yoda.
+I am very pleased to meet you at last.
+
+234
+00:20:00,324 --> 00:20:03,534
+Share the feeling I do, King Katuunko.
+
+235
+00:20:06,788 --> 00:20:09,290
+Failed you Ventress has, Count.
+
+236
+00:20:10,125 --> 00:20:12,710
+I don't fear you, Jedi.
+
+237
+00:20:13,045 --> 00:20:15,838
+Strong you are with the dark side,
+young one,
+
+238
+00:20:15,964 --> 00:20:17,215
+but not that strong.
+
+239
+00:20:20,802 --> 00:20:23,304
+Still much to learn you have.
+
+240
+00:20:25,974 --> 00:20:28,142
+Surrender you should.
+
+241
+00:20:31,230 --> 00:20:33,522
+<font color="#DF01D7">(EXPLOSION)</font>
+
+242
+00:20:47,996 --> 00:20:49,038
+Hmm.
+
+243
+00:20:49,164 --> 00:20:52,875
+In the end, cowards are those
+who follow the dark side.
+
+244
+00:20:53,335 --> 00:20:56,796
+<i>It’s a pity I wasn't there in person,</i>
+<i>my old master.</i>
+
+245
+00:20:57,130 --> 00:21:00,466
+A pity indeed, my fallen apprentice.
+
+246
+00:21:02,302 --> 00:21:05,805
+Perhaps now begin negotiations we can.
+
+247
+00:21:05,889 --> 00:21:10,226
+That is not necessary, my friend.
+You have my faith.
+
+248
+00:21:10,560 --> 00:21:13,938
+Toydaria would be honored
+to host a Republic base.
+
+249
+00:21:14,022 --> 00:21:17,233
+My people are at your service.
+
+250
+00:21:18,110 --> 00:21:21,362
+Your Majesty, fail you we will not.
+
+251
+00:21:21,446 --> 00:21:22,488
+<font color="#DF01D7">(RUMBLING)</font>
+

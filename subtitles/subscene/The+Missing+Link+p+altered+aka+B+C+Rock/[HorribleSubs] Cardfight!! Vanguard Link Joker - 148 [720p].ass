@@ -1,0 +1,334 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.57,0:00:04.27,Main Dialog,Spoken,0000,0000,0000,,This may seem sudden, but your world...
+Dialogue: 0,0:00:05.35,0:00:07.31,Main Dialog,Spoken,0000,0000,0000,,...is going to be destroyed.
+Dialogue: 0,0:00:07.31,0:00:10.07,Main Dialog,Spoken,0000,0000,0000,,This is unavoidable.
+Dialogue: 0,0:00:10.07,0:00:13.82,Main Dialog,Spoken,0000,0000,0000,,The world will be dominated by Link Joker.
+Dialogue: 0,0:00:14.25,0:00:21.41,Main Dialog,Spoken,0000,0000,0000,,I hope you all spend the scant remainder \Nof your peaceful days in despair.
+Dialogue: 0,0:00:22.04,0:00:29.25,Main Dialog,Spoken,0000,0000,0000,,For a world ruled by Link Joker, \Ndespair is a perfect fit.
+Dialogue: 0,0:00:32.72,0:00:34.57,Main Dialog,Spoken,0000,0000,0000,,Takuto Tatsunagi...
+Dialogue: 0,0:00:34.57,0:00:36.70,Main Dialog,Spoken,0000,0000,0000,,I didn't know he was so evil!
+Dialogue: 0,0:00:36.70,0:00:40.18,Main Dialog,Spoken,0000,0000,0000,,We should've shut 'im down last time we met.
+Dialogue: 0,0:00:40.85,0:00:44.50,Main Dialog,Spoken,0000,0000,0000,,The Earth invaded by Link Joker...
+Dialogue: 0,0:00:44.50,0:00:48.69,Main Dialog,Spoken,0000,0000,0000,,And the majority of Cardfighters \Nhave turned into the enemy.
+Dialogue: 0,0:00:48.69,0:00:51.40,Main Dialog,Spoken,0000,0000,0000,,This is serious trouble.
+Dialogue: 0,0:00:52.24,0:00:56.95,Main Dialog,Spoken,0000,0000,0000,,I've sensed that something was wrong \Nfor a while now, and this must be it.
+Dialogue: 0,0:00:56.95,0:01:01.30,Main Dialog,Spoken,0000,0000,0000,,Kai... {\i1}chose{\i0} to be Reversed...
+Dialogue: 0,0:01:07.27,0:01:08.46,Main Dialog,Spoken,0000,0000,0000,,Leon!
+Dialogue: 0,0:01:08.92,0:01:10.72,Main Dialog,Spoken,0000,0000,0000,,Aichi Sendou...
+Dialogue: 0,0:01:10.72,0:01:12.96,Main Dialog,Spoken,0000,0000,0000,,I'm going off to beat Toshiki Kai!
+Dialogue: 0,0:02:47.19,0:02:50.12,Main Dialog,Spoken,0000,0000,0000,,I saw Takuto Tatsunagi's message.
+Dialogue: 0,0:02:50.12,0:02:53.21,Main Dialog,Spoken,0000,0000,0000,,Earth is in imminent danger.
+Dialogue: 0,0:02:53.21,0:02:55.48,Main Dialog,Spoken,0000,0000,0000,,There's only a little time left.
+Dialogue: 0,0:02:55.48,0:03:00.24,Main Dialog,Spoken,0000,0000,0000,,I understand the logic, but what can we do?
+Dialogue: 0,0:03:00.24,0:03:06.87,Main Dialog,Spoken,0000,0000,0000,,The only way to cure someone who's been \NReversed is through a Vanguard fight!
+Dialogue: 0,0:03:07.30,0:03:08.86,Main Dialog,Spoken,0000,0000,0000,,A Vanguard fight...
+Dialogue: 0,0:03:10.33,0:03:16.38,Main Dialog,Spoken,0000,0000,0000,,If you beat a Reversed person in a \NVanguard fight, they'll return to normal.
+Dialogue: 0,0:03:16.38,0:03:19.40,Main Dialog,Spoken,0000,0000,0000,,In other words, we must defeat Kai...
+Dialogue: 0,0:03:19.40,0:03:21.66,Main Dialog,Spoken,0000,0000,0000,,Let's go, Aichi Sendou.
+Dialogue: 0,0:03:22.73,0:03:24.01,Main Dialog,Spoken,0000,0000,0000,,...Right.
+Dialogue: 0,0:03:29.15,0:03:31.91,Main Dialog,Spoken,0000,0000,0000,,But before that, Aichi Sendou...
+Dialogue: 0,0:03:31.91,0:03:33.27,Main Dialog,Spoken,0000,0000,0000,,...you must fight me.
+Dialogue: 0,0:03:34.66,0:03:36.77,Main Dialog,Spoken,0000,0000,0000,,This is no time for that...
+Dialogue: 0,0:03:37.36,0:03:38.53,Main Dialog,Spoken,0000,0000,0000,,Fight.
+Dialogue: 0,0:03:39.92,0:03:42.42,Main Dialog,Spoken,0000,0000,0000,,If you say so, Leon...
+Dialogue: 0,0:03:44.60,0:03:46.90,Main Dialog,Spoken,0000,0000,0000,,Stand up, my Vanguard!
+Dialogue: 0,0:03:44.60,0:03:46.90,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:03:48.24,0:03:53.25,Signs,Sign,0000,0000,0000,,Each One's Determination
+Dialogue: 0,0:03:53.92,0:03:56.22,Main Dialog,Spoken,0000,0000,0000,,I ride Future Liberator, Llew!
+Dialogue: 0,0:03:58.48,0:03:59.38,Main Dialog,Spoken,0000,0000,0000,,Draw.
+Dialogue: 0,0:03:59.89,0:04:02.57,Main Dialog,Spoken,0000,0000,0000,,I ride Mercenary Brave Shooter!
+Dialogue: 0,0:04:03.64,0:04:04.39,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:04:06.83,0:04:10.35,Main Dialog,Spoken,0000,0000,0000,,I ride Blaster Blade Liberator!
+Dialogue: 0,0:04:18.90,0:04:20.07,Main Dialog,Spoken,0000,0000,0000,,I was right...
+Dialogue: 0,0:04:20.75,0:04:22.32,Main Dialog,Spoken,0000,0000,0000,,Leon?
+Dialogue: 0,0:04:23.29,0:04:29.70,Main Dialog,Spoken,0000,0000,0000,,Sendou... It seems you don't realize \Nit, but your heart is locked.
+Dialogue: 0,0:04:30.61,0:04:32.71,Main Dialog,Spoken,0000,0000,0000,,My heart is locked?
+Dialogue: 0,0:04:33.18,0:04:38.09,Main Dialog,Spoken,0000,0000,0000,,The usual hot wind didn't \Nrise from Blaster Blade.
+Dialogue: 0,0:04:38.82,0:04:42.17,Main Dialog,Spoken,0000,0000,0000,,You're troubled by the \Nthought of fighting Kai.
+Dialogue: 0,0:04:42.17,0:04:44.22,Main Dialog,Spoken,0000,0000,0000,,Your heart is locked!
+Dialogue: 0,0:04:44.86,0:04:48.72,Main Dialog,Spoken,0000,0000,0000,,Until you unlock it, \Nvictory will not be yours!
+Dialogue: 0,0:04:51.64,0:04:52.71,Main Dialog,Spoken,0000,0000,0000,,Troubled?
+Dialogue: 0,0:04:53.91,0:04:55.02,Main Dialog,Spoken,0000,0000,0000,,Me?
+Dialogue: 0,0:04:56.70,0:05:01.00,Main Dialog,Spoken,0000,0000,0000,,There's no value in fighting \Nbeside you right now.
+Dialogue: 0,0:05:05.74,0:05:07.12,Main Dialog,Spoken,0000,0000,0000,,Leon Souryu!
+Dialogue: 0,0:05:07.12,0:05:08.44,Main Dialog,Spoken,0000,0000,0000,,Ishida?
+Dialogue: 0,0:05:08.44,0:05:11.40,Main Dialog,Spoken,0000,0000,0000,,What do you intend to do?! Ishida!
+Dialogue: 0,0:05:18.21,0:05:22.81,Main Dialog,Spoken,0000,0000,0000,,Do I not want to fight Kai?
+Dialogue: 0,0:05:22.81,0:05:28.04,Main Dialog,Spoken,0000,0000,0000,,Even under these circumstances, when beating \NKai is the only way to save the world?
+Dialogue: 0,0:05:29.84,0:05:32.90,Main Dialog,Spoken,0000,0000,0000,,You made him do it, Aichi.
+Dialogue: 0,0:05:34.60,0:05:38.15,Main Dialog,Spoken,0000,0000,0000,,Kai wishes to fight me?
+Dialogue: 0,0:05:39.04,0:05:41.71,Main Dialog,Spoken,0000,0000,0000,,You can't avoid that fight.
+Dialogue: 0,0:05:43.53,0:05:46.61,Main Dialog,Spoken,0000,0000,0000,,It should be a good one... right, Aichi?
+Dialogue: 0,0:05:47.46,0:05:50.53,Main Dialog,Spoken,0000,0000,0000,,I started playing Vanguard \Nafter Kai led me to it.
+Dialogue: 0,0:05:51.82,0:05:56.00,Main Dialog,Spoken,0000,0000,0000,,For the longest time, my \Ngoal was to catch up to him.
+Dialogue: 0,0:05:57.69,0:06:01.17,Main Dialog,Spoken,0000,0000,0000,,And the one who drove him to this was... me?
+Dialogue: 0,0:06:02.74,0:06:05.38,Main Dialog,Spoken,0000,0000,0000,,That was never my intention...
+Dialogue: 0,0:06:12.86,0:06:18.82,Main Dialog,Spoken,0000,0000,0000,,Kai never relied on anyone else, just stuck to \Ngetting stronger on his own. And now he's...
+Dialogue: 0,0:06:23.71,0:06:25.89,Main Dialog,Spoken,0000,0000,0000,,Wait, Leon Souryu!
+Dialogue: 0,0:06:26.84,0:06:29.24,Main Dialog,Spoken,0000,0000,0000,,Sendou's teammates...
+Dialogue: 0,0:06:29.98,0:06:31.29,Main Dialog,Spoken,0000,0000,0000,,I'm Naoki Ishida.
+Dialogue: 0,0:06:31.29,0:06:33.65,Main Dialog,Spoken,0000,0000,0000,,Ishida, you delinquent, don't do this...
+Dialogue: 0,0:06:33.65,0:06:35.99,Main Dialog,Spoken,0000,0000,0000,,What are you talkin' about, Granny Glasses?
+Dialogue: 0,0:06:36.73,0:06:38.12,Main Dialog,Spoken,0000,0000,0000,,What do you want?
+Dialogue: 0,0:06:38.46,0:06:41.78,Main Dialog,Spoken,0000,0000,0000,,O-Oh, yeah. You might be right.
+Dialogue: 0,0:06:41.78,0:06:44.46,Main Dialog,Spoken,0000,0000,0000,,But you didn't have to \Ntalk to Aichi like that!
+Dialogue: 0,0:06:44.90,0:06:46.71,Main Dialog,Spoken,0000,0000,0000,,They're not going to wait.
+Dialogue: 0,0:06:47.28,0:06:50.13,Main Dialog,Spoken,0000,0000,0000,,I know that! That's why...
+Dialogue: 0,0:06:50.13,0:06:51.87,Main Dialog,Spoken,0000,0000,0000,,...I'm goin' with you!
+Dialogue: 0,0:06:51.87,0:06:53.88,Main Dialog,Spoken,0000,0000,0000,,I'll fight in Aichi's place!
+Dialogue: 0,0:06:53.88,0:06:54.47,Main Dialog,Spoken,0000,0000,0000,,Wha...?
+Dialogue: 0,0:06:55.41,0:06:57.98,Main Dialog,Spoken,0000,0000,0000,,You? Out of the question.
+Dialogue: 0,0:06:58.47,0:07:00.31,Main Dialog,Spoken,0000,0000,0000,,I already got Reversed!
+Dialogue: 0,0:07:01.95,0:07:06.59,Main Dialog,Spoken,0000,0000,0000,,The only way to bring a Reversed person \Nback to normal is to beat 'em in a fight.
+Dialogue: 0,0:07:06.59,0:07:09.45,Main Dialog,Spoken,0000,0000,0000,,After hearin' you talk, it all made sense.
+Dialogue: 0,0:07:12.91,0:07:16.74,Main Dialog,Spoken,0000,0000,0000,,I dragged Aichi down that last time...
+Dialogue: 0,0:07:18.19,0:07:21.07,Main Dialog,Spoken,0000,0000,0000,,I don't wanna be a burden anymore.
+Dialogue: 0,0:07:21.82,0:07:26.04,Main Dialog,Spoken,0000,0000,0000,,Especially now that Aichi's miserable, \NI wanna do somethin'!
+Dialogue: 0,0:07:29.48,0:07:32.43,Main Dialog,Spoken,0000,0000,0000,,Show me your skill.
+Dialogue: 0,0:07:32.81,0:07:33.89,Main Dialog,Spoken,0000,0000,0000,,Sure!
+Dialogue: 0,0:07:36.13,0:07:39.08,Main Dialog,Spoken,0000,0000,0000,,Stand up, my Vanguard!
+Dialogue: 0,0:07:36.13,0:07:39.08,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:07:40.74,0:07:42.81,Main Dialog,Spoken,0000,0000,0000,,I ride Dragon Dancer, Agnes!
+Dialogue: 0,0:07:43.71,0:07:46.11,Main Dialog,Spoken,0000,0000,0000,,I ride Accelerated Command!
+Dialogue: 0,0:07:46.62,0:07:48.73,Main Dialog,Spoken,0000,0000,0000,,Vowing Sword Dragon attacks!
+Dialogue: 0,0:07:49.14,0:07:50.94,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check!
+Dialogue: 0,0:07:50.94,0:07:53.59,Main Dialog,Spoken,0000,0000,0000,,I got a critical trigger!
+Dialogue: 0,0:07:56.86,0:07:59.29,Main Dialog,Spoken,0000,0000,0000,,Tetra-drive Dragon's skill is activated!
+Dialogue: 0,0:07:59.73,0:08:02.12,Main Dialog,Spoken,0000,0000,0000,,It receives +6000 power!
+Dialogue: 0,0:08:05.30,0:08:07.25,Main Dialog,Spoken,0000,0000,0000,,Go, Tetra-drive Dragon!
+Dialogue: 0,0:08:12.13,0:08:14.97,Main Dialog,Spoken,0000,0000,0000,,6 to 3. You were spanked.
+Dialogue: 0,0:08:14.97,0:08:16.56,Main Dialog,Spoken,0000,0000,0000,,That's Leon Souryu for you.
+Dialogue: 0,0:08:16.56,0:08:18.97,Main Dialog,Spoken,0000,0000,0000,,A wannabe is no challenge to him.
+Dialogue: 0,0:08:18.97,0:08:20.64,Main Dialog,Spoken,0000,0000,0000,,Darn it! One more time!
+Dialogue: 0,0:08:21.14,0:08:23.12,Main Dialog,Spoken,0000,0000,0000,,I like your spirit...
+Dialogue: 0,0:08:24.03,0:08:25.15,Main Dialog,Spoken,0000,0000,0000,,Bring it on!
+Dialogue: 0,0:08:27.61,0:08:29.40,Main Dialog,Spoken,0000,0000,0000,,Fellow underground fighters,
+Dialogue: 0,0:08:30.27,0:08:32.71,Main Dialog,Spoken,0000,0000,0000,,I take it you saw Takuto Tatsunagi's message.
+Dialogue: 0,0:08:33.52,0:08:37.85,Main Dialog,Spoken,0000,0000,0000,,It's easier on us, since we \Ndon't play in the limelight.
+Dialogue: 0,0:08:38.53,0:08:43.54,Main Dialog,Spoken,0000,0000,0000,,But our love for Cardfights \Nis the same as theirs.
+Dialogue: 0,0:08:44.22,0:08:47.20,Main Dialog,Spoken,0000,0000,0000,,And this is the greatest \Nthreat to Cardfighting ever!
+Dialogue: 0,0:08:47.20,0:08:49.58,Main Dialog,Spoken,0000,0000,0000,,It's time for underground \Nfighters to rise, too.
+Dialogue: 0,0:08:49.58,0:08:51.05,Main Dialog,Spoken,0000,0000,0000,,We're gonna beat 'em!
+Dialogue: 0,0:08:51.05,0:08:52.69,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:08:57.09,0:08:58.04,Main Dialog,Spoken,0000,0000,0000,,Miwa?
+Dialogue: 0,0:08:59.54,0:09:01.93,Main Dialog,Spoken,0000,0000,0000,,I see. You're going to join us.
+Dialogue: 0,0:09:03.22,0:09:07.39,Main Dialog,Spoken,0000,0000,0000,,Jun Mutsuki, I'm not going \Nto let you interfere.
+Dialogue: 0,0:09:08.70,0:09:11.90,Main Dialog,Spoken,0000,0000,0000,,Miwa! Don't tell me you're Reversed...
+Dialogue: 0,0:09:13.98,0:09:16.95,Main Dialog,Spoken,0000,0000,0000,,Who do you think Reversed me?
+Dialogue: 0,0:09:16.95,0:09:19.53,Main Dialog,Spoken,0000,0000,0000,,Somebody strong enough to beat you...
+Dialogue: 0,0:09:19.53,0:09:20.66,Main Dialog,Spoken,0000,0000,0000,,Don't tell me it was Kai?!
+Dialogue: 0,0:09:23.41,0:09:25.91,Main Dialog,Spoken,0000,0000,0000,,A strong fighter like Toshiki Kai...
+Dialogue: 0,0:09:30.21,0:09:33.23,Main Dialog,Spoken,0000,0000,0000,,I don't know how he got Reversed,
+Dialogue: 0,0:09:33.23,0:09:37.91,Main Dialog,Spoken,0000,0000,0000,,but I imagine you tried to stop \Nhim and got Reversed yourself.
+Dialogue: 0,0:09:38.61,0:09:44.04,Main Dialog,Spoken,0000,0000,0000,,Because you're Kai's friend, \Nthe only one he trusts.
+Dialogue: 0,0:09:45.67,0:09:49.57,Main Dialog,Spoken,0000,0000,0000,,But tell me, Miwa! \NWhy are you helping Kai?!
+Dialogue: 0,0:09:49.57,0:09:52.07,Main Dialog,Spoken,0000,0000,0000,,He's obviously mistaken about all this!
+Dialogue: 0,0:09:52.07,0:09:54.65,Main Dialog,Spoken,0000,0000,0000,,I know that...
+Dialogue: 0,0:09:54.65,0:09:55.82,Main Dialog,Spoken,0000,0000,0000,,Then why?!
+Dialogue: 0,0:09:57.29,0:10:00.90,Main Dialog,Spoken,0000,0000,0000,,Because it's Kai. \NHe's always alone...
+Dialogue: 0,0:10:00.90,0:10:04.08,Main Dialog,Spoken,0000,0000,0000,,What's the harm in just \Nstaying by his side?
+Dialogue: 0,0:10:05.63,0:10:07.19,Main Dialog,Spoken,0000,0000,0000,,I see.
+Dialogue: 0,0:10:07.19,0:10:10.84,Main Dialog,Spoken,0000,0000,0000,,Kai and I are neither friends nor rivals...
+Dialogue: 0,0:10:10.84,0:10:13.46,Main Dialog,Spoken,0000,0000,0000,,We just pit our skills against each other.
+Dialogue: 0,0:10:14.52,0:10:17.22,Main Dialog,Spoken,0000,0000,0000,,Kai chose solitude in order to become strong.
+Dialogue: 0,0:10:17.22,0:10:19.33,Main Dialog,Spoken,0000,0000,0000,,He doesn't try to get close to anyone...
+Dialogue: 0,0:10:20.20,0:10:23.10,Main Dialog,Spoken,0000,0000,0000,,But you're different from me.
+Dialogue: 0,0:10:23.10,0:10:25.35,Main Dialog,Spoken,0000,0000,0000,,If you're a true friend,
+Dialogue: 0,0:10:25.35,0:10:31.16,Main Dialog,Spoken,0000,0000,0000,,you should be able to stop him from \Ngoing down the wrong path somehow.
+Dialogue: 0,0:10:32.40,0:10:35.10,Main Dialog,Spoken,0000,0000,0000,,I have one answer...
+Dialogue: 0,0:10:35.10,0:10:37.11,Main Dialog,Spoken,0000,0000,0000,,I won't let anyone get in Kai's way.
+Dialogue: 0,0:10:38.78,0:10:43.87,Main Dialog,Spoken,0000,0000,0000,,Fine. I'll start by bringing \Nyou to your senses, Miwa.
+Dialogue: 0,0:10:49.21,0:10:51.12,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:10:54.42,0:10:56.03,Main Dialog,Spoken,0000,0000,0000,,Larva Beast, Zeal!
+Dialogue: 0,0:10:56.85,0:10:58.91,Main Dialog,Spoken,0000,0000,0000,,Lizard Soldier, Conroe.
+Dialogue: 0,0:10:59.63,0:11:00.94,Main Dialog,Spoken,0000,0000,0000,,Kagero...
+Dialogue: 0,0:11:01.95,0:11:03.18,Main Dialog,Spoken,0000,0000,0000,,Kai's deck?
+Dialogue: 0,0:11:04.21,0:11:08.04,Main Dialog,Spoken,0000,0000,0000,,That's right. Being Reversed \Nhas made me even stronger...
+Dialogue: 0,0:11:08.81,0:11:11.58,Main Dialog,Spoken,0000,0000,0000,,And I'm going to use this \Nto Reverse you guys.
+Dialogue: 0,0:11:12.30,0:11:13.98,Main Dialog,Spoken,0000,0000,0000,,Join me...
+Dialogue: 0,0:11:15.38,0:11:16.32,Main Dialog,Spoken,0000,0000,0000,,Jun.
+Dialogue: 0,0:11:30.74,0:11:31.75,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:11:32.54,0:11:34.25,Main Dialog,Spoken,0000,0000,0000,,Eye of Destruction, Zeal!
+Dialogue: 0,0:11:34.90,0:11:37.32,Main Dialog,Spoken,0000,0000,0000,,I ride Dragon Monk, Gojo!
+Dialogue: 0,0:11:38.95,0:11:40.23,Main Dialog,Spoken,0000,0000,0000,,Conroe moves back!
+Dialogue: 0,0:11:43.53,0:11:45.64,Main Dialog,Spoken,0000,0000,0000,,I ride Devourer of Planets, Zeal!
+Dialogue: 0,0:11:49.89,0:11:50.64,Main Dialog,Spoken,0000,0000,0000,,Call.
+Dialogue: 0,0:11:52.73,0:11:53.56,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:12:01.34,0:12:02.40,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:12:04.11,0:12:05.70,Main Dialog,Spoken,0000,0000,0000,,Berserk Dragon!
+Dialogue: 0,0:12:06.65,0:12:08.99,Main Dialog,Spoken,0000,0000,0000,,Berserk's Counterblast!
+Dialogue: 0,0:12:09.90,0:12:11.50,Main Dialog,Spoken,0000,0000,0000,,I retire Vipple!
+Dialogue: 0,0:12:14.62,0:12:17.63,Main Dialog,Spoken,0000,0000,0000,,No grade 3s, but...
+Dialogue: 0,0:12:17.63,0:12:19.00,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:12:19.63,0:12:21.45,Main Dialog,Spoken,0000,0000,0000,,With its skill, I draw one card.
+Dialogue: 0,0:12:24.34,0:12:26.30,Main Dialog,Spoken,0000,0000,0000,,My victory is certain.
+Dialogue: 0,0:12:26.70,0:12:30.06,Main Dialog,Spoken,0000,0000,0000,,A bluff like that doesn't \Nwork on underground fighters.
+Dialogue: 0,0:12:30.48,0:12:33.69,Main Dialog,Spoken,0000,0000,0000,,Conroe retires! Counterblast!
+Dialogue: 0,0:12:33.69,0:12:35.56,Main Dialog,Spoken,0000,0000,0000,,I add this guy to my hand.
+Dialogue: 0,0:12:36.88,0:12:38.90,Main Dialog,Spoken,0000,0000,0000,,And then I call!
+Dialogue: 0,0:12:39.94,0:12:42.82,Main Dialog,Spoken,0000,0000,0000,,Nehalem, Berserk Dragon, attack!
+Dialogue: 0,0:12:52.33,0:12:54.29,Main Dialog,Spoken,0000,0000,0000,,I ride Original Savior, Zero!
+Dialogue: 0,0:12:55.46,0:12:56.73,Main Dialog,Spoken,0000,0000,0000,,And then I call.
+Dialogue: 0,0:13:00.81,0:13:01.67,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:13:07.69,0:13:08.86,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:13:10.24,0:13:13.81,Main Dialog,Spoken,0000,0000,0000,,3 to 4. We've pretty much been dead even.
+Dialogue: 0,0:13:14.37,0:13:19.31,Main Dialog,Spoken,0000,0000,0000,,Did you know that in a fight, the \None with stronger feelings wins?
+Dialogue: 0,0:13:20.19,0:13:22.36,Main Dialog,Spoken,0000,0000,0000,,In that case, I'm going to win.
+Dialogue: 0,0:13:22.36,0:13:25.90,Main Dialog,Spoken,0000,0000,0000,,You're only thinking of Kai, \Nwhile I want to save Kai, you,
+Dialogue: 0,0:13:25.90,0:13:30.20,Main Dialog,Spoken,0000,0000,0000,,the underground fighters, \NCardfighters, and everything.
+Dialogue: 0,0:13:31.39,0:13:34.33,Main Dialog,Spoken,0000,0000,0000,,The important point is the \Ndepth of the feelings.
+Dialogue: 0,0:13:37.40,0:13:39.67,Main Dialog,Spoken,0000,0000,0000,,I'll show you mine.
+Dialogue: 0,0:13:40.64,0:13:44.46,Main Dialog,Spoken,0000,0000,0000,,Squirming black dragon \Nslashing in the darkness,
+Dialogue: 0,0:13:45.06,0:13:48.13,Main Dialog,Spoken,0000,0000,0000,,bestow despair upon him with \Nyour fangs of destruction!
+Dialogue: 0,0:13:50.46,0:13:53.89,Main Dialog,Spoken,0000,0000,0000,,I ride Dauntless Dominate \NDrive Dragon "Reverse"!
+Dialogue: 0,0:14:13.42,0:14:16.91,Main Dialog,Spoken,0000,0000,0000,,This is a Reverse unit...
+Dialogue: 0,0:14:17.53,0:14:20.08,Main Dialog,Spoken,0000,0000,0000,,I call Calamity Tower Wyvern!
+Dialogue: 0,0:14:20.72,0:14:21.70,Main Dialog,Spoken,0000,0000,0000,,Soulblast!
+Dialogue: 0,0:14:23.18,0:14:24.42,Main Dialog,Spoken,0000,0000,0000,,I draw one card!
+Dialogue: 0,0:14:25.05,0:14:26.80,Main Dialog,Spoken,0000,0000,0000,,Dominate Drive Dragon!
+Dialogue: 0,0:14:26.80,0:14:28.13,Main Dialog,Spoken,0000,0000,0000,,Here I go!
+Dialogue: 0,0:14:28.68,0:14:34.10,Main Dialog,Spoken,0000,0000,0000,,Ruler of darkness, use your accursed roar \Nto return everything to nothingness!
+Dialogue: 0,0:14:34.10,0:14:38.18,Main Dialog,Spoken,0000,0000,0000,,Dauntless "Reverse's" Limit Break!
+Dialogue: 0,0:14:38.84,0:14:40.29,Main Dialog,Spoken,0000,0000,0000,,I lock Gojo!
+Dialogue: 0,0:14:42.40,0:14:44.44,Main Dialog,Spoken,0000,0000,0000,,Okay, here I go!
+Dialogue: 0,0:14:46.86,0:14:48.19,Main Dialog,Spoken,0000,0000,0000,,Dominate Drive!
+Dialogue: 0,0:14:48.49,0:14:49.70,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:14:50.26,0:14:52.70,Main Dialog,Spoken,0000,0000,0000,,Dauntless "Reverse" attacks!
+Dialogue: 0,0:14:55.66,0:14:57.43,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check.
+Dialogue: 0,0:14:58.81,0:15:00.29,Main Dialog,Spoken,0000,0000,0000,,Skill activated!
+Dialogue: 0,0:15:00.74,0:15:04.29,Main Dialog,Spoken,0000,0000,0000,,If a grade 1 or higher Kagero \Nis drawn during a drive check,
+Dialogue: 0,0:15:04.65,0:15:07.92,Main Dialog,Spoken,0000,0000,0000,,a grade 1 or lower rear-guard \Nunit can be retired!
+Dialogue: 0,0:15:08.23,0:15:09.89,Main Dialog,Spoken,0000,0000,0000,,Eye of Destruction, Zeal!
+Dialogue: 0,0:15:09.89,0:15:11.95,Main Dialog,Spoken,0000,0000,0000,,And +3000 power!
+Dialogue: 0,0:15:14.82,0:15:16.35,Main Dialog,Spoken,0000,0000,0000,,Second check.
+Dialogue: 0,0:15:17.03,0:15:18.85,Main Dialog,Spoken,0000,0000,0000,,Skill activated one more time.
+Dialogue: 0,0:15:18.85,0:15:21.02,Main Dialog,Spoken,0000,0000,0000,,Gigabolt retires!
+Dialogue: 0,0:15:21.02,0:15:23.00,Main Dialog,Spoken,0000,0000,0000,,On top of that, +3000 power!
+Dialogue: 0,0:15:30.33,0:15:31.78,Main Dialog,Spoken,0000,0000,0000,,Next. Nehalem!
+Dialogue: 0,0:15:32.75,0:15:33.37,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:15:37.34,0:15:38.58,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:15:41.04,0:15:44.43,Main Dialog,Spoken,0000,0000,0000,,It hurts to have had two \Nrear-guard units retired...
+Dialogue: 0,0:15:44.43,0:15:47.27,Main Dialog,Spoken,0000,0000,0000,,But now the real fight begins.
+Dialogue: 0,0:15:47.27,0:15:49.01,Main Dialog,Spoken,0000,0000,0000,,I have this!
+Dialogue: 0,0:15:49.01,0:15:49.84,Main Dialog,Spoken,0000,0000,0000,,Draw.
+Dialogue: 0,0:15:51.69,0:15:56.16,Main Dialog,Spoken,0000,0000,0000,,I have no intention of preaching reason, \Nbut as we're underground fighters here,
+Dialogue: 0,0:15:56.16,0:15:57.60,Main Dialog,Spoken,0000,0000,0000,,there's one thing I'm sure of.
+Dialogue: 0,0:15:58.13,0:16:00.79,Main Dialog,Spoken,0000,0000,0000,,Miwa! You're making a mistake!
+Dialogue: 0,0:16:02.56,0:16:06.67,Main Dialog,Spoken,0000,0000,0000,,Beast of destruction that was born from \Nthe Big Bang, along with the universe!
+Dialogue: 0,0:16:06.67,0:16:09.19,Main Dialog,Spoken,0000,0000,0000,,Show your power of the stars here!
+Dialogue: 0,0:16:09.19,0:16:10.49,Main Dialog,Spoken,0000,0000,0000,,Break ride!
+Dialogue: 0,0:16:11.98,0:16:13.74,Main Dialog,Spoken,0000,0000,0000,,Galactic Beast, Zeal!
+Dialogue: 0,0:16:14.77,0:16:18.16,Main Dialog,Spoken,0000,0000,0000,,Dauntless "Reverse" loses 5000 power!
+Dialogue: 0,0:16:19.04,0:16:23.48,Main Dialog,Spoken,0000,0000,0000,,The greater the gap between power, \Nthe easier it is for an attack to hit.
+Dialogue: 0,0:16:23.48,0:16:25.47,Main Dialog,Spoken,0000,0000,0000,,Your damage is 4.
+Dialogue: 0,0:16:25.47,0:16:27.44,Main Dialog,Spoken,0000,0000,0000,,Admit defeat, Miwa.
+Dialogue: 0,0:16:27.44,0:16:30.01,Main Dialog,Spoken,0000,0000,0000,,Let's go together to bring Kai to his senses!
+Dialogue: 0,0:16:30.01,0:16:33.17,Main Dialog,Spoken,0000,0000,0000,,You're not interfering with Kai or me!
+Dialogue: 0,0:16:34.91,0:16:36.59,Main Dialog,Spoken,0000,0000,0000,,In that case, we'll go 'til I beat you!
+Dialogue: 0,0:16:36.59,0:16:37.67,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:16:38.85,0:16:42.10,Main Dialog,Spoken,0000,0000,0000,,Plus Galactic Beast, Zeal's Limit Break!
+Dialogue: 0,0:16:43.25,0:16:45.65,Main Dialog,Spoken,0000,0000,0000,,Black hole power that swallows all light!
+Dialogue: 0,0:16:46.01,0:16:49.95,Main Dialog,Spoken,0000,0000,0000,,For three of your rear-guard units, \Na total power loss of 3000!
+Dialogue: 0,0:16:56.81,0:16:58.87,Main Dialog,Spoken,0000,0000,0000,,Down 3000 power...
+Dialogue: 0,0:16:58.87,0:17:00.37,Main Dialog,Spoken,0000,0000,0000,,Zero attacks!
+Dialogue: 0,0:17:00.37,0:17:01.44,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:17:07.33,0:17:10.42,Main Dialog,Spoken,0000,0000,0000,,I longed for the relationship you guys had.
+Dialogue: 0,0:17:11.44,0:17:15.49,Main Dialog,Spoken,0000,0000,0000,,So I won't... I won't let \Nit be twisted like this!
+Dialogue: 0,0:17:15.49,0:17:17.82,Main Dialog,Spoken,0000,0000,0000,,Go back to what you two were, Miwa!
+Dialogue: 0,0:17:17.82,0:17:20.39,Main Dialog,Spoken,0000,0000,0000,,Galactic Beast, Zeal attacks!
+Dialogue: 0,0:17:22.94,0:17:24.67,Main Dialog,Spoken,0000,0000,0000,,Perfect guard.
+Dialogue: 0,0:17:26.62,0:17:29.82,Main Dialog,Spoken,0000,0000,0000,,Still, you just used up the \Nlast card in your hand...
+Dialogue: 0,0:17:30.53,0:17:32.78,Main Dialog,Spoken,0000,0000,0000,,You can't guard for my next attack...
+Dialogue: 0,0:17:33.14,0:17:37.30,Main Dialog,Spoken,0000,0000,0000,,In other words, if I draw a \Ncritical trigger here, I win!
+Dialogue: 0,0:17:38.77,0:17:40.03,Main Dialog,Spoken,0000,0000,0000,,Can you draw one?
+Dialogue: 0,0:17:41.54,0:17:43.04,Main Dialog,Spoken,0000,0000,0000,,I'll show you!
+Dialogue: 0,0:17:43.74,0:17:46.54,Main Dialog,Spoken,0000,0000,0000,,I'm going to bring you and Kai back!
+Dialogue: 0,0:17:47.92,0:17:49.83,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check!
+Dialogue: 0,0:17:51.03,0:17:52.07,Main Dialog,Spoken,0000,0000,0000,,Still one more!
+Dialogue: 0,0:17:53.00,0:17:53.80,Main Dialog,Spoken,0000,0000,0000,,Second check!
+Dialogue: 0,0:17:58.51,0:18:02.39,Main Dialog,Spoken,0000,0000,0000,,This is the difference between \Nmy feelings and yours.
+Dialogue: 0,0:18:05.08,0:18:06.39,Main Dialog,Spoken,0000,0000,0000,,Vipple attacks!
+Dialogue: 0,0:18:12.55,0:18:15.82,Main Dialog,Spoken,0000,0000,0000,,I'll protect myself and bet \Neverything on the next turn!
+Dialogue: 0,0:18:16.50,0:18:20.11,Main Dialog,Spoken,0000,0000,0000,,Jun, I won't let you even reach Kai.
+Dialogue: 0,0:18:20.91,0:18:22.37,Main Dialog,Spoken,0000,0000,0000,,Final Turn!
+Dialogue: 0,0:18:26.00,0:18:28.08,Main Dialog,Spoken,0000,0000,0000,,Final limit break!
+Dialogue: 0,0:18:30.10,0:18:32.20,Main Dialog,Spoken,0000,0000,0000,,I lock Calamity Tower!
+Dialogue: 0,0:18:32.20,0:18:33.04,Main Dialog,Spoken,0000,0000,0000,,Here I come.
+Dialogue: 0,0:18:35.80,0:18:38.17,Main Dialog,Spoken,0000,0000,0000,,Nehalem! Attack Vipple!
+Dialogue: 0,0:18:41.36,0:18:43.47,Main Dialog,Spoken,0000,0000,0000,,An intercept unit...
+Dialogue: 0,0:18:44.23,0:18:48.23,Main Dialog,Spoken,0000,0000,0000,,Dauntless Dominate Dragon \N"Reverse," final attack!
+Dialogue: 0,0:18:51.05,0:18:52.36,Main Dialog,Spoken,0000,0000,0000,,No guard...
+Dialogue: 0,0:18:53.81,0:18:55.91,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check!
+Dialogue: 0,0:18:57.05,0:18:58.53,Main Dialog,Spoken,0000,0000,0000,,Skill activated!
+Dialogue: 0,0:19:00.28,0:19:01.59,Main Dialog,Spoken,0000,0000,0000,,Second check!
+Dialogue: 0,0:19:03.01,0:19:04.61,Main Dialog,Spoken,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:19:05.74,0:19:10.42,Main Dialog,Spoken,0000,0000,0000,,I give the power to Dominate Drive and \Nthe critical to Dauntless "Reverse"...
+Dialogue: 0,0:19:25.54,0:19:27.26,Main Dialog,Spoken,0000,0000,0000,,I won't give up.
+Dialogue: 0,0:19:27.26,0:19:28.52,Main Dialog,Spoken,0000,0000,0000,,I'll stake everything on this trigger!
+Dialogue: 0,0:19:40.94,0:19:42.36,Main Dialog,Spoken,0000,0000,0000,,Critical trigger...
+Dialogue: 0,0:19:43.68,0:19:45.48,Main Dialog,Spoken,0000,0000,0000,,You lose...
+Dialogue: 0,0:19:55.65,0:19:57.40,Main Dialog,Spoken,0000,0000,0000,,It's over, Kai.
+Dialogue: 0,0:19:57.40,0:20:00.88,Main Dialog,Spoken,0000,0000,0000,,If you wish to fight Aichi,
+Dialogue: 0,0:20:01.44,0:20:04.93,Main Dialog,Spoken,0000,0000,0000,,I'll eliminate anyone that \Nwould get in your way.
+Dialogue: 0,0:20:05.90,0:20:06.40,Main Dialog,Spoken,0000,0000,0000,,Jun!
+Dialogue: 0,0:20:06.50,0:20:07.36,Main Dialog,Spoken,0000,0000,0000,,Jun!
+Dialogue: 0,0:20:08.73,0:20:09.98,Main Dialog,Spoken,0000,0000,0000,,Jun...
+Dialogue: 0,0:20:15.59,0:20:18.30,Main Dialog,Spoken,0000,0000,0000,,Jun, I'll leave these guys to you.
+Dialogue: 0,0:20:19.24,0:20:20.78,Main Dialog,Spoken,0000,0000,0000,,Count on it.
+Dialogue: 0,0:20:30.04,0:20:31.16,Main Dialog,Spoken,0000,0000,0000,,One more time!
+Dialogue: 0,0:20:32.72,0:20:33.87,Main Dialog,Spoken,0000,0000,0000,,One more time!
+Dialogue: 0,0:20:36.13,0:20:40.13,Main Dialog,Spoken,0000,0000,0000,,No matter how many times Ishida \Nloses, he's not giving up.
+Dialogue: 0,0:20:40.13,0:20:41.96,Main Dialog,Spoken,0000,0000,0000,,That spirit...
+Dialogue: 0,0:20:41.96,0:20:44.64,Main Dialog,Spoken,0000,0000,0000,,This is how strongly he feels about Sendou...
+Dialogue: 0,0:20:46.00,0:20:49.66,Main Dialog,Spoken,0000,0000,0000,,Armor Break Dragon, attack \NTetra-drive Dragon!
+Dialogue: 0,0:20:52.73,0:20:55.52,Main Dialog,Spoken,0000,0000,0000,,Yes! You have him on the ropes with 5 damage!
+Dialogue: 0,0:20:59.04,0:21:01.53,Main Dialog,Spoken,0000,0000,0000,,Tetra-drive Dragon attacks!
+Dialogue: 0,0:21:08.83,0:21:13.15,Main Dialog,Spoken,0000,0000,0000,,That's enough. At your level, \Nyou would only be a hindrance.
+Dialogue: 0,0:21:13.15,0:21:14.29,Main Dialog,Spoken,0000,0000,0000,,Remain here.
+Dialogue: 0,0:21:16.14,0:21:19.75,Main Dialog,Spoken,0000,0000,0000,,I still can't be of any use to Aichi...?
+Dialogue: 0,0:21:19.75,0:21:21.23,Main Dialog,Spoken,0000,0000,0000,,Wait, please!
+Dialogue: 0,0:21:22.04,0:21:24.63,Main Dialog,Spoken,0000,0000,0000,,I want to fight together with you, too!
+Dialogue: 0,0:21:24.63,0:21:26.05,Main Dialog,Spoken,0000,0000,0000,,It may be impossible for Ishida alone,
+Dialogue: 0,0:21:26.05,0:21:29.44,Main Dialog,Spoken,0000,0000,0000,,but if both of us go, \Nmaybe we'll get somewhere!
+Dialogue: 0,0:21:29.44,0:21:30.64,Main Dialog,Spoken,0000,0000,0000,,For Sendou's sake!
+Dialogue: 0,0:21:32.08,0:21:35.17,Main Dialog,Spoken,0000,0000,0000,,Granny Glasses... I mean, Shingo...
+Dialogue: 0,0:21:35.17,0:21:37.58,Main Dialog,Spoken,0000,0000,0000,,Me too! I'm asking you one more time!
+Dialogue: 0,0:21:40.60,0:21:42.53,Main Dialog,Spoken,0000,0000,0000,,You said your name was Naoki Ishida, yes?
+Dialogue: 0,0:21:43.32,0:21:46.90,Main Dialog,Spoken,0000,0000,0000,,I'm leaving Aichi Sendou to you two.
+Dialogue: 0,0:21:48.20,0:21:50.23,Main Dialog,Spoken,0000,0000,0000,,Leaving Aichi to us?
+Dialogue: 0,0:21:50.23,0:21:52.04,Main Dialog,Spoken,0000,0000,0000,,Is that some kind of approval?
+Dialogue: 0,0:21:52.62,0:21:56.96,Main Dialog,Spoken,0000,0000,0000,,Your feelings moved the heart \Nof that boy over there.  {he means Shingo}
+Dialogue: 0,0:21:57.54,0:21:59.88,Main Dialog,Spoken,0000,0000,0000,,Your hot wind isn't bad.
+Dialogue: 0,0:22:02.31,0:22:03.95,Main Dialog,Spoken,0000,0000,0000,,Shingo, help me here.
+Dialogue: 0,0:22:03.95,0:22:07.38,Main Dialog,Spoken,0000,0000,0000,,Training. I gotta get strong, and fast!
+Dialogue: 0,0:22:07.38,0:22:10.89,Main Dialog,Spoken,0000,0000,0000,,I'm gonna give form to the deck \NI saw in my head during that fight!
+Dialogue: 0,0:22:11.30,0:22:13.64,Main Dialog,Spoken,0000,0000,0000,,Sure thing, Ishida!
+Dialogue: 0,0:22:14.27,0:22:16.74,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:23:58.12,0:24:00.42,Main Dialog,Spoken,0000,0000,0000,,My heart is locked...
+Dialogue: 0,0:24:00.42,0:24:01.60,Main Dialog,Spoken,0000,0000,0000,,Hey, Granny Glasses...
+Dialogue: 0,0:24:01.60,0:24:02.71,Main Dialog,Spoken,0000,0000,0000,,Who's that?!
+Dialogue: 0,0:24:02.71,0:24:04.83,Main Dialog,Spoken,0000,0000,0000,,We can't let the whole burden fall on Aichi.
+Dialogue: 0,0:24:04.83,0:24:06.22,Main Dialog,Spoken,0000,0000,0000,,Especially me!
+Dialogue: 0,0:24:06.22,0:24:07.86,Main Dialog,Spoken,0000,0000,0000,,Ishida, you delinquent...
+Dialogue: 0,0:24:07.86,0:24:10.49,Main Dialog,Spoken,0000,0000,0000,,Kai... Why?
+Dialogue: 0,0:24:10.49,0:24:12.68,Main Dialog,Spoken,0000,0000,0000,,And Miwa too...
+Dialogue: 0,0:24:13.63,0:24:16.18,Main Dialog,Spoken,0000,0000,0000,,Next time: Recapture Miyaji Academy!
+Dialogue: 0,0:24:14.43,0:24:24.94,Signs,Sign,0000,0000,0000,,Recapture Miyaji Academy!
+Dialogue: 0,0:24:16.18,0:24:19.04,Main Dialog,Spoken,0000,0000,0000,,Let's go, Shingo! From now on, \Ndon't leave my side!
+Dialogue: 0,0:24:19.04,0:24:21.33,Main Dialog,Spoken,0000,0000,0000,,That's my line!

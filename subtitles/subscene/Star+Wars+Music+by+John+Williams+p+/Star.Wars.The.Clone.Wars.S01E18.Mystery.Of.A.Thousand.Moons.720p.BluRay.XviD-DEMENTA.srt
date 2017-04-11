@@ -1,0 +1,1496 @@
+﻿1
+00:00:18,435 --> 00:00:21,145
+<font color="#404040">ANNOUNCER: </font><i>Hard-pressed Jedi and</i>
+<i>their valiant clone troopers</i>
+
+2
+00:00:21,271 --> 00:00:24,398
+<i>have thwarted an insidious</i>
+<i>Separatist plot to plant bombs</i>
+
+3
+00:00:24,441 --> 00:00:28,318
+<i>Loaded with the deadly Blue Shadow virus</i>
+<i>in key Republic systems.</i>
+
+4
+00:00:28,445 --> 00:00:32,656
+<i>Obi-Wan Kenobi and Anakin Skywalker</i>
+<i>have captured the vile scientist</i>
+
+5
+00:00:32,782 --> 00:00:36,452
+<i>behind the nefarious scheme,</i>
+<i>Dr. Nuvo Vindi.</i>
+
+6
+00:00:36,494 --> 00:00:40,956
+<i>Now, the Jedi prepare to transport Vindi</i>
+<i>to the Republic capital for trial.</i>
+
+7
+00:00:41,416 --> 00:00:42,833
+That was close.
+
+8
+00:00:42,959 --> 00:00:46,795
+If that virus had escaped,
+everyone on Naboo would be dead now.
+
+9
+00:00:46,963 --> 00:00:50,758
+Oh, well, just another boring day
+saving the universe.
+
+10
+00:00:50,800 --> 00:00:53,635
+All right, let's take
+this slemo back to Theed
+
+11
+00:00:53,678 --> 00:00:56,638
+so we can help Padmé
+and Ahsoka clean up down there.
+
+12
+00:01:04,481 --> 00:01:07,816
+Senator, you should see this.
+It's one of the virus bombs.
+
+13
+00:01:07,942 --> 00:01:10,402
+It looks like the chamber
+that holds the virus is missing.
+
+14
+00:01:10,487 --> 00:01:13,322
+-A droid must have taken it.
+-<font color="#404040">PADMÉ:</font> Sound the alarm!
+
+15
+00:01:13,406 --> 00:01:15,282
+<font color="#DF01D7">(ALARM BLARING)</font>
+
+16
+00:01:16,284 --> 00:01:18,494
+<font color="#404040">CLONE 1:</font> How could droids have gotten
+a hold of the virus containers?
+
+17
+00:01:18,620 --> 00:01:22,498
+<font color="#404040">CLONE 2:</font> I don't know, but I don't want
+to be around when they set it off.
+
+18
+00:01:25,960 --> 00:01:28,504
+<font color="#404040">CLONE 1:</font> We've already taken
+the virus containers out of these bombs.
+
+19
+00:01:28,630 --> 00:01:30,631
+<font color="#404040">CLONE 2:</font> We'll just have
+to check them again.
+
+20
+00:01:30,673 --> 00:01:33,092
+The virus is liberated.
+
+21
+00:01:33,176 --> 00:01:34,927
+<font color="#DF01D7">(LAUGHS)</font>
+
+22
+00:01:35,011 --> 00:01:40,182
+You are doomed, young Jedi,
+along with the rest of the planet.
+
+23
+00:01:40,683 --> 00:01:42,309
+<font color="#DF01D7">(ALARM BLARING)</font>
+
+24
+00:01:42,644 --> 00:01:45,521
+Hey, you! Get away from there!
+
+25
+00:01:46,272 --> 00:01:47,439
+<font color="#DF01D7">(RUMBLING)</font>
+
+26
+00:01:47,524 --> 00:01:49,024
+What was that?
+
+27
+00:01:49,192 --> 00:01:50,943
+<font color="#DF01D7">(ALARM BLARING)</font>
+
+28
+00:01:51,778 --> 00:01:52,820
+Virus leak.
+
+29
+00:01:54,030 --> 00:01:55,864
+Get to the safe room, come on!
+
+30
+00:02:10,046 --> 00:02:12,297
+<font color="#404040">REX:</font> There's the safe room.
+<font color="#404040">CLONE:</font> No chance.
+
+31
+00:02:12,382 --> 00:02:14,967
+-<font color="#404040">REX:</font> Hurry, the doors are closing!
+-Don't worry...
+
+32
+00:02:16,010 --> 00:02:17,386
+Get inside, Captain!
+
+33
+00:02:18,680 --> 00:02:19,888
+Hurry!
+
+34
+00:02:25,645 --> 00:02:27,729
+Ahsoka, what is going on down there?
+
+35
+00:02:27,814 --> 00:02:31,024
+<font color="#404040">AHSOKA:</font> <i>The droids released the virus,</i>
+<i>but we managed to seal the lab.</i>
+
+36
+00:02:31,067 --> 00:02:34,069
+-And Padmé?
+<i>-Haven't heard from her since the bomb.</i>
+
+37
+00:02:34,445 --> 00:02:37,573
+Anakin, can you hear me? Anakin?
+
+38
+00:02:37,657 --> 00:02:39,158
+<font color="#404040">ANAKIN:</font><i> Padmé, I'm here. Are you all right?</i>
+
+39
+00:02:39,242 --> 00:02:40,325
+<font color="#DF01D7">(JAR JAR SCREAMING)</font>
+
+40
+00:02:40,410 --> 00:02:42,327
+Yes, for the time being.
+
+41
+00:02:42,412 --> 00:02:45,080
+Jar Jar and I were in a safety chamber
+when the alarm went off.
+
+42
+00:02:45,165 --> 00:02:47,082
+<i>We're wearing protective suits.</i>
+
+43
+00:02:47,167 --> 00:02:50,794
+The virus is loose, but Ahsoka has
+sealed off the entire facility.
+
+44
+00:02:50,879 --> 00:02:54,339
+<i>Yes, but any remaining droids</i>
+<i>will try to break out.</i>
+
+45
+00:02:54,424 --> 00:02:57,885
+I'll do what I can to stop them.
+I cannot let that virus escape.
+
+46
+00:02:58,344 --> 00:02:59,761
+Be careful.
+
+47
+00:02:59,929 --> 00:03:01,805
+<font color="#DF01D7">(JAR JAR EXCLAIMING IN PANIC)</font>
+
+48
+00:03:02,724 --> 00:03:04,600
+Put this on.
+
+49
+00:03:06,144 --> 00:03:08,896
+Come on, Jar Jar.
+We're going to find Ahsoka.
+
+50
+00:03:08,980 --> 00:03:11,481
+We'll need her help to find those droids.
+
+51
+00:03:14,068 --> 00:03:15,819
+Where's the antidote, Vindi?
+
+52
+00:03:15,904 --> 00:03:17,279
+<font color="#DF01D7">(LAUGHS)</font>
+
+53
+00:03:17,363 --> 00:03:20,240
+You mistake my role, Jedi.
+
+54
+00:03:20,325 --> 00:03:23,744
+My job was to manufacture a plague,
+
+55
+00:03:24,245 --> 00:03:25,871
+not to cure it.
+
+56
+00:03:26,748 --> 00:03:30,042
+-We don't have time for games.
+-Patience, Anakin.
+
+57
+00:03:30,335 --> 00:03:32,502
+There's more than one way
+to skin a womp rat.
+
+58
+00:03:32,587 --> 00:03:34,129
+I said, where?
+
+59
+00:03:35,548 --> 00:03:39,218
+Yes, kill me now
+and spare these old bones
+
+60
+00:03:39,302 --> 00:03:42,095
+the Blue Shadow's dire embrace,
+
+61
+00:03:42,680 --> 00:03:47,893
+because once the first droid breaks out
+of that laboratory,
+
+62
+00:03:47,977 --> 00:03:51,063
+all Naboo is doomed.
+
+63
+00:03:51,773 --> 00:03:55,525
+Anakin, the fastest way
+to save Senator Amidala and Ahsoka
+
+64
+00:03:55,610 --> 00:03:59,196
+is to get Vindi back to the capital
+and find an actual antidote.
+
+65
+00:04:06,287 --> 00:04:07,371
+<font color="#DF01D7">(ALARM BLARING)</font>
+
+66
+00:04:07,455 --> 00:04:12,084
+No, no, no! Some of the virus got in here!
+We didn't close the door fast enough!
+
+67
+00:04:12,168 --> 00:04:15,587
+We may be dead men,
+but we could still stop those droids.
+
+68
+00:04:15,672 --> 00:04:16,880
+Don't worry.
+
+69
+00:04:16,965 --> 00:04:20,676
+My master will find a cure for this virus.
+We're not dead yet.
+
+70
+00:04:20,760 --> 00:04:22,594
+
+
+<font color="#404040">PADMÉ: </font><font color="#DF01D7">(ON COMLINK)</font> <i>Is anyone out there?</i>
+
+71
+00:04:23,096 --> 00:04:25,055
+<i>-Can anyone hear...</i>
+-Senator Amidala!
+
+72
+00:04:25,139 --> 00:04:28,141
+We're trapped in a safe room
+at the end of Complex B.
+
+73
+00:04:28,226 --> 00:04:31,186
+<i>We'll be right there.</i>
+<i>Are you contaminated?</i>
+
+74
+00:04:31,354 --> 00:04:33,021
+<font color="#DF01D7">(CLONES COUGHING)</font>
+
+75
+00:04:34,232 --> 00:04:35,774
+I'm afraid so.
+
+76
+00:04:36,192 --> 00:04:37,901
+<font color="#DF01D7">(COUGHING)</font>
+
+77
+00:04:51,749 --> 00:04:55,419
+Dr. Vindi, you'll pay for your treachery.
+Take him away.
+
+78
+00:04:57,630 --> 00:05:02,301
+-Now we'll need to find an antidote.
+-I think I found an answer for you.
+
+79
+00:05:05,513 --> 00:05:07,306
+So you think you found a cure?
+
+80
+00:05:07,765 --> 00:05:11,393
+Possibly. A little-known extract
+made from reeksa root,
+
+81
+00:05:11,728 --> 00:05:16,023
+a weed-like vine found only on Lego,
+the world of a thousand moons,
+
+82
+00:05:16,858 --> 00:05:19,026
+deep in Separatist-controlled space.
+
+83
+00:05:19,110 --> 00:05:20,444
+Let's go.
+
+84
+00:05:21,446 --> 00:05:24,364
+-You must move cautiously if you...
+-There's no time for caution.
+
+85
+00:05:24,449 --> 00:05:27,075
+My Padawan is trapped down there,
+and so is Padmé...
+
+86
+00:05:28,619 --> 00:05:30,620
+I mean Senator Amidala.
+
+87
+00:05:30,705 --> 00:05:34,416
+I applaud your courage,
+General Skywalker, but it's suicide.
+
+88
+00:05:34,751 --> 00:05:37,085
+Once we contain the virus,
+we can send troops.
+
+89
+00:05:37,462 --> 00:05:41,423
+-No. Obi-Wan and I can handle it.
+-I concur, Anakin.
+
+90
+00:05:47,638 --> 00:05:49,765
+Padmé and Ahsoka will be fine.
+
+91
+00:05:49,807 --> 00:05:51,975
+They will be if we succeed.
+
+92
+00:05:58,274 --> 00:06:01,443
+<font color="#404040">DROID 1:</font> All the doors are locked.
+How are we going to get out?
+
+93
+00:06:01,486 --> 00:06:03,111
+<font color="#404040">DROID 2:</font> It's not our problem.
+
+94
+00:06:03,196 --> 00:06:05,113
+<font color="#404040">DROID 1:</font> Boy, that's a relief.
+
+95
+00:06:06,282 --> 00:06:07,949
+<font color="#DF01D7">(COUGHS)</font>
+
+96
+00:06:10,203 --> 00:06:12,454
+Senator Amidala, where are you?
+
+97
+00:06:12,497 --> 00:06:16,792
+-We're right outside your safety room.
+<i>-Can you get the door open?</i>
+
+98
+00:06:17,001 --> 00:06:18,168
+Go ahead, Jar Jar.
+
+99
+00:06:20,004 --> 00:06:21,213
+<font color="#DF01D7">(BUZZING)</font>
+
+100
+00:06:25,551 --> 00:06:26,635
+<font color="#DF01D7">(COUGHING)</font>
+
+101
+00:06:26,719 --> 00:06:28,095
+I'm sorry, Ahsoka.
+
+102
+00:06:28,304 --> 00:06:31,932
+Don't worry about us, Senator.
+We still have a job to do.
+
+103
+00:06:32,100 --> 00:06:33,850
+There aren't very many droids left.
+
+104
+00:06:33,935 --> 00:06:36,269
+We saw some heading
+toward the south entrance.
+
+105
+00:06:36,813 --> 00:06:38,438
+As long as we're able,
+
+106
+00:06:38,564 --> 00:06:42,275
+we'll help you destroy those droids
+before they breach the compound.
+
+107
+00:06:42,610 --> 00:06:45,904
+You take the north corridor,
+and we'll take the south.
+
+108
+00:06:46,489 --> 00:06:48,115
+<font color="#DF01D7">(MACHINERY WHIRRING)</font>
+
+109
+00:06:48,199 --> 00:06:51,326
+The droids are close.
+I can hear them cutting through the wall.
+
+110
+00:06:53,955 --> 00:06:55,497
+<font color="#DF01D7">(WEAPONS FIRING)</font>
+
+111
+00:07:09,178 --> 00:07:11,388
+<font color="#404040">REX:</font> Stop!
+<font color="#404040">PADMÉ:</font> Don't open that hatch.
+
+112
+00:07:11,472 --> 00:07:12,806
+Ha! Too late.
+
+113
+00:07:14,642 --> 00:07:15,851
+<font color="#DF01D7">(DROID SCREAMS)</font>
+
+114
+00:07:21,482 --> 00:07:23,233
+<font color="#404040">OBI-WAN:</font> There it is. Lego.
+
+115
+00:07:23,568 --> 00:07:24,943
+What do you make of this?
+
+116
+00:07:25,027 --> 00:07:29,072
+It looks like a graveyard of ships.
+
+117
+00:07:50,386 --> 00:07:52,512
+-Let's go.
+-Anakin.
+
+118
+00:07:57,393 --> 00:07:59,102
+<font color="#DF01D7">(FOOTSTEPS MARCHING)</font>
+
+119
+00:08:01,063 --> 00:08:02,397
+<font color="#404040">ANAKIN:</font> Not good.
+
+120
+00:08:05,568 --> 00:08:08,737
+<font color="#404040">ALL:</font> Welcome to Lego. Roger, roger.
+
+121
+00:08:09,238 --> 00:08:10,655
+Anakin, wait. Wait!
+
+122
+00:08:10,740 --> 00:08:14,075
+-Welcome to Lego. Roger, roger.
+-Welcome to Lego. Roger, roger.
+
+123
+00:08:14,243 --> 00:08:15,994
+<font color="#DF01D7">(DROIDS CHANTING)</font>
+
+124
+00:08:25,087 --> 00:08:27,547
+-Welcome to Lego.
+-Welcome to Lego.
+
+125
+00:08:27,673 --> 00:08:28,882
+Very impressive.
+
+126
+00:08:28,925 --> 00:08:33,094
+You just destroyed 17 defenseless
+battle droids without suffering a scratch.
+
+127
+00:08:33,387 --> 00:08:34,429
+Welcome...
+
+128
+00:08:35,181 --> 00:08:36,932
+Eighteen, actually.
+
+129
+00:08:37,600 --> 00:08:41,269
+The venerable Jaybo Hood
+requests an audience.
+
+130
+00:08:41,395 --> 00:08:42,854
+-Jaybo?
+-Jaybo?
+
+131
+00:08:42,939 --> 00:08:45,190
+Hey! Do you guys have any idea
+
+132
+00:08:45,274 --> 00:08:47,526
+how long it took me
+to repurpose those droids?
+
+133
+00:08:48,694 --> 00:08:50,946
+-You're Jaybo?
+-Well, do you?
+
+134
+00:08:51,572 --> 00:08:53,949
+I apologize for my friend's
+rather rash behavior.
+
+135
+00:08:54,116 --> 00:08:56,952
+Nine months, man.
+It took me nine months.
+
+136
+00:08:57,912 --> 00:08:59,120
+<font color="#DF01D7">(CLATTERING)</font>
+
+137
+00:08:59,789 --> 00:09:01,122
+<font color="#DF01D7">(SIGHS)</font>
+
+138
+00:09:04,627 --> 00:09:06,253
+Oh, that's our cue.
+
+139
+00:09:08,464 --> 00:09:09,673
+Channel two.
+
+140
+00:09:09,799 --> 00:09:11,007
+<i><font color="#DF01D7">(STATIC WARBLING)</font></i>
+
+141
+00:09:11,676 --> 00:09:13,927
+<i><font color="#DF01D7">(REGGAE MUSIC PLAYING)</font></i>
+
+142
+00:09:18,432 --> 00:09:21,476
+<font color="#404040">ANAKIN:</font> How'd a kid like you come by
+this many battle droids, anyway?
+
+143
+00:09:21,602 --> 00:09:25,647
+Simple. When the Separatists took off,
+they left all this junk behind.
+
+144
+00:09:25,773 --> 00:09:28,191
+I got a whole warehouse
+full of them right over there.
+
+145
+00:09:28,317 --> 00:09:30,652
+So you programmed them to serve you?
+
+146
+00:09:30,987 --> 00:09:33,530
+No reason to let a good droid rust, right?
+
+147
+00:09:33,656 --> 00:09:34,823
+Mmm-hmm.
+
+148
+00:09:34,865 --> 00:09:40,370
+Looks like you used a macro protocol
+to wipe them all simultaneously.
+
+149
+00:09:40,496 --> 00:09:43,331
+-Impressive.
+-I see you know your droids.
+
+150
+00:09:43,624 --> 00:09:46,960
+You're Jedi, aren't you?
+Want me to show you how I did it?
+
+151
+00:09:47,003 --> 00:09:50,630
+Perhaps another time.
+What we need now is reeksa root.
+
+152
+00:09:51,632 --> 00:09:53,008
+Do you know where we can find some?
+
+153
+00:09:53,134 --> 00:09:55,844
+Here, there. Everywhere.
+
+154
+00:09:56,178 --> 00:09:57,846
+<i><font color="#DF01D7">(REGGAE MUSIC PLAYING)</font></i>
+
+155
+00:09:58,306 --> 00:10:01,725
+We don't have time for games, kid.
+Where's the root?
+
+156
+00:10:02,685 --> 00:10:05,687
+What my friend is trying to say
+is that we are in a bit of a hurry.
+
+157
+00:10:05,855 --> 00:10:09,024
+-<font color="#DF01D7">(CHUCKLES)</font> Not anymore, you're not.
+-Look, you little...
+
+158
+00:10:09,066 --> 00:10:12,027
+This system is haunted,
+cursed, whatever...
+
+159
+00:10:12,570 --> 00:10:16,448
+Anyway, Jedi or not,
+no one gets off this rock alive.
+
+160
+00:10:17,617 --> 00:10:20,410
+-Not past Drol.
+-Drol.
+
+161
+00:10:22,121 --> 00:10:24,914
+-Drol?
+-Yeah, Drol.
+
+162
+00:10:26,208 --> 00:10:28,209
+The phantom ruler of Lego.
+
+163
+00:10:28,252 --> 00:10:31,212
+He destroys anything
+that leaves the planet.
+
+164
+00:10:31,255 --> 00:10:34,883
+Fifty of the best star pilots
+in the galaxy have tried.
+
+165
+00:10:36,093 --> 00:10:38,136
+Fifty tried,
+
+166
+00:10:38,888 --> 00:10:40,263
+fifty died.
+
+167
+00:10:40,890 --> 00:10:43,808
+I suppose that explains
+the ruined ships in the moon belt.
+
+168
+00:10:43,893 --> 00:10:46,978
+First things first.
+We'll have to deal with this Drol later.
+
+169
+00:10:52,902 --> 00:10:54,736
+<font color="#DF01D7">(LIGHTSABERS WHOOSHING)</font>
+
+170
+00:10:59,909 --> 00:11:01,534
+-Mesa help.
+-Jar Jar, no.
+
+171
+00:11:02,370 --> 00:11:03,787
+<font color="#DF01D7">(JAR JAR EXCLAIMS)</font>
+
+172
+00:11:05,956 --> 00:11:07,290
+<font color="#DF01D7">(GAS HISSING)</font>
+
+173
+00:11:07,416 --> 00:11:08,458
+Senator!
+
+174
+00:11:08,584 --> 00:11:10,919
+<font color="#404040">REX:</font> Senator,
+your suit's been compromised.
+
+175
+00:11:10,961 --> 00:11:12,253
+<font color="#DF01D7">(GASPS)</font>
+
+176
+00:11:13,130 --> 00:11:14,631
+I'm so sorry.
+
+177
+00:11:15,675 --> 00:11:16,966
+Don't blame yourself.
+
+178
+00:11:17,093 --> 00:11:19,969
+These things tend to happen
+in a war zone.
+
+179
+00:11:27,436 --> 00:11:29,813
+-Are you coming?
+-You've got to be kidding.
+
+180
+00:11:29,939 --> 00:11:31,606
+No way I'm going down there.
+
+181
+00:11:31,774 --> 00:11:33,942
+<font color="#DF01D7">(GRUNTING)</font> Are you trying
+to tell us something?
+
+182
+00:11:33,984 --> 00:11:35,610
+Don't worry, it's simple.
+
+183
+00:11:35,653 --> 00:11:38,780
+Follow the vines to the bottom,
+dig up the roots,
+
+184
+00:11:38,864 --> 00:11:40,782
+but don't touch the vine.
+
+185
+00:11:40,825 --> 00:11:43,284
+Aside from the obvious, why not?
+
+186
+00:11:43,452 --> 00:11:47,789
+Because the plants don't like it
+and they have big, sharp teeth.
+
+187
+00:11:48,290 --> 00:11:51,292
+Teeth?
+This is getting better by the minute.
+
+188
+00:11:52,044 --> 00:11:54,504
+And watch out for the flying Xandu.
+
+189
+00:11:55,339 --> 00:11:57,882
+-What's a Xandu?
+-I'm not sure.
+
+190
+00:11:57,967 --> 00:11:59,175
+<font color="#DF01D7">(RUMBLING)</font>
+
+191
+00:11:59,301 --> 00:12:00,552
+<font color="#DF01D7">(SCREECHES)</font>
+
+192
+00:12:00,636 --> 00:12:02,303
+Whoa, whoa!
+
+193
+00:12:02,805 --> 00:12:05,056
+Whoa, whoa, whoa. Whoa!
+
+194
+00:12:07,017 --> 00:12:08,643
+Master, hop on.
+
+195
+00:12:11,981 --> 00:12:14,023
+<font color="#404040">OBI-WAN:</font> This isn't going to work.
+
+196
+00:12:15,818 --> 00:12:17,402
+<font color="#404040">DROID:</font> How are you doing up there?
+
+197
+00:12:17,486 --> 00:12:19,320
+I'm almost through.
+
+198
+00:12:19,488 --> 00:12:21,114
+There they are!
+
+199
+00:12:22,992 --> 00:12:24,159
+Whoa!
+
+200
+00:12:24,493 --> 00:12:25,660
+<font color="#DF01D7">(CLATTERING)</font>
+
+201
+00:12:27,037 --> 00:12:28,204
+<font color="#DF01D7">(YELLS)</font>
+
+202
+00:12:30,124 --> 00:12:31,207
+<font color="#DF01D7">(GROANS)</font>
+
+203
+00:12:31,333 --> 00:12:34,169
+
+
+-<font color="#404040">PADMÉ:</font> Ahsoka?
+-<font color="#DF01D7">(GASPS)</font> I'm all right.
+
+204
+00:12:36,172 --> 00:12:37,839
+There, those are the roots
+we're looking for.
+
+205
+00:12:38,174 --> 00:12:39,549
+<font color="#DF01D7">(WINGS FLAPPING)</font>
+
+206
+00:12:39,675 --> 00:12:40,884
+Oh, poodoo.
+
+207
+00:12:41,677 --> 00:12:43,011
+<font color="#DF01D7">(GRUNTING)</font>
+
+208
+00:12:44,305 --> 00:12:45,680
+<font color="#DF01D7">(CRACKING)</font>
+
+209
+00:12:45,723 --> 00:12:47,557
+<font color="#DF01D7">(RUMBLING)</font>
+
+210
+00:12:47,683 --> 00:12:50,059
+I have a bad feeling about this.
+
+211
+00:12:52,646 --> 00:12:54,522
+Don't take too long with that.
+
+212
+00:12:54,815 --> 00:12:56,399
+I'll go as fast as I can.
+
+213
+00:12:57,359 --> 00:12:59,194
+<font color="#DF01D7">(SCREECHING)</font>
+
+214
+00:12:59,528 --> 00:13:01,029
+Anakin, hurry!
+
+215
+00:13:02,990 --> 00:13:05,492
+-Anakin, now!
+-Okay, okay.
+
+216
+00:13:06,035 --> 00:13:07,243
+Got it.
+
+217
+00:13:07,828 --> 00:13:09,204
+<font color="#DF01D7">(ROARING)</font>
+
+218
+00:13:09,663 --> 00:13:12,540
+-Hold still.
+-We've got to get out of here now.
+
+219
+00:13:13,709 --> 00:13:14,876
+<font color="#DF01D7">(SCREECHING)</font>
+
+220
+00:13:24,428 --> 00:13:26,513
+<font color="#DF01D7">(LIGHTSABERS ACTIVATING)</font>
+
+221
+00:13:31,769 --> 00:13:33,853
+<font color="#DF01D7">(GRUNTING)</font>
+
+222
+00:13:33,896 --> 00:13:35,063
+<font color="#DF01D7">(SIGHS WITH RELIEF)</font>
+
+223
+00:13:35,105 --> 00:13:37,899
+You made it! I knew you would.
+
+224
+00:13:38,359 --> 00:13:39,776
+Oh, did you?
+
+225
+00:13:43,197 --> 00:13:46,324
+Place dried up once
+the spice convoys stopped running.
+
+226
+00:13:46,408 --> 00:13:51,371
+Out here, we're just one of the millions
+of little backwaters no one cares about.
+
+227
+00:13:51,413 --> 00:13:54,916
+Those of us who are left
+can't leave because of the curse.
+
+228
+00:13:55,042 --> 00:14:00,004
+Cursed we are. The planet is cursed.
+
+229
+00:14:01,173 --> 00:14:03,716
+Cursed by whom, my twitchy friend?
+
+230
+00:14:04,009 --> 00:14:06,845
+The ghost of Drol, that's who.
+
+231
+00:14:07,096 --> 00:14:08,388
+A ghost?
+
+232
+00:14:08,430 --> 00:14:14,853
+The spirit of the thousand moons.
+Our protector and destroyer.
+
+233
+00:14:15,855 --> 00:14:18,606
+-If you ask me, it sounds like a load of...
+-Superstition?
+
+234
+00:14:18,774 --> 00:14:20,191
+That's one word for it.
+
+235
+00:14:20,568 --> 00:14:22,443
+Superstition, you say?
+
+236
+00:14:24,613 --> 00:14:27,949
+<i>Can't hold on much... Someone help me!</i>
+
+237
+00:14:28,075 --> 00:14:29,200
+<i><font color="#DF01D7">(GROANS)</font></i>
+
+238
+00:14:29,285 --> 00:14:32,245
+That was Taquito. He was a friend of mine.
+
+239
+00:14:33,455 --> 00:14:38,710
+Try to leave this planet,
+and your fate will be the same.
+
+240
+00:14:43,883 --> 00:14:45,633
+They'll never make it past Drol.
+
+241
+00:14:50,139 --> 00:14:52,640
+The ghost of Drol
+may be a local superstition,
+
+242
+00:14:52,725 --> 00:14:55,059
+but something real blew up those ships.
+
+243
+00:14:55,144 --> 00:14:56,978
+Real, we can handle.
+
+244
+00:14:57,605 --> 00:15:01,482
+-Too bad, I really liked those guys.
+<i>-<font color="#404040">ANAKIN:</font> Thanks for your help, kid.</i>
+
+245
+00:15:04,153 --> 00:15:05,820
+Couldn't have done it without you.
+
+246
+00:15:05,905 --> 00:15:09,240
+<i>-Have you run into Drol yet?</i>
+-Not to worry, Jaybo.
+
+247
+00:15:16,707 --> 00:15:17,916
+<font color="#DF01D7">(BEEPING NERVOUSLY)</font>
+
+248
+00:15:18,000 --> 00:15:20,251
+What's the matter, Artoo?
+Afraid of a ghost?
+
+249
+00:15:20,336 --> 00:15:22,503
+Drol is just a superstition.
+
+250
+00:15:22,588 --> 00:15:25,173
+-There's our ghost!
+-Lasers!
+
+251
+00:15:25,507 --> 00:15:27,175
+<font color="#404040">OBI-WAN:</font> We've triggered an energy field.
+
+252
+00:15:31,347 --> 00:15:32,597
+Oh, no!
+
+253
+00:15:33,140 --> 00:15:36,476
+Turn the ship around!
+We'll never make it through.
+
+254
+00:15:42,608 --> 00:15:44,525
+The Separatists
+must have installed those lasers
+
+255
+00:15:44,610 --> 00:15:46,694
+to prevent people from leaving the planet.
+
+256
+00:15:46,779 --> 00:15:48,613
+They're coming back!
+
+257
+00:15:56,956 --> 00:15:59,540
+<i><font color="#DF01D7">(WEAKLY)</font> Master, can you hear me?</i>
+
+258
+00:15:59,625 --> 00:16:01,125
+Artoo, amplify the signal.
+
+259
+00:16:03,003 --> 00:16:04,420
+<font color="#DF01D7">(WHIRRING)</font>
+
+260
+00:16:04,755 --> 00:16:09,008
+<i>We've destroyed all the battle droids</i>
+<i>inside the compound, Master.</i>
+
+261
+00:16:09,969 --> 00:16:15,682
+<i>Naboo is safe from further contamination.</i>
+<i>I repeat, Naboo is safe.</i>
+
+262
+00:16:16,266 --> 00:16:17,684
+<i><font color="#DF01D7">(COUGHING)</font></i>
+
+263
+00:16:18,852 --> 00:16:21,604
+<i>Promise me that</i>
+<i>no one will ever open this bunker.</i>
+
+264
+00:16:23,816 --> 00:16:25,692
+<i>Goodbye, Anakin. I...</i>
+
+265
+00:16:26,068 --> 00:16:27,402
+<i><font color="#DF01D7">(COUGHS)</font></i>
+
+266
+00:16:28,112 --> 00:16:29,195
+No!
+
+267
+00:16:32,116 --> 00:16:34,701
+We'll borrow a power converter
+from Jaybo and reprogram it to feed our...
+
+268
+00:16:34,785 --> 00:16:37,704
+-Slow down, Anakin.
+-Slow down? Slow down?
+
+269
+00:16:37,788 --> 00:16:39,831
+You saw them, Master. They're dying.
+
+270
+00:16:40,207 --> 00:16:44,335
+A great leap forward often
+requires first taking two steps back.
+
+271
+00:16:44,461 --> 00:16:47,922
+And, sometimes, all it requires
+is the will to jump.
+
+272
+00:16:48,465 --> 00:16:50,758
+At least hear me out on this.
+
+273
+00:16:53,387 --> 00:16:56,973
+Citizens of Lego, Drol is not a ghost.
+
+274
+00:16:57,683 --> 00:17:00,685
+Rather, it is a Separatist security system.
+
+275
+00:17:00,936 --> 00:17:06,190
+Nonsense. You were lucky to escape alive,
+simple as that.
+
+276
+00:17:06,442 --> 00:17:08,943
+And who says we didn't
+make our own luck?
+
+277
+00:17:09,361 --> 00:17:12,155
+The ghost of Drol does, that's who.
+
+278
+00:17:13,615 --> 00:17:17,493
+Did anyone inhabit Lego's moons
+before the Separatists arrived?
+
+279
+00:17:17,578 --> 00:17:20,246
+-The angels, of course.
+-Angels?
+
+280
+00:17:24,710 --> 00:17:29,130
+We were a peaceful people before
+the Separatists drove us from our homes
+
+281
+00:17:29,214 --> 00:17:30,590
+and stole our moon.
+
+282
+00:17:30,883 --> 00:17:32,258
+And which moon was that?
+
+283
+00:17:33,969 --> 00:17:36,137
+Millius Prime.
+
+284
+00:17:36,680 --> 00:17:39,932
+The primary node,
+it must be near Millius Prime.
+
+285
+00:17:40,434 --> 00:17:45,438
+Hmm. Vulture droids. Jaybo,
+can you reactivate those Vulture droids?
+
+286
+00:17:45,731 --> 00:17:48,149
+Sure, I can even fly them
+by remote control.
+
+287
+00:17:48,817 --> 00:17:53,529
+Good. We can have Artoo fly the Vulture
+droids as a decoy into the laser field,
+
+288
+00:17:53,655 --> 00:17:55,656
+and since we know
+what we're up against this time,
+
+289
+00:17:55,741 --> 00:17:57,575
+we can destroy the laser emitter.
+
+290
+00:17:57,659 --> 00:17:59,744
+And cut a path right to Millius Prime.
+
+291
+00:18:01,163 --> 00:18:03,498
+<font color="#DF01D7">(ALL COUGHING)</font>
+
+292
+00:18:12,007 --> 00:18:13,508
+What a waste!
+
+293
+00:18:14,009 --> 00:18:18,554
+<font color="#DF01D7">(SIGHING)</font> With all due respect, Senator,
+it's what these men were born to do.
+
+294
+00:18:19,264 --> 00:18:22,350
+I hope that their sacrifice
+brings us closer to peace.
+
+295
+00:18:22,392 --> 00:18:23,726
+<font color="#DF01D7">(AHSOKA COUGHING)</font>
+
+296
+00:18:23,852 --> 00:18:29,357
+-It will, Padmé. You must believe that...
+-Ahsoka!
+
+297
+00:18:35,197 --> 00:18:38,533
+-Ready, General Kenobi.
+-Jaybo, activate the droids.
+
+298
+00:18:38,617 --> 00:18:39,742
+<font color="#DF01D7">(BEEPS)</font>
+
+299
+00:18:46,416 --> 00:18:48,793
+Transfer control
+of the Vulture droids to Artoo.
+
+300
+00:18:50,921 --> 00:18:52,296
+<font color="#DF01D7">(WHIRRING)</font>
+
+301
+00:19:08,313 --> 00:19:10,064
+Artoo, intercept the lasers.
+
+302
+00:19:10,190 --> 00:19:11,524
+<font color="#DF01D7">(BEEPING)</font>
+
+303
+00:19:11,859 --> 00:19:14,360
+Send the Vulture droids
+directly into the laser generator.
+
+304
+00:19:36,091 --> 00:19:40,678
+Whoa! You guys okay? Guys?
+
+305
+00:19:41,847 --> 00:19:43,389
+<font color="#404040">ANAKIN:</font><i> We're fine, kid.</i>
+
+306
+00:19:43,473 --> 00:19:46,726
+I'm afraid you'll need
+some new droids to boss around, Jaybo.
+
+307
+00:19:46,810 --> 00:19:48,895
+The ones you lent us are
+pretty much toast.
+
+308
+00:19:49,104 --> 00:19:50,688
+<font color="#DF01D7">(ALL CHEERING)</font>
+
+309
+00:19:51,607 --> 00:19:55,818
+But the good news is that you are now
+free to leave Lego whenever you choose.
+
+310
+00:20:00,908 --> 00:20:02,783
+Artoo, set a course for Naboo.
+
+311
+00:20:02,868 --> 00:20:04,160
+<font color="#DF01D7">(R2-D2 BEEPING EXCITEDLY)</font>
+
+312
+00:20:14,087 --> 00:20:15,296
+Padmé.
+
+313
+00:20:18,175 --> 00:20:22,136
+I spoke with the medical droid.
+He expects you to make a full recovery.
+
+314
+00:20:22,763 --> 00:20:26,015
+I never lost faith in you. None of us did.
+
+315
+00:20:26,516 --> 00:20:27,558
+Well, that's good to hear,
+
+316
+00:20:27,643 --> 00:20:30,269
+'cause there were a few moments
+where we weren't so sure of ourselves.
+
+317
+00:20:31,355 --> 00:20:33,272
+Well, you did make it.
+
+318
+00:20:38,445 --> 00:20:41,572
+By the way, your Padawan was brilliant.
+
+319
+00:20:43,867 --> 00:20:46,953
+I trust I'll see you soon,
+General Skywalker.
+
+320
+00:20:49,122 --> 00:20:50,915
+Of course, my lady.
+
+321
+00:20:52,376 --> 00:20:54,418
+<font color="#DF01D7">(GRUNTING)</font>
+
+322
+00:20:54,628 --> 00:20:55,795
+<font color="#DF01D7">(EXCLAIMS)</font>
+
+323
+00:20:58,048 --> 00:21:01,175
+I heard you were quite brave
+fending off the battle droids, Jar Jar.
+
+324
+00:21:02,344 --> 00:21:03,469
+Really?
+
+325
+00:21:03,553 --> 00:21:06,097
+Senator Amidala suggested
+we offer you training
+
+326
+00:21:06,181 --> 00:21:08,641
+to help hone your skills with a blaster.
+
+327
+00:21:08,725 --> 00:21:11,018
+-Really?
+-Really.
+
+328
+00:21:11,561 --> 00:21:14,105
+Oh, boy! Ima gonna be trained!
+
+329
+00:21:15,065 --> 00:21:17,149
+I am not training him.
+
+330
+00:21:19,987 --> 00:21:22,571
+You did a fantastic job today, Snips.
+
+331
+00:21:22,656 --> 00:21:25,283
+All thanks to your training, Master.
+
+332
+00:21:25,409 --> 00:21:29,036
+Yeah, you're right, I probably
+do deserve most of the credit,
+
+333
+00:21:31,373 --> 00:21:33,165
+but not all of it.
+
+334
+00:21:33,292 --> 00:21:38,379
+Good thing I know you don't mean
+everything you say.
+
+335
+00:21:39,214 --> 00:21:41,007
+Pilot, get these two out of here.
+
+336
+00:21:41,383 --> 00:21:43,134
+Thank you, Master.
+
+337
+00:22:31,266 --> 00:22:32,266
+English - SDH
+

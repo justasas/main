@@ -1,0 +1,1243 @@
+﻿1
+00:00:19,144 --> 00:00:20,853
+<font color="#404040">ANNOUNCER: </font><i>Missing in action.</i>
+
+2
+00:00:21,271 --> 00:00:25,941
+<i>Anakin Skywalker's heroic droid navigator,</i>
+<i>R2-D2, was lost in battle.</i>
+
+3
+00:00:26,276 --> 00:00:28,819
+<i>When a desperate search</i>
+<i>fails to locate Artoo,</i>
+
+4
+00:00:28,945 --> 00:00:32,698
+<i>Anakin is forced to take on</i>
+<i>a new navigator, R3-S6.</i>
+
+5
+00:00:33,199 --> 00:00:35,784
+<i>Now, the Jedi embark</i>
+<i>on a dangerous new mission</i>
+
+6
+00:00:35,869 --> 00:00:38,328
+<i>to find a secret enemy listening post.</i>
+
+7
+00:00:38,955 --> 00:00:43,667
+<i>Meanwhile, R2-D2 has fallen</i>
+<i>into the hands of a vile droid smuggler</i>
+
+8
+00:00:43,960 --> 00:00:46,211
+<i>and is on his way to General Grievous,</i>
+
+9
+00:00:46,296 --> 00:00:50,132
+<i>who will surely plunder the</i>
+<i>Republic secrets hidden within him.</i>
+
+10
+00:00:56,056 --> 00:01:01,226
+I am entering your orbit now, General.
+I will be at your station shortly.
+
+11
+00:01:01,478 --> 00:01:02,895
+And, General...
+
+12
+00:01:02,979 --> 00:01:05,147
+<i>What is it, Gha Nachkt?</i>
+
+13
+00:01:05,190 --> 00:01:08,525
+I prefer to get my reward in cash.
+
+14
+00:01:09,152 --> 00:01:10,486
+<i><font color="#DF01D7">(GROANS)</font></i>
+
+15
+00:01:10,987 --> 00:01:12,362
+<font color="#DF01D7">(CHUCKLING)</font>
+
+16
+00:01:17,702 --> 00:01:19,536
+We've searched their supply grid, sir.
+
+17
+00:01:19,662 --> 00:01:22,372
+There is nothing to indicate
+the presence of an enemy outpost.
+
+18
+00:01:37,263 --> 00:01:38,931
+<font color="#DF01D7">(MACHINERY WHIRRING)</font>
+
+19
+00:01:39,015 --> 00:01:40,182
+<font color="#DF01D7">(MONITOR BEEPING)</font>
+
+20
+00:01:40,266 --> 00:01:41,517
+Huh?
+
+21
+00:01:43,937 --> 00:01:47,481
+Master, I'm receiving
+a strange transmission.
+
+22
+00:01:47,565 --> 00:01:49,483
+I can't seem to make it out, though.
+
+23
+00:01:49,567 --> 00:01:50,901
+<i><font color="#DF01D7">(STATIC WARBLING)</font></i>
+
+24
+00:01:50,985 --> 00:01:52,653
+Boost the volume, Goldie.
+
+25
+00:01:52,737 --> 00:01:54,363
+<i><font color="#DF01D7">(LOUD WARBLING)</font></i>
+
+26
+00:01:54,447 --> 00:01:56,198
+No, you're losing it.
+
+27
+00:01:58,576 --> 00:01:59,993
+<i><font color="#DF01D7">(WARBLING)</font></i>
+
+28
+00:02:00,286 --> 00:02:03,664
+-That's Artoo.
+-Uh, that doesn't sound like Artoo.
+
+29
+00:02:03,748 --> 00:02:06,125
+It's him. I could never forget that voice.
+
+30
+00:02:06,209 --> 00:02:08,293
+-Trace it, Rex.
+-Sir.
+
+31
+00:02:08,378 --> 00:02:10,420
+What is going on here?
+
+32
+00:02:10,672 --> 00:02:11,964
+<font color="#DF01D7">(BEEPING)</font>
+
+33
+00:02:12,465 --> 00:02:13,841
+<i><font color="#DF01D7">(STATIC WARBLING)</font></i>
+
+34
+00:02:14,884 --> 00:02:17,177
+You sneaky little scrap pile.
+
+35
+00:02:17,262 --> 00:02:18,470
+<font color="#DF01D7">(ZAPPING)</font>
+
+36
+00:02:18,555 --> 00:02:19,972
+<font color="#DF01D7">(SQUEALS)</font>
+
+37
+00:02:20,431 --> 00:02:22,975
+You'd better be worth all this trouble.
+
+38
+00:02:23,810 --> 00:02:25,644
+<font color="#DF01D7">(R2-D2 BEEPS MOURNFULLY)</font>
+
+39
+00:02:25,728 --> 00:02:26,812
+<font color="#DF01D7">(CHUCKLING)</font>
+
+40
+00:02:26,896 --> 00:02:30,023
+Master, our orders were to find
+the Separatist listening post.
+
+41
+00:02:30,108 --> 00:02:33,944
+Perhaps Artoo is at the listening post.
+Did you consider that?
+
+42
+00:02:34,988 --> 00:02:37,030
+We have a lock on the droid's location, sir.
+
+43
+00:02:37,115 --> 00:02:40,159
+-Prepare to jump to those coordinates.
+-Yes, sir.
+
+44
+00:02:40,618 --> 00:02:42,494
+<font color="#DF01D7">(TWILIGHT POWERING UP)</font>
+
+45
+00:02:42,579 --> 00:02:45,289
+Hold on, Artoo, old buddy. We're coming.
+
+46
+00:02:55,049 --> 00:02:56,967
+<font color="#404040">GRIEVOUS:</font> <i>What is it, Gha Nachkt?</i>
+
+47
+00:02:57,051 --> 00:02:59,887
+I've arrived. Could you lower your shields?
+
+48
+00:03:10,857 --> 00:03:12,191
+<font color="#DF01D7">(GRUNTING)</font>
+
+49
+00:03:12,275 --> 00:03:13,442
+<font color="#DF01D7">(ZAPPING)</font>
+
+50
+00:03:13,526 --> 00:03:15,611
+Keep moving, grease spot.
+
+51
+00:03:15,945 --> 00:03:17,529
+<font color="#DF01D7">(BEEPING)</font>
+
+52
+00:03:18,239 --> 00:03:19,865
+<font color="#DF01D7">(GRUNTING)</font>
+
+53
+00:03:20,658 --> 00:03:21,867
+<font color="#DF01D7">(STARTLED BEEP)</font>
+
+54
+00:03:21,951 --> 00:03:23,452
+<font color="#DF01D7">(GRUNTS)</font>
+
+55
+00:03:23,536 --> 00:03:27,456
+This is the droid
+those Jedi came looking for, General.
+
+56
+00:03:27,665 --> 00:03:31,543
+What secrets do you carry,
+my little friend?
+
+57
+00:03:32,086 --> 00:03:33,462
+<font color="#DF01D7">(BEEPS DEFIANTLY)</font>
+
+58
+00:03:33,546 --> 00:03:35,547
+So defiant.
+
+59
+00:03:35,757 --> 00:03:39,801
+No need for fear, we're all droids here.
+
+60
+00:03:39,886 --> 00:03:41,011
+<font color="#DF01D7">(LAUGHS)</font>
+
+61
+00:03:41,095 --> 00:03:44,890
+Rip this little rat apart
+and find out everything he knows.
+
+62
+00:03:47,018 --> 00:03:48,101
+<font color="#DF01D7">(GROANS)</font>
+
+63
+00:03:48,186 --> 00:03:49,811
+Right away, General.
+
+64
+00:03:56,778 --> 00:03:58,654
+<font color="#DF01D7">(R2-D2 BEEPS IN PANIC)</font>
+
+65
+00:04:01,783 --> 00:04:05,202
+Sir, the last transmission came
+from that moon's upper atmosphere,
+
+66
+00:04:05,286 --> 00:04:06,495
+directly ahead.
+
+67
+00:04:08,164 --> 00:04:10,290
+That's a Separatist battlesphere.
+
+68
+00:04:10,375 --> 00:04:12,793
+I'm picking up a lot of encrypted chatter.
+
+69
+00:04:12,877 --> 00:04:17,589
+Contact Obi-Wan.
+Stubby, scramble secret code set 1-4-7-7.
+
+70
+00:04:18,466 --> 00:04:20,717
+I don't want that station to pick this up.
+
+71
+00:04:24,180 --> 00:04:26,515
+<i>-Anakin.</i>
+-Master, I believe we've found
+
+72
+00:04:26,599 --> 00:04:28,141
+your Separatist listening post.
+
+73
+00:04:28,226 --> 00:04:30,352
+<i>Excellent work. Back off and wait.</i>
+
+74
+00:04:30,436 --> 00:04:32,980
+<i>I'll send two mainline cruisers</i>
+<i>to help you destroy it.</i>
+
+75
+00:04:33,064 --> 00:04:34,273
+But Artoo...
+
+76
+00:04:34,357 --> 00:04:37,985
+We believe my droid, Artoo, is onboard.
+He's the one that led us here.
+
+77
+00:04:38,319 --> 00:04:39,403
+<i>Hmm.</i>
+
+78
+00:04:39,487 --> 00:04:41,363
+<i>This complicates things.</i>
+
+79
+00:04:41,572 --> 00:04:43,991
+<i>You must sneak aboard that station</i>
+<i>and destroy it</i>
+
+80
+00:04:44,075 --> 00:04:46,118
+<i>before they crack Artoo's memory banks.</i>
+
+81
+00:04:46,411 --> 00:04:50,038
+<i>I know you're fond of that droid,</i>
+<i>but he's fallen into enemy hands.</i>
+
+82
+00:04:50,456 --> 00:04:52,791
+I could rescue Artoo.
+
+83
+00:04:53,042 --> 00:04:55,794
+<i>No, this is not a rescue mission.</i>
+
+84
+00:04:57,005 --> 00:05:00,215
+Keep jamming their scanners.
+If they spot us, we're dead.
+
+85
+00:05:11,185 --> 00:05:12,561
+We're bringing the droid?
+
+86
+00:05:12,645 --> 00:05:16,815
+We'll need Goldie to open secured hatches
+and access the station's computer for us.
+
+87
+00:05:16,941 --> 00:05:19,818
+Oh, and, Rex, you get to carry him.
+
+88
+00:05:22,113 --> 00:05:23,280
+<font color="#DF01D7">(BEEPING CHEERFULLY)</font>
+
+89
+00:05:23,364 --> 00:05:24,740
+<font color="#DF01D7">(DISDAINFULLY)</font> That's just great.
+
+90
+00:05:37,253 --> 00:05:39,004
+Follow me, boys!
+
+91
+00:06:03,613 --> 00:06:06,531
+Take this upstairs
+and be sure not to drop it.
+
+92
+00:06:06,616 --> 00:06:08,158
+Whoa! Ow!
+
+93
+00:06:10,620 --> 00:06:13,997
+Those 631 's are not
+the brightest lights on the ship.
+
+94
+00:06:22,632 --> 00:06:25,509
+Next time,
+you're lugging this astromech around.
+
+95
+00:06:25,635 --> 00:06:27,302
+<font color="#DF01D7">(CHUCKLING)</font>
+
+96
+00:06:27,387 --> 00:06:28,970
+<font color="#DF01D7">(LIGHTSABER WHOOSHING)</font>
+
+97
+00:06:29,055 --> 00:06:31,598
+<font color="#DF01D7">(SCRAPING)</font>
+
+98
+00:06:37,313 --> 00:06:40,148
+All this moisture
+is corroding my servo-motors.
+
+99
+00:06:40,316 --> 00:06:42,651
+Go up to level 8. Get your head adjusted.
+
+100
+00:06:42,819 --> 00:06:44,820
+-It feels great.
+-That'll feel...
+
+101
+00:06:44,904 --> 00:06:46,196
+<font color="#DF01D7">(EXCLAIMS)</font>
+
+102
+00:06:46,280 --> 00:06:47,614
+What the...
+
+103
+00:06:54,163 --> 00:06:55,956
+All right, Stubby, get to work.
+
+104
+00:06:59,377 --> 00:07:04,005
+<font color="#404040">REX:</font> We are here.
+The reactors are 30 levels below us, there.
+
+105
+00:07:04,382 --> 00:07:07,050
+Ahsoka, you take the squad
+and blow up those reactors.
+
+106
+00:07:07,218 --> 00:07:09,845
+Gravity will do the rest.
+We'll meet in the landing bay.
+
+107
+00:07:10,012 --> 00:07:13,890
+-Where are you going?
+-I'm just gonna have a little look around.
+
+108
+00:07:13,975 --> 00:07:16,476
+I hope you find Artoo in one piece.
+
+109
+00:07:17,437 --> 00:07:19,062
+<font color="#DF01D7">(BLEEPING)</font>
+
+110
+00:07:24,235 --> 00:07:27,571
+This is... This is... General Grievous!
+
+111
+00:07:28,281 --> 00:07:29,865
+What is it?
+
+112
+00:07:29,949 --> 00:07:33,785
+It appears this droid's mission memory
+has never been erased.
+
+113
+00:07:34,078 --> 00:07:38,623
+It contains every Republic formation
+and strategy they have.
+
+114
+00:07:40,293 --> 00:07:44,754
+Good work.
+You certainly earned your fee this time.
+
+115
+00:07:44,964 --> 00:07:46,590
+More than my fee.
+
+116
+00:07:46,799 --> 00:07:51,094
+This droid is worth more, I get paid more.
+Now I suggest...
+
+117
+00:07:51,304 --> 00:07:53,054
+<font color="#DF01D7">(GROANS)</font>
+
+118
+00:07:53,764 --> 00:07:55,390
+<font color="#DF01D7">(GRIEVOUS LAUGHING)</font>
+
+119
+00:07:55,475 --> 00:07:57,058
+There's your bonus.
+
+120
+00:08:08,821 --> 00:08:11,239
+Report, Agent R3.
+
+121
+00:08:11,574 --> 00:08:12,908
+<font color="#DF01D7">(BEEPING)</font>
+
+122
+00:08:13,159 --> 00:08:14,659
+The Jedi are here?
+
+123
+00:08:14,911 --> 00:08:16,661
+<i>Delay them until I arrive.</i>
+
+124
+00:08:16,996 --> 00:08:18,330
+<font color="#DF01D7">(BEEPING)</font>
+
+125
+00:08:18,414 --> 00:08:20,415
+Goldie, where are you?
+
+126
+00:08:22,752 --> 00:08:24,252
+Sound the alarm.
+
+127
+00:08:26,130 --> 00:08:28,840
+What are you doing back here? Come on!
+
+128
+00:08:33,095 --> 00:08:36,598
+Now we will transfer
+all your secrets to me.
+
+129
+00:08:36,766 --> 00:08:37,849
+<font color="#DF01D7">(WHIRRING)</font>
+
+130
+00:08:37,934 --> 00:08:41,937
+Don't worry.
+I won't let anything happen to you.
+
+131
+00:08:42,271 --> 00:08:43,772
+<font color="#DF01D7">(WHIRRING)</font>
+
+132
+00:08:47,652 --> 00:08:52,197
+Republic troops have infiltrated the base.
+Keep this droid secured.
+
+133
+00:08:52,323 --> 00:08:53,782
+<font color="#DF01D7">(BEEPING IN RESPONSE)</font>
+
+134
+00:08:53,824 --> 00:08:56,660
+I will deal with the Jedi myself.
+
+135
+00:09:02,833 --> 00:09:04,292
+<font color="#DF01D7">(BEEPS WEAKLY)</font>
+
+136
+00:09:05,795 --> 00:09:09,381
+We found the reactor room, sir.
+The alarm triggered another security door.
+
+137
+00:09:09,632 --> 00:09:11,007
+Ray shielded.
+
+138
+00:09:11,467 --> 00:09:14,386
+-This could take a while to bypass.
+-Good luck with that.
+
+139
+00:09:14,554 --> 00:09:16,972
+Go ahead, Goldie, make me proud.
+
+140
+00:09:19,642 --> 00:09:21,226
+Hope this will be good.
+
+141
+00:09:23,813 --> 00:09:25,105
+<font color="#DF01D7">(BEEPS)</font>
+
+142
+00:09:25,856 --> 00:09:27,315
+<font color="#DF01D7">(FOOTSTEPS APPROACHING)</font>
+
+143
+00:09:27,441 --> 00:09:29,150
+Those droids are getting close, sir.
+
+144
+00:09:29,360 --> 00:09:31,945
+You think R3 is gonna open up
+that door any time soon?
+
+145
+00:09:32,154 --> 00:09:34,823
+He's working on it. Patience, Captain.
+
+146
+00:09:34,991 --> 00:09:36,825
+<font color="#DF01D7">(FOOTSTEPS THUDDING)</font>
+
+147
+00:09:38,035 --> 00:09:41,496
+-<font color="#404040">DENAL:</font> I can always hot-wire it, sir.
+-Hurry up, Goldie.
+
+148
+00:09:42,873 --> 00:09:44,541
+I think we've run out of time.
+
+149
+00:09:44,667 --> 00:09:46,167
+Blast them!
+
+150
+00:09:47,169 --> 00:09:49,379
+<font color="#DF01D7">(LIGHTSABER WHOOSHING)</font>
+
+151
+00:09:59,890 --> 00:10:01,641
+<font color="#DF01D7">(FIRING CONTINUES)</font>
+
+152
+00:10:09,483 --> 00:10:11,568
+Rex, droid-poppers, now!
+
+153
+00:10:11,694 --> 00:10:13,028
+<font color="#404040">REX:</font> Droid-poppers!
+
+154
+00:10:14,071 --> 00:10:15,655
+<font color="#DF01D7">(BEEPING)</font>
+
+155
+00:10:16,157 --> 00:10:17,824
+<font color="#DF01D7">(POWERING UP)</font>
+
+156
+00:10:23,581 --> 00:10:25,040
+<font color="#DF01D7">(BEEPING)</font>
+
+157
+00:10:25,082 --> 00:10:26,875
+<font color="#DF01D7">(POWERING UP)</font>
+
+158
+00:10:35,718 --> 00:10:37,260
+<font color="#DF01D7">(BEEPING)</font>
+
+159
+00:10:37,386 --> 00:10:38,678
+<font color="#DF01D7">(SIZZLING)</font>
+
+160
+00:10:38,721 --> 00:10:41,431
+<i>Take the captured R2 unit to my ship.</i>
+
+161
+00:10:48,022 --> 00:10:51,066
+They sent a child to destroy my station?
+
+162
+00:10:51,901 --> 00:10:54,736
+The Republic must be running out of Jedi.
+
+163
+00:10:55,196 --> 00:10:57,614
+You must be General Grievous.
+
+164
+00:10:57,740 --> 00:10:58,782
+<font color="#DF01D7">(LAUGHING)</font>
+
+165
+00:10:58,908 --> 00:10:59,949
+<font color="#DF01D7">(COUGHING)</font>
+
+166
+00:11:00,076 --> 00:11:04,204
+He's just another tinny, boys.
+Let's scrap him like the rest.
+
+167
+00:11:05,414 --> 00:11:07,457
+<font color="#DF01D7">(LIGHTSABERS WHOOSHING)</font>
+
+168
+00:11:08,709 --> 00:11:10,418
+<font color="#DF01D7">(GROANS)</font>
+
+169
+00:11:16,092 --> 00:11:17,300
+<font color="#DF01D7">(GRUNTING)</font>
+
+170
+00:11:24,266 --> 00:11:28,603
+Sorry to interrupt your playtime, Grumpy,
+but wouldn't you prefer a challenge?
+
+171
+00:11:28,729 --> 00:11:30,605
+That wouldn't be you.
+
+172
+00:11:41,617 --> 00:11:42,909
+<font color="#DF01D7">(GRUNTS)</font>
+
+173
+00:11:44,078 --> 00:11:45,245
+<font color="#DF01D7">(R3 BEEPS)</font>
+
+174
+00:11:52,920 --> 00:11:55,130
+All units stay on high alert.
+
+175
+00:11:55,172 --> 00:11:58,508
+Watch out for a second Jedi
+loose in the station.
+
+176
+00:12:05,516 --> 00:12:06,808
+<font color="#DF01D7">(R2-D2 BEEPING)</font>
+
+177
+00:12:06,934 --> 00:12:08,143
+Artoo!
+
+178
+00:12:11,939 --> 00:12:13,732
+Hang on, Artoo!
+
+179
+00:12:13,983 --> 00:12:15,316
+<font color="#DF01D7">(R2-D2 BEEPS)</font>
+
+180
+00:12:21,365 --> 00:12:24,200
+Where is the fight
+you promised me, youngling?
+
+181
+00:12:31,792 --> 00:12:33,793
+<font color="#DF01D7">(COMLINK BEEPS)</font>
+
+182
+00:12:35,045 --> 00:12:38,047
+Ahsoka, it's me, Rex.
+There are only two of us left.
+
+183
+00:12:38,132 --> 00:12:41,301
+-Should we abort the mission?
+-No. Complete the mission.
+
+184
+00:12:41,385 --> 00:12:43,803
+Set the charges
+and rendezvous at the landing bay.
+
+185
+00:12:43,846 --> 00:12:46,181
+<i>-<font color="#404040">REX:</font> But, sir...</i>
+-That's an order, Rex.
+
+186
+00:12:46,265 --> 00:12:48,850
+I'll keep the General busy. Ahsoka out.
+
+187
+00:12:49,560 --> 00:12:53,188
+She's distracting Grievous.
+Come on, we've still got a job to do.
+
+188
+00:12:54,523 --> 00:12:57,859
+Come here, child. I'm looking for you.
+
+189
+00:12:58,611 --> 00:13:01,112
+So far, you have failed to impress me.
+
+190
+00:13:02,531 --> 00:13:04,365
+Goldie! Over here!
+
+191
+00:13:04,450 --> 00:13:05,617
+<font color="#DF01D7">(BEEPING)</font>
+
+192
+00:13:05,701 --> 00:13:06,826
+Goldie, no!
+
+193
+00:13:06,911 --> 00:13:07,994
+<font color="#DF01D7">(GASPS)</font>
+
+194
+00:13:08,078 --> 00:13:09,704
+<font color="#404040">REX:</font> <i>Ahsoka, we're in the reactor room.</i>
+
+195
+00:13:12,249 --> 00:13:15,794
+Your friends won't help you.
+You're stuck with me.
+
+196
+00:13:27,348 --> 00:13:28,723
+<font color="#DF01D7">(BEEPING)</font>
+
+197
+00:13:29,809 --> 00:13:31,643
+You have something that belongs to me.
+
+198
+00:14:05,469 --> 00:14:06,636
+<font color="#DF01D7">(BEEPS)</font>
+
+199
+00:14:11,517 --> 00:14:12,809
+Thanks, Artoo.
+
+200
+00:14:12,893 --> 00:14:14,102
+<font color="#DF01D7">(BEEPS WEARILY)</font>
+
+201
+00:14:14,186 --> 00:14:17,605
+It's great to see you, too, buddy.
+You don't look so good. You okay?
+
+202
+00:14:18,232 --> 00:14:19,941
+<font color="#DF01D7">(BEEPS IN AFFIRMATION)</font>
+
+203
+00:14:19,984 --> 00:14:21,734
+<font color="#DF01D7">(COMLINK BEEPING)</font>
+
+204
+00:14:23,028 --> 00:14:26,614
+Rex. Rex, can you hear me?
+R3. R3, is that you?
+
+205
+00:14:27,408 --> 00:14:30,243
+I've got Artoo.
+I'll meet you back at the landing bay.
+
+206
+00:14:32,329 --> 00:14:33,413
+<font color="#DF01D7">(BEEPS INQUISITIVELY)</font>
+
+207
+00:14:33,497 --> 00:14:36,416
+R3?
+Yeah, I had to get a replacement droid.
+
+208
+00:14:36,625 --> 00:14:37,959
+Look, sorry, Artoo.
+
+209
+00:14:38,002 --> 00:14:39,127
+<font color="#DF01D7">(BEEPS ENVIOUSLY)</font>
+
+210
+00:14:39,169 --> 00:14:40,503
+It was Obi-Wan's idea.
+
+211
+00:14:40,629 --> 00:14:42,672
+Look, we'll talk about this later.
+
+212
+00:14:42,840 --> 00:14:44,340
+Twilight, this is Skywalker.
+
+213
+00:14:46,302 --> 00:14:49,304
+<i>Rendezvous at the south landing bay</i>
+<i>immediately for evacuation.</i>
+
+214
+00:14:49,388 --> 00:14:51,723
+Acknowledged, General. I'm on my way.
+
+215
+00:14:56,103 --> 00:14:59,314
+R3, what have you to report?
+
+216
+00:15:00,149 --> 00:15:02,650
+<font color="#DF01D7">(BEEPING)</font>
+
+217
+00:15:03,319 --> 00:15:05,778
+That stubby little backstabber.
+
+218
+00:15:05,988 --> 00:15:09,157
+So, Skywalker has come for his R2 unit.
+
+219
+00:15:09,491 --> 00:15:10,742
+<font color="#DF01D7">(LAUGHING)</font>
+
+220
+00:15:10,868 --> 00:15:13,494
+Go and make certain they do not escape.
+
+221
+00:15:26,759 --> 00:15:30,094
+Great, there's the Twilight.
+Now, where's everyone else?
+
+222
+00:15:33,140 --> 00:15:34,182
+Sir.
+
+223
+00:15:34,308 --> 00:15:35,475
+<font color="#DF01D7">(R3-S6 BEEPING)</font>
+
+224
+00:15:35,517 --> 00:15:37,727
+<font color="#404040">ANAKIN:</font> Hey, Stubby, where's Ahsoka?
+
+225
+00:15:40,689 --> 00:15:41,981
+<font color="#404040">REX:</font> General Skywalker!
+
+226
+00:15:42,024 --> 00:15:44,400
+Explosives are in place, sir.
+Objective completed.
+
+227
+00:15:44,652 --> 00:15:47,528
+-Where is Ahsoka?
+-She engaged General Grievous.
+
+228
+00:15:47,655 --> 00:15:48,738
+Alone?
+
+229
+00:15:48,822 --> 00:15:50,949
+She distracted him
+while we completed the mission.
+
+230
+00:15:51,158 --> 00:15:54,035
+It was on her orders, sir.
+The droid was with her.
+
+231
+00:15:54,078 --> 00:15:56,704
+-We've gotta find her.
+-I can take you to her, sir.
+
+232
+00:16:04,880 --> 00:16:07,966
+What is the matter with you?
+Are you trying to get us killed?
+
+233
+00:16:08,050 --> 00:16:09,175
+<font color="#DF01D7">(BEEPS)</font>
+
+234
+00:16:20,729 --> 00:16:23,564
+<font color="#404040">REX:</font> I've got a bad feeling about this, sir.
+
+235
+00:16:24,733 --> 00:16:26,943
+That double-crossing droid is a spy.
+
+236
+00:16:27,027 --> 00:16:28,903
+<font color="#DF01D7">(BEEPS)</font>
+
+237
+00:16:51,301 --> 00:16:53,136
+<font color="#DF01D7">(GRIEVOUS GROWLS)</font>
+
+238
+00:16:54,304 --> 00:16:56,931
+<font color="#DF01D7">(AHSOKA GRUNTING)</font>
+
+239
+00:17:00,102 --> 00:17:03,229
+Another lightsaber
+to add to my collection.
+
+240
+00:17:03,772 --> 00:17:08,276
+My spy droid, R3,
+has trapped your precious master.
+
+241
+00:17:08,777 --> 00:17:11,738
+When I've finished with you, he's next.
+
+242
+00:17:12,114 --> 00:17:14,866
+You're wrong. He's gone by now,
+
+243
+00:17:15,159 --> 00:17:18,828
+and he's gonna blow up
+your precious spy station.
+
+244
+00:17:19,288 --> 00:17:20,830
+Not this time.
+
+245
+00:17:21,999 --> 00:17:23,332
+<font color="#DF01D7">(FIRING)</font>
+
+246
+00:17:28,714 --> 00:17:33,217
+-Captain, trigger the explosives!
+-But, sir, we're still in the station.
+
+247
+00:17:33,302 --> 00:17:36,763
+-You just let me worry about the details.
+-Sir, yes, sir.
+
+248
+00:17:38,807 --> 00:17:39,849
+<font color="#DF01D7">(BEEPS)</font>
+
+249
+00:17:39,933 --> 00:17:41,392
+<font color="#DF01D7">(EXPLOSIONS)</font>
+
+250
+00:17:57,493 --> 00:17:58,826
+<font color="#DF01D7">(ROARS)</font>
+
+251
+00:18:04,750 --> 00:18:07,168
+Artoo, I need you
+to get the hangar door open.
+
+252
+00:18:08,003 --> 00:18:10,296
+See if there are any controls
+in the outer platform.
+
+253
+00:18:10,339 --> 00:18:32,819
+<font color="#DF01D7">(R2-D2 BEEPING)</font>
+
+254
+00:19:00,097 --> 00:19:01,556
+<font color="#DF01D7">(BEEPING RAPIDLY)</font>
+
+255
+00:19:01,640 --> 00:19:02,723
+<font color="#DF01D7">(POWERING DOWN)</font>
+
+256
+00:19:07,104 --> 00:19:08,855
+So, what did I miss?
+
+257
+00:19:09,356 --> 00:19:10,982
+Oh, the usual.
+
+258
+00:19:12,693 --> 00:19:15,403
+It was foolish of you
+to take on Grievous by yourself.
+
+259
+00:19:15,487 --> 00:19:20,199
+Well, I was leading the mission, and
+it seemed like a good idea at the time.
+
+260
+00:19:26,415 --> 00:19:29,584
+Did he tell you your stubby
+little gold droid pal works for him?
+
+261
+00:19:30,085 --> 00:19:33,880
+He might have mentioned it.
+I guess we were all fooled.
+
+262
+00:19:37,176 --> 00:19:40,136
+General Skywalker,
+there are fuel cells over here!
+
+263
+00:19:40,304 --> 00:19:41,470
+Get ready, Rex.
+
+264
+00:19:52,608 --> 00:19:54,567
+-Artoo did it.
+-Of course he did it.
+
+265
+00:19:54,776 --> 00:19:55,943
+Now, let's get out of here.
+
+266
+00:19:56,904 --> 00:19:58,154
+<font color="#DF01D7">(WHIRRING)</font>
+
+267
+00:19:58,989 --> 00:20:00,323
+Artoo, where are you?
+
+268
+00:20:10,542 --> 00:20:11,792
+<font color="#DF01D7">(EXPLOSIONS)</font>
+
+269
+00:20:16,757 --> 00:20:17,965
+<font color="#DF01D7">(BEEPING)</font>
+
+270
+00:20:18,800 --> 00:20:19,967
+<font color="#DF01D7">(SQUEAKS)</font>
+
+271
+00:20:20,052 --> 00:20:23,054
+<font color="#404040">REX:</font> General Skywalker's gotten
+into his fighter. Where's he going?
+
+272
+00:20:23,138 --> 00:20:24,805
+He's going after Artoo.
+
+273
+00:20:24,973 --> 00:20:27,225
+I'll be right back. Don't wait for me.
+
+274
+00:20:34,149 --> 00:20:35,274
+<font color="#DF01D7">(BEEPING)</font>
+
+275
+00:20:40,280 --> 00:20:41,864
+<font color="#DF01D7">(R3-S6 BEEPS)</font>
+
+276
+00:20:46,036 --> 00:20:47,578
+<font color="#DF01D7">(R3-S6 SCREAMS)</font>
+
+277
+00:20:52,668 --> 00:20:54,460
+<font color="#404040">ANAKIN:</font> Come on, Artoo.
+
+278
+00:20:57,506 --> 00:20:59,006
+<font color="#DF01D7">(R2-D2 BEEPING EXCITEDLY)</font>
+
+279
+00:21:12,187 --> 00:21:14,021
+<i>So let me get this straight, Anakin.</i>
+
+280
+00:21:14,356 --> 00:21:20,361
+<i>You risked the mission, all your men,</i>
+<i>even your Padawan, to save a droid?</i>
+
+281
+00:21:20,445 --> 00:21:21,737
+<font color="#DF01D7">(R2-D2 BEEPS IN AFFIRMATION)</font>
+
+282
+00:21:21,863 --> 00:21:24,907
+Artoo found the listening post,
+and he saved our lives.
+
+283
+00:21:25,200 --> 00:21:27,201
+We couldn't just leave him there, Obi-Wan.
+
+284
+00:21:27,369 --> 00:21:29,954
+<i><font color="#DF01D7">(SIGHS)</font> Anakin, one day...</i>
+
+285
+00:21:31,623 --> 00:21:35,835
+I'm glad we got Artoo back, Master,
+but Obi-Wan does have a point.
+
+286
+00:21:35,919 --> 00:21:38,254
+Ahsoka, I knew
+you would complete the mission.
+
+287
+00:21:38,547 --> 00:21:42,341
+Besides, Artoo is more than a droid.
+He's a friend.
+
+288
+00:21:42,801 --> 00:21:45,094
+<font color="#DF01D7">(R2-D2 BEEPING EXCITEDLY)</font>
+
+289
+00:22:26,511 --> 00:22:27,511
+English - SDH
+

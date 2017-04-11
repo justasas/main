@@ -1,0 +1,3089 @@
+﻿1
+00:01:44,813 --> 00:01:47,441
+<i>Major. Hey, Major!</i>
+
+2
+00:01:49,860 --> 00:01:52,237
+<i>What was that? Virtual reality?</i>
+
+3
+00:01:52,279 --> 00:01:55,991
+<i>I'm on vacation. Don't be so casual
+about entering my cyber lobby.</i>
+
+4
+00:01:56,074 --> 00:01:59,828
+<i>My condolences. There's been a
+terrorist bombing in Nishinouchi.</i>
+
+5
+00:01:59,870 --> 00:02:02,414
+<i>The vies were an executive at a
+foreign-owned water company,</i>
+
+6
+00:02:02,456 --> 00:02:05,584
+<i>a Trade Ministry official, and
+a domestic weapons manufacturer.</i>
+
+7
+00:02:06,543 --> 00:02:09,004
+<i>The top-priority entry in the
+terrorism prediction list</i>
+
+8
+00:02:09,046 --> 00:02:12,007
+<i>you gave Public Security
+was right on target.</i>
+
+9
+00:02:12,049 --> 00:02:15,302
+<i>I assume they were in a secret
+meeting to agree on water prices.</i>
+
+10
+00:02:15,344 --> 00:02:17,985
+<i>Everything's in smithereens, including
+some Foreign Affairs guards.</i>
+
+11
+00:02:18,931 --> 00:02:21,767
+<i>There was also an explosion at
+the Yamanote Dam, by the way.</i>
+
+12
+00:02:21,809 --> 00:02:23,310
+<i>The dam?</i>
+
+13
+00:02:26,230 --> 00:02:28,106
+<i>Dunno if it's related.</i>
+
+14
+00:02:28,148 --> 00:02:30,359
+<i>But it essentially belongs to a
+foreign-owned water company,</i>
+
+15
+00:02:30,400 --> 00:02:33,529
+<i>and there's a retired
+Trade official on staff.</i>
+
+16
+00:02:37,074 --> 00:02:40,619
+<i>The bureaucrats' turf wars are
+intense in that industry.</i>
+
+17
+00:02:41,954 --> 00:02:44,665
+<i>So, who asked for us?</i>
+
+18
+00:02:44,706 --> 00:02:47,042
+<i>Section 9, as usual.</i>
+
+19
+00:02:47,125 --> 00:02:51,046
+<i>They failed to put your list to good
+use, but they did track the preps.</i>
+
+20
+00:02:51,088 --> 00:02:54,341
+<i>They say they can't secure
+'em, though. Too outgunned.</i>
+
+21
+00:02:59,346 --> 00:03:02,516
+<i>Call everyone in. I'm coming too.</i>
+
+22
+00:03:03,100 --> 00:03:04,685
+Work calls?
+
+23
+00:03:07,187 --> 00:03:09,022
+I'm sorry.
+
+24
+00:03:09,064 --> 00:03:13,694
+5 hours, 7 minutes.
+That's a record-length vacation for you.
+
+25
+00:03:13,735 --> 00:03:19,074
+Are you consulting for the police today?
+Or the Cyberbrain Development Bureau?
+
+26
+00:03:19,157 --> 00:03:21,577
+I'll make it up to you.
+
+27
+00:03:21,618 --> 00:03:24,580
+Don't forget what we talked about.
+
+28
+00:03:24,663 --> 00:03:25,998
+Are you serious?
+
+29
+00:03:26,039 --> 00:03:27,165
+Of course.
+
+30
+00:03:27,207 --> 00:03:31,879
+You should get going. All your
+customers are impatient types, right?
+
+31
+00:03:33,589 --> 00:03:34,214
+Yes.
+
+32
+00:03:34,673 --> 00:03:39,887
+<i>Wow, you've been with that guy for
+3 months! That's a new reorder.</i>
+
+33
+00:03:43,765 --> 00:03:47,185
+<i>Don't be so casual about using
+that Ghost infiltration key.</i>
+
+34
+00:04:55,504 --> 00:04:59,591
+Your precinct ID'd him as
+Detective Naoharu Mizuki.
+
+35
+00:04:59,633 --> 00:05:01,468
+Is that right?
+
+36
+00:05:01,510 --> 00:05:04,137
+Yeah. He's my senior.
+
+37
+00:05:11,937 --> 00:05:13,981
+Is this all he had on him?
+
+38
+00:05:14,022 --> 00:05:16,191
+His holster was empty.
+
+39
+00:05:16,233 --> 00:05:19,361
+His piece must've been
+washed away or stolen.
+
+40
+00:05:19,403 --> 00:05:22,531
+It's hard to believe the gun under
+his jacket would get washed away.
+
+41
+00:05:22,572 --> 00:05:25,659
+And it'd be odd for someone to steal
+his gun but leave his wallet.
+
+42
+00:05:31,707 --> 00:05:33,375
+A prosthetic specialist...
+
+43
+00:05:35,085 --> 00:05:37,504
+He sure doesn't look cyborg.
+
+44
+00:05:37,546 --> 00:05:41,133
+Lieutenant, your guys rounded up all the
+unclaimed property in the area, right?
+
+45
+00:05:41,174 --> 00:05:43,385
+Let's look for something
+else that ties back to him.
+
+46
+00:05:43,468 --> 00:05:45,470
+You want me to be your errand boy?
+
+47
+00:05:45,512 --> 00:05:48,140
+If the darn incident was
+really an accident, yes.
+
+48
+00:05:48,265 --> 00:05:52,185
+Lieutenant! I found something odd.
+
+49
+00:05:55,397 --> 00:05:56,690
+What are these?
+
+50
+00:05:56,732 --> 00:05:58,817
+They look like prosthetic, but...
+
+51
+00:06:07,617 --> 00:06:09,745
+Mermaid's Legs...
+
+52
+00:06:17,044 --> 00:06:17,919
+<i>Report.</i>
+
+53
+00:06:19,546 --> 00:06:23,717
+Lots of injured cops.
+6 perps still going strong.
+
+54
+00:06:23,759 --> 00:06:25,510
+They're on their way to Ward 4.
+
+55
+00:06:25,552 --> 00:06:28,096
+They see right through
+the police strategy.
+
+56
+00:06:28,138 --> 00:06:31,391
+They secured an escape
+route ahead of time.
+
+57
+00:06:31,433 --> 00:06:34,019
+This group is highly trained.
+
+58
+00:06:34,061 --> 00:06:37,439
+They have a commander somewhere
+out there. Ishikawa!
+
+59
+00:06:39,316 --> 00:06:41,026
+<i>I picked up their line!</i>
+
+60
+00:06:44,821 --> 00:06:47,532
+The 7th one.
+This is their leader.
+
+61
+00:07:19,773 --> 00:07:23,318
+This is a cutting-edge ghost lock.
+Don't waste time resisting.
+
+62
+00:07:24,861 --> 00:07:26,986
+<i>I'll make him order his
+friends to surrender.</i>
+
+63
+00:07:26,987 --> 00:07:29,825
+<i>Ishikawa, run a forced
+recognition program.</i>
+
+64
+00:07:29,866 --> 00:07:30,742
+<i>Roger.</i>
+
+65
+00:07:32,035 --> 00:07:35,580
+<i>Abort the operation. Throw
+down your guns and surrender.</i>
+
+66
+00:07:36,331 --> 00:07:40,836
+<i>Repeat." Abort the
+operation and surrender.</i>
+
+67
+00:07:44,464 --> 00:07:45,924
+Huh?
+
+68
+00:07:48,385 --> 00:07:50,262
+Aw, no shootout?
+
+69
+00:07:51,847 --> 00:07:54,182
+I captured one!
+
+70
+00:07:56,017 --> 00:07:58,353
+Hey, you're pretty useful!
+
+71
+00:08:00,355 --> 00:08:02,190
+We got the last one.
+
+72
+00:08:02,315 --> 00:08:05,026
+Good. Hand them all over
+to Public Security.
+
+73
+00:08:07,362 --> 00:08:09,030
+A virus alert?
+
+74
+00:08:11,658 --> 00:08:13,535
+It's the man you captured!
+
+75
+00:08:28,383 --> 00:08:29,509
+This pain...
+
+76
+00:08:36,266 --> 00:08:38,226
+The ghost lock released?
+
+77
+00:08:39,436 --> 00:08:40,395
+<i>Major?</i>
+
+78
+00:08:40,437 --> 00:08:42,230
+<i>Shit. Saito!</i>
+
+79
+00:08:46,193 --> 00:08:47,652
+<i>Don't kill him!</i>
+
+80
+00:09:16,097 --> 00:09:17,599
+No more of that!
+
+81
+00:09:21,228 --> 00:09:26,274
+<i>Damn, it feels gross having someone
+infiltrate my Ghost-even the Major.</i>
+
+82
+00:09:26,316 --> 00:09:27,775
+<i>Truer words...</i>
+
+83
+00:09:27,776 --> 00:09:30,195
+Your fault for aiming for the head.
+
+84
+00:09:30,278 --> 00:09:34,950
+Don't hand them over yet. We'll take
+them to a lockup with cyber facilities.
+
+85
+00:09:35,075 --> 00:09:36,952
+You telling me to play
+interrogation partner?
+
+86
+00:09:37,077 --> 00:09:39,537
+I'm not interested
+in fake memories.
+
+87
+00:09:39,621 --> 00:09:41,373
+Memories?
+
+88
+00:09:41,456 --> 00:09:44,626
+I'm interested in their
+contaminated Ghosts.
+
+89
+00:09:53,385 --> 00:09:56,721
+Sorry I had to call you down here.
+
+90
+00:09:56,805 --> 00:09:59,473
+It's my civic duty.
+
+91
+00:09:59,474 --> 00:10:03,311
+I understand you're in charge
+of the dam. Let's see...
+
+92
+00:10:04,312 --> 00:10:07,315
+Dr. Zhinzhee Bekka Arr Thied.
+
+93
+00:10:07,357 --> 00:10:10,151
+Please, call me Thied.
+
+94
+00:10:10,193 --> 00:10:12,904
+You've got quite the
+tough-looking secretary.
+
+95
+00:10:12,988 --> 00:10:14,823
+He's very reliable.
+
+96
+00:10:14,948 --> 00:10:19,661
+The conflicts continue in the Republic
+of Kuzan, where you're from.
+
+97
+00:10:19,786 --> 00:10:26,001
+I hear the Qhardi ethnic minority in particular
+is still waging a war of independence.
+
+98
+00:10:26,042 --> 00:10:28,253
+It's a heartbreaking war.
+
+99
+00:10:28,336 --> 00:10:30,922
+You're Qhardi, correct?
+
+100
+00:10:31,006 --> 00:10:36,845
+Yes. Like the majority of my comrades,
+I wish for a peaceful solution.
+
+101
+00:10:38,471 --> 00:10:40,015
+So, the explosion at the darn...
+
+102
+00:10:40,140 --> 00:10:42,684
+I'm told it was a
+valve malfunction.
+
+103
+00:10:42,809 --> 00:10:47,939
+Your company sells water, right?
+For what type of use?
+
+104
+00:10:48,023 --> 00:10:53,862
+It's for precision machinery businesses.
+That industry relies on 100% pure water.
+
+105
+00:10:53,987 --> 00:10:57,866
+Precision machinery... Prosthetic
+manufacturing, for example?
+
+106
+00:10:57,867 --> 00:10:59,367
+Yes.
+
+107
+00:11:01,244 --> 00:11:02,620
+Chief...
+
+108
+00:11:04,122 --> 00:11:05,206
+You idiot!
+
+109
+00:11:05,582 --> 00:11:08,710
+The Trade Ministry got them
+invited to set up a plant here!
+
+110
+00:11:08,835 --> 00:11:11,212
+You want to make an enemy
+of the local precinct, too?
+
+111
+00:11:11,213 --> 00:11:12,881
+But...
+
+112
+00:11:17,594 --> 00:11:19,971
+Stop, that's evidence!
+
+113
+00:11:20,597 --> 00:11:26,561
+I'm very grateful to you for finding
+the goods stolen from our warehouse.
+
+114
+00:11:26,686 --> 00:11:28,980
+Please, take them with you.
+
+115
+00:11:29,064 --> 00:11:29,981
+Chief!
+
+116
+00:11:30,065 --> 00:11:31,566
+Back off!
+
+117
+00:11:32,567 --> 00:11:34,402
+A detective died, sir.
+
+118
+00:11:34,444 --> 00:11:36,404
+You think I don't know that?
+
+119
+00:11:36,446 --> 00:11:38,907
+You go to Nishinouchi
+and get me information.
+
+120
+00:11:39,616 --> 00:11:41,409
+Nishinouchi? What's there?
+
+121
+00:11:41,534 --> 00:11:45,663
+A bombing, apparently
+by Qhardi terrorists.
+
+122
+00:11:45,747 --> 00:11:48,583
+Now listen: You consult your superiors
+before any moves on this case.
+
+123
+00:11:48,625 --> 00:11:49,501
+Terrorism?
+
+124
+00:11:50,919 --> 00:11:55,715
+If the explosion was intentional,
+and he wasn't a victim...
+
+125
+00:11:56,091 --> 00:11:57,092
+What?
+
+126
+00:11:57,217 --> 00:11:59,427
+Yes, sir! I'm on it!
+
+127
+00:12:02,222 --> 00:12:04,265
+Don't make any trouble!
+
+128
+00:12:08,436 --> 00:12:13,358
+They're a Qhardi weapons smuggling gang.
+I met them on an undercover op.
+
+129
+00:12:13,441 --> 00:12:16,861
+Their goal is to send weapons
+to their comrades back home.
+
+130
+00:12:16,945 --> 00:12:19,278
+They've got no reason
+to attack this country.
+
+131
+00:12:19,279 --> 00:12:21,280
+Their statements
+were crystal clear:
+
+132
+00:12:21,281 --> 00:12:25,286
+They're against the pricing agreement,
+so they bombed the meeting site.
+
+133
+00:12:25,328 --> 00:12:28,081
+Are you telling me those
+are planted memories?
+
+134
+00:12:28,206 --> 00:12:30,875
+I'm betting they're all infected.
+
+135
+00:12:30,959 --> 00:12:33,962
+And that the virus interfered
+with my ghost lock.
+
+136
+00:12:40,260 --> 00:12:42,637
+Well done. You subdued
+them brilliantly.
+
+137
+00:12:42,762 --> 00:12:47,934
+We could do it even more easily if you
+adjusted your comm standards to ours.
+
+138
+00:12:48,059 --> 00:12:49,644
+I read your report.
+
+139
+00:12:49,769 --> 00:12:52,147
+A false memory virus that
+can infiltrate, hack,
+
+140
+00:12:52,148 --> 00:12:55,316
+and brainwash simultaneously?
+
+141
+00:12:55,358 --> 00:12:57,986
+It's a self-destructing
+Stuxnet-type.
+
+142
+00:12:58,027 --> 00:13:01,156
+Other than the symptoms at its
+onset, it leaves no trace.
+
+143
+00:13:01,281 --> 00:13:05,160
+Electronic manipulation of
+memory is incredibly difficult.
+
+144
+00:13:05,285 --> 00:13:07,495
+No one in the world has
+been confirmed successful.
+
+145
+00:13:07,537 --> 00:13:12,332
+And yet past incidents tell us a
+maker and a broker clearly exist.
+
+146
+00:13:12,333 --> 00:13:16,921
+Yes. Somewhere out there is the
+super-wizard-class programmer
+
+147
+00:13:17,005 --> 00:13:20,173
+known as "Fire-Starter" who created
+this high-level cyber-virus.
+
+148
+00:13:20,174 --> 00:13:23,678
+But until now, no organization in the
+world had uncovered his identity.
+
+149
+00:13:23,720 --> 00:13:25,180
+Did you?
+
+150
+00:13:25,305 --> 00:13:27,015
+A clue, anyway.
+
+151
+00:13:32,854 --> 00:13:34,105
+What's this?
+
+152
+00:13:34,189 --> 00:13:36,858
+All the terrorists
+had the same tattoo.
+
+153
+00:13:36,900 --> 00:13:42,197
+It's a symbol used by Scylla, the hero
+who once led the Qhardi Separatist Army.
+
+154
+00:13:42,572 --> 00:13:46,451
+I've heard of him. Word is he's
+a master of cyber warfare.
+
+155
+00:13:46,534 --> 00:13:48,203
+Is he Fire-Starter?
+
+156
+00:13:48,328 --> 00:13:51,038
+No way. He died during the war.
+
+157
+00:13:51,039 --> 00:13:53,374
+You're going to find out
+whether that's true.
+
+158
+00:13:53,416 --> 00:13:56,544
+I'll authorize limited access
+to Section 9's database.
+
+159
+00:13:56,586 --> 00:13:58,213
+Read the details there.
+
+160
+00:13:58,338 --> 00:13:59,546
+That's all?
+
+161
+00:13:59,547 --> 00:14:00,881
+You're complaining?
+
+162
+00:14:00,882 --> 00:14:05,887
+I gave you all the Logicomas I have, plus
+our weapons and permission to use them.
+
+163
+00:14:05,888 --> 00:14:10,558
+Any lists I make are meaningless
+if the organization can't act.
+
+164
+00:14:10,600 --> 00:14:11,893
+And?
+
+165
+00:14:11,935 --> 00:14:14,229
+I want special authority
+and an approved budget.
+
+166
+00:14:14,230 --> 00:14:20,234
+And make your flimsy comm lines backward
+compatible with ours while you're at it.
+
+167
+00:14:20,235 --> 00:14:25,657
+Enough! Your team isn't regulation size,
+and I'm graciously turning a blind eye!
+
+168
+00:14:25,740 --> 00:14:28,576
+This unit is standardized
+to the perfect specs.
+
+169
+00:14:28,701 --> 00:14:30,245
+We don't need more people.
+
+170
+00:14:30,286 --> 00:14:33,164
+Then the whole unit will go
+down the second you get hacked.
+
+171
+00:14:33,248 --> 00:14:35,250
+Just like those terrorists did.
+
+172
+00:14:36,251 --> 00:14:38,878
+Your "perfect specs"
+don't merit my trust.
+
+173
+00:14:39,546 --> 00:14:42,674
+If you want authority and a budget,
+get at least one more member
+
+174
+00:14:42,757 --> 00:14:46,094
+and accept cooperation from
+someone with different specs.
+
+175
+00:14:47,637 --> 00:14:52,600
+If they won't give us money, we're stuck
+in this garbage dump for a while.
+
+176
+00:14:54,310 --> 00:14:56,938
+I'm just glad we've
+got a lab to use.
+
+177
+00:14:58,398 --> 00:15:03,278
+Yeah, high prosthetic performance
+takes superior maintenance...
+
+178
+00:15:04,779 --> 00:15:09,450
+We'll have to pay for upgrades out
+of pocket. Costs a lot, though.
+
+179
+00:15:11,160 --> 00:15:14,122
+Training ground instructors
+make pretty good money.
+
+180
+00:15:15,623 --> 00:15:19,711
+Top-quality maintenance facilities,
+authority-we'll get it all.
+
+181
+00:15:19,794 --> 00:15:21,635
+Stop wasting time bitching
+and solve our case!
+
+182
+00:15:22,672 --> 00:15:24,132
+His nationality's unknown.
+
+183
+00:15:24,133 --> 00:15:27,552
+He uses multiple bodies
+to conceal his identity,
+
+184
+00:15:27,635 --> 00:15:30,972
+earning the name
+Skulla, aka Scylla.
+
+185
+00:15:31,097 --> 00:15:33,975
+That's the name of a monster
+from Greek mythology.
+
+186
+00:15:34,100 --> 00:15:38,062
+A pro at warfare who led a
+separatist army, and whiz hacker...
+
+187
+00:15:38,146 --> 00:15:40,732
+Huh, his specialty is tunnel ops.
+
+188
+00:15:40,815 --> 00:15:42,149
+"Tunnel ops"?
+
+189
+00:15:42,150 --> 00:15:44,152
+That's when you bomb
+someplace's lifelines
+
+190
+00:15:44,193 --> 00:15:47,238
+and then infiltrate them electronically
+during their restoration.
+
+191
+00:15:47,822 --> 00:15:51,993
+Ultimately you wage a destructive
+cyber-attack from inside their defenses.
+
+192
+00:15:52,035 --> 00:15:56,331
+The forces who tried to prevent
+independence took a major hit instead.
+
+193
+00:15:56,456 --> 00:16:00,167
+But Kuzan joined forces
+with advanced nations
+
+194
+00:16:00,168 --> 00:16:02,837
+to manipulate the Qhardis in
+order to contain its neighbors.
+
+195
+00:16:03,087 --> 00:16:07,342
+It was a throwaway war of independence,
+and this country was especially involved.
+
+196
+00:16:07,467 --> 00:16:09,842
+No one recognized the Qhardis'
+independence after the war,
+
+197
+00:16:09,843 --> 00:16:12,513
+and the guerillas were
+disbanded and slaughtered.
+
+198
+00:16:12,597 --> 00:16:14,639
+But their dead leader
+was actually alive,
+
+199
+00:16:14,640 --> 00:16:18,853
+and he developed a special virus ahead of
+all the world's research institutions,
+
+200
+00:16:18,978 --> 00:16:22,523
+then changed his name to Fire-Starter
+and began his revenge...
+
+201
+00:16:22,649 --> 00:16:24,982
+I follow the logic, but
+is it really possible?
+
+202
+00:16:24,983 --> 00:16:29,364
+In a conflict zone, you can do all
+the human experimentation you want.
+
+203
+00:16:29,489 --> 00:16:30,990
+It's no wonder, really.
+
+204
+00:16:30,991 --> 00:16:33,534
+Scylla is dead.
+
+205
+00:16:33,618 --> 00:16:35,494
+A successor of his, then?
+
+206
+00:16:35,495 --> 00:16:39,874
+Either way, the broker isn't peddling
+it without knowing what it does.
+
+207
+00:16:39,957 --> 00:16:45,046
+So he wanted to use those guerillas to
+repeat his old tunnel operation here?
+
+208
+00:16:45,129 --> 00:16:50,008
+It bothers me that no one
+was carrying a detonator.
+
+209
+00:16:50,009 --> 00:16:51,886
+Borma, check out the crime scene.
+
+210
+00:16:51,887 --> 00:16:52,886
+Roger.
+
+211
+00:16:52,887 --> 00:16:57,723
+Paz, you and Saito pay the gang a visit.
+I want to know who trained them.
+
+212
+00:16:57,724 --> 00:17:00,895
+Batou and Ishikawa, you look into
+the possibility of a tunnel op.
+
+213
+00:17:01,020 --> 00:17:03,523
+Do you plan to dive into
+the guerillas' cyberbrains
+
+214
+00:17:03,524 --> 00:17:05,400
+looking for the virus?
+
+215
+00:17:07,527 --> 00:17:09,862
+I'll get a tune-up
+on my body first.
+
+216
+00:17:13,700 --> 00:17:15,076
+A tune-Up?
+
+217
+00:17:15,159 --> 00:17:18,413
+It's her boyfriend. He's an
+ex-military prosthetics tech.
+
+218
+00:17:18,496 --> 00:17:20,081
+No, isn't he a Navy sailor?
+
+219
+00:17:20,206 --> 00:17:21,916
+That was the last one.
+
+220
+00:17:21,999 --> 00:17:23,084
+They fought on a date,
+
+221
+00:17:23,209 --> 00:17:25,712
+and she kicked his ass hard enough
+to put him in the hospital.
+
+222
+00:17:26,838 --> 00:17:28,878
+What about that rich one
+from the Cyberbrain Bureau?
+
+223
+00:17:28,881 --> 00:17:31,092
+He didn't last 2 weeks.
+
+224
+00:17:31,217 --> 00:17:33,884
+So this is the 6th in 6 months?
+She's got a sickness.
+
+225
+00:17:33,885 --> 00:17:37,515
+No, it's instinct. I never sleep
+with the same woman twice either.
+
+226
+00:17:37,932 --> 00:17:40,435
+Because you always end up a
+hostage or a target for revenge?
+
+227
+00:17:40,436 --> 00:17:42,437
+No, because it's my policy.
+
+228
+00:17:42,562 --> 00:17:46,107
+At least do background checks on them!
+What if one of them's a trap?
+
+229
+00:17:46,232 --> 00:17:48,776
+It's better than hearing,
+"I want a family".
+
+230
+00:17:48,860 --> 00:17:51,112
+Yeah, after all, you
+could die at any time.
+
+231
+00:17:51,195 --> 00:17:53,948
+This is no job for a family man.
+
+232
+00:17:59,912 --> 00:18:03,124
+So the late detective's
+gun wasn't found?
+
+233
+00:18:03,207 --> 00:18:05,626
+If Detective Mizuki
+had fired his weapon,
+
+234
+00:18:05,710 --> 00:18:08,629
+it would prove this was a
+crime, and not an accident.
+
+235
+00:18:08,755 --> 00:18:11,299
+You think someone wanted it
+to look like an accident?
+
+236
+00:18:11,424 --> 00:18:15,470
+The cause of death was drowning, but
+he lost a lot of blood antemortem,
+
+237
+00:18:15,471 --> 00:18:18,473
+and some of his bones are missing.
+
+238
+00:18:18,556 --> 00:18:24,478
+So the body's too damaged to
+tell, but he may have been shot.
+
+239
+00:18:24,479 --> 00:18:27,815
+Detective Mizuki was
+investigating weapons smuggling.
+
+240
+00:18:27,899 --> 00:18:30,818
+His most recent meeting was
+with a Qhardi organization.
+
+241
+00:18:30,819 --> 00:18:34,654
+I suspect he was killed
+because he found proof.
+
+242
+00:18:34,655 --> 00:18:40,328
+You feel the dam explosion was
+intentional, set up to bury evidence?
+
+243
+00:18:40,453 --> 00:18:42,997
+You've got a great imagination.
+
+244
+00:18:43,122 --> 00:18:45,333
+You're turning me down, sir?
+
+245
+00:18:45,416 --> 00:18:48,294
+No, I like it. I'll allow
+you to investigate.
+
+246
+00:18:48,295 --> 00:18:51,839
+Try to find a connection
+between the incidents.
+
+247
+00:18:51,964 --> 00:18:53,465
+All alone?
+
+248
+00:18:53,466 --> 00:18:55,300
+You're complaining?
+
+249
+00:18:55,301 --> 00:18:56,969
+I appreciate it, sir!
+
+250
+00:19:00,598 --> 00:19:04,185
+Humans can never perfectly
+reproduce movements.
+
+251
+00:19:04,268 --> 00:19:09,315
+A slight slope, our distance from our target,
+a few milligrams' weight difference...
+
+252
+00:19:09,316 --> 00:19:14,152
+The brain calculates all these things
+to create yet-unknown movements.
+
+253
+00:19:14,153 --> 00:19:16,197
+You have the most
+original brain I know of,
+
+254
+00:19:16,280 --> 00:19:19,033
+and you understand the
+beauty of uniform standards.
+
+255
+00:19:21,160 --> 00:19:22,537
+You're exaggerating.
+
+256
+00:19:22,662 --> 00:19:25,372
+There's nothing wrong with you.
+
+257
+00:19:25,373 --> 00:19:26,874
+It still hurts?
+
+258
+00:19:29,669 --> 00:19:31,879
+Try moving your right leg.
+
+259
+00:19:33,923 --> 00:19:35,716
+Lovely.
+
+260
+00:19:36,843 --> 00:19:38,343
+What's "lovely"?
+
+261
+00:19:38,344 --> 00:19:39,887
+Your leg.
+
+262
+00:19:43,182 --> 00:19:45,560
+The pain is gone now.
+
+263
+00:19:45,643 --> 00:19:47,394
+Send me a bill.
+
+264
+00:19:47,395 --> 00:19:50,731
+I'll give you a discount.
+In return, don't forget our promise.
+
+265
+00:19:50,732 --> 00:19:52,400
+You're a strange man.
+
+266
+00:19:52,525 --> 00:19:54,068
+Not as strange as you.
+
+267
+00:20:08,541 --> 00:20:10,876
+Hey, you. You're blocking my scan.
+
+268
+00:20:10,877 --> 00:20:12,420
+Oh, sorry.
+
+269
+00:20:13,212 --> 00:20:16,255
+What good are your natural
+eyes in the cyber age?
+
+270
+00:20:16,256 --> 00:20:19,260
+It's not normally this hard
+to find the epicenter.
+
+271
+00:20:19,385 --> 00:20:22,263
+You know a lot about the
+combustion process?
+
+272
+00:20:22,346 --> 00:20:24,891
+I learned the basics
+overseas during the war.
+
+273
+00:20:24,892 --> 00:20:26,100
+I see.
+
+274
+00:20:27,059 --> 00:20:28,603
+Are you a full cyborg?
+
+275
+00:20:28,728 --> 00:20:31,396
+Yeah, pretty close.
+
+276
+00:20:31,397 --> 00:20:35,400
+I'm no expert, but unless you
+get a specialized skeleton,
+
+277
+00:20:35,401 --> 00:20:37,445
+aren't the basics the
+same as a human body's?
+
+278
+00:20:37,570 --> 00:20:40,239
+But his hands stayed
+open after he burned...
+
+279
+00:20:40,240 --> 00:20:41,616
+What?
+
+280
+00:20:41,699 --> 00:20:43,618
+When a natural human
+burns to death,
+
+281
+00:20:43,701 --> 00:20:47,453
+his muscles contract, so he forms
+fists and he bends forward.
+
+282
+00:20:47,454 --> 00:20:50,416
+The fetal position, or, you
+know, the boxer's pose.
+
+283
+00:20:50,417 --> 00:20:53,461
+Heat rigor? Well, what about it?
+
+284
+00:20:53,544 --> 00:20:59,634
+This guard's corpse is standing
+up straight, hands open.
+
+285
+00:20:59,717 --> 00:21:02,970
+Must be some property of his
+prosthetics, or of the bomb.
+
+286
+00:21:03,095 --> 00:21:04,430
+Prosthetics?
+
+287
+00:21:10,770 --> 00:21:12,313
+Hello?
+
+288
+00:21:13,606 --> 00:21:15,649
+Oh, a checkup?
+
+289
+00:21:15,650 --> 00:21:17,151
+2 weeks?
+
+290
+00:21:17,944 --> 00:21:21,489
+Got it. No, I'm working
+right now, sorry.
+
+291
+00:21:22,114 --> 00:21:23,616
+"Checkup"?
+
+292
+00:21:25,284 --> 00:21:26,827
+Sorry to bother you.
+
+293
+00:21:35,461 --> 00:21:39,297
+C-4 and dynamite, glycerin,
+and chemical fertilizer...
+
+294
+00:21:39,298 --> 00:21:42,343
+It's a hideout straight
+out of a book.
+
+295
+00:21:42,468 --> 00:21:49,183
+Definitely a bomb maniac vibe... but I've
+got no clue what they actually used.
+
+296
+00:21:49,308 --> 00:21:51,519
+<i>Orders coming down their line!</i>
+
+297
+00:21:51,602 --> 00:21:54,855
+Someone calling himself Scylla just
+ordered some "Second Army" into action.
+
+298
+00:21:54,939 --> 00:21:57,858
+Damn bastards! Public Security's
+moves are being leaked!
+
+299
+00:22:03,990 --> 00:22:07,034
+<i>The Waterworks Bureau's server blew,
+and took out the whole floor.</i>
+
+300
+00:22:07,118 --> 00:22:08,493
+<i>What did they use?</i>
+
+301
+00:22:08,494 --> 00:22:10,160
+<i>The accelerant at the
+Nishinouchi crime scene</i>
+
+302
+00:22:10,161 --> 00:22:13,499
+<i>is spread all the way to the
+ceiling, even the ducts.</i>
+
+303
+00:22:13,500 --> 00:22:17,878
+<i>We're talking omnidirectional blast.
+The air itself blew up.</i>
+
+304
+00:22:17,962 --> 00:22:19,336
+<i>A fuel-air explosive?</i>
+
+305
+00:22:19,337 --> 00:22:24,343
+Then this is a dummy hideout. They've
+got a more advanced bomb lab somewhere.
+
+306
+00:22:28,889 --> 00:22:32,226
+Damn guerilla hero is
+issuing a challenge.
+
+307
+00:22:38,858 --> 00:22:43,904
+<i>The Waterworks Bureau is starting
+repairs. Odds are the hacker's already in!</i>
+
+308
+00:22:44,030 --> 00:22:45,740
+<i>Figure out their next target.</i>
+
+309
+00:22:45,823 --> 00:22:47,908
+<i>Don't let them dig
+any more tunnels.</i>
+
+310
+00:23:08,054 --> 00:23:10,221
+I appreciate your cooperation.
+
+311
+00:23:10,222 --> 00:23:12,433
+I'm used to police questioning.
+
+312
+00:23:12,558 --> 00:23:15,436
+There've been a lot of
+prosthetics thefts recently.
+
+313
+00:23:15,519 --> 00:23:18,897
+"Mermaid's Legs", eh?
+
+314
+00:23:18,898 --> 00:23:22,066
+Not a very artistic name, but
+it's easy to understand.
+
+315
+00:23:22,067 --> 00:23:24,278
+My female customers quite like it.
+
+316
+00:23:24,361 --> 00:23:26,405
+Do you recognize these legs?
+
+317
+00:23:28,949 --> 00:23:31,118
+They appear to be the
+mass-production model.
+
+318
+00:23:31,119 --> 00:23:32,787
+Look at the tag.
+
+319
+00:23:34,580 --> 00:23:36,081
+"Ariel".
+
+320
+00:23:36,082 --> 00:23:39,627
+I've asked around, and there's
+no such model on the market.
+
+321
+00:23:39,752 --> 00:23:44,088
+I don't carry it, either. It must be
+a licensed designer's brand name.
+
+322
+00:23:44,089 --> 00:23:46,423
+Designers use the
+mass-production model as a base
+
+323
+00:23:46,424 --> 00:23:48,594
+and then innovate to
+meet customer demands.
+
+324
+00:23:48,595 --> 00:23:50,805
+Any ideas?
+
+325
+00:23:50,888 --> 00:23:55,433
+I'll give you my list.
+One moment, please.
+
+326
+00:23:55,434 --> 00:23:56,435
+Thank you.
+
+327
+00:24:05,611 --> 00:24:09,446
+Cops love lists. He'll be conveniently
+absorbed in it for a while.
+
+328
+00:24:09,447 --> 00:24:12,159
+Public Security took
+our dummy safe house.
+
+329
+00:24:12,243 --> 00:24:15,620
+Are the comm lines here
+safe, Colonel Hozumi?
+
+330
+00:24:15,621 --> 00:24:18,833
+Don't worry. It's one of
+intelligence's independent lines.
+
+331
+00:24:18,958 --> 00:24:21,458
+Why haven't you killed
+that detective?
+
+332
+00:24:21,459 --> 00:24:24,672
+He's an odd duck, but he doesn't
+have any powerful backers.
+
+333
+00:24:24,797 --> 00:24:26,841
+The real issue is that
+Ariel's been leaked.
+
+334
+00:24:26,966 --> 00:24:31,135
+We retrieved the sample before it was
+analyzed, and the factory is taken care of.
+
+335
+00:24:31,136 --> 00:24:33,514
+I didn't expect you to
+panic and blow it up.
+
+336
+00:24:33,515 --> 00:24:39,854
+We're lucky Ariel was mounted in time.
+You almost seriously hindered our plan.
+
+337
+00:24:39,979 --> 00:24:45,817
+Ariel is a way to smuggle explosives to
+the Qhardis! It's not for suicide bombers!
+
+338
+00:24:45,818 --> 00:24:47,694
+Circumstances have changed.
+
+339
+00:24:47,695 --> 00:24:51,198
+If previous overseas weapons
+development becomes domestic,
+
+340
+00:24:51,199 --> 00:24:53,701
+distribution channels will vanish.
+
+341
+00:24:53,784 --> 00:24:56,036
+The Qhardi soldiers are
+just sacrificial pawns?
+
+342
+00:24:56,037 --> 00:25:01,207
+We're upgrading. Fire-Starter can
+create all the soldiers we want.
+
+343
+00:25:01,208 --> 00:25:04,169
+Get the unit that was
+arrested released.
+
+344
+00:25:04,170 --> 00:25:06,880
+I won't give you the
+data until then.
+
+345
+00:25:06,881 --> 00:25:09,674
+They aren't even your compatriots.
+
+346
+00:25:09,675 --> 00:25:12,344
+Scylla would never abandon them.
+
+347
+00:25:13,971 --> 00:25:18,183
+Very well. There are three
+more usable Ariels.
+
+348
+00:25:18,184 --> 00:25:21,520
+One of them is in your court.
+
+349
+00:25:21,604 --> 00:25:23,688
+It really has to be her?
+
+350
+00:25:23,689 --> 00:25:27,902
+Have you developed feelings for her?
+Activate the woman's Ariel.
+
+351
+00:25:27,985 --> 00:25:31,030
+Release our allies first.
+Understand?
+
+352
+00:25:56,347 --> 00:25:57,932
+Ride with me.
+
+353
+00:26:03,729 --> 00:26:07,733
+You haven't told anyone that you
+and I killed Scylla, I trust?
+
+354
+00:26:07,734 --> 00:26:08,734
+No.
+
+355
+00:26:08,817 --> 00:26:11,445
+That op is a stain
+on both our records.
+
+356
+00:26:11,528 --> 00:26:14,114
+It would be highly inconvenient
+for it to come up again now.
+
+357
+00:26:14,198 --> 00:26:18,744
+I see you dived happily into the
+power games as soon as you made LTC.
+
+358
+00:26:18,827 --> 00:26:22,913
+They used the military-industrial
+complex to profit from death.
+
+359
+00:26:22,914 --> 00:26:26,083
+I'll wipe them out, make domestic
+weapons engineering big,
+
+360
+00:26:26,084 --> 00:26:29,046
+and shut down their trade
+routes to foreign cartels.
+
+361
+00:26:29,047 --> 00:26:31,923
+Lt. Col. Mamuro wanted that.
+
+362
+00:26:31,924 --> 00:26:34,426
+I won't play your game.
+
+363
+00:26:34,510 --> 00:26:40,140
+Scylla is a game you can't quit.
+She has to stay dead.
+
+364
+00:26:40,224 --> 00:26:42,935
+You used this before.
+
+365
+00:26:43,018 --> 00:26:46,480
+Bury it and whoever's using Scylla's
+name-permanently this time.
+
+366
+00:26:46,563 --> 00:26:50,109
+Or else the brass will bury
+you, and that op with you.
+
+367
+00:26:58,450 --> 00:27:01,952
+Becoming independent of the
+system doesn't make you free.
+
+368
+00:27:01,953 --> 00:27:06,959
+You're like last century's programmers, who
+expected too much from the birth of the Net.
+
+369
+00:27:07,042 --> 00:27:10,629
+Even Section 9 is only letting you
+have your own way to test you.
+
+370
+00:27:10,713 --> 00:27:13,173
+When they need to, they'll restrain
+you with a Ghost infiltration key
+
+371
+00:27:13,257 --> 00:27:14,842
+and dispose of you.
+
+372
+00:27:14,925 --> 00:27:18,178
+I have no intention of letting
+anyone infiltrate my Ghost again.
+
+373
+00:27:18,262 --> 00:27:20,180
+No matter who they are.
+
+374
+00:27:26,770 --> 00:27:29,523
+That woman is Motoko Kusanagi?
+
+375
+00:27:29,606 --> 00:27:32,860
+Yes, your senior. Can you win?
+
+376
+00:27:35,988 --> 00:27:37,823
+If you wish.
+
+377
+00:28:04,141 --> 00:28:05,809
+You really came?
+
+378
+00:28:06,518 --> 00:28:07,895
+I did promise.
+
+379
+00:28:08,812 --> 00:28:10,689
+I haven't prepared anything.
+
+380
+00:28:10,690 --> 00:28:12,232
+I figured.
+
+381
+00:28:18,489 --> 00:28:21,158
+But first, we'll take care of this.
+
+382
+00:28:32,544 --> 00:28:37,424
+I checked out the Qhardi gang, but there's
+no trace of their tactical commander.
+
+383
+00:28:37,508 --> 00:28:41,387
+Ah, but I've got the
+rental server they used.
+
+384
+00:28:41,470 --> 00:28:43,597
+Multiple invaders into
+a public facility...
+
+385
+00:28:43,680 --> 00:28:45,889
+Bastards have made good
+progress on their tunnels.
+
+386
+00:28:45,890 --> 00:28:48,016
+<i>Do you know where they're going yet?</i>
+
+387
+00:28:48,017 --> 00:28:50,604
+<i>It's someplace to do with water
+and precision machinery.</i>
+
+388
+00:28:50,687 --> 00:28:53,565
+<i>78 places in the city
+fit that description.</i>
+
+389
+00:28:53,649 --> 00:28:55,943
+<i>Check them all.</i>
+
+390
+00:28:56,026 --> 00:29:00,114
+Damn... I'd make easier money being
+an Intelligence subcontractor.
+
+391
+00:29:00,739 --> 00:29:03,283
+<i>So, still in your "tune-up"?</i>
+
+392
+00:29:03,367 --> 00:29:05,619
+<i>Yes. I'm dropping this
+connection for a while.</i>
+
+393
+00:29:06,745 --> 00:29:11,959
+I can hear noise. Your co-workers are
+in and out of your lobby nonstop, huh?
+
+394
+00:29:12,042 --> 00:29:13,876
+I ran them all off.
+
+395
+00:29:13,877 --> 00:29:17,631
+You think I'll ever get
+to be in your lobby?
+
+396
+00:29:17,714 --> 00:29:20,216
+If you work with me.
+
+397
+00:29:20,217 --> 00:29:23,095
+If I said I needed one more
+person, would you come?
+
+398
+00:29:25,389 --> 00:29:28,434
+Tuning you up whenever I want
+is an attractive proposition,
+
+399
+00:29:28,725 --> 00:29:32,271
+but I don't get involved with
+the military or the police.
+
+400
+00:29:32,354 --> 00:29:33,814
+Oh.
+
+401
+00:29:36,525 --> 00:29:38,610
+I did some first aid on
+your sensory components.
+
+402
+00:29:38,611 --> 00:29:41,237
+Let's do the detail
+work in the lab.
+
+403
+00:29:41,238 --> 00:29:44,825
+The pain is gone. I'll
+do the rest myself.
+
+404
+00:29:49,121 --> 00:29:50,914
+Then let's get started.
+
+405
+00:29:57,421 --> 00:30:00,798
+I remember when I first
+met you, you know.
+
+406
+00:30:00,799 --> 00:30:05,679
+All the other engineers said you were
+the queen of customer complaints.
+
+407
+00:30:05,762 --> 00:30:08,849
+Is that why they handed me off
+to a freelancer like you?
+
+408
+00:30:08,932 --> 00:30:11,642
+Nope. The truth is,
+I asked them to.
+
+409
+00:30:11,643 --> 00:30:13,103
+What?
+
+410
+00:30:14,062 --> 00:30:21,361
+<i>You couldn't decide whether you should
+treat your body as a thing or a person.</i>
+
+411
+00:30:21,445 --> 00:30:23,614
+<i>That made me interested in you.</i>
+
+412
+00:30:29,786 --> 00:30:31,330
+At the facility I was in before,
+
+413
+00:30:31,413 --> 00:30:35,499
+they thought I was an oddball for wanting
+to sleep in a bed and take showers.
+
+414
+00:30:35,500 --> 00:30:38,545
+When I was prosthetized on the
+battlefield, they told me,
+
+415
+00:30:38,629 --> 00:30:43,174
+"A cyborg doesn't need everyday
+life; he needs equipment."
+
+416
+00:30:43,175 --> 00:30:46,345
+That's why I switched to
+prosthetics engineering.
+
+417
+00:30:46,428 --> 00:30:49,515
+I wanted to be a tech who'd
+treat cyborgs like humans.
+
+418
+00:30:51,308 --> 00:30:56,063
+<i>As a kid, they gave me everyday-living
+training outside the facility.</i>
+
+419
+00:30:56,146 --> 00:30:59,191
+<i>So I'd learn how to be more human.</i>
+
+420
+00:30:59,274 --> 00:31:03,987
+<i>I don't really remember it.
+Everything was so bright...</i>
+
+421
+00:31:04,780 --> 00:31:08,033
+I remember I came back
+ahead of schedule.
+
+422
+00:31:09,326 --> 00:31:14,038
+But... That day I decided
+to make my body orthodox.
+
+423
+00:31:14,039 --> 00:31:16,165
+I wanted to look human.
+
+424
+00:31:16,166 --> 00:31:20,003
+Your prosthetic body isn't a
+thing. It's your real body.
+
+425
+00:31:20,004 --> 00:31:23,840
+It mustn't be treated as a thing...
+not by anyone.
+
+426
+00:31:25,175 --> 00:31:26,718
+Not by me.
+
+427
+00:31:28,220 --> 00:31:30,221
+I do wish that were true.
+
+428
+00:31:30,222 --> 00:31:31,932
+I'll show you proof.
+
+429
+00:31:32,015 --> 00:31:33,559
+Proof?
+
+430
+00:31:36,019 --> 00:31:37,896
+It's a surprise.
+
+431
+00:31:41,024 --> 00:31:43,277
+<i>We're missing the key
+piece: the bomb.</i>
+
+432
+00:31:43,360 --> 00:31:47,239
+<i>How did they get it into a
+heavily guarded meeting place?</i>
+
+433
+00:31:47,322 --> 00:31:48,448
+What about the perps?
+
+434
+00:31:48,532 --> 00:31:51,199
+They say they're the
+ones who blew it up.
+
+435
+00:31:51,200 --> 00:31:54,413
+Despite the fact that they
+have no memory of the bomb.
+
+436
+00:31:54,496 --> 00:31:57,916
+They're fall guys. They probably
+have nothing to do with the bomb.
+
+437
+00:31:58,000 --> 00:32:02,045
+We'll monitor all 78 locations until
+we can narrow down their target.
+
+438
+00:32:02,046 --> 00:32:03,797
+Are you serious?!
+
+439
+00:32:03,880 --> 00:32:05,924
+Contact me if something happens.
+
+440
+00:32:09,261 --> 00:32:10,762
+You're wearing heels...
+
+441
+00:32:10,846 --> 00:32:14,766
+Should we assume the ex-military
+prosthetics tech is joining the team?
+
+442
+00:32:18,312 --> 00:32:20,063
+Maybe that's actually for real.
+
+443
+00:32:32,034 --> 00:32:34,409
+This is what you wanted to show me?
+
+444
+00:32:34,410 --> 00:32:36,455
+They're regular customers of mine.
+
+445
+00:32:36,538 --> 00:32:38,498
+Their average age is 70.
+
+446
+00:32:39,791 --> 00:32:41,793
+They're all full-body cyborgs...
+
+447
+00:32:41,877 --> 00:32:45,464
+The affluent elderly are at the core
+of cyborg development these days.
+
+448
+00:32:45,547 --> 00:32:47,132
+Not soldiers.
+
+449
+00:32:47,215 --> 00:32:52,469
+They want prosthetic bodies to give them
+second lives, and fulfilling lifestyles.
+
+450
+00:32:52,470 --> 00:32:56,600
+More and more foods for cyborgs are being
+developed to meet their needs, too.
+
+451
+00:33:04,107 --> 00:33:05,651
+Try it.
+
+452
+00:33:17,996 --> 00:33:19,664
+It's good.
+
+453
+00:33:19,665 --> 00:33:22,334
+Is it your first time allocating
+memory to your sense of taste?
+
+454
+00:33:24,127 --> 00:33:26,713
+The new bride is
+pregnant, by the way.
+
+455
+00:33:27,964 --> 00:33:31,635
+Exciting, isn't it? A new world
+of humans that don't distinguish
+
+456
+00:33:31,636 --> 00:33:34,888
+between prosthetic and flesh.
+
+457
+00:33:34,971 --> 00:33:37,516
+You really are strange.
+
+458
+00:33:44,898 --> 00:33:51,655
+Some people reject the future.
+And some are left behind by it, too.
+
+459
+00:33:55,742 --> 00:33:59,079
+I want to bring the cyborg
+future to the third world.
+
+460
+00:34:01,248 --> 00:34:03,250
+Will you come with me?
+
+461
+00:34:04,334 --> 00:34:11,425
+You should use your power freely, not work
+under a bunch of master manipulators.
+
+462
+00:34:13,468 --> 00:34:15,345
+The war is over, you know.
+
+463
+00:34:15,429 --> 00:34:17,097
+No, it's still going.
+
+464
+00:34:17,139 --> 00:34:20,767
+The nations it grew inconvenient
+for pulled out, that's all.
+
+465
+00:34:23,770 --> 00:34:27,107
+I have things to do
+in this country.
+
+466
+00:34:28,108 --> 00:34:29,526
+I see.
+
+467
+00:34:29,943 --> 00:34:31,737
+Do you have free time later?
+
+468
+00:34:31,862 --> 00:34:35,282
+If we share a lobby, we can
+meet whenever we want.
+
+469
+00:34:35,449 --> 00:34:37,617
+I might touch your Ghost.
+
+470
+00:34:37,659 --> 00:34:39,536
+I'll let down my barrier.
+
+471
+00:34:39,619 --> 00:34:42,956
+- Are you sure?
+- If you infiltrate me, I may fry your brain.
+
+472
+00:34:43,123 --> 00:34:45,041
+It might be worth it.
+
+473
+00:35:08,148 --> 00:35:09,983
+This is your body.
+
+474
+00:35:11,860 --> 00:35:13,904
+These are your hands.
+
+475
+00:35:39,554 --> 00:35:41,181
+Motoko, run!
+
+476
+00:36:16,174 --> 00:36:17,634
+Akira!
+
+477
+00:36:19,094 --> 00:36:20,971
+Are you all right?
+
+478
+00:36:21,096 --> 00:36:22,556
+Yeah...
+
+479
+00:36:30,772 --> 00:36:33,650
+I'm sorry. This is my fault.
+
+480
+00:37:12,522 --> 00:37:15,066
+My condolences.
+
+481
+00:37:15,108 --> 00:37:17,736
+Paz is with Section 9
+inspecting the scene.
+
+482
+00:37:17,777 --> 00:37:20,614
+Your attacker was a pro,
+even if he did mess up.
+
+483
+00:37:20,697 --> 00:37:22,657
+It's unclear whether this
+was tied to the bombing,
+
+484
+00:37:22,699 --> 00:37:25,785
+but we'd normally give you
+police protection at this point.
+
+485
+00:37:25,869 --> 00:37:28,246
+I don't need it. How is he?
+
+486
+00:37:28,371 --> 00:37:30,652
+We'll send him home as soon as
+we're done questioning him.
+
+487
+00:37:30,707 --> 00:37:32,918
+I'll assign someone to
+him, so don't worry.
+
+488
+00:37:32,959 --> 00:37:33,960
+I see.
+
+489
+00:37:34,044 --> 00:37:37,297
+The military authorities won't
+give me any information on Scylla.
+
+490
+00:37:37,380 --> 00:37:39,299
+What's your connection to him?
+
+491
+00:37:41,718 --> 00:37:44,262
+Call me whenever you need help.
+
+492
+00:37:47,724 --> 00:37:49,601
+Scylla's revenge, eh?
+
+493
+00:37:49,726 --> 00:37:54,105
+Good thing your boyfriend's a civilian.
+We don't have to suspect a leak.
+
+494
+00:37:56,066 --> 00:37:57,609
+<i>They got us.</i>
+
+495
+00:37:57,734 --> 00:38:01,446
+<i>Number 3: a materials
+control center on the coast.</i>
+
+496
+00:38:01,571 --> 00:38:05,784
+<i>I picked up a go order in Scylla's
+name 30 seconds before the explosion.</i>
+
+497
+00:38:05,825 --> 00:38:09,287
+<i>Then the whole line disappeared. At this
+rate, there's no point in surveillance.</i>
+
+498
+00:38:09,329 --> 00:38:12,999
+<i>Find a weapons engineer on their
+customer list who's connected to this.</i>
+
+499
+00:38:13,083 --> 00:38:14,501
+<i>Weapons engineer?</i>
+
+500
+00:38:14,584 --> 00:38:17,128
+<i>Get info from the first
+victims, too. Hurry up.</i>
+
+501
+00:38:17,253 --> 00:38:19,673
+<i>Find something. The virus, the
+bombs, the tactical commander,</i>
+
+502
+00:38:19,756 --> 00:38:23,760
+<i>where the messages from "Scylla"
+come from... I don't care what.</i>
+
+503
+00:38:24,594 --> 00:38:30,308
+How about you finally tell us why
+you're so sure Scylla's dead?
+
+504
+00:38:30,433 --> 00:38:31,851
+Excuse me.
+
+505
+00:38:33,103 --> 00:38:34,187
+You!
+
+506
+00:38:34,270 --> 00:38:37,190
+I was told I could find
+Major Kusanagi here.
+
+507
+00:38:37,273 --> 00:38:38,483
+What is it?
+
+508
+00:38:44,531 --> 00:38:46,157
+State your business.
+
+509
+00:38:46,199 --> 00:38:49,995
+The list I got from him was a fake.
+
+510
+00:38:50,036 --> 00:38:52,205
+And a detective working a
+weapons trafficking case
+
+511
+00:38:52,288 --> 00:38:55,166
+was killed right after
+getting info from him.
+
+512
+00:38:55,291 --> 00:39:02,007
+Techs get blamed for prosthetics
+related incidents all the time.
+
+513
+00:39:02,132 --> 00:39:06,219
+And the manager of the dam
+that exploded the other day...
+
+514
+00:39:06,803 --> 00:39:08,555
+Hose outfitted her bodyguard, too.
+
+515
+00:39:08,638 --> 00:39:10,015
+So what?!
+
+516
+00:39:10,974 --> 00:39:14,561
+How did you feel, watching your
+lover get attacked in front of you?
+
+517
+00:39:15,979 --> 00:39:19,691
+You're angry at the perp,
+and you feel guilty.
+
+518
+00:39:19,733 --> 00:39:22,527
+You think it was your
+fault he got attacked.
+
+519
+00:39:25,321 --> 00:39:29,576
+He was the same way.
+Anger and guilt.
+
+520
+00:39:29,659 --> 00:39:31,745
+He's hiding something.
+
+521
+00:39:31,828 --> 00:39:36,583
+The dam, the dead detective, the
+prosthetics, and even you, Major...
+
+522
+00:39:36,666 --> 00:39:39,377
+Everything links
+back to Akira Hose.
+
+523
+00:39:42,672 --> 00:39:45,112
+You're just a cheap detective
+snooping around with flesh eyes!
+
+524
+00:39:45,175 --> 00:39:47,218
+Never show your face here again!
+
+525
+00:39:51,264 --> 00:39:53,099
+Ouch.
+
+526
+00:40:14,704 --> 00:40:16,956
+You're an idiot, Colonel!
+
+527
+00:40:19,042 --> 00:40:20,251
+An attack barrier!
+
+528
+00:40:20,376 --> 00:40:21,961
+Keep calm.
+
+529
+00:40:22,045 --> 00:40:24,964
+If the domestic faction takes
+away your arms industry rights,
+
+530
+00:40:25,048 --> 00:40:26,966
+you'll be killed by the cartels.
+
+531
+00:40:27,050 --> 00:40:30,470
+Yet you're in a rush to kill
+me off and steal my data?
+
+532
+00:40:30,553 --> 00:40:34,599
+So, you act like a heavyweight, but
+you couldn't get my people released?
+
+533
+00:40:34,724 --> 00:40:36,976
+Where is the data?
+
+534
+00:40:37,060 --> 00:40:40,271
+Our deal is over. I'm
+thankful for the info on her
+
+535
+00:40:40,396 --> 00:40:44,818
+and for Scylla's revival,
+but I'm leaving this country.
+
+536
+00:40:44,901 --> 00:40:46,152
+You do the same.
+
+537
+00:40:46,236 --> 00:40:47,779
+No need.
+
+538
+00:40:54,077 --> 00:40:58,123
+We've successfully packaged
+the virus with cyberbrains.
+
+539
+00:41:00,250 --> 00:41:03,837
+We'll use your cyberbrain
+for the final upgrade.
+
+540
+00:41:03,920 --> 00:41:06,631
+Become Scylla, just
+like you wanted to.
+
+541
+00:41:15,598 --> 00:41:18,977
+"His hands stayed open
+after he burned", eh?
+
+542
+00:41:39,873 --> 00:41:41,207
+<i>It's just like the call said.</i>
+
+543
+00:41:41,291 --> 00:41:44,544
+<i>Two Public Security officers killed,
+and Akira Hose's whereabouts unknown.</i>
+
+544
+00:41:44,627 --> 00:41:46,504
+<i>The Major wasn't the target?</i>
+
+545
+00:41:46,629 --> 00:41:48,131
+<i>Hey, look at this list.</i>
+
+546
+00:41:48,548 --> 00:41:54,345
+<i>It's only a guess, but I think the FAEs
+were the prosthetic limbs themselves.</i>
+
+547
+00:41:54,387 --> 00:41:57,724
+<i>There was another full-cyborg guard
+in that part of the building.</i>
+
+548
+00:41:57,807 --> 00:42:01,019
+<i>The limbs' admin records have
+the same signature on them...</i>
+
+549
+00:42:03,813 --> 00:42:06,024
+What are you doing?
+
+550
+00:42:08,359 --> 00:42:10,361
+Who is this man?!
+
+551
+00:42:14,365 --> 00:42:16,910
+My attack barrier
+expands every second.
+
+552
+00:42:17,035 --> 00:42:19,078
+If you don't want your
+brain fried, tell me!
+
+553
+00:42:19,204 --> 00:42:20,914
+He'll die!
+
+554
+00:42:21,039 --> 00:42:26,085
+He gave us power...
+He's the new Scylla!
+
+555
+00:42:26,377 --> 00:42:32,008
+It was like magic. A battle-learning
+program left to us by the dead Scylla...
+
+556
+00:42:32,050 --> 00:42:35,595
+He gave it to my cyberbrain,
+along with the virus.
+
+557
+00:42:35,720 --> 00:42:40,099
+I'd never been trained, but now
+I can fight even your people!
+
+558
+00:42:40,225 --> 00:42:42,101
+Give me a name.
+
+559
+00:42:42,227 --> 00:42:46,356
+Akira Hose!
+He's Japanese, like you!
+
+560
+00:42:54,405 --> 00:42:57,200
+Hose escaped. Any idea where?
+
+561
+00:42:57,242 --> 00:42:58,785
+Why ask me?
+
+562
+00:42:58,910 --> 00:43:01,454
+What are your eyes
+looking at right now?
+
+563
+00:43:03,414 --> 00:43:06,251
+Zhinzhee Bekka Arr Thied.
+
+564
+00:43:06,376 --> 00:43:12,298
+She's boss of a Kuzan water company, and
+most likely the weapons ring's sponsor.
+
+565
+00:43:12,674 --> 00:43:15,218
+<i>So this is the tunnel exit!</i>
+
+566
+00:43:15,260 --> 00:43:18,721
+<i>A domestic weapons company...
+Harimadara Heavy Industries!</i>
+
+567
+00:43:19,138 --> 00:43:22,642
+<i>The execs are touring Factory One with
+the Senior Vice-Minister of Defense!</i>
+
+568
+00:43:22,976 --> 00:43:25,645
+<i>Recommend a barrier, and
+give the data to Section 9.</i>
+
+569
+00:43:25,812 --> 00:43:28,606
+<i>Paz, Borma, Saito, get over there.</i>
+
+570
+00:43:31,234 --> 00:43:33,987
+Call the bomb squad and
+a prosthetics tech.
+
+571
+00:43:34,070 --> 00:43:36,823
+A destructive cyber-attack
+is more than likely.
+
+572
+00:43:41,828 --> 00:43:43,997
+What's the meaning of
+this, Chief Aramaki?
+
+573
+00:43:44,163 --> 00:43:45,832
+Evacuate immediately.
+
+574
+00:43:45,999 --> 00:43:49,127
+You and this facility are targets.
+
+575
+00:43:49,168 --> 00:43:50,920
+Wh... What's going on?!
+
+576
+00:43:54,757 --> 00:43:56,342
+It's a bomb! Run!
+
+577
+00:44:02,598 --> 00:44:04,517
+- Damn.
+- Shit!
+
+578
+00:44:04,600 --> 00:44:06,853
+Paz, Borma! This way!
+
+579
+00:44:09,856 --> 00:44:12,191
+Help me! Help me!
+
+580
+00:44:20,616 --> 00:44:22,869
+<i>Crap, the fire's
+closing up my throat.</i>
+
+581
+00:44:23,036 --> 00:44:25,371
+<i>Mine too. That was close.</i>
+
+582
+00:44:26,372 --> 00:44:28,541
+Vice-Minister, are you all right?
+
+583
+00:44:28,708 --> 00:44:30,168
+I'm fine.
+
+584
+00:44:35,590 --> 00:44:38,551
+- Log/coma.
+- Yes, sir!
+
+585
+00:44:40,470 --> 00:44:42,180
+That's one of our products...!
+
+586
+00:44:45,892 --> 00:44:47,393
+Away from the windows!
+
+587
+00:44:52,065 --> 00:44:54,400
+That's all the info
+on Colonel Hozumi.
+
+588
+00:44:54,567 --> 00:44:59,405
+That's fine. We get a card,
+and you get a grace period.
+
+589
+00:44:59,572 --> 00:45:03,076
+Please tell me what she
+has to do with Scylla!
+
+590
+00:45:03,242 --> 00:45:07,580
+Find out from her. Your
+contaminated brain is intriguing,
+
+591
+00:45:07,663 --> 00:45:10,375
+but I'm cutting our connection
+before the infection spreads.
+
+592
+00:45:15,254 --> 00:45:16,756
+Goodbye.
+
+593
+00:45:26,349 --> 00:45:28,226
+Contaminated, eh?
+
+594
+00:45:28,267 --> 00:45:31,938
+I'm being bankrupted by a special
+tax on foreign companies?!
+
+595
+00:45:32,021 --> 00:45:34,440
+How can this be allowed?!
+
+596
+00:45:34,524 --> 00:45:37,026
+It's the kind of thing the
+domestic faction would do.
+
+597
+00:45:38,277 --> 00:45:41,948
+What do you plan to do?
+Kill the colonel?
+
+598
+00:45:42,323 --> 00:45:45,618
+She's all washed up.
+And so are you and I.
+
+599
+00:45:52,792 --> 00:45:55,420
+Escape, and obey the
+domestic faction.
+
+600
+00:45:55,461 --> 00:45:59,799
+Your company will be crushed under
+the pretext of this nation's taxes.
+
+601
+00:45:59,966 --> 00:46:02,247
+You'll be killed by the cartels
+if you don't do something.
+
+602
+00:46:05,138 --> 00:46:06,764
+<i>You okay, Major?</i>
+
+603
+00:46:06,806 --> 00:46:10,810
+<i>No problems. You go with that
+detective and subdue the guards.</i>
+
+604
+00:46:11,978 --> 00:46:15,314
+<i>I'll take care of Scylla.</i>
+
+605
+00:46:20,570 --> 00:46:23,114
+Jeez, so stubborn.
+That's a scary lady.
+
+606
+00:46:28,369 --> 00:46:31,330
+What? A Mateba,
+in this day and age?
+
+607
+00:46:31,497 --> 00:46:34,834
+What's wrong with that?!
+It's the gun I trust the most.
+
+608
+00:46:45,428 --> 00:46:48,681
+Blood traces. Someone was shot.
+
+609
+00:46:55,021 --> 00:46:56,522
+A bullet...
+
+610
+00:47:14,540 --> 00:47:17,835
+Ariel. So these are
+the prosthetic bombs.
+
+611
+00:47:36,229 --> 00:47:40,650
+That wasn't you just now.
+Who the hell infiltrated my vision?!
+
+612
+00:47:41,067 --> 00:47:42,568
+Don't move!
+
+613
+00:47:45,071 --> 00:47:50,701
+In that quagmire of a war, Scylla was
+the only soldier I could empathize with.
+
+614
+00:47:50,743 --> 00:47:53,788
+I've always wanted to ask
+you why he was killed.
+
+615
+00:47:55,581 --> 00:47:59,752
+You didn't kill Scylla.
+I finally realized that.
+
+616
+00:48:02,088 --> 00:48:06,425
+Go home. Or your
+Ariel will activate.
+
+617
+00:48:06,592 --> 00:48:08,261
+<i>Even I can't stop it.</i>
+
+618
+00:48:34,120 --> 00:48:39,292
+<i>What's going on here? That bastard
+infiltrated my vision exactly the way you do!</i>
+
+619
+00:48:39,458 --> 00:48:41,127
+<i>Answer me, Major!</i>
+
+620
+00:48:59,312 --> 00:49:02,648
+What's taking the Army so long?!
+We'll all die like this!
+
+621
+00:49:02,732 --> 00:49:04,483
+<i>It's been seized.</i>
+
+622
+00:49:04,567 --> 00:49:07,486
+<i>It won't stop until we shut down
+whatever it's packaged with.</i>
+
+623
+00:49:07,653 --> 00:49:09,322
+<i>Transplanted memories.</i>
+
+624
+00:49:09,488 --> 00:49:10,156
+<i>What?</i>
+
+625
+00:49:10,448 --> 00:49:14,118
+<i>The packaged cyberbrains
+are the virus's hosts.</i>
+
+626
+00:49:14,160 --> 00:49:18,456
+<i>They converted the tactical program
+I set loose in Qhardistan to memory.</i>
+
+627
+00:49:18,497 --> 00:49:19,790
+<i>My copy</i>
+
+628
+00:49:24,503 --> 00:49:26,464
+What the hell are you saying?!
+
+629
+00:49:34,597 --> 00:49:36,015
+Motoko.
+
+630
+00:50:03,793 --> 00:50:07,880
+I came after you, but in
+the end, you captured me.
+
+631
+00:50:09,382 --> 00:50:12,176
+It was my cyberbrain
+that was packaged.
+
+632
+00:50:12,218 --> 00:50:15,554
+If you pull the trigger, you and
+your comrades will be saved.
+
+633
+00:50:19,225 --> 00:50:21,727
+What you fell in love
+with was this world.
+
+634
+00:50:25,481 --> 00:50:29,068
+Just keep on going, until
+the day you're betrayed.
+
+635
+00:50:33,572 --> 00:50:35,908
+Scylla...
+
+636
+00:50:35,991 --> 00:50:37,910
+I'm glad I met you.
+
+637
+00:51:05,771 --> 00:51:07,273
+What?
+
+638
+00:51:07,440 --> 00:51:09,108
+It stopped...
+
+639
+00:51:18,367 --> 00:51:19,577
+It's ironic.
+
+640
+00:51:19,618 --> 00:51:24,248
+They manage to survive a world war,
+then get stuck in an endless one,
+
+641
+00:51:24,290 --> 00:51:26,459
+and finally end their own lives.
+
+642
+00:51:26,625 --> 00:51:29,628
+Apparently there's no
+other way they can stop.
+
+643
+00:51:29,795 --> 00:51:31,630
+Weren't you the same?
+
+644
+00:51:33,132 --> 00:51:35,468
+Scylla was you.
+
+645
+00:51:35,551 --> 00:51:39,096
+You helped the separatist
+army, then faked your death.
+
+646
+00:51:39,138 --> 00:51:42,808
+Later, the guerillas you
+led were all killed.
+
+647
+00:51:42,892 --> 00:51:46,979
+I can see why you wouldn't
+want to remember that op.
+
+648
+00:51:47,062 --> 00:51:50,983
+Since then, I've stopped
+switching bodies so often.
+
+649
+00:51:51,150 --> 00:51:56,155
+It gives me an identity crisis.
+I lose track of who I am...
+
+650
+00:51:56,322 --> 00:52:00,659
+and then I want someone to
+tell me I'm not a robot.
+
+651
+00:52:03,329 --> 00:52:07,666
+<i>Is that why you insist on making original
+tweaks to your mass-production bases?</i>
+
+652
+00:52:07,750 --> 00:52:11,796
+<i>It's amazing you even managed to control
+so many bodies in such a short time.</i>
+
+653
+00:52:11,837 --> 00:52:14,965
+<i>I'm going to sleep a little.
+You can go.</i>
+
+654
+00:52:15,007 --> 00:52:16,842
+<i>Call it cyborg solidarity.</i>
+
+655
+00:52:17,009 --> 00:52:20,513
+<i>I'll keep watch and make sure they
+don't fit you with any sketchy parts.</i>
+
+656
+00:52:20,679 --> 00:52:23,015
+<i>All right, suit yourself.</i>
+
+657
+00:52:24,266 --> 00:52:26,018
+You could at least say "thanks"!
+
+658
+00:52:29,939 --> 00:52:34,026
+The bullet at the scene was fired
+from the lieutenant's gun.
+
+659
+00:52:34,193 --> 00:52:36,987
+I also found Mizuki's weapon
+at the lieutenant's home.
+
+660
+00:52:37,029 --> 00:52:39,532
+There was a huge deposit
+into his account, too.
+
+661
+00:52:43,369 --> 00:52:46,205
+Good work. You can go.
+
+662
+00:52:58,050 --> 00:53:00,719
+Arresting a fellow cop will
+make you some enemies.
+
+663
+00:53:03,556 --> 00:53:06,851
+You'll be shot from behind
+by the guys at his local.
+
+664
+00:53:06,892 --> 00:53:10,855
+I'll be sure to watch my back.
+Did you come just to say that?
+
+665
+00:53:12,398 --> 00:53:14,525
+Will you join my team?
+
+666
+00:53:16,235 --> 00:53:18,988
+It's an independent offensive
+unit with top priority.
+
+667
+00:53:19,113 --> 00:53:21,907
+Oh, excuse me.
+
+668
+00:53:22,658 --> 00:53:24,410
+Hello?
+
+669
+00:53:24,535 --> 00:53:27,538
+What?! I thought it'd
+be another 2 weeks!
+
+670
+00:53:27,580 --> 00:53:31,375
+No, sorry, got it.
+I'll be right there.
+
+671
+00:53:31,417 --> 00:53:33,919
+This is big! Her water broke!
+
+672
+00:53:34,753 --> 00:53:35,546
+Huh?
+
+673
+00:53:35,796 --> 00:53:37,840
+We're gonna have a baby!
+
+674
+00:53:37,965 --> 00:53:40,092
+Just wait, I'll be right there!
+
+675
+00:53:40,217 --> 00:53:42,011
+We'll talk another time.
+
+676
+00:53:42,052 --> 00:53:43,095
+I'm coming now!
+
+677
+00:53:46,390 --> 00:53:49,768
+Natural, married, and a father?

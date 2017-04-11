@@ -1,0 +1,1081 @@
+﻿1
+00:00:18,601 --> 00:00:20,644
+<font color="#404040">ANNOUNCER: </font><i>Republic forces in retreat!</i>
+
+2
+00:00:20,729 --> 00:00:23,939
+<i>While rescuing General Aayla Secura</i>
+<i>from certain defeat,</i>
+
+3
+00:00:24,024 --> 00:00:26,775
+<i>Anakin Skywalker</i>
+<i>has been seriously injured.</i>
+
+4
+00:00:26,860 --> 00:00:28,110
+<i>After a narrow escape,</i>
+
+5
+00:00:28,194 --> 00:00:31,739
+<i>our heroes crash-landed</i>
+<i>on the remote world of Maridun.</i>
+
+6
+00:00:31,823 --> 00:00:34,366
+<i>Stranded, and with no way</i>
+<i>to contact the Republic,</i>
+
+7
+00:00:34,451 --> 00:00:37,870
+<i>the Jedi receive medical aid</i>
+<i>from the peaceful Lurmen colonists.</i>
+
+8
+00:00:37,996 --> 00:00:42,291
+<i>But even on this tiny planet</i>
+<i>the war threatens to follow the Jedi.</i>
+
+9
+00:01:07,067 --> 00:01:09,985
+Commander Bly, we've got company.
+
+10
+00:01:10,070 --> 00:01:13,655
+-Friendlies?
+-Negative, sir. A droid ship.
+
+11
+00:01:13,740 --> 00:01:15,574
+<i>Coming straight our way.</i>
+
+12
+00:01:15,700 --> 00:01:17,951
+Acknowledged. Get back here.
+
+13
+00:01:20,955 --> 00:01:23,123
+-General?
+-Yes, Commander.
+
+14
+00:01:23,208 --> 00:01:25,209
+We've got a Separatist ship, incoming.
+
+15
+00:01:25,293 --> 00:01:26,835
+This is neutral space.
+
+16
+00:01:26,920 --> 00:01:30,923
+It won't be neutral for long,
+not if the Separatists have their way.
+
+17
+00:01:31,716 --> 00:01:34,343
+-<font color="#DF01D7">(GROANS)</font> Help me up.
+-Don't struggle.
+
+18
+00:01:34,427 --> 00:01:37,679
+I'm sorry,
+but you're still too injured to move.
+
+19
+00:01:38,056 --> 00:01:40,724
+<font color="#DF01D7">(SHIP WHOOSHING)</font>
+
+20
+00:01:46,689 --> 00:01:49,775
+What menace have you brought
+to our village now, Jedi?
+
+21
+00:01:49,859 --> 00:01:51,985
+Father, you can't blame them.
+
+22
+00:01:52,070 --> 00:01:55,280
+He's right. The Separatists
+don't even know we're here.
+
+23
+00:01:55,365 --> 00:01:58,033
+And they can't know. We've got to hide.
+
+24
+00:01:58,118 --> 00:02:00,410
+Your presence here endangers us.
+
+25
+00:02:00,495 --> 00:02:02,788
+You must leave
+before your enemies find you.
+
+26
+00:02:02,872 --> 00:02:06,125
+But you'll need our help.
+You can't fight them alone.
+
+27
+00:02:06,209 --> 00:02:10,629
+We will not fight them at all.
+We would rather die than to kill others.
+
+28
+00:02:10,713 --> 00:02:13,215
+You're going to surrender?
+But how can you...
+
+29
+00:02:13,299 --> 00:02:15,092
+Ahsoka, stop.
+
+30
+00:02:15,718 --> 00:02:20,222
+If the Lurmen want to remain neutral,
+we won't force them into war.
+
+31
+00:02:20,306 --> 00:02:24,601
+See to it that they leave.
+I must see what our new visitors want.
+
+32
+00:02:37,866 --> 00:02:40,868
+Take it easy, sir. We'll assist you.
+
+33
+00:02:49,669 --> 00:02:54,631
+I am General Lok Durd
+of the Separatist Alliance.
+
+34
+00:02:54,716 --> 00:02:58,093
+I am Tee Watt Kaa,
+leader of this colony. What do you...
+
+35
+00:02:58,178 --> 00:03:03,056
+You are now under the protection
+of the Separatist Alliance.
+
+36
+00:03:03,141 --> 00:03:07,227
+I congratulate you on your good fortune.
+
+37
+00:03:07,353 --> 00:03:11,607
+Thank you, but we enjoyed good fortune
+well before your arrival.
+
+38
+00:03:17,405 --> 00:03:21,617
+We are a peaceful people, General.
+I do not condone your presence here.
+
+39
+00:03:21,701 --> 00:03:26,872
+Stand aside.
+I would like to inspect my new colony.
+
+40
+00:03:28,082 --> 00:03:30,334
+<font color="#DF01D7">(LAUGHING)</font>
+
+41
+00:03:30,418 --> 00:03:32,836
+Ransack this dung heap!
+
+42
+00:03:37,008 --> 00:03:38,842
+<font color="#DF01D7">(VILLAGERS SCREAMING)</font>
+
+43
+00:03:39,928 --> 00:03:44,389
+Why are they tearing apart our homes?
+We've done nothing to them.
+
+44
+00:03:44,474 --> 00:03:48,101
+Violence. That's what
+those droids are programmed for.
+
+45
+00:03:50,271 --> 00:03:52,898
+-Can't we do anything?
+-No.
+
+46
+00:03:52,982 --> 00:03:56,360
+And if we're discovered,
+all of the Lurmen will be slaughtered.
+
+47
+00:03:56,444 --> 00:03:59,696
+We'll be okay
+if we make it to the tall grasses.
+
+48
+00:04:10,792 --> 00:04:15,087
+There is no evidence of any weapons
+or Republic contraband, General.
+
+49
+00:04:15,171 --> 00:04:19,925
+In the future, we may conduct
+more periodic searches like this one
+
+50
+00:04:20,009 --> 00:04:23,428
+in order to maintain security.
+
+51
+00:04:23,513 --> 00:04:27,391
+Because we are
+such an obvious threat to you.
+
+52
+00:04:27,475 --> 00:04:29,142
+We will offer no resistance.
+
+53
+00:04:29,227 --> 00:04:32,562
+Your species is smarter than you appear.
+
+54
+00:04:40,989 --> 00:04:42,990
+Father, are you okay?
+
+55
+00:04:47,203 --> 00:04:48,787
+At least the Jedi escaped.
+
+56
+00:04:48,871 --> 00:04:53,208
+Yes, but they nearly brought harm
+to our entire village.
+
+57
+00:04:53,293 --> 00:04:54,668
+But now, thanks to you,
+
+58
+00:04:54,752 --> 00:04:58,422
+we're safe to grovel before
+every petty tyrant who enters our system.
+
+59
+00:04:58,506 --> 00:05:03,218
+You would mock our very way of life?
+I have just ensured we will have peace.
+
+60
+00:05:03,303 --> 00:05:06,513
+Yes, but for the moment.
+And at what price?
+
+61
+00:05:06,597 --> 00:05:09,474
+Are you not concerned
+about the Jedi at all?
+
+62
+00:05:09,559 --> 00:05:11,935
+I have no quarrel with the Jedi,
+
+63
+00:05:12,020 --> 00:05:15,897
+but we cannot help them
+without being drawn into their war.
+
+64
+00:05:18,609 --> 00:05:20,360
+Tub, track the Jedi.
+
+65
+00:05:20,445 --> 00:05:23,530
+Follow them
+and make sure they get off-world.
+
+66
+00:05:29,329 --> 00:05:32,456
+You know, I can't figure those villagers
+not wanting to fight.
+
+67
+00:05:32,540 --> 00:05:34,249
+No pride, I guess.
+
+68
+00:05:34,375 --> 00:05:36,376
+I call it no courage.
+
+69
+00:05:36,461 --> 00:05:40,380
+Sometimes it takes courage
+to stick to one's beliefs, young Padawan,
+
+70
+00:05:40,465 --> 00:05:42,924
+as any Jedi well knows.
+
+71
+00:05:43,009 --> 00:05:44,926
+We need to find a ship.
+
+72
+00:05:45,011 --> 00:05:48,221
+And I think the only one around here
+belongs to the Separatists.
+
+73
+00:05:48,306 --> 00:05:51,058
+We know they have a landing ship.
+They might have a shuttle.
+
+74
+00:05:52,602 --> 00:05:56,271
+Sir, you talking about
+stealing from one of the clankers?
+
+75
+00:05:56,356 --> 00:05:57,522
+Count me in.
+
+76
+00:05:57,607 --> 00:05:59,775
+We need to find them first.
+
+77
+00:06:01,527 --> 00:06:03,111
+I think we just did.
+
+78
+00:06:04,572 --> 00:06:05,906
+Blast it!
+
+79
+00:06:07,950 --> 00:06:09,576
+Jam its signal!
+
+80
+00:06:09,660 --> 00:06:11,036
+<font color="#404040">AHSOKA:</font> After it!
+
+81
+00:06:16,042 --> 00:06:17,793
+I'm fine. Just go!
+
+82
+00:06:20,338 --> 00:06:22,130
+<font color="#DF01D7">(DROID WHOOSHING)</font>
+
+83
+00:06:24,842 --> 00:06:27,677
+-Which way did it go?
+-This way. Hurry!
+
+84
+00:06:45,071 --> 00:06:46,863
+<font color="#DF01D7">(DRONING)</font>
+
+85
+00:06:48,908 --> 00:06:52,035
+We can't catch it if it gets out in the open.
+
+86
+00:07:04,590 --> 00:07:08,718
+-I wonder where it was headed.
+-Maybe we can see them from up there.
+
+87
+00:07:14,517 --> 00:07:19,855
+I hope you're feeling better, Master,
+because look what we found.
+
+88
+00:07:19,897 --> 00:07:22,858
+<font color="#DF01D7">(SCOFFS)</font> I'm getting stronger
+all the time, Snips.
+
+89
+00:07:24,527 --> 00:07:27,487
+But I'm not sure I'm ready for that.
+
+90
+00:07:48,426 --> 00:07:50,260
+That shuttle's our ticket off this rock.
+
+91
+00:07:50,386 --> 00:07:52,220
+It's not gonna be easy, sir.
+
+92
+00:07:52,263 --> 00:07:55,932
+There don't seem to be any flaws
+in their security line.
+
+93
+00:08:12,241 --> 00:08:14,576
+Apparently, the Separatists
+have a new toy.
+
+94
+00:08:14,660 --> 00:08:17,078
+-See if you can get a closer look.
+-Yes, sir.
+
+95
+00:08:17,205 --> 00:08:19,539
+I'll go with you, Commander.
+
+96
+00:08:25,588 --> 00:08:28,757
+Is the defoliator capsule ready?
+
+97
+00:08:29,008 --> 00:08:30,050
+<font color="#DF01D7">(SPEAKS IN ALIEN LANGUAGE)</font>
+
+98
+00:08:30,343 --> 00:08:35,263
+Today is a grand day
+for the Separatist cause.
+
+99
+00:08:35,389 --> 00:08:40,602
+We test a new weapon, of my own design,
+
+100
+00:08:40,728 --> 00:08:44,940
+which is capable
+of catastrophic destruction!
+
+101
+00:08:45,733 --> 00:08:49,611
+A weapon
+which will destroy organic matter,
+
+102
+00:08:49,695 --> 00:08:54,282
+but leave machines unharmed.
+
+103
+00:08:54,617 --> 00:08:56,701
+-Roger, roger!
+-Roger, roger!
+
+104
+00:08:56,786 --> 00:08:58,119
+<font color="#DF01D7">(ALL CHEERING)</font>
+
+105
+00:08:59,247 --> 00:09:03,250
+But first, we need two volunteers.
+
+106
+00:09:06,420 --> 00:09:10,465
+The volunteers are you and you.
+
+107
+00:09:10,550 --> 00:09:12,175
+-Me?
+-Me?
+
+108
+00:09:12,260 --> 00:09:14,052
+Go to that bridge.
+
+109
+00:09:14,136 --> 00:09:16,429
+-Roger, roger.
+-Roger, roger.
+
+110
+00:09:21,185 --> 00:09:22,227
+<font color="#404040">ANAKIN:</font> Uh-oh.
+
+111
+00:09:23,145 --> 00:09:24,521
+Stay down, boys.
+
+112
+00:09:26,941 --> 00:09:32,654
+Count Dooku, I have located a world
+in which we can test my...
+
+113
+00:09:32,738 --> 00:09:36,157
+Excuse me, our new weapon.
+
+114
+00:09:37,577 --> 00:09:41,454
+<i>I hope it turns out to be</i>
+<i>worth the expense.</i>
+
+115
+00:09:41,539 --> 00:09:44,708
+<i>-You may proceed.</i>
+-Yes, my lord.
+
+116
+00:09:44,792 --> 00:09:46,042
+Ready?
+
+117
+00:09:46,627 --> 00:09:48,086
+Roger, roger.
+
+118
+00:09:48,170 --> 00:09:49,296
+Aim!
+
+119
+00:09:49,380 --> 00:09:50,922
+<font color="#DF01D7">(SPEAKS IN ALIEN LANGUAGE)</font>
+
+120
+00:09:51,924 --> 00:09:53,091
+Fire!
+
+121
+00:09:53,175 --> 00:09:54,217
+<font color="#DF01D7">(SPEAKS IN ALIEN LANGUAGE)</font>
+
+122
+00:10:00,516 --> 00:10:01,850
+Should we take cover?
+
+123
+00:10:01,934 --> 00:10:04,728
+No, idiot, that is not even gonna hit us.
+
+124
+00:10:10,443 --> 00:10:11,484
+<font color="#DF01D7">(GROANS)</font>
+
+125
+00:10:23,497 --> 00:10:25,749
+That's some toy.
+
+126
+00:10:25,833 --> 00:10:28,752
+It took out every living thing.
+
+127
+00:10:30,463 --> 00:10:35,050
+As you can see,
+the landscape has been destroyed
+
+128
+00:10:35,134 --> 00:10:38,303
+and the droids are undamaged.
+
+129
+00:10:38,387 --> 00:10:41,723
+<i>Impressive. But now we need to know</i>
+
+130
+00:10:41,807 --> 00:10:46,811
+<i>how effective this weapon will be</i>
+<i>against living creatures.</i>
+
+131
+00:10:46,896 --> 00:10:48,313
+Of course.
+
+132
+00:10:48,397 --> 00:10:52,984
+I specifically chose this planet
+because it is inhabited.
+
+133
+00:10:53,069 --> 00:10:56,905
+The colonists
+will make excellent test subjects.
+
+134
+00:10:56,989 --> 00:11:01,451
+<i>Proceed, then! I eagerly await the results.</i>
+
+135
+00:11:02,745 --> 00:11:05,455
+Prepare to move out!
+
+136
+00:11:05,581 --> 00:11:07,916
+Where are they off to now?
+
+137
+00:11:08,000 --> 00:11:10,293
+They must be going back
+to the Lurmen village.
+
+138
+00:11:10,419 --> 00:11:12,629
+There's nothing else in that direction.
+
+139
+00:11:12,755 --> 00:11:14,923
+Those villagers won't stand a chance.
+
+140
+00:11:15,007 --> 00:11:17,258
+First we'll take out
+the droids' communications station.
+
+141
+00:11:17,301 --> 00:11:19,928
+Then after we get a shuttle,
+we'll go back and help the Lurmen.
+
+142
+00:11:19,970 --> 00:11:23,431
+But Tee Watt Kaa said
+he doesn't need our help.
+
+143
+00:11:23,474 --> 00:11:26,601
+There is a difference between
+pulling innocents into a war,
+
+144
+00:11:26,686 --> 00:11:29,145
+and leaving them to extinction.
+
+145
+00:11:38,155 --> 00:11:41,157
+Tell Wag Too
+the Separatists are returning.
+
+146
+00:11:41,450 --> 00:11:42,784
+<font color="#DF01D7">(CHIRPING)</font>
+
+147
+00:12:05,307 --> 00:12:07,142
+Hey, what was that?
+
+148
+00:12:16,152 --> 00:12:17,861
+<font color="#DF01D7">(LIGHTSABER WHOOSHING)</font>
+
+149
+00:12:33,169 --> 00:12:36,004
+Get to the door. I'll handle the droids.
+
+150
+00:12:48,350 --> 00:12:50,351
+<font color="#DF01D7">(LIGHTSABER WHOOSHING)</font>
+
+151
+00:13:11,665 --> 00:13:12,999
+Check the exterior.
+
+152
+00:13:13,083 --> 00:13:16,669
+We cannot have any surprises
+for the General.
+
+153
+00:13:16,754 --> 00:13:19,964
+Four-Seven-Two-Four,
+how does the west end check out?
+
+154
+00:13:20,049 --> 00:13:21,508
+What the...
+
+155
+00:13:24,428 --> 00:13:28,056
+The Separatists are on the march,
+they are returning to our village.
+
+156
+00:13:28,140 --> 00:13:29,974
+They did not attack us before,
+
+157
+00:13:30,059 --> 00:13:32,560
+there's no reason to think
+they will this time.
+
+158
+00:13:32,645 --> 00:13:36,606
+Father, they would not be coming back
+here unless they intended to do us harm.
+
+159
+00:13:36,690 --> 00:13:40,068
+-This is war.
+-But not our war.
+
+160
+00:13:40,152 --> 00:13:44,239
+We've done nothing to provoke them
+and we will not. That is their way.
+
+161
+00:13:44,323 --> 00:13:46,574
+So we will just lay down
+and be slaughtered?
+
+162
+00:13:46,659 --> 00:13:48,952
+Father, even if
+we don't fight the Separatists,
+
+163
+00:13:49,036 --> 00:13:51,079
+we must defend ourselves!
+
+164
+00:13:51,163 --> 00:13:53,957
+Mounting a defense
+is still engaging in battle.
+
+165
+00:13:54,041 --> 00:13:57,752
+If we sacrifice our beliefs,
+we're no better than they are.
+
+166
+00:13:57,878 --> 00:14:00,755
+Our philosophy has helped us
+to survive for generations,
+
+167
+00:14:00,881 --> 00:14:04,259
+and we will not
+change our morals now or ever.
+
+168
+00:14:10,140 --> 00:14:13,601
+-<font color="#404040">REX:</font> Shield generators, sir.
+-Let's take them with us.
+
+169
+00:14:49,179 --> 00:14:51,556
+Everyone, please. Please listen.
+
+170
+00:14:51,640 --> 00:14:53,808
+The Separatists will be here in moments.
+
+171
+00:14:53,893 --> 00:14:57,186
+What are you doing here?
+I told you not to return.
+
+172
+00:14:57,271 --> 00:15:00,815
+I'm afraid the Separatists don't care
+whether you're in the war or not.
+
+173
+00:15:00,900 --> 00:15:03,234
+We need to get you to safety
+before they arrive.
+
+174
+00:15:03,319 --> 00:15:05,528
+We will not abandon our homes.
+
+175
+00:15:05,613 --> 00:15:09,866
+But they've got a new weapon.
+It'll burn this place to a crisp.
+
+176
+00:15:09,992 --> 00:15:12,452
+Is this what all of you really want?
+
+177
+00:15:12,536 --> 00:15:17,248
+If it is our destiny
+to be destroyed in your war, so be it.
+
+178
+00:15:27,176 --> 00:15:29,552
+Droids, inbound.
+We've got eight minutes tops.
+
+179
+00:15:29,637 --> 00:15:33,473
+Come on, guys! Let's get these
+shield generators in place!
+
+180
+00:15:39,772 --> 00:15:45,151
+When Count Dooku sees how successful
+my weapon is against civilian targets,
+
+181
+00:15:45,235 --> 00:15:52,116
+I will no doubt be promoted to a more
+substantial position within the Alliance.
+
+182
+00:15:52,201 --> 00:15:54,953
+Okay. Right.
+
+183
+00:15:55,037 --> 00:15:58,247
+The villagers appear
+to have put some pods together
+
+184
+00:15:58,332 --> 00:15:59,999
+in a barrier around the village.
+
+185
+00:16:00,084 --> 00:16:01,292
+Pods?
+
+186
+00:16:01,377 --> 00:16:02,961
+<font color="#DF01D7">(LAUGHING)</font>
+
+187
+00:16:03,587 --> 00:16:04,963
+How quaint.
+
+188
+00:16:07,424 --> 00:16:11,177
+Jedi? What are they doing out here? Halt!
+
+189
+00:16:15,724 --> 00:16:19,852
+Please stop what you're doing.
+Stop building that wall.
+
+190
+00:16:19,895 --> 00:16:21,813
+I did not ask you to defend us.
+
+191
+00:16:21,897 --> 00:16:23,731
+This battle is inevitable.
+
+192
+00:16:23,816 --> 00:16:27,568
+You can stand by your beliefs,
+but let us stand by ours.
+
+193
+00:16:30,072 --> 00:16:34,742
+Thank you for what you're trying to do.
+I'm sorry, but I cannot help.
+
+194
+00:16:34,868 --> 00:16:39,414
+My father is very strong-willed
+and set in tradition.
+
+195
+00:16:39,498 --> 00:16:43,376
+Many others agree with me, but
+we were raised under a very strict code.
+
+196
+00:16:43,419 --> 00:16:46,421
+We must respect it even if we don't agree.
+
+197
+00:16:50,217 --> 00:16:51,592
+They're holding position.
+
+198
+00:16:51,677 --> 00:16:55,263
+They're not going to charge us.
+Not if they can hit us from long range first.
+
+199
+00:16:55,347 --> 00:16:58,850
+But if we can withstand that weapon,
+we'll draw them in.
+
+200
+00:16:58,934 --> 00:17:00,685
+Prepare to fire!
+
+201
+00:17:08,694 --> 00:17:11,946
+Goodbye, Jedi. Fire!
+
+202
+00:17:15,117 --> 00:17:16,534
+Incoming!
+
+203
+00:17:18,287 --> 00:17:20,121
+Power the shields!
+
+204
+00:17:34,803 --> 00:17:36,637
+<font color="#DF01D7">(RUMBLING)</font>
+
+205
+00:17:46,648 --> 00:17:50,318
+Now, they'll have to get their hands dirty
+and meet us face to face.
+
+206
+00:17:50,402 --> 00:17:52,987
+Squad One, prepare to charge!
+
+207
+00:17:53,072 --> 00:17:54,864
+Prepare to charge.
+
+208
+00:17:56,784 --> 00:17:58,034
+Charge!
+
+209
+00:18:01,371 --> 00:18:03,372
+That's a lot of clankers.
+
+210
+00:18:03,499 --> 00:18:06,042
+We've got to stop them
+before they get through that shield.
+
+211
+00:18:33,529 --> 00:18:40,535
+Five, four, three, two, one, zero.
+
+212
+00:18:40,661 --> 00:18:43,704
+Sir, the First Squad has been destroyed.
+
+213
+00:18:43,831 --> 00:18:44,872
+<font color="#DF01D7">(GROANS)</font>
+
+214
+00:18:44,998 --> 00:18:47,708
+Squad Two and Three, attack!
+
+215
+00:18:47,751 --> 00:18:51,045
+-That wasn't so tough.
+-That was just the first wave.
+
+216
+00:18:58,053 --> 00:19:02,265
+Snips, get back to the village!
+I'll take care of the new weapon.
+
+217
+00:19:06,186 --> 00:19:08,521
+That's it! We have to retreat!
+
+218
+00:19:12,901 --> 00:19:15,570
+Take cover. They've breached the shield!
+
+219
+00:19:21,618 --> 00:19:23,578
+They're taking out the shield generators.
+
+220
+00:19:23,620 --> 00:19:25,746
+We have to do something.
+
+221
+00:19:39,303 --> 00:19:42,346
+Their shield is down. Launch another shell.
+
+222
+00:19:51,106 --> 00:19:54,108
+Sir, there's a Jedi heading right for us.
+
+223
+00:19:54,151 --> 00:19:56,611
+Then blast him, you idiot!
+
+224
+00:20:02,951 --> 00:20:04,493
+No survivors.
+
+225
+00:20:08,123 --> 00:20:10,166
+Wag Too, what are you doing?
+
+226
+00:20:10,292 --> 00:20:12,835
+-We're going to help.
+-I forbid this!
+
+227
+00:20:12,961 --> 00:20:14,462
+What more would you have them do
+
+228
+00:20:14,546 --> 00:20:16,964
+before we are allowed
+to defend ourselves?
+
+229
+00:20:17,049 --> 00:20:19,175
+-But...
+-We have to do this!
+
+230
+00:20:40,822 --> 00:20:43,824
+Help! I'll be defoliated!
+
+231
+00:20:52,042 --> 00:20:53,501
+<font color="#DF01D7">(SIGHS)</font>
+
+232
+00:20:53,919 --> 00:20:56,170
+There goes my promotion.
+
+233
+00:20:57,673 --> 00:21:01,509
+-The weapon has been disabled.
+-Copy that, General.
+
+234
+00:21:18,068 --> 00:21:19,735
+<font color="#DF01D7">(LIGHTSABER WHOOSHING)</font>
+
+235
+00:21:21,154 --> 00:21:22,738
+<font color="#DF01D7">(VILLAGERS CHEERING)</font>
+
+236
+00:21:30,455 --> 00:21:32,873
+-Thank you, Wag Too.
+-Thank you.
+
+237
+00:21:32,958 --> 00:21:36,877
+Our village would certainly have been
+destroyed without your protection.
+
+238
+00:21:36,962 --> 00:21:39,755
+Father, I was just offering the Jedi
+our thanks.
+
+239
+00:21:39,881 --> 00:21:42,216
+Perhaps we do owe you thanks.
+
+240
+00:21:42,259 --> 00:21:45,886
+But I still wonder, at what cost?
+
+241
+00:21:46,888 --> 00:21:48,889
+<font color="#DF01D7">(SHIPS APPROACHING)</font>
+
+242
+00:22:31,975 --> 00:22:33,017
+English - SDH
+

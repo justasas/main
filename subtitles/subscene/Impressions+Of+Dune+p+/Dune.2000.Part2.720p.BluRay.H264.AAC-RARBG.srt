@@ -1,0 +1,3390 @@
+﻿1
+00:01:15,417 --> 00:01:16,875
+Arrakis.
+
+2
+00:01:17,417 --> 00:01:18,458
+Dune.
+
+3
+00:01:19,667 --> 00:01:24,292
+A land so starved for water
+a single tear is cherished.
+
+4
+00:01:25,125 --> 00:01:28,167
+It is here and only here where can be found:
+
+5
+00:01:28,625 --> 00:01:30,250
+The spice.
+
+6
+00:01:30,708 --> 00:01:33,042
+Greatest treasure in the universe.
+
+7
+00:01:33,375 --> 00:01:36,167
+And the never-ending cause of conflict,
+
+8
+00:01:36,292 --> 00:01:39,292
+betrayal,
+and murder.
+
+9
+00:01:49,958 --> 00:01:52,500
+Muad'Dib.
+
+10
+00:01:54,792 --> 00:01:55,833
+No.
+
+11
+00:02:21,083 --> 00:02:22,708
+Another bad dream, Uncle?
+
+12
+00:02:22,708 --> 00:02:26,708
+No, it's indigestion, that's all,
+miserable food here.
+
+13
+00:02:26,875 --> 00:02:30,292
+I can't wait to be off this foul planet.
+
+14
+00:02:31,792 --> 00:02:33,667
+What are you doing here, boy?
+
+15
+00:02:33,667 --> 00:02:35,375
+They're dead, Uncle.
+
+16
+00:02:35,875 --> 00:02:39,083
+The Bene Gesserit witch and her son,
+both dead.
+
+17
+00:02:39,083 --> 00:02:43,083
+We discovered a Fremen sietch
+not far from where our thopter crashed.
+
+18
+00:02:43,083 --> 00:02:46,667
+They'd been rescued
+by that Atreides snake, Duncan Idaho.
+
+19
+00:02:46,667 --> 00:02:49,250
+The ecologist, Kynes, was with them.
+
+20
+00:02:50,958 --> 00:02:52,667
+The Emperor's man.
+
+21
+00:02:53,667 --> 00:02:55,958
+We killed Idaho, captured Kynes.
+
+22
+00:02:56,542 --> 00:03:00,958
+The witch and her son were last seen
+driving a thopter into a sandstorm.
+
+23
+00:03:03,250 --> 00:03:07,167
+- You've seen the bodies?
+- They're most certainly dead.
+
+24
+00:03:10,250 --> 00:03:12,250
+You've seen the bodies?
+
+25
+00:03:15,125 --> 00:03:17,542
+Nothing survives
+one of those storms, Uncle.
+
+26
+00:03:17,542 --> 00:03:20,250
+The wind was over 800 kilometers an hour.
+
+27
+00:03:21,542 --> 00:03:23,333
+Nothing survives.
+
+28
+00:03:45,208 --> 00:03:47,208
+How long have I been asleep?
+
+29
+00:03:48,208 --> 00:03:49,417
+Not long.
+
+30
+00:03:50,917 --> 00:03:53,500
+The storm passed a little while ago.
+
+31
+00:04:03,500 --> 00:04:05,083
+It was Yueh.
+
+32
+00:04:09,292 --> 00:04:11,292
+He's the one who betrayed us.
+
+33
+00:04:17,083 --> 00:04:18,792
+They had his wife.
+
+34
+00:04:35,375 --> 00:04:37,458
+You should put it on, Paul.
+
+35
+00:04:40,750 --> 00:04:42,542
+You're the duke now.
+
+36
+00:04:47,542 --> 00:04:49,333
+We have to get out of here.
+
+37
+00:04:51,333 --> 00:04:54,833
+I found some supplies
+stowed in the compartment by the hatch:
+
+38
+00:04:55,125 --> 00:04:59,042
+Paracompass, vision goggles, stillsuits.
+
+39
+00:05:02,125 --> 00:05:05,250
+- But where will we go?
+- To find the Fremen.
+
+40
+00:05:06,292 --> 00:05:07,583
+Fremen?
+
+41
+00:05:08,083 --> 00:05:09,875
+We're going to need them...
+
+42
+00:05:10,750 --> 00:05:12,667
+...to take back Arrakis.
+
+43
+00:05:55,917 --> 00:05:57,917
+How do we know which way to go?
+
+44
+00:05:58,917 --> 00:06:00,000
+South.
+
+45
+00:06:01,708 --> 00:06:03,917
+That's into the deep desert.
+
+46
+00:06:04,500 --> 00:06:07,208
+There were rumors
+of sietch communities there.
+
+47
+00:06:08,125 --> 00:06:10,417
+That's where we'll find the Fremen...
+
+48
+00:06:11,417 --> 00:06:13,292
+...or die trying.
+
+49
+00:06:43,083 --> 00:06:44,375
+I'm all right.
+
+50
+00:06:49,583 --> 00:06:52,167
+It's just the stress. I'm fine.
+
+51
+00:07:22,542 --> 00:07:25,917
+Please, Your Majesty, please.
+You must control your anger.
+
+52
+00:07:25,917 --> 00:07:28,042
+Did you think I wouldn't find out?
+
+53
+00:07:28,042 --> 00:07:31,833
+Or did you think I would just be
+too simple-minded to see the truth?
+
+54
+00:07:33,333 --> 00:07:34,917
+Leave us alone.
+
+55
+00:07:38,625 --> 00:07:42,125
+What happened on Arrakis
+was beyond my control, Daughter.
+
+56
+00:07:42,125 --> 00:07:44,417
+An ancient feud between royal houses.
+
+57
+00:07:44,708 --> 00:07:49,208
+Don't patronize me, Father.
+Isn't it enough that you used me?
+
+58
+00:07:49,917 --> 00:07:51,208
+Used you?
+
+59
+00:07:51,500 --> 00:07:54,292
+Sending me to the duke
+as a token of your support...
+
+60
+00:07:54,292 --> 00:07:57,208
+...making me a courier
+of your esteemed respect...
+
+61
+00:07:57,208 --> 00:08:00,583
+- ...while you were plotting behind his back.
+- Quiet, child.
+
+62
+00:08:03,000 --> 00:08:05,208
+Or was that your idea, Fenring?
+
+63
+00:08:05,208 --> 00:08:08,292
+That would be something
+your perverse mind would suggest.
+
+64
+00:08:08,292 --> 00:08:11,667
+- Watch your tongue, girl.
+- And what will you do if I don't?
+
+65
+00:08:11,667 --> 00:08:15,667
+Send me into the desert to die
+like that poor boy and his mother?
+
+66
+00:08:16,583 --> 00:08:19,875
+No one sent them anywhere. They fled.
+
+67
+00:08:20,875 --> 00:08:22,958
+Despite the Baron's efforts...
+
+68
+00:08:23,583 --> 00:08:27,083
+...he assures me he did everything he could
+to secure them from harm.
+
+69
+00:08:27,083 --> 00:08:29,750
+You were involved, Father.
+I know you were.
+
+70
+00:08:30,375 --> 00:08:32,750
+Or at least you did nothing to prevent it.
+
+71
+00:08:32,750 --> 00:08:33,958
+Enough!
+
+72
+00:08:43,333 --> 00:08:45,542
+There will come a time, Daughter...
+
+73
+00:08:46,042 --> 00:08:49,458
+...when you will have to shed
+this naiveté of yours...
+
+74
+00:08:49,458 --> 00:08:53,250
+...and learn what it means
+to rule an empire.
+
+75
+00:08:58,042 --> 00:09:00,542
+And when that time comes, Father...
+
+76
+00:09:01,417 --> 00:09:03,542
+...you may learn to regret it.
+
+77
+00:09:23,625 --> 00:09:26,417
+It's only another few kilometers, that's all.
+
+78
+00:09:27,417 --> 00:09:29,708
+Hurry, we don't have much time.
+
+79
+00:09:31,208 --> 00:09:33,292
+The sun will soon be up full.
+
+80
+00:10:04,792 --> 00:10:06,875
+We'll have some shade in here.
+
+81
+00:10:07,458 --> 00:10:12,375
+If there are Harkonnen patrols this far out,
+they'll have a tough time spotting us.
+
+82
+00:10:34,958 --> 00:10:36,333
+Such a pity.
+
+83
+00:10:36,625 --> 00:10:40,042
+A pity that you had to get mixed up
+in this business, Doctor.
+
+84
+00:10:40,417 --> 00:10:42,750
+I'm not mixed up in it, Baron.
+
+85
+00:10:43,333 --> 00:10:46,833
+I'm the Emperor's servant,
+nothing more and nothing less.
+
+86
+00:10:47,125 --> 00:10:50,833
+So you did not lead them
+to that warren of Fremen scum?
+
+87
+00:10:51,625 --> 00:10:53,542
+That was Idaho's idea.
+
+88
+00:10:53,917 --> 00:10:56,333
+- He had forged a friendship with them.
+- Yes.
+
+89
+00:10:56,333 --> 00:10:59,917
+We know all about Idaho
+and his efforts on the duke's behalf.
+
+90
+00:10:59,917 --> 00:11:01,917
+A foolish, desperate gambit.
+
+91
+00:11:01,917 --> 00:11:05,292
+And where was that Fremen trash
+when he needed them?
+
+92
+00:11:11,917 --> 00:11:18,208
+What will you say when the Emperor
+questions you about what happened here?
+
+93
+00:11:19,000 --> 00:11:21,208
+What's your impression?
+
+94
+00:11:21,792 --> 00:11:25,792
+The desert is
+an indiscriminate executioner, Baron.
+
+95
+00:11:29,208 --> 00:11:32,000
+I suppose that Bene Gesserit whore...
+
+96
+00:11:32,375 --> 00:11:35,583
+...and her spawn have found that out,
+haven't they?
+
+97
+00:11:42,375 --> 00:11:47,458
+Be sure he recalls his flimsy denials
+when he's face to face...
+
+98
+00:11:47,958 --> 00:11:50,083
+...with death's sweet smile.
+
+99
+00:11:53,375 --> 00:11:54,958
+Muad'Dib.
+
+100
+00:12:00,042 --> 00:12:03,833
+Tell me about the waters
+of your homeland, Muad'Dib.
+
+101
+00:12:05,667 --> 00:12:10,167
+On Caladan we ruled by air and sea, Paul.
+
+102
+00:12:11,833 --> 00:12:15,833
+But here, on Arrakis,
+you need desert power.
+
+103
+00:12:17,250 --> 00:12:20,042
+- It's calling to you.
+- Tell me about the waters.
+
+104
+00:12:20,042 --> 00:12:23,417
+Tell me about the waters
+of your homeland, Muad'Dib.
+
+105
+00:12:50,208 --> 00:12:52,917
+It'll be night soon. We'll move on.
+
+106
+00:12:52,917 --> 00:12:54,417
+Did you get any rest?
+
+107
+00:12:54,417 --> 00:12:55,500
+Some.
+
+108
+00:12:57,000 --> 00:12:59,292
+- How are you feeling?
+- Better.
+
+109
+00:13:00,500 --> 00:13:03,375
+Try not to slow us down as much tonight.
+
+110
+00:13:04,792 --> 00:13:06,208
+How is my sister?
+
+111
+00:13:16,167 --> 00:13:18,083
+I'm having dreams again.
+
+112
+00:13:19,083 --> 00:13:20,167
+Visions.
+
+113
+00:13:20,458 --> 00:13:22,375
+Even when I'm awake.
+
+114
+00:13:22,667 --> 00:13:25,375
+I've seen her, Mother, inside of you.
+
+115
+00:13:27,375 --> 00:13:29,667
+Even your father didn't know.
+
+116
+00:13:29,958 --> 00:13:31,167
+Why not?
+
+117
+00:13:34,875 --> 00:13:36,542
+There wasn't time.
+
+118
+00:13:40,167 --> 00:13:42,167
+What have you done to me?
+
+119
+00:13:44,667 --> 00:13:46,833
+- I gave birth to you.
+- A freak.
+
+120
+00:13:47,333 --> 00:13:49,750
+- No, not a freak.
+- Then what?
+
+121
+00:13:57,292 --> 00:13:59,375
+This place is changing me.
+
+122
+00:14:00,875 --> 00:14:02,375
+It's the spice.
+
+123
+00:14:03,792 --> 00:14:06,958
+It's in the air we breathe,
+in the food we eat.
+
+124
+00:14:07,667 --> 00:14:09,375
+I can't escape it.
+
+125
+00:14:38,833 --> 00:14:40,333
+Drink it all.
+
+126
+00:14:41,042 --> 00:14:44,042
+The best place to conserve water
+is in your body.
+
+127
+00:14:44,750 --> 00:14:47,042
+The stillsuit will do the rest.
+
+128
+00:14:50,417 --> 00:14:54,125
+If we stay on this dune
+we'll reach those mountains a lot sooner.
+
+129
+00:14:54,542 --> 00:14:56,333
+Is that a good idea?
+
+130
+00:14:57,125 --> 00:14:59,333
+It's the most direct path.
+
+131
+00:15:53,958 --> 00:15:55,458
+You all right?
+
+132
+00:15:58,875 --> 00:15:59,958
+Yes.
+
+133
+00:16:03,958 --> 00:16:05,250
+Hold on.
+
+134
+00:16:27,417 --> 00:16:29,542
+That shouldn't have happened.
+
+135
+00:16:30,042 --> 00:16:32,417
+I was careless about these dunes.
+
+136
+00:16:37,125 --> 00:16:39,125
+We lost our paracompass.
+
+137
+00:16:50,000 --> 00:16:51,500
+Can you hear that?
+
+138
+00:16:52,500 --> 00:16:53,917
+It's a worm!
+
+139
+00:16:53,917 --> 00:16:56,708
+It must have heard the sand fall.
+Run! Just run!
+
+140
+00:17:04,500 --> 00:17:07,292
+- I can't see it!
+- Don't stop!
+
+141
+00:17:54,333 --> 00:17:55,958
+A thumper?
+
+142
+00:17:55,958 --> 00:17:57,958
+Someone called it away.
+
+143
+00:18:00,250 --> 00:18:03,333
+Did you smell it? The cinnamon smell.
+
+144
+00:18:03,333 --> 00:18:04,417
+The spice.
+
+145
+00:18:05,333 --> 00:18:06,625
+Everywhere.
+
+146
+00:18:08,917 --> 00:18:10,833
+When the worm came.
+
+147
+00:18:41,083 --> 00:18:44,583
+There had to have been people
+for this many plants to survive.
+
+148
+00:18:45,208 --> 00:18:46,500
+Fremen.
+
+149
+00:18:48,000 --> 00:18:49,875
+We have to find them.
+
+150
+00:18:50,000 --> 00:18:53,208
+Most intruders here
+regret finding the Fremen.
+
+151
+00:19:06,792 --> 00:19:09,708
+Don't run, intruders. There is no escape.
+
+152
+00:19:18,667 --> 00:19:20,083
+I know you.
+
+153
+00:19:21,792 --> 00:19:23,583
+You're Stilgar...
+
+154
+00:19:25,083 --> 00:19:28,583
+...the Fremen who came to see my father
+with Duncan Idaho.
+
+155
+00:19:30,875 --> 00:19:33,667
+That was a sloppy crossing you made
+from the crash.
+
+156
+00:19:33,667 --> 00:19:34,958
+You called a worm.
+
+157
+00:19:34,958 --> 00:19:36,750
+You were watching us?
+
+158
+00:19:37,583 --> 00:19:40,375
+- All of that time?
+- We didn't see you.
+
+159
+00:19:40,375 --> 00:19:43,542
+- You weren't meant to.
+- We're wasting time here, Stil.
+
+160
+00:19:43,958 --> 00:19:47,375
+- This is the boy Liet told us to seek.
+- How can you be sure?
+
+161
+00:19:47,375 --> 00:19:50,833
+- I say we take their water and move on.
+- Be quiet, Jamis.
+
+162
+00:19:51,667 --> 00:19:54,333
+As you can hear, I have a problem to solve.
+
+163
+00:19:54,833 --> 00:19:57,167
+My people are cautious and pragmatic.
+
+164
+00:19:58,458 --> 00:20:00,542
+Good qualities in the desert.
+
+165
+00:20:00,542 --> 00:20:04,250
+Better sometimes to miss an opportunity
+than invite disaster.
+
+166
+00:20:06,333 --> 00:20:09,125
+Your only value at the moment
+is the water in your flesh.
+
+167
+00:20:09,125 --> 00:20:10,917
+You know the law, Stil.
+
+168
+00:20:10,917 --> 00:20:12,542
+Yes.
+
+169
+00:20:15,208 --> 00:20:16,208
+The law.
+
+170
+00:20:26,417 --> 00:20:29,417
+Tell them to stop hunting my son.
+
+171
+00:20:30,417 --> 00:20:31,917
+Tell them.
+
+172
+00:20:35,500 --> 00:20:37,625
+Leave off! Leave the boy alone!
+
+173
+00:20:38,208 --> 00:20:39,792
+Do you hear me?
+
+174
+00:20:41,708 --> 00:20:44,292
+Is this the way
+you welcome friends of Liet?
+
+175
+00:20:44,292 --> 00:20:45,500
+Is it?
+
+176
+00:20:53,500 --> 00:20:55,292
+As leader of this tribe...
+
+177
+00:20:56,083 --> 00:21:00,083
+...I'm offering the Weirding woman
+and her son sanctuary.
+
+178
+00:21:00,875 --> 00:21:05,667
+No Fremen will lay a hand on you
+while you have my protection.
+
+179
+00:21:06,875 --> 00:21:08,167
+For how long?
+
+180
+00:21:08,167 --> 00:21:09,958
+Don't be a fool, woman.
+
+181
+00:21:10,583 --> 00:21:12,750
+You're fugitives from the Harkonnen.
+
+182
+00:21:13,083 --> 00:21:15,375
+Don't be fugitives from us as well.
+
+183
+00:21:29,833 --> 00:21:31,167
+Merciful God!
+
+184
+00:21:31,958 --> 00:21:34,250
+I've heard of the Weirding ways.
+
+185
+00:21:36,250 --> 00:21:38,458
+Imagine what a man could do with it.
+
+186
+00:21:38,458 --> 00:21:41,042
+No doubt we have much
+to teach each other.
+
+187
+00:21:44,042 --> 00:21:48,042
+You can come down, boy!
+Your mother has shown her worth.
+
+188
+00:21:48,417 --> 00:21:50,250
+He won't move unless I say so.
+
+189
+00:21:50,250 --> 00:21:51,917
+Discipline. Good.
+
+190
+00:21:59,417 --> 00:22:00,833
+He's here!
+
+191
+00:22:11,208 --> 00:22:12,708
+He is unharmed.
+
+192
+00:22:14,125 --> 00:22:15,917
+We are coming down.
+
+193
+00:22:28,583 --> 00:22:30,208
+Leave me alone.
+
+194
+00:22:32,208 --> 00:22:34,208
+Made a lot of noise climbing.
+
+195
+00:22:34,583 --> 00:22:36,500
+He has much to learn.
+
+196
+00:22:42,083 --> 00:22:44,792
+- Stilgar.
+- Can you travel, Jamis?
+
+197
+00:22:46,792 --> 00:22:48,667
+He surprised me, that's all.
+
+198
+00:22:49,167 --> 00:22:51,667
+- Of course I can travel.
+- Good.
+
+199
+00:22:53,375 --> 00:22:56,375
+We have now two with us
+who are not trained.
+
+200
+00:22:57,250 --> 00:22:59,583
+In squad lines with flankers.
+
+201
+00:23:00,083 --> 00:23:03,250
+We have to make Cave of Ridges
+before full sun.
+
+202
+00:23:03,250 --> 00:23:06,167
+Chani, you will be responsible for him.
+
+203
+00:23:06,167 --> 00:23:07,875
+My name is Paul.
+
+204
+00:23:08,250 --> 00:23:10,458
+Only until we give you a new one.
+
+205
+00:23:17,542 --> 00:23:20,042
+Follow me. Do exactly as I do.
+
+206
+00:24:06,000 --> 00:24:07,708
+Across there is home...
+
+207
+00:24:08,500 --> 00:24:09,792
+...Sietch Tabr.
+
+208
+00:24:10,292 --> 00:24:11,875
+We'll be there tomorrow.
+
+209
+00:24:11,875 --> 00:24:13,208
+Tomorrow?
+
+210
+00:24:13,500 --> 00:24:16,000
+That must be hundreds of kilometers
+from here.
+
+211
+00:24:16,000 --> 00:24:17,875
+It will be a hard ride.
+
+212
+00:24:19,083 --> 00:24:20,792
+Sun will be up soon.
+
+213
+00:24:20,792 --> 00:24:24,375
+Patrols sometimes come this far.
+We can't let them see us.
+
+214
+00:24:50,667 --> 00:24:54,667
+When you give us your stillsuits,
+we will recover your water for you.
+
+215
+00:25:02,333 --> 00:25:04,042
+Here is some food.
+
+216
+00:25:09,542 --> 00:25:10,625
+Spice.
+
+217
+00:25:11,333 --> 00:25:14,833
+We don't have delicacies from the cities
+like you are used to.
+
+218
+00:25:15,625 --> 00:25:16,917
+It's fine.
+
+219
+00:26:10,667 --> 00:26:14,375
+She's the one, isn't she?
+The one you've seen in your dreams?
+
+220
+00:26:16,167 --> 00:26:18,958
+I can tell by the way you stare at her.
+
+221
+00:26:20,958 --> 00:26:23,042
+I don't know what it means.
+
+222
+00:26:24,250 --> 00:26:25,958
+Be careful, Paul.
+
+223
+00:26:27,458 --> 00:26:30,542
+We are new to these people
+as they are to us.
+
+224
+00:26:30,833 --> 00:26:33,750
+Everything we say and do must be careful.
+
+225
+00:26:34,458 --> 00:26:37,833
+Predicting the future,
+then plotting to make it so.
+
+226
+00:26:39,333 --> 00:26:41,750
+These are superstitious people.
+
+227
+00:26:44,333 --> 00:26:49,417
+If we are to survive, it will be best
+to accommodate their legends.
+
+228
+00:27:10,000 --> 00:27:15,208
+I'm the steward of the sand.
+I am a desert creature.
+
+229
+00:27:16,917 --> 00:27:18,708
+A desert creature.
+
+230
+00:27:28,500 --> 00:27:30,792
+Not finished yet!
+
+231
+00:27:34,375 --> 00:27:36,667
+Still have work to do!
+
+232
+00:27:44,292 --> 00:27:46,083
+The pre-spice mass.
+
+233
+00:27:48,958 --> 00:27:52,583
+I am a desert crea...
+
+234
+00:28:43,000 --> 00:28:44,167
+Spice blow.
+
+235
+00:28:46,042 --> 00:28:47,917
+Somewhere to the east.
+
+236
+00:28:54,625 --> 00:28:56,917
+A large field from the looks of it.
+
+237
+00:29:02,083 --> 00:29:06,000
+We have to send gatherers
+before Harkonnen pirates come for it.
+
+238
+00:29:07,000 --> 00:29:08,875
+You harvest the spice?
+
+239
+00:29:10,083 --> 00:29:12,083
+For bribes to the Spacing Guild.
+
+240
+00:29:13,667 --> 00:29:15,375
+It's Liet's wish.
+
+241
+00:29:16,083 --> 00:29:19,375
+We pay them to keep our skies free
+of their satellites...
+
+242
+00:29:19,875 --> 00:29:22,792
+...so that no one can know
+what we are doing here.
+
+243
+00:29:24,375 --> 00:29:25,958
+You will learn.
+
+244
+00:29:31,958 --> 00:29:33,250
+Amtal!
+
+245
+00:29:34,667 --> 00:29:36,167
+I invoke amtal.
+
+246
+00:29:36,167 --> 00:29:37,375
+Jamis.
+
+247
+00:29:37,875 --> 00:29:39,167
+What is this?
+
+248
+00:29:39,167 --> 00:29:41,833
+His way of dealing with what happened
+the other night.
+
+249
+00:29:41,833 --> 00:29:43,750
+That was an accident.
+
+250
+00:29:43,750 --> 00:29:47,542
+He bested me because there was
+witch-force at Tuono basin.
+
+251
+00:29:47,542 --> 00:29:49,542
+Amtal! It's my right!
+
+252
+00:29:49,542 --> 00:29:52,833
+We must not interfere.
+Jamis has called him out.
+
+253
+00:29:55,125 --> 00:29:57,458
+You're starting something
+you're going to regret.
+
+254
+00:29:57,458 --> 00:29:59,208
+- Stilgar.
+- You must step back.
+
+255
+00:29:59,250 --> 00:30:02,542
+If you know what's good for you,
+you'll find an honorable way...
+
+256
+00:30:02,542 --> 00:30:04,250
+...to leave this thing alone.
+
+257
+00:30:04,250 --> 00:30:05,250
+Silence!
+
+258
+00:30:05,958 --> 00:30:08,958
+I invoke silence.
+She's trying to put a spell on me.
+
+259
+00:30:08,958 --> 00:30:12,583
+If you try that again,
+we know it's your witchcraft.
+
+260
+00:30:13,458 --> 00:30:16,750
+I won't be able to protect you
+or the boy anymore.
+
+261
+00:30:18,375 --> 00:30:20,875
+Come. You can't stop this.
+
+262
+00:31:01,917 --> 00:31:04,917
+A crysknife, our ritual weapon.
+
+263
+00:31:06,917 --> 00:31:08,417
+Use it well.
+
+264
+00:31:20,208 --> 00:31:22,292
+May your blade chip and shatter.
+
+265
+00:31:39,958 --> 00:31:42,792
+I'm going to bathe this knife
+with your blood.
+
+266
+00:31:49,875 --> 00:31:52,167
+First, you'll have to find my blood.
+
+267
+00:32:25,250 --> 00:32:27,042
+- Do you yield?
+- Yield?
+
+268
+00:32:27,625 --> 00:32:30,708
+There is no yielding. It's to the death, boy!
+
+269
+00:32:36,708 --> 00:32:39,208
+- He's never had to kill.
+- What?
+
+270
+00:32:42,500 --> 00:32:44,500
+Then he'd better learn.
+
+271
+00:33:01,375 --> 00:33:04,375
+Finish. Don't toy with him.
+
+272
+00:33:38,042 --> 00:33:39,750
+He's bested Jamis.
+
+273
+00:33:59,917 --> 00:34:02,042
+This didn't have to happen.
+
+274
+00:34:05,042 --> 00:34:06,750
+It is our way.
+
+275
+00:34:06,750 --> 00:34:09,708
+Your way. Killing each other.
+
+276
+00:34:17,125 --> 00:34:21,000
+No man recognizes leadership
+without the challenge of combat.
+
+277
+00:34:32,417 --> 00:34:34,500
+There is a legend among us...
+
+278
+00:34:37,292 --> 00:34:40,083
+...that a voice from the out-world
+will come.
+
+279
+00:34:40,875 --> 00:34:42,083
+The Mahdi.
+
+280
+00:34:43,792 --> 00:34:47,208
+He will hold the key to our future.
+
+281
+00:34:49,167 --> 00:34:52,667
+It is said that a Bene Gesserit
+will be his mother.
+
+282
+00:34:53,500 --> 00:34:54,792
+A Sayyadina.
+
+283
+00:34:55,583 --> 00:34:57,375
+Friend of God.
+
+284
+00:35:00,583 --> 00:35:03,083
+There are rumors about you and your son.
+
+285
+00:35:03,375 --> 00:35:05,750
+From the city. Liet.
+
+286
+00:35:07,875 --> 00:35:10,667
+You hope I am that one? That Paul is?
+
+287
+00:35:11,583 --> 00:35:12,583
+I hope...
+
+288
+00:35:12,958 --> 00:35:14,542
+...and I fear.
+
+289
+00:35:18,458 --> 00:35:22,750
+If it's true,
+your boy will have to call me out one day...
+
+290
+00:35:23,750 --> 00:35:26,750
+...to challenge me
+for the leadership of the tribe.
+
+291
+00:35:27,750 --> 00:35:30,250
+The huanui is prepared. It's time.
+
+292
+00:35:36,042 --> 00:35:37,542
+It's our way.
+
+293
+00:35:46,625 --> 00:35:49,208
+From water does all life begin.
+
+294
+00:35:53,333 --> 00:35:55,417
+The flesh belongs to the person...
+
+295
+00:35:56,417 --> 00:35:59,125
+...but his water belongs to the tribe.
+
+296
+00:36:04,417 --> 00:36:06,417
+I was a friend of Jamis.
+
+297
+00:36:08,292 --> 00:36:10,625
+When the hawk plane fell upon us...
+
+298
+00:36:12,208 --> 00:36:13,917
+...at Hole-in-the-Rock...
+
+299
+00:36:14,417 --> 00:36:18,000
+...it was Jamis who pulled me to safety.
+
+300
+00:36:20,375 --> 00:36:22,083
+I was a friend of Jamis.
+
+301
+00:36:24,375 --> 00:36:26,083
+I was a friend of Jamis.
+
+302
+00:37:01,042 --> 00:37:03,167
+I was a friend of Jamis.
+
+303
+00:37:04,042 --> 00:37:06,042
+He taught me...
+
+304
+00:37:07,750 --> 00:37:09,667
+...that when you kill...
+
+305
+00:37:11,542 --> 00:37:13,042
+...you pay for it.
+
+306
+00:37:13,917 --> 00:37:15,833
+Bila-Kayfa!
+
+307
+00:37:27,833 --> 00:37:29,417
+He sheds tears.
+
+308
+00:37:30,125 --> 00:37:32,208
+He gives water to the dead.
+
+309
+00:37:38,208 --> 00:37:40,917
+Jamis carried 33 liters of the tribe's water.
+
+310
+00:37:41,208 --> 00:37:43,125
+Counted and measured.
+
+311
+00:38:00,292 --> 00:38:02,792
+Combat water is entrusted to the winner.
+
+312
+00:38:03,083 --> 00:38:05,500
+Because you fight without stillsuit...
+
+313
+00:38:05,875 --> 00:38:08,583
+...you may regain the water
+you lost fighting.
+
+314
+00:38:18,458 --> 00:38:22,458
+May you guard it for the tribe,
+preserve it against loss...
+
+315
+00:38:23,292 --> 00:38:25,667
+...be generous with it in time of need.
+
+316
+00:38:25,958 --> 00:38:29,583
+May you pass it on in your time
+for the good of the tribe.
+
+317
+00:38:34,750 --> 00:38:36,875
+Needs a naming now, Stil.
+
+318
+00:38:41,250 --> 00:38:42,667
+It's time.
+
+319
+00:38:43,958 --> 00:38:47,250
+What would you have us call you,
+young Atreides?
+
+320
+00:38:47,542 --> 00:38:50,125
+By what name do you wish Fremen
+to know you?
+
+321
+00:38:52,250 --> 00:38:54,833
+What is the name of that little mouse?
+
+322
+00:38:57,333 --> 00:39:00,333
+The one in the desert. The one that jumps.
+
+323
+00:39:04,917 --> 00:39:06,125
+Muad'Dib.
+
+324
+00:39:07,542 --> 00:39:09,333
+Is that the name you wish?
+
+325
+00:39:11,708 --> 00:39:12,708
+Yes.
+
+326
+00:39:13,917 --> 00:39:14,917
+Muad'Dib.
+
+327
+00:39:17,625 --> 00:39:19,917
+Wise in the ways of the desert.
+
+328
+00:39:21,500 --> 00:39:24,292
+Hiding from the sun. Traveling at night.
+
+329
+00:39:25,292 --> 00:39:27,917
+We call him the "teacher of boys".
+
+330
+00:39:29,625 --> 00:39:31,000
+Muad'Dib.
+
+331
+00:39:31,500 --> 00:39:34,208
+A fine choice.
+
+332
+00:39:36,292 --> 00:39:40,792
+So, from now on
+you will be addressed as Muad'Dib.
+
+333
+00:39:48,875 --> 00:39:52,583
+Wait for my signal.
+Then you must do exactly as I do.
+
+334
+00:39:52,583 --> 00:39:54,583
+Your lives will depend on it.
+
+335
+00:40:03,375 --> 00:40:04,458
+There.
+
+336
+00:40:24,667 --> 00:40:26,042
+Get ready.
+
+337
+00:42:34,833 --> 00:42:36,208
+What is that?
+
+338
+00:42:36,708 --> 00:42:40,125
+The one who will come. Mahdi.
+
+339
+00:43:10,875 --> 00:43:14,292
+It's the gatherer Stilgar sent
+to the spice blow.
+
+340
+00:43:21,167 --> 00:43:23,583
+Give her some time, Muad'Dib.
+
+341
+00:43:24,458 --> 00:43:25,958
+Liet is dead.
+
+342
+00:43:26,875 --> 00:43:30,750
+- We found his remains at the spice blow.
+- Doctor Kynes is dead?
+
+343
+00:43:30,750 --> 00:43:32,583
+Harkonnen treachery.
+
+344
+00:43:33,667 --> 00:43:35,750
+She loved her father very much.
+
+345
+00:43:51,250 --> 00:43:53,542
+It needs a new dew collector.
+
+346
+00:43:59,750 --> 00:44:03,125
+Tell me about the waters
+of your homeland, Muad'Dib.
+
+347
+00:44:07,708 --> 00:44:09,333
+We had rivers of it.
+
+348
+00:44:12,125 --> 00:44:14,500
+Great flowing veins of water.
+
+349
+00:44:17,333 --> 00:44:19,708
+From the snows of mountains...
+
+350
+00:44:20,333 --> 00:44:23,708
+...into lakes so wide
+you couldn't see the other side.
+
+351
+00:44:25,792 --> 00:44:27,500
+Oceans of water.
+
+352
+00:44:35,417 --> 00:44:37,500
+Our home was on the coast.
+
+353
+00:44:40,500 --> 00:44:43,875
+Great waves would hurl themselves
+against the cliffs.
+
+354
+00:44:47,208 --> 00:44:49,292
+They used to put me to sleep.
+
+355
+00:44:51,375 --> 00:44:53,792
+My father had a dream, Muad'Dib.
+
+356
+00:44:55,875 --> 00:44:57,875
+A dream that one day...
+
+357
+00:44:59,083 --> 00:45:01,292
+...we could change this place...
+
+358
+00:45:03,083 --> 00:45:05,458
+...make it more like your homeland.
+
+359
+00:45:23,667 --> 00:45:24,958
+Windtrap.
+
+360
+00:45:25,750 --> 00:45:28,167
+Plenty of moisture this morning.
+
+361
+00:45:30,125 --> 00:45:32,125
+My father is at peace.
+
+362
+00:45:45,542 --> 00:45:46,542
+Muad'Dib.
+
+363
+00:46:03,208 --> 00:46:05,708
+We have thousands of these caches.
+
+364
+00:46:07,000 --> 00:46:09,000
+Only a few of us know them all.
+
+365
+00:46:10,208 --> 00:46:11,917
+I know this place.
+
+366
+00:46:11,917 --> 00:46:15,000
+- No off-worlder has ever seen it.
+- I have.
+
+367
+00:46:17,000 --> 00:46:18,208
+In my dreams.
+
+368
+00:46:20,083 --> 00:46:24,083
+This is the water we will use
+to change the face of Arrakis.
+
+369
+00:46:26,792 --> 00:46:28,792
+As my father taught us...
+
+370
+00:46:30,667 --> 00:46:33,292
+...the voice from the out-world will come.
+
+371
+00:46:34,292 --> 00:46:35,667
+The Mahdi.
+
+372
+00:46:39,375 --> 00:46:41,875
+We will make a paradise of Arrakis.
+
+373
+00:46:43,958 --> 00:46:46,958
+And no man shall ever want
+for water again.
+
+374
+00:47:32,667 --> 00:47:42,667
+Muad'Dib.
+
+375
+00:47:47,000 --> 00:47:48,125
+Come.
+
+376
+00:47:51,583 --> 00:47:53,583
+You summoned me, Highness?
+
+377
+00:47:53,917 --> 00:47:57,792
+- I have a special errand for you, Farrah.
+- I'm here to serve, Milady.
+
+378
+00:47:58,417 --> 00:48:01,875
+I'm sending you to the Harkonnen planet,
+Giedi Prime.
+
+379
+00:48:06,792 --> 00:48:10,792
+I want you to insinuate yourself
+among the fat Baron's family.
+
+380
+00:48:11,375 --> 00:48:14,083
+His nephew, Feyd, the narcissistic type...
+
+381
+00:48:14,500 --> 00:48:18,458
+...should be especially amenable
+to your expert charms.
+
+382
+00:48:18,583 --> 00:48:20,875
+And how will you want me to use him?
+
+383
+00:48:21,167 --> 00:48:25,750
+I want to know what happened the night
+Duke Leto and his family were killed.
+
+384
+00:48:26,583 --> 00:48:28,750
+I want to know how it was planned...
+
+385
+00:48:29,750 --> 00:48:31,667
+...who was involved...
+
+386
+00:48:32,250 --> 00:48:35,042
+...and I want to know
+who the Harkonnen allies were.
+
+387
+00:48:35,042 --> 00:48:36,458
+I'll do my best.
+
+388
+00:48:37,375 --> 00:48:39,250
+I've no doubt of that.
+
+389
+00:48:50,750 --> 00:48:52,750
+Just as you said, Stil.
+
+390
+00:48:53,958 --> 00:48:57,833
+Harkonnen greed for spice
+is the most reliable beacon in the universe.
+
+391
+00:48:58,250 --> 00:49:02,250
+- Reconnaissance team on the ground.
+- Ground recon proceed to spice patch.
+
+392
+00:49:09,708 --> 00:49:11,333
+Anyone else hear that?
+
+393
+00:49:26,292 --> 00:49:29,000
+We didn't even have to damage
+the thopter.
+
+394
+00:49:30,208 --> 00:49:32,917
+The men will fly it to our caves at Bight.
+
+395
+00:50:14,542 --> 00:50:16,167
+That was our last communication.
+
+396
+00:50:16,167 --> 00:50:19,042
+No mayday or wreckage
+when we went to investigate.
+
+397
+00:50:19,042 --> 00:50:20,833
+That's the third thopter this month!
+
+398
+00:50:20,833 --> 00:50:22,750
+The patch turned out to be mock spice.
+
+399
+00:50:22,750 --> 00:50:25,833
+- It was probably a plant to lure them there.
+- Fremen scum!
+
+400
+00:50:29,833 --> 00:50:32,833
+We caught these last night,
+a village near the rimwall...
+
+401
+00:50:32,833 --> 00:50:34,750
+...known to be desert sympathizers.
+
+402
+00:50:34,750 --> 00:50:36,542
+Mercy, Governor.
+
+403
+00:50:37,750 --> 00:50:39,125
+We are refugees.
+
+404
+00:50:39,542 --> 00:50:41,833
+- We need food.
+- Liar!
+
+405
+00:50:43,333 --> 00:50:45,333
+Spies! That's what you are!
+
+406
+00:50:45,750 --> 00:50:47,625
+Spies for the Fremen scum!
+
+407
+00:50:48,542 --> 00:50:51,542
+Fremen scum
+who raid my spice warehouses!
+
+408
+00:50:51,917 --> 00:50:57,125
+- Who destroy royal equipment!
+- No. We are poor. We have no weapons.
+
+409
+00:51:01,500 --> 00:51:04,625
+He was trying to dispose of this
+when we caught him.
+
+410
+00:51:17,500 --> 00:51:20,083
+Send words to the filth of the desert!
+
+411
+00:51:21,000 --> 00:51:23,208
+Tell them what you witness here!
+
+412
+00:51:26,708 --> 00:51:29,500
+Tell them this is what awaits them!
+
+413
+00:51:30,875 --> 00:51:32,292
+Mahdi!
+
+414
+00:51:53,750 --> 00:51:57,458
+Put that away, Feyd, and come here.
+I want you to see this.
+
+415
+00:52:03,333 --> 00:52:06,250
+The latest love letter from your brother.
+
+416
+00:52:08,042 --> 00:52:09,250
+Mahdi!
+
+417
+00:52:09,250 --> 00:52:11,042
+Appears to be enjoying himself.
+
+418
+00:52:11,042 --> 00:52:14,542
+The moron's appetite for killing
+never ceases to amaze me.
+
+419
+00:52:16,125 --> 00:52:19,917
+By the time he's finished,
+there won't be a population left to rule.
+
+420
+00:52:20,917 --> 00:52:23,125
+Cheer up, lovely boy.
+
+421
+00:52:23,125 --> 00:52:28,333
+I merely allow him to brutalize them,
+to savage them, until you arrive...
+
+422
+00:52:29,208 --> 00:52:33,708
+...the handsome Feyd,
+to rescue them from the beast, Rabban.
+
+423
+00:52:34,708 --> 00:52:37,917
+They will be ripe for you, lovely boy.
+
+424
+00:52:38,833 --> 00:52:40,208
+Feyd, the saviour.
+
+425
+00:52:40,208 --> 00:52:42,708
+There will be cheering in the streets.
+
+426
+00:52:42,708 --> 00:52:46,708
+You can even give them
+your brother's head as a gift, if you like.
+
+427
+00:52:47,125 --> 00:52:52,000
+And then you will squeeze,
+like the grips of a vice...
+
+428
+00:52:52,708 --> 00:52:57,417
+...so our treasuries become fat
+with the profit of spice.
+
+429
+00:53:23,458 --> 00:53:25,958
+No man recognizes leadership...
+
+430
+00:53:26,583 --> 00:53:28,958
+...without the challenge of combat.
+
+431
+00:53:29,583 --> 00:53:30,875
+It is the way.
+
+432
+00:53:30,875 --> 00:53:32,083
+Call him out!
+
+433
+00:53:37,375 --> 00:53:39,042
+What do you see...
+
+434
+00:53:39,875 --> 00:53:41,250
+...Muad'Dib...
+
+435
+00:53:44,458 --> 00:53:46,458
+...when you go away like that?
+
+436
+00:53:47,750 --> 00:53:49,542
+Where is it you go?
+
+437
+00:53:51,833 --> 00:53:53,542
+Many places, Stil.
+
+438
+00:53:56,250 --> 00:53:57,917
+Many roads.
+
+439
+00:54:02,542 --> 00:54:04,042
+Many choices.
+
+440
+00:54:06,542 --> 00:54:08,542
+These choices...
+
+441
+00:54:09,833 --> 00:54:11,917
+...are good or bad?
+
+442
+00:54:14,333 --> 00:54:16,500
+It's hard to know sometimes.
+
+443
+00:54:16,500 --> 00:54:20,417
+Either they are good choices
+or bad choices.
+
+444
+00:54:21,125 --> 00:54:23,417
+Aren't you ever afraid, Stil?
+
+445
+00:54:24,708 --> 00:54:26,125
+Of storms?
+
+446
+00:54:26,792 --> 00:54:28,417
+Of the future.
+
+447
+00:54:28,708 --> 00:54:31,583
+The future, Muad'Dib, just is.
+
+448
+00:54:42,875 --> 00:54:46,000
+They're like ghosts! Everywhere!
+
+449
+00:55:05,458 --> 00:55:09,458
+Need immediate evacuation!
+They just keep coming!
+
+450
+00:55:11,958 --> 00:55:14,042
+Need immediate evacuation!
+
+451
+00:55:32,833 --> 00:55:34,542
+We are ready, Muad'Dib.
+
+452
+00:55:37,125 --> 00:55:40,542
+Muad'Dib, it's time. We must hurry.
+
+453
+00:55:48,208 --> 00:55:50,125
+He's waiting, Reverend Mother.
+
+454
+00:55:50,125 --> 00:55:52,125
+- Who else knows he's here?
+- No one.
+
+455
+00:55:52,125 --> 00:55:56,125
+He made it clear on his arrival
+that we should summon you and no other.
+
+456
+00:56:14,208 --> 00:56:16,708
+The other witches must leave.
+
+457
+00:56:16,708 --> 00:56:18,208
+As you wish.
+
+458
+00:56:27,167 --> 00:56:31,500
+This visit is as indiscreet
+as it is unexpected.
+
+459
+00:56:32,583 --> 00:56:35,875
+Let's hope the Emperor's curiosity
+isn't aroused.
+
+460
+00:56:36,292 --> 00:56:39,583
+The Emperor's suspicions
+are easily moderated...
+
+461
+00:56:40,667 --> 00:56:43,667
+...by his dependence on our services.
+
+462
+00:56:44,250 --> 00:56:46,667
+As you are so fond of reminding us.
+
+463
+00:56:55,042 --> 00:56:57,667
+The navigators are concerned.
+
+464
+00:56:59,167 --> 00:57:02,958
+- Concerned?
+- They are disturbed about the future.
+
+465
+00:57:03,958 --> 00:57:06,458
+There is a problem on the horizon.
+
+466
+00:57:08,167 --> 00:57:10,042
+What kind of problem?
+
+467
+00:57:13,333 --> 00:57:17,250
+They are troubled by a nexus
+they can't fully explore...
+
+468
+00:57:17,750 --> 00:57:20,042
+...an intersection of events...
+
+469
+00:57:20,333 --> 00:57:26,333
+...a meeting of countless delicate decisions
+beyond which lies a path...
+
+470
+00:57:26,708 --> 00:57:28,333
+...they cannot see.
+
+471
+00:57:29,917 --> 00:57:32,042
+And where is this nexus?
+
+472
+00:57:34,917 --> 00:57:37,208
+Planet Arrakis.
+
+473
+00:57:40,000 --> 00:57:42,917
+House Harkonnen controls Arrakis now.
+
+474
+00:57:43,917 --> 00:57:45,792
+The Atreides are dead.
+
+475
+00:57:45,792 --> 00:57:49,292
+It is not a matter of feuding royal houses.
+
+476
+00:57:50,000 --> 00:57:53,583
+We sense a higher order interfering.
+
+477
+00:57:57,208 --> 00:57:59,583
+A misstep could be catastrophic.
+
+478
+00:58:00,083 --> 00:58:02,500
+Then we understand one another.
+
+479
+00:58:03,500 --> 00:58:04,583
+Completely.
+
+480
+00:58:07,000 --> 00:58:08,583
+We'll do what we can.
+
+481
+00:58:14,583 --> 00:58:15,875
+I thought...
+
+482
+00:58:16,792 --> 00:58:18,375
+...I felt something.
+
+483
+00:58:22,958 --> 00:58:24,875
+The spice must flow.
+
+484
+00:58:26,375 --> 00:58:29,750
+The balance of power must be maintained.
+
+485
+00:59:07,625 --> 00:59:09,042
+Sayyadina?
+
+486
+00:59:12,833 --> 00:59:14,500
+I'm awake, Chani.
+
+487
+00:59:22,917 --> 00:59:26,500
+Has there been any word,
+a courier perhaps?
+
+488
+00:59:26,792 --> 00:59:29,500
+No. The raids are in the Haga basin.
+
+489
+00:59:29,792 --> 00:59:33,792
+They won't risk communication
+until they are deep across the bled.
+
+490
+00:59:50,792 --> 00:59:53,792
+- Forgive me, Sayyadina.
+- Was there something else?
+
+491
+00:59:54,875 --> 00:59:55,958
+No.
+
+492
+00:59:57,458 --> 00:59:59,083
+It's just your skin.
+
+493
+00:59:59,875 --> 01:00:01,167
+My skin?
+
+494
+01:00:01,167 --> 01:00:04,167
+We've heard the stories
+about off-worlders...
+
+495
+01:00:04,958 --> 01:00:07,458
+...the ones who come from water planets.
+
+496
+01:00:07,958 --> 01:00:11,083
+Skin so moist it's like cream.
+
+497
+01:00:12,458 --> 01:00:14,667
+- Muad'Dib's skin is like that.
+- Paul?
+
+498
+01:00:15,958 --> 01:00:18,167
+Muad'Dib is still a boy.
+
+499
+01:00:19,458 --> 01:00:21,833
+I mean, he still has the glow of youth.
+
+500
+01:00:23,042 --> 01:00:24,167
+Yes.
+
+501
+01:00:25,667 --> 01:00:28,250
+I say my prayers for his safe return.
+
+502
+01:00:28,833 --> 01:00:30,625
+We both do, Chani.
+
+503
+01:01:00,417 --> 01:01:04,917
+The smugglers transport our spice tribute
+to the cursed Spacing Guild.
+
+504
+01:01:07,125 --> 01:01:09,125
+The Emperor never knows.
+
+505
+01:01:09,792 --> 01:01:14,083
+But bribes are dangerous, Stil.
+They have a way of getting larger.
+
+506
+01:01:16,917 --> 01:01:19,500
+The safe way is the slow way, Muad'Dib.
+
+507
+01:01:20,792 --> 01:01:24,792
+Bribes keep the skies of our sietches clear.
+Bribes buy us time.
+
+508
+01:01:42,458 --> 01:01:44,667
+Something wrong, Muad'Dib?
+
+509
+01:01:47,167 --> 01:01:49,250
+I thought I saw someone I knew.
+
+510
+01:01:49,250 --> 01:01:52,167
+I'll call them in.
+Tell them to hold the smugglers' departure.
+
+511
+01:01:52,167 --> 01:01:53,667
+No, Stil.
+
+512
+01:01:54,750 --> 01:01:56,458
+Let them go.
+
+513
+01:01:58,875 --> 01:02:00,667
+I must have been mistaken.
+
+514
+01:02:09,333 --> 01:02:10,542
+Gurney.
+
+515
+01:02:12,833 --> 01:02:15,458
+My father's patience is wearing thin.
+
+516
+01:02:16,542 --> 01:02:20,333
+These troubles on Arrakis
+are proving difficult to manage...
+
+517
+01:02:20,833 --> 01:02:23,125
+...and our time is running short.
+
+518
+01:02:23,750 --> 01:02:27,125
+I want you to make arrangements
+for a trip to Giedi Prime.
+
+519
+01:02:27,125 --> 01:02:28,333
+Milady?
+
+520
+01:02:29,042 --> 01:02:32,125
+The Baron's nephew
+is having a birthday celebration.
+
+521
+01:02:32,917 --> 01:02:36,208
+The Emperor ought to be represented,
+don't you think?
+
+522
+01:02:37,125 --> 01:02:39,333
+I'm in the mood for a party.
+
+523
+01:02:47,000 --> 01:02:50,208
+Besides, it's time to shed
+some of this naiveté.
+
+524
+01:02:50,917 --> 01:02:52,583
+She is not going!
+
+525
+01:02:53,292 --> 01:02:58,875
+I'm not going to allow that headstrong,
+meddlesome child loose in Babylon.
+
+526
+01:02:59,583 --> 01:03:03,292
+My God, what a catastrophe that would be.
+
+527
+01:03:04,208 --> 01:03:09,375
+The eldest daughter of the Imperial House
+ensnared by the likes of Harkonnen...
+
+528
+01:03:09,875 --> 01:03:12,375
+...and his dreadful progeny.
+
+529
+01:03:12,875 --> 01:03:15,292
+Yes, catastrophe indeed.
+
+530
+01:03:15,583 --> 01:03:19,292
+But perhaps the seducer could be seduced.
+
+531
+01:03:20,875 --> 01:03:25,750
+The more we know of the Baron's schemes,
+the more we are prepared for the endgame.
+
+532
+01:03:28,375 --> 01:03:31,083
+Our operatives on Giedi Prime
+have limited access.
+
+533
+01:03:31,083 --> 01:03:33,875
+Your daughter, on the other hand...
+
+534
+01:03:34,250 --> 01:03:38,250
+...has proved quite adept
+at intelligence gathering.
+
+535
+01:03:38,250 --> 01:03:43,042
+Gently chaperoned,
+I should think she'd prove quite useful...
+
+536
+01:03:44,250 --> 01:03:45,833
+...once again.
+
+537
+01:03:53,042 --> 01:03:55,458
+You've heard the voices
+from your sietches.
+
+538
+01:03:55,458 --> 01:03:57,625
+They say the Mahdi has come.
+
+539
+01:03:59,917 --> 01:04:01,333
+But you...
+
+540
+01:04:02,125 --> 01:04:05,625
+...the naibs of your tribes are still cautious.
+You resist.
+
+541
+01:04:08,208 --> 01:04:10,625
+But I am offering you the future.
+
+542
+01:04:12,417 --> 01:04:14,500
+The future as Liet saw it.
+
+543
+01:04:14,917 --> 01:04:18,208
+- How do you know what Liet saw?
+- Because I've seen it.
+
+544
+01:04:20,417 --> 01:04:21,625
+Here.
+
+545
+01:04:23,708 --> 01:04:25,125
+And here.
+
+546
+01:04:25,625 --> 01:04:28,500
+And once we rid Arrakis
+of the vile Harkonnen...
+
+547
+01:04:29,125 --> 01:04:31,208
+...we can complete his dream.
+
+548
+01:04:32,000 --> 01:04:33,583
+I promise this.
+
+549
+01:04:34,500 --> 01:04:37,917
+Arrakis will become the paradise
+Liet imagined.
+
+550
+01:04:37,917 --> 01:04:41,208
+You'll never rid Arrakis
+with guerrilla raids, boy.
+
+551
+01:04:41,500 --> 01:04:43,292
+It will take all-out war.
+
+552
+01:04:43,292 --> 01:04:46,792
+That's why I'm asking you
+for hundreds of your best young men.
+
+553
+01:04:48,500 --> 01:04:51,083
+I want to give them the Weirding way...
+
+554
+01:04:51,083 --> 01:04:54,083
+...so they can come back to you
+and train hundreds more.
+
+555
+01:04:54,083 --> 01:04:56,292
+So those hundreds
+can train hundreds more.
+
+556
+01:04:56,292 --> 01:04:58,667
+And then hundreds will become thousands!
+
+557
+01:05:00,375 --> 01:05:01,667
+The Fedaykin.
+
+558
+01:05:02,167 --> 01:05:04,958
+A force to rival the dreaded Sardaukar.
+
+559
+01:05:05,458 --> 01:05:08,250
+A force to terrify the Emperor himself!
+
+560
+01:05:16,667 --> 01:05:18,875
+My father once told me...
+
+561
+01:05:20,958 --> 01:05:22,750
+...that here on Arrakis...
+
+562
+01:05:23,750 --> 01:05:25,958
+...one needed desert power to rule.
+
+563
+01:05:31,750 --> 01:05:34,625
+You are desert power...
+
+564
+01:05:36,250 --> 01:05:38,333
+...and nothing can stop you...
+
+565
+01:05:41,125 --> 01:05:42,750
+...if you believe.
+
+566
+01:06:17,000 --> 01:06:18,792
+So you are the one.
+
+567
+01:06:20,500 --> 01:06:24,500
+Jessica of the Weirding,
+our Reverend Mother Ramallo.
+
+568
+01:06:26,500 --> 01:06:29,000
+Mapes said you were beautiful.
+
+569
+01:06:30,167 --> 01:06:33,292
+She also said she pitied you.
+
+570
+01:06:33,667 --> 01:06:35,458
+I need no one's pity.
+
+571
+01:06:35,458 --> 01:06:37,458
+That remains to be seen.
+
+572
+01:06:51,458 --> 01:06:54,458
+There is much talk of you in the sietches.
+
+573
+01:06:55,458 --> 01:06:58,750
+I hear the people speaking of the Mahdi.
+
+574
+01:06:58,750 --> 01:07:02,250
+I hear them shout the name Muad'Dib.
+
+575
+01:07:03,458 --> 01:07:06,833
+He is a natural leader like his father.
+
+576
+01:07:08,542 --> 01:07:10,750
+The men admire his courage.
+
+577
+01:07:10,750 --> 01:07:14,333
+It will take more than courage
+to survive what's coming.
+
+578
+01:07:17,750 --> 01:07:19,125
+The boy...
+
+579
+01:07:19,542 --> 01:07:22,917
+...he knows what it is
+that's happening here?
+
+580
+01:07:23,917 --> 01:07:26,333
+He is aware.
+
+581
+01:07:27,125 --> 01:07:30,042
+You've exploited our legends well.
+
+582
+01:07:33,917 --> 01:07:35,625
+We had to survive.
+
+583
+01:07:36,917 --> 01:07:38,708
+And you may...
+
+584
+01:07:40,833 --> 01:07:42,292
+...for a while.
+
+585
+01:07:42,708 --> 01:07:46,708
+But remember this:
+the very legend which protects you...
+
+586
+01:07:47,625 --> 01:07:49,917
+...can also destroy you.
+
+587
+01:08:42,750 --> 01:08:45,250
+- How are you feeling?
+- Well.
+
+588
+01:08:45,750 --> 01:08:47,167
+Tired sometimes.
+
+589
+01:08:55,750 --> 01:08:57,125
+Healthy.
+
+590
+01:08:57,125 --> 01:08:58,833
+And growing fast.
+
+591
+01:09:07,333 --> 01:09:09,917
+I saw the one
+they call the Reverend Mother.
+
+592
+01:09:09,917 --> 01:09:12,333
+Yes. She came from the southern sietch.
+
+593
+01:09:12,625 --> 01:09:14,625
+- Why?
+- To see me.
+
+594
+01:09:15,917 --> 01:09:17,208
+To see you.
+
+595
+01:09:17,208 --> 01:09:18,708
+She's Bene Gesserit.
+
+596
+01:09:19,333 --> 01:09:21,125
+One of our missionaries.
+
+597
+01:09:22,625 --> 01:09:24,000
+Convenient.
+
+598
+01:09:26,417 --> 01:09:28,792
+Stilgar says you've learned much.
+
+599
+01:09:29,708 --> 01:09:32,208
+He's tougher than Hawat ever was.
+
+600
+01:09:40,083 --> 01:09:42,792
+Chani is happy to see you, I noticed.
+
+601
+01:09:49,083 --> 01:09:51,292
+Why didn't you marry him, Mother?
+
+602
+01:09:54,292 --> 01:09:56,083
+Because I loved him.
+
+603
+01:09:56,792 --> 01:09:59,375
+As long as your father
+remained unmarried...
+
+604
+01:09:59,375 --> 01:10:03,250
+...some of the great houses could still hope
+for an alliance through marriage.
+
+605
+01:10:03,958 --> 01:10:05,875
+We both knew what that meant.
+
+606
+01:10:06,458 --> 01:10:09,167
+- There were no illusions.
+- You would have allowed it?
+
+607
+01:10:09,167 --> 01:10:11,083
+I would have encouraged it.
+
+608
+01:10:11,458 --> 01:10:12,458
+Politics.
+
+609
+01:10:13,542 --> 01:10:14,667
+Yes.
+
+610
+01:10:16,375 --> 01:10:17,458
+Politics.
+
+611
+01:11:00,708 --> 01:11:02,708
+While I was on the hajra...
+
+612
+01:11:02,708 --> 01:11:04,917
+...I had dreams about this garden.
+
+613
+01:11:06,792 --> 01:11:09,500
+Except it wasn't here,
+it was somewhere else.
+
+614
+01:11:12,583 --> 01:11:14,083
+Was I there?
+
+615
+01:11:15,500 --> 01:11:16,500
+Yes.
+
+616
+01:11:17,500 --> 01:11:19,292
+And there were children...
+
+617
+01:11:20,208 --> 01:11:22,000
+...playing, very happy.
+
+618
+01:11:24,083 --> 01:11:25,875
+A wonderful dream.
+
+619
+01:11:31,792 --> 01:11:34,875
+Do you think it's possible
+to love someone enough...
+
+620
+01:11:35,792 --> 01:11:38,375
+...you'd be willing to give that person up?
+
+621
+01:11:46,667 --> 01:11:47,875
+I think...
+
+622
+01:11:48,875 --> 01:11:52,667
+...there are times when it's necessary
+to share the one you love...
+
+623
+01:11:53,875 --> 01:11:56,875
+...with things greater than both of you.
+
+624
+01:12:13,042 --> 01:12:15,833
+Everything is connected,
+one thing to another.
+
+625
+01:12:16,542 --> 01:12:20,042
+The living and the dead,
+the animate and the inanimate.
+
+626
+01:12:20,750 --> 01:12:22,333
+A system.
+
+627
+01:12:22,333 --> 01:12:25,917
+All parts functioning to serve the whole.
+
+628
+01:12:27,125 --> 01:12:29,208
+Smell the air, Muad'Dib.
+
+629
+01:12:31,417 --> 01:12:32,833
+Cinnamon.
+
+630
+01:12:33,708 --> 01:12:35,917
+The pre-spice mass is below us.
+
+631
+01:12:36,917 --> 01:12:39,625
+Maybe 100 feet or more, but ripe.
+
+632
+01:12:42,000 --> 01:12:44,708
+The Maker has left her nest long ago.
+
+633
+01:12:45,708 --> 01:12:48,792
+Her children have joined together
+for survival.
+
+634
+01:12:49,292 --> 01:12:52,708
+They have grown.
+They are losing water now.
+
+635
+01:12:53,708 --> 01:12:55,917
+It will mix with their waste.
+
+636
+01:12:57,000 --> 01:12:59,083
+If enough has accumulated...
+
+637
+01:12:59,083 --> 01:13:03,083
+...a giant bubble of foam
+will heave up with tremendous force.
+
+638
+01:13:03,500 --> 01:13:05,083
+A spice blow.
+
+639
+01:13:05,375 --> 01:13:08,000
+Trading places with the sands above.
+
+640
+01:13:08,792 --> 01:13:11,167
+The sun and heat will dry it out and...
+
+641
+01:13:12,167 --> 01:13:13,375
+...soon...
+
+642
+01:13:14,458 --> 01:13:17,583
+- Spice.
+- Treasure of the universe.
+
+643
+01:13:19,292 --> 01:13:21,083
+The worm...
+
+644
+01:13:21,875 --> 01:13:23,583
+...is the spice.
+
+645
+01:13:24,083 --> 01:13:25,750
+So now you know.
+
+646
+01:13:28,667 --> 01:13:32,042
+Many of the little makers
+will die in the blow.
+
+647
+01:13:34,042 --> 01:13:39,250
+The rest will swim off
+to become Shai-hulud, the Great Worm.
+
+648
+01:13:40,667 --> 01:13:42,458
+We may capture a few.
+
+649
+01:13:43,333 --> 01:13:45,750
+Keep them stunted for Water of Life.
+
+650
+01:13:49,542 --> 01:13:51,542
+That's enough for now.
+
+651
+01:14:56,292 --> 01:15:00,292
+When religion and politics
+ride in the same cart...
+
+652
+01:15:01,083 --> 01:15:03,167
+...the whirlwind follows.
+
+653
+01:15:04,083 --> 01:15:06,583
+You are the Kwisatz Haderach, boy.
+
+654
+01:15:06,958 --> 01:15:10,667
+The one who can be many places at once.
+
+655
+01:15:11,542 --> 01:15:14,042
+You are the whirlwind.
+
+656
+01:15:15,458 --> 01:15:17,458
+It's almost night, Muad'Dib.
+
+657
+01:15:18,167 --> 01:15:20,250
+Time to return to the sietch.
+
+658
+01:15:24,542 --> 01:15:26,458
+You've been dreaming.
+
+659
+01:15:50,208 --> 01:15:51,833
+Too impatient, Farok.
+
+660
+01:15:53,417 --> 01:15:55,000
+You moved too soon.
+
+661
+01:15:55,625 --> 01:15:57,000
+Try again.
+
+662
+01:16:01,292 --> 01:16:03,125
+Watch his posture.
+
+663
+01:16:03,625 --> 01:16:07,208
+Even the slightest change in his breathing
+gives you advantage.
+
+664
+01:16:25,500 --> 01:16:27,583
+Better, Farok. You'll have it soon.
+
+665
+01:16:46,458 --> 01:16:47,750
+I am Otheym.
+
+666
+01:16:48,583 --> 01:16:51,667
+These are my brothers
+from Sietch Gara Kulan.
+
+667
+01:16:52,750 --> 01:16:55,958
+We've come to find the one
+who calls himself Muad'Dib.
+
+668
+01:17:02,542 --> 01:17:05,542
+You're a long way from your tribe, Otheym.
+
+669
+01:17:06,833 --> 01:17:09,042
+We've come to join your crusade.
+
+670
+01:17:09,833 --> 01:17:12,125
+We want to learn the Weirding way.
+
+671
+01:17:13,042 --> 01:17:14,833
+We want to become Fedaykin.
+
+672
+01:17:15,542 --> 01:17:18,417
+- You have the blessing of your naib?
+- We do.
+
+673
+01:17:43,000 --> 01:17:46,417
+- We could fight as Muad'Dib.
+- I believe you.
+
+674
+01:17:51,417 --> 01:17:53,792
+Let their waters join with ours.
+
+675
+01:18:14,667 --> 01:18:18,167
+I must congratulate you
+on the perfection of your heir, Baron.
+
+676
+01:18:18,167 --> 01:18:23,083
+He faces his 100th slave gladiator
+in the arena this afternoon.
+
+677
+01:18:23,375 --> 01:18:25,083
+He appears ready.
+
+678
+01:18:25,375 --> 01:18:28,167
+Well then,
+perhaps we might take this opportunity...
+
+679
+01:18:28,167 --> 01:18:30,083
+...to conduct our conversations.
+
+680
+01:18:30,083 --> 01:18:32,042
+There is much to discuss.
+
+681
+01:18:33,042 --> 01:18:34,250
+Indeed.
+
+682
+01:18:34,958 --> 01:18:37,875
+If that meets with your approval, Milady.
+
+683
+01:18:38,375 --> 01:18:40,542
+I am quite entertained here.
+
+684
+01:18:41,583 --> 01:18:42,750
+Fine.
+
+685
+01:18:42,917 --> 01:18:44,708
+By your leave, then.
+
+686
+01:19:06,667 --> 01:19:10,542
+What other house would have been willing
+to humiliate itself...
+
+687
+01:19:10,542 --> 01:19:13,958
+...so the Emperor could rid himself
+of a troublesome duke?
+
+688
+01:19:14,458 --> 01:19:17,458
+He's been asking himself
+that very question.
+
+689
+01:19:18,167 --> 01:19:23,958
+Are you suggesting that the Emperor
+contemplates a move against me?
+
+690
+01:19:24,458 --> 01:19:27,458
+Speculation is not a worthy science, Baron.
+
+691
+01:19:28,458 --> 01:19:31,667
+Better we spend our energy
+on what's most important.
+
+692
+01:19:31,667 --> 01:19:33,458
+The spice must flow.
+
+693
+01:19:35,750 --> 01:19:41,667
+I must say I've always found
+Harkonnen architecture rather...
+
+694
+01:19:42,375 --> 01:19:43,542
+...curious.
+
+695
+01:19:45,042 --> 01:19:48,167
+Harkonnen patrols have taken more risks...
+
+696
+01:19:49,167 --> 01:19:52,542
+...coming deeper into the southern regions
+than ever before.
+
+697
+01:19:54,042 --> 01:19:58,042
+Sooner or later our bribes to the Guild
+won't be enough to protect us.
+
+698
+01:20:14,708 --> 01:20:16,417
+Then it's agreed.
+
+699
+01:20:17,208 --> 01:20:19,417
+We move with the next moons.
+
+700
+01:20:20,917 --> 01:20:23,333
+When the Harkonnen find this place...
+
+701
+01:20:24,625 --> 01:20:28,500
+...there must be nothing left
+but the wind howling through the rocks.
+
+702
+01:20:35,000 --> 01:20:37,292
+There is no turning back now.
+
+703
+01:20:50,083 --> 01:20:51,875
+Subdue the Maker.
+
+704
+01:22:32,000 --> 01:22:33,583
+The Maker is dead.
+
+705
+01:22:33,583 --> 01:22:35,292
+The Water of Life.
+
+706
+01:22:35,667 --> 01:22:39,292
+May Shai-hulud have mercy on both of us.
+
+707
+01:23:15,833 --> 01:23:20,125
+When night falls again,
+we have to leave this sietch...
+
+708
+01:23:22,458 --> 01:23:25,417
+...that has sheltered us for so long.
+
+709
+01:23:27,125 --> 01:23:30,917
+We must go south into the deep desert...
+
+710
+01:23:32,917 --> 01:23:36,625
+...where the demon Harkonnen
+will not pursue us.
+
+711
+01:23:37,417 --> 01:23:42,333
+But our Reverend Mother
+will not survive another hajra.
+
+712
+01:23:44,833 --> 01:23:49,417
+So that we don't have to make the journey
+without her strength and guidance...
+
+713
+01:23:52,125 --> 01:23:57,625
+...Sayyadina Jessica has consented
+to undergo the rites at this time.
+
+714
+01:23:58,583 --> 01:24:01,792
+This is dangerous and Jessica may fail.
+
+715
+01:24:02,708 --> 01:24:06,708
+So that we don't lose all, Chani...
+
+716
+01:24:08,000 --> 01:24:11,875
+...daughter of Liet,
+will be consecrated as Sayyadina...
+
+717
+01:24:12,792 --> 01:24:15,167
+...Friend of God.
+
+718
+01:24:18,500 --> 01:24:21,667
+I consecrate the daughter of Liet...
+
+719
+01:24:22,875 --> 01:24:24,583
+...in the Sayyadina.
+
+720
+01:25:47,875 --> 01:25:51,875
+Here is the Water of Life,
+the water that will free your soul.
+
+721
+01:25:52,875 --> 01:25:56,875
+If you are our Reverend Mother,
+the universe will open to you.
+
+722
+01:25:58,667 --> 01:26:01,167
+Let Shai-hulud judge now.
+
+723
+01:26:18,750 --> 01:26:20,667
+You must drink it now.
+
+724
+01:26:37,125 --> 01:26:38,958
+What's happening to her?
+
+725
+01:26:38,958 --> 01:26:41,958
+The water is poisoned until she changes it.
+
+726
+01:26:45,417 --> 01:26:47,542
+This must take its course.
+
+727
+01:26:54,208 --> 01:26:55,917
+Mother? Mother?
+
+728
+01:27:54,167 --> 01:27:56,667
+You cannot go there.
+
+729
+01:27:59,083 --> 01:28:01,667
+That is the place we cannot look.
+
+730
+01:28:02,375 --> 01:28:05,375
+The place only
+the Kwisatz Haderach may go.
+
+731
+01:28:07,958 --> 01:28:12,250
+You must turn away, Jessica,
+or it will drive you mad.
+
+732
+01:28:19,875 --> 01:28:23,542
+Don't be afraid. I have much to show you.
+
+733
+01:28:25,458 --> 01:28:28,333
+Here is my life, Jessica of the Weirding.
+
+734
+01:28:29,042 --> 01:28:33,458
+And the lives that have come before,
+they are yours now.
+
+735
+01:28:52,417 --> 01:28:56,417
+You are pregnant.
+You should have told us.
+
+736
+01:28:57,917 --> 01:29:01,333
+Holy Mothers, what have we done?
+
+737
+01:29:02,625 --> 01:29:05,000
+This changes you both.
+
+738
+01:29:20,792 --> 01:29:24,792
+Your daughter is in danger.
+Take her into your arms.
+
+739
+01:29:25,708 --> 01:29:28,000
+She must see all that we see.
+
+740
+01:29:29,083 --> 01:29:32,583
+That is the only way you can save her.
+
+741
+01:29:37,792 --> 01:29:42,167
+Change the waters, Jessica.
+You must change them now.
+
+742
+01:30:11,167 --> 01:30:15,625
+The plan was perfect in its simplicity
+and viciousness.
+
+743
+01:30:16,042 --> 01:30:17,750
+Of course it was.
+
+744
+01:30:18,125 --> 01:30:21,125
+You helped your uncle design it,
+didn't you?
+
+745
+01:30:21,625 --> 01:30:25,417
+Duke Leto thought
+he was gaining control of Arrakis...
+
+746
+01:30:25,917 --> 01:30:28,917
+...but he was only being fattened up
+for sacrifice.
+
+747
+01:30:28,917 --> 01:30:32,625
+The kill, Feyd. Tell me about the kill.
+
+748
+01:30:33,833 --> 01:30:35,625
+Swift and merciless.
+
+749
+01:30:36,333 --> 01:30:38,708
+The Atreides never had a chance.
+
+750
+01:30:38,708 --> 01:30:41,708
+The Sardaukar had the palace sealed
+within hours.
+
+751
+01:30:41,708 --> 01:30:43,333
+The Sardaukar.
+
+752
+01:30:44,125 --> 01:30:48,000
+I sent the final communique
+to your father myself.
+
+753
+01:31:11,875 --> 01:31:13,083
+Mother?
+
+754
+01:31:15,583 --> 01:31:17,083
+Yes?
+
+755
+01:31:31,667 --> 01:31:34,083
+Mother Ramallo is gone.
+
+756
+01:31:41,042 --> 01:31:43,042
+But she remains.
+
+757
+01:31:47,167 --> 01:31:49,750
+You have changed the waters.
+
+758
+01:31:50,958 --> 01:31:54,333
+Now we know you cannot be false.
+
+759
+01:31:57,125 --> 01:31:58,333
+Paul?
+
+760
+01:32:08,125 --> 01:32:11,833
+The Reverend Mother
+has changed the Water of Life.
+
+761
+01:32:12,708 --> 01:32:15,042
+It's now safe for us to drink!
+
+762
+01:32:27,167 --> 01:32:30,875
+The son and his mother,
+the duke's concubine and her son...
+
+763
+01:32:32,083 --> 01:32:33,792
+...what did you do with them?
+
+764
+01:32:33,792 --> 01:32:37,667
+Lost in the storm, devoured by the desert.
+
+765
+01:32:38,292 --> 01:32:40,875
+You found their bodies
+and disposed of them?
+
+766
+01:32:40,875 --> 01:32:42,583
+Never found them.
+
+767
+01:32:43,958 --> 01:32:46,083
+You never found the bodies?
+
+768
+01:33:46,333 --> 01:33:47,917
+You're trembling.
+
+769
+01:33:49,417 --> 01:33:50,917
+I'm afraid.
+
+770
+01:33:52,417 --> 01:33:53,625
+Of what?
+
+771
+01:33:56,125 --> 01:33:57,417
+Of you.
+
+772
+01:33:59,833 --> 01:34:01,708
+You make me see things.
+
+773
+01:34:02,625 --> 01:34:04,333
+What do you see?
+
+774
+01:34:06,792 --> 01:34:10,292
+I see us together.
+
+775
+01:34:12,792 --> 01:34:14,792
+There is a great storm.
+
+776
+01:34:16,917 --> 01:34:19,083
+I have a child in my arms.
+
+777
+01:34:21,000 --> 01:34:22,792
+Our child, Muad'Dib.
+
+778
+01:34:25,083 --> 01:34:26,875
+It's not a dream.
+
+779
+01:34:28,708 --> 01:34:30,208
+I know you, Chani.
+
+780
+01:34:32,792 --> 01:34:35,000
+I've always known you.
+
+781
+01:34:37,667 --> 01:34:42,667
+We've sat upon a rock above the sands
+and I've eased your fears.
+
+782
+01:34:45,167 --> 01:34:47,875
+We've caressed
+in the darkness of the sietch.
+
+783
+01:34:50,583 --> 01:34:53,750
+We've grown old together.
+
+784
+01:35:58,583 --> 01:36:02,583
+History will say that the Fremen
+were about to find their messiah.
+
+785
+01:36:04,792 --> 01:36:07,875
+That Paul Atreides would find his revenge...
+
+786
+01:36:08,792 --> 01:36:12,292
+...and the world, as we knew it,
+would change forever.
+
+787
+01:36:14,000 --> 01:36:17,000
+The saga of Dune is far
+from over.
+

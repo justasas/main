@@ -1,0 +1,258 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.70,0:00:03.04,Main Dialog,Spoken,0000,0000,0000,,I won't lose... I won't lose!
+Dialogue: 0,0:00:03.04,0:00:04.02,Main Dialog,,0000,0000,0000,,I won't lose!!
+Dialogue: 0,0:00:04.38,0:00:06.52,Main Dialog,Spoken,0000,0000,0000,,Here I go! Wake up, friendship!
+Dialogue: 0,0:00:07.00,0:00:10.28,Main Dialog,Spoken,0000,0000,0000,,Special friend fire crush!
+Dialogue: 0,0:00:16.02,0:00:19.41,Main Dialog,Spoken,0000,0000,0000,,Why?! Why is my Angel Feather...
+Dialogue: 0,0:00:32.93,0:00:35.72,Main Dialog,Spoken,0000,0000,0000,,Huh? Emi? Mai?
+Dialogue: 0,0:00:35.72,0:00:37.93,Main Dialog,Spoken,0000,0000,0000,,What am I doing here?
+Dialogue: 0,0:00:38.22,0:00:39.66,Main Dialog,Spoken,0000,0000,0000,,Rekka!
+Dialogue: 0,0:00:39.66,0:00:41.21,Main Dialog,Spoken,0000,0000,0000,,Thank goodness!
+Dialogue: 0,0:00:46.28,0:00:49.17,Main Dialog,Spoken,0000,0000,0000,,Thank you so much for today!
+Dialogue: 0,0:00:55.18,0:00:58.97,Main Dialog,Spoken,0000,0000,0000,,That's right! I have to tell \NBrother what happened today!
+Dialogue: 0,0:01:04.42,0:01:05.90,Main Dialog,Spoken,0000,0000,0000,,Kourin?
+Dialogue: 0,0:01:06.92,0:01:11.13,Main Dialog,Spoken,0000,0000,0000,,Boy, we had a heck of a time with Rekka \Nin the middle school division just before!
+Dialogue: 0,0:01:14.60,0:01:16.13,Main Dialog,Spoken,0000,0000,0000,,Kourin?
+Dialogue: 0,0:01:17.88,0:01:20.22,Main Dialog,Spoken,0000,0000,0000,,I'm done hesitating.
+Dialogue: 0,0:01:30.83,0:01:33.03,Main Dialog,Spoken,0000,0000,0000,,Don't tell me... you're Reversed?!
+Dialogue: 0,0:01:37.52,0:01:41.64,Main Dialog,Spoken,0000,0000,0000,,It looks like I gotta fight one more time.
+Dialogue: 0,0:03:41.32,0:03:42.69,Main Dialog,Spoken,0000,0000,0000,,Sendou?
+Dialogue: 0,0:03:42.69,0:03:45.46,Main Dialog,Spoken,0000,0000,0000,,What's wrong? You look pale.
+Dialogue: 0,0:03:46.75,0:03:49.45,Main Dialog,Spoken,0000,0000,0000,,Yeah. I just had a bad dream...
+Dialogue: 0,0:03:51.48,0:03:54.29,Main Dialog,Spoken,0000,0000,0000,,Why did I have that kind of dream?
+Dialogue: 0,0:04:30.18,0:04:32.41,Main Dialog,Spoken,0000,0000,0000,,You have a message from Takuto.
+Dialogue: 0,0:04:32.41,0:04:35.62,Main Dialog,Spoken,0000,0000,0000,,He said, "I'm satisfied with \Nthe results this time."
+Dialogue: 0,0:04:38.63,0:04:43.63,Signs,Sign,0000,0000,0000,,Countdown to Despair
+Dialogue: 0,0:04:56.70,0:05:00.96,Main Dialog,Spoken,0000,0000,0000,,Huh... you sure brought me \Nto an interesting joint.
+Dialogue: 0,0:05:00.96,0:05:02.78,Main Dialog,Spoken,0000,0000,0000,,Now, who the heck are you?
+Dialogue: 0,0:05:05.52,0:05:07.98,Main Dialog,Spoken,0000,0000,0000,,I know the deal with Reverse.
+Dialogue: 0,0:05:07.98,0:05:11.98,Main Dialog,Spoken,0000,0000,0000,,If I win, Kourin goes back to normal.
+Dialogue: 0,0:05:11.98,0:05:15.16,Main Dialog,Spoken,0000,0000,0000,,That's what I'm gonna win this fight for!
+Dialogue: 0,0:05:17.74,0:05:19.67,Main Dialog,Spoken,0000,0000,0000,,I'm going to win.
+Dialogue: 0,0:05:20.07,0:05:23.17,Main Dialog,Spoken,0000,0000,0000,,And you're going to be Reversed.
+Dialogue: 0,0:05:24.50,0:05:26.95,Main Dialog,Spoken,0000,0000,0000,,It's not gonna be that easy for you!
+Dialogue: 0,0:05:26.95,0:05:29.93,Main Dialog,Spoken,0000,0000,0000,,In fact, no way am I gettin' Reversed!
+Dialogue: 0,0:05:45.09,0:05:47.59,Main Dialog,Spoken,0000,0000,0000,,I got Gouki and Rekka back to normal.
+Dialogue: 0,0:05:47.59,0:05:51.70,Main Dialog,Spoken,0000,0000,0000,,Now I'm gonna do the same thing for Kourin!
+Dialogue: 0,0:05:54.32,0:05:56.40,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:06:00.82,0:06:03.07,Main Dialog,Spoken,0000,0000,0000,,Beast Deity, Riot Horn!
+Dialogue: 0,0:06:04.02,0:06:06.60,Main Dialog,Spoken,0000,0000,0000,,Desire Jewel Knight, Heloise!
+Dialogue: 0,0:06:08.06,0:06:10.83,Main Dialog,Spoken,0000,0000,0000,,I ride Beast Deity, Blank Marsh!
+Dialogue: 0,0:06:10.83,0:06:12.97,Main Dialog,Spoken,0000,0000,0000,,Riot Horn moves back!
+Dialogue: 0,0:06:13.25,0:06:15.82,Main Dialog,Spoken,0000,0000,0000,,I ride Jewel Knight, Prizmy!
+Dialogue: 0,0:06:15.82,0:06:17.35,Main Dialog,Spoken,0000,0000,0000,,I call Shellie!
+Dialogue: 0,0:06:17.73,0:06:18.85,Main Dialog,Spoken,0000,0000,0000,,Prizmy attacks!
+Dialogue: 0,0:06:20.75,0:06:22.48,Main Dialog,Spoken,0000,0000,0000,,Damned Leo attacks!
+Dialogue: 0,0:06:23.57,0:06:25.23,Main Dialog,Spoken,0000,0000,0000,,Tracie attacks!
+Dialogue: 0,0:06:28.86,0:06:31.37,Main Dialog,Spoken,0000,0000,0000,,Well, I think it's about time \Nto get down to the get-down!
+Dialogue: 0,0:06:31.82,0:06:34.21,Main Dialog,Spoken,0000,0000,0000,,This is the rumored beast god!
+Dialogue: 0,0:06:34.21,0:06:38.50,Main Dialog,Spoken,0000,0000,0000,,Innumerable opponents have been squashed \Nby its absolutely invincible fists!
+Dialogue: 0,0:06:38.90,0:06:42.46,Main Dialog,Spoken,0000,0000,0000,,The newest! The greatest! The zenith!
+Dialogue: 0,0:06:42.79,0:06:48.76,Main Dialog,Spoken,0000,0000,0000,,The great Kamui rides Strongest Beast \NDeity, Ethics Buster Extreme!
+Dialogue: 0,0:06:58.37,0:07:00.65,Main Dialog,Spoken,0000,0000,0000,,Call! Extreme!
+Dialogue: 0,0:07:01.44,0:07:03.65,Main Dialog,Spoken,0000,0000,0000,,Hatred Chaos! Attack!
+Dialogue: 0,0:07:04.30,0:07:06.15,Main Dialog,Spoken,0000,0000,0000,,Ethics Buster Extreme!
+Dialogue: 0,0:07:06.63,0:07:09.90,Main Dialog,Spoken,0000,0000,0000,,The Hatred that I stood with \Nthe trigger! Once more!
+Dialogue: 0,0:07:13.03,0:07:14.41,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:07:16.96,0:07:21.17,Main Dialog,Spoken,0000,0000,0000,,Just 1 more damage, and \NI can undo Kourin's Reverse!
+Dialogue: 0,0:07:30.45,0:07:33.24,Main Dialog,Spoken,0000,0000,0000,,My new ace card...
+Dialogue: 0,0:07:33.24,0:07:35.93,Main Dialog,Spoken,0000,0000,0000,,Become a blade that decides fate!
+Dialogue: 0,0:07:50.29,0:07:54.07,Main Dialog,Spoken,0000,0000,0000,,I couldn't use this against Aichi.
+Dialogue: 0,0:07:54.07,0:07:56.58,Main Dialog,Spoken,0000,0000,0000,,Against Brother?
+Dialogue: 0,0:08:02.80,0:08:04.08,Main Dialog,Spoken,0000,0000,0000,,I see!
+Dialogue: 0,0:08:04.56,0:08:09.70,Main Dialog,Spoken,0000,0000,0000,,Rekka was conflicted about \NReversing Miss Emi and Miss Mai.
+Dialogue: 0,0:08:09.70,0:08:12.22,Main Dialog,Spoken,0000,0000,0000,,You must be the same way!
+Dialogue: 0,0:08:14.15,0:08:15.22,Main Dialog,Spoken,0000,0000,0000,,Wrong.
+Dialogue: 0,0:08:18.60,0:08:21.81,Main Dialog,Spoken,0000,0000,0000,,I threw away my indecision.
+Dialogue: 0,0:08:22.05,0:08:23.10,Main Dialog,Spoken,0000,0000,0000,,Say what?!
+Dialogue: 0,0:08:24.95,0:08:29.60,Main Dialog,Spoken,0000,0000,0000,,Use your black wings \Nto smother all light...
+Dialogue: 0,0:08:30.12,0:08:31.86,Main Dialog,Spoken,0000,0000,0000,,Evil darkness!
+Dialogue: 0,0:08:31.86,0:08:32.65,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:08:38.58,0:08:45.38,Main Dialog,Spoken,0000,0000,0000,,Broken Heart Jewel Knight, \NAshlei "Reverse"!
+Dialogue: 0,0:08:48.61,0:08:52.05,Main Dialog,Spoken,0000,0000,0000,,I'm going to defeat you \Nwith this unit... and then...
+Dialogue: 0,0:08:52.87,0:08:54.80,Main Dialog,Spoken,0000,0000,0000,,...then I'll beat Aichi Sendou!
+Dialogue: 0,0:08:55.13,0:08:58.05,Main Dialog,Spoken,0000,0000,0000,,Do you really mean that?
+Dialogue: 0,0:08:59.12,0:09:02.03,Main Dialog,Spoken,0000,0000,0000,,That's my destiny.
+Dialogue: 0,0:09:02.80,0:09:06.83,Main Dialog,Spoken,0000,0000,0000,,What the heck is that?! \NBrother is your friend, isn't he?!
+Dialogue: 0,0:09:06.83,0:09:10.57,Main Dialog,Spoken,0000,0000,0000,,Are you seriously sayin' you got no \Nqualms about Reversing your friend?!
+Dialogue: 0,0:09:11.14,0:09:12.43,Main Dialog,Spoken,0000,0000,0000,,Call.
+Dialogue: 0,0:09:13.92,0:09:16.32,Main Dialog,Spoken,0000,0000,0000,,I'm just following my destiny.
+Dialogue: 0,0:09:16.83,0:09:17.95,Main Dialog,Spoken,0000,0000,0000,,Kourin!
+Dialogue: 0,0:09:18.78,0:09:20.20,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:09:22.55,0:09:23.62,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:09:30.30,0:09:32.34,Main Dialog,Spoken,0000,0000,0000,,I order you, by this jeweled sword!
+Dialogue: 0,0:09:32.82,0:09:36.22,Main Dialog,Spoken,0000,0000,0000,,Hatred Chaos, exit the battlefield!
+Dialogue: 0,0:09:45.93,0:09:49.85,Main Dialog,Spoken,0000,0000,0000,,Next, by this jeweled sword, \NI summon a new knight!
+Dialogue: 0,0:09:49.98,0:09:51.27,Main Dialog,Spoken,0000,0000,0000,,Superior call!
+Dialogue: 0,0:09:53.23,0:09:55.68,Main Dialog,Spoken,0000,0000,0000,,It weakens the enemy's strength
+Dialogue: 0,0:09:55.68,0:09:58.45,Main Dialog,Spoken,0000,0000,0000,,while at the same time summoning \Ncomrades to the battlefield.
+Dialogue: 0,0:09:59.20,0:10:03.92,Main Dialog,Spoken,0000,0000,0000,,That's Ashlei "Reverse's" \NJewel Sword Noir!
+Dialogue: 0,0:10:05.02,0:10:06.18,Main Dialog,Spoken,0000,0000,0000,,Kourin...
+Dialogue: 0,0:10:07.05,0:10:09.48,Main Dialog,Spoken,0000,0000,0000,,Here I go, Kamui Katsuragi!
+Dialogue: 0,0:10:09.48,0:10:11.13,Main Dialog,Spoken,0000,0000,0000,,Tracie attacks!
+Dialogue: 0,0:10:14.38,0:10:15.25,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:10:16.36,0:10:18.26,Main Dialog,Spoken,0000,0000,0000,,Ashlei "Reverse," attack!
+Dialogue: 0,0:10:19.00,0:10:20.26,Main Dialog,Spoken,0000,0000,0000,,No guard!
+Dialogue: 0,0:10:20.92,0:10:23.14,Main Dialog,Spoken,0000,0000,0000,,Twin drive check!
+Dialogue: 0,0:10:23.14,0:10:24.19,Main Dialog,Spoken,0000,0000,0000,,Second check.
+Dialogue: 0,0:10:25.48,0:10:26.89,Main Dialog,Spoken,0000,0000,0000,,Draw trigger!
+Dialogue: 0,0:10:27.37,0:10:28.89,Main Dialog,Spoken,0000,0000,0000,,I give the power to Tilda!
+Dialogue: 0,0:10:31.56,0:10:32.80,Main Dialog,Spoken,0000,0000,0000,,And then I draw!
+Dialogue: 0,0:10:43.53,0:10:47.29,Main Dialog,Spoken,0000,0000,0000,,You're defying destiny.
+Dialogue: 0,0:10:49.35,0:10:51.67,Main Dialog,Spoken,0000,0000,0000,,Have you heard these words before?
+Dialogue: 0,0:10:53.03,0:10:57.56,Main Dialog,Spoken,0000,0000,0000,,"She who follows her destiny rides the tide,
+Dialogue: 0,0:10:57.56,0:11:02.93,Main Dialog,Spoken,0000,0000,0000,,while she who opposes it... \Nis dragged under."
+Dialogue: 0,0:11:04.63,0:11:08.34,Main Dialog,Spoken,0000,0000,0000,,In the end, you will be dragged under,\N and you will lose to me.
+Dialogue: 0,0:11:13.14,0:11:16.31,Main Dialog,Spoken,0000,0000,0000,,Stand against me, and your \Nagony will only linger.
+Dialogue: 0,0:11:16.68,0:11:17.28,Main Dialog,Spoken,0000,0000,0000,,Tilda!
+Dialogue: 0,0:11:35.92,0:11:40.16,Main Dialog,Spoken,0000,0000,0000,,I don't like this. I don't \Nlike you the way you are now!
+Dialogue: 0,0:11:40.16,0:11:45.43,Main Dialog,Spoken,0000,0000,0000,,No matter what, I'm gonna bring \Nyou to your senses! I swear it!
+Dialogue: 0,0:11:45.43,0:11:47.31,Main Dialog,Spoken,0000,0000,0000,,Resistance is futile.
+Dialogue: 0,0:11:48.17,0:11:51.40,Main Dialog,Spoken,0000,0000,0000,,We're definitely going to make you ours.
+Dialogue: 0,0:11:51.40,0:11:53.06,Main Dialog,Spoken,0000,0000,0000,,What's that?!
+Dialogue: 0,0:11:53.55,0:11:56.10,Main Dialog,Spoken,0000,0000,0000,,I'm sure you don't know this yet,
+Dialogue: 0,0:11:56.10,0:11:59.82,Main Dialog,Spoken,0000,0000,0000,,but something unbelievably \Nhuge is about to begin.
+Dialogue: 0,0:12:00.66,0:12:02.32,Main Dialog,Spoken,0000,0000,0000,,Something huge?
+Dialogue: 0,0:12:02.32,0:12:08.08,Main Dialog,Spoken,0000,0000,0000,,And I want strong fighters like \Nyou for it, Kamui Katsuragi.
+Dialogue: 0,0:12:08.46,0:12:11.02,Main Dialog,Spoken,0000,0000,0000,,What the heck are you talkin' about?!
+Dialogue: 0,0:12:18.27,0:12:20.62,Main Dialog,Spoken,0000,0000,0000,,We're finally movin' again!
+Dialogue: 0,0:12:20.62,0:12:25.83,Main Dialog,Spoken,0000,0000,0000,,For a while there, I didn't know \Nwhat was going to happen, you know?
+Dialogue: 0,0:12:25.83,0:12:26.77,Main Dialog,Spoken,0000,0000,0000,,Sendou?
+Dialogue: 0,0:12:26.77,0:12:27.35,Main Dialog,Spoken,0000,0000,0000,,Aichi?
+Dialogue: 0,0:12:53.65,0:12:54.88,Main Dialog,Spoken,0000,0000,0000,,Long time no see.
+Dialogue: 0,0:12:56.39,0:12:57.13,Main Dialog,Spoken,0000,0000,0000,,Yeah.
+Dialogue: 0,0:12:58.83,0:13:01.90,Main Dialog,Spoken,0000,0000,0000,,It has been a while, hasn't it?
+Dialogue: 0,0:13:24.25,0:13:25.76,Main Dialog,Spoken,0000,0000,0000,,You wanted something?
+Dialogue: 0,0:13:26.36,0:13:29.08,Main Dialog,Spoken,0000,0000,0000,,There's this rumor on the Net \Nabout an increasing number
+Dialogue: 0,0:13:29.08,0:13:33.57,Main Dialog,Spoken,0000,0000,0000,,of weird Cardfights happening \Nhere and there around the world.
+Dialogue: 0,0:13:33.57,0:13:37.87,Main Dialog,Spoken,0000,0000,0000,,One day, suddenly, someone's personality \Nchanges, and they're way stronger than before...
+Dialogue: 0,0:13:38.57,0:13:41.13,Main Dialog,Spoken,0000,0000,0000,,And they try to increase the \Nnumber of people like them.
+Dialogue: 0,0:13:43.71,0:13:48.18,Main Dialog,Spoken,0000,0000,0000,,This all started around \Nthe time you disappeared.
+Dialogue: 0,0:13:48.18,0:13:49.34,Main Dialog,,0000,0000,0000,,What a joke!
+Dialogue: 0,0:13:49.34,0:13:51.01,Main Dialog,Spoken,0000,0000,0000,,But it all fits.
+Dialogue: 0,0:13:54.83,0:13:59.27,Main Dialog,Spoken,0000,0000,0000,,Kai. Say something. Tell me I'm wrong.
+Dialogue: 0,0:14:00.28,0:14:03.02,Main Dialog,Spoken,0000,0000,0000,,If I'm one of them, what of it?
+Dialogue: 0,0:14:05.99,0:14:08.15,Main Dialog,Spoken,0000,0000,0000,,I didn't wanna believe it.
+Dialogue: 0,0:14:09.47,0:14:11.66,Main Dialog,Spoken,0000,0000,0000,,Why are you doing this?
+Dialogue: 0,0:14:12.37,0:14:15.16,Main Dialog,Spoken,0000,0000,0000,,Why do you have anything to do with this?!
+Dialogue: 0,0:14:19.28,0:14:21.55,Main Dialog,Spoken,0000,0000,0000,,"Somethin' huge," "destiny"...
+Dialogue: 0,0:14:21.55,0:14:24.17,Main Dialog,Spoken,0000,0000,0000,,I don't know what you \Npeople are goin' on about.
+Dialogue: 0,0:14:24.17,0:14:26.75,Main Dialog,Spoken,0000,0000,0000,,Jeez! What a pain!
+Dialogue: 0,0:14:26.75,0:14:29.77,Main Dialog,Spoken,0000,0000,0000,,The main point is I gotta win, right?!
+Dialogue: 0,0:14:29.77,0:14:30.80,Main Dialog,Spoken,0000,0000,0000,,Draw!
+Dialogue: 0,0:14:30.80,0:14:31.87,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:14:31.87,0:14:33.57,Main Dialog,Spoken,0000,0000,0000,,And I call them too!
+Dialogue: 0,0:14:34.70,0:14:37.18,Main Dialog,Spoken,0000,0000,0000,,Go, Hatred Chaos!
+Dialogue: 0,0:14:37.99,0:14:39.05,Main Dialog,Spoken,0000,0000,0000,,Guard.
+Dialogue: 0,0:14:40.14,0:14:41.69,Main Dialog,Spoken,0000,0000,0000,,Ethics Buster!
+Dialogue: 0,0:14:42.21,0:14:43.19,Main Dialog,Spoken,0000,0000,0000,,Guard.
+Dialogue: 0,0:14:43.44,0:14:45.25,Main Dialog,Spoken,0000,0000,0000,,Jewel Knight, Hirumi!
+Dialogue: 0,0:14:47.29,0:14:50.51,Main Dialog,Spoken,0000,0000,0000,,Ethics Buster Extreme, attack!
+Dialogue: 0,0:14:57.45,0:15:00.16,Main Dialog,Spoken,0000,0000,0000,,Guard. And intercept.
+Dialogue: 0,0:15:01.76,0:15:04.96,Main Dialog,Spoken,0000,0000,0000,,The attack isn't goin' through... But...
+Dialogue: 0,0:15:05.22,0:15:07.21,Main Dialog,Spoken,0000,0000,0000,,Twin drive check.
+Dialogue: 0,0:15:07.74,0:15:11.47,Main Dialog,Spoken,0000,0000,0000,,Limit Break! Rise, Max Beat!
+Dialogue: 0,0:15:14.52,0:15:16.97,Main Dialog,Spoken,0000,0000,0000,,On top of that, Max Beat's skill!
+Dialogue: 0,0:15:17.36,0:15:19.43,Main Dialog,Spoken,0000,0000,0000,,Hatred Chaos, stand!
+Dialogue: 0,0:15:20.84,0:15:22.69,Main Dialog,Spoken,0000,0000,0000,,Then second check!
+Dialogue: 0,0:15:23.73,0:15:26.73,Main Dialog,Spoken,0000,0000,0000,,Ethics Buster, stand! \NAnd I give it the power!
+Dialogue: 0,0:15:27.45,0:15:29.49,Main Dialog,Spoken,0000,0000,0000,,And finally, Riot Horn!
+Dialogue: 0,0:15:29.99,0:15:32.31,Main Dialog,Spoken,0000,0000,0000,,It stands with its skill!
+Dialogue: 0,0:15:34.12,0:15:36.84,Main Dialog,Spoken,0000,0000,0000,,My Extreme attack didn't go through,
+Dialogue: 0,0:15:36.84,0:15:40.18,Main Dialog,Spoken,0000,0000,0000,,but I can attack two more times!
+Dialogue: 0,0:15:40.18,0:15:45.38,Main Dialog,Spoken,0000,0000,0000,,This is my World Ultra \NMega-Ultra-Super-Destruction!
+Dialogue: 0,0:15:47.81,0:15:49.13,Main Dialog,Spoken,0000,0000,0000,,Just 1 more damage!
+Dialogue: 0,0:15:49.58,0:15:51.88,Main Dialog,Spoken,0000,0000,0000,,Then you'll turn back to normal!
+Dialogue: 0,0:15:52.85,0:15:56.39,Main Dialog,Spoken,0000,0000,0000,,I can't let Brother meet you like this!
+Dialogue: 0,0:16:00.56,0:16:03.14,Main Dialog,Spoken,0000,0000,0000,,Hatred Chaos! Attack again!
+Dialogue: 0,0:16:05.75,0:16:06.76,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:16:07.32,0:16:08.29,Main Dialog,Spoken,0000,0000,0000,,Intercept!
+Dialogue: 0,0:16:13.95,0:16:16.45,Main Dialog,Spoken,0000,0000,0000,,She's got just one card in her hand.
+Dialogue: 0,0:16:16.80,0:16:19.01,Main Dialog,Spoken,0000,0000,0000,,Even a perfect guard won't save her,
+Dialogue: 0,0:16:19.01,0:16:21.32,Main Dialog,Spoken,0000,0000,0000,,and no way can she mount a decent defense!
+Dialogue: 0,0:16:22.12,0:16:25.01,Main Dialog,Spoken,0000,0000,0000,,This is gonna end it! Ethics Buster!
+Dialogue: 0,0:16:25.01,0:16:27.04,Main Dialog,Spoken,0000,0000,0000,,Attack Ashlei "Reverse"!
+Dialogue: 0,0:16:33.66,0:16:38.05,Main Dialog,Spoken,0000,0000,0000,,Summoning Jewel Knight, Gloria! Quintet Wall!
+Dialogue: 0,0:16:44.10,0:16:45.31,Main Dialog,Spoken,0000,0000,0000,,Counterblast.
+Dialogue: 0,0:16:46.60,0:16:48.82,Main Dialog,Spoken,0000,0000,0000,,I guard with the top five cards of my deck.
+Dialogue: 0,0:16:55.39,0:16:56.20,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:16:57.31,0:17:00.58,Main Dialog,Spoken,0000,0000,0000,,That's right. This is Quintet Wall.
+Dialogue: 0,0:17:01.10,0:17:05.08,Main Dialog,Spoken,0000,0000,0000,,It looks like you underestimated me just \Nbecause I had only one card in my hand.
+Dialogue: 0,0:17:13.89,0:17:15.09,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:17:20.41,0:17:22.82,Main Dialog,Spoken,0000,0000,0000,,I told you before, Kamui Katsuragi.
+Dialogue: 0,0:17:23.72,0:17:26.48,Main Dialog,Spoken,0000,0000,0000,,It's useless to oppose destiny.
+Dialogue: 0,0:17:29.39,0:17:33.08,Main Dialog,Spoken,0000,0000,0000,,You're definitely not going to beat me.
+Dialogue: 0,0:17:38.88,0:17:41.59,Main Dialog,Spoken,0000,0000,0000,,Almost there. Our old school...
+Dialogue: 0,0:17:41.59,0:17:43.72,Main Dialog,Spoken,0000,0000,0000,,Miyaji Academy, high school division...
+Dialogue: 0,0:17:43.72,0:17:46.27,Main Dialog,Spoken,0000,0000,0000,,It feels like we haven't been there in ages.
+Dialogue: 0,0:17:58.60,0:18:00.24,Main Dialog,Spoken,0000,0000,0000,,Think!
+Dialogue: 0,0:18:00.24,0:18:04.84,Main Dialog,Spoken,0000,0000,0000,,What should I do to deal with \Nthat Ashlei "Reverse's" skill?
+Dialogue: 0,0:18:11.33,0:18:12.52,Main Dialog,Spoken,0000,0000,0000,,Aichi!
+Dialogue: 0,0:18:22.17,0:18:24.82,Main Dialog,Spoken,0000,0000,0000,,I... I...
+Dialogue: 0,0:18:31.98,0:18:33.55,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:18:43.53,0:18:45.18,Main Dialog,Spoken,0000,0000,0000,,Superior call!
+Dialogue: 0,0:18:47.78,0:18:49.52,Main Dialog,Spoken,0000,0000,0000,,Sybill's skill!
+Dialogue: 0,0:18:50.48,0:18:51.90,Main Dialog,Spoken,0000,0000,0000,,Superior call!
+Dialogue: 0,0:18:57.40,0:18:58.92,Main Dialog,Spoken,0000,0000,0000,,Ashlei "Reverse"...
+Dialogue: 0,0:18:58.92,0:19:02.28,Main Dialog,Spoken,0000,0000,0000,,Attack Ethics Buster Extreme!
+Dialogue: 0,0:19:06.19,0:19:07.88,Main Dialog,Spoken,0000,0000,0000,,Twin drive check.
+Dialogue: 0,0:19:10.83,0:19:12.21,Main Dialog,Spoken,0000,0000,0000,,Second check.
+Dialogue: 0,0:19:12.87,0:19:14.29,Main Dialog,Spoken,0000,0000,0000,,Critical trigger.
+Dialogue: 0,0:19:14.96,0:19:18.23,Main Dialog,Spoken,0000,0000,0000,,I give the power to Sybill and the \Nextra critical to Ashlei "Reverse."
+Dialogue: 0,0:19:55.36,0:19:56.49,Main Dialog,Spoken,0000,0000,0000,,Sendou!
+Dialogue: 0,0:19:56.49,0:19:57.34,Main Dialog,Spoken,0000,0000,0000,,Aichi?
+Dialogue: 0,0:20:06.51,0:20:07.72,Main Dialog,Spoken,0000,0000,0000,,Kamui?
+Dialogue: 0,0:20:11.69,0:20:13.73,Main Dialog,Spoken,0000,0000,0000,,K-Kamui!
+Dialogue: 0,0:20:14.36,0:20:16.74,Main Dialog,Spoken,0000,0000,0000,,B-Brother...
+Dialogue: 0,0:20:17.81,0:20:20.10,Main Dialog,Spoken,0000,0000,0000,,S-Sorry...
+Dialogue: 0,0:20:20.10,0:20:23.84,Main Dialog,Spoken,0000,0000,0000,,I... wasn't strong enough...
+Dialogue: 0,0:20:25.40,0:20:26.43,Main Dialog,Spoken,0000,0000,0000,,What is this?!
+Dialogue: 0,0:20:29.40,0:20:30.50,Main Dialog,Spoken,0000,0000,0000,,Kourin?
+Dialogue: 0,0:20:31.74,0:20:34.50,Main Dialog,Spoken,0000,0000,0000,,I Reversed him.
+Dialogue: 0,0:20:44.16,0:20:45.76,Main Dialog,Spoken,0000,0000,0000,,The gang's all here.
+Dialogue: 0,0:20:49.51,0:20:50.68,Main Dialog,Spoken,0000,0000,0000,,That girl...
+Dialogue: 0,0:20:50.68,0:20:53.02,Main Dialog,Spoken,0000,0000,0000,,She's the secretary of \Nthe Student Council, right?
+Dialogue: 0,0:20:53.56,0:20:58.52,Main Dialog,Spoken,0000,0000,0000,,This is perfect timing. \NRight when it's about to begin.
+Dialogue: 0,0:20:58.52,0:21:01.13,Main Dialog,Spoken,0000,0000,0000,,What's about to begin?!
+Dialogue: 0,0:21:01.99,0:21:05.28,Main Dialog,Spoken,0000,0000,0000,,Something unbelievably huge!
+Dialogue: 0,0:21:09.44,0:21:10.65,Main Dialog,Spoken,0000,0000,0000,,What the?!
+Dialogue: 0,0:21:18.73,0:21:23.45,Main Dialog,Spoken,0000,0000,0000,,Talk to me, Kai. What did you do exactly?
+Dialogue: 0,0:21:26.90,0:21:30.64,Main Dialog,Spoken,0000,0000,0000,,Hello, Cardfighters all over the world.
+Dialogue: 0,0:21:31.21,0:21:33.10,Main Dialog,Spoken,0000,0000,0000,,Takuto Tatsunagi?
+Dialogue: 0,0:21:36.01,0:21:40.32,Main Dialog,Spoken,0000,0000,0000,,I trust you're all enjoying yourselves \Nas you strive to win a fight today?
+Dialogue: 0,0:21:40.93,0:21:43.32,Main Dialog,Spoken,0000,0000,0000,,It pleases me immensely.
+Dialogue: 0,0:21:43.62,0:21:46.57,Main Dialog,Spoken,0000,0000,0000,,Friends and comrades and frenemies...
+Dialogue: 0,0:21:46.98,0:21:49.57,Main Dialog,Spoken,0000,0000,0000,,Growing as fighters...
+Dialogue: 0,0:21:50.17,0:21:54.83,Main Dialog,Spoken,0000,0000,0000,,I know how fulfilling that can be.
+Dialogue: 0,0:21:55.40,0:22:00.59,Main Dialog,Spoken,0000,0000,0000,,And yet, nothing lasts forever.
+Dialogue: 0,0:22:01.04,0:22:05.59,Main Dialog,Spoken,0000,0000,0000,,No matter how fun your days are, \Nthey'll come to an end eventually.
+Dialogue: 0,0:22:06.15,0:22:09.84,Main Dialog,Spoken,0000,0000,0000,,And that day is right before you.
+Dialogue: 0,0:22:13.16,0:22:16.10,Main Dialog,Spoken,0000,0000,0000,,This may seem sudden, but your world...
+Dialogue: 0,0:22:18.28,0:22:19.85,Main Dialog,Spoken,0000,0000,0000,,...is going to be destroyed.
+Dialogue: 0,0:23:56.33,0:23:58.21,Main Dialog,Spoken,0000,0000,0000,,Kourin... Kamui...
+Dialogue: 0,0:23:58.21,0:24:01.62,Main Dialog,Spoken,0000,0000,0000,,Cardfighters everywhere... \Nthe day of destruction is at hand.
+Dialogue: 0,0:24:01.93,0:24:04.32,Main Dialog,Spoken,0000,0000,0000,,Takuto... What are you saying?
+Dialogue: 0,0:24:05.13,0:24:07.09,Main Dialog,Spoken,0000,0000,0000,,Kamui, does this have \Nanything to do with
+Dialogue: 0,0:24:07.09,0:24:08.96,Main Dialog,Spoken,0000,0000,0000,,the end of the world that \NTakuto's talking about?
+Dialogue: 0,0:24:08.96,0:24:13.84,Main Dialog,Spoken,0000,0000,0000,,In keeping with what I'm about to \Nexplain, please prepare for the end.
+Dialogue: 0,0:24:13.84,0:24:16.17,Main Dialog,Spoken,0000,0000,0000,,Next time: Chaotic Destroyer!
+Dialogue: 0,0:24:14.47,0:24:24.85,Signs,Sign,0000,0000,0000,,Chaotic Destroyer!
+Dialogue: 0,0:24:16.17,0:24:19.85,Main Dialog,Spoken,0000,0000,0000,,We're shuddering in fear at the coming of \Nthe terrifying world he's talking about.
+Dialogue: 0,0:24:19.85,0:24:21.85,Main Dialog,Spoken,0000,0000,0000,,Aichi Sendou...
+Dialogue: 0,0:24:21.85,0:24:24.34,Main Dialog,Spoken,0000,0000,0000,,Are you strong?

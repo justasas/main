@@ -1,0 +1,5182 @@
+﻿1
+00:00:00,000 --> 00:00:00,356
+<font color="#ff8000">S
+
+2
+00:00:00,357 --> 00:00:00,713
+<font color="#ff8000">St
+
+3
+00:00:00,714 --> 00:00:01,070
+<font color="#ff8000">Sta
+
+4
+00:00:01,071 --> 00:00:01,428
+<font color="#ff8000">Star
+
+5
+00:00:01,429 --> 00:00:01,785
+<font color="#ff8000">Star_
+
+6
+00:00:01,786 --> 00:00:02,142
+<font color="#ff8000">Star_W
+
+7
+00:00:02,143 --> 00:00:02,499
+<font color="#ff8000">Star_Wa
+
+8
+00:00:02,500 --> 00:00:02,856
+<font color="#ff8000">Star_War
+
+9
+00:00:02,857 --> 00:00:03,213
+<font color="#ff8000">Star_Wars
+
+10
+00:00:03,214 --> 00:00:03,570
+<font color="#ff8000">Star_Wars_
+
+11
+00:00:03,571 --> 00:00:03,928
+<font color="#ff8000">Star_Wars_E
+
+12
+00:00:03,929 --> 00:00:04,285
+<font color="#ff8000">Star_Wars_Ep
+
+13
+00:00:04,286 --> 00:00:04,642
+<font color="#ff8000">Star_Wars_Epi
+
+14
+00:00:04,643 --> 00:00:04,999
+<font color="#ff8000">Star_Wars_Epis
+
+15
+00:00:05,000 --> 00:00:05,356
+<font color="#ff8000">Star_Wars_Episo
+
+16
+00:00:05,357 --> 00:00:05,713
+<font color="#ff8000">Star_Wars_Episod
+
+17
+00:00:05,714 --> 00:00:06,070
+<font color="#ff8000">Star_Wars_Episode
+
+18
+00:00:06,071 --> 00:00:06,428
+<font color="#ff8000">Star_Wars_Episode_
+
+19
+00:00:06,429 --> 00:00:06,785
+<font color="#ff8000">Star_Wars_Episode_I
+
+20
+00:00:06,786 --> 00:00:07,142
+<font color="#ff8000">Star_Wars_Episode_II
+
+21
+00:00:07,143 --> 00:00:07,499
+<font color="#ff8000">Star_Wars_Episode_III
+
+22
+00:00:07,500 --> 00:00:07,856
+<font color="#ff8000">Star_Wars_Episode_III_
+
+23
+00:00:07,857 --> 00:00:08,213
+<font color="#ff8000">Star_Wars_Episode_III_R
+
+24
+00:00:08,214 --> 00:00:08,570
+<font color="#ff8000">Star_Wars_Episode_III_Re
+
+25
+00:00:08,571 --> 00:00:08,928
+<font color="#ff8000">Star_Wars_Episode_III_Rev
+
+26
+00:00:08,929 --> 00:00:09,285
+<font color="#ff8000">Star_Wars_Episode_III_Reve
+
+27
+00:00:09,286 --> 00:00:09,642
+<font color="#ff8000">Star_Wars_Episode_III_Reven
+
+28
+00:00:09,643 --> 00:00:09,999
+<font color="#ff8000">Star_Wars_Episode_III_Reveng
+
+29
+00:00:10,000 --> 00:00:10,356
+<font color="#ff8000">Star_Wars_Episode_III_Revenge
+
+30
+00:00:10,357 --> 00:00:10,713
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_
+
+31
+00:00:10,714 --> 00:00:11,070
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_O
+
+32
+00:00:11,071 --> 00:00:11,428
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of
+
+33
+00:00:11,429 --> 00:00:11,785
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_
+
+34
+00:00:11,786 --> 00:00:12,142
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_T
+
+35
+00:00:12,143 --> 00:00:12,499
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_Th
+
+36
+00:00:12,500 --> 00:00:12,856
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The
+
+37
+00:00:12,857 --> 00:00:13,213
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_
+
+38
+00:00:13,214 --> 00:00:13,570
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_S
+
+39
+00:00:13,571 --> 00:00:13,928
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Si
+
+40
+00:00:13,929 --> 00:00:14,285
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sit
+
+41
+00:00:14,286 --> 00:00:14,642
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+
+42
+00:00:14,643 --> 00:00:14,999
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+
+43
+00:00:15,000 --> 00:00:15,356
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+
+
+44
+00:00:15,357 --> 00:00:15,713
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+R
+
+45
+00:00:15,714 --> 00:00:16,070
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re
+
+46
+00:00:16,071 --> 00:00:16,428
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-
+
+47
+00:00:16,429 --> 00:00:16,785
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-S
+
+48
+00:00:16,786 --> 00:00:17,142
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sy
+
+49
+00:00:17,143 --> 00:00:17,499
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Syn
+
+50
+00:00:17,500 --> 00:00:17,856
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync
+
+51
+00:00:17,857 --> 00:00:18,213
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync 
+
+52
+00:00:18,214 --> 00:00:18,570
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync &
+
+53
+00:00:18,571 --> 00:00:18,928
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & 
+
+54
+00:00:18,929 --> 00:00:19,285
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & E
+
+55
+00:00:19,286 --> 00:00:19,642
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Ed
+
+56
+00:00:19,643 --> 00:00:19,999
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edi
+
+57
+00:00:20,000 --> 00:00:20,356
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+
+58
+00:00:20,357 --> 00:00:20,713
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+
+59
+00:00:20,714 --> 00:00:21,070
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+
+
+60
+00:00:21,071 --> 00:00:21,428
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+T
+
+61
+00:00:21,429 --> 00:00:21,785
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Th
+
+62
+00:00:21,786 --> 00:00:22,142
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tha
+
+63
+00:00:22,143 --> 00:00:22,499
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Thar
+
+64
+00:00:22,500 --> 00:00:22,856
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Thari
+
+65
+00:00:22,857 --> 00:00:23,213
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharin
+
+66
+00:00:23,214 --> 00:00:23,570
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharind
+
+67
+00:00:23,571 --> 00:00:23,928
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu
+
+68
+00:00:23,929 --> 00:00:24,285
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_
+
+69
+00:00:24,286 --> 00:00:24,642
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_L
+
+70
+00:00:24,643 --> 00:00:24,999
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_La
+
+71
+00:00:25,000 --> 00:00:25,356
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_Lak
+
+72
+00:00:25,357 --> 00:00:25,713
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_Lakm
+
+73
+00:00:25,714 --> 00:00:26,070
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_Lakma
+
+74
+00:00:26,071 --> 00:00:26,428
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_Lakmal
+
+75
+00:00:26,429 --> 00:00:26,785
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_Lakmal_
+
+76
+00:00:26,786 --> 00:00:27,142
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_Lakmal_J
+
+77
+00:00:27,143 --> 00:00:27,499
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_Lakmal_Je
+
+78
+00:00:27,500 --> 00:00:27,856
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_Lakmal_Jee
+
+79
+00:00:27,857 --> 00:00:28,213
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_Lakmal_Jeew
+
+80
+00:00:28,214 --> 00:00:28,570
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_Lakmal_Jeewa
+
+81
+00:00:28,571 --> 00:00:28,928
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_Lakmal_Jeewan
+
+82
+00:00:28,929 --> 00:00:29,285
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_Lakmal_Jeewant
+
+83
+00:00:29,286 --> 00:00:29,642
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith
+Re-Sync & Edit
+Tharindu_Lakmal_Jeewanth
+
+84
+00:00:29,643 --> 00:03:00,000
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith</font>
+<font color="#ffd9b3">Re-Sync & Edit
+Tharindu_Lakmal_Jeewantha</font>
+
+85
+00:03:07,477 --> 00:03:08,978
+Lock onto him, R2.
+
+86
+00:03:08,979 --> 00:03:12,523
+Master, General Grievous's
+ship is directly ahead-
+
+87
+00:03:12,524 --> 00:03:14,859
+the one crawling with vulture droids.
+
+88
+00:03:14,860 --> 00:03:19,860
+I see it. Oh, this is going to be easy.
+
+89
+00:03:25,037 --> 00:03:27,705
+- <i>Oddball, do you copy?</i>
+- <i>Copy Red Leader.</i>
+
+90
+00:03:27,706 --> 00:03:30,082
+Mark my position.
+Form your squad up behind me.
+
+91
+00:03:30,083 --> 00:03:32,084
+We're on your tail, General Kenobi.
+
+92
+00:03:32,085 --> 00:03:37,085
+Set S-foils in attack position.
+
+93
+00:03:47,934 --> 00:03:50,061
+This is where the fun begins.
+
+94
+00:03:50,062 --> 00:03:55,062
+Let them pass between us.
+
+95
+00:04:08,830 --> 00:04:11,082
+They're all over me.
+
+96
+00:04:11,083 --> 00:04:14,210
+- Get <i>them ofimy-</i>
+- I'm gonna go help them out.
+
+97
+00:04:14,211 --> 00:04:19,211
+<i>No. They are doing their job
+so we can do ours.</i>
+
+98
+00:04:31,561 --> 00:04:35,564
+Missiles. Pull up.
+
+99
+00:04:35,565 --> 00:04:40,565
+- They overshot us.
+- They're coming around.
+
+100
+00:04:44,157 --> 00:04:49,157
+All right, R4. No, no. Nothing too fancy.
+
+101
+00:04:51,206 --> 00:04:56,206
+Surge all power units, R2.
+Stand by reverse thrusters.
+
+102
+00:05:03,426 --> 00:05:08,426
+We got 'em, R2.
+
+103
+00:05:14,646 --> 00:05:19,646
+Flying is for droids.
+
+104
+00:05:23,864 --> 00:05:26,532
+- I'm hit. Anakin?
+- <i>lsee</i> them.
+
+105
+00:05:26,533 --> 00:05:31,533
+Buzz droids.
+
+106
+00:05:35,500 --> 00:05:40,500
+R4, be careful. You have a-
+
+107
+00:05:41,006 --> 00:05:44,508
+Oh, dear.
+
+108
+00:05:44,509 --> 00:05:46,427
+They're shutting down all the controls.
+
+109
+00:05:46,428 --> 00:05:48,679
+Move to the right so I can
+get a clear shot at them.
+
+110
+00:05:48,680 --> 00:05:50,973
+<i>The mission. Get to the command ship.</i>
+
+111
+00:05:50,974 --> 00:05:55,974
+Get the chancellor.
+I'm running out of tricks here.
+
+112
+00:05:58,607 --> 00:06:02,902
+In the name of-
+
+113
+00:06:02,903 --> 00:06:07,903
+- Hold your fire! You're not helping.
+- I agree. Bad idea.
+
+114
+00:06:13,288 --> 00:06:18,288
+I can't see a thing. My cockpit's fogging.
+
+115
+00:06:19,336 --> 00:06:24,336
+They're all over me. Anakin!
+
+116
+00:06:24,925 --> 00:06:29,925
+- Move to the right.
+- Hold on. You'll get us both killed.
+
+117
+00:06:30,305 --> 00:06:32,514
+Get out of here.
+There's nothing more you can do.
+
+118
+00:06:32,515 --> 00:06:37,515
+I'm not leaving without you, Master.
+
+119
+00:06:45,278 --> 00:06:48,572
+Get him, R2.
+
+120
+00:06:48,573 --> 00:06:53,573
+Watch out.
+
+121
+00:06:54,579 --> 00:06:59,579
+R2, hit the buzz droid's center eye.
+
+122
+00:07:04,130 --> 00:07:08,759
+- Yeah, you got him!
+- Great, R2.
+
+123
+00:07:08,760 --> 00:07:12,763
+The general's command ship is dead ahead.
+
+124
+00:07:12,764 --> 00:07:14,932
+Have you noticed the shields are still up?
+
+125
+00:07:14,933 --> 00:07:19,933
+Sorry, Master.
+
+126
+00:07:24,484 --> 00:07:29,484
+I have a bad feeling about this.
+
+127
+00:07:41,418 --> 00:07:46,418
+There they are. Get them.
+
+128
+00:07:54,639 --> 00:07:59,639
+R2, locate the chancellor.
+
+129
+00:08:05,483 --> 00:08:08,277
+The chancellor's signal
+is coming from right there-
+
+130
+00:08:08,278 --> 00:08:11,447
+the observation platform
+at the top of that spire.
+
+131
+00:08:11,448 --> 00:08:13,490
+I sense Count Dooku.
+
+132
+00:08:13,491 --> 00:08:16,869
+- I sense a trap.
+- Next move?
+
+133
+00:08:16,870 --> 00:08:21,415
+Spring the trap.
+
+134
+00:08:21,416 --> 00:08:23,834
+R2, go back. I need you to stay with the ship.
+
+135
+00:08:23,835 --> 00:08:28,835
+Here. Take this and wait for orders.
+
+136
+00:08:40,060 --> 00:08:43,645
+What's the situation, Captain?
+
+137
+00:08:43,646 --> 00:08:47,691
+Twojedi have landed in the main
+hangar bay. We're tracking them.
+
+138
+00:08:47,692 --> 00:08:52,692
+Just as Count Dooku predicted.
+
+139
+00:08:56,076 --> 00:09:01,076
+Destroyers.
+
+140
+00:09:05,418 --> 00:09:08,379
+Drop your weapons. I said drop 'em.
+
+141
+00:09:08,380 --> 00:09:13,380
+- Roger.
+- Roger, roger.
+
+142
+00:09:18,807 --> 00:09:23,807
+Those arejedi fighters all right.
+
+143
+00:09:26,147 --> 00:09:28,440
+- Did you press the stop button?
+- No. Did you?
+
+144
+00:09:28,441 --> 00:09:31,485
+There's more than one way out of here.
+
+145
+00:09:31,486 --> 00:09:33,821
+We don't want to get out.
+We want to get moving.
+
+146
+00:09:33,822 --> 00:09:38,534
+R2, activate elevator 31174.
+
+147
+00:09:38,535 --> 00:09:40,828
+- <i>Come</i> in, R2.
+- What that?
+
+148
+00:09:40,829 --> 00:09:42,830
+<i>R2, do you cow'?</i>
+
+149
+00:09:42,831 --> 00:09:47,167
+<i>R2, activate the elevator number 31174.</i>
+
+150
+00:09:47,168 --> 00:09:50,212
+Get back to work. That nothin'.
+
+151
+00:09:50,213 --> 00:09:53,257
+<i>Activate the elevator 31174.</i>
+
+152
+00:09:53,258 --> 00:09:58,258
+R2-
+
+153
+00:10:00,974 --> 00:10:02,975
+Always on the move.
+
+154
+00:10:02,976 --> 00:10:07,104
+<i>R2, switch on the comlink.
+R2, can you hear me?</i>
+
+155
+00:10:07,105 --> 00:10:11,024
+<i>R2?</i>
+
+156
+00:10:11,025 --> 00:10:16,025
+R2! R2!
+
+157
+00:10:17,282 --> 00:10:22,282
+Stop. Stop. R2, we need to be going up.
+
+158
+00:10:22,412 --> 00:10:24,413
+Hands up,jedi.
+
+159
+00:10:24,414 --> 00:10:26,707
+<i>R2, do you cow'?</i>
+
+160
+00:10:26,708 --> 00:10:31,708
+<i>R2, do you hear me?
+R2, we need to be going up, not down.</i>
+
+161
+00:10:35,550 --> 00:10:40,550
+Hey, you!
+
+162
+00:10:42,140 --> 00:10:44,850
+That's better.
+
+163
+00:10:44,851 --> 00:10:49,851
+You stupid little astro droid.
+
+164
+00:10:58,656 --> 00:11:02,242
+Oh, it's you.
+
+165
+00:11:02,243 --> 00:11:04,161
+My EYES! My eyes!
+
+166
+00:11:04,162 --> 00:11:07,623
+- What was that all about?
+- R2 has been-
+
+167
+00:11:07,624 --> 00:11:09,750
+- No loose wire jokes.
+- Did I say anything?
+
+168
+00:11:09,751 --> 00:11:14,751
+- He's trying.
+- I didn't say anything.
+
+169
+00:11:49,332 --> 00:11:51,333
+- Chancellor.
+- Are you all right?
+
+170
+00:11:51,334 --> 00:11:56,334
+Count Dooku.
+
+171
+00:11:57,549 --> 00:12:02,549
+- This time we will do it together.
+- I was about to say that.
+
+172
+00:12:10,353 --> 00:12:14,356
+Get help. You're no match for him.
+He's a Sith lord.
+
+173
+00:12:14,357 --> 00:12:18,819
+Chancellor Palpatine,
+Sith lords are our speciality.
+
+174
+00:12:18,820 --> 00:12:20,821
+Your swords, please.
+
+175
+00:12:20,822 --> 00:12:24,408
+We don't want to make a mess of things
+in front of the chancellor.
+
+176
+00:12:24,409 --> 00:12:29,409
+You won't get away this time, Dooku.
+
+177
+00:12:37,463 --> 00:12:39,673
+I've been looking forward to this.
+
+178
+00:12:39,674 --> 00:12:42,968
+My powers have doubled since
+the last time we met, Count.
+
+179
+00:12:42,969 --> 00:12:47,969
+Good. Twice the pride, double the fall.
+
+180
+00:13:06,534 --> 00:13:11,534
+Get-
+
+181
+00:13:32,769 --> 00:13:37,769
+I sense great fear in you, Skywalker.
+
+182
+00:13:37,940 --> 00:13:41,693
+You have hate. You have anger.
+
+183
+00:13:41,694 --> 00:13:46,694
+But you don't use them.
+
+184
+00:14:03,257 --> 00:14:07,886
+Good, Anakin. Good.
+
+185
+00:14:07,887 --> 00:14:10,639
+Kill him.
+
+186
+00:14:10,640 --> 00:14:15,640
+Kill him now.
+
+187
+00:14:18,272 --> 00:14:22,609
+I shouldn't.
+
+188
+00:14:22,610 --> 00:14:27,610
+Do it.
+
+189
+00:14:35,748 --> 00:14:39,418
+You did well, Anakin.
+
+190
+00:14:39,419 --> 00:14:42,796
+He was too dangerous to be kept alive.
+
+191
+00:14:42,797 --> 00:14:45,298
+Yes, but he was an unarmed prisoner.
+
+192
+00:14:45,299 --> 00:14:49,010
+I shouldn't have done that.
+It's not thejedi way.
+
+193
+00:14:49,011 --> 00:14:53,515
+It is only natural. He cut off your arm,
+and you wanted revenge.
+
+194
+00:14:53,516 --> 00:14:56,643
+It wasn't the first time, Anakin.
+
+195
+00:14:56,644 --> 00:15:01,644
+Remember what you told me about
+your mother and the Sand People?
+
+196
+00:15:03,192 --> 00:15:08,192
+Now we must leave before
+more security droids arrive.
+
+197
+00:15:11,617 --> 00:15:14,286
+Anakin, there's no time.
+
+198
+00:15:14,287 --> 00:15:18,373
+We must get off this ship
+before it's too late.
+
+199
+00:15:18,374 --> 00:15:21,752
+- He seems to be all right.
+- Leave him, or we'll never make it.
+
+200
+00:15:21,753 --> 00:15:26,753
+His fate will be the same as ours.
+
+201
+00:15:28,885 --> 00:15:33,346
+Prepare for attack!
+
+202
+00:15:33,347 --> 00:15:38,347
+All batteries, fire! Fire!
+
+203
+00:15:45,318 --> 00:15:50,318
+Elevator's not working.
+
+204
+00:15:50,990 --> 00:15:55,990
+R2, activate elevator 3224.
+
+205
+00:16:12,345 --> 00:16:17,345
+- Reverse stabilizers.
+- Reversing stabilizers.
+
+206
+00:16:34,867 --> 00:16:39,867
+Magnetize! Magnetize!
+
+207
+00:16:43,584 --> 00:16:48,584
+Fire the emergency booster engines.
+
+208
+00:16:51,926 --> 00:16:56,926
+We're leveling out, sir.
+
+209
+00:17:09,569 --> 00:17:11,862
+Easy. We're in a bit of a situation here.
+
+210
+00:17:11,863 --> 00:17:14,573
+- Did I miss something?
+- Hold on.
+
+211
+00:17:14,574 --> 00:17:16,867
+- What is that?
+- Oops.
+
+212
+00:17:16,868 --> 00:17:18,952
+R2. R2, shut down the elevator.
+
+213
+00:17:18,953 --> 00:17:23,953
+Too late. Jump!
+
+214
+00:17:34,510 --> 00:17:38,263
+Let's see if we can find something
+in the hangar bay that's still flyable.
+
+215
+00:17:38,264 --> 00:17:41,099
+R2, get down here.
+
+216
+00:17:41,100 --> 00:17:46,100
+<i>R2, do you cow'?</i>
+
+217
+00:17:48,399 --> 00:17:51,568
+General, we found thejedi.
+They're in hallway 328.
+
+218
+00:17:51,569 --> 00:17:56,569
+Activate ray shields.
+
+219
+00:17:56,866 --> 00:17:58,283
+Ray shields.
+
+220
+00:17:58,284 --> 00:18:01,286
+Wait a minute. How did this happen?
+We're smarter than this.
+
+221
+00:18:01,287 --> 00:18:04,623
+Apparently not.
+
+222
+00:18:04,624 --> 00:18:08,668
+- I say patience.
+- Patience?
+
+223
+00:18:08,669 --> 00:18:11,296
+Yes. R2 will be along in a few moments...
+
+224
+00:18:11,297 --> 00:18:16,297
+and then he'll release the ray shields.
+
+225
+00:18:21,182 --> 00:18:25,769
+See? No problem.
+
+226
+00:18:25,770 --> 00:18:30,732
+Don't move.
+
+227
+00:18:30,733 --> 00:18:35,733
+Do you have a plan B?
+
+228
+00:18:39,283 --> 00:18:41,743
+Ah, yes.
+
+229
+00:18:41,744 --> 00:18:43,954
+The negotiator.
+
+230
+00:18:43,955 --> 00:18:48,291
+General Kenobi. We've been waiting for you.
+
+231
+00:18:48,292 --> 00:18:49,584
+Excuse me.
+
+232
+00:18:49,585 --> 00:18:54,089
+- That wasn't much of a rescue.
+- You're welcome.
+
+233
+00:18:54,090 --> 00:18:56,299
+And-
+
+234
+00:18:56,300 --> 00:18:58,843
+Anakin Skywalker.
+
+235
+00:18:58,844 --> 00:19:03,844
+I was expecting someone with
+your reputation to be a little... older.
+
+236
+00:19:07,061 --> 00:19:12,061
+General Grievous.
+You're shorter than I expected.
+
+237
+00:19:13,317 --> 00:19:15,026
+Jedi scum.
+
+238
+00:19:15,027 --> 00:19:20,027
+We have a job to do, Anakin.
+Try not to upset him.
+
+239
+00:19:22,618 --> 00:19:27,618
+Your Iightsabers will make
+a fine addition to my collection.
+
+240
+00:19:28,040 --> 00:19:31,835
+Not this time.
+And this time, you won't escape.
+
+241
+00:19:31,836 --> 00:19:36,836
+R2.
+
+242
+00:19:37,842 --> 00:19:40,635
+Crush them!
+
+243
+00:19:40,636 --> 00:19:45,636
+Make them suffer!
+
+244
+00:19:46,726 --> 00:19:48,518
+Come. Now!
+
+245
+00:19:48,519 --> 00:19:53,519
+Stay at your stations!
+
+246
+00:19:57,361 --> 00:20:02,361
+Get him! Get him!
+
+247
+00:20:19,008 --> 00:20:23,678
+Run!
+
+248
+00:20:23,679 --> 00:20:25,680
+Don't bother with them.
+
+249
+00:20:25,681 --> 00:20:30,681
+- Keep the ship in orbit.
+- Yes, sir.
+
+250
+00:20:38,235 --> 00:20:43,235
+You lose, General Kenobi.
+
+251
+00:21:04,762 --> 00:21:09,762
+Get out of here! Run!
+
+252
+00:21:19,985 --> 00:21:24,985
+Time to abandon ship.
+
+253
+00:21:29,703 --> 00:21:32,205
+All the escape pods have been launched.
+
+254
+00:21:32,206 --> 00:21:35,375
+Grievous. Can you fly a cruiser like this?
+
+255
+00:21:35,376 --> 00:21:38,211
+- You mean, can I land what's left of it?
+- Well?
+
+256
+00:21:38,212 --> 00:21:42,173
+Under the circumstances, I'd say the
+ability to pilot this thing is irrelevant.
+
+257
+00:21:42,174 --> 00:21:45,135
+Strap yourselves in.
+
+258
+00:21:45,136 --> 00:21:50,136
+Open all hatches.
+Extend all flaps and drag fins.
+
+259
+00:22:04,989 --> 00:22:06,990
+We lost something.
+
+260
+00:22:06,991 --> 00:22:11,991
+Not to worry. We are still ﬂying halfa ship.
+
+261
+00:22:15,124 --> 00:22:20,124
+Now we're really picking up speed.
+
+262
+00:22:25,384 --> 00:22:28,094
+Eight plus 60.
+
+263
+00:22:28,095 --> 00:22:33,095
+- We're in the atmosphere.
+- Grab that. Keep us level.
+
+264
+00:22:44,486 --> 00:22:48,990
+Steady.
+
+265
+00:22:48,991 --> 00:22:53,536
+Easy, R2.
+
+266
+00:22:53,537 --> 00:22:55,288
+5000.
+
+267
+00:22:55,289 --> 00:22:57,332
+Fire ships on the left and the right.
+
+268
+00:22:57,333 --> 00:23:02,333
+- We'll take you in.
+- Copythat
+
+269
+00:23:02,463 --> 00:23:07,463
+- Landing strip, straight ahead.
+- We're coming in too hot.
+
+270
+00:23:37,706 --> 00:23:42,706
+Another happy landing.
+
+271
+00:24:09,530 --> 00:24:11,990
+Corning, Master?
+
+272
+00:24:11,991 --> 00:24:15,618
+No. I'm not brave enough for politics.
+I have to report to the council.
+
+273
+00:24:15,619 --> 00:24:18,162
+Besides, someone needs to be the poster boy.
+
+274
+00:24:18,163 --> 00:24:22,125
+Hold on. This whole operation was your idea.
+
+275
+00:24:22,126 --> 00:24:25,378
+Let us not forget, Anakin, that
+you rescued me from the buzz droids.
+
+276
+00:24:25,379 --> 00:24:27,880
+And you killed Count Dooku,
+and you rescued the chancellor...
+
+277
+00:24:27,881 --> 00:24:30,550
+carrying me unconscious on your back.
+
+278
+00:24:30,551 --> 00:24:32,510
+All because of your training.
+
+279
+00:24:32,511 --> 00:24:36,139
+Anakin, let's be fair.
+Today you were the hero...
+
+280
+00:24:36,140 --> 00:24:39,642
+and you deserve your glorious day
+with the politicians.
+
+281
+00:24:39,643 --> 00:24:43,479
+All right. But you owe me one, and not
+for saving your skin for the 10th time.
+
+282
+00:24:43,480 --> 00:24:45,481
+Ninth time.
+
+283
+00:24:45,482 --> 00:24:50,482
+That business on Cato Neimoidia doesn't
+count. I'll see you at the briefing.
+
+284
+00:24:55,075 --> 00:24:57,702
+Chancellor Palpatine, are you all right?
+
+285
+00:24:57,703 --> 00:25:00,705
+Yes. Thanks to your two Jedi knights.
+
+286
+00:25:00,706 --> 00:25:05,501
+They killed Count Dooku, but
+General Grievous has escaped once again.
+
+287
+00:25:05,502 --> 00:25:09,130
+General Grievous will run and hide,
+as he always does. He's a coward.
+
+288
+00:25:09,131 --> 00:25:13,551
+But with Count Dooku dead,
+he is the leader of the droid army.
+
+289
+00:25:13,552 --> 00:25:15,553
+And I assure you...
+
+290
+00:25:15,554 --> 00:25:19,390
+the senate will vote to continue the war
+as long as Grievous is alive.
+
+291
+00:25:19,391 --> 00:25:24,391
+Then thejedi Council will make
+finding Grievous our highest priority.
+
+292
+00:25:24,938 --> 00:25:26,939
+- Watch it.
+- Excuse me.
+
+293
+00:25:26,940 --> 00:25:30,026
+- Come along, R2.
+- The Republic cannot praise you enough.
+
+294
+00:25:30,027 --> 00:25:33,196
+Thank you, Senator Organa.
+
+295
+00:25:33,197 --> 00:25:36,574
+It couldn't possibly be as bad as all that.
+
+296
+00:25:36,575 --> 00:25:38,576
+Now there I agree with you.
+
+297
+00:25:38,577 --> 00:25:41,412
+In fact, I could do with a tune-up myself.
+
+298
+00:25:41,413 --> 00:25:46,413
+But the fighting will continue until
+General Grievous is spare parts.
+
+299
+00:25:46,668 --> 00:25:50,088
+I will do everything I can in the senate.
+
+300
+00:25:50,089 --> 00:25:55,089
+- Excuse me.
+- Certainly.
+
+301
+00:26:02,142 --> 00:26:06,938
+Oh, Anakin.
+
+302
+00:26:06,939 --> 00:26:10,024
+I've missed you, Padmé.
+
+303
+00:26:10,025 --> 00:26:13,361
+There were whispers that you'd been killed.
+
+304
+00:26:13,362 --> 00:26:16,447
+I'm all right.
+
+305
+00:26:16,448 --> 00:26:19,117
+It feels like we've been apart for a lifetime.
+
+306
+00:26:19,118 --> 00:26:22,036
+And it might have been,
+if the chancellor hadn't been kidnapped.
+
+307
+00:26:22,037 --> 00:26:25,498
+I don't think they would have ever brought
+us back from the outer rim sieges.
+
+308
+00:26:25,499 --> 00:26:28,251
+- Wait. Not here.
+- Yes, here.
+
+309
+00:26:28,252 --> 00:26:31,838
+I'm tired of all this deception.
+I don't care if they know we're married.
+
+310
+00:26:31,839 --> 00:26:36,839
+Anakin, don't say things like that.
+
+311
+00:26:42,933 --> 00:26:46,644
+Are you all right? You're trembling.
+
+312
+00:26:46,645 --> 00:26:50,857
+What's going on?
+
+313
+00:26:50,858 --> 00:26:54,944
+Something wonderful has happened.
+
+314
+00:26:54,945 --> 00:26:59,945
+Ani, I'm pregnant.
+
+315
+00:27:02,327 --> 00:27:07,327
+That's-
+
+316
+00:27:10,169 --> 00:27:14,505
+That's wonderful.
+
+317
+00:27:14,506 --> 00:27:17,925
+What are we gonna do?
+
+318
+00:27:17,926 --> 00:27:22,305
+We're not gonna worry about
+anything right now. All right?
+
+319
+00:27:22,306 --> 00:27:26,100
+This is a happy moment.
+
+320
+00:27:26,101 --> 00:27:31,101
+The happiest moment of my life.
+
+321
+00:28:34,253 --> 00:28:37,505
+Yes, Lord Sidious?
+
+322
+00:28:37,506 --> 00:28:39,507
+<i>General Grievous...</i>
+
+323
+00:28:39,508 --> 00:28:44,508
+<i>I suggest you move
+the separatist leaders to Mustafar.</i>
+
+324
+00:28:44,721 --> 00:28:48,683
+It will be done, my lord.
+
+325
+00:28:48,684 --> 00:28:53,684
+<i>The end of the war is near, General.</i>
+
+326
+00:28:53,730 --> 00:28:56,774
+But the loss of Count Dooku-
+
+327
+00:28:56,775 --> 00:29:01,696
+<i>His death was a necessary loss.</i>
+
+328
+00:29:01,697 --> 00:29:05,449
+<i>Soon I will have a new apprentice-</i>
+
+329
+00:29:05,450 --> 00:29:10,450
+<i>one far younger and more powerful.</i>
+
+330
+00:29:37,733 --> 00:29:40,860
+Ani, I want to have our baby
+back home on Naboo.
+
+331
+00:29:40,861 --> 00:29:44,322
+We can go to the lake country
+where no one will know...
+
+332
+00:29:44,323 --> 00:29:47,450
+where we can be safe.
+
+333
+00:29:47,451 --> 00:29:52,451
+I can go early and fix up the baby's room.
+
+334
+00:29:53,624 --> 00:29:58,624
+I know the perfect spot. Right by the gardens.
+
+335
+00:30:02,341 --> 00:30:07,261
+You are so... beautiful.
+
+336
+00:30:07,262 --> 00:30:11,932
+It's only because I'm so in love.
+
+337
+00:30:11,933 --> 00:30:16,145
+No, it's because I'm so in love with you.
+
+338
+00:30:16,146 --> 00:30:20,566
+So love has blinded you?
+
+339
+00:30:20,567 --> 00:30:24,195
+That's not exactly what I meant.
+
+340
+00:30:24,196 --> 00:30:29,196
+But it's probably true.
+
+341
+00:30:35,874 --> 00:30:40,874
+Anakin, help me!
+
+342
+00:31:40,605 --> 00:31:45,605
+What's bothering you?
+
+343
+00:31:45,610 --> 00:31:49,196
+Nothing.
+
+344
+00:31:49,197 --> 00:31:52,158
+I remember when I gave this to you.
+
+345
+00:31:52,159 --> 00:31:57,159
+How long is it gonna take for us
+to be honest with each other?
+
+346
+00:31:58,623 --> 00:32:02,376
+- It was a dream.
+- Bad?
+
+347
+00:32:02,377 --> 00:32:06,922
+Like the ones I used to have about
+my mother,just before she died.
+
+348
+00:32:06,923 --> 00:32:11,677
+And?
+
+349
+00:32:11,678 --> 00:32:16,265
+And it was about you.
+
+350
+00:32:16,266 --> 00:32:19,894
+Tell me.
+
+351
+00:32:19,895 --> 00:32:24,895
+It was only a dream.
+
+352
+00:32:34,743 --> 00:32:37,536
+You die in childbirth.
+
+353
+00:32:37,537 --> 00:32:40,331
+And the baby?
+
+354
+00:32:40,332 --> 00:32:44,168
+I don't know.
+
+355
+00:32:44,169 --> 00:32:49,169
+- It was only a dream.
+- I won't let this one become real.
+
+356
+00:32:49,424 --> 00:32:52,426
+This baby will change our lives.
+
+357
+00:32:52,427 --> 00:32:55,513
+I doubt the queen will continue
+to allow me to serve in the senate.
+
+358
+00:32:55,514 --> 00:32:58,015
+If the council discovers
+you're the father, you'll be expelled-
+
+359
+00:32:58,016 --> 00:33:01,310
+I know. I know.
+
+360
+00:33:01,311 --> 00:33:06,311
+Do you think Obi-Wan might be able to help us?
+
+361
+00:33:06,358 --> 00:33:10,152
+We don't need his help.
+
+362
+00:33:10,153 --> 00:33:15,153
+Our baby is a blessing.
+
+363
+00:33:28,922 --> 00:33:30,506
+Premonitions?
+
+364
+00:33:30,507 --> 00:33:33,175
+Premonitions.
+
+365
+00:33:33,176 --> 00:33:37,096
+These visions you have-
+
+366
+00:33:37,097 --> 00:33:42,097
+They're of pain, suffering.
+
+367
+00:33:42,310 --> 00:33:43,978
+Death.
+
+368
+00:33:43,979 --> 00:33:48,979
+Yourself you speak of, or someone you know?
+
+369
+00:33:50,318 --> 00:33:51,986
+Someone.
+
+370
+00:33:51,987 --> 00:33:55,072
+Close to you?
+
+371
+00:33:55,073 --> 00:33:57,408
+Yes.
+
+372
+00:33:57,409 --> 00:34:01,370
+Careful you must be when
+sensing the future, Anakin.
+
+373
+00:34:01,371 --> 00:34:06,371
+The fear of loss is a path to the dark side.
+
+374
+00:34:07,919 --> 00:34:11,297
+I won't let these visions
+come true, Master Yoda.
+
+375
+00:34:11,298 --> 00:34:14,592
+Death is a natural part of life.
+
+376
+00:34:14,593 --> 00:34:19,388
+Rejoice for those around you
+who transform into the Force.
+
+377
+00:34:19,389 --> 00:34:22,766
+Mourn them, do not. Miss them, do not.
+
+378
+00:34:22,767 --> 00:34:25,978
+Attachment leads to jealousy.
+
+379
+00:34:25,979 --> 00:34:29,523
+The shadow of greed that is.
+
+380
+00:34:29,524 --> 00:34:32,443
+What must I do, Master Yoda?
+
+381
+00:34:32,444 --> 00:34:35,613
+Train yourself to let <i>go...</i>
+
+382
+00:34:35,614 --> 00:34:40,614
+of everything you fear to lose.
+
+383
+00:34:49,753 --> 00:34:53,631
+You've missed the report
+on the outer rim sieges.
+
+384
+00:34:53,632 --> 00:34:56,133
+I'm sorry. I was held up.
+
+385
+00:34:56,134 --> 00:35:00,137
+- I have no excuse.
+- In short, they are going very well.
+
+386
+00:35:00,138 --> 00:35:05,138
+Saleucami has fallen, and Master Vos
+has moved his troops to B02 Pity.
+
+387
+00:35:05,435 --> 00:35:08,812
+What's wrong, then?
+
+388
+00:35:08,813 --> 00:35:13,734
+The senate is expected to vote more
+executive powers to the chancellor today.
+
+389
+00:35:13,735 --> 00:35:18,197
+That can only mean less deliberating
+and more action. Is that bad?
+
+390
+00:35:18,198 --> 00:35:22,368
+It'll make it easier for us to end this war.
+
+391
+00:35:22,369 --> 00:35:26,330
+Be careful of your friend Palpatine.
+
+392
+00:35:26,331 --> 00:35:28,332
+Be careful of what?
+
+393
+00:35:28,333 --> 00:35:31,085
+- He has requested your presence.
+- What for?
+
+394
+00:35:31,086 --> 00:35:33,379
+He would not say.
+
+395
+00:35:33,380 --> 00:35:37,049
+He didn't inform the council?
+That's unusual, isn't it?
+
+396
+00:35:37,050 --> 00:35:39,385
+All of this is unusual.
+
+397
+00:35:39,386 --> 00:35:44,386
+And it's making me feel uneasy.
+
+398
+00:35:56,820 --> 00:35:59,738
+I hope you trust me, Anakin.
+
+399
+00:35:59,739 --> 00:36:02,116
+Of course.
+
+400
+00:36:02,117 --> 00:36:05,160
+I need your help, son.
+
+401
+00:36:05,161 --> 00:36:07,955
+What do you mean?
+
+402
+00:36:07,956 --> 00:36:10,541
+I'm depending on you.
+
+403
+00:36:10,542 --> 00:36:12,584
+For what? I don't understand.
+
+404
+00:36:12,585 --> 00:36:17,585
+To be the eyes, ears
+and voice of the Republic.
+
+405
+00:36:20,510 --> 00:36:24,763
+I'm appointing you to be my personal
+representative on thejedi Council.
+
+406
+00:36:24,764 --> 00:36:26,807
+Me?
+
+407
+00:36:26,808 --> 00:36:29,643
+A master?
+
+408
+00:36:29,644 --> 00:36:33,439
+I'm overwhelmed, sir.
+
+409
+00:36:33,440 --> 00:36:36,650
+But the council elects its own members.
+They'll never accept this.
+
+410
+00:36:36,651 --> 00:36:41,071
+I think they will. They need you.
+
+411
+00:36:41,072 --> 00:36:46,072
+More than you know.
+
+412
+00:36:53,376 --> 00:36:58,255
+Allow this appointment lightly
+the council does not.
+
+413
+00:36:58,256 --> 00:37:02,885
+Disturbing is this move
+by Chancellor Palpatine.
+
+414
+00:37:02,886 --> 00:37:04,553
+I understand.
+
+415
+00:37:04,554 --> 00:37:07,014
+You are on this council...
+
+416
+00:37:07,015 --> 00:37:10,684
+but we do not grant you the rank of master.
+
+417
+00:37:10,685 --> 00:37:15,685
+What?
+
+418
+00:37:17,317 --> 00:37:20,319
+How can you do this? This is outrageous.
+
+419
+00:37:20,320 --> 00:37:23,864
+It's unfair.
+
+420
+00:37:23,865 --> 00:37:27,868
+How can you be on the council
+and not be a master?
+
+421
+00:37:27,869 --> 00:37:32,869
+Take a seat, young Skywalker.
+
+422
+00:37:33,792 --> 00:37:38,792
+Forgive me, Master.
+
+423
+00:37:39,631 --> 00:37:42,174
+<i>We have surveyed
+all systems in the Republic...</i>
+
+424
+00:37:42,175 --> 00:37:46,011
+<i>but have found no sign of General Grievous.</i>
+
+425
+00:37:46,012 --> 00:37:48,889
+Hiding in the outer rim Grievous is.
+
+426
+00:37:48,890 --> 00:37:52,101
+The outlying systems you must sweep.
+
+427
+00:37:52,102 --> 00:37:54,436
+We do not have many ships to spare.
+
+428
+00:37:54,437 --> 00:37:57,689
+<i>What about the droid attack on the Wookiees?</i>
+
+429
+00:37:57,690 --> 00:38:00,526
+It is critical we send
+an attack group there immediately.
+
+430
+00:38:00,527 --> 00:38:05,280
+He's right. it's a system
+we cannot afford to lose.
+
+431
+00:38:05,281 --> 00:38:07,491
+Go I will.
+
+432
+00:38:07,492 --> 00:38:10,619
+Good relations with the Wookiees I have.
+
+433
+00:38:10,620 --> 00:38:12,329
+It's settled then.
+
+434
+00:38:12,330 --> 00:38:17,330
+Yoda will take a battalion of clones
+to reinforce the Wookiees on Kashyyyk.
+
+435
+00:38:17,460 --> 00:38:21,755
+May the Force be with us all.
+
+436
+00:38:21,756 --> 00:38:24,508
+What kind of nonsense is this?
+
+437
+00:38:24,509 --> 00:38:27,010
+Put me on the council
+and not make me a master?
+
+438
+00:38:27,011 --> 00:38:29,888
+It's never been done in the history
+of thejedi. it's insulting.
+
+439
+00:38:29,889 --> 00:38:32,850
+Calm down, Anakin.
+You have been given a great honor.
+
+440
+00:38:32,851 --> 00:38:36,979
+To be on the council at your age-
+it's never happened before.
+
+441
+00:38:36,980 --> 00:38:40,482
+The fact of the matter is
+you are too close to the chancellor.
+
+442
+00:38:40,483 --> 00:38:44,361
+The council doesn't like it
+when he interferes in Jedi affairs.
+
+443
+00:38:44,362 --> 00:38:47,865
+I swear to you,
+I didn't ask to be put on the council.
+
+444
+00:38:47,866 --> 00:38:50,200
+But it's what you wanted.
+
+445
+00:38:50,201 --> 00:38:53,620
+Your friendship with Chancellor
+Palpatine seems to have paid off.
+
+446
+00:38:53,621 --> 00:38:55,622
+That has nothing to do with this.
+
+447
+00:38:55,623 --> 00:38:58,667
+The only reason the council
+has approved your appointment...
+
+448
+00:38:58,668 --> 00:39:01,753
+is because the chancellor trusts you.
+
+449
+00:39:01,754 --> 00:39:03,714
+And?
+
+450
+00:39:03,715 --> 00:39:07,009
+Anakin, I am on your side. I didn't
+want to put you in this situation.
+
+451
+00:39:07,010 --> 00:39:12,010
+What situation?
+
+452
+00:39:12,265 --> 00:39:16,727
+The council wants you to report on
+all the chancellor's dealings.
+
+453
+00:39:16,728 --> 00:39:21,728
+They want to know what he's up to.
+
+454
+00:39:23,610 --> 00:39:26,528
+They want me to spy on the chancellor?
+
+455
+00:39:26,529 --> 00:39:31,241
+- But that's treason.
+- We are at war, Anakin.
+
+456
+00:39:31,242 --> 00:39:34,286
+Why didn't the council give me
+this assignment when we were in session?
+
+457
+00:39:34,287 --> 00:39:37,831
+This assignment is not to be on record.
+
+458
+00:39:37,832 --> 00:39:40,876
+The chancellor is not a bad man, Obi-Wan.
+
+459
+00:39:40,877 --> 00:39:44,004
+He befriended me. He's watched out
+for me ever since I arrived here.
+
+460
+00:39:44,005 --> 00:39:46,215
+That is why you must help us.
+
+461
+00:39:46,216 --> 00:39:49,801
+Anakin, our allegiance
+is to the senate, not to its leader...
+
+462
+00:39:49,802 --> 00:39:53,597
+who has managed to stay in office
+long after his term has expired.
+
+463
+00:39:53,598 --> 00:39:55,682
+The senate demanded that he stay longer.
+
+464
+00:39:55,683 --> 00:40:00,229
+Yes, but use your feelings, Anakin.
+Something is out of place.
+
+465
+00:40:00,230 --> 00:40:04,107
+You're asking me to do something
+against thejedi code.
+
+466
+00:40:04,108 --> 00:40:07,277
+Against the Republic.
+Against a mentor and a friend.
+
+467
+00:40:07,278 --> 00:40:12,278
+That's what's out of place here.
+Why are you asking this of me?
+
+468
+00:40:13,576 --> 00:40:18,576
+The council is asking you.
+
+469
+00:40:22,418 --> 00:40:27,297
+Anakin did not take to his
+new assignment with much enthusiasm.
+
+470
+00:40:27,298 --> 00:40:30,592
+It's very dangerous, putting them together.
+
+471
+00:40:30,593 --> 00:40:33,011
+I don't think the boy can handle it.
+
+472
+00:40:33,012 --> 00:40:35,639
+I don't trust him.
+
+473
+00:40:35,640 --> 00:40:39,601
+With all due respect, Master,
+is he not the chosen one?
+
+474
+00:40:39,602 --> 00:40:44,064
+Is he not to destroy the Sith
+and bring balance to the Force?
+
+475
+00:40:44,065 --> 00:40:46,358
+So the prophecy says.
+
+476
+00:40:46,359 --> 00:40:51,359
+A prophecy that misread could have been.
+
+477
+00:40:53,074 --> 00:40:55,075
+He will not let me down.
+
+478
+00:40:55,076 --> 00:40:57,119
+He never has.
+
+479
+00:40:57,120 --> 00:41:02,120
+I hope right you are.
+
+480
+00:41:25,189 --> 00:41:28,942
+Sometimes I wonder what's
+happening to thejedi order.
+
+481
+00:41:28,943 --> 00:41:33,864
+I think this war is destroying
+the principles of the Republic.
+
+482
+00:41:33,865 --> 00:41:37,159
+Have you ever considered
+that we may be on the wrong side?
+
+483
+00:41:37,160 --> 00:41:40,746
+What do you mean?
+
+484
+00:41:40,747 --> 00:41:44,458
+What if the democracy we thought
+we were serving no longer exists...
+
+485
+00:41:44,459 --> 00:41:48,879
+and the Republic has become the very
+evil we've been fighting to destroy?
+
+486
+00:41:48,880 --> 00:41:53,880
+I don't believe that.
+And you're sounding like a separatist.
+
+487
+00:41:54,385 --> 00:41:57,429
+This war represents a failure to listen.
+
+488
+00:41:57,430 --> 00:41:59,556
+Now you're closer
+to the chancellor than anyone.
+
+489
+00:41:59,557 --> 00:42:02,934
+Please, ask him to stop the fighting
+and let diplomacy resume.
+
+490
+00:42:02,935 --> 00:42:07,064
+Don't ask me to do that.
+
+491
+00:42:07,065 --> 00:42:11,568
+Make a motion in the senate,
+where that kind of a request belongs.
+
+492
+00:42:11,569 --> 00:42:14,946
+- What is it?
+- Nothing.
+
+493
+00:42:14,947 --> 00:42:19,947
+Don't do this. Don't shut me out.
+Let me help you.
+
+494
+00:42:21,579 --> 00:42:23,163
+Hold me.
+
+495
+00:42:23,164 --> 00:42:26,583
+Like you did by the lake on Naboo.
+
+496
+00:42:26,584 --> 00:42:30,462
+So long ago, when there was
+nothing but our love.
+
+497
+00:42:30,463 --> 00:42:35,463
+No politics, no plotting, no war.
+
+498
+00:43:13,131 --> 00:43:15,924
+- You wanted to see me, Chancellor.
+- Yes, Anakin.
+
+499
+00:43:15,925 --> 00:43:19,594
+Come closer. I have good news.
+
+500
+00:43:19,595 --> 00:43:21,596
+Our clone intelligence units...
+
+501
+00:43:21,597 --> 00:43:24,766
+have discovered
+the location of General Grievous.
+
+502
+00:43:24,767 --> 00:43:27,477
+He's hiding in the Utapau system.
+
+503
+00:43:27,478 --> 00:43:30,063
+At last.
+
+504
+00:43:30,064 --> 00:43:33,358
+We'll be able to capture
+that monster and end this war.
+
+505
+00:43:33,359 --> 00:43:36,820
+I would worry about
+the collective wisdom of the council...
+
+506
+00:43:36,821 --> 00:43:39,322
+if it didn't select you for this assignment.
+
+507
+00:43:39,323 --> 00:43:44,323
+You're the best choice, by far.
+
+508
+00:43:45,705 --> 00:43:47,289
+Sit down.
+
+509
+00:43:47,290 --> 00:43:52,290
+Leave us.
+
+510
+00:44:03,055 --> 00:44:08,055
+You know I'm not able
+to rely on thejedi Council.
+
+511
+00:44:09,312 --> 00:44:13,607
+If they haven't included you
+in their plot, they soon will.
+
+512
+00:44:13,608 --> 00:44:15,817
+I'm not sure I understand.
+
+513
+00:44:15,818 --> 00:44:19,613
+You must sense what I have come to suspect.
+
+514
+00:44:19,614 --> 00:44:24,367
+Thejedi Council want control of the Republic.
+
+515
+00:44:24,368 --> 00:44:26,995
+They're planning to betray me.
+
+516
+00:44:26,996 --> 00:44:30,582
+- I don't think that-
+- Anakin.
+
+517
+00:44:30,583 --> 00:44:34,711
+Search your feelings.
+
+518
+00:44:34,712 --> 00:44:39,712
+You know, don't you?
+
+519
+00:44:41,677 --> 00:44:43,678
+I know they don't trust you.
+
+520
+00:44:43,679 --> 00:44:47,098
+Or the senate. Or the Republic.
+
+521
+00:44:47,099 --> 00:44:50,477
+Or democracy, for that matter.
+
+522
+00:44:50,478 --> 00:44:54,940
+I have to admit,
+my trust in them has been shaken.
+
+523
+00:44:54,941 --> 00:44:58,610
+Why?
+
+524
+00:44:58,611 --> 00:45:03,611
+They asked you to do something that
+made you feel dishonest, didn't they?
+
+525
+00:45:05,910 --> 00:45:10,910
+They asked you to spy on me, didn't they?
+
+526
+00:45:13,251 --> 00:45:15,919
+I don't-
+
+527
+00:45:15,920 --> 00:45:17,921
+I don't know what to say.
+
+528
+00:45:17,922 --> 00:45:22,092
+Remember back to your early teachings.
+
+529
+00:45:22,093 --> 00:45:26,012
+All who gain power are afraid to lose it.
+
+530
+00:45:26,013 --> 00:45:30,767
+- Even thejedi.
+- Thejedi use their power for good.
+
+531
+00:45:30,768 --> 00:45:33,019
+Good is a point of view, Anakin.
+
+532
+00:45:33,020 --> 00:45:38,020
+The Sith and thejedi
+are similar in almost every way...
+
+533
+00:45:40,236 --> 00:45:44,531
+including their quest for greater power.
+
+534
+00:45:44,532 --> 00:45:47,659
+The Sith rely on their passion
+for their strength.
+
+535
+00:45:47,660 --> 00:45:51,621
+They think inwards- only about themselves.
+
+536
+00:45:51,622 --> 00:45:54,749
+And thejedi don't?
+
+537
+00:45:54,750 --> 00:45:59,750
+Thejedi are selﬂess.
+They only care about others.
+
+538
+00:46:08,723 --> 00:46:13,723
+Did you ever hear the tragedy
+of Darth Plagueis the Wise?
+
+539
+00:46:18,816 --> 00:46:23,816
+I thought not. it's not a story
+thejedi would tell you.
+
+540
+00:46:24,322 --> 00:46:27,240
+It's a Sith legend.
+
+541
+00:46:27,241 --> 00:46:31,536
+Darth Plagueis was a dark lord of the Sith...
+
+542
+00:46:31,537 --> 00:46:34,539
+so powerful and so wise...
+
+543
+00:46:34,540 --> 00:46:39,502
+he could use the Force to
+influence the midi-chlorians...
+
+544
+00:46:39,503 --> 00:46:44,341
+to create... life.
+
+545
+00:46:44,342 --> 00:46:47,510
+He had such a knowledge of the dark side...
+
+546
+00:46:47,511 --> 00:46:52,511
+he could even keep the ones he cared about...
+
+547
+00:46:53,100 --> 00:46:58,100
+from dying.
+
+548
+00:46:58,856 --> 00:47:03,526
+He could actually... save people from death?
+
+549
+00:47:03,527 --> 00:47:08,156
+The dark side of the Force is
+a pathway to many abilities...
+
+550
+00:47:08,157 --> 00:47:13,157
+some consider to be unnatural.
+
+551
+00:47:13,454 --> 00:47:16,373
+What happened to him?
+
+552
+00:47:16,374 --> 00:47:19,793
+He became so powerful...
+
+553
+00:47:19,794 --> 00:47:23,088
+the only thing he was afraid of was...
+
+554
+00:47:23,089 --> 00:47:25,090
+losing his power.
+
+555
+00:47:25,091 --> 00:47:28,426
+Which eventually, of course, he did.
+
+556
+00:47:28,427 --> 00:47:33,427
+Unfortunately, he taught
+his apprentice everything he knew.
+
+557
+00:47:34,392 --> 00:47:39,392
+Then his apprentice killed him in his sleep.
+
+558
+00:47:40,231 --> 00:47:42,107
+It's ironic.
+
+559
+00:47:42,108 --> 00:47:45,360
+He could save others from death...
+
+560
+00:47:45,361 --> 00:47:50,361
+but not himself.
+
+561
+00:47:51,617 --> 00:47:56,617
+Is it possible to learn this power?
+
+562
+00:47:57,998 --> 00:48:02,998
+Not from ajedi.
+
+563
+00:48:17,017 --> 00:48:22,017
+<i>All Red units, over here!</i>
+
+564
+00:48:30,698 --> 00:48:33,908
+<i>Palpatine thinks General Grievous
+is on Utapau?</i>
+
+565
+00:48:33,909 --> 00:48:35,910
+<i>A partial message was intercepted...</i>
+
+566
+00:48:35,911 --> 00:48:40,911
+<i>in a diplomatic packet
+from the chairman of Utapau.</i>
+
+567
+00:48:40,958 --> 00:48:44,294
+<i>Act on this we must.</i>
+
+568
+00:48:44,295 --> 00:48:49,007
+<i>The capture of General Grievous
+will end this war.</i>
+
+569
+00:48:49,008 --> 00:48:52,719
+<i>Quickly and decisively we should proceed.</i>
+
+570
+00:48:52,720 --> 00:48:57,720
+The chancellor has requested...
+that I lead the campaign.
+
+571
+00:48:57,725 --> 00:49:00,477
+The council will make up
+its own mind who is to go...
+
+572
+00:49:00,478 --> 00:49:02,562
+not the chancellor.
+
+573
+00:49:02,563 --> 00:49:07,563
+<i>A master is needed, with more experience.</i>
+
+574
+00:49:07,610 --> 00:49:12,197
+<i>I concur. Master Kenobi should go.</i>
+
+575
+00:49:12,198 --> 00:49:13,740
+<i>I agree.</i>
+
+576
+00:49:13,741 --> 00:49:14,991
+<i>Aye.</i>
+
+577
+00:49:14,992 --> 00:49:16,659
+Aye.
+
+578
+00:49:16,660 --> 00:49:21,660
+<i>Very well. Council adjourned.</i>
+
+579
+00:49:26,504 --> 00:49:30,006
+The droids have started up
+their main power generators.
+
+580
+00:49:30,007 --> 00:49:35,007
+- Then now the time is, Commander.
+- Yes, sir.
+
+581
+00:49:47,441 --> 00:49:52,441
+Charge!
+
+582
+00:50:04,041 --> 00:50:09,041
+<i>Head for cover!</i>
+
+583
+00:50:21,392 --> 00:50:24,394
+- You're gonna need me on this one.
+- I agree.
+
+584
+00:50:24,395 --> 00:50:27,355
+However, it may turn out
+just to be a wild bantha chase.
+
+585
+00:50:27,356 --> 00:50:30,400
+Master.
+
+586
+00:50:30,401 --> 00:50:35,401
+I've disappointed you. I haven't been
+very appreciative of your training.
+
+587
+00:50:35,865 --> 00:50:40,368
+I've been arrogant, and I apologize.
+
+588
+00:50:40,369 --> 00:50:45,369
+L'vejust been so frustrated with the council.
+
+589
+00:50:46,041 --> 00:50:49,878
+You are strong and wise, Anakin,
+and I am very proud of you.
+
+590
+00:50:49,879 --> 00:50:52,589
+I have trained you since you were a small boy.
+
+591
+00:50:52,590 --> 00:50:54,799
+I have taught you everything I know.
+
+592
+00:50:54,800 --> 00:50:59,429
+And you have become a far greater
+Jedi than I could ever hope to be.
+
+593
+00:50:59,430 --> 00:51:02,223
+But be patient, Anakin.
+
+594
+00:51:02,224 --> 00:51:07,224
+It will not be long before
+the council makes you a Jedi master.
+
+595
+00:51:12,776 --> 00:51:16,154
+Obi-Wan. May the Force be with you.
+
+596
+00:51:16,155 --> 00:51:21,155
+Good-bye, old friend.
+May the Force be with you.
+
+597
+00:51:41,639 --> 00:51:46,309
+Fortunately, most of the cities are
+concentrated on this small continent here.
+
+598
+00:51:46,310 --> 00:51:48,061
+On the far side.
+
+599
+00:51:48,062 --> 00:51:50,480
+I'll keep them distracted until you get there.
+
+600
+00:51:50,481 --> 00:51:55,318
+- Just don't take too long.
+- Come on. When have I ever let you down?
+
+601
+00:51:55,319 --> 00:52:00,319
+Very well. The burden is on me not to
+destroy all the droids until you arrive.
+
+602
+00:52:25,891 --> 00:52:28,351
+Save your energy.
+
+603
+00:52:28,352 --> 00:52:30,228
+I can%.
+
+604
+00:52:30,229 --> 00:52:35,229
+Don't give up, Padmé.
+
+605
+00:52:45,452 --> 00:52:48,037
+Obi-Wan's been here, hasn't he?
+
+606
+00:52:48,038 --> 00:52:51,499
+He came by this morning.
+
+607
+00:52:51,500 --> 00:52:53,501
+What did he want?
+
+608
+00:52:53,502 --> 00:52:57,922
+He's worried about you.
+
+609
+00:52:57,923 --> 00:53:02,923
+He says you've been under a lot of stress.
+
+610
+00:53:03,053 --> 00:53:05,888
+I feel lost.
+
+611
+00:53:05,889 --> 00:53:10,889
+Lost? What do you mean?
+
+612
+00:53:10,936 --> 00:53:14,397
+Obi-Wan and the council don't trust me.
+
+613
+00:53:14,398 --> 00:53:18,568
+They trust you with their lives.
+
+614
+00:53:18,569 --> 00:53:21,195
+Somethings happening.
+
+615
+00:53:21,196 --> 00:53:25,742
+I'm not thejedi I should be.
+
+616
+00:53:25,743 --> 00:53:28,911
+I want more.
+
+617
+00:53:28,912 --> 00:53:32,915
+And I know I shouldn't.
+
+618
+00:53:32,916 --> 00:53:37,916
+You expect too much of yourself.
+
+619
+00:53:38,881 --> 00:53:42,175
+- I found a way to save you.
+- Save me?
+
+620
+00:53:42,176 --> 00:53:44,218
+From my nightmares.
+
+621
+00:53:44,219 --> 00:53:47,180
+Is that what's bothering you?
+
+622
+00:53:47,181 --> 00:53:49,932
+I won't lose you, Padmé.
+
+623
+00:53:49,933 --> 00:53:52,143
+I'm not gonna die in childbirth, Ani.
+
+624
+00:53:52,144 --> 00:53:57,144
+- I promise you.
+- No, I promise you.
+
+625
+00:54:38,524 --> 00:54:41,025
+Greetings, youngjedi.
+
+626
+00:54:41,026 --> 00:54:44,570
+What brings you to our remote sanctuary?
+
+627
+00:54:44,571 --> 00:54:47,281
+Unfortunately, the war.
+
+628
+00:54:47,282 --> 00:54:51,285
+There's no war here-
+unless you brought it with you.
+
+629
+00:54:51,286 --> 00:54:54,580
+With your kind permission,
+I should like some fuel...
+
+630
+00:54:54,581 --> 00:54:59,581
+and to use your city as a base as I search
+nearby systems for General Grievous.
+
+631
+00:55:08,512 --> 00:55:11,889
+He is here. We are being held hostage.
+
+632
+00:55:11,890 --> 00:55:14,892
+- They are watching us.
+- I understand.
+
+633
+00:55:14,893 --> 00:55:19,814
+Tenth level, thousands of battle droids.
+
+634
+00:55:19,815 --> 00:55:22,358
+Tell your people to take shelter.
+
+635
+00:55:22,359 --> 00:55:27,359
+If you have warriors, now is the time.
+
+636
+00:55:36,248 --> 00:55:41,248
+Take the fighter back to the ship.
+Tell Cody I've made contact.
+
+637
+00:55:42,421 --> 00:55:47,421
+- Is he bringing additional warriors?
+- He didn't say.
+
+638
+00:56:28,842 --> 00:56:33,842
+It won't be long before the armies
+of the Republic track us here.
+
+639
+00:56:36,683 --> 00:56:41,683
+I am sending you to the Mustafar system
+in the outer rim.
+
+640
+00:56:49,404 --> 00:56:51,822
+It is a volcanic planet.
+
+641
+00:56:51,823 --> 00:56:55,952
+- You will be safe there.
+- Safe?
+
+642
+00:56:55,953 --> 00:56:59,330
+Chancellor Palpatine managed
+to escape your grip, General.
+
+643
+00:56:59,331 --> 00:57:04,331
+Without Count Dooku, I have doubts
+about your ability to keep us safe.
+
+644
+00:57:04,670 --> 00:57:09,670
+Be thankful, Viceroy, you have not
+found yourself in my grip.
+
+645
+00:57:13,303 --> 00:57:18,303
+Your ship is waiting.
+
+646
+00:57:33,824 --> 00:57:37,743
+Hello there.
+
+647
+00:57:37,744 --> 00:57:42,415
+General Kenobi.
+
+648
+00:57:42,416 --> 00:57:47,003
+You are a bold one.
+
+649
+00:57:47,004 --> 00:57:52,004
+Kill him.
+
+650
+00:58:04,313 --> 00:58:05,855
+Back away.
+
+651
+00:58:05,856 --> 00:58:10,568
+I will deal with thisjedi slime myself.
+
+652
+00:58:10,569 --> 00:58:12,862
+Your move.
+
+653
+00:58:12,863 --> 00:58:14,697
+You fool.
+
+654
+00:58:14,698 --> 00:58:19,698
+I've been trained in your
+Jedi arts by Count Dooku.
+
+655
+00:58:27,044 --> 00:58:32,044
+Attack, Kenobi.
+
+656
+00:59:27,229 --> 00:59:29,271
+Go, go, go! Move it! Move it!
+
+657
+00:59:29,272 --> 00:59:31,273
+Everybody out.
+Let's go, let's go, let's go.
+
+658
+00:59:31,274 --> 00:59:36,274
+Cover yourself. Come on.
+
+659
+00:59:38,990 --> 00:59:43,077
+Move it! Move it!
+
+660
+00:59:43,078 --> 00:59:45,871
+Come on, move! Come on, everybody!
+
+661
+00:59:45,872 --> 00:59:48,290
+Army or not...
+
+662
+00:59:48,291 --> 00:59:53,291
+you must realize you are doomed.
+
+663
+00:59:53,505 --> 00:59:58,505
+I don't think so.
+
+664
+01:00:53,899 --> 01:00:58,899
+<i>Cover that corner.</i>
+
+665
+01:01:01,698 --> 01:01:03,866
+<i>Master Windu, may I interrupt?</i>
+
+666
+01:01:03,867 --> 01:01:06,744
+<i>General Kenobi has made contact
+with General Grievous...</i>
+
+667
+01:01:06,745 --> 01:01:09,121
+<i>and we have begun our attack.</i>
+
+668
+01:01:09,122 --> 01:01:10,956
+Thank you, Commander.
+
+669
+01:01:10,957 --> 01:01:15,169
+Anakin, deliver this report to the chancellor.
+
+670
+01:01:15,170 --> 01:01:17,546
+His reaction will give us
+a clue to his intentions.
+
+671
+01:01:17,547 --> 01:01:22,547
+Yes, Master.
+
+672
+01:01:26,473 --> 01:01:29,850
+I sense a plot to destroy thejedi.
+
+673
+01:01:29,851 --> 01:01:33,020
+The dark side of the Force
+surrounds the chancellor.
+
+674
+01:01:33,021 --> 01:01:35,356
+<i>If he does not give up his emergency powers...</i>
+
+675
+01:01:35,357 --> 01:01:37,358
+<i>after the destruction of Grievous...</i>
+
+676
+01:01:37,359 --> 01:01:41,070
+<i>then he should be removed from office.</i>
+
+677
+01:01:41,071 --> 01:01:43,697
+Thejedi Council would have to
+take control of the senate...
+
+678
+01:01:43,698 --> 01:01:45,699
+in order to secure a peaceful transition.
+
+679
+01:01:45,700 --> 01:01:50,700
+<i>To a dark place this line
+of thought will carry us.</i>
+
+680
+01:01:52,415 --> 01:01:57,415
+<i>Great care we must take.</i>
+
+681
+01:02:01,967 --> 01:02:04,218
+Chancellor.
+
+682
+01:02:04,219 --> 01:02:06,845
+We'vejust received a report
+from Master Kenobi.
+
+683
+01:02:06,846 --> 01:02:09,598
+He has engaged General Grievous.
+
+684
+01:02:09,599 --> 01:02:14,599
+We can only hope that Master Kenobi
+is up to the challenge.
+
+685
+01:02:14,813 --> 01:02:16,897
+I should be there with him.
+
+686
+01:02:16,898 --> 01:02:19,358
+It's upsetting to me
+to see that the council...
+
+687
+01:02:19,359 --> 01:02:22,736
+doesn't seem to fully appreciate your talents.
+
+688
+01:02:22,737 --> 01:02:27,737
+Don't you wonder why
+they won't make you a Jedi master?
+
+689
+01:02:28,535 --> 01:02:31,829
+I wish I knew.
+
+690
+01:02:31,830 --> 01:02:34,456
+More and more I get the feeling that...
+
+691
+01:02:34,457 --> 01:02:39,457
+I'm being excluded from the council.
+
+692
+01:02:43,675 --> 01:02:48,675
+I know there are things about the Force
+that they're not telling me.
+
+693
+01:02:49,848 --> 01:02:53,017
+They don't trust you, Anakin.
+
+694
+01:02:53,018 --> 01:02:55,144
+They see your future.
+
+695
+01:02:55,145 --> 01:03:00,145
+They know your power
+will be too strong to control.
+
+696
+01:03:00,191 --> 01:03:05,191
+You must break through the fog of lies
+thejedi have created around you.
+
+697
+01:03:07,282 --> 01:03:12,161
+Let me help you to know
+the subtleties of the Force.
+
+698
+01:03:12,162 --> 01:03:15,331
+How do you know the ways of the Force?
+
+699
+01:03:15,332 --> 01:03:19,168
+My mentor taught me
+everything about the Force.
+
+700
+01:03:19,169 --> 01:03:24,131
+Even the nature of the dark side.
+
+701
+01:03:24,132 --> 01:03:29,094
+You know the dark side?
+
+702
+01:03:29,095 --> 01:03:32,514
+If one is to understand the great mystery...
+
+703
+01:03:32,515 --> 01:03:35,017
+one must study all its aspects...
+
+704
+01:03:35,018 --> 01:03:38,896
+not just the dogmatic narrow view of thejedi.
+
+705
+01:03:38,897 --> 01:03:42,149
+If you wish to become
+a complete and wise leader...
+
+706
+01:03:42,150 --> 01:03:46,570
+you must embrace a larger view of the Force.
+
+707
+01:03:46,571 --> 01:03:49,615
+Be careful of thejedi, Anakin.
+
+708
+01:03:49,616 --> 01:03:54,616
+Only through me can you achieve
+a power greater than anyjedi.
+
+709
+01:03:55,538 --> 01:03:58,290
+Learn to know the dark side of the Force...
+
+710
+01:03:58,291 --> 01:04:02,044
+and you will be able to save your wife...
+
+711
+01:04:02,045 --> 01:04:05,214
+from certain death.
+
+712
+01:04:05,215 --> 01:04:07,216
+What did you say?
+
+713
+01:04:07,217 --> 01:04:12,217
+Use my knowledge. I beg you.
+
+714
+01:04:12,555 --> 01:04:14,848
+You're the Sith lord.
+
+715
+01:04:14,849 --> 01:04:19,687
+I know what's been troubling you.
+Listen to me.
+
+716
+01:04:19,688 --> 01:04:24,688
+Don't continue to be a pawn
+of thejedi Council.
+
+717
+01:04:25,527 --> 01:04:29,071
+Ever since I've known you,
+you've been searching for a life...
+
+718
+01:04:29,072 --> 01:04:31,740
+greater than that of an ordinaryjedi.
+
+719
+01:04:31,741 --> 01:04:34,243
+A life of significance...
+
+720
+01:04:34,244 --> 01:04:39,244
+of conscience.
+
+721
+01:04:40,750 --> 01:04:45,750
+- Are you going to kill me?
+- I would certainly like to.
+
+722
+01:04:46,089 --> 01:04:48,590
+I know you would.
+
+723
+01:04:48,591 --> 01:04:52,511
+I can feel your anger.
+
+724
+01:04:52,512 --> 01:04:55,305
+It gives you focus...
+
+725
+01:04:55,306 --> 01:05:00,306
+makes you stronger.
+
+726
+01:05:03,940 --> 01:05:06,400
+I'm going to turn you over
+to thejedi Council.
+
+727
+01:05:06,401 --> 01:05:08,152
+Of course. You should.
+
+728
+01:05:08,153 --> 01:05:11,280
+But you're not sure
+of their intentions, are you?
+
+729
+01:05:11,281 --> 01:05:14,950
+I will quickly discover the truth of all this.
+
+730
+01:05:14,951 --> 01:05:17,453
+You have great wisdom, Anakin.
+
+731
+01:05:17,454 --> 01:05:21,206
+Know the power of the dark side.
+
+732
+01:05:21,207 --> 01:05:26,207
+Power to save Padmé.
+
+733
+01:07:32,505 --> 01:07:37,505
+So uncivilized.
+
+734
+01:07:41,180 --> 01:07:43,307
+Master Windu, I must talk to you.
+
+735
+01:07:43,308 --> 01:07:47,227
+Skywalker, we just received word that
+Obi-Wan has destroyed General Grievous.
+
+736
+01:07:47,228 --> 01:07:49,229
+We're on our way to make sure...
+
+737
+01:07:49,230 --> 01:07:51,607
+the chancellor returns
+emergency power back to the senate.
+
+738
+01:07:51,608 --> 01:07:55,360
+He won't give up his power.
+I'vejust learned a terrible truth.
+
+739
+01:07:55,361 --> 01:07:58,947
+I think Chancellor Palpatine is a Sith lord.
+
+740
+01:07:58,948 --> 01:08:00,616
+A Sith lord?
+
+741
+01:08:00,617 --> 01:08:03,577
+Yes. The one we've been looking for.
+
+742
+01:08:03,578 --> 01:08:07,623
+- How do you know this?
+- He knows the ways of the Force.
+
+743
+01:08:07,624 --> 01:08:09,875
+He's been trained to use the dark side.
+
+744
+01:08:09,876 --> 01:08:14,129
+- Are you sure?
+- Absolutely.
+
+745
+01:08:14,130 --> 01:08:16,465
+Then our worst fears have been realized.
+
+746
+01:08:16,466 --> 01:08:20,052
+We must move quickly
+if thejedi order is to survive.
+
+747
+01:08:20,053 --> 01:08:22,596
+Master, the chancellor is very powerful.
+
+748
+01:08:22,597 --> 01:08:24,973
+You'll need my help
+if you're going to arrest him.
+
+749
+01:08:24,974 --> 01:08:28,018
+For you own good, stay out of this affair.
+
+750
+01:08:28,019 --> 01:08:30,896
+I sense a great deal of confusion
+in you, young Skywalker.
+
+751
+01:08:30,897 --> 01:08:33,148
+There is much fear that clouds yourjudgment.
+
+752
+01:08:33,149 --> 01:08:37,319
+- I must go, Master.
+- No.
+
+753
+01:08:37,320 --> 01:08:41,406
+If what you've told me is true,
+you will have gained my trust.
+
+754
+01:08:41,407 --> 01:08:45,160
+But for now, remain here.
+
+755
+01:08:45,161 --> 01:08:50,161
+Wait in the council chambers until we return.
+
+756
+01:08:50,249 --> 01:08:55,249
+Yes, Master.
+
+757
+01:09:21,614 --> 01:09:23,991
+<i>You do know, don't you...</i>
+
+758
+01:09:23,992 --> 01:09:26,451
+<i>if the jedi destroy me...</i>
+
+759
+01:09:26,452 --> 01:09:31,452
+<i>any chance of saving her will be lost.</i>
+
+760
+01:10:59,337 --> 01:11:04,337
+Master Windu. I take it General Grievous
+has been destroyed then.
+
+761
+01:11:04,717 --> 01:11:07,260
+I must say you're here sooner than expected.
+
+762
+01:11:07,261 --> 01:11:10,972
+In the name of
+the Galactic Senate of the Republic...
+
+763
+01:11:10,973 --> 01:11:13,016
+you're under arrest, Chancellor.
+
+764
+01:11:13,017 --> 01:11:15,727
+Are you threatening me, Masterjedi?
+
+765
+01:11:15,728 --> 01:11:17,771
+The senate will decide your fate.
+
+766
+01:11:17,772 --> 01:11:22,772
+- I am the senate.
+- Not yet.
+
+767
+01:11:26,948 --> 01:11:31,948
+It's treason then.
+
+768
+01:13:08,257 --> 01:13:12,928
+You are under arrest, my lord.
+
+769
+01:13:12,929 --> 01:13:17,349
+Anakin, I told you it would
+come to this. I was right.
+
+770
+01:13:17,350 --> 01:13:19,601
+Thejedi are taking over.
+
+771
+01:13:19,602 --> 01:13:22,187
+The oppression of the Sith will never return.
+
+772
+01:13:22,188 --> 01:13:27,188
+You have lost.
+
+773
+01:13:28,277 --> 01:13:32,948
+You will die!
+
+774
+01:13:32,949 --> 01:13:34,950
+He's a traitor!
+
+775
+01:13:34,951 --> 01:13:39,951
+He is the traitor!
+
+776
+01:13:40,289 --> 01:13:45,289
+I have the power to save the one you love.
+
+777
+01:13:45,461 --> 01:13:48,463
+You must choose.
+
+778
+01:13:48,464 --> 01:13:52,133
+Don't listen to him, Anakin!
+
+779
+01:13:52,134 --> 01:13:57,134
+Don't let him kill me.
+
+780
+01:13:57,890 --> 01:14:01,935
+I can't hold it any longer.
+
+781
+01:14:01,936 --> 01:14:04,145
+I can't. I'm weak.
+
+782
+01:14:04,146 --> 01:14:06,231
+I'm too weak.
+
+783
+01:14:06,232 --> 01:14:07,774
+Anakin!
+
+784
+01:14:07,775 --> 01:14:12,775
+Help me. Help me!
+
+785
+01:14:14,740 --> 01:14:17,033
+I can't hold on any longer.
+
+786
+01:14:17,034 --> 01:14:20,745
+I am going to end this once and for all.
+
+787
+01:14:20,746 --> 01:14:22,330
+You can't.
+
+788
+01:14:22,331 --> 01:14:25,333
+He must stand trial.
+
+789
+01:14:25,334 --> 01:14:27,877
+He has control of the senate and the courts.
+
+790
+01:14:27,878 --> 01:14:30,213
+He's too dangerous to be left alive.
+
+791
+01:14:30,214 --> 01:14:32,590
+I'm too weak.
+
+792
+01:14:32,591 --> 01:14:36,303
+- Don't kill me. Please.
+- It's not thejedi way.
+
+793
+01:14:36,304 --> 01:14:40,932
+He must live.
+
+794
+01:14:40,933 --> 01:14:44,519
+- Please don't.
+- I need him.
+
+795
+01:14:44,520 --> 01:14:49,520
+Please don't!
+
+796
+01:14:53,029 --> 01:14:58,029
+Power!
+
+797
+01:15:01,203 --> 01:15:06,203
+Unlimited power!
+
+798
+01:15:17,011 --> 01:15:22,011
+What have I done?
+
+799
+01:15:27,355 --> 01:15:32,355
+You're fulfilling your destiny, Anakin.
+
+800
+01:15:32,485 --> 01:15:35,320
+Become my apprentice.
+
+801
+01:15:35,321 --> 01:15:40,321
+Learn to use the dark side of the Force.
+
+802
+01:15:43,412 --> 01:15:48,412
+I will do whatever you ask.
+
+803
+01:15:48,584 --> 01:15:52,712
+Good.
+
+804
+01:15:52,713 --> 01:15:57,258
+Just help me save Padmé's life.
+
+805
+01:15:57,259 --> 01:16:02,259
+I can't live without her.
+
+806
+01:16:02,807 --> 01:16:07,807
+To cheat death is a power
+only one has achieved...
+
+807
+01:16:08,312 --> 01:16:11,398
+but if we work together...
+
+808
+01:16:11,399 --> 01:16:16,399
+I know we can discover the secret.
+
+809
+01:16:16,862 --> 01:16:20,573
+I pledge myself...
+
+810
+01:16:20,574 --> 01:16:23,701
+to your teachings.
+
+811
+01:16:23,702 --> 01:16:26,621
+Good.
+
+812
+01:16:26,622 --> 01:16:31,622
+Good.
+
+813
+01:16:36,674 --> 01:16:41,219
+The Force is strong with you.
+
+814
+01:16:41,220 --> 01:16:46,220
+A powerful Sith you will become.
+
+815
+01:16:46,892 --> 01:16:51,271
+Henceforth you shall be known as...
+
+816
+01:16:51,272 --> 01:16:56,272
+Darth... Vader.
+
+817
+01:17:00,114 --> 01:17:05,114
+Thank you, my master.
+
+818
+01:17:05,327 --> 01:17:10,327
+Rise.
+
+819
+01:17:21,260 --> 01:17:26,260
+Because the council did not trust you,
+my young apprentice...
+
+820
+01:17:26,974 --> 01:17:31,974
+I believe you are the onlyjedi
+with no knowledge of this plot.
+
+821
+01:17:33,063 --> 01:17:35,899
+When thejedi learn
+what has transpired here...
+
+822
+01:17:35,900 --> 01:17:40,695
+they will kill us,
+along with all the senators.
+
+823
+01:17:40,696 --> 01:17:42,780
+I agree.
+
+824
+01:17:42,781 --> 01:17:46,784
+The council's next move
+will be against the senate.
+
+825
+01:17:46,785 --> 01:17:49,579
+Every single Jedi...
+
+826
+01:17:49,580 --> 01:17:52,957
+including your friend Obi-Wan Kenobi...
+
+827
+01:17:52,958 --> 01:17:57,545
+is now an enemy of the Republic.
+
+828
+01:17:57,546 --> 01:18:00,298
+I understand, Master.
+
+829
+01:18:00,299 --> 01:18:02,342
+We must move quickly.
+
+830
+01:18:02,343 --> 01:18:04,385
+Thejedi are relentless.
+
+831
+01:18:04,386 --> 01:18:09,386
+If they are not all destroyed,
+it will be civil war without end.
+
+832
+01:18:11,894 --> 01:18:16,773
+First I want you to go to thejedi temple.
+
+833
+01:18:16,774 --> 01:18:19,943
+We will catch them off-balance.
+
+834
+01:18:19,944 --> 01:18:24,030
+Do what must be done, Lord Vader.
+
+835
+01:18:24,031 --> 01:18:28,117
+Do not hesitate. Show no mercy.
+
+836
+01:18:28,118 --> 01:18:32,997
+Only then will you be strong enough
+with the dark side...
+
+837
+01:18:32,998 --> 01:18:36,125
+to save Padmé.
+
+838
+01:18:36,126 --> 01:18:40,088
+What about the otherjedi
+spread across the galaxy?
+
+839
+01:18:40,089 --> 01:18:45,089
+Their betrayal will be dealt with.
+
+840
+01:18:45,094 --> 01:18:48,471
+After you have killed
+all thejedi in the temple...
+
+841
+01:18:48,472 --> 01:18:51,266
+go to the Mustafar system.
+
+842
+01:18:51,267 --> 01:18:54,644
+Wipe out Viceroy Gunray...
+
+843
+01:18:54,645 --> 01:18:58,189
+and the other separatist leaders.
+
+844
+01:18:58,190 --> 01:19:03,190
+Once more the Sith will rule the galaxy!
+
+845
+01:19:05,322 --> 01:19:07,156
+And...
+
+846
+01:19:07,157 --> 01:19:12,157
+we shall have... peace.
+
+847
+01:19:55,456 --> 01:19:58,374
+Sergeant, over here!
+
+848
+01:19:58,375 --> 01:20:03,087
+Hurry! All of them!
+
+849
+01:20:03,088 --> 01:20:05,089
+<i>All Red units, let's move it!</i>
+
+850
+01:20:05,090 --> 01:20:10,090
+<i>Come on. Let's go!</i>
+
+851
+01:20:20,856 --> 01:20:22,982
+Commander, contact your troops.
+
+852
+01:20:22,983 --> 01:20:25,026
+Tell them to move to the higher levels.
+
+853
+01:20:25,027 --> 01:20:27,028
+Very good, sir.
+
+854
+01:20:27,029 --> 01:20:29,989
+By the way, I think you'll be needing this.
+
+855
+01:20:29,990 --> 01:20:33,660
+Thank you, Cody. Let's get a move on.
+We've got a battle to win.
+
+856
+01:20:33,661 --> 01:20:38,661
+Yes, sir.
+
+857
+01:20:41,627 --> 01:20:43,795
+<i>Commander Cody...</i>
+
+858
+01:20:43,796 --> 01:20:47,215
+the time has come.
+
+859
+01:20:47,216 --> 01:20:52,216
+Execute order 66.
+
+860
+01:20:52,221 --> 01:20:57,221
+Yes, my lord.
+
+861
+01:20:58,018 --> 01:21:03,018
+Blast him!
+
+862
+01:21:26,338 --> 01:21:31,338
+Come on!
+
+863
+01:22:18,140 --> 01:22:22,435
+<i>Execute order 66.</i>
+
+864
+01:22:22,436 --> 01:22:27,436
+It will be done, my lord.
+
+865
+01:23:06,897 --> 01:23:11,897
+It will be done, my lord.
+
+866
+01:23:45,727 --> 01:23:48,229
+Master Skywalker, there are too many of them.
+
+867
+01:23:48,230 --> 01:23:53,230
+What are we going to do?
+
+868
+01:24:00,701 --> 01:24:04,954
+The chancellor's office indicated Master
+Anakin returned to thejedi temple.
+
+869
+01:24:04,955 --> 01:24:09,955
+Don't worry. I'm sure he'll be all right.
+
+870
+01:24:37,279 --> 01:24:40,448
+- What's going on here?
+- There's been a rebellion, sir.
+
+871
+01:24:40,449 --> 01:24:43,826
+Don't worry. The situation is under control.
+
+872
+01:24:43,827 --> 01:24:48,122
+I'm sorry, sir. it's time for you to leave.
+
+873
+01:24:48,123 --> 01:24:53,123
+And so it is.
+
+874
+01:24:54,212 --> 01:24:59,212
+Get him!
+
+875
+01:25:13,231 --> 01:25:18,231
+Don't worry about him. Let him go.
+
+876
+01:25:42,010 --> 01:25:45,054
+All these Wookiees are dead. Move to the east.
+
+877
+01:25:45,055 --> 01:25:50,055
+Yes, sir.
+
+878
+01:25:54,648 --> 01:25:56,649
+Good-bye, Ta rfful.
+
+879
+01:25:56,650 --> 01:26:01,195
+Good-bye, Chewbacca.
+
+880
+01:26:01,196 --> 01:26:06,196
+Miss you I will.
+
+881
+01:26:40,360 --> 01:26:42,820
+Hopefully we'll be able to
+intercept a fewjedi...
+
+882
+01:26:42,821 --> 01:26:47,821
+before they walk into this catastrophe.
+
+883
+01:26:50,871 --> 01:26:52,913
+Did you find Kenobi?
+
+884
+01:26:52,914 --> 01:26:55,875
+Sir, no one could have survived that fall.
+
+885
+01:26:55,876 --> 01:26:58,335
+Start loading your men on the ships.
+
+886
+01:26:58,336 --> 01:27:03,336
+Move it.
+
+887
+01:27:33,121 --> 01:27:35,247
+Emergency code 913.
+
+888
+01:27:35,248 --> 01:27:39,877
+I have no contact on any frequency.
+
+889
+01:27:39,878 --> 01:27:41,420
+<i>Master Kenobi.</i>
+
+890
+01:27:41,421 --> 01:27:43,506
+<i>- Repeat.
+- Master Kenobi.</i>
+
+891
+01:27:43,507 --> 01:27:48,427
+Senator Organa. My clone troops
+turned on me. I need help.
+
+892
+01:27:48,428 --> 01:27:50,429
+<i>We have just rescued Master Yoda.</i>
+
+893
+01:27:50,430 --> 01:27:52,640
+<i>It appears this ambush
+has happened everywhere.</i>
+
+894
+01:27:52,641 --> 01:27:57,641
+<i>We're sending you our coordinates.</i>
+
+895
+01:28:02,526 --> 01:28:04,527
+Hush! Not so loud.
+
+896
+01:28:04,528 --> 01:28:07,655
+Are you all right? I heard there was
+an attack on thejedi temple.
+
+897
+01:28:07,656 --> 01:28:10,157
+- You could see the smoke from here.
+- I'm fine.
+
+898
+01:28:10,158 --> 01:28:12,159
+I came to see if you and the baby are safe.
+
+899
+01:28:12,160 --> 01:28:14,662
+What's happening?
+
+900
+01:28:14,663 --> 01:28:17,498
+Thejedi have tried to overthrow the Republic.
+
+901
+01:28:17,499 --> 01:28:19,500
+I can't believe that.
+
+902
+01:28:19,501 --> 01:28:24,501
+I saw Master Windu attempt to
+assassinate the chancellor myself.
+
+903
+01:28:25,841 --> 01:28:30,841
+What are you gonna do?
+
+904
+01:28:36,351 --> 01:28:40,521
+I will not betray the Republic.
+
+905
+01:28:40,522 --> 01:28:43,607
+My loyalties lie with the chancellor...
+
+906
+01:28:43,608 --> 01:28:47,111
+and with the senate and with you.
+
+907
+01:28:47,112 --> 01:28:51,073
+- What about Obi-Wan?
+- I don't know.
+
+908
+01:28:51,074 --> 01:28:53,284
+Manyjedi have been killed.
+
+909
+01:28:53,285 --> 01:28:57,204
+We can only hope that
+he's remained loyal to the chancellor.
+
+910
+01:28:57,205 --> 01:29:02,205
+Anakin, I'm afraid.
+
+911
+01:29:02,544 --> 01:29:04,712
+Have faith, my love.
+
+912
+01:29:04,713 --> 01:29:07,798
+Everything will soon be set right.
+
+913
+01:29:07,799 --> 01:29:11,010
+The chancellor has given me
+a very important mission.
+
+914
+01:29:11,011 --> 01:29:14,597
+The separatists have gathered
+on the Mustafar system.
+
+915
+01:29:14,598 --> 01:29:18,559
+I'm going there to end this war.
+Wait for me until I return.
+
+916
+01:29:18,560 --> 01:29:23,560
+Things will be different. I promise.
+
+917
+01:29:26,776 --> 01:29:31,776
+Please, wait for me.
+
+918
+01:29:32,824 --> 01:29:37,786
+Well, he is under a lot of stress, R2.
+
+919
+01:29:37,787 --> 01:29:42,787
+Take care, my little friend.
+
+920
+01:29:44,002 --> 01:29:47,796
+Oh, my lady, is there anything I might do?
+
+921
+01:29:47,797 --> 01:29:52,718
+No, thank you, 3P0.
+
+922
+01:29:52,719 --> 01:29:57,719
+I feel so helpless.
+
+923
+01:30:18,703 --> 01:30:21,455
+How many otherjedi have managed to survive?
+
+924
+01:30:21,456 --> 01:30:24,875
+Heard from no one have we.
+
+925
+01:30:24,876 --> 01:30:28,087
+I saw thousands of troops
+attack thejedi temple.
+
+926
+01:30:28,088 --> 01:30:30,089
+That's why I went looking for Yoda.
+
+927
+01:30:30,090 --> 01:30:32,633
+Have we had any contact from the temple?
+
+928
+01:30:32,634 --> 01:30:36,470
+Received a coded retreat message we have.
+
+929
+01:30:36,471 --> 01:30:39,848
+It requests all Jedi to return to the temple.
+
+930
+01:30:39,849 --> 01:30:43,394
+- It says the war is over.
+- Then we must go back.
+
+931
+01:30:43,395 --> 01:30:48,065
+If there are any stragglers, they will
+fall into the trap and be killed.
+
+932
+01:30:48,066 --> 01:30:51,944
+Suggest dismantling the coded signal, do you?
+
+933
+01:30:51,945 --> 01:30:55,781
+Yes, Master. There is too much at stake.
+
+934
+01:30:55,782 --> 01:30:57,449
+I agree.
+
+935
+01:30:57,450 --> 01:31:02,450
+And a little more knowledge
+might light our way.
+
+936
+01:31:22,017 --> 01:31:25,561
+The plan has gone
+as you had promised, my lord.
+
+937
+01:31:25,562 --> 01:31:28,439
+<i>You have done well, Viceroy.</i>
+
+938
+01:31:28,440 --> 01:31:33,440
+<i>When my new apprentice Darth Vader arrives...</i>
+
+939
+01:31:34,362 --> 01:31:39,362
+<i>he will take care of you.</i>
+
+940
+01:31:50,253 --> 01:31:52,755
+We're receiving a message from
+the chancellor's office, sir.
+
+941
+01:31:52,756 --> 01:31:56,425
+- Send it through.
+- Yes, sir.
+
+942
+01:31:56,426 --> 01:32:01,221
+<i>Senator Organa, the supreme chancellor
+requests your presence...</i>
+
+943
+01:32:01,222 --> 01:32:03,307
+<i>at a special session of Congress.</i>
+
+944
+01:32:03,308 --> 01:32:08,308
+- I will <i>be</i> there.
+- <i>He '// be expecting you.</i>
+
+945
+01:32:09,856 --> 01:32:13,233
+- Could be a trap.
+- I don't think so.
+
+946
+01:32:13,234 --> 01:32:16,445
+The chancellor will not be able to
+control the thousands of star systems...
+
+947
+01:32:16,446 --> 01:32:19,198
+without keeping the senate intact.
+
+948
+01:32:19,199 --> 01:32:22,618
+If a special session of Congress there is...
+
+949
+01:32:22,619 --> 01:32:27,619
+easier for us to enter
+thejedi temple it will be.
+
+950
+01:33:04,411 --> 01:33:09,411
+R2, stay with the ship.
+
+951
+01:33:31,813 --> 01:33:36,813
+Welcome, Lord Vader. We've been expecting you.
+
+952
+01:34:06,681 --> 01:34:11,310
+And thejedi rebellion has been foiled.
+
+953
+01:34:11,311 --> 01:34:12,478
+What's happened?
+
+954
+01:34:12,479 --> 01:34:17,107
+The chancellor's been elaborating on a
+plot by thejedi to overthrow the senate.
+
+955
+01:34:17,108 --> 01:34:22,108
+The remainingjedi will be
+hunted down and defeated.
+
+956
+01:34:38,379 --> 01:34:41,965
+Not even the younglings survived.
+
+957
+01:34:41,966 --> 01:34:46,966
+Killed not by clones this Padawan.
+
+958
+01:34:48,348 --> 01:34:53,348
+By a lightsaber he was.
+
+959
+01:34:57,857 --> 01:34:59,525
+Who?
+
+960
+01:34:59,526 --> 01:35:04,526
+Who could have done this?
+
+961
+01:35:12,121 --> 01:35:15,415
+The attempt on my life...
+
+962
+01:35:15,416 --> 01:35:20,416
+has left me scarred and deformed.
+
+963
+01:35:21,256 --> 01:35:24,258
+But I assure you.
+
+964
+01:35:24,259 --> 01:35:29,259
+My resolve has never been stronger!
+
+965
+01:35:33,184 --> 01:35:38,184
+Stop!
+
+966
+01:35:47,365 --> 01:35:52,365
+In order to ensure the security
+and continuing stability...
+
+967
+01:35:53,121 --> 01:35:57,124
+the Republic will be reorganized...
+
+968
+01:35:57,125 --> 01:36:02,125
+into the first Galactic Empire!
+
+969
+01:36:03,506 --> 01:36:08,506
+For a safe and secure society.
+
+970
+01:36:18,771 --> 01:36:21,565
+So this is how liberty dies.
+
+971
+01:36:21,566 --> 01:36:26,566
+With thunderous applause.
+
+972
+01:36:26,696 --> 01:36:28,989
+The war is over.
+
+973
+01:36:28,990 --> 01:36:33,990
+Lord Sidious promised us peace. We only want-
+
+974
+01:36:41,252 --> 01:36:46,048
+I have recalibrated the code,
+warning all survivingjedi to stay away.
+
+975
+01:36:46,049 --> 01:36:48,592
+For the clones...
+
+976
+01:36:48,593 --> 01:36:53,593
+to discover the recalibration
+a long time it will take.
+
+977
+01:37:05,026 --> 01:37:08,028
+Wait. Master.
+
+978
+01:37:08,029 --> 01:37:13,029
+There is something I must know.
+
+979
+01:37:16,496 --> 01:37:21,041
+If into the security recordings you go,
+only pain will you find.
+
+980
+01:37:21,042 --> 01:37:26,042
+I must know the truth, Master.
+
+981
+01:37:31,386 --> 01:37:33,428
+It can't be.
+
+982
+01:37:33,429 --> 01:37:35,430
+It can't be.
+
+983
+01:37:35,431 --> 01:37:39,601
+<i>You have clone well, my new apprentice.</i>
+
+984
+01:37:39,602 --> 01:37:42,729
+<i>Now, Lord Vader...</i>
+
+985
+01:37:42,730 --> 01:37:46,358
+<i>go and bring peace to the Empire.</i>
+
+986
+01:37:46,359 --> 01:37:49,277
+I can't watch any more.
+
+987
+01:37:49,278 --> 01:37:54,278
+Destroy the Sith we must.
+
+988
+01:37:54,992 --> 01:37:57,202
+Send me to kill the emperor.
+
+989
+01:37:57,203 --> 01:37:59,579
+I will not kill Anakin.
+
+990
+01:37:59,580 --> 01:38:04,418
+To fight this Lord Sidious,
+strong enough you are not.
+
+991
+01:38:04,419 --> 01:38:08,422
+He is like my brother. I cannot do it.
+
+992
+01:38:08,423 --> 01:38:13,423
+Twisted by the dark side
+young Skywalker has become.
+
+993
+01:38:13,594 --> 01:38:17,097
+The boy you trained, gone he is.
+
+994
+01:38:17,098 --> 01:38:20,100
+Consumed by Darth Vader.
+
+995
+01:38:20,101 --> 01:38:23,228
+I do not know where the emperor has sent him.
+
+996
+01:38:23,229 --> 01:38:26,773
+I don't know where to look.
+
+997
+01:38:26,774 --> 01:38:31,774
+Use your feelings, Obi-Wan,
+and find him you will.
+
+998
+01:38:40,997 --> 01:38:43,707
+When was the last time you saw him?
+
+999
+01:38:43,708 --> 01:38:48,708
+- Yesterday.
+- And do you know where he is now?
+
+1000
+01:38:50,256 --> 01:38:54,301
+Padmé, I need your help.
+
+1001
+01:38:54,302 --> 01:38:57,721
+- He is in grave danger.
+- From the Sith?
+
+1002
+01:38:57,722 --> 01:39:02,722
+From himself.
+
+1003
+01:39:03,644 --> 01:39:06,146
+Anakin has turned to the dark side.
+
+1004
+01:39:06,147 --> 01:39:11,147
+You're wrong. How could you even say that?
+
+1005
+01:39:12,403 --> 01:39:17,403
+I have seen a security hologram... of him...
+
+1006
+01:39:19,035 --> 01:39:20,869
+killing younglings.
+
+1007
+01:39:20,870 --> 01:39:24,664
+Not Anakin. He couldn't.
+
+1008
+01:39:24,665 --> 01:39:27,834
+He was deceived by a lie. We all were.
+
+1009
+01:39:27,835 --> 01:39:32,835
+It appears that the chancellor
+is behind everything, including the war.
+
+1010
+01:39:33,424 --> 01:39:36,259
+Palpatine is the Sith lord
+we've been looking for.
+
+1011
+01:39:36,260 --> 01:39:41,260
+After the death of Count Dooku,
+Anakin became his new apprentice.
+
+1012
+01:39:46,562 --> 01:39:49,940
+I don't believe you.
+
+1013
+01:39:49,941 --> 01:39:54,941
+I can%.
+
+1014
+01:39:59,617 --> 01:40:03,995
+I must find him.
+
+1015
+01:40:03,996 --> 01:40:08,996
+You're going to kill him, aren't you?
+
+1016
+01:40:10,044 --> 01:40:15,044
+He has become a very great threat.
+
+1017
+01:40:15,132 --> 01:40:20,132
+I can%.
+
+1018
+01:40:30,314 --> 01:40:35,314
+Anakin is the father, isn't he?
+
+1019
+01:40:36,654 --> 01:40:41,654
+I'm so sorry.
+
+1020
+01:41:24,452 --> 01:41:26,786
+- Milady, let me come with you.
+- There's no danger.
+
+1021
+01:41:26,787 --> 01:41:29,080
+The fighting's over. And this is personal.
+
+1022
+01:41:29,081 --> 01:41:31,583
+As you wish, milady, but I strongly disagree.
+
+1023
+01:41:31,584 --> 01:41:35,337
+<i>I'll</i> be all right, Captain.
+This is something I must do myself.
+
+1024
+01:41:35,338 --> 01:41:39,966
+Besides, 3P0 will look after me.
+
+1025
+01:41:39,967 --> 01:41:44,967
+Oh, dear.
+
+1026
+01:41:53,397 --> 01:41:58,397
+Do you know? I think I'm beginning to
+get the hang of this flying business.
+
+1027
+01:42:25,388 --> 01:42:28,932
+<i>The separatists have been
+taken care of, my master.</i>
+
+1028
+01:42:28,933 --> 01:42:33,228
+It is finished then.
+
+1029
+01:42:33,229 --> 01:42:38,229
+You have restored peace
+and justice to the galaxy.
+
+1030
+01:42:39,819 --> 01:42:44,819
+<i>Send a message to the ships
+of the Trade Federation.</i>
+
+1031
+01:42:44,865 --> 01:42:49,865
+<i>All droid units must shut down immediately.</i>
+
+1032
+01:42:50,204 --> 01:42:55,204
+Very good, my lord.
+
+1033
+01:43:51,432 --> 01:43:56,352
+I saw your ship.
+
+1034
+01:43:56,353 --> 01:44:00,815
+- What are you doing out here?
+- I was so worried about you.
+
+1035
+01:44:00,816 --> 01:44:03,777
+Obi-Wan told me terrible things.
+
+1036
+01:44:03,778 --> 01:44:06,029
+What things?
+
+1037
+01:44:06,030 --> 01:44:09,074
+He said you've turned to the dark side.
+
+1038
+01:44:09,075 --> 01:44:14,075
+That you... killed younglings.
+
+1039
+01:44:15,247 --> 01:44:18,041
+Obi-Wan is trying to turn you against me.
+
+1040
+01:44:18,042 --> 01:44:20,627
+He cares about us.
+
+1041
+01:44:20,628 --> 01:44:21,920
+U5?
+
+1042
+01:44:21,921 --> 01:44:24,756
+He knows.
+
+1043
+01:44:24,757 --> 01:44:29,757
+He wants to help you.
+
+1044
+01:44:30,471 --> 01:44:33,848
+Anakin, all I want is your love.
+
+1045
+01:44:33,849 --> 01:44:36,309
+Love won't save you, Padmé.
+
+1046
+01:44:36,310 --> 01:44:39,646
+- Only my new powers can do that.
+- At what cost?
+
+1047
+01:44:39,647 --> 01:44:42,148
+You're a good person. Don't do this.
+
+1048
+01:44:42,149 --> 01:44:44,984
+I won't lose you the way I lost my mother.
+
+1049
+01:44:44,985 --> 01:44:49,322
+I am becoming more powerful
+than anyjedi has ever dreamed of.
+
+1050
+01:44:49,323 --> 01:44:53,451
+And I'm doing it for you. To protect you.
+
+1051
+01:44:53,452 --> 01:44:56,162
+Come away with me.
+
+1052
+01:44:56,163 --> 01:44:58,289
+Help me raise our child.
+
+1053
+01:44:58,290 --> 01:45:01,209
+Leave everything else behind
+while we still can.
+
+1054
+01:45:01,210 --> 01:45:05,964
+Don't you see?
+We don't have to run away anymore.
+
+1055
+01:45:05,965 --> 01:45:09,509
+I have brought peace to the Republic.
+
+1056
+01:45:09,510 --> 01:45:11,553
+I am more powerful than the chancellor.
+
+1057
+01:45:11,554 --> 01:45:15,723
+I can overthrow him.
+
+1058
+01:45:15,724 --> 01:45:18,893
+And together, you and I can rule the galaxy...
+
+1059
+01:45:18,894 --> 01:45:23,894
+make things the way we want them to be.
+
+1060
+01:45:27,653 --> 01:45:31,156
+I don't believe what I'm hearing.
+
+1061
+01:45:31,157 --> 01:45:36,157
+Obi-Wan was right. You've changed.
+
+1062
+01:45:36,662 --> 01:45:40,373
+I don't want to hear any more about Obi-Wan.
+
+1063
+01:45:40,374 --> 01:45:45,374
+Thejedi turned against me.
+Don't you turn against me.
+
+1064
+01:45:45,504 --> 01:45:50,504
+I don't know you anymore.
+
+1065
+01:45:51,218 --> 01:45:53,887
+You're breaking my heart.
+
+1066
+01:45:53,888 --> 01:45:57,849
+You're going down a path I can't follow.
+
+1067
+01:45:57,850 --> 01:46:00,518
+Because of Obi-Wan?
+
+1068
+01:46:00,519 --> 01:46:02,729
+Because of what you've done.
+
+1069
+01:46:02,730 --> 01:46:05,899
+What you plan to do.
+
+1070
+01:46:05,900 --> 01:46:08,651
+Stop. Stop now. Come back.
+
+1071
+01:46:08,652 --> 01:46:13,652
+- I love you.
+- Liar!
+
+1072
+01:46:16,410 --> 01:46:21,410
+You're with him!
+You brought him here to kill me.
+
+1073
+01:46:21,624 --> 01:46:26,419
+Let her go, Anakin.
+
+1074
+01:46:26,420 --> 01:46:31,420
+Let her go.
+
+1075
+01:46:38,599 --> 01:46:42,227
+You turned her against me!
+
+1076
+01:46:42,228 --> 01:46:47,228
+You have done that yourself.
+
+1077
+01:46:49,151 --> 01:46:51,444
+You will not take her from me!
+
+1078
+01:46:51,445 --> 01:46:56,445
+Your anger and your lust for power
+have already done that.
+
+1079
+01:46:59,245 --> 01:47:04,245
+You have allowed this dark lord
+to twist your mind...
+
+1080
+01:47:05,167 --> 01:47:08,461
+until now you have become
+the very thing you swore to destroy.
+
+1081
+01:47:08,462 --> 01:47:10,463
+Don't lecture me, Obi-Wan.
+
+1082
+01:47:10,464 --> 01:47:14,092
+I see through the lies of thejedi.
+
+1083
+01:47:14,093 --> 01:47:18,304
+I do not fear the dark side as you do.
+
+1084
+01:47:18,305 --> 01:47:20,348
+I have brought peace...
+
+1085
+01:47:20,349 --> 01:47:25,349
+freedom,justice and security
+to my new empire.
+
+1086
+01:47:26,105 --> 01:47:29,065
+Your new empire?
+
+1087
+01:47:29,066 --> 01:47:32,485
+Don't make me kill you.
+
+1088
+01:47:32,486 --> 01:47:37,486
+Anakin, my allegiance is to
+the Republic, to democracy!
+
+1089
+01:47:37,866 --> 01:47:40,743
+If you're not with <i>me...</i>
+
+1090
+01:47:40,744 --> 01:47:44,664
+then you're my enemy.
+
+1091
+01:47:44,665 --> 01:47:49,665
+Only a Sith deals in absolutes.
+
+1092
+01:47:49,670 --> 01:47:52,255
+I will do what I must.
+
+1093
+01:47:52,256 --> 01:47:57,256
+You will try.
+
+1094
+01:48:26,415 --> 01:48:30,543
+I hear a new apprentice you have, Emperor.
+
+1095
+01:48:30,544 --> 01:48:35,131
+Or should I call you Darth Sidious?
+
+1096
+01:48:35,132 --> 01:48:37,842
+Master Yoda.
+
+1097
+01:48:37,843 --> 01:48:40,386
+You survived.
+
+1098
+01:48:40,387 --> 01:48:42,472
+Surprised?
+
+1099
+01:48:42,473 --> 01:48:47,185
+Your arrogance blinds you, Master Yoda.
+
+1100
+01:48:47,186 --> 01:48:49,354
+Now you will experience...
+
+1101
+01:48:49,355 --> 01:48:54,355
+the full power of the dark side.
+
+1102
+01:49:35,776 --> 01:49:40,776
+I have waited a long time for this moment...
+
+1103
+01:49:41,573 --> 01:49:46,573
+my little green friend.
+
+1104
+01:49:56,964 --> 01:50:00,550
+At last thejedi are no more.
+
+1105
+01:50:00,551 --> 01:50:05,551
+Not if anything to say about it I have.
+
+1106
+01:50:10,102 --> 01:50:14,313
+At an end your rule is.
+
+1107
+01:50:14,314 --> 01:50:19,314
+And not short enough it was.
+
+1108
+01:50:21,530 --> 01:50:24,991
+If so powerful you are...
+
+1109
+01:50:24,992 --> 01:50:27,410
+why leave?
+
+1110
+01:50:27,411 --> 01:50:30,079
+You will not stop me.
+
+1111
+01:50:30,080 --> 01:50:34,792
+Darth Vader will become
+more powerful than either of us.
+
+1112
+01:50:34,793 --> 01:50:39,793
+Faith in your new apprentice misplaced may be.
+
+1113
+01:50:40,466 --> 01:50:45,466
+As is your faith
+in the dark side of the Force.
+
+1114
+01:55:12,154 --> 01:55:14,989
+Hurry. Careful timing we will need.
+
+1115
+01:55:14,990 --> 01:55:17,908
+Activate your homing beacon when you're ready.
+
+1116
+01:55:17,909 --> 01:55:20,369
+There's no sign of his body, sir.
+
+1117
+01:55:20,370 --> 01:55:24,123
+- Then he is not dead.
+- Double your search.
+
+1118
+01:55:24,124 --> 01:55:27,460
+Yes, sir. Right away, sir.
+
+1119
+01:55:27,461 --> 01:55:31,672
+Tell Captain Kagi to prepare my shuttle
+for immediate takeoff.
+
+1120
+01:55:31,673 --> 01:55:36,673
+- Yes, Master.
+- I sense Lord Vader is in danger.
+
+1121
+01:56:45,580 --> 01:56:49,458
+Into exile I must go.
+
+1122
+01:56:49,459 --> 01:56:54,459
+Failed I have.
+
+1123
+01:58:30,977 --> 01:58:33,020
+I have failed you, Anakin.
+
+1124
+01:58:33,021 --> 01:58:35,022
+I have failed you.
+
+1125
+01:58:35,023 --> 01:58:38,025
+I should have known thejedi
+were plotting to take over.
+
+1126
+01:58:38,026 --> 01:58:40,945
+Anakin, Chancellor Palpatine is evil!
+
+1127
+01:58:40,946 --> 01:58:43,697
+From my point of view, thejedi are evil.
+
+1128
+01:58:43,698 --> 01:58:48,698
+Then you are lost!
+
+1129
+01:58:57,170 --> 01:59:02,170
+This is the end for you, my master.
+
+1130
+01:59:24,197 --> 01:59:29,197
+It's over, Anakin. I have the high ground.
+
+1131
+01:59:29,995 --> 01:59:33,455
+You underestimate my power.
+
+1132
+01:59:33,456 --> 01:59:38,456
+Don't try it.
+
+1133
+01:59:58,064 --> 02:00:01,525
+You were the chosen one!
+
+1134
+02:00:01,526 --> 02:00:06,526
+It was said that you would destroy
+the Sith, not join them!
+
+1135
+02:00:07,365 --> 02:00:12,365
+Bring balance to the Force,
+not leave it in darkness!
+
+1136
+02:00:22,839 --> 02:00:27,839
+I hate you!
+
+1137
+02:00:32,599 --> 02:00:36,935
+You were my brother, Anakin.
+
+1138
+02:00:36,936 --> 02:00:41,936
+I loved you.
+
+1139
+02:01:20,313 --> 02:01:23,357
+Master Kenobi. We have Miss Padmé on board.
+
+1140
+02:01:23,358 --> 02:01:25,567
+Yes. Please, please hurry.
+
+1141
+02:01:25,568 --> 02:01:30,568
+We should leave this dreadful place.
+
+1142
+02:01:43,962 --> 02:01:48,962
+Is Anakin all right?
+
+1143
+02:02:54,741 --> 02:02:57,659
+Your Majesty, this way.
+
+1144
+02:02:57,660 --> 02:02:59,661
+There he is.
+
+1145
+02:02:59,662 --> 02:03:04,662
+He's still alive.
+
+1146
+02:03:04,834 --> 02:03:07,169
+Get a medical capsule immediately.
+
+1147
+02:03:07,170 --> 02:03:12,170
+Yes, sir. Right away.
+
+1148
+02:03:45,124 --> 02:03:50,124
+Excuse me, Master Yoda.
+
+1149
+02:03:52,966 --> 02:03:57,966
+Obi-Wan Kenobi has made contact.
+
+1150
+02:04:11,985 --> 02:04:16,985
+We'll take her to the medical center. Quickly.
+
+1151
+02:04:44,726 --> 02:04:47,060
+Medically, she's completely healthy.
+
+1152
+02:04:47,061 --> 02:04:51,648
+For reasons we can't explain,
+we are losing her.
+
+1153
+02:04:51,649 --> 02:04:54,484
+- She's dying?
+- We don't know why.
+
+1154
+02:04:54,485 --> 02:04:56,653
+She has lost the will to live.
+
+1155
+02:04:56,654 --> 02:04:59,906
+We need to operate quickly
+if we are to save the babies.
+
+1156
+02:04:59,907 --> 02:05:01,616
+Babies?
+
+1157
+02:05:01,617 --> 02:05:06,617
+She's carrying twins.
+
+1158
+02:05:45,661 --> 02:05:50,661
+Luke.
+
+1159
+02:05:55,338 --> 02:06:00,338
+Oh, Luke.
+
+1160
+02:06:19,278 --> 02:06:24,278
+- It's a girl.
+- Leia.
+
+1161
+02:07:11,080 --> 02:07:15,667
+There's good in him.
+
+1162
+02:07:15,668 --> 02:07:17,752
+I know.
+
+1163
+02:07:17,753 --> 02:07:22,753
+I know there's... still-
+
+1164
+02:07:56,584 --> 02:07:59,377
+Lord Vader.
+
+1165
+02:07:59,378 --> 02:08:04,378
+Can you hear me?
+
+1166
+02:08:04,550 --> 02:08:09,137
+Yes, Master.
+
+1167
+02:08:09,138 --> 02:08:12,849
+Where is Padmé?
+
+1168
+02:08:12,850 --> 02:08:15,852
+Is she safe?
+
+1169
+02:08:15,853 --> 02:08:19,564
+Is she all right?
+
+1170
+02:08:19,565 --> 02:08:24,565
+It seems, in your anger, you killed her.
+
+1171
+02:08:25,154 --> 02:08:28,156
+I? I couldn't have.
+
+1172
+02:08:28,157 --> 02:08:33,157
+She was alive. I felt it!
+
+1173
+02:08:50,930 --> 02:08:55,930
+No!
+
+1174
+02:09:05,111 --> 02:09:10,111
+Hidden, safe the children must be kept.
+
+1175
+02:09:10,533 --> 02:09:15,533
+We must take them somewhere where
+the Sith will not sense their presence.
+
+1176
+02:09:16,622 --> 02:09:19,457
+Split up they should be.
+
+1177
+02:09:19,458 --> 02:09:22,961
+My wife and I will take the girl.
+
+1178
+02:09:22,962 --> 02:09:25,964
+We've always talked of adopting a baby girl.
+
+1179
+02:09:25,965 --> 02:09:29,134
+She will be loved with us.
+
+1180
+02:09:29,135 --> 02:09:32,053
+And what of the boy?
+
+1181
+02:09:32,054 --> 02:09:37,054
+To Tatooine. To his family send him.
+
+1182
+02:09:37,393 --> 02:09:42,393
+I will take the child and watch over him.
+
+1183
+02:09:45,276 --> 02:09:50,276
+Until the time is right, disappear we will.
+
+1184
+02:09:50,781 --> 02:09:55,781
+Master Kenobi, wait a moment.
+
+1185
+02:09:55,911 --> 02:10:00,911
+In your solitude on Tatooine,
+training I have for you.
+
+1186
+02:10:02,460 --> 02:10:03,877
+Training?
+
+1187
+02:10:03,878 --> 02:10:08,878
+An old friend has learned
+the path to immortality.
+
+1188
+02:10:10,509 --> 02:10:13,720
+One who has returned from
+the netherworld of the Force.
+
+1189
+02:10:13,721 --> 02:10:16,848
+Your old master.
+
+1190
+02:10:16,849 --> 02:10:20,852
+QUFGon?
+
+1191
+02:10:20,853 --> 02:10:25,607
+How to commune with him I will teach you.
+
+1192
+02:10:25,608 --> 02:10:27,859
+- Captain Antilles.
+- Yes, Your Highness?
+
+1193
+02:10:27,860 --> 02:10:29,861
+I'm placing these droids in your care.
+
+1194
+02:10:29,862 --> 02:10:31,863
+Treat them well. Clean them up.
+
+1195
+02:10:31,864 --> 02:10:33,865
+Have the protocol droid's mind wiped.
+
+1196
+02:10:33,866 --> 02:10:37,202
+What?
+
+1197
+02:10:37,203 --> 02:10:42,203
+Oh, no!
+
+1198
+02:10:42,228 --> 02:20:42,228
+<font color="#ff8000">Star_Wars_Episode_III_Revenge_Of_The_Sith</font>
+<font color="#ffd9b3">Re-Sync & Edit
+Tharindu_Lakmal_Jeewantha</font>
+

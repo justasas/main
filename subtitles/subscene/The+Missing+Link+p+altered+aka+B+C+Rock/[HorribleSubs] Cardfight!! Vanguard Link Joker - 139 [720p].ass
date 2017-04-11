@@ -1,0 +1,368 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:11.97,0:00:13.86,Main Dialog,Spoken,0000,0000,0000,,We finally made it!
+Dialogue: 0,0:00:17.57,0:00:19.44,Main Dialog,Spoken,0000,0000,0000,,Nice scenery!
+Dialogue: 0,0:00:21.65,0:00:27.00,Main Dialog,Spoken,0000,0000,0000,,Welcome to our school's traditional \Ncamping trip, everyone.
+Dialogue: 0,0:00:27.62,0:00:31.29,Main Dialog,Spoken,0000,0000,0000,,Get away from the hustle and bustle \Nof the city, connect with nature,
+Dialogue: 0,0:00:31.29,0:00:37.41,Main Dialog,Spoken,0000,0000,0000,,take a good, sincere look at yourself, and \Nraise your global spirit and sensitivity.
+Dialogue: 0,0:02:09.10,0:02:12.94,Main Dialog,Spoken,0000,0000,0000,,The program for the first \Nday is global orienteering.
+Dialogue: 0,0:02:13.67,0:02:18.97,Main Dialog,Spoken,0000,0000,0000,,After dinner, there will be a lecture on \Nglobalism presented by the Student Council,
+Dialogue: 0,0:02:18.97,0:02:21.20,Main Dialog,Spoken,0000,0000,0000,,so please show up for that.
+Dialogue: 0,0:02:31.05,0:02:35.39,Main Dialog,Spoken,0000,0000,0000,,So? What the heck is this \Nglobal orienteering, anyway?
+Dialogue: 0,0:02:35.39,0:02:41.47,Main Dialog,Spoken,0000,0000,0000,,Orienteering is a kind of competitive sport \Nin which you go through a course, as instructed,
+Dialogue: 0,0:02:41.47,0:02:45.64,Main Dialog,Spoken,0000,0000,0000,,by using a map and compass \Nwithin a set time limit.
+Dialogue: 0,0:02:45.64,0:02:49.98,Main Dialog,Spoken,0000,0000,0000,,Apparently, it first started in Sweden \Naround the middle of the 19th century.
+Dialogue: 0,0:02:50.34,0:02:52.57,Main Dialog,Spoken,0000,0000,0000,,Very impressive, Shingo. You \Nsure know a lot about it!
+Dialogue: 0,0:02:53.75,0:02:55.85,Main Dialog,Spoken,0000,0000,0000,,Never mind the trivia.
+Dialogue: 0,0:02:55.85,0:02:58.53,Main Dialog,Spoken,0000,0000,0000,,The point is, it's like real, \Nthree-dimensional Parcheesi, right?
+Dialogue: 0,0:02:58.53,0:02:59.86,Main Dialog,Spoken,0000,0000,0000,,Crude as usual...
+Dialogue: 0,0:03:02.63,0:03:04.99,Main Dialog,Spoken,0000,0000,0000,,All of the instructions \Nare written in English.
+Dialogue: 0,0:03:05.33,0:03:08.06,Main Dialog,Spoken,0000,0000,0000,,So that's how it's "global"!
+Dialogue: 0,0:03:08.06,0:03:09.25,Main Dialog,Spoken,0000,0000,0000,,You think?
+Dialogue: 0,0:03:09.78,0:03:13.00,Main Dialog,Spoken,0000,0000,0000,,Um... The first point is...
+Dialogue: 0,0:03:14.15,0:03:16.77,Main Dialog,Spoken,0000,0000,0000,,It looks like they're having \Ntrouble from the get-go.
+Dialogue: 0,0:03:16.77,0:03:19.93,Main Dialog,Spoken,0000,0000,0000,,For people who spend all of \Ntheir time playing card games,
+Dialogue: 0,0:03:19.93,0:03:25.00,Main Dialog,Spoken,0000,0000,0000,,our school's tradition of global \Norienteering will be very difficult.
+Dialogue: 0,0:03:25.00,0:03:27.37,Main Dialog,Spoken,0000,0000,0000,,They won't be able to \Nreturn in time for dinner,
+Dialogue: 0,0:03:27.37,0:03:29.81,Main Dialog,Spoken,0000,0000,0000,,will become laughingstocks in \Nfront of the entire student body,
+Dialogue: 0,0:03:29.81,0:03:33.30,Main Dialog,Spoken,0000,0000,0000,,and the reputation of the \NCardfight Club will plummet.
+Dialogue: 0,0:03:33.30,0:03:34.27,Main Dialog,Spoken,0000,0000,0000,,I can't wait.
+Dialogue: 0,0:03:35.07,0:03:36.52,Main Dialog,Spoken,0000,0000,0000,,Ah! Kourin!
+Dialogue: 0,0:03:36.85,0:03:38.40,Main Dialog,Spoken,0000,0000,0000,,You're late, Kourin.
+Dialogue: 0,0:03:39.51,0:03:40.65,Main Dialog,Spoken,0000,0000,0000,,Sorry.
+Dialogue: 0,0:03:41.16,0:03:42.78,Main Dialog,Spoken,0000,0000,0000,,That makes all of us.
+Dialogue: 0,0:03:42.78,0:03:43.90,Main Dialog,Spoken,0000,0000,0000,,All right, let's go!
+Dialogue: 0,0:03:43.90,0:03:45.28,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:45.28,0:03:50.29,Signs,Sign,0000,0000,0000,,Camping Trip
+Dialogue: 0,0:04:02.58,0:04:03.90,Main Dialog,Spoken,0000,0000,0000,,This path!
+Dialogue: 0,0:04:03.90,0:04:06.30,Main Dialog,Spoken,0000,0000,0000,,You're so cool, Sendou!
+Dialogue: 0,0:04:14.58,0:04:19.25,Main Dialog,Spoken,0000,0000,0000,,The next point is 45 degrees \Nnorthwest of here: a banyan tree.
+Dialogue: 0,0:04:20.12,0:04:22.36,Main Dialog,Spoken,0000,0000,0000,,This isn't Okinawa, is it?
+Dialogue: 0,0:04:24.82,0:04:26.09,Main Dialog,Spoken,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:26.09,0:04:31.44,Main Dialog,Spoken,0000,0000,0000,,Instead of going down this path, it seems \Nlike taking this fork would be faster...
+Dialogue: 0,0:04:31.44,0:04:33.71,Main Dialog,Spoken,0000,0000,0000,,But how much time did the previous ones take?
+Dialogue: 0,0:04:34.27,0:04:37.13,Main Dialog,Spoken,0000,0000,0000,,This path took us about 15 minutes.
+Dialogue: 0,0:04:37.13,0:04:40.09,Main Dialog,Spoken,0000,0000,0000,,And this one was about 25 minutes.
+Dialogue: 0,0:04:40.43,0:04:42.38,Main Dialog,Spoken,0000,0000,0000,,Just as I'd expect from you, Misaki!
+Dialogue: 0,0:04:42.38,0:04:46.77,Main Dialog,Spoken,0000,0000,0000,,So if we do take the fork, \Nwe'll get there faster, right?
+Dialogue: 0,0:04:46.77,0:04:48.31,Main Dialog,Spoken,0000,0000,0000,,We've got just a little ways to go.
+Dialogue: 0,0:04:48.31,0:04:49.66,Main Dialog,Spoken,0000,0000,0000,,Let's do our best, everyone!
+Dialogue: 0,0:04:49.66,0:04:50.98,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:04:53.79,0:04:56.98,Main Dialog,Spoken,0000,0000,0000,,It looks like a spirit might live in this tree...
+Dialogue: 0,0:04:58.09,0:05:00.48,Main Dialog,Spoken,0000,0000,0000,,All right! This makes our second one!
+Dialogue: 0,0:05:01.04,0:05:02.26,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:05:03.63,0:05:07.26,Main Dialog,Spoken,0000,0000,0000,,Aichi makes a great leader, huh?
+Dialogue: 0,0:05:07.26,0:05:09.70,Main Dialog,Spoken,0000,0000,0000,,I always thought he was a quiet kid.
+Dialogue: 0,0:05:09.70,0:05:13.05,Main Dialog,Spoken,0000,0000,0000,,Yeah. He used to be like that,
+Dialogue: 0,0:05:13.05,0:05:16.75,Main Dialog,Spoken,0000,0000,0000,,but after participating in \Nvarious tournaments, he's grown.
+Dialogue: 0,0:05:19.11,0:05:23.41,Main Dialog,Spoken,0000,0000,0000,,Huh. Both of you seem to \Nbe keeping an eye on Aichi.
+Dialogue: 0,0:05:23.41,0:05:26.06,Main Dialog,Spoken,0000,0000,0000,,That's because we're on the same team, \Nso we hang around each other.
+Dialogue: 0,0:05:34.83,0:05:37.27,Main Dialog,Spoken,0000,0000,0000,,The next checkpoint is a lake.
+Dialogue: 0,0:05:37.67,0:05:40.27,Main Dialog,Spoken,0000,0000,0000,,Aren't you tired, Granny Glasses?
+Dialogue: 0,0:05:40.83,0:05:44.76,Main Dialog,Spoken,0000,0000,0000,,I've gained stamina thanks to a would-be \Ndelinquent, so this is a piece of cake.
+Dialogue: 0,0:05:44.76,0:05:46.57,Main Dialog,Spoken,0000,0000,0000,,No idea what you mean.
+Dialogue: 0,0:05:47.73,0:05:50.03,Main Dialog,Spoken,0000,0000,0000,,A lake!
+Dialogue: 0,0:05:50.50,0:05:52.11,Main Dialog,Spoken,0000,0000,0000,,It's so big!
+Dialogue: 0,0:05:52.11,0:05:54.16,Main Dialog,Spoken,0000,0000,0000,,It's picturesque!
+Dialogue: 0,0:05:55.30,0:05:58.01,Main Dialog,Spoken,0000,0000,0000,,The breeze coming off the \Nlake feels good, doesn't it?
+Dialogue: 0,0:05:58.01,0:05:59.00,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:05:59.37,0:06:02.14,Main Dialog,Spoken,0000,0000,0000,,Say, this could be that lake!
+Dialogue: 0,0:06:02.14,0:06:04.99,Main Dialog,Spoken,0000,0000,0000,,The one with the legendary tree.
+Dialogue: 0,0:06:04.99,0:06:06.30,Main Dialog,Spoken,0000,0000,0000,,Legendary tree?
+Dialogue: 0,0:06:06.93,0:06:09.99,Main Dialog,Spoken,0000,0000,0000,,It's a story passed down to each \Ngeneration at Miyaji Academy.
+Dialogue: 0,0:06:09.99,0:06:13.92,Main Dialog,Spoken,0000,0000,0000,,During the second night of the \Ncamping trip, during the campfire...
+Dialogue: 0,0:06:13.92,0:06:18.68,Main Dialog,Spoken,0000,0000,0000,,If two people will share their feelings for each \Nother under a large tree next to the lake,
+Dialogue: 0,0:06:18.68,0:06:20.73,Main Dialog,Spoken,0000,0000,0000,,they'll be together forever!
+Dialogue: 0,0:06:21.76,0:06:23.91,Main Dialog,Spoken,0000,0000,0000,,You don't know the legend?!
+Dialogue: 0,0:06:23.91,0:06:25.98,Main Dialog,Spoken,0000,0000,0000,,This is the first I've heard of it.
+Dialogue: 0,0:06:27.11,0:06:29.61,Main Dialog,Spoken,0000,0000,0000,,I wonder if it'll happen to \Nsomeone this time...
+Dialogue: 0,0:06:29.61,0:06:31.37,Main Dialog,Spoken,0000,0000,0000,,My heart's pounding already!
+Dialogue: 0,0:06:32.16,0:06:37.87,Main Dialog,Spoken,0000,0000,0000,,Legendary tree... \NTogether forever... Two people...
+Dialogue: 0,0:06:44.36,0:06:46.34,Main Dialog,Spoken,0000,0000,0000,,Next up is a cave.
+Dialogue: 0,0:06:46.94,0:06:48.96,Main Dialog,Spoken,0000,0000,0000,,Then we get to go spelunking!
+Dialogue: 0,0:06:50.57,0:06:52.89,Main Dialog,Spoken,0000,0000,0000,,They're like a curtain of icicles!
+Dialogue: 0,0:06:54.57,0:06:56.85,Main Dialog,Spoken,0000,0000,0000,,It's totally beautiful!
+Dialogue: 0,0:06:56.85,0:06:57.89,Main Dialog,Spoken,0000,0000,0000,,Incredible!
+Dialogue: 0,0:06:58.16,0:07:00.16,Main Dialog,Spoken,0000,0000,0000,,Romantic!
+Dialogue: 0,0:07:00.16,0:07:01.70,Main Dialog,Spoken,0000,0000,0000,,A little creepy...
+Dialogue: 0,0:07:01.70,0:07:03.27,Main Dialog,Spoken,0000,0000,0000,,Beautiful!
+Dialogue: 0,0:07:03.91,0:07:06.32,Main Dialog,Spoken,0000,0000,0000,,Um... the checkpoint is...
+Dialogue: 0,0:07:09.36,0:07:11.14,Main Dialog,Spoken,0000,0000,0000,,...I guess deeper inside?
+Dialogue: 0,0:07:12.45,0:07:14.28,Main Dialog,Spoken,0000,0000,0000,,Aichi. Um...
+Dialogue: 0,0:07:14.57,0:07:17.29,Main Dialog,Spoken,0000,0000,0000,,Aichi! I found the checkpoint!
+Dialogue: 0,0:07:17.67,0:07:19.54,Main Dialog,Spoken,0000,0000,0000,,Come quickly!
+Dialogue: 0,0:07:19.78,0:07:20.77,Main Dialog,Spoken,0000,0000,0000,,Ah...
+Dialogue: 0,0:07:20.77,0:07:21.51,Main Dialog,Spoken,0000,0000,0000,,Okay!
+Dialogue: 0,0:07:38.55,0:07:39.43,Main Dialog,Spoken,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:07:40.08,0:07:42.13,Main Dialog,Spoken,0000,0000,0000,,Don't you feel well?
+Dialogue: 0,0:07:42.13,0:07:44.56,Main Dialog,Spoken,0000,0000,0000,,No... I'm fine...
+Dialogue: 0,0:07:45.08,0:07:47.17,Main Dialog,Spoken,0000,0000,0000,,Well, don't overexert yourself.
+Dialogue: 0,0:07:47.17,0:07:50.07,Main Dialog,Spoken,0000,0000,0000,,It seems like you've been really \Nbusy with work these days.
+Dialogue: 0,0:07:51.43,0:07:52.55,Main Dialog,Spoken,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:55.25,0:07:56.83,Main Dialog,Spoken,0000,0000,0000,,That makes all of them!
+Dialogue: 0,0:07:58.88,0:08:02.60,Main Dialog,Spoken,0000,0000,0000,,"Trust in luck, but perform \Ngreat deeds yourself!"
+Dialogue: 0,0:08:02.60,0:08:06.46,Main Dialog,Spoken,0000,0000,0000,,No, no. Here, it's more natural to say, \N"Where there's a will, there's a way."
+Dialogue: 0,0:08:06.87,0:08:10.71,Main Dialog,Spoken,0000,0000,0000,,All right, all right. Proverbs aside, \Nthe sun is setting!
+Dialogue: 0,0:08:11.18,0:08:12.96,Main Dialog,Spoken,0000,0000,0000,,Let's hurry up and get back to the lodge.
+Dialogue: 0,0:08:12.96,0:08:14.44,Main Dialog,Spoken,0000,0000,0000,,Seconded!
+Dialogue: 0,0:08:14.86,0:08:16.48,Signs,Sign,0000,0000,0000,,Miyaji Academy
+Dialogue: 0,0:08:22.31,0:08:25.48,Main Dialog,Spoken,0000,0000,0000,,We're back! Please put the final seal here.
+Dialogue: 0,0:08:26.34,0:08:29.98,Main Dialog,Spoken,0000,0000,0000,,You did very well. Your group \Nis the first to finish.
+Dialogue: 0,0:08:31.38,0:08:32.24,Main Dialog,Spoken,0000,0000,0000,,First?!
+Dialogue: 0,0:08:32.70,0:08:34.74,Main Dialog,Spoken,0000,0000,0000,,Shoot! Another group beat us to it!
+Dialogue: 0,0:08:35.12,0:08:36.85,Main Dialog,Spoken,0000,0000,0000,,Hey! It's the Cardfight Club!
+Dialogue: 0,0:08:36.85,0:08:37.80,Main Dialog,Spoken,0000,0000,0000,,How?
+Dialogue: 0,0:08:37.80,0:08:38.99,Main Dialog,Spoken,0000,0000,0000,,I don't believe it!
+Dialogue: 0,0:08:39.38,0:08:40.73,Main Dialog,Spoken,0000,0000,0000,,They're pretty good...
+Dialogue: 0,0:08:40.73,0:08:41.50,Main Dialog,Spoken,0000,0000,0000,,Really!
+Dialogue: 0,0:08:41.87,0:08:43.00,Main Dialog,Spoken,0000,0000,0000,,I'm seeing them in a new light.
+Dialogue: 0,0:08:43.48,0:08:45.22,Main Dialog,Spoken,0000,0000,0000,,We're first...
+Dialogue: 0,0:08:45.22,0:08:48.10,Main Dialog,Spoken,0000,0000,0000,,It's all thanks to your leadership, Sendou.
+Dialogue: 0,0:08:48.10,0:08:49.87,Main Dialog,Spoken,0000,0000,0000,,You should show a little more pride!
+Dialogue: 0,0:08:49.87,0:08:54.33,Main Dialog,Spoken,0000,0000,0000,,Yay! We're the masters of Miyaji at last!
+Dialogue: 0,0:08:54.33,0:08:57.39,Main Dialog,Spoken,0000,0000,0000,,Cut it out, you delinquent! \NThat's {\i1}too{\i0} arrogant!
+Dialogue: 0,0:08:57.80,0:08:59.32,Main Dialog,Spoken,0000,0000,0000,,Good for you, Aichi.
+Dialogue: 0,0:08:59.32,0:09:00.39,Main Dialog,Spoken,0000,0000,0000,,Th-Thanks...
+Dialogue: 0,0:09:00.73,0:09:04.30,Main Dialog,Spoken,0000,0000,0000,,Hey, Suwabe! What's the meaning of this?
+Dialogue: 0,0:09:04.30,0:09:07.27,Main Dialog,Spoken,0000,0000,0000,,The Cardfight Club's reputation is improving!
+Dialogue: 0,0:09:07.27,0:09:13.53,Main Dialog,Spoken,0000,0000,0000,,B-But after dinner tonight, you're \Ngiving a lecture on globalism.
+Dialogue: 0,0:09:14.16,0:09:18.03,Main Dialog,Spoken,0000,0000,0000,,I think you'll be able to win back the \Nhearts and minds of the students then.
+Dialogue: 0,0:09:18.33,0:09:20.08,Main Dialog,Spoken,0000,0000,0000,,That's right.
+Dialogue: 0,0:09:20.08,0:09:22.27,Main Dialog,Spoken,0000,0000,0000,,"The people are your castle. \NThe people are your stone walls."
+Dialogue: 0,0:09:22.27,0:09:26.56,Main Dialog,Spoken,0000,0000,0000,,I'll show them that the people obey \Nthe authority of the Student Council!
+Dialogue: 0,0:09:26.56,0:09:28.14,Main Dialog,Spoken,0000,0000,0000,,I don't think the expression \Nreally means that.
+Dialogue: 0,0:09:28.14,0:09:28.79,Main Dialog,Spoken,0000,0000,0000,,Excuse me?
+Dialogue: 0,0:09:28.79,0:09:30.09,Main Dialog,Spoken,0000,0000,0000,,Nothing, nothing!
+Dialogue: 0,0:09:34.51,0:09:37.78,Main Dialog,Spoken,0000,0000,0000,,I think the students should be finishing \Nup their supper around now, don't you?
+Dialogue: 0,0:09:37.78,0:09:38.80,Main Dialog,Spoken,0000,0000,0000,,Yes, indeed.
+Dialogue: 0,0:09:39.21,0:09:47.56,Main Dialog,Spoken,0000,0000,0000,,We'll give the students at our academy an \Nenlightening lecture on just what globalism is.
+Dialogue: 0,0:09:48.12,0:09:52.82,Main Dialog,Spoken,0000,0000,0000,,We passed out a lot of flyers too, \Nso I'm sure it'll be a full house.
+Dialogue: 0,0:09:52.82,0:09:56.07,Signs,Sign,0000,0000,0000,,High School Championship\NNational Tournament Finals
+Dialogue: 0,0:09:56.74,0:10:00.23,Main Dialog,Spoken,0000,0000,0000,,At last, {\i1}our{\i0} main event is gonna start!
+Dialogue: 0,0:10:00.23,0:10:02.33,Main Dialog,Spoken,0000,0000,0000,,I can't wait to see what kinda \Nmatches they're gonna be!
+Dialogue: 0,0:10:02.72,0:10:05.65,Main Dialog,Spoken,0000,0000,0000,,Still, to think we're the \Nonly ones who understand
+Dialogue: 0,0:10:05.65,0:10:08.75,Main Dialog,Spoken,0000,0000,0000,,how wonderful the High \NSchool Championship is...
+Dialogue: 0,0:10:08.75,0:10:12.66,Main Dialog,Spoken,0000,0000,0000,,It's as if everybody else at our school \Nis possessed by the ghost of wastefulness.
+Dialogue: 0,0:10:13.38,0:10:14.84,Main Dialog,Spoken,0000,0000,0000,,That's not true!
+Dialogue: 0,0:10:15.77,0:10:17.72,Main Dialog,Spoken,0000,0000,0000,,W-What do you want?!
+Dialogue: 0,0:10:18.32,0:10:20.37,Main Dialog,Spoken,0000,0000,0000,,We're here to watch it too.
+Dialogue: 0,0:10:20.37,0:10:22.05,Main Dialog,Spoken,0000,0000,0000,,It's an important event.
+Dialogue: 0,0:10:22.05,0:10:23.41,Main Dialog,Spoken,0000,0000,0000,,Let's Vanguard!
+Dialogue: 0,0:10:23.41,0:10:24.22,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:10:24.71,0:10:27.26,Main Dialog,Spoken,0000,0000,0000,,We're watching the match from right here.
+Dialogue: 0,0:10:27.26,0:10:28.82,Main Dialog,Spoken,0000,0000,0000,,Formation: Sit down!
+Dialogue: 0,0:10:28.82,0:10:29.99,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:10:32.83,0:10:33.64,Main Dialog,Spoken,0000,0000,0000,,What the...
+Dialogue: 0,0:10:33.64,0:10:36.66,Main Dialog,Spoken,0000,0000,0000,,Great! I'm happy to be able \Nto watch it with a big group.
+Dialogue: 0,0:10:36.66,0:10:38.45,Main Dialog,Spoken,0000,0000,0000,,We're crashing this party too.
+Dialogue: 0,0:10:44.84,0:10:47.20,Main Dialog,Spoken,0000,0000,0000,,S-Sure. You're welcome here.
+Dialogue: 0,0:10:47.20,0:10:48.53,Main Dialog,Spoken,0000,0000,0000,,Um...
+Dialogue: 0,0:10:48.53,0:10:50.44,Main Dialog,Spoken,0000,0000,0000,,Who are those guys?
+Dialogue: 0,0:10:50.44,0:10:51.21,Main Dialog,Spoken,0000,0000,0000,,No clue...
+Dialogue: 0,0:10:52.11,0:10:55.21,Main Dialog,Spoken,0000,0000,0000,,Come to think of it, what happened to Kourin?
+Dialogue: 0,0:10:55.51,0:11:00.75,Main Dialog,Spoken,0000,0000,0000,,It's startin'! Aw, man... I'm all nervous!
+Dialogue: 0,0:11:02.79,0:11:05.58,Main Dialog,Spoken,0000,0000,0000,,Now, all that's left of the finals
+Dialogue: 0,0:11:05.58,0:11:08.10,Main Dialog,Spoken,0000,0000,0000,,is the last match between \Nthe leaders of both teams!
+Dialogue: 0,0:11:08.75,0:11:09.78,Main Dialog,Spoken,0000,0000,0000,,It's starting!
+Dialogue: 0,0:11:09.78,0:11:13.63,Main Dialog,Spoken,0000,0000,0000,,Ren Suzugamori versus Leon Souryu! \NWe couldn't miss this showdown!
+Dialogue: 0,0:11:13.63,0:11:14.86,Main Dialog,Spoken,0000,0000,0000,,Totally right!
+Dialogue: 0,0:11:14.86,0:11:17.86,Signs,Sign,0000,0000,0000,,VF High School Championship Stadium
+Dialogue: 0,0:11:18.35,0:11:21.52,Main Dialog,Spoken,0000,0000,0000,,Right now, both schools \Nhave one win and one loss.
+Dialogue: 0,0:11:21.52,0:11:24.47,Main Dialog,Spoken,0000,0000,0000,,Which one will win in the end?!
+Dialogue: 0,0:11:24.47,0:11:25.99,Main Dialog,Spoken,0000,0000,0000,,It's s-{\i1}o{\i0} exciting!
+Dialogue: 0,0:11:26.98,0:11:29.25,Main Dialog,Spoken,0000,0000,0000,,Good luck, Leon!
+Dialogue: 0,0:11:30.29,0:11:31.44,Main Dialog,Spoken,0000,0000,0000,,Ren!
+Dialogue: 0,0:11:31.44,0:11:33.79,Main Dialog,Spoken,0000,0000,0000,,Win for Fukuhara High School!
+Dialogue: 0,0:11:34.04,0:11:40.91,Main Dialog,Spoken,0000,0000,0000,,Fukuhara! Fukuhara!
+Dialogue: 0,0:11:43.30,0:11:46.93,Main Dialog,Spoken,0000,0000,0000,,I vow to make this a fight worthy \Nof the final match.
+Dialogue: 0,0:11:47.35,0:11:49.27,Main Dialog,Spoken,0000,0000,0000,,I'm looking forward to it.
+Dialogue: 0,0:11:50.27,0:11:53.36,Main Dialog,Spoken,0000,0000,0000,,Stand up the Vanguard!
+Dialogue: 0,0:11:50.27,0:11:53.36,Main Dialog,Spoken,0000,0000,0000,,Stand up, my Vanguard!
+Dialogue: 0,0:12:05.77,0:12:08.95,Main Dialog,Spoken,0000,0000,0000,,The competition in this match is fierce, \Nwith the damage currently at 5 to 5!
+Dialogue: 0,0:12:09.56,0:12:15.46,Main Dialog,Spoken,0000,0000,0000,,Souryu just completed his fourth attack \Nby using the power of Aqua Force.
+Dialogue: 0,0:12:16.08,0:12:19.21,Main Dialog,Spoken,0000,0000,0000,,Tetra-drive Dragon's skill activates!
+Dialogue: 0,0:12:20.21,0:12:23.47,Main Dialog,Spoken,0000,0000,0000,,Rise again, my Vanguard!
+Dialogue: 0,0:12:23.47,0:12:26.25,Main Dialog,Spoken,0000,0000,0000,,Oh my! Souryu!
+Dialogue: 0,0:12:26.25,0:12:31.22,Main Dialog,Spoken,0000,0000,0000,,The stand ability granted to him by the \NLimit Break from earlier is activated!
+Dialogue: 0,0:12:31.61,0:12:33.73,Main Dialog,Spoken,0000,0000,0000,,Experience it again.
+Dialogue: 0,0:12:33.73,0:12:35.85,Main Dialog,Spoken,0000,0000,0000,,Tetra-drive Dragon attacks!
+Dialogue: 0,0:12:37.33,0:12:39.36,Main Dialog,Spoken,0000,0000,0000,,Attack number five!
+Dialogue: 0,0:12:39.76,0:12:43.84,Main Dialog,Spoken,0000,0000,0000,,And because of Trans-core \NDragon's break ride skill,
+Dialogue: 0,0:12:43.84,0:12:48.62,Main Dialog,Spoken,0000,0000,0000,,Suzugamori is forced to choose whether \Nto discard a card from his hand or not.
+Dialogue: 0,0:12:49.27,0:12:51.15,Main Dialog,Spoken,0000,0000,0000,,Trans-core Dragon...
+Dialogue: 0,0:12:51.59,0:12:55.60,Main Dialog,Spoken,0000,0000,0000,,That's the power that led \Nus to the correct path.
+Dialogue: 0,0:12:55.60,0:12:57.04,Main Dialog,Spoken,0000,0000,0000,,The real thing...
+Dialogue: 0,0:12:57.04,0:12:59.00,Main Dialog,Spoken,0000,0000,0000,,Yeah. The real thing.
+Dialogue: 0,0:12:59.37,0:13:04.02,Main Dialog,Spoken,0000,0000,0000,,Captain, what is the skill \Nof that dragon exactly?
+Dialogue: 0,0:13:04.02,0:13:05.50,Main Dialog,Spoken,0000,0000,0000,,If you don't discard a card from your hand,
+Dialogue: 0,0:13:05.50,0:13:10.89,Main Dialog,Spoken,0000,0000,0000,,Tetra-drive Dragon gets an extra critical, \Nand you can't even guard against it.
+Dialogue: 0,0:13:12.17,0:13:13.64,Main Dialog,Spoken,0000,0000,0000,,Strong!
+Dialogue: 0,0:13:14.91,0:13:15.64,Main Dialog,Spoken,0000,0000,0000,,What is this?
+Dialogue: 0,0:13:16.32,0:13:17.90,Main Dialog,Spoken,0000,0000,0000,,Is there a party?
+Dialogue: 0,0:13:18.33,0:13:20.21,Main Dialog,Spoken,0000,0000,0000,,What's this gathering about?
+Dialogue: 0,0:13:20.21,0:13:20.86,Main Dialog,Spoken,0000,0000,0000,,Baseball?
+Dialogue: 0,0:13:20.86,0:13:21.78,Main Dialog,Spoken,0000,0000,0000,,Gotta be soccer.
+Dialogue: 0,0:13:22.28,0:13:24.85,Main Dialog,Spoken,0000,0000,0000,,The Cardfight Club is watching it, so...
+Dialogue: 0,0:13:24.85,0:13:26.49,Main Dialog,Spoken,0000,0000,0000,,...a Vanguard match?
+Dialogue: 0,0:13:29.67,0:13:31.98,Main Dialog,Spoken,0000,0000,0000,,As expected of you, Leon Souryu.
+Dialogue: 0,0:13:32.51,0:13:37.25,Main Dialog,Spoken,0000,0000,0000,,But I can't afford to lose,\N so I discard one card.
+Dialogue: 0,0:13:37.58,0:13:38.21,Main Dialog,Spoken,0000,0000,0000,,And then...
+Dialogue: 0,0:13:39.81,0:13:41.25,Main Dialog,Spoken,0000,0000,0000,,...perfect guard.
+Dialogue: 0,0:13:45.35,0:13:47.18,Main Dialog,Spoken,0000,0000,0000,,Drive check.
+Dialogue: 0,0:13:53.04,0:13:54.99,Main Dialog,Spoken,0000,0000,0000,,Unbelievable!
+Dialogue: 0,0:13:54.99,0:14:00.52,Main Dialog,Spoken,0000,0000,0000,,Suzugamori has held out against Aqua Force's \Nmulti-stage attack, its fifth attack!
+Dialogue: 0,0:14:01.02,0:14:04.58,Main Dialog,Spoken,0000,0000,0000,,Awesome! That's the captain \Nof Fukuhara's team for ya!
+Dialogue: 0,0:14:04.58,0:14:07.22,Main Dialog,Spoken,0000,0000,0000,,It's a fight that's full of highlights!
+Dialogue: 0,0:14:07.22,0:14:07.78,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:14:09.37,0:14:11.90,Main Dialog,Spoken,0000,0000,0000,,My right arm aches.
+Dialogue: 0,0:14:11.90,0:14:13.99,Main Dialog,Spoken,0000,0000,0000,,It wants to borrow power from the wind!
+Dialogue: 0,0:14:17.38,0:14:18.43,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:14:19.70,0:14:22.32,Main Dialog,Spoken,0000,0000,0000,,I think it's about time for \Nme to move in for the kill.
+Dialogue: 0,0:14:22.32,0:14:23.55,Main Dialog,Spoken,0000,0000,0000,,Skill activated!
+Dialogue: 0,0:14:25.98,0:14:27.32,Main Dialog,Spoken,0000,0000,0000,,Superior call.
+Dialogue: 0,0:14:28.36,0:14:29.93,Main Dialog,Spoken,0000,0000,0000,,And then another skill activates!
+Dialogue: 0,0:14:33.28,0:14:34.93,Main Dialog,Spoken,0000,0000,0000,,Tartu attacks!
+Dialogue: 0,0:14:39.55,0:14:40.19,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:14:43.85,0:14:45.58,Main Dialog,Spoken,0000,0000,0000,,Raging Form Dragon!
+Dialogue: 0,0:14:48.99,0:14:49.82,Main Dialog,Spoken,0000,0000,0000,,Paschal!
+Dialogue: 0,0:14:50.76,0:14:52.07,Main Dialog,Spoken,0000,0000,0000,,Perfect guard!
+Dialogue: 0,0:14:55.11,0:14:56.58,Main Dialog,Spoken,0000,0000,0000,,Twin drive...
+Dialogue: 0,0:15:12.23,0:15:14.57,Main Dialog,Spoken,0000,0000,0000,,You've used up all the cards in your hand,
+Dialogue: 0,0:15:14.57,0:15:16.24,Main Dialog,Spoken,0000,0000,0000,,and have held out all this time.
+Dialogue: 0,0:15:16.86,0:15:17.95,Main Dialog,Spoken,0000,0000,0000,,As I'd expect.
+Dialogue: 0,0:15:18.36,0:15:21.48,Main Dialog,Spoken,0000,0000,0000,,But I'm going to win it here.
+Dialogue: 0,0:15:23.88,0:15:27.61,Main Dialog,Spoken,0000,0000,0000,,Raging Form Dragon's Limit Break!
+Dialogue: 0,0:15:28.35,0:15:32.83,Main Dialog,Spoken,0000,0000,0000,,On top of that, you should tremble \Nwith fear before its rage!
+Dialogue: 0,0:15:32.83,0:15:35.12,Main Dialog,Spoken,0000,0000,0000,,Superior persona ride!
+Dialogue: 0,0:15:45.57,0:15:48.09,Main Dialog,Spoken,0000,0000,0000,,Victory is ours.
+Dialogue: 0,0:15:51.60,0:15:52.94,Main Dialog,Spoken,0000,0000,0000,,Twin drive...
+Dialogue: 0,0:16:20.57,0:16:22.12,Main Dialog,Spoken,0000,0000,0000,,It's over!
+Dialogue: 0,0:16:22.55,0:16:27.78,Main Dialog,Spoken,0000,0000,0000,,Suzugamori defeated Souryu, and \NFukuhara High School is the winner!
+Dialogue: 0,0:16:27.78,0:16:31.38,Main Dialog,Spoken,0000,0000,0000,,It was a w-{\i1}o{\i0}-nderful fight! \NMy heart's still pounding!
+Dialogue: 0,0:16:42.77,0:16:46.80,Main Dialog,Spoken,0000,0000,0000,,That was the first fight in a long \Ntime that I've sincerely enjoyed.
+Dialogue: 0,0:16:46.80,0:16:47.65,Main Dialog,Spoken,0000,0000,0000,,I'm grateful.
+Dialogue: 0,0:16:48.33,0:16:50.15,Main Dialog,Spoken,0000,0000,0000,,It was fun for me too.
+Dialogue: 0,0:16:50.57,0:16:53.96,Main Dialog,Spoken,0000,0000,0000,,Recently, the wind has been acting strange.
+Dialogue: 0,0:16:54.47,0:16:57.16,Main Dialog,Spoken,0000,0000,0000,,You've noticed the abnormal \Nphenomenon too, then.
+Dialogue: 0,0:16:57.76,0:17:01.23,Main Dialog,Spoken,0000,0000,0000,,Yes. But I don't intend \Nto be swallowed up by it.
+Dialogue: 0,0:17:01.82,0:17:04.54,Main Dialog,Spoken,0000,0000,0000,,No matter what kind of storm \Ncomes from here on out...
+Dialogue: 0,0:17:05.14,0:17:07.42,Main Dialog,Spoken,0000,0000,0000,,Yes. We feel the same way.
+Dialogue: 0,0:17:08.60,0:17:10.90,Main Dialog,Spoken,0000,0000,0000,,What are those two talkin' about?
+Dialogue: 0,0:17:10.90,0:17:12.99,Main Dialog,Spoken,0000,0000,0000,,What if they're just shooting \Nthe breeze about the weather?
+Dialogue: 0,0:17:12.99,0:17:14.42,Main Dialog,Spoken,0000,0000,0000,,That ain't funny.
+Dialogue: 0,0:17:15.57,0:17:17.68,Main Dialog,Spoken,0000,0000,0000,,Oh! The awards ceremony!
+Dialogue: 0,0:17:18.14,0:17:22.04,Main Dialog,Spoken,0000,0000,0000,,High school Cardfighters! \NThank you for moving us!
+Dialogue: 0,0:17:22.04,0:17:24.93,Main Dialog,Spoken,0000,0000,0000,,And thank you for those magnificent battles!
+Dialogue: 0,0:17:26.51,0:17:29.03,Main Dialog,Spoken,0000,0000,0000,,That was an awesome match!
+Dialogue: 0,0:17:29.03,0:17:30.40,Main Dialog,Spoken,0000,0000,0000,,It really was.
+Dialogue: 0,0:17:30.89,0:17:32.65,Main Dialog,Spoken,0000,0000,0000,,That was so exciting!
+Dialogue: 0,0:17:32.65,0:17:34.78,Main Dialog,Spoken,0000,0000,0000,,I underestimated Vanguard!
+Dialogue: 0,0:17:35.42,0:17:37.86,Main Dialog,Spoken,0000,0000,0000,,When we get home, let's buy a trial deck!
+Dialogue: 0,0:17:37.86,0:17:40.78,Main Dialog,Spoken,0000,0000,0000,,Yeah! It seems like it \Nwouldn't take long to start.
+Dialogue: 0,0:17:41.16,0:17:42.53,Main Dialog,Spoken,0000,0000,0000,,What is this?
+Dialogue: 0,0:17:42.53,0:17:46.07,Main Dialog,Spoken,0000,0000,0000,,They've finally recognized \Nthe appeal of Vanguard.
+Dialogue: 0,0:17:46.07,0:17:46.92,Main Dialog,Spoken,0000,0000,0000,,Everyone!
+Dialogue: 0,0:17:47.27,0:17:49.12,Main Dialog,Spoken,0000,0000,0000,,The rules seem pretty simple.
+Dialogue: 0,0:17:49.12,0:17:52.67,Main Dialog,Spoken,0000,0000,0000,,And I get the feeling you can sort of \Nlearn how to do it just by watching!
+Dialogue: 0,0:17:53.16,0:17:56.63,Main Dialog,Spoken,0000,0000,0000,,He lost, but what a marvelous wind.
+Dialogue: 0,0:17:56.63,0:17:58.09,Main Dialog,Spoken,0000,0000,0000,,The real thing...
+Dialogue: 0,0:17:58.09,0:18:00.18,Main Dialog,Spoken,0000,0000,0000,,Yeah. The real thing.
+Dialogue: 0,0:18:00.75,0:18:03.90,Main Dialog,Spoken,0000,0000,0000,,Let's use this moving moment to \Ninspire us during training!
+Dialogue: 0,0:18:03.90,0:18:04.81,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:18:05.22,0:18:08.98,Main Dialog,Spoken,0000,0000,0000,,Hey, you guys must be aiming for that \NHigh School Championship too, right?
+Dialogue: 0,0:18:08.98,0:18:10.28,Main Dialog,Spoken,0000,0000,0000,,Good luck next time!
+Dialogue: 0,0:18:10.28,0:18:11.82,Main Dialog,Spoken,0000,0000,0000,,We'll be there to cheer you on!
+Dialogue: 0,0:18:12.09,0:18:14.73,Main Dialog,Spoken,0000,0000,0000,,Yeah. Thank you!
+Dialogue: 0,0:18:14.73,0:18:15.57,Main Dialog,Spoken,0000,0000,0000,,I'll do my best!
+Dialogue: 0,0:18:16.07,0:18:18.13,Main Dialog,Spoken,0000,0000,0000,,You're always welcome to fight us!
+Dialogue: 0,0:18:18.13,0:18:19.20,Main Dialog,Spoken,0000,0000,0000,,We'll be waiting!
+Dialogue: 0,0:18:19.68,0:18:21.42,Main Dialog,Spoken,0000,0000,0000,,Girls can do it too, right?
+Dialogue: 0,0:18:21.42,0:18:23.20,Main Dialog,Spoken,0000,0000,0000,,Yes. We'd be happy to have you.
+Dialogue: 0,0:18:23.90,0:18:26.05,Main Dialog,Spoken,0000,0000,0000,,What the devil is going on here?
+Dialogue: 0,0:18:26.54,0:18:30.08,Main Dialog,Spoken,0000,0000,0000,,I wondered why no one showed \Nup for the lecture...
+Dialogue: 0,0:18:31.20,0:18:33.31,Main Dialog,Spoken,0000,0000,0000,,Things can't keep going like this!
+Dialogue: 0,0:18:34.84,0:18:38.84,Signs,Sign,0000,0000,0000,,Student Council President Naitou\NVice President Suwabe
+Dialogue: 0,0:18:36.25,0:18:37.97,Main Dialog,Spoken,0000,0000,0000,,Suwabe! Get that out!
+Dialogue: 0,0:18:37.97,0:18:38.84,Main Dialog,Spoken,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:18:42.33,0:18:45.60,Main Dialog,Spoken,0000,0000,0000,,I prepared a global deck \Njust for you, President.
+Dialogue: 0,0:18:47.16,0:18:50.57,Main Dialog,Spoken,0000,0000,0000,,I never thought it would come to this.
+Dialogue: 0,0:18:50.57,0:18:54.98,Main Dialog,Spoken,0000,0000,0000,,This is training, Suwabe! We're going \Nto crush them with our own hands!
+Dialogue: 0,0:18:55.33,0:18:56.73,Main Dialog,Spoken,0000,0000,0000,,Yes, President.
+Dialogue: 0,0:18:58.34,0:18:59.95,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:19:03.14,0:19:06.74,Main Dialog,Spoken,0000,0000,0000,,Even though we were only watchin', \Nthat took a lot outta me.
+Dialogue: 0,0:19:07.12,0:19:12.17,Main Dialog,Spoken,0000,0000,0000,,I could've seen either one of them \Nwinning. It was a great match.
+Dialogue: 0,0:19:12.17,0:19:15.62,Main Dialog,Spoken,0000,0000,0000,,When we get back home, I'm going to \Nstudy by watching it again on DVR.
+Dialogue: 0,0:19:15.62,0:19:19.01,Main Dialog,Spoken,0000,0000,0000,,Nah, let's recreate that fight right now!
+Dialogue: 0,0:19:19.50,0:19:21.28,Main Dialog,Spoken,0000,0000,0000,,Ooh! That's a good idea!
+Dialogue: 0,0:19:21.28,0:19:23.59,Main Dialog,Spoken,0000,0000,0000,,I'll go along with that!
+Dialogue: 0,0:19:23.59,0:19:24.51,Main Dialog,Spoken,0000,0000,0000,,Yeah, me too!
+Dialogue: 0,0:19:24.75,0:19:27.07,Main Dialog,Spoken,0000,0000,0000,,I'm gettin' psyched!
+Dialogue: 0,0:19:27.07,0:19:31.66,Main Dialog,Spoken,0000,0000,0000,,It's not physically possible, but my \Nblood is tingling with excitement!
+Dialogue: 0,0:19:32.64,0:19:33.80,Main Dialog,Spoken,0000,0000,0000,,Aichi.
+Dialogue: 0,0:19:35.05,0:19:36.52,Main Dialog,Spoken,0000,0000,0000,,Oh... Kourin!
+Dialogue: 0,0:19:37.33,0:19:40.90,Main Dialog,Spoken,0000,0000,0000,,What is it, Kourin? I bet you wanna \Nget in on the training too, huh?
+Dialogue: 0,0:19:41.41,0:19:42.41,Main Dialog,Spoken,0000,0000,0000,,Training?
+Dialogue: 0,0:19:42.70,0:19:46.46,Main Dialog,Spoken,0000,0000,0000,,We were just talking about how we're \Ngoing to hold a passionate fight,
+Dialogue: 0,0:19:46.46,0:19:49.41,Main Dialog,Spoken,0000,0000,0000,,just like Ren Suzugamori \Nversus Leon Souryu!
+Dialogue: 0,0:19:50.45,0:19:53.57,Main Dialog,Spoken,0000,0000,0000,,Oh. Then never mind.
+Dialogue: 0,0:19:57.55,0:19:59.28,Main Dialog,Spoken,0000,0000,0000,,What's with her?
+Dialogue: 0,0:19:59.28,0:20:01.56,Main Dialog,Spoken,0000,0000,0000,,Is she in a bad mood?
+Dialogue: 0,0:20:01.56,0:20:06.19,Main Dialog,Spoken,0000,0000,0000,,She's probably tired. Not used to \Nhiking around in the mountains...
+Dialogue: 0,0:20:06.19,0:20:07.43,Main Dialog,Spoken,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:07.43,0:20:10.85,Signs,Sign,0000,0000,0000,,2-C Tokura\N2-C Yotsue
+Dialogue: 0,0:20:09.02,0:20:10.85,Main Dialog,Spoken,0000,0000,0000,,You're looking outside again.
+Dialogue: 0,0:20:11.38,0:20:14.08,Main Dialog,Spoken,0000,0000,0000,,Is the moon over the lake \Nreally all that romantic?
+Dialogue: 0,0:20:14.08,0:20:17.55,Main Dialog,Spoken,0000,0000,0000,,Yeah. So unbearably romantic!
+Dialogue: 0,0:20:18.87,0:20:21.50,Main Dialog,Spoken,0000,0000,0000,,I hope it's another nice day tomorrow.
+Dialogue: 0,0:20:21.50,0:20:25.45,Main Dialog,Spoken,0000,0000,0000,,I wanna see a campfire, and I keep \Nthinking about the legend of the lake!
+Dialogue: 0,0:20:26.18,0:20:27.83,Main Dialog,Spoken,0000,0000,0000,,Right, Misaki?
+Dialogue: 0,0:20:27.83,0:20:29.92,Main Dialog,Spoken,0000,0000,0000,,You're back to that again?
+Dialogue: 0,0:20:29.92,0:20:33.61,Main Dialog,Spoken,0000,0000,0000,,Ah... I just can't wait!
+Dialogue: 0,0:20:40.49,0:20:42.05,Main Dialog,Spoken,0000,0000,0000,,Is something wrong?
+Dialogue: 0,0:20:43.96,0:20:45.55,Main Dialog,Spoken,0000,0000,0000,,No, it's fine.
+Dialogue: 0,0:20:52.18,0:20:55.20,Main Dialog,Spoken,0000,0000,0000,,I swear I'll stand on the winners' podium!
+Dialogue: 0,0:20:55.20,0:20:58.82,Main Dialog,Spoken,0000,0000,0000,,I'll win, and become Japan's most \Npassionate Vanguard fighter!
+Dialogue: 0,0:20:59.32,0:21:01.07,Main Dialog,Spoken,0000,0000,0000,,Yeah. Let's do our best.
+Dialogue: 0,0:21:01.66,0:21:05.45,Main Dialog,Spoken,0000,0000,0000,,I can't see that as any more \Nthan a dream of yours, Ishida...
+Dialogue: 0,0:21:05.72,0:21:08.70,Main Dialog,Spoken,0000,0000,0000,,Well, you're full of dreams and \Ndreams and dreams.
+Dialogue: 0,0:21:08.95,0:21:12.70,Main Dialog,Spoken,0000,0000,0000,,Wha...?! What do you mean by that? \N"Full of dreams"?!
+Dialogue: 0,0:21:12.70,0:21:14.10,Main Dialog,Spoken,0000,0000,0000,,How rude!
+Dialogue: 0,0:21:15.13,0:21:18.17,Main Dialog,Spoken,0000,0000,0000,,Yeesh. I'm going to sleep.
+Dialogue: 0,0:21:20.25,0:21:22.55,Main Dialog,Spoken,0000,0000,0000,,Let's all do our best.
+Dialogue: 0,0:21:23.20,0:21:24.38,Main Dialog,Spoken,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:24.87,0:21:26.30,Main Dialog,Spoken,0000,0000,0000,,I will.
+Dialogue: 0,0:21:26.71,0:21:29.57,Main Dialog,Spoken,0000,0000,0000,,Let's go there for sure... for sure...
+Dialogue: 0,0:21:29.57,0:21:30.55,Main Dialog,Spoken,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:30.55,0:21:32.31,Main Dialog,Spoken,0000,0000,0000,,Right.
+Dialogue: 0,0:21:32.96,0:21:38.81,Main Dialog,Spoken,0000,0000,0000,,For sure... for sure... for sure...
+Dialogue: 0,0:21:39.55,0:21:40.80,Main Dialog,Spoken,0000,0000,0000,,Right...
+Dialogue: 0,0:21:51.21,0:21:54.83,Main Dialog,Spoken,0000,0000,0000,,The final match today was truly amazing.
+Dialogue: 0,0:21:55.56,0:21:58.47,Main Dialog,Spoken,0000,0000,0000,,I want to stand up there on \Nthe stage with everyone.
+Dialogue: 0,0:21:59.73,0:22:05.12,Main Dialog,Spoken,0000,0000,0000,,I'll turn this club into an A-1 team,\N and win with everyone. {That's right: he'll cover it with steak sauce.}
+Dialogue: 0,0:22:20.62,0:22:22.83,Main Dialog,Spoken,0000,0000,0000,,Tomorrow for sure...
+Dialogue: 0,0:23:55.89,0:23:58.45,Main Dialog,Spoken,0000,0000,0000,,The VF High School Championship \Nfinal match was awesome!
+Dialogue: 0,0:23:58.45,0:24:01.35,Main Dialog,Spoken,0000,0000,0000,,It sure was! I'm still so \Nexcited that I can't sleep!
+Dialogue: 0,0:24:01.35,0:24:04.79,Main Dialog,Spoken,0000,0000,0000,,Next time, let's go there ourselves!
+Dialogue: 0,0:24:04.79,0:24:07.57,Main Dialog,Spoken,0000,0000,0000,,That reminds me, Aichi. Don't you \Nthink Kourin's been actin' strange?
+Dialogue: 0,0:24:07.57,0:24:10.48,Main Dialog,Spoken,0000,0000,0000,,Yeah. Maybe she's just tired...
+Dialogue: 0,0:24:10.48,0:24:12.65,Main Dialog,Spoken,0000,0000,0000,,Next time: Under the Starry Sky...
+Dialogue: 0,0:24:11.09,0:24:24.94,Signs,Sign,0000,0000,0000,,Under the Starry Sky...
+Dialogue: 0,0:24:12.65,0:24:14.34,Main Dialog,Spoken,0000,0000,0000,,She's both an idol and a student.
+Dialogue: 0,0:24:14.34,0:24:17.82,Main Dialog,Spoken,0000,0000,0000,,I can't imagine how tough \Nthat must be, you know?
+Dialogue: 0,0:24:17.82,0:24:20.88,Main Dialog,Spoken,0000,0000,0000,,Hey, the delinquent's fast asleep!
+Dialogue: 0,0:24:21.75,0:24:24.35,Main Dialog,,0000,0000,0000,,Whaz goin' on?! ...Why'd ya wake me...

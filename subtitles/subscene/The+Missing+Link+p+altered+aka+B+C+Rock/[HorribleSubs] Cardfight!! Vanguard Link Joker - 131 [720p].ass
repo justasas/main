@@ -1,0 +1,319 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.05,0:00:04.62,Main Dialog,Spoken,0000,0000,0000,,Critical trigger.
+Dialogue: 0,0:00:05.16,0:00:08.07,Main Dialog,Spoken,0000,0000,0000,,I give the +5000 power \Nto Nullity Revenger.
+Dialogue: 0,0:00:11.33,0:00:14.42,Main Dialog,Spoken,0000,0000,0000,,I didn't think he'd draw a trigger there...
+Dialogue: 0,0:00:22.92,0:00:28.24,Main Dialog,Spoken,0000,0000,0000,,Ren Suzugamori... You're stronger \Nthan I had imagined.
+Dialogue: 0,0:00:29.97,0:00:31.16,Main Dialog,Spoken,0000,0000,0000,,You're up?
+Dialogue: 0,0:00:32.41,0:00:33.97,Main Dialog,Spoken,0000,0000,0000,,It looks like you're back to normal.
+Dialogue: 0,0:00:38.24,0:00:41.77,Main Dialog,Spoken,0000,0000,0000,,The Reversed fighter has to lose.
+Dialogue: 0,0:00:43.02,0:00:44.94,Main Dialog,Spoken,0000,0000,0000,,In other words, I can't lose.
+Dialogue: 0,0:00:50.19,0:00:51.61,Main Dialog,Spoken,0000,0000,0000,,It stopped.
+Dialogue: 0,0:00:52.01,0:00:53.41,Main Dialog,Spoken,0000,0000,0000,,What is this?
+Dialogue: 0,0:00:53.41,0:00:55.15,Main Dialog,Spoken,0000,0000,0000,,Asaka's room...
+Dialogue: 0,0:00:55.15,0:00:56.61,Main Dialog,Spoken,0000,0000,0000,,The whole floor?
+Dialogue: 0,0:00:57.37,0:01:01.23,Main Dialog,Spoken,0000,0000,0000,,I see. You basically just got \Nhere, Suiko, so you don't know.
+Dialogue: 0,0:01:01.79,0:01:05.79,Main Dialog,Spoken,0000,0000,0000,,The members of AL4 each have their own \Nprivate floor for fighting practice.
+Dialogue: 0,0:01:06.29,0:01:08.13,Main Dialog,Spoken,0000,0000,0000,,Team Asteroid is impressive.
+Dialogue: 0,0:01:08.83,0:01:11.63,Main Dialog,Spoken,0000,0000,0000,,It encourages the fighters \Nwho are aiming for the top,
+Dialogue: 0,0:01:12.19,0:01:14.94,Main Dialog,Spoken,0000,0000,0000,,although I'm not sure who decided on it.
+Dialogue: 0,0:01:15.38,0:01:17.46,Main Dialog,Spoken,0000,0000,0000,,Huh? Was it me?
+Dialogue: 0,0:01:18.89,0:01:23.04,Main Dialog,Spoken,0000,0000,0000,,But out of all the members of \NAL4, my room's the smallest.
+Dialogue: 0,0:01:23.04,0:01:25.14,Main Dialog,Spoken,0000,0000,0000,,Actually, this room used to be Kyou's...
+Dialogue: 0,0:01:30.41,0:01:31.08,Main Dialog,Spoken,0000,0000,0000,,Who's there?
+Dialogue: 0,0:01:36.02,0:01:39.20,Main Dialog,Spoken,0000,0000,0000,,Strong fighters just have to join us...
+Dialogue: 0,0:01:40.25,0:01:41.45,Main Dialog,Spoken,0000,0000,0000,,Asaka!
+Dialogue: 0,0:01:42.60,0:01:43.95,Main Dialog,Spoken,0000,0000,0000,,As I suspected, Asaka too...
+Dialogue: 0,0:01:50.71,0:01:54.84,Main Dialog,Spoken,0000,0000,0000,,Welcome to my stage, Ren-sama.
+Dialogue: 0,0:01:56.80,0:01:59.46,Main Dialog,Spoken,0000,0000,0000,,I've been waiting for you all this time...
+Dialogue: 0,0:01:59.46,0:02:02.60,Main Dialog,Spoken,0000,0000,0000,,Waiting for the chance \Nto fight you like this...
+Dialogue: 0,0:02:06.03,0:02:10.10,Main Dialog,Spoken,0000,0000,0000,,Ah... The power... The energy... \NIt's increasing!
+Dialogue: 0,0:02:10.57,0:02:14.36,Main Dialog,Spoken,0000,0000,0000,,It's like I can hear the crowd's \Napplause and roars of approval.
+Dialogue: 0,0:02:17.66,0:02:20.05,Main Dialog,Spoken,0000,0000,0000,,Suiko, please get back.
+Dialogue: 0,0:02:20.05,0:02:21.12,Main Dialog,Spoken,0000,0000,0000,,R-Right...
+Dialogue: 0,0:02:23.04,0:02:27.12,Main Dialog,Spoken,0000,0000,0000,,And now, the curtain is rising \Non Asaka Narumi's gorgeous stage!
+Dialogue: 0,0:02:28.96,0:02:31.30,Main Dialog,Spoken,0000,0000,0000,,Ladies and gentlemen... \Nbeginning with the very first act,
+Dialogue: 0,0:02:31.30,0:02:34.53,Main Dialog,Spoken,0000,0000,0000,,you won't be able to take \Nyour eyes off this show.
+Dialogue: 0,0:02:35.81,0:02:40.76,Main Dialog,Spoken,0000,0000,0000,,With this one deck, Ren will become mine!
+Dialogue: 0,0:04:22.84,0:04:25.20,Main Dialog,Spoken,0000,0000,0000,,Yeesh! Let a guy take five at least!
+Dialogue: 0,0:04:25.20,0:04:28.14,Main Dialog,Spoken,0000,0000,0000,,Anyway, what in the world's wrong with them?
+Dialogue: 0,0:04:28.14,0:04:29.70,Main Dialog,Spoken,0000,0000,0000,,What's happening...?
+Dialogue: 0,0:04:30.05,0:04:35.25,Main Dialog,Spoken,0000,0000,0000,,I dunno... But that jerk Ren will \Nprobably explain it to us later.
+Dialogue: 0,0:04:40.09,0:04:43.42,Main Dialog,Spoken,0000,0000,0000,,Now then, take out your deck, Ren.
+Dialogue: 0,0:04:47.80,0:04:49.89,Main Dialog,Spoken,0000,0000,0000,,Yes, that's it.
+Dialogue: 0,0:04:49.89,0:04:51.18,Main Dialog,Spoken,0000,0000,0000,,I can't wait!
+Dialogue: 0,0:04:51.58,0:04:57.19,Main Dialog,Spoken,0000,0000,0000,,I'm going to defeat you at this \Ncircus and make you mine forever!
+Dialogue: 0,0:05:00.85,0:05:04.32,Main Dialog,Spoken,0000,0000,0000,,Asaka... You don't have \Nwhat it takes to beat me.
+Dialogue: 0,0:05:05.74,0:05:08.04,Main Dialog,Spoken,0000,0000,0000,,We'll just see about that.
+Dialogue: 0,0:05:08.04,0:05:11.20,Main Dialog,Spoken,0000,0000,0000,,This isn't my usual deck, you know.
+Dialogue: 0,0:05:11.70,0:05:15.58,Main Dialog,Spoken,0000,0000,0000,,Don't you feel this wondrous power too?
+Dialogue: 0,0:05:19.82,0:05:24.41,Main Dialog,Spoken,0000,0000,0000,,I'm going to take you down with this \Npower and turn you into my doll.
+Dialogue: 0,0:05:24.41,0:05:26.72,Main Dialog,Spoken,0000,0000,0000,,After that, you and I will dance forever.
+Dialogue: 0,0:05:27.92,0:05:29.72,Main Dialog,Spoken,0000,0000,0000,,It's not going to happen.
+Dialogue: 0,0:05:31.22,0:05:33.10,Main Dialog,Spoken,0000,0000,0000,,You'll see, once we get under way.
+Dialogue: 0,0:05:35.35,0:05:40.36,Signs,Sign,0000,0000,0000,,Eternal Marionette
+Dialogue: 0,0:05:51.76,0:05:54.65,Main Dialog,Spoken,0000,0000,0000,,Stand up the Vanguard!
+Dialogue: 0,0:05:51.76,0:05:54.65,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:05:56.06,0:05:58.25,Main Dialog,Spoken,0000,0000,0000,,Frontline Revenger, Claudas!
+Dialogue: 0,0:05:59.48,0:06:02.04,Main Dialog,Spoken,0000,0000,0000,,Silver Thorn Assistant, Ionela.
+Dialogue: 0,0:06:02.62,0:06:06.40,Main Dialog,Spoken,0000,0000,0000,,And now, our circus begins!
+Dialogue: 0,0:06:07.10,0:06:10.93,Main Dialog,Spoken,0000,0000,0000,,I ride Revenger, Dark Bond Trumpeter!
+Dialogue: 0,0:06:11.57,0:06:12.64,Main Dialog,Spoken,0000,0000,0000,,Claudas moves back.
+Dialogue: 0,0:06:13.21,0:06:14.86,Main Dialog,Spoken,0000,0000,0000,,I can hear it...
+Dialogue: 0,0:06:14.86,0:06:18.77,Main Dialog,Spoken,0000,0000,0000,,The heartbeats of everyone in the audience, \Nbecoming one and surging towards me.
+Dialogue: 0,0:06:21.49,0:06:23.55,Main Dialog,Spoken,0000,0000,0000,,I love this tense feeling.
+Dialogue: 0,0:06:24.76,0:06:31.12,Main Dialog,Spoken,0000,0000,0000,,As manager of this show, I wonder how many \Nof the crowd's hearts we can capture.
+Dialogue: 0,0:06:31.63,0:06:34.21,Main Dialog,Spoken,0000,0000,0000,,My heart's beating fast, too.
+Dialogue: 0,0:06:36.51,0:06:41.52,Main Dialog,Spoken,0000,0000,0000,,Keep your eyes peeled. You won't want to \Nmiss a moment of the performers' moves.
+Dialogue: 0,0:06:43.32,0:06:46.33,Main Dialog,Spoken,0000,0000,0000,,I ride Silver Thorn Assistant, Irina!
+Dialogue: 0,0:06:51.46,0:06:53.85,Main Dialog,Spoken,0000,0000,0000,,Irina's skill. One card goes to the Soul.
+Dialogue: 0,0:06:54.83,0:06:58.10,Main Dialog,Spoken,0000,0000,0000,,It takes a wonderful trick \Nto make a wonderful show.
+Dialogue: 0,0:06:58.62,0:07:00.97,Main Dialog,Spoken,0000,0000,0000,,And wonderful performers as well.
+Dialogue: 0,0:07:00.97,0:07:03.61,Main Dialog,Spoken,0000,0000,0000,,Come, Silver Thorn, Breathing Dragon!
+Dialogue: 0,0:07:08.02,0:07:10.83,Main Dialog,Spoken,0000,0000,0000,,And now, let's begin the act.
+Dialogue: 0,0:07:12.04,0:07:12.87,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:07:22.85,0:07:24.88,Main Dialog,Spoken,0000,0000,0000,,Next! Irina attacks!
+Dialogue: 0,0:07:28.00,0:07:29.01,Main Dialog,Spoken,0000,0000,0000,,Check.
+Dialogue: 0,0:07:31.47,0:07:33.16,Main Dialog,Spoken,0000,0000,0000,,Skill activated.
+Dialogue: 0,0:07:35.92,0:07:37.87,Main Dialog,Spoken,0000,0000,0000,,It's your turn soon.
+Dialogue: 0,0:07:39.40,0:07:40.78,Main Dialog,Spoken,0000,0000,0000,,That's Asaka all right.
+Dialogue: 0,0:07:40.78,0:07:44.65,Main Dialog,Spoken,0000,0000,0000,,Even Reversed, she still \Nmakes use of the Soul a lot.
+Dialogue: 0,0:07:45.30,0:07:46.90,Main Dialog,Spoken,0000,0000,0000,,It's your turn, Ren.
+Dialogue: 0,0:07:46.90,0:07:49.15,Main Dialog,Spoken,0000,0000,0000,,I'm looking forward to the \Nsecond half of the show.
+Dialogue: 0,0:07:49.89,0:07:52.53,Main Dialog,Spoken,0000,0000,0000,,Yes, sure is something to look forward to...
+Dialogue: 0,0:07:53.22,0:07:58.12,Main Dialog,Spoken,0000,0000,0000,,Although why wait for the second \Nhalf when we could do it now?
+Dialogue: 0,0:07:59.17,0:08:03.56,Main Dialog,Spoken,0000,0000,0000,,I ride Nullity Revenger, Masquerade!
+Dialogue: 0,0:08:03.95,0:08:05.28,Main Dialog,Spoken,0000,0000,0000,,And then I call.
+Dialogue: 0,0:08:06.10,0:08:06.79,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:08:11.30,0:08:14.22,Main Dialog,Spoken,0000,0000,0000,,Oh my, looks like it came through for me.
+Dialogue: 0,0:08:14.22,0:08:15.39,Main Dialog,Spoken,0000,0000,0000,,I give the power to Irina.
+Dialogue: 0,0:08:17.90,0:08:21.56,Main Dialog,Spoken,0000,0000,0000,,In that case, I attack Breathing Dragon!
+Dialogue: 0,0:08:22.94,0:08:26.10,Main Dialog,Spoken,0000,0000,0000,,The performers on stage won't exit so easily.
+Dialogue: 0,0:08:31.84,0:08:34.38,Main Dialog,Spoken,0000,0000,0000,,I have to protect my beloved performers.
+Dialogue: 0,0:08:34.38,0:08:36.82,Main Dialog,Spoken,0000,0000,0000,,After all, I am the manager.
+Dialogue: 0,0:08:37.37,0:08:39.83,Main Dialog,Spoken,0000,0000,0000,,So I constantly have to lead them, you see.
+Dialogue: 0,0:08:40.60,0:08:43.69,Main Dialog,Spoken,0000,0000,0000,,How does it feel to be under me, Ren?
+Dialogue: 0,0:08:44.64,0:08:48.75,Main Dialog,Spoken,0000,0000,0000,,So this is how you've really felt? \NI'm surprised.
+Dialogue: 0,0:08:48.75,0:08:51.36,Main Dialog,Spoken,0000,0000,0000,,Don't talk like you know it all!
+Dialogue: 0,0:08:51.85,0:08:54.82,Main Dialog,Spoken,0000,0000,0000,,You know nothing... Nothing...
+Dialogue: 0,0:08:55.21,0:08:58.26,Main Dialog,Spoken,0000,0000,0000,,But I know a lot about you.
+Dialogue: 0,0:08:58.78,0:09:01.60,Main Dialog,Spoken,0000,0000,0000,,I know just how little you care \Nabout what's going on around you.
+Dialogue: 0,0:09:04.36,0:09:06.96,Main Dialog,Spoken,0000,0000,0000,,When I met you for the first time...
+Dialogue: 0,0:09:08.96,0:09:14.02,Main Dialog,Spoken,0000,0000,0000,,I thought you were weird, because you \Ncouldn't even open an automatic door.
+Dialogue: 0,0:09:16.05,0:09:18.20,Main Dialog,Spoken,0000,0000,0000,,Did that really happen?
+Dialogue: 0,0:09:18.72,0:09:20.67,Main Dialog,Spoken,0000,0000,0000,,You don't remember, do you?
+Dialogue: 0,0:09:21.12,0:09:24.14,Main Dialog,Spoken,0000,0000,0000,,Even though that was only a few years ago...
+Dialogue: 0,0:09:26.42,0:09:29.21,Main Dialog,Spoken,0000,0000,0000,,A lot sure has happened since then...
+Dialogue: 0,0:09:31.09,0:09:36.76,Main Dialog,Spoken,0000,0000,0000,,Harsh training, hard battles, bitter \Nrelationships with rivals...
+Dialogue: 0,0:09:42.00,0:09:45.48,Main Dialog,Spoken,0000,0000,0000,,Number 40 out of 493 people...
+Dialogue: 0,0:09:46.35,0:09:48.53,Main Dialog,Spoken,0000,0000,0000,,Sometimes I wondered why I was \Ngoing to such a tough place
+Dialogue: 0,0:09:48.53,0:09:52.52,Main Dialog,Spoken,0000,0000,0000,,when I was still just a \Nmiddle school student...
+Dialogue: 0,0:09:52.99,0:09:56.81,Main Dialog,Spoken,0000,0000,0000,,But... you were there.
+Dialogue: 0,0:09:56.81,0:10:00.62,Main Dialog,Spoken,0000,0000,0000,,Your deck has gotten even more \Ninteresting than last time.
+Dialogue: 0,0:10:01.57,0:10:04.02,Main Dialog,Spoken,0000,0000,0000,,You're a fast learner.
+Dialogue: 0,0:10:04.02,0:10:04.75,Main Dialog,Spoken,0000,0000,0000,,Ren...
+Dialogue: 0,0:10:05.61,0:10:07.93,Main Dialog,Spoken,0000,0000,0000,,Please keep up the good work.
+Dialogue: 0,0:10:07.93,0:10:10.66,Main Dialog,Spoken,0000,0000,0000,,I'm expecting to see a wonderful circus.
+Dialogue: 0,0:10:10.66,0:10:11.82,Main Dialog,Spoken,0000,0000,0000,,Right!
+Dialogue: 0,0:10:12.42,0:10:16.60,Main Dialog,Spoken,0000,0000,0000,,I was able to do my best all \Nthat time because Ren was here.
+Dialogue: 0,0:10:18.46,0:10:20.64,Main Dialog,Spoken,0000,0000,0000,,I wanted to get even a little closer to Ren...
+Dialogue: 0,0:10:21.53,0:10:24.53,Main Dialog,Spoken,0000,0000,0000,,...to fight alongside him as a member of AL4...
+Dialogue: 0,0:10:24.53,0:10:26.14,Main Dialog,Spoken,0000,0000,0000,,So I never stopped trying to catch up.
+Dialogue: 0,0:10:26.91,0:10:29.44,Main Dialog,Spoken,0000,0000,0000,,But... those who lost were tossed aside.
+Dialogue: 0,0:10:32.22,0:10:34.15,Main Dialog,Spoken,0000,0000,0000,,As if you were looking at something foul.
+Dialogue: 0,0:10:35.50,0:10:37.90,Main Dialog,Spoken,0000,0000,0000,,telling them to get out of your sight.
+Dialogue: 0,0:10:42.18,0:10:44.66,Main Dialog,Spoken,0000,0000,0000,,You discard people who lose.
+Dialogue: 0,0:10:45.18,0:10:47.65,Main Dialog,Spoken,0000,0000,0000,,Huh? Do I?
+Dialogue: 0,0:10:48.16,0:10:49.54,Main Dialog,Spoken,0000,0000,0000,,But I don't do that any more, right?
+Dialogue: 0,0:10:50.05,0:10:52.17,Main Dialog,Spoken,0000,0000,0000,,Wrong! You're just the same!
+Dialogue: 0,0:10:54.64,0:10:55.87,Main Dialog,Spoken,0000,0000,0000,,You're the same!
+Dialogue: 0,0:10:57.13,0:10:58.42,Main Dialog,Spoken,0000,0000,0000,,You haven't changed...
+Dialogue: 0,0:10:58.83,0:11:02.25,Main Dialog,Spoken,0000,0000,0000,,Your eyes say "I have no need for the weak."
+Dialogue: 0,0:11:03.98,0:11:06.18,Main Dialog,Spoken,0000,0000,0000,,All you need is...
+Dialogue: 0,0:11:07.49,0:11:12.94,Main Dialog,Spoken,0000,0000,0000,,And no matter how much I catch up, you \Nwon't look at me like you look at them.
+Dialogue: 0,0:11:14.54,0:11:19.00,Main Dialog,Spoken,0000,0000,0000,,That's right. I've been dancing \Nby myself this whole time.
+Dialogue: 0,0:11:19.00,0:11:20.95,Main Dialog,Spoken,0000,0000,0000,,A doll that belongs to no one...
+Dialogue: 0,0:11:22.45,0:11:25.28,Main Dialog,Spoken,0000,0000,0000,,But I'm saying goodbye to my former self!
+Dialogue: 0,0:11:28.19,0:11:31.53,Main Dialog,Spoken,0000,0000,0000,,I ride Silver Thorn Marionette, Lilian!
+Dialogue: 0,0:11:34.86,0:11:37.30,Main Dialog,Spoken,0000,0000,0000,,Okay, prepare to dance, Lilian.
+Dialogue: 0,0:11:38.11,0:11:43.30,Main Dialog,Spoken,0000,0000,0000,,My favorite marionette, let's \Nhave one final lovely dance.
+Dialogue: 0,0:11:43.79,0:11:50.20,Main Dialog,Spoken,0000,0000,0000,,After all, once this fight is over, Ren will \Nbecome my dancing partner in your stead.
+Dialogue: 0,0:11:54.73,0:11:55.46,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:11:57.12,0:11:59.69,Main Dialog,Spoken,0000,0000,0000,,Now, the curtain rises on the second act!
+Dialogue: 0,0:11:59.95,0:12:01.48,Main Dialog,Spoken,0000,0000,0000,,Breathing Dragon attacks!
+Dialogue: 0,0:12:02.41,0:12:03.07,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:12:03.60,0:12:04.45,Main Dialog,Spoken,0000,0000,0000,,Lilian!
+Dialogue: 0,0:12:07.30,0:12:08.34,Main Dialog,Spoken,0000,0000,0000,,Check!
+Dialogue: 0,0:12:09.46,0:12:11.33,Main Dialog,Spoken,0000,0000,0000,,I give the power to Rising Dragon
+Dialogue: 0,0:12:11.90,0:12:13.42,Main Dialog,Spoken,0000,0000,0000,,and the extra critical to Lilian!
+Dialogue: 0,0:12:18.56,0:12:19.84,Main Dialog,Spoken,0000,0000,0000,,Ionela's skill.
+Dialogue: 0,0:12:20.52,0:12:23.84,Main Dialog,Spoken,0000,0000,0000,,I present a fifth card to Ren's Damage Zone.
+Dialogue: 0,0:12:32.02,0:12:33.60,Main Dialog,Spoken,0000,0000,0000,,The damage is 5 to 1...
+Dialogue: 0,0:12:34.28,0:12:36.15,Main Dialog,Spoken,0000,0000,0000,,Ren Suzugamori is on the ropes?!
+Dialogue: 0,0:12:38.58,0:12:41.81,Main Dialog,Spoken,0000,0000,0000,,You become this much stronger \Nwhen you're Reversed?!
+Dialogue: 0,0:12:43.40,0:12:46.94,Main Dialog,Spoken,0000,0000,0000,,Lovely... The power is running through me.
+Dialogue: 0,0:12:48.04,0:12:49.40,Main Dialog,Spoken,0000,0000,0000,,I feel it!
+Dialogue: 0,0:12:49.40,0:12:56.56,Main Dialog,Spoken,0000,0000,0000,,That's right. The circus needs overwhelming \Npower to support its brilliant skills!
+Dialogue: 0,0:12:58.33,0:13:03.84,Main Dialog,Spoken,0000,0000,0000,,It's a real honor to be able to \Ndrive Ren into a corner like this.
+Dialogue: 0,0:13:05.82,0:13:07.10,Main Dialog,Spoken,0000,0000,0000,,Asaka...
+Dialogue: 0,0:13:22.98,0:13:24.49,Main Dialog,Spoken,0000,0000,0000,,Bread and milk!
+Dialogue: 0,0:13:27.25,0:13:29.24,Main Dialog,Spoken,0000,0000,0000,,Gotta charge up! Gotta charge up!
+Dialogue: 0,0:13:31.39,0:13:32.86,Main Dialog,Spoken,0000,0000,0000,,Here ya go, sustenance!
+Dialogue: 0,0:13:33.61,0:13:35.96,Main Dialog,Spoken,0000,0000,0000,,Eat this and we'll be ready to go again!
+Dialogue: 0,0:13:35.96,0:13:37.18,Main Dialog,Spoken,0000,0000,0000,,You're a thoughtful guy.
+Dialogue: 0,0:13:37.18,0:13:39.45,Main Dialog,Spoken,0000,0000,0000,,What is this? A bean jam bun and milk?
+Dialogue: 0,0:13:39.45,0:13:41.75,Main Dialog,Spoken,0000,0000,0000,,All stuff I don't like!
+Dialogue: 0,0:13:41.75,0:13:42.88,Main Dialog,Spoken,0000,0000,0000,,Ah... is that right?
+Dialogue: 0,0:13:43.78,0:13:47.88,Main Dialog,Spoken,0000,0000,0000,,Yeesh. It's not good for \Na growing boy to be picky.
+Dialogue: 0,0:13:48.37,0:13:50.12,Main Dialog,Spoken,0000,0000,0000,,What was that?!
+Dialogue: 0,0:13:50.97,0:13:53.22,Main Dialog,Spoken,0000,0000,0000,,You makin' a crack about my height?!
+Dialogue: 0,0:13:53.22,0:13:54.30,Main Dialog,Spoken,0000,0000,0000,,No, I wasn't!
+Dialogue: 0,0:13:54.30,0:13:55.63,Main Dialog,Spoken,0000,0000,0000,,H-Hey!
+Dialogue: 0,0:13:56.00,0:13:57.72,Main Dialog,Spoken,0000,0000,0000,,Ah! They found us!
+Dialogue: 0,0:14:02.03,0:14:03.31,Main Dialog,Spoken,0000,0000,0000,,Darn it!
+Dialogue: 0,0:14:03.31,0:14:04.24,Main Dialog,Spoken,0000,0000,0000,,Kyou...
+Dialogue: 0,0:14:04.24,0:14:05.98,Main Dialog,Spoken,0000,0000,0000,,I'll eat this for now!
+Dialogue: 0,0:14:05.98,0:14:07.79,Main Dialog,Spoken,0000,0000,0000,,I'll complain about it later.
+Dialogue: 0,0:14:07.79,0:14:09.44,Main Dialog,Spoken,0000,0000,0000,,You're gonna complain?
+Dialogue: 0,0:14:11.08,0:14:13.74,Main Dialog,Spoken,0000,0000,0000,,I'm gonna pound all you guys to bean jam!
+Dialogue: 0,0:14:19.39,0:14:23.00,Main Dialog,Spoken,0000,0000,0000,,Maybe you weren't expecting such a \Nbig difference between our scores?
+Dialogue: 0,0:14:23.61,0:14:25.78,Main Dialog,Spoken,0000,0000,0000,,As someone who's putting on a show,
+Dialogue: 0,0:14:25.78,0:14:29.48,Main Dialog,Spoken,0000,0000,0000,,it's very important for me to \Nprepare unexpected developments.
+Dialogue: 0,0:14:30.08,0:14:36.10,Main Dialog,Spoken,0000,0000,0000,,You don't mind the idea of becoming mine \Nand dancing together forever, do you?
+Dialogue: 0,0:14:36.70,0:14:39.26,Main Dialog,Spoken,0000,0000,0000,,No, it sounds like fun.
+Dialogue: 0,0:14:39.26,0:14:42.11,Main Dialog,Spoken,0000,0000,0000,,But let's not go there. Here I go.
+Dialogue: 0,0:14:42.70,0:14:47.36,Main Dialog,Spoken,0000,0000,0000,,Despair! Then sprawl on the \Nground and sip bitter water!
+Dialogue: 0,0:14:47.81,0:14:52.07,Main Dialog,Spoken,0000,0000,0000,,I ride Illusionary Revenger, Mordred Phantom!
+Dialogue: 0,0:14:52.74,0:14:53.70,Main Dialog,Spoken,0000,0000,0000,,And then I call!
+Dialogue: 0,0:14:58.05,0:15:01.73,Main Dialog,Spoken,0000,0000,0000,,The emissary of fear appears \Nout of the ebony darkness
+Dialogue: 0,0:15:01.73,0:15:04.34,Main Dialog,Spoken,0000,0000,0000,,and lures you to the \Nnetherworld without a sound.
+Dialogue: 0,0:15:12.65,0:15:13.47,Main Dialog,Spoken,0000,0000,0000,,Doreen's skill.
+Dialogue: 0,0:15:14.33,0:15:16.22,Main Dialog,Spoken,0000,0000,0000,,I'm going to counterattack.
+Dialogue: 0,0:15:16.42,0:15:18.06,Main Dialog,Spoken,0000,0000,0000,,I attack Breathing Dragon!
+Dialogue: 0,0:15:23.56,0:15:24.65,Main Dialog,Spoken,0000,0000,0000,,Mordred Phantom!
+Dialogue: 0,0:15:25.94,0:15:26.90,Main Dialog,Spoken,0000,0000,0000,,No guard.
+Dialogue: 0,0:15:27.30,0:15:28.76,Main Dialog,Spoken,0000,0000,0000,,Twin drive check!
+Dialogue: 0,0:15:30.01,0:15:31.66,Main Dialog,Spoken,0000,0000,0000,,I got a heal trigger.
+Dialogue: 0,0:15:32.60,0:15:34.32,Main Dialog,Spoken,0000,0000,0000,,I give the power to Blaster Dark.
+Dialogue: 0,0:15:34.32,0:15:35.66,Main Dialog,Spoken,0000,0000,0000,,And heal 1 damage point.
+Dialogue: 0,0:15:36.42,0:15:37.23,Main Dialog,Spoken,0000,0000,0000,,Second check...
+Dialogue: 0,0:15:38.46,0:15:39.16,Main Dialog,Spoken,0000,0000,0000,,Another trigger.
+Dialogue: 0,0:15:40.14,0:15:44.04,Main Dialog,Spoken,0000,0000,0000,,I give the critical to Mordred, \Nand the power to Blaster Dark.
+Dialogue: 0,0:15:51.81,0:15:54.01,Main Dialog,Spoken,0000,0000,0000,,My avatar, Blaster Dark!
+Dialogue: 0,0:16:03.40,0:16:05.56,Main Dialog,Spoken,0000,0000,0000,,The damage is 4 to 4...
+Dialogue: 0,0:16:08.03,0:16:09.89,Main Dialog,Spoken,0000,0000,0000,,That's just like you, Ren.
+Dialogue: 0,0:16:10.41,0:16:13.28,Main Dialog,Spoken,0000,0000,0000,,Even with my huge advantage, \Nyou tied us up in one turn.
+Dialogue: 0,0:16:13.87,0:16:19.49,Main Dialog,Spoken,0000,0000,0000,,Have you forgotten? \NI've never lost to you, Asaka.
+Dialogue: 0,0:16:19.96,0:16:21.14,Main Dialog,Spoken,0000,0000,0000,,That's true.
+Dialogue: 0,0:16:21.14,0:16:24.75,Main Dialog,Spoken,0000,0000,0000,,No matter how hard I've tried to \Ncatch up, I never have beaten you.
+Dialogue: 0,0:16:25.66,0:16:29.39,Main Dialog,Spoken,0000,0000,0000,,Far from it. Even in the high school \Nclub, I was trying desperately.
+Dialogue: 0,0:16:30.01,0:16:35.26,Signs,Sign,0000,0000,0000,,VF High School Championship\NTeam will be chosen in: \N7 days
+Dialogue: 0,0:16:33.18,0:16:34.65,Main Dialog,Spoken,0000,0000,0000,,What's wrong, Asaka?
+Dialogue: 0,0:16:36.12,0:16:38.16,Main Dialog,Spoken,0000,0000,0000,,Apparently, among the members who \Nwere selected for the preliminary,
+Dialogue: 0,0:16:38.16,0:16:40.35,Main Dialog,Spoken,0000,0000,0000,,your scores haven't gone up.
+Dialogue: 0,0:16:40.90,0:16:44.39,Main Dialog,Spoken,0000,0000,0000,,In fact, it looks like the new student, \NSuiko Tatsunagi, is going to pass you by.
+Dialogue: 0,0:16:46.10,0:16:48.15,Main Dialog,Spoken,0000,0000,0000,,Y-Yes. I'm sorry.
+Dialogue: 0,0:16:48.72,0:16:52.65,Main Dialog,Spoken,0000,0000,0000,,In your case, keeping up your \Nmotivation is number one.
+Dialogue: 0,0:16:52.65,0:16:54.25,Main Dialog,Spoken,0000,0000,0000,,That, and effort.
+Dialogue: 0,0:16:54.25,0:16:55.16,Main Dialog,Spoken,0000,0000,0000,,Right...
+Dialogue: 0,0:16:55.74,0:16:59.17,Main Dialog,Spoken,0000,0000,0000,,If you just coast by on \Nbeing a member of AL4,
+Dialogue: 0,0:16:59.17,0:17:02.16,Main Dialog,Spoken,0000,0000,0000,,you'll end up being ousted from \Nthe select team by somebody else.
+Dialogue: 0,0:17:06.36,0:17:09.77,Main Dialog,Spoken,0000,0000,0000,,Your motivation... \NIt's Ren, isn't it?
+Dialogue: 0,0:17:11.38,0:17:14.86,Main Dialog,Spoken,0000,0000,0000,,You wouldn't mind not fighting \Nat Ren's side anymore?
+Dialogue: 0,0:17:14.86,0:17:18.11,Main Dialog,Spoken,0000,0000,0000,,No! That's the one thing \NI don't want to lose!
+Dialogue: 0,0:17:19.44,0:17:22.27,Main Dialog,Spoken,0000,0000,0000,,I've been at Ren's side all this time.
+Dialogue: 0,0:17:23.78,0:17:26.27,Main Dialog,Spoken,0000,0000,0000,,For me to be forced off the team...
+Dialogue: 0,0:17:28.66,0:17:30.48,Main Dialog,Spoken,0000,0000,0000,,Bido! Fight me!
+Dialogue: 0,0:17:31.68,0:17:34.82,Main Dialog,Spoken,0000,0000,0000,,Hiromi, Harumi, Ayumu! You three as well!
+Dialogue: 0,0:17:49.54,0:17:53.30,Signs,Sign,0000,0000,0000,,VF High School Championship Team
+Dialogue: 0,0:17:49.88,0:17:52.18,Main Dialog,Spoken,0000,0000,0000,,I'm going to announce the members.
+Dialogue: 0,0:17:52.18,0:17:55.80,Main Dialog,Spoken,0000,0000,0000,,The representatives of Fukuhara High for \Nthis year's VF High School Championship are...
+Dialogue: 0,0:17:56.41,0:17:57.95,Main Dialog,Spoken,0000,0000,0000,,...Ren Suzugamori...
+Dialogue: 0,0:17:59.12,0:18:00.41,Main Dialog,Spoken,0000,0000,0000,,...Suiko Tatsunagi...
+Dialogue: 0,0:18:01.12,0:18:03.79,Main Dialog,Spoken,0000,0000,0000,,...and Asaka Narumi.
+Dialogue: 0,0:18:10.67,0:18:14.21,Main Dialog,Spoken,0000,0000,0000,,Victory is essential to Fukuhara High.
+Dialogue: 0,0:18:14.21,0:18:16.20,Main Dialog,Spoken,0000,0000,0000,,No embarrassing fights, please.
+Dialogue: 0,0:18:17.92,0:18:22.49,Main Dialog,Spoken,0000,0000,0000,,Good. Now I can fight alongside Ren again.
+Dialogue: 0,0:18:23.93,0:18:28.12,Main Dialog,Spoken,0000,0000,0000,,And so, even in high school, I got \Nto be on the same team as Ren.
+Dialogue: 0,0:18:29.58,0:18:30.35,Main Dialog,Spoken,0000,0000,0000,,But...
+Dialogue: 0,0:18:32.50,0:18:37.20,Main Dialog,Spoken,0000,0000,0000,,I'm glad I could make a contribution for \NRen's sake at today's regional tournament.
+Dialogue: 0,0:18:37.62,0:18:40.35,Main Dialog,Spoken,0000,0000,0000,,Ren needs me next to him.
+Dialogue: 0,0:18:41.07,0:18:43.68,Main Dialog,Spoken,0000,0000,0000,,I'm sure he thinks so too.
+Dialogue: 0,0:18:43.68,0:18:45.28,Main Dialog,Spoken,0000,0000,0000,,You look happy, Asaka.
+Dialogue: 0,0:18:45.28,0:18:49.34,Main Dialog,Spoken,0000,0000,0000,,Y-Yeah. After all, I won for your sake.
+Dialogue: 0,0:18:50.25,0:18:50.90,Main Dialog,Spoken,0000,0000,0000,,Me too.
+Dialogue: 0,0:18:51.73,0:18:53.86,Main Dialog,Spoken,0000,0000,0000,,I had a great time today.
+Dialogue: 0,0:18:53.86,0:18:55.40,Main Dialog,Spoken,0000,0000,0000,,Aichi was amazing, wasn't he?
+Dialogue: 0,0:18:56.94,0:19:01.01,Main Dialog,Spoken,0000,0000,0000,,I bet he'll keep getting better and better.
+Dialogue: 0,0:19:01.01,0:19:02.25,Main Dialog,Spoken,0000,0000,0000,,I can't wait.
+Dialogue: 0,0:19:02.25,0:19:04.03,Main Dialog,Spoken,0000,0000,0000,,R-Right...
+Dialogue: 0,0:19:04.35,0:19:06.46,Main Dialog,Spoken,0000,0000,0000,,You think so too?
+Dialogue: 0,0:19:10.04,0:19:13.57,Main Dialog,Spoken,0000,0000,0000,,But I'm the one who's gonna fight Aichi.
+Dialogue: 0,0:19:13.57,0:19:15.33,Main Dialog,Spoken,0000,0000,0000,,I won't give that privilege up to anyone.
+Dialogue: 0,0:19:15.33,0:19:16.29,Main Dialog,Spoken,0000,0000,0000,,Right...
+Dialogue: 0,0:19:17.05,0:19:19.98,Main Dialog,Spoken,0000,0000,0000,,My victory... hardly meant anything.
+Dialogue: 0,0:19:21.33,0:19:25.90,Main Dialog,Spoken,0000,0000,0000,,At the end of the day... \Nthat's all I am to you, Ren...
+Dialogue: 0,0:19:26.89,0:19:31.06,Main Dialog,Spoken,0000,0000,0000,,But you'll look at me if I \Nshow you how strong I am.
+Dialogue: 0,0:19:31.73,0:19:35.02,Main Dialog,Spoken,0000,0000,0000,,No... if I beat you with \Nthis overflowing power,
+Dialogue: 0,0:19:35.37,0:19:38.28,Main Dialog,Spoken,0000,0000,0000,,you'll {\i1}only{\i0} look at me!
+Dialogue: 0,0:19:40.53,0:19:45.12,Main Dialog,Spoken,0000,0000,0000,,When your whip of thorns cracks, \Neven dragons fall to their knees!
+Dialogue: 0,0:19:45.12,0:19:50.18,Main Dialog,Spoken,0000,0000,0000,,I ride Silver Thorn Dragon Tamer, Luquier!
+Dialogue: 0,0:19:53.32,0:19:54.54,Main Dialog,Spoken,0000,0000,0000,,There it is.
+Dialogue: 0,0:19:54.72,0:19:59.15,Main Dialog,Spoken,0000,0000,0000,,That's right. You've seen \NLuquier's show countless times.
+Dialogue: 0,0:19:59.15,0:20:02.01,Main Dialog,Spoken,0000,0000,0000,,And today, it's going to \Ngive you a splendid display.
+Dialogue: 0,0:20:02.01,0:20:03.96,Main Dialog,Spoken,0000,0000,0000,,Luquier's Limit Break!
+Dialogue: 0,0:20:05.63,0:20:09.56,Main Dialog,Spoken,0000,0000,0000,,Performers waiting behind the wing curtains...\N Right now, come up on stage!
+Dialogue: 0,0:20:10.35,0:20:11.86,Main Dialog,Spoken,0000,0000,0000,,Silver Whip Liberation!
+Dialogue: 0,0:20:16.30,0:20:20.07,Main Dialog,Spoken,0000,0000,0000,,She filled in all of the rear-guard \Nspots with every grade.
+Dialogue: 0,0:20:20.48,0:20:24.37,Main Dialog,Spoken,0000,0000,0000,,That's right! When players all \Nappear together on stage once more,
+Dialogue: 0,0:20:24.37,0:20:26.74,Main Dialog,Spoken,0000,0000,0000,,Luquier's power reaches its climax!
+Dialogue: 0,0:20:27.44,0:20:29.76,Main Dialog,Spoken,0000,0000,0000,,High-powered Luquier is complete!
+Dialogue: 0,0:20:30.52,0:20:33.76,Main Dialog,Spoken,0000,0000,0000,,Now to raise the curtain on the third act!
+Dialogue: 0,0:20:33.76,0:20:34.83,Main Dialog,Spoken,0000,0000,0000,,Dance, Lilian!
+Dialogue: 0,0:20:39.76,0:20:41.92,Main Dialog,Spoken,0000,0000,0000,,Luquier! Crack that beautiful whip!
+Dialogue: 0,0:20:46.83,0:20:47.93,Main Dialog,Spoken,0000,0000,0000,,No guard.
+Dialogue: 0,0:20:48.46,0:20:51.72,Main Dialog,Spoken,0000,0000,0000,,What?! If she draws a \Ncritical trigger here...
+Dialogue: 0,0:20:52.14,0:20:53.25,Main Dialog,Spoken,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:20:54.13,0:20:57.84,Main Dialog,Spoken,0000,0000,0000,,I see. Perhaps you're \Naccepting the inevitable.
+Dialogue: 0,0:20:57.84,0:21:00.33,Main Dialog,Spoken,0000,0000,0000,,Then I'll end it for you here.
+Dialogue: 0,0:21:00.33,0:21:01.44,Main Dialog,Spoken,0000,0000,0000,,First check...
+Dialogue: 0,0:21:04.69,0:21:05.85,Main Dialog,Spoken,0000,0000,0000,,Second check...
+Dialogue: 0,0:21:08.06,0:21:09.06,Main Dialog,Spoken,0000,0000,0000,,Don't appear!
+Dialogue: 0,0:21:14.00,0:21:15.72,Main Dialog,Spoken,0000,0000,0000,,It's all over now.
+Dialogue: 0,0:21:15.72,0:21:20.48,Main Dialog,Spoken,0000,0000,0000,,Ren will be my servant who gazes \Nonly at me for all eternity.
+Dialogue: 0,0:21:31.77,0:21:33.68,Main Dialog,Spoken,0000,0000,0000,,That was a narrow escape.
+Dialogue: 0,0:21:33.68,0:21:36.06,Main Dialog,Spoken,0000,0000,0000,,But... what about this?
+Dialogue: 0,0:21:40.14,0:21:41.60,Main Dialog,Spoken,0000,0000,0000,,I'm offended.
+Dialogue: 0,0:21:42.94,0:21:46.57,Main Dialog,Spoken,0000,0000,0000,,Who said I don't look at you?
+Dialogue: 0,0:21:47.22,0:21:48.99,Main Dialog,Spoken,0000,0000,0000,,W-What?
+Dialogue: 0,0:21:51.82,0:21:53.83,Main Dialog,Spoken,0000,0000,0000,,It won't get through! Guard!
+Dialogue: 0,0:22:02.70,0:22:05.49,Main Dialog,Spoken,0000,0000,0000,,W-What's that look?!
+Dialogue: 0,0:22:05.49,0:22:08.09,Main Dialog,Spoken,0000,0000,0000,,Nothing's changed! I've \Nstill got the upper hand!
+Dialogue: 0,0:22:09.81,0:22:11.60,Main Dialog,Spoken,0000,0000,0000,,Are you ready?
+Dialogue: 0,0:22:14.10,0:22:16.45,Main Dialog,Spoken,0000,0000,0000,,The punishment for angering me...
+Dialogue: 0,0:22:17.08,0:22:18.77,Main Dialog,Spoken,0000,0000,0000,,...isn't a light one.
+Dialogue: 0,0:23:56.93,0:24:00.33,Main Dialog,Spoken,0000,0000,0000,,Asaka, I never thought you'd \Ntake that attitude towards me.
+Dialogue: 0,0:24:00.33,0:24:02.83,Main Dialog,Spoken,0000,0000,0000,,I apologize if I touched a nerve...
+Dialogue: 0,0:24:02.83,0:24:06.09,Main Dialog,Spoken,0000,0000,0000,,...but soon, you will become mine.
+Dialogue: 0,0:24:06.09,0:24:09.63,Main Dialog,Spoken,0000,0000,0000,,Asaka, this get-tough \Nstance of yours isn't bad,
+Dialogue: 0,0:24:09.63,0:24:12.29,Main Dialog,Spoken,0000,0000,0000,,but go too far, and you're \Ngoing to be disciplined.
+Dialogue: 0,0:24:12.29,0:24:16.46,Main Dialog,Spoken,0000,0000,0000,,And meanwhile, I had no idea that a fierce \Nfight was playing out between Ren and Asaka!
+Dialogue: 0,0:24:16.46,0:24:18.13,Main Dialog,Spoken,0000,0000,0000,,Next time: Last Dance!
+Dialogue: 0,0:24:16.93,0:24:24.94,Signs,Sign,0000,0000,0000,,Last Dance!
+Dialogue: 0,0:24:18.13,0:24:19.98,Main Dialog,Spoken,0000,0000,0000,,Oh, I'm so scared!
+Dialogue: 0,0:24:20.26,0:24:23.04,Main Dialog,Spoken,0000,0000,0000,,But you're going to get \Non your knees before me!

@@ -1,0 +1,310 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:17.71,0:00:22.29,Main Dialog,Spoken,0000,0000,0000,,Those kids are acting kind of strange. And...
+Dialogue: 0,0:00:22.90,0:00:26.29,Main Dialog,Spoken,0000,0000,0000,,...the same goes for you, Koutei.
+Dialogue: 0,0:00:27.13,0:00:31.30,Main Dialog,Spoken,0000,0000,0000,,Naturally. I've been Reversed.
+Dialogue: 0,0:00:31.76,0:00:35.01,Main Dialog,Spoken,0000,0000,0000,,"Reversed"? What is that?
+Dialogue: 0,0:00:35.01,0:00:39.68,Main Dialog,Spoken,0000,0000,0000,,It means the mighty Link Joker \Ngave me this glow.
+Dialogue: 0,0:00:40.00,0:00:44.69,Main Dialog,Spoken,0000,0000,0000,,"Link Joker"? What are you \Ntalking about, Koutei?
+Dialogue: 0,0:00:59.71,0:01:02.89,Main Dialog,Spoken,0000,0000,0000,,Those who lose are Reversed.
+Dialogue: 0,0:01:02.89,0:01:06.75,Main Dialog,Spoken,0000,0000,0000,,Yuri, I want you to serve me!
+Dialogue: 0,0:01:07.86,0:01:11.84,Main Dialog,Spoken,0000,0000,0000,,This is wrong. That isn't \Nthe Mitsusada I know.
+Dialogue: 0,0:01:11.84,0:01:15.26,Main Dialog,Spoken,0000,0000,0000,,Mitsusada wouldn't even say \Nsuch things as a joke.
+Dialogue: 0,0:02:47.07,0:02:50.52,Main Dialog,Spoken,0000,0000,0000,,What... What's happening?
+Dialogue: 0,0:02:51.15,0:02:54.98,Main Dialog,Spoken,0000,0000,0000,,Come, Yuri. Fight me.
+Dialogue: 0,0:02:58.30,0:03:00.40,Main Dialog,Spoken,0000,0000,0000,,There's nothing to be afraid of.
+Dialogue: 0,0:03:00.40,0:03:04.73,Main Dialog,Spoken,0000,0000,0000,,If you fight, you'll understand \Neverything. Everything...
+Dialogue: 0,0:03:06.50,0:03:09.54,Main Dialog,Spoken,0000,0000,0000,,Fine. So I just have to win, right?
+Dialogue: 0,0:03:10.17,0:03:13.29,Main Dialog,Spoken,0000,0000,0000,,That's right. If you can win...
+Dialogue: 0,0:03:17.07,0:03:22.66,Main Dialog,Spoken,0000,0000,0000,,Confirm my new justice with your own eyes.
+Dialogue: 0,0:03:23.97,0:03:26.56,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:03:26.56,0:03:31.56,Signs,Sign,0000,0000,0000,,Yuri's Medal
+Dialogue: 0,0:03:32.25,0:03:33.82,Main Dialog,Spoken,0000,0000,0000,,Enigman Flow!
+Dialogue: 0,0:03:34.99,0:03:37.37,Main Dialog,Spoken,0000,0000,0000,,Dimensional Robo, Daimagnum.
+Dialogue: 0,0:03:39.88,0:03:42.04,Main Dialog,Spoken,0000,0000,0000,,His deck hasn't really changed.
+Dialogue: 0,0:03:42.41,0:03:47.08,Main Dialog,Spoken,0000,0000,0000,,That's right. \NDimension Police is your justice.
+Dialogue: 0,0:03:48.50,0:03:51.06,Main Dialog,Spoken,0000,0000,0000,,I go first. Draw!
+Dialogue: 0,0:03:52.55,0:03:54.64,Main Dialog,Spoken,0000,0000,0000,,I ride Enigman Ripple!
+Dialogue: 0,0:03:57.04,0:04:01.34,Main Dialog,Spoken,0000,0000,0000,,With its skill, I put \NEnigman Wave in my hand.
+Dialogue: 0,0:04:03.85,0:04:04.97,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:04:05.92,0:04:08.21,Main Dialog,Spoken,0000,0000,0000,,Dimensional Robo, Dailander!
+Dialogue: 0,0:04:09.02,0:04:10.59,Main Dialog,Spoken,0000,0000,0000,,Daimagnum moves back.
+Dialogue: 0,0:04:10.99,0:04:11.85,Main Dialog,Spoken,0000,0000,0000,,Call.
+Dialogue: 0,0:04:12.41,0:04:13.35,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:04:17.37,0:04:18.48,Main Dialog,Spoken,0000,0000,0000,,Critical trigger.
+Dialogue: 0,0:04:22.17,0:04:23.61,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:04:24.72,0:04:26.37,Main Dialog,Spoken,0000,0000,0000,,I ride Enigman Wave!
+Dialogue: 0,0:04:26.81,0:04:27.72,Main Dialog,Spoken,0000,0000,0000,,Call.
+Dialogue: 0,0:04:28.38,0:04:29.62,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:04:37.50,0:04:38.54,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:04:38.54,0:04:39.38,Main Dialog,Spoken,0000,0000,0000,,Guard.
+Dialogue: 0,0:04:42.10,0:04:43.01,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:04:44.62,0:04:46.30,Main Dialog,Spoken,0000,0000,0000,,Dimensional Robo, Daifighter!
+Dialogue: 0,0:04:47.21,0:04:48.23,Main Dialog,Spoken,0000,0000,0000,,Call.
+Dialogue: 0,0:04:49.44,0:04:50.39,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:04:57.07,0:04:59.94,Main Dialog,Spoken,0000,0000,0000,,He fights the same way as the normal Koutei.
+Dialogue: 0,0:05:01.64,0:05:04.46,Main Dialog,Spoken,0000,0000,0000,,I ride Original Savior, Zero!
+Dialogue: 0,0:05:07.54,0:05:08.41,Main Dialog,Spoken,0000,0000,0000,,Call.
+Dialogue: 0,0:05:09.12,0:05:10.03,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:05:16.75,0:05:17.88,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:05:22.93,0:05:24.79,Main Dialog,Spoken,0000,0000,0000,,You've gotten stronger, Mitsusada.
+Dialogue: 0,0:05:25.44,0:05:28.63,Main Dialog,Spoken,0000,0000,0000,,When we first met, I never could've \Nimagined you'd become this strong.
+Dialogue: 0,0:05:31.61,0:05:37.02,Main Dialog,Spoken,0000,0000,0000,,At the time, my sights were set on winning \Nthe Vanguard National Championship.
+Dialogue: 0,0:05:37.02,0:05:39.76,Main Dialog,Spoken,0000,0000,0000,,I was looking for a second teammate.
+Dialogue: 0,0:05:40.81,0:05:43.61,Main Dialog,Spoken,0000,0000,0000,,We just can't seem to find our third person.
+Dialogue: 0,0:05:43.87,0:05:47.74,Main Dialog,Spoken,0000,0000,0000,,You're so strong, practically\N anyone would do, Sis.
+Dialogue: 0,0:05:48.16,0:05:49.20,Main Dialog,Spoken,0000,0000,0000,,Wrong!
+Dialogue: 0,0:05:49.20,0:05:50.80,Main Dialog,Spoken,0000,0000,0000,,Whoever joins our team
+Dialogue: 0,0:05:50.80,0:05:53.91,Main Dialog,Spoken,0000,0000,0000,,needs to bring a certain level of ability \Nto the table, or we'll be in trouble.
+Dialogue: 0,0:05:53.91,0:05:56.07,Main Dialog,Spoken,0000,0000,0000,,A "certain level"?
+Dialogue: 0,0:05:56.07,0:05:57.82,Main Dialog,Spoken,0000,0000,0000,,Enough to beat me!
+Dialogue: 0,0:05:59.55,0:06:00.61,Main Dialog,Spoken,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:06:02.31,0:06:05.81,Main Dialog,Spoken,0000,0000,0000,,That's when we first met, Mitsusada.
+Dialogue: 0,0:06:06.36,0:06:08.72,Main Dialog,Spoken,0000,0000,0000,,Would you like to fight?
+Dialogue: 0,0:06:10.11,0:06:14.47,Main Dialog,Spoken,0000,0000,0000,,You stepped up and asked for a fight, \Nwhich made me wonder how strong you were.
+Dialogue: 0,0:06:16.75,0:06:20.23,Main Dialog,Spoken,0000,0000,0000,,But you were actually exasperatingly weak.
+Dialogue: 0,0:06:21.30,0:06:24.12,Main Dialog,Spoken,0000,0000,0000,,Look, if you have your \NVanguard do the third attack,
+Dialogue: 0,0:06:24.12,0:06:27.24,Main Dialog,Spoken,0000,0000,0000,,you won't be able to use \NCommander Laurel's skill.
+Dialogue: 0,0:06:27.90,0:06:30.24,Main Dialog,Spoken,0000,0000,0000,,Ah! I see.
+Dialogue: 0,0:06:32.16,0:06:34.12,Main Dialog,Spoken,0000,0000,0000,,Please fight me one more time.
+Dialogue: 0,0:06:36.14,0:06:37.83,Main Dialog,Spoken,0000,0000,0000,,I feel sorry for him.
+Dialogue: 0,0:06:37.83,0:06:40.61,Main Dialog,Spoken,0000,0000,0000,,Make sure to show him how much \Nstronger you are, so he'll give up.
+Dialogue: 0,0:06:40.61,0:06:42.19,Main Dialog,Spoken,0000,0000,0000,,R-Right...
+Dialogue: 0,0:06:43.73,0:06:45.58,Main Dialog,Spoken,0000,0000,0000,,My Vanguard attacks!
+Dialogue: 0,0:06:45.58,0:06:46.51,Main Dialog,Spoken,0000,0000,0000,,No guard.
+Dialogue: 0,0:06:47.42,0:06:50.26,Main Dialog,Spoken,0000,0000,0000,,Thanks to Commander Laurel's \Nskill, my Vanguard stands!
+Dialogue: 0,0:06:51.75,0:06:52.76,Main Dialog,Spoken,0000,0000,0000,,From before!
+Dialogue: 0,0:06:55.86,0:06:59.40,Main Dialog,Spoken,0000,0000,0000,,It looks like you were quick \Nto take my sister's advice,
+Dialogue: 0,0:06:59.40,0:07:01.02,Main Dialog,Spoken,0000,0000,0000,,but I guard. Too bad.
+Dialogue: 0,0:07:04.28,0:07:06.55,Main Dialog,Spoken,0000,0000,0000,,And that's the game, huh?
+Dialogue: 0,0:07:07.73,0:07:10.53,Main Dialog,Spoken,0000,0000,0000,,You came back the next day, Mitsusada.
+Dialogue: 0,0:07:12.72,0:07:17.40,Main Dialog,Spoken,0000,0000,0000,,Of course, you were extremely \Nweak, like on the previous day.
+Dialogue: 0,0:07:18.30,0:07:22.68,Main Dialog,Spoken,0000,0000,0000,,But... you weren't exactly the same.
+Dialogue: 0,0:07:22.68,0:07:25.13,Main Dialog,Spoken,0000,0000,0000,,You didn't make the same mistakes \Nyou had the previous day.
+Dialogue: 0,0:07:27.13,0:07:29.13,Main Dialog,Spoken,0000,0000,0000,,That was the clincher.
+Dialogue: 0,0:07:29.53,0:07:33.49,Main Dialog,Spoken,0000,0000,0000,,I've decided! Kenji Mitsusada, \Nyou're our third member!
+Dialogue: 0,0:07:34.69,0:07:36.10,Main Dialog,Spoken,0000,0000,0000,,Sis?
+Dialogue: 0,0:07:36.10,0:07:37.33,Main Dialog,Spoken,0000,0000,0000,,I'm serious.
+Dialogue: 0,0:07:37.33,0:07:39.38,Main Dialog,Spoken,0000,0000,0000,,After all, he sucks!
+Dialogue: 0,0:07:39.38,0:07:40.89,Main Dialog,Spoken,0000,0000,0000,,I'll make him stronger.
+Dialogue: 0,0:07:40.89,0:07:42.07,Main Dialog,Spoken,0000,0000,0000,,But...
+Dialogue: 0,0:07:43.87,0:07:45.37,Main Dialog,Spoken,0000,0000,0000,,You have a problem with that?!
+Dialogue: 0,0:07:45.37,0:07:47.37,Main Dialog,Spoken,0000,0000,0000,,No! Not at all!
+Dialogue: 0,0:07:47.37,0:07:48.40,Main Dialog,Spoken,0000,0000,0000,,Good!
+Dialogue: 0,0:07:49.00,0:07:52.40,Main Dialog,Spoken,0000,0000,0000,,But if I decide it's not working \Nout, you're off the team.
+Dialogue: 0,0:07:53.17,0:07:55.73,Main Dialog,Spoken,0000,0000,0000,,I'll do my best! I'm looking forward it!
+Dialogue: 0,0:07:57.34,0:08:01.16,Main Dialog,Spoken,0000,0000,0000,,You weren't the type to improve by \Nleaps and bounds in a short time.
+Dialogue: 0,0:08:02.10,0:08:06.17,Main Dialog,Spoken,0000,0000,0000,,But you kept moving forward one \Nstep at a time, slowly but surely.
+Dialogue: 0,0:08:06.81,0:08:08.75,Main Dialog,Spoken,0000,0000,0000,,You were a master of putting in effort.
+Dialogue: 0,0:08:10.80,0:08:13.61,Main Dialog,Spoken,0000,0000,0000,,Why don't you try using other clans too?
+Dialogue: 0,0:08:14.07,0:08:15.30,Main Dialog,Spoken,0000,0000,0000,,I don't think so.
+Dialogue: 0,0:08:16.35,0:08:18.14,Main Dialog,Spoken,0000,0000,0000,,I want to investigate it thoroughly.
+Dialogue: 0,0:08:18.60,0:08:20.31,Main Dialog,Spoken,0000,0000,0000,,My justice, that is.
+Dialogue: 0,0:08:20.58,0:08:21.56,Main Dialog,Spoken,0000,0000,0000,,Justice?
+Dialogue: 0,0:08:22.28,0:08:27.06,Main Dialog,Spoken,0000,0000,0000,,I learned about this from \Nmy favorite topic, history.
+Dialogue: 0,0:08:27.55,0:08:30.90,Main Dialog,Spoken,0000,0000,0000,,The people who make their marks \Nin history have all fought for justice.
+Dialogue: 0,0:08:32.48,0:08:37.83,Main Dialog,Spoken,0000,0000,0000,,I figure they must have known about \NDimension Police, which is all about justice.
+Dialogue: 0,0:08:38.66,0:08:42.07,Main Dialog,Spoken,0000,0000,0000,,I want to thoroughly \Nexplore my own justice!
+Dialogue: 0,0:08:42.07,0:08:44.33,Main Dialog,Spoken,0000,0000,0000,,With this Dimension Police.
+Dialogue: 0,0:08:47.13,0:08:51.88,Main Dialog,Spoken,0000,0000,0000,,Then, one day, I'll win the \NVanguard National Championship
+Dialogue: 0,0:08:51.88,0:08:55.09,Main Dialog,Spoken,0000,0000,0000,,and make my own mark on \Nhistory, just like they did!
+Dialogue: 0,0:08:59.73,0:09:04.10,Main Dialog,Spoken,0000,0000,0000,,I've just decided! I'm going \Nto switch to Dimension Police!
+Dialogue: 0,0:09:06.10,0:09:13.85,Main Dialog,Spoken,0000,0000,0000,,Th-That way, you can watch my fights \Na-and... you know... study them.
+Dialogue: 0,0:09:16.20,0:09:22.12,Main Dialog,Spoken,0000,0000,0000,,Before we knew it, Mitsusada \Nwas beating Gai and even me.
+Dialogue: 0,0:09:22.73,0:09:26.37,Main Dialog,Spoken,0000,0000,0000,,Then, as our team leader, he pulled us along
+Dialogue: 0,0:09:26.37,0:09:30.90,Main Dialog,Spoken,0000,0000,0000,,until we even accomplished our goal of \Nwinning the Vanguard National Championship.
+Dialogue: 0,0:09:38.02,0:09:40.14,Main Dialog,Spoken,0000,0000,0000,,Yuri... What's this?
+Dialogue: 0,0:09:40.51,0:09:43.03,Main Dialog,Spoken,0000,0000,0000,,A medal... for the emperor.
+Dialogue: 0,0:09:43.03,0:09:47.19,Main Dialog,Spoken,0000,0000,0000,,A medal... The emperor is supposed \Nto give medals out, not accept them!
+Dialogue: 0,0:09:51.57,0:09:55.32,Main Dialog,Spoken,0000,0000,0000,,I can't accept it. I know how \Nmuch it means to you, Yuri...
+Dialogue: 0,0:09:55.32,0:09:57.07,Main Dialog,Spoken,0000,0000,0000,,That's why I'm giving it to you!
+Dialogue: 0,0:10:02.05,0:10:06.51,Main Dialog,Spoken,0000,0000,0000,,L-Look, consider it a reward \Nfor making your mark on history
+Dialogue: 0,0:10:06.51,0:10:09.11,Main Dialog,Spoken,0000,0000,0000,,by winning the Vanguard National Championship!
+Dialogue: 0,0:10:09.11,0:10:11.79,Main Dialog,Spoken,0000,0000,0000,,So... So...
+Dialogue: 0,0:10:17.44,0:10:19.89,Main Dialog,Spoken,0000,0000,0000,,Thank you. I'll take good care of it.
+Dialogue: 0,0:10:21.20,0:10:23.68,Main Dialog,Spoken,0000,0000,0000,,I can never be grateful enough to you
+Dialogue: 0,0:10:24.48,0:10:26.36,Main Dialog,Spoken,0000,0000,0000,,for training hard to the \Npoint of changing your deck.
+Dialogue: 0,0:10:27.28,0:10:28.69,Main Dialog,Spoken,0000,0000,0000,,I really appreciate it.
+Dialogue: 0,0:10:29.46,0:10:33.54,Main Dialog,Spoken,0000,0000,0000,,I was elated by Mitsusada's \Nsuccess as if it were my own.
+Dialogue: 0,0:10:34.40,0:10:40.32,Main Dialog,Spoken,0000,0000,0000,,It was the first time I realized how joyful \Nit was to help someone achieve their goal.
+Dialogue: 0,0:10:49.65,0:10:52.12,Main Dialog,Spoken,0000,0000,0000,,He's gotten stronger and \Ncontinues to try hard even now.
+Dialogue: 0,0:10:52.84,0:10:56.99,Main Dialog,Spoken,0000,0000,0000,,That's what I respect about you, \Nfrom the bottom of my heart.
+Dialogue: 0,0:11:02.53,0:11:03.43,Main Dialog,Spoken,0000,0000,0000,,Draw!
+Dialogue: 0,0:11:04.90,0:11:07.60,Main Dialog,Spoken,0000,0000,0000,,I ride Super Dimensional Robo, Daiyusha!
+Dialogue: 0,0:11:12.07,0:11:15.39,Main Dialog,Spoken,0000,0000,0000,,Call! Dailander's Counterblast!
+Dialogue: 0,0:11:18.57,0:11:19.24,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:11:19.91,0:11:22.95,Main Dialog,Spoken,0000,0000,0000,,With its skill, it gets an extra critical!
+Dialogue: 0,0:11:23.39,0:11:24.95,Main Dialog,Spoken,0000,0000,0000,,Perfect guard!
+Dialogue: 0,0:11:29.97,0:11:31.21,Main Dialog,Spoken,0000,0000,0000,,Trigger check.
+Dialogue: 0,0:11:32.16,0:11:33.69,Main Dialog,Spoken,0000,0000,0000,,Heal trigger.
+Dialogue: 0,0:11:33.69,0:11:34.96,Main Dialog,Spoken,0000,0000,0000,,I give the power to Daidragon,
+Dialogue: 0,0:11:35.90,0:11:37.59,Main Dialog,Spoken,0000,0000,0000,,and heal 1 damage point.
+Dialogue: 0,0:11:37.99,0:11:39.75,Main Dialog,Spoken,0000,0000,0000,,Second check.
+Dialogue: 0,0:11:50.06,0:11:53.85,Main Dialog,Spoken,0000,0000,0000,,This is my new justice.
+Dialogue: 0,0:11:55.17,0:11:57.45,Main Dialog,Spoken,0000,0000,0000,,You would do well to remember this name.
+Dialogue: 0,0:11:58.93,0:12:02.59,Main Dialog,Spoken,0000,0000,0000,,Dark Dimensional Robo "Reverse," Daiyusha!
+Dialogue: 0,0:12:05.26,0:12:08.35,Main Dialog,Spoken,0000,0000,0000,,"Reverse"... Daiyusha?
+Dialogue: 0,0:12:20.05,0:12:23.69,Main Dialog,Spoken,0000,0000,0000,,Dark Dimensional Robo "Reverse," Daiyusha.
+Dialogue: 0,0:12:25.11,0:12:27.64,Main Dialog,Spoken,0000,0000,0000,,Don't tell me you took \NGreat Daiyusha out of...?
+Dialogue: 0,0:12:28.91,0:12:33.14,Main Dialog,Spoken,0000,0000,0000,,It's only natural to replace one unit with \Nanother one that's more powerful, isn't it?
+Dialogue: 0,0:12:33.84,0:12:35.27,Main Dialog,Spoken,0000,0000,0000,,What are you saying?!
+Dialogue: 0,0:12:35.80,0:12:39.78,Main Dialog,Spoken,0000,0000,0000,,Great Daiyusha even beat Ren Suzugamori!
+Dialogue: 0,0:12:39.78,0:12:42.90,Main Dialog,Spoken,0000,0000,0000,,I could say that unit {\i1}is{\i0} you!
+Dialogue: 0,0:12:42.90,0:12:44.40,Main Dialog,Spoken,0000,0000,0000,,It has special meaning!
+Dialogue: 0,0:12:45.58,0:12:48.66,Main Dialog,Spoken,0000,0000,0000,,It's a symbol of winning through hard work!
+Dialogue: 0,0:12:50.18,0:12:53.46,Main Dialog,Spoken,0000,0000,0000,,Hard work? What nonsense.
+Dialogue: 0,0:12:53.70,0:12:54.97,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:12:54.97,0:12:57.25,Main Dialog,Spoken,0000,0000,0000,,Hard work is meaningless.
+Dialogue: 0,0:12:57.25,0:13:00.63,Main Dialog,Spoken,0000,0000,0000,,At least when compared to a unit \Nthat possesses superior abilities.
+Dialogue: 0,0:13:01.44,0:13:03.67,Main Dialog,Spoken,0000,0000,0000,,You should look back on history.
+Dialogue: 0,0:13:04.53,0:13:06.42,Main Dialog,Spoken,0000,0000,0000,,Power is justice.
+Dialogue: 0,0:13:06.42,0:13:10.93,Main Dialog,Spoken,0000,0000,0000,,Justice belongs to the ruler who holds power.
+Dialogue: 0,0:13:11.75,0:13:15.37,Main Dialog,Spoken,0000,0000,0000,,That's an emperor? You're \Nsaying that's who you are?
+Dialogue: 0,0:13:16.47,0:13:20.44,Main Dialog,Spoken,0000,0000,0000,,Right now, you're not the \Nemperor that I admire!
+Dialogue: 0,0:13:24.81,0:13:26.34,Main Dialog,Spoken,0000,0000,0000,,I'm going to win!
+Dialogue: 0,0:13:26.34,0:13:29.20,Main Dialog,Spoken,0000,0000,0000,,I'm going to win and wake you up!
+Dialogue: 0,0:13:31.18,0:13:33.95,Main Dialog,Spoken,0000,0000,0000,,I'm looking forward to the next turn.
+Dialogue: 0,0:13:34.66,0:13:37.18,Main Dialog,Spoken,0000,0000,0000,,I won't let you ride a unit like that!
+Dialogue: 0,0:13:37.18,0:13:39.96,Main Dialog,Spoken,0000,0000,0000,,I'm going to win the match this turn!
+Dialogue: 0,0:13:43.49,0:13:44.51,Main Dialog,Spoken,0000,0000,0000,,There it is!
+Dialogue: 0,0:13:45.13,0:13:46.72,Main Dialog,Spoken,0000,0000,0000,,As long as I have this unit...
+Dialogue: 0,0:13:47.21,0:13:50.22,Main Dialog,Spoken,0000,0000,0000,,Even though he's only got \N2 damage, I can beat him!
+Dialogue: 0,0:13:52.65,0:13:56.78,Main Dialog,Spoken,0000,0000,0000,,All of the beginning, all of the end!
+Dialogue: 0,0:13:56.78,0:13:59.35,Main Dialog,Spoken,0000,0000,0000,,Take the power of your mother galaxy and...
+Dialogue: 0,0:13:59.77,0:14:00.73,Main Dialog,Spoken,0000,0000,0000,,...break ride!
+Dialogue: 0,0:14:01.31,0:14:03.36,Main Dialog,Spoken,0000,0000,0000,,Enigman Storm!
+Dialogue: 0,0:14:05.10,0:14:09.32,Main Dialog,Spoken,0000,0000,0000,,When Enigman Storm break rides,\N it gains +10000 power!
+Dialogue: 0,0:14:09.32,0:14:12.99,Main Dialog,Spoken,0000,0000,0000,,And Daiyusha loses 5000 power!
+Dialogue: 0,0:14:13.67,0:14:15.19,Main Dialog,Spoken,0000,0000,0000,,Daisy moves.
+Dialogue: 0,0:14:15.19,0:14:17.93,Main Dialog,Spoken,0000,0000,0000,,And then I call. Counterblast!
+Dialogue: 0,0:14:19.06,0:14:22.02,Main Dialog,Spoken,0000,0000,0000,,Enigman Storm gets +4000 power.
+Dialogue: 0,0:14:23.36,0:14:27.39,Main Dialog,Spoken,0000,0000,0000,,25000 versus 5000. That's \Na difference of 20000.
+Dialogue: 0,0:14:27.39,0:14:28.26,Main Dialog,Spoken,0000,0000,0000,,That's not all!
+Dialogue: 0,0:14:28.73,0:14:32.26,Main Dialog,Spoken,0000,0000,0000,,Enigman Storm attacks \Nwith a boost from Daisy!
+Dialogue: 0,0:14:32.92,0:14:36.14,Main Dialog,Spoken,0000,0000,0000,,Critical 2. I can afford a "no guard" here.
+Dialogue: 0,0:14:36.48,0:14:38.61,Main Dialog,Spoken,0000,0000,0000,,That confidence will be your undoing!
+Dialogue: 0,0:14:38.61,0:14:40.35,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check!
+Dialogue: 0,0:14:42.27,0:14:43.78,Main Dialog,Spoken,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:14:44.86,0:14:47.34,Main Dialog,Spoken,0000,0000,0000,,I give all of the effects to Enigman Storm!
+Dialogue: 0,0:14:58.53,0:15:00.04,Main Dialog,Spoken,0000,0000,0000,,Draw trigger.
+Dialogue: 0,0:15:00.58,0:15:02.11,Main Dialog,Spoken,0000,0000,0000,,I give the power to Daiyusha.
+Dialogue: 0,0:15:03.70,0:15:04.97,Main Dialog,Spoken,0000,0000,0000,,Draw.
+Dialogue: 0,0:15:06.98,0:15:11.37,Main Dialog,Spoken,0000,0000,0000,,When the Vanguard's attack hits, \NCommander Laurel's skill is activated!
+Dialogue: 0,0:15:11.82,0:15:15.85,Main Dialog,Spoken,0000,0000,0000,,I rest four rear-guards, \Nand stand my Vanguard!
+Dialogue: 0,0:15:20.55,0:15:21.89,Main Dialog,Spoken,0000,0000,0000,,That skill...
+Dialogue: 0,0:15:23.32,0:15:26.82,Main Dialog,Spoken,0000,0000,0000,,It was the first piece of advice you gave me.
+Dialogue: 0,0:15:28.20,0:15:29.26,Main Dialog,Spoken,0000,0000,0000,,He remembers...
+Dialogue: 0,0:15:30.52,0:15:31.74,Main Dialog,Spoken,0000,0000,0000,,That's right.
+Dialogue: 0,0:15:33.45,0:15:36.30,Main Dialog,Spoken,0000,0000,0000,,Look, if you have your \NVanguard do the third attack,
+Dialogue: 0,0:15:36.30,0:15:39.33,Main Dialog,Spoken,0000,0000,0000,,you won't be able to use \NCommander Laurel's skill.
+Dialogue: 0,0:15:42.62,0:15:45.16,Main Dialog,Spoken,0000,0000,0000,,Never should have told me that.
+Dialogue: 0,0:15:47.54,0:15:49.28,Main Dialog,Spoken,0000,0000,0000,,If you hadn't done that...
+Dialogue: 0,0:15:49.90,0:15:52.09,Main Dialog,Spoken,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:15:52.93,0:15:58.10,Main Dialog,Spoken,0000,0000,0000,,If you hadn't done that, I wouldn't \Nhave wasted all that time and effort.
+Dialogue: 0,0:16:01.11,0:16:06.39,Main Dialog,Spoken,0000,0000,0000,,That's right. In the face of absolute \Npower, effort means nothing.
+Dialogue: 0,0:16:07.05,0:16:08.86,Main Dialog,Spoken,0000,0000,0000,,I now understand that fully.
+Dialogue: 0,0:16:09.30,0:16:11.01,Main Dialog,Spoken,0000,0000,0000,,It's not true!
+Dialogue: 0,0:16:11.01,0:16:12.01,Main Dialog,Spoken,0000,0000,0000,,Your effort...
+Dialogue: 0,0:16:12.01,0:16:13.86,Main Dialog,Spoken,0000,0000,0000,,Your effort shone brilliantly!
+Dialogue: 0,0:16:14.70,0:16:17.37,Main Dialog,Spoken,0000,0000,0000,,At least it shone brilliantly to me!
+Dialogue: 0,0:16:26.67,0:16:27.38,Main Dialog,Spoken,0000,0000,0000,,Guard.
+Dialogue: 0,0:16:34.11,0:16:35.46,Main Dialog,Spoken,0000,0000,0000,,I'm not done yet!
+Dialogue: 0,0:16:35.46,0:16:37.58,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check!
+Dialogue: 0,0:16:47.06,0:16:48.83,Main Dialog,Spoken,0000,0000,0000,,You couldn't reach me, huh?
+Dialogue: 0,0:16:50.14,0:16:54.64,Main Dialog,Spoken,0000,0000,0000,,When you naively relied on trying to \Ndraw two triggers in a row to beat me.
+Dialogue: 0,0:16:54.64,0:16:56.49,Main Dialog,Spoken,0000,0000,0000,,You never had a chance.
+Dialogue: 0,0:17:00.51,0:17:03.16,Main Dialog,Spoken,0000,0000,0000,,Yuri, kneel down before me!
+Dialogue: 0,0:17:06.60,0:17:11.80,Main Dialog,Spoken,0000,0000,0000,,Noble soul reborn from the \Nblack dark matter of darkness!
+Dialogue: 0,0:17:12.15,0:17:15.21,Main Dialog,Spoken,0000,0000,0000,,Tremble with the pleasure of destruction!
+Dialogue: 0,0:17:15.21,0:17:16.68,Main Dialog,Spoken,0000,0000,0000,,Crossride!
+Dialogue: 0,0:17:21.74,0:17:22.56,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:17:25.17,0:17:31.32,Main Dialog,Spoken,0000,0000,0000,,Dark Dimensional Robo "Reverse," Daiyusha!
+Dialogue: 0,0:17:40.62,0:17:44.89,Main Dialog,Spoken,0000,0000,0000,,Turn Dimensional Robo, Daiyusha's \Nlight into darkness.
+Dialogue: 0,0:17:47.07,0:17:50.49,Main Dialog,Spoken,0000,0000,0000,,My subjects, Dailander, Daimagnum.
+Dialogue: 0,0:17:50.49,0:17:54.51,Main Dialog,Spoken,0000,0000,0000,,Sacrifice yourselves to end this just war!
+Dialogue: 0,0:17:54.83,0:17:55.84,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:17:57.97,0:17:58.68,Main Dialog,Spoken,0000,0000,0000,,Lock?!
+Dialogue: 0,0:18:00.19,0:18:02.93,Main Dialog,Spoken,0000,0000,0000,,Enigman Storm loses 10000 power!
+Dialogue: 0,0:18:09.54,0:18:12.26,Main Dialog,Spoken,0000,0000,0000,,I just have 1000 power now?!
+Dialogue: 0,0:18:14.24,0:18:17.45,Main Dialog,Spoken,0000,0000,0000,,This is the Limit Break \Nof "Reverse" Daiyusha.
+Dialogue: 0,0:18:18.26,0:18:20.27,Main Dialog,Spoken,0000,0000,0000,,Tyrannus Gravity.
+Dialogue: 0,0:18:20.98,0:18:22.51,Main Dialog,Spoken,0000,0000,0000,,Now you understand, don't you?
+Dialogue: 0,0:18:22.51,0:18:26.08,Main Dialog,Spoken,0000,0000,0000,,Effort means nothing in \Nthe face of this power.
+Dialogue: 0,0:18:27.68,0:18:31.84,Main Dialog,Spoken,0000,0000,0000,,Denying effort means denying yourself!
+Dialogue: 0,0:18:32.48,0:18:35.21,Main Dialog,Spoken,0000,0000,0000,,I can't afford to lose against \Nyou the way you are now!
+Dialogue: 0,0:18:35.95,0:18:40.22,Main Dialog,Spoken,0000,0000,0000,,You don't give up, even after being \Nstripped of all but 1000 power?
+Dialogue: 0,0:18:40.75,0:18:43.26,Main Dialog,Spoken,0000,0000,0000,,Then you can learn the hard way!
+Dialogue: 0,0:18:43.26,0:18:45.97,Main Dialog,Spoken,0000,0000,0000,,Effort prostrates itself before power!
+Dialogue: 0,0:18:46.58,0:18:49.24,Main Dialog,Spoken,0000,0000,0000,,"Reverse" Daiyusha attacks!
+Dialogue: 0,0:18:56.72,0:18:58.11,Main Dialog,Spoken,0000,0000,0000,,No guard!
+Dialogue: 0,0:18:59.25,0:19:01.60,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check.
+Dialogue: 0,0:19:03.41,0:19:04.62,Main Dialog,Spoken,0000,0000,0000,,Draw trigger.
+Dialogue: 0,0:19:05.29,0:19:06.87,Main Dialog,Spoken,0000,0000,0000,,I give the power to Daidragon.
+Dialogue: 0,0:19:07.45,0:19:09.25,Main Dialog,Spoken,0000,0000,0000,,And then I draw!
+Dialogue: 0,0:19:09.25,0:19:12.25,Main Dialog,Spoken,0000,0000,0000,,Thunder Arrow!
+Dialogue: 0,0:19:19.77,0:19:23.18,Main Dialog,Spoken,0000,0000,0000,,My powered-up Daidragon is going to attack.
+Dialogue: 0,0:19:23.79,0:19:26.14,Main Dialog,Spoken,0000,0000,0000,,With its skill, it gets +3000 power.
+Dialogue: 0,0:19:26.72,0:19:28.10,Main Dialog,Spoken,0000,0000,0000,,I won't lose!
+Dialogue: 0,0:19:28.10,0:19:28.97,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:19:33.04,0:19:36.52,Main Dialog,Spoken,0000,0000,0000,,Then I attack once more with Daidragon.
+Dialogue: 0,0:19:39.32,0:19:42.03,Main Dialog,Spoken,0000,0000,0000,,Guard! And intercept!
+Dialogue: 0,0:19:43.82,0:19:45.03,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:19:46.78,0:19:48.29,Main Dialog,Spoken,0000,0000,0000,,I protected myself.
+Dialogue: 0,0:19:48.84,0:19:50.85,Main Dialog,Spoken,0000,0000,0000,,Impressive as ever, Yuri.
+Dialogue: 0,0:19:50.85,0:19:54.43,Main Dialog,Spoken,0000,0000,0000,,But you don't have many \Nunits or cards in your hand.
+Dialogue: 0,0:19:54.43,0:19:58.19,Main Dialog,Spoken,0000,0000,0000,,You don't even have a break \Nride in the next turn.
+Dialogue: 0,0:19:58.19,0:20:01.30,Main Dialog,Spoken,0000,0000,0000,,Your attacks won't reach "Reverse" Daiyusha.
+Dialogue: 0,0:20:01.96,0:20:03.43,Main Dialog,Spoken,0000,0000,0000,,Slim chance indeed!
+Dialogue: 0,0:20:04.09,0:20:05.77,Main Dialog,Spoken,0000,0000,0000,,But it's not zero!
+Dialogue: 0,0:20:05.77,0:20:09.43,Main Dialog,Spoken,0000,0000,0000,,If there's even a remote possibility, \NI'm not going to give up!
+Dialogue: 0,0:20:09.43,0:20:11.35,Main Dialog,Spoken,0000,0000,0000,,Not on getting you back!
+Dialogue: 0,0:20:13.89,0:20:14.81,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:20:15.29,0:20:16.71,Main Dialog,Spoken,0000,0000,0000,,Justice Cobalt!
+Dialogue: 0,0:20:18.08,0:20:22.57,Main Dialog,Spoken,0000,0000,0000,,Remember all of your hard work! \NRemember your justice!
+Dialogue: 0,0:20:25.57,0:20:27.08,Main Dialog,Spoken,0000,0000,0000,,Perfect guard!
+Dialogue: 0,0:20:27.73,0:20:30.74,Main Dialog,Spoken,0000,0000,0000,,Come back! Come back to the real you!
+Dialogue: 0,0:20:33.92,0:20:35.08,Main Dialog,Spoken,0000,0000,0000,,Guard.
+Dialogue: 0,0:20:35.66,0:20:37.88,Main Dialog,Spoken,0000,0000,0000,,Mitsusada!
+Dialogue: 0,0:20:41.40,0:20:44.59,Main Dialog,Spoken,0000,0000,0000,,Daidragon is going to guard too.
+Dialogue: 0,0:20:47.64,0:20:49.60,Main Dialog,Spoken,0000,0000,0000,,No... Mitsusada...
+Dialogue: 0,0:20:50.31,0:20:51.60,Main Dialog,Spoken,0000,0000,0000,,It's like I keep telling you.
+Dialogue: 0,0:20:52.12,0:20:54.43,Main Dialog,Spoken,0000,0000,0000,,Effort is meaningless.
+Dialogue: 0,0:20:54.43,0:20:57.51,Main Dialog,Spoken,0000,0000,0000,,Absolute power is what's necessary!
+Dialogue: 0,0:20:58.91,0:21:01.11,Main Dialog,Spoken,0000,0000,0000,,Now, I'll show you.
+Dialogue: 0,0:21:01.11,0:21:02.49,Main Dialog,Spoken,0000,0000,0000,,This is power.
+Dialogue: 0,0:21:02.88,0:21:04.32,Main Dialog,Spoken,0000,0000,0000,,This is justice!
+Dialogue: 0,0:21:05.33,0:21:07.24,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:21:07.54,0:21:08.92,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:21:15.18,0:21:16.41,Main Dialog,Spoken,0000,0000,0000,,Attack.
+Dialogue: 0,0:21:22.00,0:21:23.68,Main Dialog,Spoken,0000,0000,0000,,Drive trigger...
+Dialogue: 0,0:21:23.68,0:21:26.28,Main Dialog,Spoken,0000,0000,0000,,Though I really don't even need to check...
+Dialogue: 0,0:21:29.67,0:21:32.48,Main Dialog,Spoken,0000,0000,0000,,Thunder Arrow!
+Dialogue: 0,0:21:35.92,0:21:38.77,Main Dialog,Spoken,0000,0000,0000,,I won't give up. Not as \Nlong as there's a chance!
+Dialogue: 0,0:21:43.19,0:21:46.53,Main Dialog,Spoken,0000,0000,0000,,No trigger. I win.
+Dialogue: 0,0:21:47.11,0:21:47.91,Main Dialog,Spoken,0000,0000,0000,,Mitsusada...
+Dialogue: 0,0:22:01.78,0:22:03.49,Main Dialog,Spoken,0000,0000,0000,,Mitsu...sada...
+Dialogue: 0,0:22:09.18,0:22:13.31,Main Dialog,Spoken,0000,0000,0000,,Well, Yuri... Let's paint the \Nworld in darkness together.
+Dialogue: 0,0:22:14.50,0:22:17.75,Main Dialog,Spoken,0000,0000,0000,,Yes. As you command, Your Imperial Majesty.
+Dialogue: 0,0:23:56.62,0:24:01.25,Main Dialog,Spoken,0000,0000,0000,,Your Imperial Majesty, I've found the \Nnext opponent that should be beaten.
+Dialogue: 0,0:24:01.25,0:24:05.88,Main Dialog,Spoken,0000,0000,0000,,It's Leon Souryu, the man who plays a large \Nrole in the legend of the Souryu Tribe.
+Dialogue: 0,0:24:06.05,0:24:09.92,Main Dialog,Spoken,0000,0000,0000,,So my opponent is Aqua Force, which \Npreaches absolute justice. What fun!
+Dialogue: 0,0:24:09.92,0:24:13.40,Main Dialog,Spoken,0000,0000,0000,,I had no idea that a Reversed \NDaiyusha would be this terrifying!
+Dialogue: 0,0:24:13.40,0:24:16.39,Main Dialog,Spoken,0000,0000,0000,,Next time: Dark Dimensional \NCombination! Reversed Daiyusha!
+Dialogue: 0,0:24:14.14,0:24:24.98,Signs,Spoken,0000,0000,0000,,Dark Dimensional Combination! \NReversed Daiyusha!
+Dialogue: 0,0:24:16.79,0:24:20.02,Main Dialog,Spoken,0000,0000,0000,,No one can stop the advance of my army.
+Dialogue: 0,0:24:20.54,0:24:23.53,Main Dialog,Spoken,0000,0000,0000,,Not even if they're a legend!

@@ -1,0 +1,1267 @@
+1
+00:00:18,143 --> 00:00:19,186
+Stranded!
+
+2
+00:00:19,228 --> 00:00:21,063
+On a secret mission for the Republic,
+
+3
+00:00:21,188 --> 00:00:24,066
+Colonel Gascon
+and his intrepid droid squad
+
+4
+00:00:24,191 --> 00:00:27,736
+successfully steal an encryption module
+from a Separatist ship.
+
+5
+00:00:28,070 --> 00:00:32,199
+During their escape, our heroes crash
+on the Outer Rim planet of Abafar
+
+6
+00:00:32,824 --> 00:00:36,828
+and find themselves stranded
+in the strange wasteland called The Void.
+
+7
+00:00:37,371 --> 00:00:41,708
+Now, after surviving against all odds,
+our heroes must find a way home
+
+8
+00:00:41,834 --> 00:00:45,546
+and deliver the encryption module
+to crack the Separatist code
+
+9
+00:00:45,671 --> 00:00:47,381
+and stop an enemy attack.
+
+10
+00:00:49,883 --> 00:00:53,887
+I have never been to Tatooine,
+but if this place reminds you of it, Artoo,
+
+11
+00:00:54,012 --> 00:00:55,889
+remind me never to go there.
+
+12
+00:01:01,562 --> 00:01:05,065
+Don't be absurd, Qutee.
+These people aren't dangerous.
+
+13
+00:01:15,742 --> 00:01:20,247
+Most of these people are probably hiding
+from someone or something.
+
+14
+00:01:20,789 --> 00:01:23,959
+That's the way it is
+on these Outer Rim armpits.
+
+15
+00:01:24,084 --> 00:01:25,210
+Nobody's here by choice.
+
+16
+00:01:25,586 --> 00:01:27,254
+Which goes double for me!
+
+17
+00:01:27,421 --> 00:01:31,258
+I hope you have a plan
+to get us off this armpit, Colonel.
+
+18
+00:01:31,592 --> 00:01:33,427
+Of course I do, Corporal.
+
+19
+00:01:33,927 --> 00:01:37,306
+All we need is a communications uplink
+and some fuel.
+
+20
+00:01:39,099 --> 00:01:41,310
+Thank you for the reminder, Ceefor,
+
+21
+00:01:41,435 --> 00:01:44,438
+but I'm well aware
+our shuttle's lost in the Void.
+
+22
+00:01:44,479 --> 00:01:46,773
+I'm talking about fuel for me!
+
+23
+00:01:47,316 --> 00:01:50,319
+You droids can putter along
+on battery power,
+
+24
+00:01:50,444 --> 00:01:52,279
+but I need food to survive.
+
+25
+00:01:53,155 --> 00:01:55,240
+My power cells are running low, too.
+
+26
+00:01:55,616 --> 00:01:57,576
+And an oil bath would be nice.
+
+27
+00:01:57,826 --> 00:02:00,913
+All this dust is wreaking havoc
+on my joints.
+
+28
+00:02:02,581 --> 00:02:05,584
+Forget it, Beezee.
+We're not on vacation here.
+
+29
+00:02:05,792 --> 00:02:08,295
+Artoo, is the encryption module safe?
+
+30
+00:02:10,631 --> 00:02:15,093
+Nothing short of death or dismemberment
+will stop Colonel Meebur Gascon
+
+31
+00:02:15,135 --> 00:02:17,846
+from delivering that module to Coruscant.
+
+32
+00:02:22,476 --> 00:02:23,936
+Well, I'll be.
+
+33
+00:02:24,520 --> 00:02:27,189
+A diner! A place of eating!
+
+34
+00:02:27,523 --> 00:02:28,774
+I'm saved!
+
+35
+00:02:28,941 --> 00:02:31,652
+Artoo! You and the other mechs
+scout the perimeter,
+
+36
+00:02:31,777 --> 00:02:34,780
+find out if there are
+any unfriendlies around.
+
+37
+00:02:34,988 --> 00:02:39,493
+Corporal, you and I will refuel
+in this fine establishment.
+
+38
+00:02:55,133 --> 00:02:56,301
+Good day.
+
+39
+00:02:59,972 --> 00:03:04,184
+I am Colonel Gascon
+of the Grand Army of the Republic,
+
+40
+00:03:04,685 --> 00:03:07,145
+and I am here on very important business.
+
+41
+00:03:13,902 --> 00:03:15,362
+I don't have much time,
+
+42
+00:03:15,404 --> 00:03:18,532
+so if you'll be so kind
+as to fix me your daily special
+
+43
+00:03:18,574 --> 00:03:21,577
+- and let my droid recharge...
+- No droids!
+
+44
+00:03:24,371 --> 00:03:25,539
+Fine.
+
+45
+00:03:26,707 --> 00:03:28,584
+Wait for me outside, Corporal.
+
+46
+00:03:29,376 --> 00:03:31,712
+We don't serve your type, either!
+
+47
+00:03:32,421 --> 00:03:35,090
+What type are you referring to?
+
+48
+00:03:35,382 --> 00:03:37,968
+Conduit worms.
+
+49
+00:03:41,555 --> 00:03:44,600
+I beg your pardon. I am a Zilkan!
+
+50
+00:03:44,975 --> 00:03:49,479
+You'll be begging for your life
+if you don't beat it!
+
+51
+00:03:52,065 --> 00:03:54,067
+Beat it.
+
+52
+00:03:54,318 --> 00:03:56,069
+Uh-oh.
+
+53
+00:03:58,989 --> 00:04:01,575
+This is an outrage!
+
+54
+00:04:01,617 --> 00:04:05,662
+That monstrosity will rue the day
+he denied me a meal!
+
+55
+00:04:06,121 --> 00:04:07,748
+I would not push it, Colonel.
+
+56
+00:04:07,789 --> 00:04:10,417
+That monstrosity might make a meal
+out of you.
+
+57
+00:04:10,834 --> 00:04:13,462
+I don't care. I'm famished!
+
+58
+00:04:19,968 --> 00:04:22,012
+I think I can help.
+
+59
+00:04:33,815 --> 00:04:35,943
+Your meal awaits you, sir.
+
+60
+00:04:37,319 --> 00:04:41,615
+You short-circuiting hydrospanner.
+That's no meal!
+
+61
+00:04:41,698 --> 00:04:43,492
+That is garbage!
+
+62
+00:04:43,659 --> 00:04:46,370
+What is the difference?
+It is edible, is it not?
+
+63
+00:04:46,828 --> 00:04:48,622
+Ugh!
+
+64
+00:05:13,146 --> 00:05:14,815
+Oh!
+
+65
+00:05:15,983 --> 00:05:17,150
+Oh!
+
+66
+00:05:17,192 --> 00:05:18,902
+Sorry. I didn't see you there.
+
+67
+00:05:19,319 --> 00:05:23,365
+Look, I can get you some food,
+but normally people come in the front door.
+
+68
+00:05:23,991 --> 00:05:25,075
+It's no problem.
+
+69
+00:05:27,160 --> 00:05:29,872
+You do know
+that you're eating garbage, right?
+
+70
+00:05:32,249 --> 00:05:34,001
+You're a clone!
+
+71
+00:05:34,376 --> 00:05:35,544
+Excuse me?
+
+72
+00:05:35,836 --> 00:05:37,004
+Uh...
+
+73
+00:05:37,754 --> 00:05:40,424
+I wouldn't know about that.
+My name's Gregor.
+
+74
+00:05:40,757 --> 00:05:42,759
+Uh, wait, what's a clone?
+
+75
+00:05:49,933 --> 00:05:52,102
+You are a clone!
+
+76
+00:05:52,186 --> 00:05:53,770
+Are you working undercover?
+
+77
+00:05:54,104 --> 00:05:56,899
+I don't know what you're talking about.
+
+78
+00:05:57,107 --> 00:05:59,484
+Listen to me, soldier.
+Whatever your assignment is,
+
+79
+00:05:59,568 --> 00:06:01,528
+it can't be more important than mine.
+
+80
+00:06:01,612 --> 00:06:03,238
+It is his first real mission.
+
+81
+00:06:03,488 --> 00:06:04,907
+He is just a map reader.
+
+82
+00:06:05,240 --> 00:06:07,367
+Don't listen to that ignoramus.
+
+83
+00:06:07,451 --> 00:06:10,954
+You are a clone
+and a soldier in the Republic Army,
+
+84
+00:06:11,038 --> 00:06:13,332
+and I order you to take me to your ship!
+
+85
+00:06:13,832 --> 00:06:16,043
+We need to get back
+to Coruscant immediately.
+
+86
+00:06:16,835 --> 00:06:19,171
+Look, friend, I was just trying to help.
+
+87
+00:06:19,421 --> 00:06:21,256
+I'm sorry if you took it the wrong way.
+
+88
+00:06:21,548 --> 00:06:24,426
+I do not think that soldier
+believes you are a colonel,
+
+89
+00:06:24,927 --> 00:06:26,053
+Colonel.
+
+90
+00:06:26,553 --> 00:06:29,848
+Gregor! Get back to work!
+
+91
+00:06:30,849 --> 00:06:33,519
+Excuse me, I gotta go.
+I don't want to lose my job.
+
+92
+00:06:37,022 --> 00:06:39,274
+But I'm still hungry!
+
+93
+00:06:52,037 --> 00:06:54,665
+Well? What's the scouting report?
+
+94
+00:06:58,627 --> 00:07:00,546
+Separatist droids? Hmm.
+
+95
+00:07:00,712 --> 00:07:03,048
+Well, that complicates matters.
+
+96
+00:07:06,301 --> 00:07:09,346
+So, uh, boss,
+
+97
+00:07:09,888 --> 00:07:11,682
+you know,
+I was just wondering...
+
+98
+00:07:11,765 --> 00:07:14,393
+No, you can't have a raise, Gregor.
+
+99
+00:07:14,810 --> 00:07:17,354
+Oh, no, no, no, I don't want a raise.
+
+100
+00:07:18,021 --> 00:07:20,774
+I just wanted to know, what's a clone?
+
+101
+00:07:21,817 --> 00:07:25,904
+Someone told me I was a clone today.
+They insisted.
+
+102
+00:07:26,280 --> 00:07:27,948
+A clone?
+
+103
+00:07:28,282 --> 00:07:31,034
+Clones fight battles across the galaxy.
+
+104
+00:07:31,368 --> 00:07:33,078
+They are brave soldiers.
+
+105
+00:07:33,412 --> 00:07:35,747
+Does that sound like you?
+
+106
+00:07:36,456 --> 00:07:39,334
+You're a dishwasher, Gregor.
+
+107
+00:07:39,418 --> 00:07:42,838
+Forget about clones or anything like that.
+
+108
+00:07:42,963 --> 00:07:46,800
+You have good life here, a simple life.
+
+109
+00:07:47,092 --> 00:07:49,678
+More than you had when Borkus found you.
+
+110
+00:07:49,928 --> 00:07:53,098
+I know, sir, and I appreciate
+everything that you've done, believe me.
+
+111
+00:07:53,348 --> 00:07:57,477
+But I thought maybe you could...
+Could you tell me, how did I get here?
+
+112
+00:07:57,978 --> 00:07:59,104
+Where did you find me?
+
+113
+00:07:59,271 --> 00:08:01,690
+Enough questions! Go home. Sleep!
+
+114
+00:08:02,399 --> 00:08:04,109
+Come back tomorrow, do your job.
+
+115
+00:08:05,652 --> 00:08:09,489
+And I don't ever want to hear
+that word "clone" again. Understand?
+
+116
+00:08:20,542 --> 00:08:25,005
+Colonel, I cannot help noticing
+that we are already on our third plan.
+
+117
+00:08:25,839 --> 00:08:30,260
+Smart battle strategy requires
+flexibility and improvisation,
+
+118
+00:08:30,677 --> 00:08:32,721
+something droids are not known for.
+
+119
+00:08:35,057 --> 00:08:38,560
+Artoo is right.
+Droids are not known for being flexible
+
+120
+00:08:38,727 --> 00:08:41,480
+because we are programmed
+to be right the first time.
+
+121
+00:08:41,813 --> 00:08:43,815
+Well, answer me this, Corporal.
+
+122
+00:08:43,899 --> 00:08:46,693
+If the Jedi Council thought
+one of you droids
+
+123
+00:08:46,777 --> 00:08:49,029
+were better prepared to lead this mission,
+
+124
+00:08:49,154 --> 00:08:51,281
+then why did they put me in charge?
+
+125
+00:08:51,865 --> 00:08:54,618
+'Cause you're the only one
+who could fit inside Beezee.
+
+126
+00:08:56,828 --> 00:09:00,415
+No, it is because
+my power of deduction told me
+
+127
+00:09:00,499 --> 00:09:03,460
+that if there are Separatist droids
+on Abafar,
+
+128
+00:09:03,710 --> 00:09:06,380
+then there must be a landing zone nearby,
+
+129
+00:09:06,463 --> 00:09:09,508
+where there will be, no doubt,
+a shuttle to take us home.
+
+130
+00:09:10,467 --> 00:09:13,929
+That, Corporal, is why I am in charge.
+
+131
+00:09:17,224 --> 00:09:19,935
+Now, we are going to waltz down there,
+
+132
+00:09:20,018 --> 00:09:22,938
+undetected, just like we did
+on the dreadnought,
+
+133
+00:09:23,021 --> 00:09:26,191
+and commandeer that shuttle
+without incident.
+
+134
+00:09:28,777 --> 00:09:30,070
+The mechs have a point, Colonel.
+
+135
+00:09:30,153 --> 00:09:31,864
+After what we did on the dreadnought,
+
+136
+00:09:31,947 --> 00:09:34,950
+those battle droids probably have
+our identities scanned.
+
+137
+00:09:35,033 --> 00:09:37,911
+We will have to fight our way
+onto the shuttle this time.
+
+138
+00:09:37,995 --> 00:09:40,205
+Mmm, you droids may have a point.
+
+139
+00:09:40,455 --> 00:09:44,835
+But there's no way in Malachor
+that I'm gonna lead this pitiful squad
+
+140
+00:09:44,918 --> 00:09:47,379
+on an assault of that landing zone.
+
+141
+00:09:47,713 --> 00:09:49,047
+What is the plan now, Colonel?
+
+142
+00:09:49,423 --> 00:09:53,051
+We're going to wait
+until our clone gets off work,
+
+143
+00:09:53,135 --> 00:09:57,139
+then enlist his help,
+whether he wants to or not.
+
+144
+00:10:50,192 --> 00:10:52,694
+- Captain Rex, reporting for duty.
+- What?
+
+145
+00:10:59,076 --> 00:11:00,202
+I...
+
+146
+00:11:01,036 --> 00:11:03,205
+I don't understand. That's...
+
+147
+00:11:04,122 --> 00:11:06,834
+- Me?
+- No, that's Captain Rex.
+
+148
+00:11:07,167 --> 00:11:11,547
+He's a clone in the Republic Army,
+just like you, Gregor.
+
+149
+00:11:12,130 --> 00:11:14,174
+I can't believe it.
+
+150
+00:11:15,634 --> 00:11:16,969
+Okay, slow down, slow down.
+
+151
+00:11:17,052 --> 00:11:21,390
+So you're telling me
+that there are more of these clones.
+
+152
+00:11:21,723 --> 00:11:23,851
+Millions. A whole army's worth.
+
+153
+00:11:24,685 --> 00:11:25,811
+Aha.
+
+154
+00:11:26,478 --> 00:11:30,774
+- And they all look exactly like me?
+- No.
+
+155
+00:11:31,024 --> 00:11:36,029
+Those clones are warriors, professional
+soldiers created by the Republic,
+
+156
+00:11:36,196 --> 00:11:39,575
+trained to fight, and die if necessary,
+
+157
+00:11:39,658 --> 00:11:41,368
+in our war against the Separatists.
+
+158
+00:11:41,952 --> 00:11:46,665
+They're not dishwashers
+living in some vermin-infested hovel.
+
+159
+00:11:48,750 --> 00:11:51,211
+Look, I'm lucky to live in this place.
+
+160
+00:11:51,587 --> 00:11:54,506
+Mr. Borkus says
+my salary doesn't even cover the rent,
+
+161
+00:11:54,590 --> 00:11:57,926
+- so he pays the difference for me.
+- Don't you get it, Gregor?
+
+162
+00:11:58,302 --> 00:12:01,889
+You're his slave!
+We need to figure out who you really are,
+
+163
+00:12:01,972 --> 00:12:03,307
+how you got here.
+
+164
+00:12:03,932 --> 00:12:05,809
+Are you sure
+you don't remember anything?
+
+165
+00:12:06,727 --> 00:12:09,521
+Well, all I remember
+
+166
+00:12:10,022 --> 00:12:12,691
+is waking up on a transport.
+
+167
+00:12:12,774 --> 00:12:15,944
+Somehow we crashed on Abafar, and...
+
+168
+00:12:16,028 --> 00:12:19,364
+Well, Mr. Borkus says I have amnesia.
+
+169
+00:12:19,573 --> 00:12:23,869
+Hmm. Every clone has an identifying code
+on their wrist.
+
+170
+00:12:23,952 --> 00:12:26,371
+Your military records will be
+in the database.
+
+171
+00:12:26,788 --> 00:12:28,123
+Scan him, Artoo.
+
+172
+00:12:35,714 --> 00:12:36,965
+Impressive.
+
+173
+00:12:37,466 --> 00:12:42,846
+Gregor, your designation is CC5576-39.
+
+174
+00:12:43,096 --> 00:12:46,642
+You were a captain
+and part of an elite squad.
+
+175
+00:12:47,684 --> 00:12:49,186
+A clone commando.
+
+176
+00:12:51,897 --> 00:12:54,566
+Your file says you were reported
+missing in action
+
+177
+00:12:54,650 --> 00:12:57,861
+during the Battle of Sarrish.
+
+178
+00:12:59,321 --> 00:13:00,531
+Sarrish?
+
+179
+00:13:01,823 --> 00:13:03,158
+Sarrish.
+
+180
+00:13:03,909 --> 00:13:05,160
+Wait.
+
+181
+00:13:05,786 --> 00:13:07,788
+What was the Battle of Sarrish?
+
+182
+00:13:08,121 --> 00:13:11,792
+It was one of the Republic's
+most devastating losses.
+
+183
+00:13:11,875 --> 00:13:13,544
+Sarrish.
+
+184
+00:13:14,419 --> 00:13:17,256
+Yes. Yes, I remember now.
+
+185
+00:13:18,173 --> 00:13:19,883
+So many soldiers were dying.
+
+186
+00:13:20,509 --> 00:13:23,720
+Do you remember
+how you escaped Sarrish?
+
+187
+00:13:25,556 --> 00:13:29,852
+No. I just remember
+seeing all those bodies.
+
+188
+00:13:31,270 --> 00:13:32,312
+Bodies everywhere.
+
+189
+00:13:33,480 --> 00:13:35,566
+I knew I had to get help,
+
+190
+00:13:35,649 --> 00:13:38,735
+but that's where the memory stops.
+
+191
+00:13:38,944 --> 00:13:42,906
+Well, soldier, there's nothing you can do
+about that battle now,
+
+192
+00:13:43,407 --> 00:13:45,158
+but you can help us.
+
+193
+00:13:45,617 --> 00:13:47,619
+Our mission depends on it.
+
+194
+00:13:55,252 --> 00:13:59,214
+Colonel, Gregor said to give him
+five minutes, but it has been six.
+
+195
+00:13:59,882 --> 00:14:01,842
+What if he does not accept
+your offer to join us?
+
+196
+00:14:02,134 --> 00:14:06,221
+Then I'll go back in there
+and personally knock some sense into him!
+
+197
+00:14:06,471 --> 00:14:08,640
+- That won't be necessary.
+- Oh.
+
+198
+00:14:10,225 --> 00:14:13,979
+I figured at least looking like a soldier
+might bring back some more memories.
+
+199
+00:14:14,062 --> 00:14:16,231
+Until I recover my equipment, anyway.
+
+200
+00:14:16,565 --> 00:14:17,941
+I overheard you guys talking.
+
+201
+00:14:18,525 --> 00:14:20,527
+I think I know where my armor is.
+
+202
+00:14:20,611 --> 00:14:21,987
+Let's go check out the diner.
+
+203
+00:14:31,705 --> 00:14:34,082
+Step it up, soldiers! This isn't a party.
+
+204
+00:14:34,374 --> 00:14:36,043
+We do not have all night.
+
+205
+00:14:39,421 --> 00:14:40,964
+Looking for this?
+
+206
+00:14:46,053 --> 00:14:48,180
+My uniform. My equipment!
+
+207
+00:14:49,765 --> 00:14:52,559
+All this time, you knew who I was
+and didn't tell me?
+
+208
+00:14:53,018 --> 00:14:56,647
+- Why?
+- I don't care who you were.
+
+209
+00:14:56,939 --> 00:14:58,565
+You are dishwasher now!
+
+210
+00:14:58,982 --> 00:15:02,486
+And you owe me
+for saving you from your crash!
+
+211
+00:15:03,111 --> 00:15:05,697
+Your life is mine, Gregor.
+
+212
+00:15:05,781 --> 00:15:08,742
+You didn't save me.
+You turned me into a slave!
+
+213
+00:15:09,368 --> 00:15:11,787
+I've worked in this dump,
+taken orders from you,
+
+214
+00:15:11,870 --> 00:15:13,622
+when I could have been fighting
+for the Republic!
+
+215
+00:15:13,914 --> 00:15:14,998
+I want my life back!
+
+216
+00:15:15,874 --> 00:15:17,709
+You want your freedom, Gregor?
+
+217
+00:15:18,126 --> 00:15:19,837
+Take your gun from me.
+
+218
+00:15:20,128 --> 00:15:21,880
+Show me you are a soldier.
+
+219
+00:15:23,841 --> 00:15:27,052
+You see? You are no soldier.
+
+220
+00:15:27,302 --> 00:15:29,972
+You are a dishwasher!
+
+221
+00:15:37,980 --> 00:15:39,815
+Why, you no-good droids!
+
+222
+00:15:40,858 --> 00:15:42,442
+Let go of me!
+
+223
+00:15:47,948 --> 00:15:51,034
+Take your things, Gregor.
+We're getting out of here.
+
+224
+00:15:53,954 --> 00:15:55,414
+Don't leave, Gregor.
+
+225
+00:15:55,455 --> 00:15:57,624
+It's a big galaxy out there.
+
+226
+00:15:57,916 --> 00:15:58,959
+Bigger than you know!
+
+227
+00:15:59,459 --> 00:16:02,296
+Stay here, where your life is simple.
+
+228
+00:16:02,629 --> 00:16:04,464
+Simple isn't good enough anymore.
+
+229
+00:16:05,132 --> 00:16:06,425
+Not for this clone.
+
+230
+00:16:06,967 --> 00:16:09,928
+Ha! You will never get off Abafar.
+
+231
+00:16:10,304 --> 00:16:13,473
+You and your little Republic friends.
+
+232
+00:16:13,724 --> 00:16:16,310
+Not after your Jedi cruiser blows up!
+
+233
+00:16:17,144 --> 00:16:18,937
+What are you talking about?
+
+234
+00:16:19,313 --> 00:16:22,316
+Why do you think the Separatists
+bother coming here?
+
+235
+00:16:23,567 --> 00:16:26,820
+They are mining our Rhydonium
+to load on the shuttle
+
+236
+00:16:26,904 --> 00:16:28,614
+and destroy your ride home!
+
+237
+00:16:31,283 --> 00:16:35,329
+You will see, you will all be stuck here,
+
+238
+00:16:35,579 --> 00:16:38,832
+begging Borkus for a job
+in his diner!
+
+239
+00:17:00,187 --> 00:17:02,940
+Okay, let's see what we're up against.
+
+240
+00:17:03,023 --> 00:17:04,066
+Gregor?
+
+241
+00:17:10,072 --> 00:17:11,448
+Wait. There!
+
+242
+00:17:11,823 --> 00:17:13,075
+There's a cruiser up there.
+
+243
+00:17:14,243 --> 00:17:15,661
+And that shuttle. I think...
+
+244
+00:17:15,744 --> 00:17:16,912
+Yes.
+
+245
+00:17:17,246 --> 00:17:19,540
+It's being loaded up
+with Rhydonium canisters.
+
+246
+00:17:22,209 --> 00:17:26,463
+Ah, I guess Mr. Borkus was actually
+telling the truth, for once.
+
+247
+00:17:26,839 --> 00:17:28,799
+What exactly is Rhydonium?
+
+248
+00:17:29,091 --> 00:17:32,177
+It's a fuel,
+mostly been mined out on Abafar.
+
+249
+00:17:32,761 --> 00:17:34,096
+It's volatile and dangerous.
+
+250
+00:17:36,682 --> 00:17:38,934
+Yes, we do have a new mission.
+
+251
+00:17:39,393 --> 00:17:42,646
+Stop the Separatists
+from blowing up that cruiser.
+
+252
+00:17:43,397 --> 00:17:46,400
+I'll cover you and clear the way, Colonel.
+You all head straight to the shuttle.
+
+253
+00:17:46,567 --> 00:17:48,277
+I'll take care of those clankers.
+
+254
+00:17:48,402 --> 00:17:50,571
+Mmm, sounds like a good plan.
+
+255
+00:17:51,071 --> 00:17:53,407
+You soldiers ready to get dangerous?
+
+256
+00:17:57,995 --> 00:17:59,079
+I'll meet you at the shuttle, sir.
+
+257
+00:18:00,581 --> 00:18:01,874
+Let's roll.
+
+258
+00:18:09,464 --> 00:18:10,549
+Hey!
+
+259
+00:18:12,968 --> 00:18:15,429
+You need authorization to enter this area.
+
+260
+00:18:19,641 --> 00:18:20,809
+Get them!
+
+261
+00:18:38,660 --> 00:18:40,037
+Good job, Gregor!
+
+262
+00:18:46,627 --> 00:18:48,045
+Look! He's up there!
+
+263
+00:18:57,221 --> 00:18:59,515
+Just keep moving! It is all under control!
+
+264
+00:19:07,064 --> 00:19:09,691
+I'm beginning to remember
+how much I hate these guys.
+
+265
+00:19:14,363 --> 00:19:16,490
+Hey, I don't recognize those astromechs.
+
+266
+00:19:16,573 --> 00:19:17,616
+Blast them!
+
+267
+00:19:18,742 --> 00:19:19,827
+They are on to us!
+
+268
+00:19:23,372 --> 00:19:24,957
+Colonel! Can you hear me?
+
+269
+00:19:25,457 --> 00:19:27,835
+- Save yourselves!
+- Okay!
+
+270
+00:19:28,043 --> 00:19:29,211
+Whoa!
+
+271
+00:19:30,170 --> 00:19:31,421
+Whoa.
+
+272
+00:19:42,641 --> 00:19:43,976
+Did everybody make it?
+
+273
+00:19:45,143 --> 00:19:47,437
+No, Beezee and the Colonel
+are still out there.
+
+274
+00:19:47,771 --> 00:19:49,022
+Get the shuttle ready to roll.
+
+275
+00:19:58,198 --> 00:19:59,324
+Colonel! You all right?
+
+276
+00:19:59,533 --> 00:20:01,910
+I'll never make it back alive.
+
+277
+00:20:02,077 --> 00:20:04,788
+Yes, you will, sir!
+This is what I was born to do.
+
+278
+00:20:04,872 --> 00:20:06,957
+Now go, before it's too late!
+
+279
+00:20:29,605 --> 00:20:31,398
+It's been an honor
+serving with you, Colonel.
+
+280
+00:20:34,401 --> 00:20:37,779
+Artoo's right.
+We can swing back around and pick you up.
+
+281
+00:20:38,155 --> 00:20:39,615
+Don't worry about me!
+
+282
+00:20:40,490 --> 00:20:42,409
+You made me remember who I am!
+
+283
+00:20:42,451 --> 00:20:44,244
+I'll make my way home. I promise!
+
+284
+00:20:44,453 --> 00:20:45,496
+Now go!
+
+285
+00:20:49,791 --> 00:20:50,834
+Where is Gregor?
+
+286
+00:20:50,959 --> 00:20:52,336
+Where is Gregor?
+
+287
+00:20:53,086 --> 00:20:55,464
+He's doing what a soldier does,
+
+288
+00:20:55,631 --> 00:20:58,926
+sacrificing himself for the lives of others.
+
+289
+00:21:22,449 --> 00:21:24,952
+You will be remembered, Captain Gregor.
+
+290
+00:21:25,869 --> 00:21:29,456
+We will take your heroic story
+back to the Republic,
+
+291
+00:21:29,790 --> 00:21:32,209
+and we will watch for your return.
+

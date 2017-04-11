@@ -1,0 +1,937 @@
+1
+00:00:18,353 --> 00:00:19,896
+<i>Evil alliance.</i>
+
+2
+00:00:20,213 --> 00:00:22,462
+<i>Darth Maul and Savage Opress</i>
+
+3
+00:00:22,530 --> 00:00:26,290
+<i>escape Obi-Wan Kenobi's assault
+once again.</i>
+
+4
+00:00:26,358 --> 00:00:29,480
+<i>With their plan to build
+a crime organization in peril,</i>
+
+5
+00:00:29,548 --> 00:00:32,468
+<i>the brothers' fate
+is about to be changed forever</i>
+
+6
+00:00:32,536 --> 00:00:37,303
+<i>as they drift, barely alive,
+through unknown space.</i>
+
+7
+00:01:19,035 --> 00:01:21,249
+What are you?
+
+8
+00:01:21,318 --> 00:01:22,861
+Should we rub 'em out?
+
+9
+00:01:22,930 --> 00:01:26,453
+No, I want to hear their story.
+
+10
+00:01:26,522 --> 00:01:29,811
+If they're an enemy of the Jedi,
+then they're a friend of mine.
+
+11
+00:01:29,878 --> 00:01:31,522
+Load 'em up.
+
+12
+00:02:58,609 --> 00:03:00,388
+Savage...
+
+13
+00:03:09,011 --> 00:03:10,655
+You're not Jedi.
+
+14
+00:03:10,724 --> 00:03:11,763
+So what are you?
+
+15
+00:03:16,631 --> 00:03:19,953
+We are Sith.
+
+16
+00:03:20,961 --> 00:03:22,806
+Do you serve Count Dooku?
+
+17
+00:03:22,875 --> 00:03:25,760
+I serve no one.
+
+18
+00:03:25,829 --> 00:03:28,546
+I thought there could only be two Sith;
+
+19
+00:03:28,615 --> 00:03:30,862
+a master and an apprentice.
+
+20
+00:03:30,931 --> 00:03:33,649
+We are brothers.
+
+21
+00:03:33,717 --> 00:03:37,241
+The true Lords of the Sith.
+
+22
+00:03:37,309 --> 00:03:38,752
+What happened to your ship?
+
+23
+00:03:38,820 --> 00:03:41,773
+Destroyed by Jedi.
+
+24
+00:03:41,841 --> 00:03:43,351
+Do you know which Jedi?
+
+25
+00:03:43,419 --> 00:03:45,567
+Kenobi.
+
+26
+00:03:49,227 --> 00:03:51,643
+And what do you seek now, Sith?
+
+27
+00:03:51,712 --> 00:03:55,673
+Fortune and power.
+
+28
+00:03:55,740 --> 00:03:57,620
+Repair this one's legs,
+
+29
+00:03:57,688 --> 00:03:59,836
+and do what you can for the other.
+
+30
+00:03:59,905 --> 00:04:01,582
+Yes, sir.
+
+31
+00:04:08,802 --> 00:04:10,815
+Go on.
+Get moving.
+
+32
+00:04:17,968 --> 00:04:19,813
+In time for tea.
+
+33
+00:04:19,881 --> 00:04:21,324
+Come join me.
+
+34
+00:04:27,200 --> 00:04:30,488
+Made with the florets of a Cassius tree.
+
+35
+00:04:30,556 --> 00:04:32,166
+It's good for your health.
+
+36
+00:04:39,250 --> 00:04:40,558
+Your mark?
+
+37
+00:04:40,627 --> 00:04:42,942
+The sign of Clan Vizsla.
+
+38
+00:04:43,009 --> 00:04:44,821
+I am Pre Vizsla.
+
+39
+00:04:44,890 --> 00:04:46,567
+We are the Death Watch,
+
+40
+00:04:46,635 --> 00:04:48,446
+descendants of the true warrior faith
+
+41
+00:04:48,515 --> 00:04:50,931
+all Mandalorians once knew.
+
+42
+00:04:50,999 --> 00:04:52,541
+Now my people are living in exile
+
+43
+00:04:52,610 --> 00:04:55,597
+because we will not abandon
+our heritage.
+
+44
+00:04:55,665 --> 00:05:00,364
+Our people were warriors;
+strong, feared.
+
+45
+00:05:00,432 --> 00:05:02,479
+Now they're ruled
+by the new Mandalorians
+
+46
+00:05:02,547 --> 00:05:05,904
+who think that being a pacifist
+is a good thing.
+
+47
+00:05:05,972 --> 00:05:08,589
+They've given away our honor
+and tradition
+
+48
+00:05:08,658 --> 00:05:11,040
+for peace.
+
+49
+00:05:11,109 --> 00:05:13,089
+Duchess Satine
+and her corrupt leadership
+
+50
+00:05:13,156 --> 00:05:17,084
+are crushing our souls,
+destroying our identity.
+
+51
+00:05:17,151 --> 00:05:19,736
+That is our struggle.
+
+52
+00:05:19,805 --> 00:05:23,328
+If they are weak, why do you wait?
+
+53
+00:05:23,396 --> 00:05:25,611
+The duchess has powerful allies,
+
+54
+00:05:25,679 --> 00:05:28,297
+including your Jedi friend, Kenobi.
+
+55
+00:05:30,179 --> 00:05:34,206
+He is also responsible for our exile.
+
+56
+00:05:34,275 --> 00:05:37,564
+Perhaps fortune brought us together.
+
+57
+00:05:37,631 --> 00:05:40,584
+It is the will of the Force.
+
+58
+00:05:40,653 --> 00:05:44,244
+We can help you reclaim Mandalore.
+
+59
+00:05:44,311 --> 00:05:48,170
+And punish Kenobi for his trespasses.
+
+60
+00:05:48,239 --> 00:05:50,755
+We allied ourselves with Sith before.
+
+61
+00:05:50,824 --> 00:05:53,373
+Count Dooku, he betrayed us.
+
+62
+00:05:53,442 --> 00:05:55,018
+Sith are no better than Jedi.
+
+63
+00:05:55,087 --> 00:05:57,973
+They claim to be powerful,
+but we put these two
+
+64
+00:05:58,041 --> 00:06:00,524
+back together
+after the Jedi gutted them.
+
+65
+00:06:01,700 --> 00:06:05,189
+Doubt will only lead to failure.
+
+66
+00:06:06,701 --> 00:06:07,942
+Hold!
+
+67
+00:06:08,010 --> 00:06:11,467
+Our combined strength will be rewarded.
+
+68
+00:06:11,536 --> 00:06:13,448
+Mandalore will be yours,
+
+69
+00:06:13,516 --> 00:06:17,006
+and Kenobi, this Sith pretender Dooku,
+
+70
+00:06:17,075 --> 00:06:21,438
+and all our enemies will fall.
+
+71
+00:06:24,494 --> 00:06:26,205
+Check on your brother.
+
+72
+00:06:26,273 --> 00:06:27,783
+We'll put it to a vote.
+
+73
+00:06:50,812 --> 00:06:52,423
+Rest, apprentice.
+
+74
+00:06:52,492 --> 00:06:53,833
+You're safe.
+
+75
+00:06:57,829 --> 00:07:01,051
+Our crash was discovered
+by enemies of the Jedi,
+
+76
+00:07:01,119 --> 00:07:03,937
+and we are in their care.
+
+77
+00:07:06,020 --> 00:07:07,294
+Are we prisoners?
+
+78
+00:07:07,362 --> 00:07:09,644
+No.
+
+79
+00:07:09,713 --> 00:07:11,390
+Allies.
+
+80
+00:07:11,458 --> 00:07:14,176
+They have much to offer,
+including their planet.
+
+81
+00:07:14,244 --> 00:07:17,265
+They are strong, and unlike pirates,
+
+82
+00:07:17,333 --> 00:07:19,379
+they possess honor.
+
+83
+00:07:19,448 --> 00:07:21,697
+Another weakness.
+
+84
+00:07:21,764 --> 00:07:24,517
+They know nothing of our intentions.
+
+85
+00:07:24,584 --> 00:07:28,613
+Those revelations will come too late.
+
+86
+00:07:34,725 --> 00:07:36,435
+I see you have your strength back.
+
+87
+00:07:36,504 --> 00:07:37,510
+Ugh.
+
+88
+00:07:45,602 --> 00:07:47,481
+I never got your names.
+
+89
+00:07:47,549 --> 00:07:49,864
+I am Maul.
+
+90
+00:07:49,933 --> 00:07:51,845
+This is Savage.
+
+91
+00:07:51,913 --> 00:07:53,993
+Our brothers are in favor of an alliance
+
+92
+00:07:54,062 --> 00:07:55,538
+to liberate Mandalore.
+
+93
+00:07:55,606 --> 00:07:58,894
+This duchess of yours will soon discover
+
+94
+00:07:58,963 --> 00:08:02,118
+the true burden of peace.
+
+95
+00:08:13,972 --> 00:08:16,388
+Your people are strong and skilled,
+
+96
+00:08:16,456 --> 00:08:20,081
+but you will need an army
+to free Mandalore.
+
+97
+00:08:20,150 --> 00:08:23,271
+There are more on Mandalore
+who'll join us.
+
+98
+00:08:23,339 --> 00:08:25,452
+Their help would come too late.
+
+99
+00:08:25,521 --> 00:08:29,413
+We can assemble an army,
+beginning with the Black Sun.
+
+100
+00:08:29,482 --> 00:08:31,461
+They're a crime syndicate.
+
+101
+00:08:31,529 --> 00:08:33,409
+Hardly a force to rally with.
+
+102
+00:08:33,476 --> 00:08:35,992
+They can provide us
+with the resources we need
+
+103
+00:08:36,061 --> 00:08:40,929
+to sustain a war without
+the scrutiny of the Republic.
+
+104
+00:09:32,488 --> 00:09:34,367
+A battalion, brother.
+
+105
+00:09:34,435 --> 00:09:37,389
+They will serve us well.
+
+106
+00:09:40,545 --> 00:09:43,732
+We request an audience
+with your leaders.
+
+107
+00:09:43,801 --> 00:09:46,117
+It'll be your funeral.
+
+108
+00:10:07,031 --> 00:10:09,180
+Why do you come here?
+
+109
+00:10:09,248 --> 00:10:11,697
+We seek an army.
+
+110
+00:10:11,765 --> 00:10:13,141
+Fools.
+
+111
+00:10:13,209 --> 00:10:15,222
+We are not mercenaries.
+
+112
+00:10:15,291 --> 00:10:17,102
+Dispose of them.
+
+113
+00:10:17,170 --> 00:10:20,594
+Keep their ships and weapons.
+
+114
+00:10:20,663 --> 00:10:22,676
+Give me that one's sword.
+
+115
+00:10:35,201 --> 00:10:38,591
+This is your last opportunity
+to join us.
+
+116
+00:10:38,659 --> 00:10:40,572
+Quiet.
+
+117
+00:10:40,639 --> 00:10:42,720
+We are the Black Sun!
+
+118
+00:10:48,327 --> 00:10:50,106
+Hmm.
+
+119
+00:10:50,174 --> 00:10:51,919
+Very well, then.
+
+120
+00:11:01,723 --> 00:11:05,986
+It would seem the decision
+to join us is now yours.
+
+121
+00:11:06,054 --> 00:11:08,806
+After careful consideration,
+
+122
+00:11:08,874 --> 00:11:10,652
+we will join you.
+
+123
+00:11:10,721 --> 00:11:13,003
+Show us your supplies.
+
+124
+00:11:28,044 --> 00:11:30,091
+We have our army now.
+
+125
+00:11:30,159 --> 00:11:33,348
+I have a plan to undermine Satine.
+
+126
+00:11:33,415 --> 00:11:35,798
+The army is weak.
+
+127
+00:11:35,866 --> 00:11:38,785
+We are not ready for the duchess.
+
+128
+00:11:38,853 --> 00:11:41,941
+With my plan,
+we won't need a bigger force.
+
+129
+00:11:42,009 --> 00:11:45,030
+There is only one plan.
+
+130
+00:11:45,098 --> 00:11:46,271
+One vision.
+
+131
+00:11:46,340 --> 00:11:49,360
+And it belongs to Death Watch.
+
+132
+00:11:49,429 --> 00:11:51,879
+Your vision lacks clarity.
+
+133
+00:11:51,946 --> 00:11:54,531
+Without us, you have no army
+
+134
+00:11:54,599 --> 00:11:58,157
+and no reason to replace the duchess.
+
+135
+00:11:59,500 --> 00:12:02,286
+The depth of this opportunity
+eludes you.
+
+136
+00:12:02,354 --> 00:12:05,375
+You shall watch and learn.
+
+137
+00:12:37,906 --> 00:12:39,315
+More criminals.
+
+138
+00:12:39,383 --> 00:12:41,933
+Spice dealers connected
+to all the crime families
+
+139
+00:12:42,001 --> 00:12:43,510
+of Coruscant.
+
+140
+00:12:43,579 --> 00:12:44,786
+The Pykes.
+
+141
+00:12:44,854 --> 00:12:47,506
+They will be the next to join us.
+
+142
+00:12:49,320 --> 00:12:52,004
+We know you've been forming an army.
+
+143
+00:12:52,072 --> 00:12:54,589
+Were you expecting us?
+
+144
+00:12:54,657 --> 00:12:57,375
+Underworld's a small community.
+
+145
+00:12:57,443 --> 00:13:00,363
+I have no desire to oppose you.
+
+146
+00:13:00,431 --> 00:13:02,512
+We come to join you.
+
+147
+00:13:04,661 --> 00:13:06,137
+Very good.
+
+148
+00:13:06,206 --> 00:13:08,085
+Then ready our troops.
+
+149
+00:13:08,153 --> 00:13:10,368
+We leave for Nal Hutta immediately.
+
+150
+00:13:20,709 --> 00:13:26,584
+<i>Da wanga oo Stuka Crispo,
+pa ranna hi dopa.</i>
+
+151
+00:13:26,651 --> 00:13:29,538
+There are many things
+the Hutts influence and possess
+
+152
+00:13:29,606 --> 00:13:31,115
+that would be useful to us.
+
+153
+00:13:31,184 --> 00:13:33,769
+<i>Ah'chu apenkee?</i>
+
+154
+00:13:33,837 --> 00:13:35,481
+We have no credits.
+
+155
+00:13:35,549 --> 00:13:39,945
+<i>Chut chut,
+bargon de moolee-rah?</i>
+
+156
+00:13:40,014 --> 00:13:41,423
+Your lives
+
+157
+00:13:41,491 --> 00:13:45,350
+in exchange for Hutt Space
+and everything in its borders.
+
+158
+00:13:48,272 --> 00:13:49,480
+<i>Bunta chupo.</i>
+
+159
+00:13:55,727 --> 00:13:58,680
+<i>Stoopa yatuka.</i>
+
+160
+00:14:17,984 --> 00:14:19,360
+Uh!
+
+161
+00:14:33,929 --> 00:14:34,936
+Ah!
+
+162
+00:14:42,455 --> 00:14:43,455
+Wah.
+
+163
+00:14:43,464 --> 00:14:44,464
+Uh!
+
+164
+00:14:49,708 --> 00:14:52,963
+<i>Killya hooha!</i>
+
+165
+00:15:08,916 --> 00:15:11,734
+I see negotiations have gone as planned.
+
+166
+00:15:11,802 --> 00:15:13,346
+Secure this platform!
+
+167
+00:15:17,408 --> 00:15:18,415
+Ugh!
+
+168
+00:15:28,488 --> 00:15:29,528
+Gah!
+
+169
+00:15:31,107 --> 00:15:32,482
+Retreat!
+Retreat!
+
+170
+00:15:32,551 --> 00:15:33,551
+Back inside!
+
+171
+00:15:57,092 --> 00:15:58,099
+Yah!
+
+172
+00:16:05,655 --> 00:16:06,655
+Uh!
+
+173
+00:16:23,313 --> 00:16:24,990
+Whoa!
+
+174
+00:16:51,279 --> 00:16:52,285
+Ugh!
+
+175
+00:17:01,619 --> 00:17:02,994
+Whoa!
+
+176
+00:17:11,656 --> 00:17:13,569
+Come on, let's get out of here.
+
+177
+00:17:15,752 --> 00:17:17,295
+Ahh.
+
+178
+00:17:17,364 --> 00:17:19,477
+Let them go.
+
+179
+00:17:19,545 --> 00:17:23,270
+They're only bounty hunters;
+they have no allegiance.
+
+180
+00:17:31,965 --> 00:17:34,045
+Sir, the Hutts have escaped.
+
+181
+00:17:34,113 --> 00:17:36,093
+Except one.
+
+182
+00:17:39,316 --> 00:17:41,094
+Where are the others?
+
+183
+00:17:41,163 --> 00:17:43,210
+<i>Hopa!</i>
+
+184
+00:17:43,278 --> 00:17:45,459
+<i>Hopa!</i>
+
+185
+00:17:47,474 --> 00:17:48,716
+Kill him.
+
+186
+00:17:51,738 --> 00:17:53,348
+<i>Hagwa.
+Hagwa.</i>
+
+187
+00:17:53,416 --> 00:17:55,363
+<i>Hagwa.</i>
+
+188
+00:17:55,431 --> 00:17:57,914
+Give me a location.
+
+189
+00:17:57,982 --> 00:17:59,191
+Tatooine.
+
+190
+00:17:59,258 --> 00:18:00,600
+Tatooine.
+
+191
+00:18:00,669 --> 00:18:04,024
+Jabba's palace.
+
+192
+00:18:04,092 --> 00:18:06,073
+So the only thing that you can tell me
+
+193
+00:18:06,141 --> 00:18:10,505
+is that I will find Jabba
+at Jabba's palace?
+
+194
+00:19:30,475 --> 00:19:34,671
+<i>Do dee chabwon geesa bonkee bolla.</i>
+
+195
+00:19:34,739 --> 00:19:37,524
+Give up, Jabba.
+You're the only ones left.
+
+196
+00:19:38,768 --> 00:19:41,687
+Submit or suffer.
+
+197
+00:19:45,113 --> 00:19:50,718
+<i>Weeteebah fa foonta granee, meendeeya.</i>
+
+198
+00:19:50,787 --> 00:19:53,236
+The mighty Jabba and the Hutt families
+
+199
+00:19:53,304 --> 00:19:55,116
+have decided to join you.
+
+200
+00:20:09,888 --> 00:20:12,305
+Between the Hutts, Black Sun,
+and the Pykes,
+
+201
+00:20:12,373 --> 00:20:15,394
+we'll have a large reserve
+of muscle and supplies.
+
+202
+00:20:15,461 --> 00:20:17,173
+Yes.
+
+203
+00:20:17,241 --> 00:20:20,329
+Then Mandalore and Kenobi
+are still our priority?
+
+204
+00:20:20,396 --> 00:20:22,343
+They are vital.
+
+205
+00:20:22,412 --> 00:20:25,533
+I'm curious to hear the rest
+of your plan.
+
+206
+00:20:25,601 --> 00:20:27,849
+The vision has expanded.
+
+207
+00:20:27,917 --> 00:20:31,844
+You will still rule Mandalore,
+and under your protection,
+
+208
+00:20:31,913 --> 00:20:35,873
+I will command
+a new galactic underworld.
+
+209
+00:20:39,970 --> 00:20:44,132
+Mandalore influences a league
+of 2,000 neutral systems.
+
+210
+00:20:44,199 --> 00:20:47,724
+It gives you a great deal
+of options for your enterprise.
+
+211
+00:20:47,792 --> 00:20:51,115
+You have learned
+from your previous oversights.
+
+212
+00:20:51,183 --> 00:20:52,928
+With their combined forces,
+
+213
+00:20:52,996 --> 00:20:56,688
+the Republic and the Separatists
+will be irrelevant.
+
+214
+00:20:56,756 --> 00:20:58,165
+Then are we ready?
+
+215
+00:20:58,233 --> 00:21:00,414
+Mobilize the army.
+
+216
+00:21:00,482 --> 00:21:02,764
+Send an advanced guard to the capital.
+
+217
+00:21:02,832 --> 00:21:06,693
+I want a list of targets
+vital to Mandalore's security.
+
+218
+00:21:06,760 --> 00:21:08,806
+Choose wisely.
+
+219
+00:21:08,875 --> 00:21:11,661
+There will be no second chances.
+
+220
+00:21:22,338 --> 00:21:24,049
+Stay focused.
+
+221
+00:21:24,118 --> 00:21:27,172
+Mandalore will soon be ours,
+and Maul and his brother
+
+222
+00:21:27,241 --> 00:21:30,329
+will be dead alongside the duchess.
+

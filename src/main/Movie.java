@@ -14,7 +14,7 @@ public class Movie {
 
 	private String name;
 	private String youtubeId;
-	private String subDownloadLocation;
+	private List<String> subsLocations;
 	private List<String> genres;
 	private String releaseYear;
 
@@ -34,12 +34,12 @@ public class Movie {
 		this.genres = genres;
 	}
 
-	public String getSubDownloadLocation() {
-		return subDownloadLocation;
+	public List<String> getSubsLocations() {
+		return subsLocations;
 	}
 
-	public void setSubDownloadLocation(String subDownloadLocation) {
-		this.subDownloadLocation = subDownloadLocation;
+	public void setSubsLocations(List<String> subsLocations) {
+		this.subsLocations = subsLocations;
 	}
 
 	public String getName() {

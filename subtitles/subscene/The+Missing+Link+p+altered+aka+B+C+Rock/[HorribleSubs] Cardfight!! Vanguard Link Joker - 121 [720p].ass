@@ -1,0 +1,300 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.84,0:00:03.89,Main Dialog,Spoken,0000,0000,0000,,From Miyaji Academy: Aichi Sendou!
+Dialogue: 0,0:00:04.40,0:00:06.27,Main Dialog,Spoken,0000,0000,0000,,And from Hitsue High School...
+Dialogue: 0,0:00:08.22,0:00:10.21,Main Dialog,Spoken,0000,0000,0000,,...Yuuta Izaki!
+Dialogue: 0,0:00:13.30,0:00:14.92,Main Dialog,Spoken,0000,0000,0000,,Go get 'im, Izaki!
+Dialogue: 0,0:00:14.92,0:00:15.81,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:00:18.70,0:00:22.12,Main Dialog,Spoken,0000,0000,0000,,Aichi... I'm gonna knock you for a loop!
+Dialogue: 0,0:00:23.56,0:00:24.82,Main Dialog,Spoken,0000,0000,0000,,Izaki...
+Dialogue: 0,0:02:00.70,0:02:03.24,Main Dialog,Spoken,0000,0000,0000,,Morikawa's not playing, after all...
+Dialogue: 0,0:02:03.24,0:02:07.27,Main Dialog,Spoken,0000,0000,0000,,I'm surprised, too. After he \Nwent on about cutting me off...
+Dialogue: 0,0:02:08.14,0:02:10.90,Main Dialog,Spoken,0000,0000,0000,,Izaki? With his ability...
+Dialogue: 0,0:02:11.42,0:02:13.44,Main Dialog,Spoken,0000,0000,0000,,OOHL, yo!
+Dialogue: 0,0:02:13.44,0:02:16.36,Main Dialog,Spoken,0000,0000,0000,,Out of his league against \NAichi... Yeah, he sure is.
+Dialogue: 0,0:02:16.36,0:02:17.65,Main Dialog,Spoken,0000,0000,0000,,Yeah, right?
+Dialogue: 0,0:02:18.33,0:02:20.13,Main Dialog,Spoken,0000,0000,0000,,According to this information,
+Dialogue: 0,0:02:20.13,0:02:27.13,Main Dialog,Spoken,0000,0000,0000,,Yuuta Izaki has had no experience \Nparticipating in any of the official tournaments.
+Dialogue: 0,0:02:27.13,0:02:29.32,Main Dialog,Spoken,0000,0000,0000,,He's a completely unknown fighter.
+Dialogue: 0,0:02:30.69,0:02:35.25,Main Dialog,Spoken,0000,0000,0000,,And his opponent, Aichi Sendou, is \Na member of the celebrated Team Q4!
+Dialogue: 0,0:02:36.17,0:02:39.30,Main Dialog,Spoken,0000,0000,0000,,This is a combination where one \Nside is at a distinct disadvantage.
+Dialogue: 0,0:02:39.30,0:02:44.31,Signs,,0000,0000,0000,,A Man's Guts
+Dialogue: 0,0:02:44.62,0:02:48.60,Main Dialog,Spoken,0000,0000,0000,,With an unheard-of fighter like that, \Nthis will be a piece of cake for Sendou.
+Dialogue: 0,0:02:48.60,0:02:50.13,Main Dialog,Spoken,0000,0000,0000,,So you say,
+Dialogue: 0,0:02:50.13,0:02:54.33,Main Dialog,Spoken,0000,0000,0000,,but who's the one that got his butt kicked \Nby Miwa, the guy who fought Boss Lady?
+Dialogue: 0,0:02:55.52,0:02:58.57,Main Dialog,Spoken,0000,0000,0000,,Sendou! Please don't let your guard down!
+Dialogue: 0,0:03:01.73,0:03:05.25,Main Dialog,Spoken,0000,0000,0000,,We haven't fought each other \Nin a long time, Izaki.
+Dialogue: 0,0:03:05.25,0:03:06.45,Main Dialog,Spoken,0000,0000,0000,,I'm going to go all out!
+Dialogue: 0,0:03:07.22,0:03:09.17,Main Dialog,Spoken,0000,0000,0000,,Just what I wanted to hear.
+Dialogue: 0,0:03:09.17,0:03:10.46,Main Dialog,Spoken,0000,0000,0000,,Come and get me, Aichi!
+Dialogue: 0,0:03:11.22,0:03:13.71,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:03:19.13,0:03:20.81,Main Dialog,Spoken,0000,0000,0000,,Wingal Liberator!
+Dialogue: 0,0:03:21.69,0:03:23.96,Main Dialog,Spoken,0000,0000,0000,,Ancient Dragon, Babyrex!
+Dialogue: 0,0:03:28.80,0:03:33.16,Main Dialog,Spoken,0000,0000,0000,,This is great! I didn't think I'd get \Nthe chance to fight Aichi this early on!
+Dialogue: 0,0:03:37.24,0:03:38.23,Main Dialog,Spoken,0000,0000,0000,,Please!
+Dialogue: 0,0:03:38.77,0:03:42.74,Main Dialog,Spoken,0000,0000,0000,,When we fight Miyaji, let \Nme be in one of the matches!
+Dialogue: 0,0:03:43.73,0:03:46.18,Main Dialog,Spoken,0000,0000,0000,,W-What the heck? This is coming \Nfrom outta the black...
+Dialogue: 0,0:03:46.18,0:03:48.78,Main Dialog,Spoken,0000,0000,0000,,I think that's "out of the blue"...
+Dialogue: 0,0:03:48.78,0:03:52.81,Main Dialog,Spoken,0000,0000,0000,,Morikawa, please! I wanna fight Aichi!
+Dialogue: 0,0:03:57.20,0:03:59.97,Main Dialog,Spoken,0000,0000,0000,,This is the first time \NI've seen you so serious.
+Dialogue: 0,0:03:59.97,0:04:02.34,Main Dialog,Spoken,0000,0000,0000,,Seems like you've got a reason.
+Dialogue: 0,0:04:02.34,0:04:05.01,Main Dialog,Spoken,0000,0000,0000,,Go ahead, tell the strongest \Nfighter about it.
+Dialogue: 0,0:04:06.52,0:04:09.64,Main Dialog,Spoken,0000,0000,0000,,We recently played against \NMiyaji here, right?
+Dialogue: 0,0:04:10.02,0:04:10.98,Main Dialog,Spoken,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:10.98,0:04:13.31,Main Dialog,Spoken,0000,0000,0000,,You and Aichi fought...
+Dialogue: 0,0:04:14.40,0:04:18.92,Main Dialog,Spoken,0000,0000,0000,,It'd been a long time since I'd \Nseen Aichi fight up close...
+Dialogue: 0,0:04:18.92,0:04:22.88,Main Dialog,Spoken,0000,0000,0000,,A long time ago, he and I weren't \Nso different in terms of skill.
+Dialogue: 0,0:04:22.88,0:04:25.11,Main Dialog,Spoken,0000,0000,0000,,But now, to see him fight like that...
+Dialogue: 0,0:04:26.25,0:04:29.46,Main Dialog,Spoken,0000,0000,0000,,It made me wonder if I'm \Nsatisfied with my own skill.
+Dialogue: 0,0:04:29.90,0:04:34.24,Main Dialog,Spoken,0000,0000,0000,,Thinking about it burned me up.
+Dialogue: 0,0:04:36.20,0:04:41.37,Main Dialog,Spoken,0000,0000,0000,,How far can I get? \NI wanna find out for myself!
+Dialogue: 0,0:04:41.37,0:04:42.51,Main Dialog,Spoken,0000,0000,0000,,Izaki!
+Dialogue: 0,0:04:44.42,0:04:46.05,Main Dialog,Spoken,0000,0000,0000,,Morikawa...
+Dialogue: 0,0:04:46.05,0:04:49.10,Main Dialog,Spoken,0000,0000,0000,,I'm totally moved!
+Dialogue: 0,0:04:49.10,0:04:51.72,Main Dialog,Spoken,0000,0000,0000,,You're a real man!
+Dialogue: 0,0:04:51.72,0:04:54.02,Main Dialog,Spoken,0000,0000,0000,,I like that enthusiasm!
+Dialogue: 0,0:04:54.49,0:04:56.82,Main Dialog,Spoken,0000,0000,0000,,All right, I'll let you do it!
+Dialogue: 0,0:04:56.82,0:04:58.73,Main Dialog,Spoken,0000,0000,0000,,When we fight Miyaji, you get out there!
+Dialogue: 0,0:04:59.82,0:05:00.92,Main Dialog,Spoken,0000,0000,0000,,Morikawa...
+Dialogue: 0,0:05:00.92,0:05:03.74,Main Dialog,Spoken,0000,0000,0000,,"I wanna fight." \NIs that all?
+Dialogue: 0,0:05:04.88,0:05:08.99,Main Dialog,Spoken,0000,0000,0000,,If you don't aim to win, \Nthe fight has no value.
+Dialogue: 0,0:05:09.73,0:05:10.49,Main Dialog,Spoken,0000,0000,0000,,Win!
+Dialogue: 0,0:05:11.98,0:05:13.00,Main Dialog,Spoken,0000,0000,0000,,Come with me.
+Dialogue: 0,0:05:15.00,0:05:15.94,Main Dialog,Spoken,0000,0000,0000,,Kai!
+Dialogue: 0,0:05:16.37,0:05:18.74,Main Dialog,Spoken,0000,0000,0000,,I'm up next after Kai!
+Dialogue: 0,0:05:18.74,0:05:19.50,Main Dialog,Spoken,0000,0000,0000,,Miwa!
+Dialogue: 0,0:05:20.12,0:05:24.26,Main Dialog,Spoken,0000,0000,0000,,Every day, from now 'til the tournament, \Nwe're gonna do special training. Got it?
+Dialogue: 0,0:05:24.58,0:05:25.40,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:05:25.40,0:05:28.16,Main Dialog,Spoken,0000,0000,0000,,All right! I'm next after Miwa!
+Dialogue: 0,0:05:28.16,0:05:31.97,Main Dialog,Spoken,0000,0000,0000,,I'll do everything in my \Npower to make you stronger!
+Dialogue: 0,0:05:31.97,0:05:35.77,Main Dialog,Spoken,0000,0000,0000,,I'm gonna focus on this alone and \Nnot think about anything else!
+Dialogue: 0,0:05:37.41,0:05:39.27,Main Dialog,Spoken,0000,0000,0000,,Does that include Kourin?
+Dialogue: 0,0:05:41.69,0:05:45.40,Main Dialog,Spoken,0000,0000,0000,,Yeah! I'll show you! \NI'll cut Kourin off, too!
+Dialogue: 0,0:05:46.98,0:05:48.37,Main Dialog,Spoken,0000,0000,0000,,Are you prepared?
+Dialogue: 0,0:05:49.85,0:05:50.84,Main Dialog,Spoken,0000,0000,0000,,Yes!
+Dialogue: 0,0:05:53.90,0:05:56.78,Main Dialog,Spoken,0000,0000,0000,,Stand up the Vanguard!
+Dialogue: 0,0:05:53.90,0:05:56.78,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:05:59.89,0:06:04.17,Main Dialog,Spoken,0000,0000,0000,,Sendou's attack is finished. \NIzaki has 4 damage.
+Dialogue: 0,0:06:04.74,0:06:08.30,Main Dialog,Spoken,0000,0000,0000,,Sendou is in the lead with 3 damage.
+Dialogue: 0,0:06:10.81,0:06:14.86,Main Dialog,Spoken,0000,0000,0000,,Thanks, Miwa... Morikawa... Kai.
+Dialogue: 0,0:06:14.86,0:06:17.31,Main Dialog,Spoken,0000,0000,0000,,Thanks for helping me train.
+Dialogue: 0,0:06:17.89,0:06:22.97,Main Dialog,Spoken,0000,0000,0000,,I'm gonna show you just how \Nmuch progress I've made, Aichi!
+Dialogue: 0,0:06:26.77,0:06:28.99,Main Dialog,Spoken,0000,0000,0000,,Put the pride of your fighting \Ntribe on the line...
+Dialogue: 0,0:06:29.45,0:06:30.86,Main Dialog,Spoken,0000,0000,0000,,...and come back from ancient times!
+Dialogue: 0,0:06:31.04,0:06:32.24,Main Dialog,Spoken,0000,0000,0000,,Break ride!
+Dialogue: 0,0:06:32.84,0:06:35.28,Main Dialog,Spoken,0000,0000,0000,,Ancient Dragon, Spinodriver!
+Dialogue: 0,0:06:38.37,0:06:41.50,Main Dialog,Spoken,0000,0000,0000,,The break ride's skill! I put two \Nunits into the Drop Zone!
+Dialogue: 0,0:06:47.70,0:06:51.26,Main Dialog,Spoken,0000,0000,0000,,And that lets me prepare two new friends!
+Dialogue: 0,0:06:51.85,0:06:53.04,Main Dialog,Spoken,0000,0000,0000,,Draw!
+Dialogue: 0,0:06:53.04,0:06:58.52,Main Dialog,Spoken,0000,0000,0000,,On top of that, Spinodriver gets \N+10000 and an extra critical!
+Dialogue: 0,0:06:59.10,0:07:01.02,Main Dialog,Spoken,0000,0000,0000,,Next, Babyrex's skill!
+Dialogue: 0,0:07:01.70,0:07:06.78,Main Dialog,Spoken,0000,0000,0000,,When I put it in the Drop Zone, \NI get to superior call Tyrannolegend!
+Dialogue: 0,0:07:10.76,0:07:11.66,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:07:13.05,0:07:14.66,Main Dialog,Spoken,0000,0000,0000,,Here I go, Aichi!
+Dialogue: 0,0:07:17.78,0:07:21.24,Main Dialog,Spoken,0000,0000,0000,,Izaki... What fierce fighting spirit!
+Dialogue: 0,0:07:24.42,0:07:28.34,Main Dialog,Spoken,0000,0000,0000,,This is the first time I've \Nseen Izaki so psyched!
+Dialogue: 0,0:07:30.21,0:07:33.18,Main Dialog,Spoken,0000,0000,0000,,Go, Tyrannolegend! Attack Phallon!
+Dialogue: 0,0:07:33.70,0:07:34.55,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:07:34.90,0:07:37.72,Main Dialog,Spoken,0000,0000,0000,,Spinodriver, attack Gancelot!
+Dialogue: 0,0:07:44.00,0:07:46.23,Main Dialog,Spoken,0000,0000,0000,,I'm not the same person I was yesterday!
+Dialogue: 0,0:07:48.54,0:07:51.25,Main Dialog,Spoken,0000,0000,0000,,You're gonna take that damage!
+Dialogue: 0,0:07:51.95,0:07:54.07,Main Dialog,Spoken,0000,0000,0000,,Perfect guard with Mark!
+Dialogue: 0,0:08:01.22,0:08:04.08,Main Dialog,Spoken,0000,0000,0000,,Criollofall, attack Phallon!
+Dialogue: 0,0:08:10.78,0:08:16.86,Main Dialog,Spoken,0000,0000,0000,,Izaki took out one rear-guard, \Nbut wasn't able to do any damage.
+Dialogue: 0,0:08:16.86,0:08:20.29,Main Dialog,Spoken,0000,0000,0000,,Still, what an exciting devel-{\i1}o{\i0}-pment!
+Dialogue: 0,0:08:20.29,0:08:21.10,Main Dialog,Spoken,0000,0000,0000,,Right!
+Dialogue: 0,0:08:22.01,0:08:25.98,Main Dialog,Spoken,0000,0000,0000,,Well, it's Aichi. I never thought \Nthis would be easy...
+Dialogue: 0,0:08:27.01,0:08:28.18,Main Dialog,Spoken,0000,0000,0000,,Izaki...
+Dialogue: 0,0:08:29.06,0:08:31.24,Main Dialog,Spoken,0000,0000,0000,,I've got to widen the gap \Nbetween us right now!
+Dialogue: 0,0:08:35.30,0:08:36.32,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:08:36.81,0:08:38.22,Main Dialog,Spoken,0000,0000,0000,,I attack Criollofall!
+Dialogue: 0,0:08:41.77,0:08:42.58,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:08:49.52,0:08:51.12,Main Dialog,Spoken,0000,0000,0000,,I attack Spinodriver!
+Dialogue: 0,0:08:56.46,0:08:57.68,Main Dialog,Spoken,0000,0000,0000,,Perfect guard!
+Dialogue: 0,0:09:05.60,0:09:06.44,Main Dialog,Spoken,0000,0000,0000,,Alfred!
+Dialogue: 0,0:09:14.64,0:09:19.29,Main Dialog,Spoken,0000,0000,0000,,Sendou has Izaki on the \Nr-{\i1}o{\i0}-pes with 5 damage!
+Dialogue: 0,0:09:19.29,0:09:21.88,Main Dialog,Spoken,0000,0000,0000,,That makes the damage 3 to 5!
+Dialogue: 0,0:09:21.88,0:09:24.20,Main Dialog,Spoken,0000,0000,0000,,Sendou has a big lead!
+Dialogue: 0,0:09:24.69,0:09:26.37,Main Dialog,Spoken,0000,0000,0000,,Don't talk stupid!
+Dialogue: 0,0:09:26.37,0:09:28.45,Main Dialog,Spoken,0000,0000,0000,,Izaki was just warming up!
+Dialogue: 0,0:09:28.45,0:09:30.21,Main Dialog,Spoken,0000,0000,0000,,Cool down, Morikawa!
+Dialogue: 0,0:09:30.65,0:09:35.32,Main Dialog,Spoken,0000,0000,0000,,But he's right. The scariness of \NTachikaze is just about to be shown.
+Dialogue: 0,0:09:37.66,0:09:39.46,Main Dialog,Spoken,0000,0000,0000,,Watch this, Aichi.
+Dialogue: 0,0:09:40.54,0:09:42.82,Main Dialog,Spoken,0000,0000,0000,,I'm gonna win it this turn!
+Dialogue: 0,0:09:46.30,0:09:51.11,Main Dialog,Spoken,0000,0000,0000,,When this ballad of destruction rings \Nout, it signifies the end of the world!
+Dialogue: 0,0:09:51.52,0:09:52.85,Main Dialog,Spoken,0000,0000,0000,,Break ride!
+Dialogue: 0,0:09:54.80,0:09:57.54,Main Dialog,Spoken,0000,0000,0000,,Ancient Dragon, Tyrannolegend!
+Dialogue: 0,0:10:07.05,0:10:08.37,Main Dialog,Spoken,0000,0000,0000,,The break ride's skill!
+Dialogue: 0,0:10:21.44,0:10:24.47,Main Dialog,Spoken,0000,0000,0000,,Iguanogorg's skill! When I \Nput it in the Drop Zone...
+Dialogue: 0,0:10:24.47,0:10:28.48,Main Dialog,Spoken,0000,0000,0000,,...it can superior call \Nitself with a Counterblast!
+Dialogue: 0,0:10:29.88,0:10:31.20,Main Dialog,Spoken,0000,0000,0000,,What the heck is that?!
+Dialogue: 0,0:10:31.20,0:10:34.13,Main Dialog,Spoken,0000,0000,0000,,After Iguanogorg goes to the Drop Zone,
+Dialogue: 0,0:10:34.13,0:10:36.49,Main Dialog,Spoken,0000,0000,0000,,you can bring it back to the battle line.
+Dialogue: 0,0:10:36.82,0:10:40.24,Main Dialog,Spoken,0000,0000,0000,,Tyrannolegend's Especial Counterblast!
+Dialogue: 0,0:11:03.77,0:11:05.81,Main Dialog,Spoken,0000,0000,0000,,Your deck is Tachikaze.
+Dialogue: 0,0:11:06.33,0:11:08.52,Main Dialog,Spoken,0000,0000,0000,,Leave as many cards as you can in your hand.
+Dialogue: 0,0:11:09.54,0:11:11.70,Main Dialog,Spoken,0000,0000,0000,,Don't throw away cards by guarding.
+Dialogue: 0,0:11:12.62,0:11:18.15,Main Dialog,Spoken,0000,0000,0000,,Tachikaze's characteristic is powering \Nup by retiring your rear-guard.
+Dialogue: 0,0:11:18.53,0:11:23.53,Main Dialog,Spoken,0000,0000,0000,,So you've gotta look ahead to what you're \Ngonna do when the rear-guard is empty.
+Dialogue: 0,0:11:30.52,0:11:31.34,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:11:33.09,0:11:36.00,Main Dialog,Spoken,0000,0000,0000,,Oh, my! The rear-guard circle that was empty
+Dialogue: 0,0:11:36.49,0:11:39.01,Main Dialog,Spoken,0000,0000,0000,,has suddenly been filled with three units!
+Dialogue: 0,0:11:39.50,0:11:42.26,Main Dialog,Spoken,0000,0000,0000,,His offensive is plenty ready to attack!
+Dialogue: 0,0:11:42.26,0:11:47.76,Main Dialog,Spoken,0000,0000,0000,,And not only that, his Vanguard is the \Nmega-powerful dinosaur, Tyrannolegend!
+Dialogue: 0,0:11:48.34,0:11:50.77,Main Dialog,Spoken,0000,0000,0000,,Criollofall, attack Gallatin!
+Dialogue: 0,0:11:51.45,0:11:53.90,Main Dialog,Spoken,0000,0000,0000,,Izaki... is doin' great...
+Dialogue: 0,0:12:00.26,0:12:01.72,Main Dialog,Spoken,0000,0000,0000,,Hey, Aichi...
+Dialogue: 0,0:12:02.96,0:12:08.70,Main Dialog,Spoken,0000,0000,0000,,Way back when, just the idea of fighting \Nwas enough to make us nervous.
+Dialogue: 0,0:12:12.65,0:12:18.14,Main Dialog,Spoken,0000,0000,0000,,But eventually, you got so strong \Nthat I was nowhere near you anymore.
+Dialogue: 0,0:12:19.90,0:12:20.97,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:12:21.80,0:12:23.54,Main Dialog,Spoken,0000,0000,0000,,What you're looking at...
+Dialogue: 0,0:12:23.92,0:12:27.74,Main Dialog,Spoken,0000,0000,0000,,The view that only the strong can see...
+Dialogue: 0,0:12:30.78,0:12:32.85,Main Dialog,Spoken,0000,0000,0000,,I wanna see it, too!
+Dialogue: 0,0:12:34.36,0:12:35.52,Main Dialog,Spoken,0000,0000,0000,,Izaki...
+Dialogue: 0,0:12:35.94,0:12:36.98,Main Dialog,Spoken,0000,0000,0000,,Here I go!
+Dialogue: 0,0:12:37.62,0:12:40.73,Main Dialog,Spoken,0000,0000,0000,,Tyrannolegend, attack Gancelot!
+Dialogue: 0,0:12:44.82,0:12:46.49,Main Dialog,Spoken,0000,0000,0000,,Aichi, I'm gonna beat you!
+Dialogue: 0,0:12:47.17,0:12:49.83,Main Dialog,Spoken,0000,0000,0000,,And I'm gonna surpass the \Nlimits constantly to do it!
+Dialogue: 0,0:12:50.05,0:12:51.84,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:12:53.24,0:12:54.66,Main Dialog,Spoken,0000,0000,0000,,I sacrifice three units!
+Dialogue: 0,0:13:07.32,0:13:12.78,Main Dialog,Spoken,0000,0000,0000,,With those sacrifices, Tyrannolegend \Ngets +10000 and an extra critical!
+Dialogue: 0,0:13:19.22,0:13:21.33,Main Dialog,Spoken,0000,0000,0000,,That one unit has 36000 power!
+Dialogue: 0,0:13:21.33,0:13:24.41,Main Dialog,Spoken,0000,0000,0000,,And on top of that, it's got \Na total of three criticals!
+Dialogue: 0,0:13:24.41,0:13:25.82,Main Dialog,Spoken,0000,0000,0000,,Is it a monster?!
+Dialogue: 0,0:13:26.21,0:13:31.33,Main Dialog,Spoken,0000,0000,0000,,If his attack goes through, Aichi \Nwill lose right then and there.
+Dialogue: 0,0:13:31.58,0:13:34.17,Main Dialog,Spoken,0000,0000,0000,,Come back to life, Iguanogorg!
+Dialogue: 0,0:13:38.37,0:13:40.38,Main Dialog,Spoken,0000,0000,0000,,Epona! Please!
+Dialogue: 0,0:13:41.85,0:13:45.05,Main Dialog,Spoken,0000,0000,0000,,Also, Elixir Liberator! And Escrad!
+Dialogue: 0,0:13:45.52,0:13:47.13,Main Dialog,Spoken,0000,0000,0000,,You too, Marron!
+Dialogue: 0,0:13:49.18,0:13:50.74,Main Dialog,Spoken,0000,0000,0000,,Five cards to guard?!
+Dialogue: 0,0:13:50.74,0:13:52.62,Main Dialog,Spoken,0000,0000,0000,,He used up his whole hand!
+Dialogue: 0,0:13:52.62,0:13:54.85,Main Dialog,Spoken,0000,0000,0000,,If he hadn't, he wouldn't have \Nbeen able to block the attack!
+Dialogue: 0,0:13:55.46,0:13:58.22,Main Dialog,Spoken,0000,0000,0000,,Even so, it's not guaranteed \Nthat he can stop it.
+Dialogue: 0,0:13:59.24,0:14:03.82,Main Dialog,Spoken,0000,0000,0000,,If Izaki draws two triggers, he'll \Nhave more power than Aichi.
+Dialogue: 0,0:14:05.88,0:14:08.94,Main Dialog,Spoken,0000,0000,0000,,Right now, Tyrannolegend has three criticals.
+Dialogue: 0,0:14:08.94,0:14:10.74,Main Dialog,Spoken,0000,0000,0000,,If that attack goes through...
+Dialogue: 0,0:14:12.01,0:14:15.20,Main Dialog,Spoken,0000,0000,0000,,...the showdown will be decided!
+Dialogue: 0,0:14:18.01,0:14:19.81,Main Dialog,Spoken,0000,0000,0000,,He's incredible...
+Dialogue: 0,0:14:20.64,0:14:23.21,Main Dialog,Spoken,0000,0000,0000,,To paint Aichi into a corner like this...
+Dialogue: 0,0:14:25.66,0:14:27.78,Main Dialog,Spoken,0000,0000,0000,,Twin drive check!
+Dialogue: 0,0:14:33.24,0:14:35.85,Main Dialog,Spoken,0000,0000,0000,,There it is! A critical trigger!
+Dialogue: 0,0:14:35.85,0:14:39.23,Main Dialog,Spoken,0000,0000,0000,,Izaki drew a trigger!
+Dialogue: 0,0:14:40.00,0:14:43.82,Main Dialog,Spoken,0000,0000,0000,,I give the power to Tyrannolegend and \Nthe extra critical to Beamankylo!
+Dialogue: 0,0:14:49.24,0:14:50.72,Main Dialog,Spoken,0000,0000,0000,,Second check!
+Dialogue: 0,0:14:51.61,0:14:56.12,Main Dialog,Spoken,0000,0000,0000,,If the second card is a trigger as well, \NIzaki pretty much wins automatically!
+Dialogue: 0,0:14:58.10,0:14:59.62,Main Dialog,Spoken,0000,0000,0000,,Come on, trigger!
+Dialogue: 0,0:15:00.13,0:15:02.63,Main Dialog,Spoken,0000,0000,0000,,Come on, trigger! Come on, trigger!
+Dialogue: 0,0:15:03.26,0:15:04.52,Main Dialog,Spoken,0000,0000,0000,,Come on, trigger!
+Dialogue: 0,0:15:04.52,0:15:07.38,Main Dialog,Spoken,0000,0000,0000,,Come on, trigger! Come on, trigger!
+Dialogue: 0,0:15:19.74,0:15:22.57,Main Dialog,Spoken,0000,0000,0000,,Aww, too bad for Izaki!
+Dialogue: 0,0:15:22.57,0:15:25.33,Main Dialog,Spoken,0000,0000,0000,,The second card wasn't a trigger!
+Dialogue: 0,0:15:25.33,0:15:30.03,Main Dialog,Spoken,0000,0000,0000,,However, with that attack, \NSendou used up his entire hand!
+Dialogue: 0,0:15:30.49,0:15:33.41,Main Dialog,Spoken,0000,0000,0000,,He's unable to defend anymore!
+Dialogue: 0,0:15:40.68,0:15:42.21,Main Dialog,Spoken,0000,0000,0000,,Beamankylo attacks!
+Dialogue: 0,0:15:47.30,0:15:48.42,Main Dialog,Spoken,0000,0000,0000,,Beam Sweep!
+Dialogue: 0,0:15:57.48,0:15:59.43,Main Dialog,Spoken,0000,0000,0000,,Sendou takes 2 damage!
+Dialogue: 0,0:16:00.02,0:16:02.17,Main Dialog,Spoken,0000,0000,0000,,Now they both have 5 damage.
+Dialogue: 0,0:16:02.17,0:16:04.81,Main Dialog,Spoken,0000,0000,0000,,Sendou has also been boxed in!
+Dialogue: 0,0:16:05.33,0:16:07.08,Main Dialog,Spoken,0000,0000,0000,,Wow, what an amazing fight.
+Dialogue: 0,0:16:07.08,0:16:08.85,Main Dialog,Spoken,0000,0000,0000,,They're locked together!
+Dialogue: 0,0:16:08.85,0:16:12.21,Main Dialog,Spoken,0000,0000,0000,,Engaged in a powerful heated battle!
+Dialogue: 0,0:16:12.21,0:16:16.83,Main Dialog,Spoken,0000,0000,0000,,Sendou will do whatever it \Ntakes to end it this next turn.
+Dialogue: 0,0:16:17.40,0:16:18.93,Main Dialog,Spoken,0000,0000,0000,,However, he has zero cards in his hand.
+Dialogue: 0,0:16:18.93,0:16:22.75,Main Dialog,Spoken,0000,0000,0000,,And his left column is empty. You certainly \Ncan't call it a perfect framework.
+Dialogue: 0,0:16:23.81,0:16:28.84,Main Dialog,Spoken,0000,0000,0000,,If Izaki can hold out through this turn, \Nhe's got a very good chance of victory!
+Dialogue: 0,0:16:29.86,0:16:33.59,Main Dialog,Spoken,0000,0000,0000,,Sendou's nerve-wracking turn has begun!
+Dialogue: 0,0:16:37.22,0:16:39.17,Main Dialog,Spoken,0000,0000,0000,,I managed to protect myself,
+Dialogue: 0,0:16:39.17,0:16:43.60,Main Dialog,Spoken,0000,0000,0000,,but it wouldn't have been surprising \Nif Izaki had won with that attack.
+Dialogue: 0,0:16:44.46,0:16:46.98,Main Dialog,Spoken,0000,0000,0000,,But... I want to...
+Dialogue: 0,0:16:50.89,0:16:53.58,Main Dialog,Spoken,0000,0000,0000,,...win this fight, too!
+Dialogue: 0,0:16:59.01,0:17:02.26,Main Dialog,Spoken,0000,0000,0000,,Stand up, my avatar!
+Dialogue: 0,0:17:03.54,0:17:08.12,Main Dialog,Spoken,0000,0000,0000,,Call! Blaster Blade Liberator!
+Dialogue: 0,0:17:14.72,0:17:15.88,Main Dialog,Spoken,0000,0000,0000,,Skill activated!
+Dialogue: 0,0:17:22.65,0:17:24.10,Main Dialog,Spoken,0000,0000,0000,,Alfred attacks!
+Dialogue: 0,0:17:24.93,0:17:25.60,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:17:28.22,0:17:29.12,Main Dialog,Spoken,0000,0000,0000,,Gancelot!
+Dialogue: 0,0:17:33.86,0:17:34.74,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:17:40.62,0:17:42.66,Main Dialog,Spoken,0000,0000,0000,,18000 versus 21000!
+Dialogue: 0,0:17:42.66,0:17:44.74,Main Dialog,Spoken,0000,0000,0000,,At this point, he's possibly blocked it!
+Dialogue: 0,0:17:44.74,0:17:46.25,Main Dialog,Spoken,0000,0000,0000,,But we don't know yet.
+Dialogue: 0,0:17:46.66,0:17:52.05,Main Dialog,Spoken,0000,0000,0000,,If Sendou draws a trigger, \NIzaki's defeat is g-{\i1}o{\i0}-ing to be certain!
+Dialogue: 0,0:18:00.16,0:18:01.01,Main Dialog,Spoken,0000,0000,0000,,I see...
+Dialogue: 0,0:18:01.54,0:18:04.44,Main Dialog,Spoken,0000,0000,0000,,So this is the sight that you saw...
+Dialogue: 0,0:18:09.01,0:18:10.73,Main Dialog,Spoken,0000,0000,0000,,Twin drive check.
+Dialogue: 0,0:18:20.05,0:18:21.30,Main Dialog,Spoken,0000,0000,0000,,Second check...
+Dialogue: 0,0:18:53.37,0:18:55.53,Main Dialog,Spoken,0000,0000,0000,,The winner: Aichi Sendou!
+Dialogue: 0,0:19:00.72,0:19:02.46,Main Dialog,Spoken,0000,0000,0000,,I lost...
+Dialogue: 0,0:19:05.50,0:19:06.16,Main Dialog,Spoken,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:07.00,0:19:07.93,Main Dialog,Spoken,0000,0000,0000,,What is this?
+Dialogue: 0,0:19:08.65,0:19:10.67,Main Dialog,Spoken,0000,0000,0000,,I feel so frustrated...
+Dialogue: 0,0:19:29.86,0:19:31.38,Main Dialog,Spoken,0000,0000,0000,,Nice fight!
+Dialogue: 0,0:19:31.68,0:19:32.69,Main Dialog,Spoken,0000,0000,0000,,Both did great!
+Dialogue: 0,0:19:46.64,0:19:47.96,Main Dialog,Spoken,0000,0000,0000,,Well done!
+Dialogue: 0,0:19:47.96,0:19:55.45,Main Dialog,Spoken,0000,0000,0000,,The completely unknown Yuuta Izaki showed \Nus a wonderful fight with Aichi Sendou!
+Dialogue: 0,0:19:55.45,0:20:00.22,Main Dialog,Spoken,0000,0000,0000,,Right now, those two are being serenaded \Nwith thunderous applause from all over the hall!
+Dialogue: 0,0:20:01.05,0:20:02.47,Main Dialog,Spoken,0000,0000,0000,,This is the High School Championship...
+Dialogue: 0,0:20:03.05,0:20:06.06,Main Dialog,Spoken,0000,0000,0000,,This is what the VF High School \NChampionship is all about!
+Dialogue: 0,0:20:07.25,0:20:08.22,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:20:13.62,0:20:14.53,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:20:19.01,0:20:21.41,Main Dialog,Spoken,0000,0000,0000,,You're cool, Aichi!
+Dialogue: 0,0:20:21.41,0:20:23.11,Main Dialog,Spoken,0000,0000,0000,,You're cool too, Izaki!
+Dialogue: 0,0:20:24.84,0:20:27.12,Main Dialog,Spoken,0000,0000,0000,,Our High School Championship is over, huh?
+Dialogue: 0,0:20:27.84,0:20:28.72,Main Dialog,Spoken,0000,0000,0000,,Sorry...
+Dialogue: 0,0:20:28.72,0:20:31.12,Main Dialog,Spoken,0000,0000,0000,,You got nothin' to apologize about.
+Dialogue: 0,0:20:32.36,0:20:34.37,Main Dialog,Spoken,0000,0000,0000,,Nice fight! Right?
+Dialogue: 0,0:20:34.62,0:20:38.81,Main Dialog,Spoken,0000,0000,0000,,Yes! I could see bushido \Nin your fighting spirit!
+Dialogue: 0,0:20:40.64,0:20:46.61,Main Dialog,Spoken,0000,0000,0000,,We're a team. And as a team, \Nwe fought our best.
+Dialogue: 0,0:20:43.97,0:20:48.60,Signs,Sign,0000,0000,0000,,VF High School Championship\NKanto Block 3
+Dialogue: 0,0:20:47.45,0:20:48.21,Main Dialog,Spoken,0000,0000,0000,,Kai...
+Dialogue: 0,0:20:49.58,0:20:50.85,Main Dialog,Spoken,0000,0000,0000,,It was fun, wasn't it?
+Dialogue: 0,0:20:51.18,0:20:52.14,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:52.93,0:20:57.90,Main Dialog,Spoken,0000,0000,0000,,It's too bad I wasn't able to fight, \Nbut now that the fight's over...
+Dialogue: 0,0:20:57.98,0:20:59.86,Signs,Sign,0000,0000,0000,,Love
+Dialogue: 0,0:20:58.81,0:21:01.86,Main Dialog,Spoken,0000,0000,0000,,...my denial of Kourin is over!
+Dialogue: 0,0:21:00.19,0:21:01.23,Signs,Sign,0000,0000,0000,,Kourin Love
+Dialogue: 0,0:21:01.86,0:21:05.61,Main Dialog,Spoken,0000,0000,0000,,From here on out, Kourin, fight!
+Dialogue: 0,0:21:08.78,0:21:12.38,Main Dialog,Spoken,0000,0000,0000,,Today, Izaki showed a lot of ability.
+Dialogue: 0,0:21:13.44,0:21:14.52,Main Dialog,Spoken,0000,0000,0000,,But still...
+Dialogue: 0,0:21:18.26,0:21:21.57,Main Dialog,Spoken,0000,0000,0000,,Just how strong is Aichi getting?
+Dialogue: 0,0:21:23.69,0:21:26.63,Main Dialog,Spoken,0000,0000,0000,,We are so late!
+Dialogue: 0,0:21:28.86,0:21:31.57,Main Dialog,Spoken,0000,0000,0000,,I wonder if the tournament's gotten far.
+Dialogue: 0,0:21:31.57,0:21:34.00,Main Dialog,Spoken,0000,0000,0000,,I just hope Aichi and the \Nothers are still in it.
+Dialogue: 0,0:21:34.44,0:21:35.97,Main Dialog,Spoken,0000,0000,0000,,Miss Emi!
+Dialogue: 0,0:21:35.97,0:21:38.28,Main Dialog,Spoken,0000,0000,0000,,DDI! CCSLL, yo!
+Dialogue: 0,0:21:38.28,0:21:42.13,Main Dialog,Spoken,0000,0000,0000,,Don't do it! Cause a commotion here, and\Nyou'll be on the same level as Lose-umi!
+Dialogue: 0,0:21:43.73,0:21:48.03,Main Dialog,Spoken,0000,0000,0000,,At last, the final fight of the VF High \NSchool Championship, Kanto Block 3!
+Dialogue: 0,0:21:48.54,0:21:51.03,Main Dialog,Spoken,0000,0000,0000,,The two teams that have \Nwon out to the end are...
+Dialogue: 0,0:21:51.73,0:21:53.94,Main Dialog,Spoken,0000,0000,0000,,...Miyaji Academy's Cardfight Club...
+Dialogue: 0,0:21:53.94,0:21:57.56,Main Dialog,Spoken,0000,0000,0000,,...and Fukuhara High School's Vanguard Club!
+Dialogue: 0,0:21:58.54,0:22:02.29,Main Dialog,Spoken,0000,0000,0000,,No surprise that they're here, \Nthe most favored to win...
+Dialogue: 0,0:22:02.29,0:22:04.28,Main Dialog,Spoken,0000,0000,0000,,Well, no way are we gonna lose!
+Dialogue: 0,0:22:04.28,0:22:06.68,Main Dialog,Spoken,0000,0000,0000,,Let's give it all we've got, everyone!
+Dialogue: 0,0:22:06.68,0:22:07.73,Main Dialog,Spoken,0000,0000,0000,,Of course!
+Dialogue: 0,0:23:56.12,0:23:57.89,Main Dialog,Spoken,0000,0000,0000,,Both of you, that was a great fight!
+Dialogue: 0,0:23:57.89,0:24:00.22,Main Dialog,Spoken,0000,0000,0000,,Sorry. I lost after being \Nselfish about fighting...
+Dialogue: 0,0:24:00.22,0:24:01.61,Main Dialog,Spoken,0000,0000,0000,,Don't worry about it.
+Dialogue: 0,0:24:01.61,0:24:05.26,Main Dialog,Spoken,0000,0000,0000,,Kai, Miwa, and I all knew how you felt, \Nwhich is why we gave you special training.
+Dialogue: 0,0:24:05.26,0:24:09.66,Main Dialog,Spoken,0000,0000,0000,,Thank you, Izaki. Serious fights \Nlike that make us stronger.
+Dialogue: 0,0:24:09.66,0:24:11.22,Main Dialog,Spoken,0000,0000,0000,,Hitsue High club members,
+Dialogue: 0,0:24:11.22,0:24:14.72,Main Dialog,Spoken,0000,0000,0000,,we're going to straighten up and aim \Nfor the VF High School Championship!
+Dialogue: 0,0:24:14.72,0:24:17.04,Main Dialog,Spoken,0000,0000,0000,,Our next opponent is Fukuhara High School!
+Dialogue: 0,0:24:17.38,0:24:19.21,Main Dialog,Spoken,0000,0000,0000,,Next time: Challenger Naoki!
+Dialogue: 0,0:24:17.93,0:24:25.02,Signs,Sign,0000,0000,0000,,Challenger Naoki!
+Dialogue: 0,0:24:19.45,0:24:20.93,Main Dialog,Spoken,0000,0000,0000,,We've really got to get \Non the ball for this...
+Dialogue: 0,0:24:20.93,0:24:22.44,Main Dialog,Spoken,0000,0000,0000,,Kourin, good luck!
+Dialogue: 0,0:24:22.44,0:24:24.38,Main Dialog,Spoken,0000,0000,0000,,You know, you never change...

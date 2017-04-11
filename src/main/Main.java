@@ -23,6 +23,69 @@ public class Main {
     public final static String SUBTITLES_YOUTUBE_FOLDER = "subtitles/youtube/";
     private static Logger logger = Logger.getLogger(Main.class);
 
+    private static Map<String, Movie> ytIdToMovieWithOriginalSubs = readMoviesWithOriginalSubs();
+    private static Map<String, Movie> ytIdToMovieWithSyncedSubs = readMoviesWithSubsDownloadLocation("moviesWithSyncedSubtitles.txt");
+    private static Map<String, Movie> ytIdToMovieWithMultiplePossibleGoodSubtitles = readMoviesWithSubsDownloadLocation("moviesWithMultiplePossibleGoodSubtitles.txt");
+    private static Map<String, Movie> ytIdToMovie = readAllMovies();
+    //    private static Map<String, Movie> ytIdToMovieWithCcSubsFolder = readMoviesWithSubsDownloadLocation("moviesWithAutoCaptionedSubtitles.txt");
+
+    private static Map<String, Movie> readAllMovies() {
+        HashMap<String, Movie> ret = new HashMap<>();
+        ret.putAll(ytIdToMovieWithMultiplePossibleGoodSubtitles);
+        ret.putAll(ytIdToMovieWithSyncedSubs);
+        ret.putAll(ytIdToMovieWithOriginalSubs);
+        return ret;
+    }
+
+    private static Map<String, Movie> readMoviesWithSubsDownloadLocation(String fileName) {
+        HashMap<String, Movie> ret = new HashMap<String, Movie>();
+        List<Movie> movies = readMoviesFromFileWithSubsDownloadLocation(fileName);
+
+        movies.forEach(movie -> {
+            ret.put(movie.getYoutubeId(), movie);
+        });
+
+        return ret;
+    }
+
+    private static HashMap<String, Movie> readMoviesWithOriginalSubs()
+    {
+        HashMap<String, Movie> ret = new HashMap<String, Movie>();
+        List<Movie> movies = readMoviesFromFile("moviesWithOriginalSubs.txt");
+
+        List<String> files = getFileNamesFromFolder("subtitles/youtube/");
+        Map<String, String> ytIdToFileName = new HashMap<>();
+
+        files.forEach(file -> {
+            String ytId = file.split("_")[1];
+            ytIdToFileName.put(ytId, file);
+        });
+
+        movies.forEach(movie -> {
+            movie.setSubsLocations(Arrays.asList("subtitles/youtube/" + ytIdToFileName.get(movie.getYoutubeId())));
+            ret.put(movie.getYoutubeId(), movie);
+        });
+
+        return ret;
+    }
+
+    static List<String> getFileNamesFromFolder(String folderPath)
+    {
+        List<String> ret= new ArrayList();
+
+        File folder = new File(folderPath);
+        File[] listOfFiles = folder.listFiles();
+
+        for (int i = 0; i < listOfFiles.length; i++) {
+            if (listOfFiles[i].isFile()) {
+                ret.add(listOfFiles[i].getName());
+            } else if (listOfFiles[i].isDirectory()) {
+            }
+        }
+
+        return ret;
+    }
+
     static {
         youtubeLinks.add("https://www.youtube.com/watch?v=");
         youtubeLinks.add("http://www.youtube.com/watch?v=");
@@ -35,10 +98,14 @@ public class Main {
     }
 
     public static void main(String[] args) throws Exception {
+//        RedditParser redditParser = new RedditParser();
+//        List<Movie> movies = redditParser.start();
+//        saveToFile(movies, "allMovies.txt");
 
 //        downloadMoviesAndSubtitles();
 
-        downloadMoviesAndTryToFindSubtitlesAndSyncThem();
+//        downloadMoviesAndTryToFindSubtitlesAndSyncThem();
+        downloadMoviesAndFindSubtitles();
     }
 
     private static void downloadMoviesAndTryToFindSubtitlesAndSyncThem() throws IOException {
@@ -47,9 +114,10 @@ public class Main {
 
 //        List<Movie> moviesWithSubtitles = downloadSubs(movies, true);
 //        saveToFile(moviesWithSubtitles, "moviesWithAutoCaptionedSubtitles.txt");
-        List<Movie> moviesWithSubtitles = readMoviesFromFile("moviesWithAutoCaptionedSubtitles.txt");
+        List<Movie> moviesWithAutocaptionedSubtitles = readMoviesFromFile("moviesWithAutoCaptionedSubtitles.txt");
+        List<Movie> moviesWithSyncedFromSubsceneSubtitles = new ArrayList<>();
 
-        for(Movie movie : moviesWithSubtitles) {
+        for(Movie movie : moviesWithAutocaptionedSubtitles) {
 //            String movieName = "Hobgoblins";
             String movieName = movie.getName();
             movieName = movieName.replaceAll("\\(.+?\\)", "").replaceAll("\\(.+?\\)", "").trim();
@@ -58,17 +126,23 @@ public class Main {
 //            String ytId = "B9pHNwTyh7o";
             String ytId = movie.getYoutubeId();
             BufferedReader reader = new BufferedReader(
-                    new FileReader(movie.getSubDownloadLocation()));
+                    new FileReader(movie.getSubsLocations().iterator().next()));
 //        4OSSSp1qKQE, B9pHNwTyh7o
-            SubtitleFile ytSubtitleFile = new SubtitleFile(SubtitlesUtils.parseSubtitles(reader), ytId);
-
+            SubtitleFile ytSubtitleFile;
+            try {
+                ytSubtitleFile = new SubtitleFile(SubtitlesUtils.parseSubtitles(reader), ytId, movie.getSubsLocations().iterator().next());
+            } catch(Exception e)
+            {
+                System.out.println(e);
+                continue;
+            }
             SubsceneSubsParser subsceneParser = new SubsceneSubsParser();
             Set<SubtitleFile> subtitlesList = subsceneParser.getSubtitles(movieName, releaseYear);
             System.out.println(subtitlesList);
 //
             SubtitleFile mostSimiliarSubsFile = SubtitlesUtils.findMostSimiliarSubs(subtitlesList, ytSubtitleFile.subtitles);
 //
-            if(mostSimiliarSubsFile == null)
+            if(mostSimiliarSubsFile == null || mostSimiliarSubsFile.subtitles.size() == 0 || ytSubtitleFile.subtitles.size() == 0)
                 continue;
 
             SubtitlesCommon subtitleCommon =
@@ -87,12 +161,72 @@ public class Main {
                                 subtitleCommon.mostFrequentTimeDiff);
             }
 
-
+            String subDownloadLocation = "subtitles/subscene/adjustedFromAutoCaptioned/" + (movieName + "_" + new Date().toString()).replaceAll("[^a-zA-Z0-9\\.-]+", "_") + "_" + ytId + ".srt";
             SubtitlesUtils.writeSubtitlesToFile(mostSimiliarSubsFile.subtitles,
-                    Google2SRTDownloader.OUTPUT_FOLDER + movieName + "_" + new Date().toString().replace(":", ".") + "_" + ytId);
-//            saveToFile(moviesWithSubtitles);
+                    subDownloadLocation);
 //         downloadYtPictures(RedditParser.getExistingMovies());
+            movie.setSubsLocations(Arrays.asList(subDownloadLocation));
+            moviesWithSyncedFromSubsceneSubtitles.add(movie);
         }
+
+        saveToFile(moviesWithSyncedFromSubsceneSubtitles, "moviesWithSyncedSubtitles.txt");
+    }
+
+    private static void downloadMoviesAndFindSubtitles() throws IOException {
+        List<Movie> moviesWithSubtitles = new ArrayList<>();
+
+        List<Movie> movies = readMoviesFromFileWithSubsDownloadLocation("allMovies.txt");
+
+        for(Movie movie : movies) {
+
+            if(ytIdToMovie.get(movie.getYoutubeId()) != null)
+                continue;
+
+//            String movieName = "Hobgoblins";
+            String movieName = movie.getName();
+            movieName = movieName.replaceAll("\\(.+?\\)", "").replaceAll("\\[.+?\\]", "").trim();
+            String releaseYear = movie.getReleaseYear();
+
+            SubsceneSubsParser subsceneParser = new SubsceneSubsParser();
+            Set<SubtitleFile> subtitlesList = subsceneParser.getSubtitles(movieName, releaseYear);
+            if(subtitlesList == null || subtitlesList.isEmpty())
+                continue;
+            ArrayList subs = new ArrayList();
+            subtitlesList.forEach(subtitle -> {
+                subs.add(subtitle.getLocation());
+            });
+            movie.setSubsLocations(subs);
+            moviesWithSubtitles.add(movie);
+            saveToFile(moviesWithSubtitles, "moviesWithMultiplePossibleGoodSubtitles.txt");
+        }
+
+    }
+
+    private static List<Movie> readMoviesFromFileWithSubsDownloadLocation(String fileName) {
+        List<Movie> movies = new ArrayList<>();
+
+        try {
+            BufferedReader br = new BufferedReader(new FileReader(fileName));
+
+            String line;
+            while((line = br.readLine()) != null)
+            {
+                Movie m = new Movie();
+                m.setName(line);
+                m.setYoutubeId(br.readLine());
+                m.setReleaseYear(br.readLine());
+                m.setGenres(Arrays.asList(br.readLine().split(",")));
+                m.setSubsLocations(Arrays.asList(br.readLine()));
+                br.readLine();
+                movies.add(m);
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return movies;
     }
 
     private static List<Movie> readMoviesFromFile(String fileName) {
@@ -109,7 +243,6 @@ public class Main {
                 m.setYoutubeId(br.readLine());
                 m.setReleaseYear(br.readLine());
                 m.setGenres(Arrays.asList(br.readLine().split(",")));
-                m.setSubDownloadLocation(br.readLine());
                 br.readLine();
                 movies.add(m);
             }
@@ -142,7 +275,7 @@ public class Main {
                 String fileName = ytParser.getSubtitle(youtubeLink, downloadAutoCaptioned);
                 boolean found = fileName == null ? false : true;
                 if (found) {
-                    movie.setSubDownloadLocation(Main.SUBTITLES_YOUTUBE_FOLDER + fileName);
+                    movie.setSubsLocations(Arrays.asList(Main.SUBTITLES_YOUTUBE_FOLDER + fileName));
                     ret.add(movie);
                 } else {
 //                    cacheRepository.insert("noSubsForThisVideo#" + videoId, "y");
@@ -162,7 +295,7 @@ public class Main {
         for (Movie movie : movies) {
             try {
                 String movieString = movie.getName() + "\n" + movie.getYoutubeId() + "\n" + movie.getReleaseYear()
-                        + "\n" + (movie.getGenres() != null ? StringUtils.join(movie.getGenres(), ",") : "") + "\n" + movie.getSubDownloadLocation() + "\n\n";
+                        + "\n" + (movie.getGenres() != null ? StringUtils.join(movie.getGenres(), ",") : "") + "\n" + movie.getSubsLocations() + "\n\n";
 
                 Files.write(Paths.get(fileName), movieString.getBytes(), StandardOpenOption.APPEND);
             } catch (Exception e) {

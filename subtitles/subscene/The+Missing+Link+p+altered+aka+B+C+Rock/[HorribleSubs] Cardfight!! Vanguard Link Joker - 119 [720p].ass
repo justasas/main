@@ -1,0 +1,383 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.30,0:00:03.64,Main Dialog,,0000,0000,0000,,Are you okay, Amaterasu?
+Dialogue: 0,0:00:04.16,0:00:05.97,Main Dialog,,0000,0000,0000,,Thank you for your patience!
+Dialogue: 0,0:00:05.97,0:00:09.54,Main Dialog,,0000,0000,0000,,The hero, King of Knights, Alfred, is here!
+Dialogue: 0,0:00:09.54,0:00:11.69,Main Dialog,,0000,0000,0000,,I was waiting for you, Kourin!
+Dialogue: 0,0:00:15.16,0:00:18.28,Main Dialog,,0000,0000,0000,,I had faith you would come!
+Dialogue: 0,0:00:21.86,0:00:23.79,Main Dialog,,0000,0000,0000,,Thank goodness she got here in time...
+Dialogue: 0,0:00:24.09,0:00:26.09,Main Dialog,,0000,0000,0000,,Yeah, but this is wrecked...
+Dialogue: 0,0:00:27.16,0:00:29.08,Main Dialog,,0000,0000,0000,,We've reached the climax at last!
+Dialogue: 0,0:00:29.08,0:00:31.67,Main Dialog,,0000,0000,0000,,Alfred's battle is going to begin!
+Dialogue: 0,0:00:32.24,0:00:35.50,Main Dialog,,0000,0000,0000,,The dragon you're supposed to \Nfight can't come out any more.
+Dialogue: 0,0:00:35.50,0:00:36.27,Main Dialog,,0000,0000,0000,,What should we do?
+Dialogue: 0,0:00:36.65,0:00:38.10,Main Dialog,,0000,0000,0000,,No problem.
+Dialogue: 0,0:00:38.62,0:00:41.22,Main Dialog,,0000,0000,0000,,The true enemy that I'm going to fight...
+Dialogue: 0,0:00:41.22,0:00:43.31,Main Dialog,,0000,0000,0000,,...is over there!
+Dialogue: 0,0:00:47.92,0:00:48.94,Main Dialog,,0000,0000,0000,,Daigo?!
+Dialogue: 0,0:00:49.39,0:00:50.21,Main Dialog,,0000,0000,0000,,It's Daigo!
+Dialogue: 0,0:00:52.96,0:00:54.88,Main Dialog,,0000,0000,0000,,D-D-D-D-D-Daigo?!
+Dialogue: 0,0:00:54.88,0:00:59.17,Main Dialog,,0000,0000,0000,,The genuine legendary \Nfighter, Daigo, is here!
+Dialogue: 0,0:00:59.69,0:01:00.99,Main Dialog,,0000,0000,0000,,Daigo?!
+Dialogue: 0,0:02:38.92,0:02:41.90,Main Dialog,,0000,0000,0000,,Wow! That's the genuine Daigo!
+Dialogue: 0,0:02:41.90,0:02:43.26,Main Dialog,,0000,0000,0000,,What's he doing here?
+Dialogue: 0,0:02:43.74,0:02:45.41,Main Dialog,,0000,0000,0000,,What's gonna happen now?
+Dialogue: 0,0:02:45.41,0:02:47.02,Main Dialog,,0000,0000,0000,,I... I don't know...
+Dialogue: 0,0:02:47.29,0:02:49.12,Main Dialog,,0000,0000,0000,,Daigo!
+Dialogue: 0,0:02:49.12,0:02:50.18,Main Dialog,,0000,0000,0000,,It's Daigo!
+Dialogue: 0,0:02:50.18,0:02:51.27,Main Dialog,,0000,0000,0000,,Awesome!
+Dialogue: 0,0:02:55.48,0:02:56.15,Main Dialog,,0000,0000,0000,,Hi!
+Dialogue: 0,0:02:57.84,0:02:58.88,Main Dialog,,0000,0000,0000,,Hello...
+Dialogue: 0,0:02:58.88,0:03:00.32,Main Dialog,,0000,0000,0000,,Have you met him?
+Dialogue: 0,0:03:00.32,0:03:02.25,Main Dialog,,0000,0000,0000,,Once, a while back...
+Dialogue: 0,0:03:02.92,0:03:04.66,Main Dialog,,0000,0000,0000,,So that's Daigo...
+Dialogue: 0,0:03:07.80,0:03:10.88,Main Dialog,,0000,0000,0000,,Daigo is appearing in my play...?!
+Dialogue: 0,0:03:11.76,0:03:14.54,Main Dialog,,0000,0000,0000,,I'm touched! Gratified!
+Dialogue: 0,0:03:17.70,0:03:20.30,Main Dialog,,0000,0000,0000,,Nice to see you!
+Dialogue: 0,0:03:27.66,0:03:31.56,Main Dialog,,0000,0000,0000,,So you're Daigo, the one who kidnapped \NAmaterasu under orders from the dragon, huh?!
+Dialogue: 0,0:03:33.02,0:03:34.81,Main Dialog,,0000,0000,0000,,I guess there's no point in denying it now.
+Dialogue: 0,0:03:35.48,0:03:38.14,Main Dialog,,0000,0000,0000,,That's right! I'm your opponent!
+Dialogue: 0,0:03:41.46,0:03:44.70,Main Dialog,,0000,0000,0000,,I'll tell you one thing. You \Ncan't take me down with a sword.
+Dialogue: 0,0:03:47.29,0:03:48.70,Main Dialog,,0000,0000,0000,,If you want a showdown with me,
+Dialogue: 0,0:03:49.49,0:03:52.06,Main Dialog,,0000,0000,0000,,it'll have to be a Vanguard Cardfight!
+Dialogue: 0,0:03:53.93,0:03:56.56,Main Dialog,,0000,0000,0000,,Don't worry! I'm sure Kourin will win!
+Dialogue: 0,0:03:57.96,0:03:59.76,Main Dialog,,0000,0000,0000,,Is it really true that Daigo's here?!
+Dialogue: 0,0:04:01.08,0:04:03.34,Main Dialog,,0000,0000,0000,,He's doing something on the stage?!
+Dialogue: 0,0:04:03.34,0:04:04.45,Main Dialog,,0000,0000,0000,,Really?!
+Dialogue: 0,0:04:05.16,0:04:06.42,Main Dialog,,0000,0000,0000,,We have to go see!
+Dialogue: 0,0:04:06.42,0:04:08.38,Main Dialog,,0000,0000,0000,,Maybe I can get his autograph, too!
+Dialogue: 0,0:04:17.50,0:04:19.36,Main Dialog,,0000,0000,0000,,Stand back, Amaterasu.
+Dialogue: 0,0:04:22.56,0:04:24.20,Main Dialog,,0000,0000,0000,,I swear I'll win,
+Dialogue: 0,0:04:24.20,0:04:26.24,Main Dialog,,0000,0000,0000,,then save you!
+Dialogue: 0,0:04:27.26,0:04:29.99,Main Dialog,,0000,0000,0000,,I believe in you, Alfred!
+Dialogue: 0,0:04:32.56,0:04:34.18,Main Dialog,,0000,0000,0000,,What the devil is this?!
+Dialogue: 0,0:04:34.70,0:04:37.49,Main Dialog,,0000,0000,0000,,I don't know myself...
+Dialogue: 0,0:04:40.30,0:04:41.44,Main Dialog,,0000,0000,0000,,It's Daigo!
+Dialogue: 0,0:04:41.44,0:04:42.93,Main Dialog,,0000,0000,0000,,The real deal!
+Dialogue: 0,0:04:43.54,0:04:45.13,Main Dialog,,0000,0000,0000,,I don't believe it!
+Dialogue: 0,0:04:53.09,0:04:55.39,Main Dialog,,0000,0000,0000,,I'm glad I brought my camera!
+Dialogue: 0,0:04:55.80,0:05:00.56,Main Dialog,,0000,0000,0000,,Never thought I'd get to see Daigo \Nfight at Miyaji's school festival...
+Dialogue: 0,0:05:00.56,0:05:02.01,Main Dialog,,0000,0000,0000,,We're so lucky!
+Dialogue: 0,0:05:02.01,0:05:04.45,Main Dialog,,0000,0000,0000,,Yeah... You could say totally lucky!
+Dialogue: 0,0:05:04.86,0:05:05.90,Main Dialog,,0000,0000,0000,,I'm looking forward to this.
+Dialogue: 0,0:05:06.13,0:05:08.72,Main Dialog,,0000,0000,0000,,Good luck, Kourin!
+Dialogue: 0,0:05:08.98,0:05:10.86,Main Dialog,,0000,0000,0000,,Move it, would you, old man?!
+Dialogue: 0,0:05:10.86,0:05:12.50,Main Dialog,,0000,0000,0000,,I can't see Daigo!
+Dialogue: 0,0:05:12.50,0:05:14.52,Main Dialog,,0000,0000,0000,,That's right! Move it!
+Dialogue: 0,0:05:14.52,0:05:15.66,Main Dialog,,0000,0000,0000,,Move!
+Dialogue: 0,0:05:14.52,0:05:17.13,Main Dialog,,0000,0000,0000,,I'm not giving up the front row!
+Dialogue: 0,0:05:17.13,0:05:18.25,Main Dialog,,0000,0000,0000,,I'm not giving it up!
+Dialogue: 0,0:05:21.92,0:05:26.93,Signs,,0000,0000,0000,,Legendary School Festival
+Dialogue: 0,0:05:29.72,0:05:31.93,Main Dialog,,0000,0000,0000,,Stand up the Vanguard!
+Dialogue: 0,0:05:29.72,0:05:31.93,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:05:33.44,0:05:35.86,Main Dialog,,0000,0000,0000,,Dreaming Jewel Knight, Tiffany!
+Dialogue: 0,0:05:37.16,0:05:39.72,Main Dialog,,0000,0000,0000,,First Legend, Ambrosius!
+Dialogue: 0,0:05:41.37,0:05:46.70,Main Dialog,,0000,0000,0000,,All right! At last, the battle between \NAlfred and Daigo has begun!
+Dialogue: 0,0:05:49.18,0:05:51.08,Main Dialog,,0000,0000,0000,,I go first. Draw!
+Dialogue: 0,0:05:52.34,0:05:55.52,Main Dialog,,0000,0000,0000,,I ride Regret Jewel Knight, Ulien!
+Dialogue: 0,0:05:56.30,0:05:57.96,Main Dialog,,0000,0000,0000,,Ambrosius moves!
+Dialogue: 0,0:06:00.62,0:06:02.24,Main Dialog,,0000,0000,0000,,It really is Daigo!
+Dialogue: 0,0:06:02.24,0:06:03.78,Main Dialog,,0000,0000,0000,,He looks just like he does on TV!
+Dialogue: 0,0:06:03.78,0:06:05.08,Main Dialog,,0000,0000,0000,,So handsome!
+Dialogue: 0,0:06:05.49,0:06:07.49,Main Dialog,,0000,0000,0000,,They're into it...
+Dialogue: 0,0:06:07.49,0:06:10.76,Main Dialog,,0000,0000,0000,,At this rate, the play \Nis going to be a success!
+Dialogue: 0,0:06:10.76,0:06:11.72,Main Dialog,,0000,0000,0000,,...Yes, sir.
+Dialogue: 0,0:06:12.33,0:06:15.00,Main Dialog,,0000,0000,0000,,Still, all we can do is \Nwatch for the moment...
+Dialogue: 0,0:06:15.00,0:06:16.32,Main Dialog,,0000,0000,0000,,If we tried to interfere now,
+Dialogue: 0,0:06:16.32,0:06:19.38,Main Dialog,,0000,0000,0000,,I have a feeling we Student Council \Nmembers would be injured.
+Dialogue: 0,0:06:20.09,0:06:21.48,Main Dialog,,0000,0000,0000,,Unbelievable...
+Dialogue: 0,0:06:22.84,0:06:23.48,Main Dialog,,0000,0000,0000,,Draw.
+Dialogue: 0,0:06:24.90,0:06:27.28,Main Dialog,,0000,0000,0000,,I ride Jewel Knight, Prizmy!
+Dialogue: 0,0:06:27.85,0:06:29.32,Main Dialog,,0000,0000,0000,,Tiffany moves back.
+Dialogue: 0,0:06:30.80,0:06:31.82,Main Dialog,,0000,0000,0000,,I call Shellie!
+Dialogue: 0,0:06:32.41,0:06:36.94,Main Dialog,,0000,0000,0000,,I never imagined this would turn into \Na fight between Kourin and Daigo...
+Dialogue: 0,0:06:37.42,0:06:38.54,Main Dialog,,0000,0000,0000,,But how did he...?
+Dialogue: 0,0:06:38.54,0:06:39.96,Main Dialog,,0000,0000,0000,,He gave us a ride here.
+Dialogue: 0,0:06:40.72,0:06:41.60,Main Dialog,,0000,0000,0000,,Suiko!
+Dialogue: 0,0:06:41.60,0:06:43.04,Main Dialog,,0000,0000,0000,,Sailor Suit!
+Dialogue: 0,0:06:45.21,0:06:47.01,Main Dialog,,0000,0000,0000,,After the shoot was over.
+Dialogue: 0,0:06:48.94,0:06:51.54,Main Dialog,,0000,0000,0000,,Kourin, you're going to \Nthe school festival {\i1}now{\i0}?!
+Dialogue: 0,0:06:52.33,0:06:54.12,Main Dialog,,0000,0000,0000,,I have to go!
+Dialogue: 0,0:06:54.12,0:06:55.97,Main Dialog,,0000,0000,0000,,You won't make it in time!
+Dialogue: 0,0:06:56.29,0:06:59.16,Main Dialog,,0000,0000,0000,,I'm a member of the Cardfight Club!
+Dialogue: 0,0:06:59.66,0:07:01.10,Main Dialog,,0000,0000,0000,,Oh, Kourin...
+Dialogue: 0,0:07:01.10,0:07:04.41,Main Dialog,,0000,0000,0000,,Even though she was blown off \Nyesterday... She's too soft.
+Dialogue: 0,0:07:10.41,0:07:14.12,Main Dialog,,0000,0000,0000,,If you're headin' to the festival, \Nthere's still time! Hop in, lady!
+Dialogue: 0,0:07:15.13,0:07:18.22,Main Dialog,,0000,0000,0000,,"To show your gratitude, a \NVanguard fight is okay-wish!"
+Dialogue: 0,0:07:18.22,0:07:19.89,Main Dialog,,0000,0000,0000,,He never changes.
+Dialogue: 0,0:07:20.64,0:07:21.97,Main Dialog,,0000,0000,0000,,So that's why he's here...
+Dialogue: 0,0:07:22.34,0:07:25.81,Main Dialog,,0000,0000,0000,,That Daigo guy is kinda cool!
+Dialogue: 0,0:07:25.81,0:07:29.13,Main Dialog,,0000,0000,0000,,Is he some kinda heroic type that \Nshows up to help people in trouble?
+Dialogue: 0,0:07:29.73,0:07:30.89,Main Dialog,,0000,0000,0000,,No...
+Dialogue: 0,0:07:30.89,0:07:33.96,Main Dialog,,0000,0000,0000,,Daigo is a genuine hero.
+Dialogue: 0,0:07:35.80,0:07:38.86,Main Dialog,,0000,0000,0000,,With a boost from Tiffany, Prizmy attacks!
+Dialogue: 0,0:07:40.80,0:07:42.02,Main Dialog,,0000,0000,0000,,No guard.
+Dialogue: 0,0:07:42.45,0:07:43.22,Main Dialog,,0000,0000,0000,,Check!
+Dialogue: 0,0:07:44.61,0:07:46.02,Main Dialog,,0000,0000,0000,,Critical trigger.
+Dialogue: 0,0:07:52.24,0:07:56.74,Main Dialog,,0000,0000,0000,,Alfred strikes first, doing \N3 damage to the opponent, Daigo!
+Dialogue: 0,0:07:58.14,0:08:01.14,Signs,,0000,0000,0000,,Love
+Dialogue: 0,0:07:58.16,0:08:01.08,Main Dialog,,0000,0000,0000,,That's the way! That's my Kourin!
+Dialogue: 0,0:08:01.61,0:08:04.33,Main Dialog,,0000,0000,0000,,You got me. That's Ultra-rare for you.
+Dialogue: 0,0:08:04.90,0:08:08.34,Main Dialog,,0000,0000,0000,,I think I'll be in big trouble \Nif I don't stay focused.
+Dialogue: 0,0:08:09.86,0:08:12.72,Main Dialog,,0000,0000,0000,,As always, you're the least \Nfocused person I know.
+Dialogue: 0,0:08:13.01,0:08:15.84,Main Dialog,,0000,0000,0000,,Really? Maybe...
+Dialogue: 0,0:08:15.84,0:08:18.47,Main Dialog,,0000,0000,0000,,And as always, you appear \Nin unexpected places.
+Dialogue: 0,0:08:18.88,0:08:21.69,Main Dialog,,0000,0000,0000,,Why did you show up right \Nin front of me today?
+Dialogue: 0,0:08:21.69,0:08:23.60,Main Dialog,,0000,0000,0000,,It can't be a coincidence.
+Dialogue: 0,0:08:25.33,0:08:27.85,Main Dialog,,0000,0000,0000,,Well, I'm Daigo.
+Dialogue: 0,0:08:27.85,0:08:30.25,Main Dialog,,0000,0000,0000,,Come on, let's have a good time Vanguarding!
+Dialogue: 0,0:08:31.52,0:08:33.28,Main Dialog,,0000,0000,0000,,It's my turn. Draw!
+Dialogue: 0,0:08:33.60,0:08:35.92,Main Dialog,,0000,0000,0000,,I ride Battle Flag Knight, Constance!
+Dialogue: 0,0:08:39.88,0:08:40.45,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:08:42.22,0:08:43.53,Main Dialog,,0000,0000,0000,,I attack Shellie!
+Dialogue: 0,0:08:43.53,0:08:44.50,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:08:46.32,0:08:47.25,Main Dialog,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:08:47.80,0:08:49.44,Main Dialog,,0000,0000,0000,,Constance attacks!
+Dialogue: 0,0:08:55.17,0:08:57.26,Main Dialog,,0000,0000,0000,,Superior call, Rendgal!
+Dialogue: 0,0:08:58.22,0:09:00.51,Main Dialog,,0000,0000,0000,,Rendgal boosts Owain!
+Dialogue: 0,0:09:09.97,0:09:11.25,Main Dialog,,0000,0000,0000,,Shellie attacks!
+Dialogue: 0,0:09:18.26,0:09:19.45,Main Dialog,,0000,0000,0000,,Sybill!
+Dialogue: 0,0:09:19.74,0:09:20.62,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:09:21.34,0:09:22.24,Main Dialog,,0000,0000,0000,,Tracie!
+Dialogue: 0,0:09:26.29,0:09:27.81,Main Dialog,,0000,0000,0000,,Yeah! Two out of three!
+Dialogue: 0,0:09:28.06,0:09:30.29,Main Dialog,,0000,0000,0000,,Go, go, Kourin!
+Dialogue: 0,0:09:32.77,0:09:34.24,Main Dialog,,0000,0000,0000,,Stand and draw!
+Dialogue: 0,0:09:36.14,0:09:38.18,Main Dialog,,0000,0000,0000,,Pure, proud knight!
+Dialogue: 0,0:09:38.53,0:09:41.61,Main Dialog,,0000,0000,0000,,I ride White Dragon Knight, Pendragon!
+Dialogue: 0,0:09:44.61,0:09:45.93,Main Dialog,,0000,0000,0000,,Pendragon's skill!
+Dialogue: 0,0:09:46.76,0:09:48.94,Main Dialog,,0000,0000,0000,,Pendragon gets +5000 power!
+Dialogue: 0,0:09:52.25,0:09:54.53,Main Dialog,,0000,0000,0000,,Gordon attacks Sybill!
+Dialogue: 0,0:09:55.94,0:09:56.95,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:09:59.58,0:10:01.45,Main Dialog,,0000,0000,0000,,Go, Pendragon!
+Dialogue: 0,0:10:02.25,0:10:03.54,Main Dialog,,0000,0000,0000,,No guard.
+Dialogue: 0,0:10:05.32,0:10:07.84,Main Dialog,,0000,0000,0000,,Twin drive, first check.
+Dialogue: 0,0:10:10.62,0:10:11.64,Main Dialog,,0000,0000,0000,,Second check...
+Dialogue: 0,0:10:13.33,0:10:15.21,Main Dialog,,0000,0000,0000,,I got a heal trigger!
+Dialogue: 0,0:10:16.40,0:10:18.12,Main Dialog,,0000,0000,0000,,I'm not surprised!
+Dialogue: 0,0:10:18.12,0:10:20.46,Main Dialog,,0000,0000,0000,,Strength in drawing is the \Nmark of a strong player!
+Dialogue: 0,0:10:20.46,0:10:22.35,Main Dialog,,0000,0000,0000,,He heals 1 damage point,
+Dialogue: 0,0:10:22.80,0:10:26.18,Main Dialog,,0000,0000,0000,,and the power goes to Owain, \Nwho's going to attack next!
+Dialogue: 0,0:10:26.18,0:10:27.56,Main Dialog,,0000,0000,0000,,That's right!
+Dialogue: 0,0:10:32.05,0:10:33.65,Main Dialog,,0000,0000,0000,,Owain attacks!
+Dialogue: 0,0:10:40.68,0:10:42.70,Main Dialog,,0000,0000,0000,,He turned it around!
+Dialogue: 0,0:10:45.26,0:10:46.36,Main Dialog,,0000,0000,0000,,Kourin...
+Dialogue: 0,0:11:01.62,0:11:04.14,Main Dialog,,0000,0000,0000,,Alfred was so close to winning!
+Dialogue: 0,0:11:04.14,0:11:06.61,Main Dialog,,0000,0000,0000,,But victory's been snatched away
+Dialogue: 0,0:11:06.61,0:11:09.38,Main Dialog,,0000,0000,0000,,by the enormous power of the strong, \Nevil Daigo, who's after Amaterasu!
+Dialogue: 0,0:11:09.38,0:11:11.14,Main Dialog,,0000,0000,0000,,Now Alfred's in a major pinch!
+Dialogue: 0,0:11:11.69,0:11:13.01,Main Dialog,,0000,0000,0000,,Kourin!
+Dialogue: 0,0:11:13.01,0:11:18.15,Main Dialog,,0000,0000,0000,,Even Kourin can't beat the \Nlegendary Cardfighter, Daigo?!
+Dialogue: 0,0:11:27.90,0:11:28.66,Main Dialog,,0000,0000,0000,,Win!
+Dialogue: 0,0:11:30.78,0:11:32.56,Main Dialog,,0000,0000,0000,,Win, Alfred!
+Dialogue: 0,0:11:32.56,0:11:35.86,Main Dialog,,0000,0000,0000,,I'm with you... We're {\i1}all{\i0} with you!
+Dialogue: 0,0:11:36.90,0:11:39.28,Main Dialog,,0000,0000,0000,,Do your best, Alfred!
+Dialogue: 0,0:11:39.28,0:11:40.59,Main Dialog,,0000,0000,0000,,We're with you!
+Dialogue: 0,0:11:41.69,0:11:45.43,Main Dialog,,0000,0000,0000,,Alfred! Don't let it end like this!
+Dialogue: 0,0:11:45.43,0:11:48.77,Main Dialog,,0000,0000,0000,,You're the hero of this play!
+Dialogue: 0,0:11:49.58,0:11:50.60,Main Dialog,,0000,0000,0000,,Everyone...
+Dialogue: 0,0:11:51.41,0:11:53.25,Main Dialog,,0000,0000,0000,,Hang in there, Kourin!
+Dialogue: 0,0:11:51.48,0:11:59.19,Signs,,0000,0000,0000,,Kourin
+Dialogue: 0,0:11:53.25,0:11:56.29,Main Dialog,,0000,0000,0000,,The critical that's Morikawa
+Dialogue: 0,0:11:56.29,0:11:59.84,Main Dialog,,0000,0000,0000,,and the grade 3 named Katsumi are with you!
+Dialogue: 0,0:11:59.84,0:12:01.41,Main Dialog,,0000,0000,0000,,Don't lose, Daigo!
+Dialogue: 0,0:12:01.41,0:12:02.95,Main Dialog,,0000,0000,0000,,Do your best!
+Dialogue: 0,0:12:03.33,0:12:04.78,Main Dialog,,0000,0000,0000,,Alfred!
+Dialogue: 0,0:12:04.78,0:12:06.00,Main Dialog,,0000,0000,0000,,Daigo!
+Dialogue: 0,0:12:06.00,0:12:07.62,Main Dialog,,0000,0000,0000,,Kourin!
+Dialogue: 0,0:12:08.34,0:12:10.93,Main Dialog,,0000,0000,0000,,This crowd's really livened up!
+Dialogue: 0,0:12:10.93,0:12:14.28,Main Dialog,,0000,0000,0000,,Now {\i1}this{\i0} is what I call a festival!
+Dialogue: 0,0:12:14.96,0:12:17.34,Main Dialog,,0000,0000,0000,,I swear that I'll win, Amaterasu.
+Dialogue: 0,0:12:21.40,0:12:22.74,Main Dialog,,0000,0000,0000,,Stand and draw!
+Dialogue: 0,0:12:27.86,0:12:32.44,Main Dialog,,0000,0000,0000,,The unchanging light of determination \Nshines longer than eternity!
+Dialogue: 0,0:12:34.08,0:12:35.32,Main Dialog,,0000,0000,0000,,Lead me!
+Dialogue: 0,0:12:36.58,0:12:39.49,Main Dialog,,0000,0000,0000,,I ride Leading Jewel Knight, Salome!
+Dialogue: 0,0:12:50.77,0:12:51.95,Main Dialog,,0000,0000,0000,,Shellie moves!
+Dialogue: 0,0:12:52.26,0:12:53.68,Main Dialog,,0000,0000,0000,,I call Palamedes!
+Dialogue: 0,0:12:54.08,0:12:55.71,Main Dialog,,0000,0000,0000,,Tiffany moves to the Soul.
+Dialogue: 0,0:12:56.33,0:12:59.20,Main Dialog,,0000,0000,0000,,Tracie and Prizmy both get +3000 power!
+Dialogue: 0,0:13:00.37,0:13:02.21,Main Dialog,,0000,0000,0000,,Salome's Especial Counterblast!
+Dialogue: 0,0:13:03.16,0:13:04.25,Main Dialog,,0000,0000,0000,,Superior call!
+Dialogue: 0,0:13:05.77,0:13:07.09,Main Dialog,,0000,0000,0000,,Palamedes attacks!
+Dialogue: 0,0:13:07.68,0:13:08.85,Main Dialog,,0000,0000,0000,,No guard.
+Dialogue: 0,0:13:13.49,0:13:14.74,Main Dialog,,0000,0000,0000,,Just 1 more...
+Dialogue: 0,0:13:16.16,0:13:19.02,Main Dialog,,0000,0000,0000,,Salome attacks with a boost from Shellie!
+Dialogue: 0,0:13:22.30,0:13:24.06,Main Dialog,,0000,0000,0000,,Glittering more than gold,
+Dialogue: 0,0:13:24.52,0:13:26.03,Main Dialog,,0000,0000,0000,,sparkling more than the sun,
+Dialogue: 0,0:13:26.61,0:13:29.14,Main Dialog,,0000,0000,0000,,silent torrent of fierce light,
+Dialogue: 0,0:13:30.49,0:13:32.33,Main Dialog,,0000,0000,0000,,now is the time to be unleashed!
+Dialogue: 0,0:13:32.33,0:13:33.68,Main Dialog,,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:13:38.00,0:13:41.53,Main Dialog,,0000,0000,0000,,+2000 power and an extra critical, huh?
+Dialogue: 0,0:13:41.53,0:13:43.80,Main Dialog,,0000,0000,0000,,I guard with Elaine and Govannon!
+Dialogue: 0,0:13:46.45,0:13:47.62,Main Dialog,,0000,0000,0000,,First check.
+Dialogue: 0,0:13:51.89,0:13:53.16,Main Dialog,,0000,0000,0000,,Second check.
+Dialogue: 0,0:13:54.97,0:13:55.89,Main Dialog,,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:13:57.92,0:13:59.76,Main Dialog,,0000,0000,0000,,I give all of the effects to Tracie!
+Dialogue: 0,0:14:00.17,0:14:01.57,Main Dialog,,0000,0000,0000,,With a boost from Prizmy,
+Dialogue: 0,0:14:01.97,0:14:03.57,Main Dialog,,0000,0000,0000,,Tracie attacks!
+Dialogue: 0,0:14:03.57,0:14:07.20,Main Dialog,,0000,0000,0000,,Tracie and Prizmy are both powered up!
+Dialogue: 0,0:14:07.20,0:14:10.57,Main Dialog,,0000,0000,0000,,With Tracie's skill, the \Ntotal is a whopping 30000!
+Dialogue: 0,0:14:11.25,0:14:12.69,Main Dialog,,0000,0000,0000,,Slam 'im!
+Dialogue: 0,0:14:17.37,0:14:18.77,Main Dialog,,0000,0000,0000,,Flogal! Marron!
+Dialogue: 0,0:14:20.28,0:14:21.25,Main Dialog,,0000,0000,0000,,Gordon!
+Dialogue: 0,0:14:24.45,0:14:28.40,Main Dialog,,0000,0000,0000,,Didn't quite turn out like a fairy tale, huh?
+Dialogue: 0,0:14:28.40,0:14:29.97,Main Dialog,,0000,0000,0000,,That's too bad!
+Dialogue: 0,0:14:31.77,0:14:34.10,Main Dialog,,0000,0000,0000,,No... I'm not done yet!
+Dialogue: 0,0:14:34.45,0:14:36.10,Main Dialog,,0000,0000,0000,,That's what I like to hear!
+Dialogue: 0,0:14:36.10,0:14:38.50,Main Dialog,,0000,0000,0000,,You never know what kind \Nof miracle can happen!
+Dialogue: 0,0:14:38.50,0:14:40.65,Main Dialog,,0000,0000,0000,,That's what makes Vanguard so much fun!
+Dialogue: 0,0:14:41.14,0:14:43.42,Main Dialog,,0000,0000,0000,,Right?! You guys think so too, don't you?
+Dialogue: 0,0:14:43.42,0:14:44.73,Main Dialog,,0000,0000,0000,,Everybody!
+Dialogue: 0,0:14:45.09,0:14:47.74,Main Dialog,,0000,0000,0000,,Yay!
+Dialogue: 0,0:14:50.29,0:14:51.76,Main Dialog,,0000,0000,0000,,We're leaving.
+Dialogue: 0,0:14:51.76,0:14:54.49,Main Dialog,,0000,0000,0000,,What kind of farce is this?! What kind of...
+Dialogue: 0,0:14:54.49,0:14:55.86,Main Dialog,,0000,0000,0000,,Tell me!
+Dialogue: 0,0:14:55.86,0:14:58.36,Main Dialog,,0000,0000,0000,,It's just a lousy, nonsensical play...
+Dialogue: 0,0:14:58.36,0:14:59.41,Main Dialog,,0000,0000,0000,,That's it!
+Dialogue: 0,0:15:03.25,0:15:04.58,Main Dialog,,0000,0000,0000,,Stand and draw.
+Dialogue: 0,0:15:05.61,0:15:07.53,Main Dialog,,0000,0000,0000,,Pendragon's Limit Break!
+Dialogue: 0,0:15:10.40,0:15:12.51,Main Dialog,,0000,0000,0000,,I look at the top five cards of my deck,
+Dialogue: 0,0:15:13.02,0:15:15.26,Main Dialog,,0000,0000,0000,,choose a grade 3 Royal Paladin,
+Dialogue: 0,0:15:15.84,0:15:18.39,Main Dialog,,0000,0000,0000,,and perform a superior ride.\N Marvelous Vanguard!
+Dialogue: 0,0:15:19.66,0:15:22.92,Main Dialog,,0000,0000,0000,,From the absolutely beautiful, sacred world,
+Dialogue: 0,0:15:22.92,0:15:25.02,Main Dialog,,0000,0000,0000,,swoop down on luminous wings!
+Dialogue: 0,0:15:27.03,0:15:30.19,Main Dialog,,0000,0000,0000,,Sanctuary Guard Dragon!
+Dialogue: 0,0:15:34.05,0:15:35.30,Main Dialog,,0000,0000,0000,,Skill activated!
+Dialogue: 0,0:15:35.30,0:15:38.95,Main Dialog,,0000,0000,0000,,I put one card from my hand into the \NDrop Zone and superior call Rendgal!
+Dialogue: 0,0:15:40.66,0:15:45.21,Main Dialog,,0000,0000,0000,,Okay, here I go! Sanctuary \NGuard Dragon's Limit Break!
+Dialogue: 0,0:15:45.78,0:15:50.21,Main Dialog,,0000,0000,0000,,Each grade 1 or lower \NRoyal Paladin gets +3000 power!
+Dialogue: 0,0:15:57.10,0:15:58.35,Main Dialog,,0000,0000,0000,,Get ready!
+Dialogue: 0,0:15:58.80,0:16:00.23,Main Dialog,,0000,0000,0000,,Rendgal attacks!
+Dialogue: 0,0:16:01.01,0:16:02.48,Main Dialog,,0000,0000,0000,,I guard with Rachelle!
+Dialogue: 0,0:16:03.97,0:16:05.98,Main Dialog,,0000,0000,0000,,With a boost from Ambrosius,
+Dialogue: 0,0:16:06.69,0:16:08.48,Main Dialog,,0000,0000,0000,,Sanctuary Guard Dragon!
+Dialogue: 0,0:16:19.52,0:16:20.74,Main Dialog,,0000,0000,0000,,No guard!
+Dialogue: 0,0:16:22.77,0:16:24.12,Main Dialog,,0000,0000,0000,,Twin drive check!
+Dialogue: 0,0:16:24.81,0:16:26.04,Main Dialog,,0000,0000,0000,,First check.
+Dialogue: 0,0:16:26.61,0:16:28.12,Main Dialog,,0000,0000,0000,,Second check!
+Dialogue: 0,0:16:36.01,0:16:38.01,Main Dialog,,0000,0000,0000,,Sanctuary Sunshine!
+Dialogue: 0,0:17:03.90,0:17:05.62,Main Dialog,,0000,0000,0000,,I'm the winner!
+Dialogue: 0,0:17:08.38,0:17:11.63,Signs,,0000,0000,0000,,Kourin Love
+Dialogue: 0,0:17:09.32,0:17:11.63,Main Dialog,,0000,0000,0000,,She lost...
+Dialogue: 0,0:17:12.58,0:17:14.34,Main Dialog,,0000,0000,0000,,So that's Daigo...
+Dialogue: 0,0:17:15.08,0:17:18.29,Main Dialog,,0000,0000,0000,,He really is strong! And cool!
+Dialogue: 0,0:17:18.29,0:17:21.22,Main Dialog,,0000,0000,0000,,Um... How does this fit into the play?
+Dialogue: 0,0:17:21.22,0:17:23.68,Main Dialog,,0000,0000,0000,,What's the fate of the princess?
+Dialogue: 0,0:17:28.90,0:17:31.65,Main Dialog,,0000,0000,0000,,Thank you! Thank you!
+Dialogue: 0,0:17:30.24,0:17:31.65,Main Dialog,,0000,0000,0000,,I'm your next opponent!
+Dialogue: 0,0:17:34.77,0:17:37.41,Main Dialog,,0000,0000,0000,,The princess is going to avenge the prince?!
+Dialogue: 0,0:17:37.84,0:17:40.48,Main Dialog,,0000,0000,0000,,Hey, Misaki! I mean...
+Dialogue: 0,0:17:40.48,0:17:42.49,Main Dialog,,0000,0000,0000,,What are you saying, Amaterasu?!
+Dialogue: 0,0:17:43.72,0:17:47.28,Main Dialog,,0000,0000,0000,,I'll protect you, Alfred... \NI'll protect all of our friends!
+Dialogue: 0,0:17:49.40,0:17:50.81,Main Dialog,,0000,0000,0000,,I'll protect them, too!
+Dialogue: 0,0:17:52.80,0:17:54.84,Main Dialog,,0000,0000,0000,,M-Me too!
+Dialogue: 0,0:18:01.08,0:18:04.22,Main Dialog,,0000,0000,0000,,You beat my hero without \Neven getting permission?!
+Dialogue: 0,0:18:04.22,0:18:06.56,Main Dialog,,0000,0000,0000,,That calls for a showdown with Magatsu Storm!
+Dialogue: 0,0:18:08.04,0:18:10.37,Main Dialog,,0000,0000,0000,,This has turned out to be a fun performance!
+Dialogue: 0,0:18:12.64,0:18:14.48,Main Dialog,,0000,0000,0000,,A showdown, Daigo!
+Dialogue: 0,0:18:15.13,0:18:16.57,Main Dialog,,0000,0000,0000,,Marvelous...
+Dialogue: 0,0:18:21.96,0:18:23.13,Main Dialog,,0000,0000,0000,,You...
+Dialogue: 0,0:18:23.13,0:18:27.13,Main Dialog,,0000,0000,0000,,Just when I thought I was \Nabout to get the princess...
+Dialogue: 0,0:18:29.58,0:18:32.50,Main Dialog,,0000,0000,0000,,Friends... Friends, you say?!
+Dialogue: 0,0:18:32.50,0:18:35.36,Main Dialog,,0000,0000,0000,,To be beaten by the things I hate,
+Dialogue: 0,0:18:35.36,0:18:38.46,Main Dialog,,0000,0000,0000,,like love, friendship, and \Nthe bond between comrades...
+Dialogue: 0,0:18:38.46,0:18:39.01,Main Dialog,,0000,0000,0000,,But...
+Dialogue: 0,0:18:39.78,0:18:41.12,Main Dialog,,0000,0000,0000,,...you remember this!
+Dialogue: 0,0:18:41.12,0:18:45.24,Main Dialog,,0000,0000,0000,,When the bond between you looks \Na little frayed around the edges,
+Dialogue: 0,0:18:45.24,0:18:49.38,Main Dialog,,0000,0000,0000,,this evil archenemy will \Nappear before you again!
+Dialogue: 0,0:18:53.22,0:18:55.06,Main Dialog,,0000,0000,0000,,Sorry! Let me through, 'kay?
+Dialogue: 0,0:18:55.06,0:18:55.90,Main Dialog,,0000,0000,0000,,Sure!
+Dialogue: 0,0:18:57.86,0:18:59.52,Main Dialog,,0000,0000,0000,,'Til we meet again!
+Dialogue: 0,0:19:02.17,0:19:03.37,Main Dialog,,0000,0000,0000,,Give me your autograph!
+Dialogue: 0,0:19:03.37,0:19:05.32,Main Dialog,,0000,0000,0000,,After the Cardfight Club's play is over!
+Dialogue: 0,0:19:05.32,0:19:07.41,Main Dialog,,0000,0000,0000,,H-Hey! Later, I said!
+Dialogue: 0,0:19:07.82,0:19:09.36,Main Dialog,,0000,0000,0000,,The play...
+Dialogue: 0,0:19:10.52,0:19:11.92,Main Dialog,,0000,0000,0000,,Misaki! Kourin!
+Dialogue: 0,0:19:11.92,0:19:14.98,Main Dialog,,0000,0000,0000,,What are you doing?! Come on, hold hands!
+Dialogue: 0,0:19:24.68,0:19:29.09,Main Dialog,,0000,0000,0000,,Thanks to Alfred and Amaterasu \Nbeing wonderful comrades,
+Dialogue: 0,0:19:29.09,0:19:31.98,Main Dialog,,0000,0000,0000,,they were victorious over \Ntheir archenemy, Daigo!
+Dialogue: 0,0:19:33.81,0:19:37.73,Main Dialog,,0000,0000,0000,,And so, they lived happily ever after...
+Dialogue: 0,0:19:37.73,0:19:38.93,Main Dialog,,0000,0000,0000,,The End.
+Dialogue: 0,0:19:41.56,0:19:43.32,Main Dialog,,0000,0000,0000,,That was fun!
+Dialogue: 0,0:19:44.62,0:19:46.69,Main Dialog,,0000,0000,0000,,Yeah. I'm actually kind of moved.
+Dialogue: 0,0:19:46.69,0:19:48.45,Main Dialog,,0000,0000,0000,,That was awesome!
+Dialogue: 0,0:19:49.12,0:19:51.97,Main Dialog,,0000,0000,0000,,You've got "I wanna fight Daigo" \Nwritten all over your face.
+Dialogue: 0,0:19:52.30,0:19:53.25,Main Dialog,,0000,0000,0000,,Do I?
+Dialogue: 0,0:19:55.50,0:19:56.44,Main Dialog,,0000,0000,0000,,I suppose I do...
+Dialogue: 0,0:20:00.41,0:20:01.72,Main Dialog,,0000,0000,0000,,That was great!
+Dialogue: 0,0:20:01.72,0:20:07.47,Signs,,0000,0000,0000,,Kourin Love
+Dialogue: 0,0:20:02.16,0:20:04.61,Main Dialog,,0000,0000,0000,,Kourin! You were fantastic!
+Dialogue: 0,0:20:04.61,0:20:07.47,Main Dialog,,0000,0000,0000,,Misaki! Look this way!
+Dialogue: 0,0:20:12.24,0:20:14.48,Main Dialog,,0000,0000,0000,,Thank you for believing in me.
+Dialogue: 0,0:20:14.48,0:20:16.16,Main Dialog,,0000,0000,0000,,Efforts will be rewarded...
+Dialogue: 0,0:20:16.69,0:20:17.72,Main Dialog,,0000,0000,0000,,...definitely.
+Dialogue: 0,0:20:20.88,0:20:22.41,Main Dialog,,0000,0000,0000,,The adulation...
+Dialogue: 0,0:20:22.41,0:20:26.49,Main Dialog,,0000,0000,0000,,One of these days, I'll be \Nwalking down a red carpet...
+Dialogue: 0,0:20:26.78,0:20:28.68,Main Dialog,,0000,0000,0000,,Good outcome, huh, Emi?
+Dialogue: 0,0:20:28.68,0:20:29.33,Main Dialog,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:29.68,0:20:31.83,Main Dialog,,0000,0000,0000,,Misaki, you're so cool!
+Dialogue: 0,0:20:32.41,0:20:34.24,Main Dialog,,0000,0000,0000,,That was the victory of teamwork.
+Dialogue: 0,0:20:34.24,0:20:37.17,Main Dialog,,0000,0000,0000,,There's a lot to be said \Nfor school life, huh?
+Dialogue: 0,0:20:37.17,0:20:37.84,Main Dialog,,0000,0000,0000,,True.
+Dialogue: 0,0:20:38.12,0:20:40.48,Main Dialog,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:20:40.58,0:20:42.86,Main Dialog,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:20:44.63,0:20:48.05,Signs,,0000,0000,0000,,Miyaji Academy Festival
+Dialogue: 0,0:20:46.45,0:20:48.05,Main Dialog,,0000,0000,0000,,I bought a lot.
+Dialogue: 0,0:20:48.05,0:20:52.50,Main Dialog,,0000,0000,0000,,Yakisoba, okonomiyaki, takoyaki, et cetera...
+Dialogue: 0,0:20:52.50,0:20:55.06,Main Dialog,,0000,0000,0000,,This stuff is the best \Npart of school festivals.
+Dialogue: 0,0:20:52.50,0:20:58.06,Signs,,0000,0000,0000,,His name = Daigo\NDaigomi = The highlight of something
+Dialogue: 0,0:20:55.62,0:20:58.06,Main Dialog,,0000,0000,0000,,Oh! That pun wasn't intended...
+Dialogue: 0,0:20:59.42,0:21:00.02,Main Dialog,,0000,0000,0000,,Hey...
+Dialogue: 0,0:21:00.32,0:21:05.07,Signs,,0000,0000,0000,,Miyaji Academy Festival
+Dialogue: 0,0:21:00.73,0:21:02.50,Main Dialog,,0000,0000,0000,,Give me some reaction!
+Dialogue: 0,0:21:02.50,0:21:04.26,Main Dialog,,0000,0000,0000,,Daigo! That was Daigo!
+Dialogue: 0,0:21:06.09,0:21:07.20,Main Dialog,,0000,0000,0000,,Yeesh...
+Dialogue: 0,0:21:07.90,0:21:10.53,Main Dialog,,0000,0000,0000,,What was all of that?
+Dialogue: 0,0:21:11.48,0:21:13.82,Main Dialog,,0000,0000,0000,,Yes, sir... I'm terribly sorry.
+Dialogue: 0,0:21:14.68,0:21:19.71,Main Dialog,,0000,0000,0000,,But the connection between the Cardfight \NClub and Daigo was unforeseen...
+Dialogue: 0,0:21:20.37,0:21:22.84,Main Dialog,,0000,0000,0000,,Even setting aside the \Nidol group, Ultra-rare,
+Dialogue: 0,0:21:22.84,0:21:24.84,Main Dialog,,0000,0000,0000,,they surprise me.
+Dialogue: 0,0:21:25.29,0:21:26.45,Main Dialog,,0000,0000,0000,,Enough...
+Dialogue: 0,0:21:26.45,0:21:27.17,Main Dialog,,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:21:28.12,0:21:29.69,Main Dialog,,0000,0000,0000,,That'll be all for today.
+Dialogue: 0,0:21:33.10,0:21:35.69,Main Dialog,,0000,0000,0000,,Drinking tea is so comforting.
+Dialogue: 0,0:21:36.32,0:21:38.09,Main Dialog,,0000,0000,0000,,I expect better of you next time.
+Dialogue: 0,0:21:38.09,0:21:38.88,Main Dialog,,0000,0000,0000,,Sir?
+Dialogue: 0,0:21:39.42,0:21:40.73,Main Dialog,,0000,0000,0000,,I expect better of you!
+Dialogue: 0,0:21:41.01,0:21:41.92,Main Dialog,,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:21:44.76,0:21:46.49,Main Dialog,,0000,0000,0000,,What's wrong, Aichi?
+Dialogue: 0,0:21:46.49,0:21:49.02,Main Dialog,,0000,0000,0000,,I didn't get the chance to thank Daigo.
+Dialogue: 0,0:21:49.77,0:21:52.00,Main Dialog,,0000,0000,0000,,Daigo is a hero, right?
+Dialogue: 0,0:21:52.00,0:21:54.42,Main Dialog,,0000,0000,0000,,Thankin' him would probably \Njust make him mad.
+Dialogue: 0,0:21:54.69,0:21:55.91,Main Dialog,,0000,0000,0000,,I see...
+Dialogue: 0,0:21:55.91,0:21:57.42,Main Dialog,,0000,0000,0000,,You're right.
+Dialogue: 0,0:21:58.30,0:22:01.17,Main Dialog,,0000,0000,0000,,Thank you very much, Daigo.
+Dialogue: 0,0:23:54.99,0:23:57.74,Signs,,0000,0000,0000,,VF High School Championship\NKanto Block 3
+Dialogue: 0,0:23:55.93,0:23:58.77,Main Dialog,,0000,0000,0000,,Daigo... That guy sure does show \Nup when you least expect him...
+Dialogue: 0,0:23:58.77,0:23:59.48,Main Dialog,,0000,0000,0000,,I know...
+Dialogue: 0,0:23:59.48,0:24:01.25,Main Dialog,,0000,0000,0000,,Hi! I'm Taigo!
+Dialogue: 0,0:24:01.25,0:24:03.54,Main Dialog,,0000,0000,0000,,I'm your Vanguardian ally!
+Dialogue: 0,0:24:03.54,0:24:04.74,Main Dialog,,0000,0000,0000,,That doesn't sound like him...
+Dialogue: 0,0:24:05.82,0:24:08.46,Main Dialog,,0000,0000,0000,,Boys love heroes...
+Dialogue: 0,0:24:08.46,0:24:11.81,Main Dialog,,0000,0000,0000,,Well, everyone, the curtain's about to \Nrise on the VF High School Championship!
+Dialogue: 0,0:24:11.81,0:24:13.84,Main Dialog,,0000,0000,0000,,Next time: Hidden Fighting Spirit!
+Dialogue: 0,0:24:13.13,0:24:14.95,Signs,,0000,0000,0000,,Kanto Block 3
+Dialogue: 0,0:24:13.84,0:24:16.30,Main Dialog,,0000,0000,0000,,The Miyaji Academy Cardfight Club \Nsets their sights on the goal
+Dialogue: 0,0:24:16.69,0:24:19.36,Main Dialog,,0000,0000,0000,,of high school Cardfighters \Nfrom all over Japan. Fight!
+Dialogue: 0,0:24:19.36,0:24:21.38,Main Dialog,,0000,0000,0000,,Everybody, do your Vanguardy best!
+Dialogue: 0,0:24:21.38,0:24:22.74,Main Dialog,,0000,0000,0000,,He's {\i1}still{\i0} doing it...
+Dialogue: 0,0:24:22.74,0:24:23.85,Main Dialog,,0000,0000,0000,,Wish!

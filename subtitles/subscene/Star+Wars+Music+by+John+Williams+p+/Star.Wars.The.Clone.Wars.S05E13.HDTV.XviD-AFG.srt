@@ -1,0 +1,1811 @@
+1
+00:00:04,574 --> 00:00:07,510
+<i>[Star Wars theme]</i>
+
+2
+00:00:15,920 --> 00:00:17,822
+Male announcer:
+Mission accomplished!
+
+3
+00:00:17,890 --> 00:00:20,591
+Colonel Gascon and his droid squad
+
+4
+00:00:20,659 --> 00:00:22,093
+steal an encryption module
+
+5
+00:00:22,160 --> 00:00:23,761
+needed to crack a Separatist code
+
+6
+00:00:23,828 --> 00:00:26,930
+and stop an impending attack
+on the Republic.
+
+7
+00:00:26,998 --> 00:00:28,465
+After surviving The Void
+
+8
+00:00:28,532 --> 00:00:31,300
+and escaping the hostile planet
+of Abafar,
+
+9
+00:00:31,368 --> 00:00:35,438
+our heroes finally appear to be
+headed in the right direction.
+
+10
+00:00:35,505 --> 00:00:38,741
+[ship rumbling]
+
+11
+00:00:38,808 --> 00:00:41,243
+[RD-D2 beeping and whirring]
+
+12
+00:00:41,311 --> 00:00:43,780
+Hmm, looks like the Jedi cruiser
+
+13
+00:00:43,847 --> 00:00:45,682
+is expecting this shuttle.
+
+14
+00:00:45,749 --> 00:00:47,817
+Well, I'm sure there's someone aboard
+
+15
+00:00:47,885 --> 00:00:51,688
+who can put this encryption
+module to good use.
+
+16
+00:00:51,756 --> 00:00:54,558
+Well, soldiers, this is the end
+of the mission.
+
+17
+00:00:54,626 --> 00:00:56,994
+Colonel Gascon has succeeded.
+
+18
+00:00:57,061 --> 00:00:58,729
+Artoo, contact the bridge.
+
+19
+00:00:58,797 --> 00:01:01,599
+Tell them I request a meal
+with the captain.
+
+20
+00:01:01,667 --> 00:01:05,203
+Nothing too fancy,
+and, uh, I don't eat bantha.
+
+21
+00:01:05,270 --> 00:01:06,804
+[R2-D2 beeping]
+
+22
+00:01:06,872 --> 00:01:09,607
+What do you mean you still
+can't make contact?
+
+23
+00:01:09,675 --> 00:01:12,343
+I have got a bad feeling
+about this, Colonel.
+
+24
+00:01:12,411 --> 00:01:14,813
+Something is not right.
+
+25
+00:01:14,881 --> 00:01:19,584
+[engine whirring]
+
+26
+00:01:19,652 --> 00:01:21,419
+Snogwash!
+
+27
+00:01:21,487 --> 00:01:23,821
+It's probably just the effects
+of The Void.
+
+28
+00:01:23,889 --> 00:01:26,357
+All that, uh, magnetic disruption
+
+29
+00:01:26,425 --> 00:01:28,260
+messed up his circuitry.
+
+30
+00:01:28,327 --> 00:01:31,296
+[engine whirring]
+
+31
+00:01:31,364 --> 00:01:34,433
+I will not allow your frivolous worrying
+
+32
+00:01:34,500 --> 00:01:38,070
+to undermine this--
+this glorious moment!
+
+33
+00:01:38,138 --> 00:01:39,972
+I expect a hero's welcome,
+
+34
+00:01:40,040 --> 00:01:42,442
+not to mention my inevitable promotion
+
+35
+00:01:42,509 --> 00:01:44,711
+to P1 Brigadier!
+
+36
+00:01:49,851 --> 00:01:52,786
+[mysterious music]
+
+37
+00:01:59,995 --> 00:02:02,063
+[R2-D2 whistles]
+
+38
+00:02:06,135 --> 00:02:07,502
+Wow.
+
+39
+00:02:07,569 --> 00:02:10,371
+They really went overboard
+on the welcoming committee.
+
+40
+00:02:10,439 --> 00:02:11,906
+[Qutee beeping]
+
+41
+00:02:11,974 --> 00:02:13,742
+Good question, Qutee.
+
+42
+00:02:13,809 --> 00:02:17,279
+Why are there not any other
+shuttles or crew members?
+
+43
+00:02:17,347 --> 00:02:21,583
+Well, everyone's probably
+preparing to, uh...
+
+44
+00:02:21,651 --> 00:02:22,972
+Well, they'll all want to be there
+
+45
+00:02:22,986 --> 00:02:25,320
+when we break the Separatist code.
+
+46
+00:02:25,388 --> 00:02:27,456
+[Ceefor beeping]
+
+47
+00:02:27,524 --> 00:02:30,959
+How should I know why
+all the blast doors are shut?
+
+48
+00:02:31,027 --> 00:02:33,061
+That's a question
+for the captain of this ship
+
+49
+00:02:33,129 --> 00:02:37,366
+and one I intend to ask
+just as soon as I find him.
+
+50
+00:02:38,901 --> 00:02:41,836
+[dramatic music]
+
+51
+00:02:41,904 --> 00:02:42,971
+♪ ♪
+
+52
+00:02:43,039 --> 00:02:45,840
+Sergeant, Colonel Meebur Gascon.
+
+53
+00:02:45,908 --> 00:02:48,142
+You have no doubt been expecting me.
+
+54
+00:02:48,209 --> 00:02:52,345
+I am delivering the Separatist
+encryption module.
+
+55
+00:02:52,413 --> 00:02:55,748
+Why--it's just a hologram.
+
+56
+00:02:59,519 --> 00:03:01,954
+[R2-D2 beeps]
+
+57
+00:03:05,226 --> 00:03:08,495
+What in the blazes is going on here?
+
+58
+00:03:08,563 --> 00:03:09,997
+[engines whirring]
+
+59
+00:03:11,633 --> 00:03:12,867
+I do not know.
+
+60
+00:03:12,934 --> 00:03:14,835
+But we just made the jump to hyperspace,
+
+61
+00:03:14,903 --> 00:03:18,439
+which means somebody
+is navigating this ship.
+
+62
+00:03:25,747 --> 00:03:29,983
+[droids beeping and whirring]
+
+63
+00:03:30,051 --> 00:03:31,251
+You, droids!
+
+64
+00:03:31,319 --> 00:03:33,320
+What are you doing on our ship?
+
+65
+00:03:33,388 --> 00:03:36,190
+Surrender or you will be destroyed.
+
+66
+00:03:36,258 --> 00:03:37,224
+Battle droids!
+
+67
+00:03:37,292 --> 00:03:39,694
+[R2-D2 beeping]
+
+68
+00:03:39,761 --> 00:03:40,962
+Whoo--ahh!
+
+69
+00:03:47,636 --> 00:03:49,136
+The commander wants the detonator
+
+70
+00:03:49,204 --> 00:03:51,205
+taken to the control room.
+
+71
+00:03:51,273 --> 00:03:52,406
+Both:
+Roger, roger.
+
+72
+00:03:53,909 --> 00:03:55,076
+Okay, let me just--
+
+73
+00:03:55,144 --> 00:03:57,145
+- Lift with your legs!
+Lift with your legs!
+
+74
+00:03:57,213 --> 00:03:58,580
+Uh, heavy, heavy.
+
+75
+00:03:58,648 --> 00:04:00,849
+Watch it, watch it!
+Look out!
+
+76
+00:04:00,916 --> 00:04:02,483
+Good thinking back there.
+
+77
+00:04:02,551 --> 00:04:06,020
+But next time I give the orders.
+Understood?
+
+78
+00:04:06,088 --> 00:04:07,321
+[R2-D2 beeps]
+
+79
+00:04:07,389 --> 00:04:08,389
+I got it.
+
+80
+00:04:08,457 --> 00:04:10,057
+I got it.
+
+81
+00:04:10,125 --> 00:04:11,291
+I don't got it!
+
+82
+00:04:11,359 --> 00:04:12,292
+Yaah!
+
+83
+00:04:12,360 --> 00:04:14,094
+[circuits crackling]
+
+84
+00:04:14,162 --> 00:04:15,362
+Uh-oh.
+
+85
+00:04:19,132 --> 00:04:21,901
+I wasn't programmed for this.
+
+86
+00:04:21,969 --> 00:04:25,606
+Stop!
+Which way are we going?
+
+87
+00:04:25,673 --> 00:04:27,674
+[blasters firing]
+
+88
+00:04:27,742 --> 00:04:28,976
+Down here!
+
+89
+00:04:31,480 --> 00:04:32,647
+Aah!
+
+90
+00:04:35,718 --> 00:04:39,454
+[electricity crackling]
+
+91
+00:04:40,456 --> 00:04:42,724
+Have you seen the intruders?
+
+92
+00:04:42,792 --> 00:04:44,426
+They went that way?
+
+93
+00:04:44,493 --> 00:04:45,660
+Roger, roger.
+
+94
+00:04:49,065 --> 00:04:53,367
+All right, something
+very strange is going on here.
+
+95
+00:04:53,435 --> 00:04:57,604
+It appears this ship has been
+hijacked by Separatists.
+
+96
+00:04:57,672 --> 00:04:59,739
+[R2-D2 beeping]
+
+97
+00:04:59,807 --> 00:05:02,976
+What do you mean it doesn't belong here?
+
+98
+00:05:03,044 --> 00:05:04,444
+He is right, Colonel.
+
+99
+00:05:04,512 --> 00:05:06,980
+This is not Republic technology.
+
+100
+00:05:07,048 --> 00:05:09,816
+Not unless they have lowered
+their standards.
+
+101
+00:05:09,884 --> 00:05:12,686
+Well, what exactly do you think it is?
+
+102
+00:05:12,754 --> 00:05:14,321
+[R2-D2 whistles]
+
+103
+00:05:14,388 --> 00:05:15,588
+A bomb?
+
+104
+00:05:15,656 --> 00:05:17,257
+What kind of a bomb?
+Is it on?
+
+105
+00:05:17,325 --> 00:05:19,559
+How long do we have?
+Talk to me!
+
+106
+00:05:19,627 --> 00:05:22,595
+[R2-D2 buzzing]
+
+107
+00:05:22,663 --> 00:05:25,064
+What do you mean the ship is a bomb?
+
+108
+00:05:25,132 --> 00:05:27,967
+How can the entire ship be a bomb?
+
+109
+00:05:28,035 --> 00:05:31,437
+[gears whirring]
+
+110
+00:05:31,504 --> 00:05:34,439
+[suspenseful music]
+
+111
+00:05:41,180 --> 00:05:42,547
+Mother of Kwath...
+
+112
+00:05:42,615 --> 00:05:45,217
+There must be enough Rhydonium in here
+
+113
+00:05:45,285 --> 00:05:48,854
+to blow up the entire Republic fleet.
+
+114
+00:05:48,922 --> 00:05:51,857
+[ominous music]
+
+115
+00:06:05,941 --> 00:06:07,608
+I don't know what any of this means,
+
+116
+00:06:07,676 --> 00:06:10,544
+but I want off this ship immediately.
+
+117
+00:06:12,815 --> 00:06:15,450
+My mission is over.
+
+118
+00:06:15,518 --> 00:06:18,954
+I had no orders to stop
+Separatist piracy
+
+119
+00:06:19,022 --> 00:06:22,458
+or disarm massive,
+titanic-scale bombs!
+
+120
+00:06:22,526 --> 00:06:24,326
+[Ceefor beeping]
+
+121
+00:06:24,394 --> 00:06:26,061
+Ceefor has a good point.
+
+122
+00:06:26,129 --> 00:06:28,497
+If we do not stop this ship
+before it explodes,
+
+123
+00:06:28,565 --> 00:06:31,066
+it could cost the Republic
+thousands of lives.
+
+124
+00:06:31,134 --> 00:06:33,035
+Pure speculation.
+
+125
+00:06:33,103 --> 00:06:36,738
+We're evacuating this ship,
+and that is an order!
+
+126
+00:06:37,974 --> 00:06:40,843
+[R2-D2 beeping and whirring]
+
+127
+00:06:40,910 --> 00:06:41,944
+Oh, right.
+
+128
+00:06:42,011 --> 00:06:44,046
+We'll have to wait to evacuate
+
+129
+00:06:44,114 --> 00:06:46,416
+until the ship is out of hyperspace.
+
+130
+00:06:46,483 --> 00:06:48,685
+By then it could be too late.
+
+131
+00:06:48,753 --> 00:06:51,655
+Once we get where we are going,
+my guess is--
+
+132
+00:06:51,722 --> 00:06:52,990
+kaboom!
+
+133
+00:06:53,057 --> 00:06:54,324
+[droid whirs]
+
+134
+00:06:57,796 --> 00:07:00,731
+[suspenseful music]
+
+135
+00:07:06,638 --> 00:07:07,571
+[R2-D2 whistles]
+
+136
+00:07:07,639 --> 00:07:08,572
+Wait!
+
+137
+00:07:08,640 --> 00:07:09,573
+[R2-D2 beeping]
+
+138
+00:07:09,641 --> 00:07:10,574
+I--
+
+139
+00:07:10,642 --> 00:07:12,109
+no--
+
+140
+00:07:12,177 --> 00:07:14,011
+okay, okay!
+
+141
+00:07:14,079 --> 00:07:17,014
+[mysterious music]
+
+142
+00:07:19,817 --> 00:07:21,952
+[Qutee beeping]
+
+143
+00:07:22,020 --> 00:07:23,553
+I don't know, Qutee.
+
+144
+00:07:23,621 --> 00:07:25,822
+Where's Artoo gone now?
+
+145
+00:07:25,890 --> 00:07:28,724
+[R2-D2 beeping]
+
+146
+00:07:28,792 --> 00:07:31,594
+What's going on?
+Who is this?
+
+147
+00:07:31,662 --> 00:07:36,733
+I am BNI-393,
+an LEP Servant Droid.
+
+148
+00:07:36,801 --> 00:07:39,103
+My master called me Bunny.
+
+149
+00:07:39,170 --> 00:07:41,639
+And where is your master?
+
+150
+00:07:41,706 --> 00:07:42,973
+He was killed
+
+151
+00:07:43,041 --> 00:07:45,476
+when the Separatists
+took control of this ship.
+
+152
+00:07:45,543 --> 00:07:47,911
+Why were you hiding from us?
+
+153
+00:07:47,979 --> 00:07:50,514
+At first I did not know
+if I could trust you.
+
+154
+00:07:50,582 --> 00:07:52,917
+Then I was not sure
+you would believe me.
+
+155
+00:07:52,984 --> 00:07:54,818
+Once you saw the truth,
+
+156
+00:07:54,886 --> 00:07:57,254
+I was simply hoping
+you would abandon ship
+
+157
+00:07:57,322 --> 00:07:59,656
+and take the rest of us with you.
+
+158
+00:07:59,724 --> 00:08:00,657
+Rest of you?
+
+159
+00:08:00,725 --> 00:08:01,858
+You're telling me
+
+160
+00:08:01,926 --> 00:08:03,960
+there's more
+Republic crew members on board?
+
+161
+00:08:08,265 --> 00:08:10,733
+Did you destroy the intruders?
+
+162
+00:08:10,801 --> 00:08:12,001
+Uh, no.
+
+163
+00:08:12,069 --> 00:08:14,303
+There are Republic droids on this ship
+
+164
+00:08:14,371 --> 00:08:16,138
+that could ruin our plans.
+
+165
+00:08:17,774 --> 00:08:21,443
+You will search the entire ship
+until the intruders are found
+
+166
+00:08:21,511 --> 00:08:23,578
+and report back to me.
+
+167
+00:08:23,646 --> 00:08:26,647
+[buzz droid beeping]
+
+168
+00:08:31,386 --> 00:08:34,321
+[dramatic music]
+
+169
+00:08:39,261 --> 00:08:41,262
+Is this a joke?
+
+170
+00:08:41,330 --> 00:08:44,099
+The rest of the crew is in our shuttle?
+
+171
+00:08:44,167 --> 00:08:46,368
+I told them to wait inside
+
+172
+00:08:46,435 --> 00:08:47,669
+and that we would be leaving
+
+173
+00:08:47,737 --> 00:08:50,272
+as soon as we came out of hyperspace.
+
+174
+00:08:58,815 --> 00:09:00,649
+You can come out now.
+
+175
+00:09:00,717 --> 00:09:01,950
+It is okay.
+
+176
+00:09:02,018 --> 00:09:05,020
+[several droids beeping and whirring]
+
+177
+00:09:09,426 --> 00:09:12,495
+These are the other crew members?
+
+178
+00:09:12,562 --> 00:09:13,796
+As you can see,
+
+179
+00:09:13,864 --> 00:09:16,199
+none of us can pilot the shuttle,
+
+180
+00:09:16,266 --> 00:09:18,134
+which is why we needed you.
+
+181
+00:09:18,202 --> 00:09:19,635
+Why you need me.
+
+182
+00:09:19,703 --> 00:09:20,636
+Hi, there.
+
+183
+00:09:20,704 --> 00:09:21,638
+I am the pilot.
+
+184
+00:09:21,705 --> 00:09:23,239
+[droids beeping]
+
+185
+00:09:23,307 --> 00:09:25,208
+What is this Separatist plot?
+
+186
+00:09:25,276 --> 00:09:26,676
+I do not know the details.
+
+187
+00:09:26,744 --> 00:09:29,112
+I was only able to steal the coordinates
+
+188
+00:09:29,179 --> 00:09:30,179
+of their target.
+
+189
+00:09:30,247 --> 00:09:31,547
+Target?
+
+190
+00:09:33,450 --> 00:09:36,452
+You mean they aren't just
+planning to blow up this ship?
+
+191
+00:09:36,520 --> 00:09:37,921
+I do not believe so.
+
+192
+00:09:37,988 --> 00:09:40,290
+The coordinates are a space station
+
+193
+00:09:40,357 --> 00:09:41,925
+in the Carida system.
+
+194
+00:09:41,992 --> 00:09:42,926
+What?
+
+195
+00:09:42,993 --> 00:09:43,993
+That's the site
+
+196
+00:09:44,061 --> 00:09:45,962
+of the Republic Strategy Conference.
+
+197
+00:09:46,029 --> 00:09:48,564
+[R2-D2 beeping and buzzing]
+
+198
+00:09:48,632 --> 00:09:49,699
+How do I know?
+
+199
+00:09:49,767 --> 00:09:51,267
+I was putting the finishing touches
+
+200
+00:09:51,335 --> 00:09:53,436
+on a report for that conference
+
+201
+00:09:53,503 --> 00:09:56,139
+when I was assigned this mission.
+
+202
+00:09:56,206 --> 00:09:57,840
+The Jedi Council will be there,
+
+203
+00:09:57,908 --> 00:10:01,077
+along with Republic officers
+from around the galaxy and--
+
+204
+00:10:01,145 --> 00:10:02,545
+What the...
+
+205
+00:10:02,613 --> 00:10:06,082
+The Separatists are going to ram
+the station with this ship!
+
+206
+00:10:06,150 --> 00:10:07,784
+[R2-D2 beeping]
+
+207
+00:10:07,852 --> 00:10:08,785
+I agree.
+
+208
+00:10:08,853 --> 00:10:10,854
+We have to do something, Artoo.
+
+209
+00:10:10,921 --> 00:10:12,722
+See if you can send a transmission
+
+210
+00:10:12,790 --> 00:10:14,757
+to the Republic so we can warn them.
+
+211
+00:10:14,825 --> 00:10:16,059
+It is no use.
+
+212
+00:10:16,126 --> 00:10:17,594
+We have tried that.
+
+213
+00:10:17,661 --> 00:10:20,797
+All transmissions from this ship
+are being blocked.
+
+214
+00:10:20,865 --> 00:10:22,532
+[R2-D2 whirs]
+
+215
+00:10:22,600 --> 00:10:23,900
+Hmm, you're right.
+
+216
+00:10:23,968 --> 00:10:26,069
+We can't just sit here and do nothing.
+
+217
+00:10:27,605 --> 00:10:30,506
+[buzz droid clicking]
+
+218
+00:10:30,574 --> 00:10:31,741
+Where's he going?
+
+219
+00:10:31,808 --> 00:10:32,741
+Uh-oh.
+
+220
+00:10:32,809 --> 00:10:34,977
+That buzz droid is not with me.
+
+221
+00:10:35,044 --> 00:10:37,112
+It must be a spy!
+
+222
+00:10:37,180 --> 00:10:39,948
+Stop that droid!
+
+223
+00:10:40,016 --> 00:10:41,383
+[buzz droid beeps]
+
+224
+00:10:41,450 --> 00:10:43,584
+[electric crackling]
+
+225
+00:10:43,652 --> 00:10:46,587
+[suspenseful music]
+
+226
+00:11:08,643 --> 00:11:11,646
+[R2-D2 beeping]
+
+227
+00:11:13,415 --> 00:11:16,418
+[several droids beeping and whirring]
+
+228
+00:11:20,690 --> 00:11:23,026
+Where'd he go?
+We've got to find him.
+
+229
+00:11:23,094 --> 00:11:25,528
+I do not know.
+I do not see him anywhere.
+
+230
+00:11:25,596 --> 00:11:27,464
+[buzz droid whirs]
+
+231
+00:11:27,532 --> 00:11:28,732
+Uh, Colonel...
+
+232
+00:11:28,800 --> 00:11:30,401
+I think I see him.
+
+233
+00:11:30,468 --> 00:11:33,303
+I think I see a whole lot of him.
+
+234
+00:11:33,371 --> 00:11:34,704
+It's a trap!
+
+235
+00:11:34,772 --> 00:11:39,375
+[buzz droids clicking and beeping]
+
+236
+00:11:39,443 --> 00:11:42,445
+[droids beeping and whirring]
+
+237
+00:11:56,594 --> 00:11:58,762
+[R2-D2 whistles]
+
+238
+00:12:01,733 --> 00:12:04,401
+Good work.
+You've established a perimeter.
+
+239
+00:12:04,468 --> 00:12:07,071
+There are still more coming!
+
+240
+00:12:07,138 --> 00:12:11,208
+[ominous music]
+
+241
+00:12:11,276 --> 00:12:12,576
+[R2-D2 beeping]
+
+242
+00:12:12,644 --> 00:12:15,579
+Please tell me you have
+a brilliant strategy, Colonel!
+
+243
+00:12:15,647 --> 00:12:17,848
+I don't know!
+There's just so many of them.
+
+244
+00:12:17,915 --> 00:12:19,016
+[Beezee beeping]
+
+245
+00:12:19,083 --> 00:12:20,717
+What do you mean, "get out"?
+
+246
+00:12:20,785 --> 00:12:23,854
+[Beezee buzzing]
+
+247
+00:12:23,922 --> 00:12:25,723
+All right, what are you going to do?
+
+248
+00:12:25,790 --> 00:12:26,824
+[Beezee beeps]
+
+249
+00:12:26,891 --> 00:12:28,625
+You are going to open the air lock?
+
+250
+00:12:28,693 --> 00:12:30,260
+Are you crazy, Beezee?
+
+251
+00:12:30,328 --> 00:12:32,229
+[Beezee buzzing]
+
+252
+00:12:32,297 --> 00:12:35,232
+[suspenseful music]
+
+253
+00:12:42,874 --> 00:12:44,575
+Everybody, magnetize your feet!
+
+254
+00:12:44,643 --> 00:12:45,743
+Lock down!
+
+255
+00:12:48,079 --> 00:12:49,280
+[droids beeping and whirring]
+
+256
+00:12:49,347 --> 00:12:50,982
+Beezee!
+Magnetize!
+
+257
+00:12:51,050 --> 00:12:52,784
+Magnetize!
+
+258
+00:12:52,852 --> 00:12:53,885
+No!
+
+259
+00:13:01,460 --> 00:13:04,362
+[droids beeping]
+
+260
+00:13:04,429 --> 00:13:06,697
+Artoo, close the door!
+
+261
+00:13:06,764 --> 00:13:08,465
+Close the door!
+
+262
+00:13:08,533 --> 00:13:09,866
+[R2-D2 beeps]
+
+263
+00:13:14,772 --> 00:13:15,772
+[R2-D2 sighs]
+
+264
+00:13:19,109 --> 00:13:20,543
+Poor Beezee.
+
+265
+00:13:20,611 --> 00:13:23,079
+You will be missed, soldier.
+
+266
+00:13:23,147 --> 00:13:24,147
+[R2-D2 beeps]
+
+267
+00:13:24,214 --> 00:13:25,615
+Artoo is right.
+
+268
+00:13:25,683 --> 00:13:30,654
+Colonel, would you say something
+to honor this heroic sacrifice?
+
+269
+00:13:30,721 --> 00:13:33,256
+I suppose that's appropriate.
+
+270
+00:13:33,324 --> 00:13:36,359
+I'll have to make it quick
+because we don't have much time.
+
+271
+00:13:36,427 --> 00:13:38,762
+When this D-Squad
+started our mission,
+
+272
+00:13:38,829 --> 00:13:40,330
+I had doubts.
+
+273
+00:13:40,398 --> 00:13:42,866
+Grave doubts that we would ever survive,
+
+274
+00:13:42,934 --> 00:13:44,768
+let alone succeed.
+
+275
+00:13:44,835 --> 00:13:46,703
+But we worked together.
+
+276
+00:13:46,771 --> 00:13:48,138
+We didn't give up hope.
+
+277
+00:13:48,205 --> 00:13:50,740
+We showed courage in the face of death.
+
+278
+00:13:50,808 --> 00:13:52,709
+It shocks me to say this,
+
+279
+00:13:52,777 --> 00:13:55,812
+but we make an excellent team.
+
+280
+00:13:55,880 --> 00:13:58,582
+Now we've lost one of our members...
+
+281
+00:13:58,649 --> 00:13:59,883
+Beezee.
+
+282
+00:13:59,951 --> 00:14:01,652
+But we must remember.
+
+283
+00:14:01,719 --> 00:14:05,289
+Beezee sacrificed himself for us.
+
+284
+00:14:05,356 --> 00:14:08,625
+That's what a good soldier does
+sometimes.
+
+285
+00:14:08,693 --> 00:14:11,261
+The only way to honor that sacrifice
+
+286
+00:14:11,329 --> 00:14:13,030
+is to stop this ship
+
+287
+00:14:13,097 --> 00:14:14,798
+and prevent the Separatists
+
+288
+00:14:14,866 --> 00:14:17,301
+from taking any more Republic lives.
+
+289
+00:14:17,369 --> 00:14:18,302
+Are you with me?
+
+290
+00:14:18,370 --> 00:14:19,904
+[droids beeping]
+
+291
+00:14:27,780 --> 00:14:30,219
+Have the buzz droids
+reported back in yet?
+
+292
+00:14:30,352 --> 00:14:33,054
+No, there has been no signal from them.
+
+293
+00:14:33,121 --> 00:14:36,424
+In fact, I cannot even locate
+their signal anymore.
+
+294
+00:14:36,492 --> 00:14:37,725
+We must assume, then,
+
+295
+00:14:37,793 --> 00:14:39,828
+that the buzz droids have failed.
+
+296
+00:14:39,895 --> 00:14:43,599
+I want those intruders found
+before they ruin our plans.
+
+297
+00:14:43,666 --> 00:14:45,867
+- Roger, roger.
+- Roger, roger.
+
+298
+00:14:45,935 --> 00:14:47,336
+[droids beeping]
+
+299
+00:14:49,973 --> 00:14:52,007
+All right, everybody knows the plan?
+
+300
+00:14:52,075 --> 00:14:54,210
+We get the injured droids to the shuttle
+
+301
+00:14:54,278 --> 00:14:55,578
+and distract the battle droids
+
+302
+00:14:55,646 --> 00:14:57,914
+while Artoo goes up to the detonator
+
+303
+00:14:57,982 --> 00:15:00,050
+and programs it to explode early.
+
+304
+00:15:00,117 --> 00:15:02,085
+Hopefully he can make it
+back to the shuttle
+
+305
+00:15:02,153 --> 00:15:05,088
+and we can all get off the ship
+before it blows up.
+
+306
+00:15:05,156 --> 00:15:06,589
+[R2-D2 beeps and whirs]
+
+307
+00:15:06,657 --> 00:15:08,959
+Good luck, Artoo.
+
+308
+00:15:09,026 --> 00:15:12,362
+[suspenseful music]
+
+309
+00:15:12,430 --> 00:15:14,364
+The intruders!
+Destroy them!
+
+310
+00:15:14,432 --> 00:15:17,434
+[blasters firing]
+
+311
+00:15:29,014 --> 00:15:30,181
+[droid buzzing]
+
+312
+00:15:30,249 --> 00:15:31,382
+You can make it!
+
+313
+00:15:31,450 --> 00:15:33,451
+Hurry!
+Hurry!
+
+314
+00:15:33,519 --> 00:15:34,519
+[zap]
+
+315
+00:15:54,606 --> 00:15:56,840
+We have our target in sight.
+
+316
+00:15:56,908 --> 00:15:58,309
+Full ahead.
+
+317
+00:15:58,376 --> 00:16:00,444
+Ramming speed.
+
+318
+00:16:00,512 --> 00:16:02,946
+Evacuation plan is now under way.
+
+319
+00:16:03,014 --> 00:16:06,317
+I will go to the detonator
+and start the countdown.
+
+320
+00:16:06,385 --> 00:16:09,320
+[ominous music]
+
+321
+00:16:18,195 --> 00:16:19,228
+[sighs]
+
+322
+00:16:19,296 --> 00:16:20,417
+The worst part about our job
+
+323
+00:16:20,430 --> 00:16:22,698
+are these boring strategy conferences.
+
+324
+00:16:22,766 --> 00:16:24,033
+Cheer up, Anakin.
+
+325
+00:16:24,100 --> 00:16:26,101
+This is your chance to voice
+all your complaints
+
+326
+00:16:26,169 --> 00:16:27,936
+about military protocol.
+
+327
+00:16:28,004 --> 00:16:30,972
+And it looks as though
+we can finally get under way.
+
+328
+00:16:31,040 --> 00:16:34,343
+I will inform Master Windu
+the last straggler has arrived
+
+329
+00:16:34,410 --> 00:16:37,079
+while you work on your attitude.
+
+330
+00:16:40,851 --> 00:16:44,020
+Isn't that ship coming in
+a little too fast?
+
+331
+00:16:44,088 --> 00:16:47,590
+♪ ♪
+
+332
+00:16:47,658 --> 00:16:48,825
+There's the shuttle!
+
+333
+00:16:52,797 --> 00:16:55,732
+[blasters firing]
+
+334
+00:16:55,799 --> 00:16:57,967
+Careful, you'll hit the Rhydonium.
+
+335
+00:16:58,035 --> 00:16:59,869
+Everyone, head to the ship!
+
+336
+00:16:59,936 --> 00:17:02,972
+Ceefor and I will distract them.
+
+337
+00:17:03,039 --> 00:17:04,940
+[blasters firing]
+
+338
+00:17:05,008 --> 00:17:06,908
+[Ceefor buzzing]
+
+339
+00:17:06,976 --> 00:17:10,512
+[droids beeping and whirring]
+
+340
+00:17:10,580 --> 00:17:12,481
+[device beeping]
+
+341
+00:17:14,050 --> 00:17:15,050
+[R2-D2 beeping]
+
+342
+00:17:15,118 --> 00:17:16,151
+[R2-D2 whistles]
+
+343
+00:17:20,389 --> 00:17:22,390
+You are too late.
+
+344
+00:17:25,228 --> 00:17:27,229
+Once the detonation sequence
+has commenced,
+
+345
+00:17:27,296 --> 00:17:29,197
+there is no stopping it.
+
+346
+00:17:29,265 --> 00:17:30,666
+[R2-D2 beeping]
+
+347
+00:17:30,733 --> 00:17:33,902
+[blasters firing]
+
+348
+00:17:33,970 --> 00:17:36,605
+Now let's see if Artoo made it
+to the detonator.
+
+349
+00:17:36,673 --> 00:17:39,675
+[blasters firing]
+
+350
+00:17:44,314 --> 00:17:45,648
+Artoo is in trouble!
+
+351
+00:17:45,716 --> 00:17:46,649
+Come on!
+
+352
+00:17:46,717 --> 00:17:49,618
+[blasters firing]
+
+353
+00:17:49,686 --> 00:17:52,688
+Artoo will never make it back
+to the shuttle in time.
+
+354
+00:17:52,756 --> 00:17:55,491
+We've got to delay the launch.
+
+355
+00:17:58,228 --> 00:18:00,329
+The cruiser has not slowed its pace.
+
+356
+00:18:00,397 --> 00:18:02,465
+Have you been able to contact
+their captain?
+
+357
+00:18:02,533 --> 00:18:03,666
+[Z9 beeping]
+
+358
+00:18:03,734 --> 00:18:06,169
+Z9 says he cannot make contact
+with anyone.
+
+359
+00:18:06,237 --> 00:18:09,540
+[sighs] Where's Artoo when I need him?
+
+360
+00:18:15,413 --> 00:18:16,446
+[cannon firing]
+
+361
+00:18:16,514 --> 00:18:17,514
+[explosions]
+
+362
+00:18:19,117 --> 00:18:21,751
+We've got to regroup
+and head back for Artoo.
+
+363
+00:18:21,819 --> 00:18:22,986
+[Qutee chirping]
+
+364
+00:18:23,053 --> 00:18:24,854
+Well, we're changing the plan!
+
+365
+00:18:24,922 --> 00:18:26,489
+No one gets left behind,
+
+366
+00:18:26,556 --> 00:18:29,492
+and we're not leaving until I say so!
+
+367
+00:18:29,559 --> 00:18:31,527
+Prepare for liftoff!
+
+368
+00:18:31,595 --> 00:18:33,128
+[device beeping]
+
+369
+00:18:33,196 --> 00:18:35,197
+[ship whirring]
+
+370
+00:18:37,166 --> 00:18:38,600
+[blasters firing]
+
+371
+00:18:41,270 --> 00:18:44,205
+[triumphant music]
+
+372
+00:18:49,377 --> 00:18:52,079
+[gears grinding]
+
+373
+00:18:52,146 --> 00:18:53,680
+[bomb beeping]
+
+374
+00:18:53,748 --> 00:18:55,816
+No.
+It is too soon.
+
+375
+00:18:55,883 --> 00:18:58,752
+We are scanning a large amount
+of Rhydonium on that ship!
+
+376
+00:18:58,819 --> 00:19:00,020
+It's a bomb.
+
+377
+00:19:00,087 --> 00:19:01,021
+[R2-D2 beeping]
+
+378
+00:19:01,089 --> 00:19:03,290
+[alarm ringing rapidly]
+
+379
+00:19:03,358 --> 00:19:05,258
+[explosion rumbling]
+
+380
+00:19:14,736 --> 00:19:17,738
+[sonic reverberation]
+
+381
+00:19:19,074 --> 00:19:22,843
+[all grunting]
+
+382
+00:19:22,911 --> 00:19:25,079
+[deep rumbling]
+
+383
+00:19:25,146 --> 00:19:26,547
+[all grunting and groaning]
+
+384
+00:19:36,624 --> 00:19:39,626
+And you thought
+this conference would be boring.
+
+385
+00:19:39,694 --> 00:19:42,630
+[ominous music]
+
+386
+00:19:42,697 --> 00:19:44,031
+♪ ♪
+
+387
+00:19:44,099 --> 00:19:45,132
+Mayday! Mayday!
+
+388
+00:19:45,200 --> 00:19:46,600
+Space station Valor,
+
+389
+00:19:46,668 --> 00:19:48,602
+this is Colonel Meebur Gascon.
+
+390
+00:19:48,670 --> 00:19:50,671
+Can anyone hear me?
+
+391
+00:19:50,738 --> 00:19:51,838
+We read you, Colonel.
+
+392
+00:19:51,906 --> 00:19:53,373
+This is General Skywalker.
+
+393
+00:19:53,441 --> 00:19:54,775
+What's going on out there?
+
+394
+00:19:54,843 --> 00:19:57,345
+Slight change in our mission, General.
+
+395
+00:19:57,412 --> 00:20:00,414
+The droids and I were stowaways
+on that cruiser.
+
+396
+00:20:00,482 --> 00:20:01,849
+Where's Artoo?
+
+397
+00:20:01,917 --> 00:20:04,385
+I'm sorry to report he was on that ship
+
+398
+00:20:04,453 --> 00:20:05,986
+when it blew up, sir.
+
+399
+00:20:06,054 --> 00:20:08,422
+He just saved all your lives.
+
+400
+00:20:08,490 --> 00:20:11,392
+I want a salvage team out there now!
+
+401
+00:20:11,460 --> 00:20:12,460
+Yes, sir.
+
+402
+00:20:15,731 --> 00:20:18,666
+[somber music]
+
+403
+00:20:40,322 --> 00:20:42,089
+[droid whining]
+
+404
+00:20:42,157 --> 00:20:43,657
+[machines whirring]
+
+405
+00:20:43,725 --> 00:20:45,225
+Artoo!
+
+406
+00:20:45,293 --> 00:20:47,861
+[R2-D2 beeping]
+
+407
+00:20:47,929 --> 00:20:49,863
+You made it, buddy!
+
+408
+00:20:49,931 --> 00:20:51,732
+Hey, you're a big hero.
+
+409
+00:20:51,800 --> 00:20:54,569
+[R2-D2 whistles]
+
+410
+00:20:54,637 --> 00:20:58,173
+There's someone here
+who wants to speak to you.
+
+411
+00:20:58,241 --> 00:21:00,942
+[droids beeping]
+
+412
+00:21:02,679 --> 00:21:06,548
+R2D2, are we glad to see you.
+
+413
+00:21:06,616 --> 00:21:08,117
+I am most glad.
+
+414
+00:21:08,184 --> 00:21:10,252
+Quiet, WAC.
+I'm talking here.
+
+415
+00:21:10,320 --> 00:21:11,454
+Yes, sir, Colonel.
+
+416
+00:21:12,456 --> 00:21:13,989
+[R2-D2 whistles]
+
+417
+00:21:14,057 --> 00:21:17,359
+In truth, I might just be a map reader,
+
+418
+00:21:17,427 --> 00:21:20,729
+and I don't have much battle experience,
+
+419
+00:21:20,797 --> 00:21:21,964
+but, Artoo,
+
+420
+00:21:22,032 --> 00:21:25,734
+you are the bravest droid
+I have ever met.
+
+421
+00:21:25,802 --> 00:21:27,203
+You all are.
+
+422
+00:21:27,270 --> 00:21:30,139
+I would be proud to serve
+with you droids
+
+423
+00:21:30,207 --> 00:21:32,041
+anytime, anywhere.
+
+424
+00:21:32,109 --> 00:21:34,777
+Oh, I am glad to hear you
+say that, Colonel,
+
+425
+00:21:34,845 --> 00:21:38,214
+because I hear we have been
+assigned to the same platoon!
+
+426
+00:21:38,282 --> 00:21:40,516
+We will be seeing each other every day
+
+427
+00:21:40,584 --> 00:21:42,585
+for the rest of the war!
+
+428
+00:21:42,653 --> 00:21:45,321
+That's great, WAC.
+
+429
+00:21:45,388 --> 00:21:48,157
+[laughing]
+
+430
+00:21:48,225 --> 00:21:50,893
+[droids beeping excitedly]
+
+431
+00:21:50,961 --> 00:21:53,028
+[orchestral fanfare]
+

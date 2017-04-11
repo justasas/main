@@ -1,0 +1,326 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.59,0:00:05.52,Main Dialog,Spoken,0000,0000,0000,,Crawl out of the gates of hell \Nand wield that evil power!
+Dialogue: 0,0:00:06.15,0:00:06.77,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:00:08.92,0:00:11.24,Main Dialog,Spoken,0000,0000,0000,,Demon World Marquis, Amon!
+Dialogue: 0,0:00:16.25,0:00:18.87,Main Dialog,Spoken,0000,0000,0000,,Ren! Surrender to me!
+Dialogue: 0,0:00:19.20,0:00:21.87,Main Dialog,Spoken,0000,0000,0000,,This time, I'll lead you!
+Dialogue: 0,0:00:22.30,0:00:27.82,Main Dialog,Spoken,0000,0000,0000,,And then become the king \Nthat I seek, Ren Suzugamori!
+Dialogue: 0,0:02:12.91,0:02:13.69,Main Dialog,Spoken,0000,0000,0000,,Got it!
+Dialogue: 0,0:02:15.86,0:02:17.19,Main Dialog,Spoken,0000,0000,0000,,Ren!
+Dialogue: 0,0:02:18.74,0:02:20.03,Main Dialog,Spoken,0000,0000,0000,,Ren!
+Dialogue: 0,0:02:31.50,0:02:34.06,Main Dialog,Spoken,0000,0000,0000,,They've both got grade 3 Vanguards...
+Dialogue: 0,0:02:34.06,0:02:36.81,Main Dialog,Spoken,0000,0000,0000,,The damage is 4 to 3 with Ren in the lead...
+Dialogue: 0,0:02:38.44,0:02:40.52,Main Dialog,Spoken,0000,0000,0000,,...but it looks like Tetsu's turn is next.
+Dialogue: 0,0:02:43.02,0:02:47.93,Main Dialog,Spoken,0000,0000,0000,,Be patient. All we can do right now is watch.
+Dialogue: 0,0:02:50.84,0:02:53.72,Main Dialog,Spoken,0000,0000,0000,,Wrong. There is something that I can do.
+Dialogue: 0,0:02:55.88,0:02:58.70,Main Dialog,Spoken,0000,0000,0000,,I'll have faith in Ren.
+Dialogue: 0,0:02:58.70,0:03:02.62,Main Dialog,Spoken,0000,0000,0000,,I'll keep believing that he'll bring \NTetsu back. I'll wait for that.
+Dialogue: 0,0:03:03.48,0:03:04.65,Main Dialog,Spoken,0000,0000,0000,,Right.
+Dialogue: 0,0:03:09.75,0:03:14.75,Signs,Sign,0000,0000,0000,,Kingmaker in the Moonlight
+Dialogue: 0,0:03:15.09,0:03:19.01,Main Dialog,Spoken,0000,0000,0000,,I call Doreen the Thruster and \NAmon's Follower, Hell's Draw!
+Dialogue: 0,0:03:23.71,0:03:25.14,Main Dialog,Spoken,0000,0000,0000,,Soulcharge!
+Dialogue: 0,0:03:25.88,0:03:29.95,Main Dialog,Spoken,0000,0000,0000,,With this, Demon World Marquis, Amon \Nreceives +6000 power.
+Dialogue: 0,0:03:32.85,0:03:35.77,Main Dialog,Spoken,0000,0000,0000,,On top of that, Doreen also gets +6000 power.
+Dialogue: 0,0:03:38.11,0:03:39.26,Main Dialog,Spoken,0000,0000,0000,,This is...
+Dialogue: 0,0:03:39.26,0:03:45.47,Main Dialog,Spoken,0000,0000,0000,,That's right. My units get more power \Nevery time a card is put in the Soul.
+Dialogue: 0,0:03:45.47,0:03:49.61,Main Dialog,Spoken,0000,0000,0000,,The more turns you have, \Nthe stronger the effect.
+Dialogue: 0,0:03:49.61,0:03:51.26,Main Dialog,Spoken,0000,0000,0000,,That skill is a pain in the neck.
+Dialogue: 0,0:03:51.71,0:03:54.92,Main Dialog,Spoken,0000,0000,0000,,Well, if you can last that long...
+Dialogue: 0,0:03:55.53,0:03:57.29,Main Dialog,Spoken,0000,0000,0000,,Ron Geenlin attacks!
+Dialogue: 0,0:03:59.13,0:04:03.47,Main Dialog,Spoken,0000,0000,0000,,Since my Vanguard has "Amon" in \Nthe name, Ron gets +3000 power!
+Dialogue: 0,0:04:10.50,0:04:14.32,Main Dialog,Spoken,0000,0000,0000,,Take Demon World Marquis's \Nslashing attack, Ren!
+Dialogue: 0,0:04:18.44,0:04:20.91,Main Dialog,Spoken,0000,0000,0000,,That's fine. No guard.
+Dialogue: 0,0:04:20.91,0:04:22.34,Main Dialog,Spoken,0000,0000,0000,,Twin drive!
+Dialogue: 0,0:04:23.98,0:04:25.45,Main Dialog,Spoken,0000,0000,0000,,Heal trigger?!
+Dialogue: 0,0:04:26.20,0:04:27.94,Main Dialog,Spoken,0000,0000,0000,,Now they've got even damage...
+Dialogue: 0,0:04:28.82,0:04:30.73,Main Dialog,Spoken,0000,0000,0000,,I give the power to Hell's Draw.
+Dialogue: 0,0:04:32.26,0:04:33.63,Main Dialog,Spoken,0000,0000,0000,,Second check!
+Dialogue: 0,0:04:41.90,0:04:43.21,Main Dialog,Spoken,0000,0000,0000,,Oh, wow...
+Dialogue: 0,0:04:48.62,0:04:50.31,Main Dialog,Spoken,0000,0000,0000,,Fate Collector moves to the Soul.
+Dialogue: 0,0:04:51.00,0:04:53.56,Main Dialog,Spoken,0000,0000,0000,,With its skill, I draw one card.
+Dialogue: 0,0:04:55.46,0:04:56.72,Main Dialog,Spoken,0000,0000,0000,,That's not like you.
+Dialogue: 0,0:04:56.72,0:04:57.56,Main Dialog,Spoken,0000,0000,0000,,What?
+Dialogue: 0,0:04:58.48,0:05:01.32,Main Dialog,Spoken,0000,0000,0000,,What happened to your usual poker face?
+Dialogue: 0,0:05:01.80,0:05:04.68,Main Dialog,Spoken,0000,0000,0000,,You've clearly drawn a good card,
+Dialogue: 0,0:05:04.68,0:05:09.58,Main Dialog,Spoken,0000,0000,0000,,but by letting it show on your face, you're \Ngoing to miss out on using it effectively.
+Dialogue: 0,0:05:10.82,0:05:12.25,Main Dialog,Spoken,0000,0000,0000,,Don't underestimate me.
+Dialogue: 0,0:05:12.25,0:05:16.71,Main Dialog,Spoken,0000,0000,0000,,The card won't lose effectiveness \Nbecause of something like that.
+Dialogue: 0,0:05:17.20,0:05:22.09,Main Dialog,Spoken,0000,0000,0000,,Besides, shouldn't you worry \Nabout yourself first?
+Dialogue: 0,0:05:22.73,0:05:28.72,Main Dialog,Spoken,0000,0000,0000,,Very true. Not only has Tetsu taken \Nthe lead, his turn isn't even over yet.
+Dialogue: 0,0:05:29.34,0:05:30.43,Main Dialog,Spoken,0000,0000,0000,,Ren...
+Dialogue: 0,0:05:31.40,0:05:33.13,Main Dialog,Spoken,0000,0000,0000,,Go, Hell's Draw!
+Dialogue: 0,0:05:41.44,0:05:43.54,Main Dialog,Spoken,0000,0000,0000,,That makes 5 damage!
+Dialogue: 0,0:05:44.27,0:05:48.07,Main Dialog,Spoken,0000,0000,0000,,I'd like to fight to the finish right here,
+Dialogue: 0,0:05:48.42,0:05:50.95,Main Dialog,Spoken,0000,0000,0000,,but unfortunately, my turn's over.
+Dialogue: 0,0:05:51.22,0:05:54.41,Main Dialog,Spoken,0000,0000,0000,,Boy, you don't get it, Tetsu.
+Dialogue: 0,0:05:54.41,0:05:58.74,Main Dialog,Spoken,0000,0000,0000,,Saying "I'll save my fun for later!"
+Dialogue: 0,0:05:58.74,0:06:01.84,Main Dialog,Spoken,0000,0000,0000,,...is just not very villainous.
+Dialogue: 0,0:06:02.22,0:06:06.59,Main Dialog,Spoken,0000,0000,0000,,Nonsense talk. Do you understand \Nyour position, Ren?
+Dialogue: 0,0:06:06.59,0:06:11.35,Main Dialog,Spoken,0000,0000,0000,,If you don't beat me this next turn, \Nyou'll have no chance of winning.
+Dialogue: 0,0:06:11.86,0:06:14.61,Main Dialog,Spoken,0000,0000,0000,,Of course I understand that.
+Dialogue: 0,0:06:16.69,0:06:18.33,Main Dialog,Spoken,0000,0000,0000,,Blaze up, flames of fury!
+Dialogue: 0,0:06:19.22,0:06:20.73,Main Dialog,Spoken,0000,0000,0000,,With thoughts of raging wrath,
+Dialogue: 0,0:06:21.19,0:06:23.80,Main Dialog,Spoken,0000,0000,0000,,reduce to ashes everything \Nreflected in your eyes!
+Dialogue: 0,0:06:23.80,0:06:25.16,Main Dialog,Spoken,0000,0000,0000,,Break ride!
+Dialogue: 0,0:06:26.14,0:06:28.96,Main Dialog,Spoken,0000,0000,0000,,Revenger, Raging Form Dragon!
+Dialogue: 0,0:06:35.37,0:06:36.58,Main Dialog,Spoken,0000,0000,0000,,Superior call.
+Dialogue: 0,0:06:40.52,0:06:41.25,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:06:42.32,0:06:44.38,Main Dialog,Spoken,0000,0000,0000,,Transient Revenger attacks!
+Dialogue: 0,0:06:49.30,0:06:50.34,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:06:52.17,0:06:54.11,Main Dialog,Spoken,0000,0000,0000,,His first attack failed.
+Dialogue: 0,0:06:55.84,0:06:56.96,Main Dialog,Spoken,0000,0000,0000,,Ren...
+Dialogue: 0,0:06:59.30,0:07:00.78,Main Dialog,Spoken,0000,0000,0000,,You are good.
+Dialogue: 0,0:07:01.37,0:07:03.20,Main Dialog,Spoken,0000,0000,0000,,An attack like that was easy to brush off.
+Dialogue: 0,0:07:03.94,0:07:06.02,Main Dialog,Spoken,0000,0000,0000,,Then how about this one?
+Dialogue: 0,0:07:06.85,0:07:11.24,Main Dialog,Spoken,0000,0000,0000,,Raging dragon, use your passionate roar
+Dialogue: 0,0:07:11.24,0:07:13.70,Main Dialog,Spoken,0000,0000,0000,,to crush everything to pieces!
+Dialogue: 0,0:07:14.66,0:07:16.03,Main Dialog,Spoken,0000,0000,0000,,No guard.
+Dialogue: 0,0:07:16.41,0:07:17.86,Main Dialog,Spoken,0000,0000,0000,,Twin drive!
+Dialogue: 0,0:07:20.94,0:07:23.29,Main Dialog,Spoken,0000,0000,0000,,There it is! A critical trigger!
+Dialogue: 0,0:07:23.88,0:07:30.42,Main Dialog,Spoken,0000,0000,0000,,I give the power to Nullity Revenger and \Nthe extra critical to Raging Form Dragon.
+Dialogue: 0,0:07:30.85,0:07:32.18,Main Dialog,Spoken,0000,0000,0000,,A critical of 2!
+Dialogue: 0,0:07:36.41,0:07:38.30,Main Dialog,Spoken,0000,0000,0000,,5 damage just like that!
+Dialogue: 0,0:07:38.30,0:07:42.06,Main Dialog,Spoken,0000,0000,0000,,Ren! If your next attack succeeds, it's over!
+Dialogue: 0,0:07:43.48,0:07:46.60,Main Dialog,Spoken,0000,0000,0000,,But will it go that smoothly?
+Dialogue: 0,0:07:48.46,0:07:52.25,Main Dialog,Spoken,0000,0000,0000,,Critical trigger! I give the power to Amon.
+Dialogue: 0,0:07:55.30,0:07:58.25,Main Dialog,Spoken,0000,0000,0000,,Even though you've raised your power a bit,
+Dialogue: 0,0:07:58.76,0:08:02.34,Main Dialog,Spoken,0000,0000,0000,,that won't stop my Raging Form Dragon.
+Dialogue: 0,0:08:03.47,0:08:04.57,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:08:10.22,0:08:14.80,Main Dialog,Spoken,0000,0000,0000,,Tremble with fear before \Nan even greater rage!
+Dialogue: 0,0:08:14.80,0:08:16.30,Main Dialog,Spoken,0000,0000,0000,,Superior persona ride!
+Dialogue: 0,0:08:18.17,0:08:19.81,Main Dialog,Spoken,0000,0000,0000,,Raging Form Dragon!
+Dialogue: 0,0:08:23.72,0:08:26.58,Main Dialog,Spoken,0000,0000,0000,,He went from one Raging Form \Nto another Raging Form.
+Dialogue: 0,0:08:26.58,0:08:28.82,Main Dialog,Spoken,0000,0000,0000,,And it's standing!
+Dialogue: 0,0:08:29.25,0:08:33.15,Main Dialog,Spoken,0000,0000,0000,,What do you think? This way, \NI have two more attacks.
+Dialogue: 0,0:08:34.05,0:08:38.20,Main Dialog,Spoken,0000,0000,0000,,Meanwhile, you can't withstand \Neven 1 more damage, Tetsu.
+Dialogue: 0,0:08:39.14,0:08:40.82,Main Dialog,Spoken,0000,0000,0000,,Your number is up.
+Dialogue: 0,0:08:41.37,0:08:44.00,Main Dialog,Spoken,0000,0000,0000,,I'll pay you back for before.
+Dialogue: 0,0:08:44.00,0:08:44.88,Main Dialog,Spoken,0000,0000,0000,,Oh?
+Dialogue: 0,0:08:44.88,0:08:49.67,Main Dialog,Spoken,0000,0000,0000,,The man who talks too much before \Nthe final stroke always loses.
+Dialogue: 0,0:08:50.44,0:08:51.61,Main Dialog,Spoken,0000,0000,0000,,Am I wrong?
+Dialogue: 0,0:08:53.25,0:08:56.11,Main Dialog,Spoken,0000,0000,0000,,You know that theory too?
+Dialogue: 0,0:08:56.11,0:08:57.59,Main Dialog,Spoken,0000,0000,0000,,I'm impressed.
+Dialogue: 0,0:08:58.13,0:09:00.10,Main Dialog,Spoken,0000,0000,0000,,And here's your reward.
+Dialogue: 0,0:09:01.96,0:09:06.98,Main Dialog,Spoken,0000,0000,0000,,Unleash your thunder! Raging roar,\N destroy Tetsu's delusion!
+Dialogue: 0,0:09:10.65,0:09:14.11,Main Dialog,Spoken,0000,0000,0000,,Come, my follower! Vlad Specula!
+Dialogue: 0,0:09:17.53,0:09:18.99,Main Dialog,Spoken,0000,0000,0000,,Perfect guard...
+Dialogue: 0,0:09:24.52,0:09:26.46,Main Dialog,Spoken,0000,0000,0000,,Nullity Revenger, Masquerade!
+Dialogue: 0,0:09:30.54,0:09:33.42,Main Dialog,Spoken,0000,0000,0000,,Ren! That's your final attack!
+Dialogue: 0,0:09:33.89,0:09:38.91,Main Dialog,Spoken,0000,0000,0000,,Ron Geenlin, Hell's Draw, \Nprotect Demon World Marquis!
+Dialogue: 0,0:09:42.37,0:09:45.81,Main Dialog,Spoken,0000,0000,0000,,It seems you've fully realized \Nhow much power I have.
+Dialogue: 0,0:09:46.66,0:09:49.56,Main Dialog,Spoken,0000,0000,0000,,But you can be at ease, Ren.
+Dialogue: 0,0:09:49.56,0:09:52.94,Main Dialog,Spoken,0000,0000,0000,,There's no need for you to fight any longer.
+Dialogue: 0,0:09:53.42,0:09:58.54,Main Dialog,Spoken,0000,0000,0000,,When you become king, \NI'll demolish all challengers.
+Dialogue: 0,0:09:59.14,0:10:02.30,Main Dialog,Spoken,0000,0000,0000,,You can sit on the throne in peace, and...
+Dialogue: 0,0:10:06.92,0:10:09.50,Main Dialog,Spoken,0000,0000,0000,,What are you saying, Tetsu?
+Dialogue: 0,0:10:09.50,0:10:11.54,Main Dialog,Spoken,0000,0000,0000,,The fight isn't over yet.
+Dialogue: 0,0:10:12.24,0:10:16.66,Main Dialog,Spoken,0000,0000,0000,,You don't think I'd throw in the towel \Nover being in a pinch like this, do you?
+Dialogue: 0,0:10:17.26,0:10:20.84,Main Dialog,Spoken,0000,0000,0000,,Just the opposite. \NThis is more fun than ever.
+Dialogue: 0,0:10:20.84,0:10:23.20,Main Dialog,Spoken,0000,0000,0000,,That's just like you, Ren Suzugamori.
+Dialogue: 0,0:10:23.20,0:10:25.97,Main Dialog,Spoken,0000,0000,0000,,That's exactly why you're \Nworthy of being my king.
+Dialogue: 0,0:10:25.97,0:10:28.21,Main Dialog,Spoken,0000,0000,0000,,Please don't make me keep saying it.
+Dialogue: 0,0:10:28.21,0:10:29.48,Main Dialog,Spoken,0000,0000,0000,,I'm not a king.
+Dialogue: 0,0:10:30.10,0:10:33.82,Main Dialog,Spoken,0000,0000,0000,,I'm just an ordinary Cardfighter, \Nthe kind that can be found anywhere.
+Dialogue: 0,0:10:38.97,0:10:41.05,Main Dialog,Spoken,0000,0000,0000,,You're ordinary, you say?
+Dialogue: 0,0:10:41.05,0:10:44.57,Main Dialog,Spoken,0000,0000,0000,,This is also the last time you'll \Nbe spouting nonsense like that!
+Dialogue: 0,0:10:44.97,0:10:46.83,Main Dialog,Spoken,0000,0000,0000,,Final Turn!
+Dialogue: 0,0:10:50.72,0:10:55.05,Main Dialog,Spoken,0000,0000,0000,,Demon of demons, god that \Nrules the demon world!
+Dialogue: 0,0:10:55.50,0:10:59.42,Main Dialog,Spoken,0000,0000,0000,,Appear before me, and turn \Nthis whole world to hell!
+Dialogue: 0,0:10:59.96,0:11:01.05,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:11:03.31,0:11:07.81,Main Dialog,Spoken,0000,0000,0000,,Demon Marquis, Amon "Reverse"!
+Dialogue: 0,0:11:14.90,0:11:16.29,Main Dialog,Spoken,0000,0000,0000,,Here I go, Ren.
+Dialogue: 0,0:11:16.93,0:11:20.18,Main Dialog,Spoken,0000,0000,0000,,This is our final turn!
+Dialogue: 0,0:11:39.02,0:11:40.44,Main Dialog,Spoken,0000,0000,0000,,Doreen moves.
+Dialogue: 0,0:11:40.83,0:11:41.65,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:11:42.56,0:11:43.93,Main Dialog,Spoken,0000,0000,0000,,Soulcharge.
+Dialogue: 0,0:11:45.08,0:11:47.06,Main Dialog,Spoken,0000,0000,0000,,Doreen gets +6000 power.
+Dialogue: 0,0:11:47.70,0:11:50.18,Main Dialog,Spoken,0000,0000,0000,,Limits are meaningless to the Demon Marquis!
+Dialogue: 0,0:11:50.72,0:11:54.38,Main Dialog,Spoken,0000,0000,0000,,Demon Marquis, Amon "Reverse's" Limit Break!
+Dialogue: 0,0:11:56.72,0:11:57.71,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:12:06.22,0:12:10.83,Main Dialog,Spoken,0000,0000,0000,,With this, Amon "Reverse" can get +1000 power
+Dialogue: 0,0:12:10.83,0:12:13.71,Main Dialog,Spoken,0000,0000,0000,,for every Dark Irregulars unit in the Soul.
+Dialogue: 0,0:12:14.16,0:12:16.80,Main Dialog,Spoken,0000,0000,0000,,That's a total of +10000 power.
+Dialogue: 0,0:12:19.56,0:12:24.37,Main Dialog,Spoken,0000,0000,0000,,On top of that, if there are six or \Nmore units, he gets an extra critical.
+Dialogue: 0,0:12:25.13,0:12:28.81,Main Dialog,Spoken,0000,0000,0000,,Even without a boost, that's 23000 power.
+Dialogue: 0,0:12:28.81,0:12:30.14,Main Dialog,Spoken,0000,0000,0000,,And a critical of 2?!
+Dialogue: 0,0:12:32.77,0:12:34.27,Main Dialog,Spoken,0000,0000,0000,,Attack, Doreen!
+Dialogue: 0,0:12:35.71,0:12:36.68,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:12:37.96,0:12:40.23,Main Dialog,Spoken,0000,0000,0000,,The finishing blow! Go, Amon "Reverse"!
+Dialogue: 0,0:12:41.05,0:12:43.28,Main Dialog,Spoken,0000,0000,0000,,Bring the new king into being!
+Dialogue: 0,0:12:46.88,0:12:49.91,Main Dialog,Spoken,0000,0000,0000,,I guard with Air Raid Dragon\N and Grim Revenger!
+Dialogue: 0,0:12:52.90,0:12:53.54,Main Dialog,Spoken,0000,0000,0000,,Check!
+Dialogue: 0,0:12:57.28,0:12:58.29,Main Dialog,Spoken,0000,0000,0000,,Draw trigger.
+Dialogue: 0,0:12:58.89,0:13:00.55,Main Dialog,Spoken,0000,0000,0000,,I give the power to Ron Geenlin!
+Dialogue: 0,0:13:08.81,0:13:09.81,Main Dialog,Spoken,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:13:10.62,0:13:14.18,Main Dialog,Spoken,0000,0000,0000,,It's taking you an awful lot of time \Nand trouble to do that final 1 damage.
+Dialogue: 0,0:13:14.64,0:13:15.97,Main Dialog,Spoken,0000,0000,0000,,I'm not done!
+Dialogue: 0,0:13:15.97,0:13:18.06,Main Dialog,Spoken,0000,0000,0000,,My turn isn't over yet!
+Dialogue: 0,0:13:18.38,0:13:20.14,Main Dialog,Spoken,0000,0000,0000,,Go, Ron Geenlin!
+Dialogue: 0,0:13:20.14,0:13:23.39,Main Dialog,Spoken,0000,0000,0000,,Bury Raging Form Dragon!
+Dialogue: 0,0:13:24.91,0:13:27.12,Main Dialog,Spoken,0000,0000,0000,,Fly! Two Masquerade units!
+Dialogue: 0,0:13:31.46,0:13:32.72,Main Dialog,Spoken,0000,0000,0000,,It can't be...
+Dialogue: 0,0:13:33.00,0:13:35.40,Main Dialog,Spoken,0000,0000,0000,,My Final Turn...
+Dialogue: 0,0:13:36.36,0:13:38.08,Main Dialog,Spoken,0000,0000,0000,,I believe your turn is over?
+Dialogue: 0,0:13:41.76,0:13:45.78,Main Dialog,Spoken,0000,0000,0000,,That's my Ren! Only he could protect \Nhimself against that attack.
+Dialogue: 0,0:13:45.78,0:13:48.97,Main Dialog,Spoken,0000,0000,0000,,But that doesn't change the fact \Nthat he's still in a tight spot.
+Dialogue: 0,0:13:49.48,0:13:53.72,Main Dialog,Spoken,0000,0000,0000,,He doesn't have any rear-guards, \Nand there are only two cards in his hand.
+Dialogue: 0,0:13:54.51,0:13:57.82,Main Dialog,Spoken,0000,0000,0000,,On top of that, his opponent \Nhas a perfect guard.
+Dialogue: 0,0:13:58.29,0:13:59.35,Main Dialog,Spoken,0000,0000,0000,,It'll be okay.
+Dialogue: 0,0:14:00.04,0:14:01.77,Main Dialog,Spoken,0000,0000,0000,,With Ren, I'm sure of it.
+Dialogue: 0,0:14:02.78,0:14:04.32,Main Dialog,Spoken,0000,0000,0000,,Stand and draw.
+Dialogue: 0,0:14:04.72,0:14:05.36,Main Dialog,Spoken,0000,0000,0000,,Call.
+Dialogue: 0,0:14:09.10,0:14:11.07,Main Dialog,Spoken,0000,0000,0000,,Tartu's Counterblast.
+Dialogue: 0,0:14:12.99,0:14:13.93,Main Dialog,Spoken,0000,0000,0000,,Superior call!
+Dialogue: 0,0:14:15.62,0:14:22.04,Main Dialog,Spoken,0000,0000,0000,,He used a Counterblast to build up \Nhis right and left lines. But...
+Dialogue: 0,0:14:22.57,0:14:24.88,Main Dialog,Spoken,0000,0000,0000,,Can you break through this defense?!
+Dialogue: 0,0:14:25.15,0:14:26.13,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:14:28.94,0:14:29.55,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:14:30.67,0:14:31.43,Main Dialog,Spoken,0000,0000,0000,,Guard.
+Dialogue: 0,0:14:32.12,0:14:34.93,Main Dialog,Spoken,0000,0000,0000,,Raging Form Dragon, broiling with rage,
+Dialogue: 0,0:14:35.71,0:14:38.94,Main Dialog,Spoken,0000,0000,0000,,reduce Amon "Reverse" to ashes \Nwith your flames of fury!
+Dialogue: 0,0:14:39.88,0:14:40.94,Main Dialog,Spoken,0000,0000,0000,,Counterblast!
+Dialogue: 0,0:14:46.86,0:14:49.32,Main Dialog,Spoken,0000,0000,0000,,Perfect guard with Vlad Specula!
+Dialogue: 0,0:14:56.75,0:15:00.25,Main Dialog,Spoken,0000,0000,0000,,Do you think you've already won, Tetsu?
+Dialogue: 0,0:15:03.02,0:15:06.93,Main Dialog,Spoken,0000,0000,0000,,That's why your cards have lost their glow.
+Dialogue: 0,0:15:13.02,0:15:15.66,Main Dialog,Spoken,0000,0000,0000,,Apparently you didn't notice it,
+Dialogue: 0,0:15:16.34,0:15:20.93,Main Dialog,Spoken,0000,0000,0000,,but the cards in your hand were glowing.
+Dialogue: 0,0:15:22.37,0:15:28.80,Main Dialog,Spoken,0000,0000,0000,,It's a different glow than \Nmine or Kai's or Aichi's.
+Dialogue: 0,0:15:28.80,0:15:32.45,Main Dialog,Spoken,0000,0000,0000,,Tetsu... It was a glow all your own.
+Dialogue: 0,0:15:35.36,0:15:36.82,Main Dialog,Spoken,0000,0000,0000,,Twin drive...
+Dialogue: 0,0:15:41.41,0:15:43.33,Main Dialog,Spoken,0000,0000,0000,,Raging Form Dragon!
+Dialogue: 0,0:15:45.22,0:15:47.96,Main Dialog,Spoken,0000,0000,0000,,Just one card changes the whole game.
+Dialogue: 0,0:15:48.86,0:15:51.72,Main Dialog,Spoken,0000,0000,0000,,That's what Vanguard is \Nabout, isn't it, Tetsu?
+Dialogue: 0,0:15:52.32,0:15:53.47,Main Dialog,Spoken,0000,0000,0000,,What?
+Dialogue: 0,0:15:54.22,0:15:58.22,Main Dialog,Spoken,0000,0000,0000,,Mordred, Tartu, Nullity Revenger...
+Dialogue: 0,0:15:58.96,0:16:02.67,Main Dialog,Spoken,0000,0000,0000,,Give your souls to Raging Form Dragon!
+Dialogue: 0,0:16:04.42,0:16:05.77,Main Dialog,Spoken,0000,0000,0000,,Limit Break activated!
+Dialogue: 0,0:16:08.96,0:16:13.74,Main Dialog,Spoken,0000,0000,0000,,I can now superior ride the \NRaging Form Dragon in my hand!
+Dialogue: 0,0:16:16.60,0:16:19.37,Main Dialog,Spoken,0000,0000,0000,,Rise again, Raging Form Dragon!
+Dialogue: 0,0:16:26.91,0:16:28.84,Main Dialog,Spoken,0000,0000,0000,,It gets +10000 power.
+Dialogue: 0,0:16:32.38,0:16:34.10,Main Dialog,Spoken,0000,0000,0000,,Here I go, Tetsu.
+Dialogue: 0,0:16:34.10,0:16:35.93,Main Dialog,Spoken,0000,0000,0000,,I'm going to open your eyes now.
+Dialogue: 0,0:16:36.61,0:16:39.64,Main Dialog,Spoken,0000,0000,0000,,Raging Form Dragon attacks Amon "Reverse"!
+Dialogue: 0,0:16:48.46,0:16:50.57,Main Dialog,Spoken,0000,0000,0000,,Take your glow back, Tetsu!
+Dialogue: 0,0:17:10.54,0:17:11.21,Main Dialog,Spoken,0000,0000,0000,,Tetsu!
+Dialogue: 0,0:17:17.46,0:17:18.34,Main Dialog,Spoken,0000,0000,0000,,Tetsu, look out!
+Dialogue: 0,0:17:19.42,0:17:21.23,Main Dialog,Spoken,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:17:21.81,0:17:22.60,Main Dialog,Spoken,0000,0000,0000,,Ren...
+Dialogue: 0,0:17:23.36,0:17:25.62,Main Dialog,Spoken,0000,0000,0000,,What'll happen if you don't \Nkeep your act together?
+Dialogue: 0,0:17:26.44,0:17:31.23,Main Dialog,Spoken,0000,0000,0000,,After all, the leader of Team Asteroid is pathetic!
+Dialogue: 0,0:17:34.12,0:17:35.82,Main Dialog,Spoken,0000,0000,0000,,Please support me.
+Dialogue: 0,0:17:35.82,0:17:39.99,Main Dialog,Spoken,0000,0000,0000,,Tetsu, I'm no good without you.
+Dialogue: 0,0:17:44.94,0:17:45.94,Main Dialog,Spoken,0000,0000,0000,,Ren...
+Dialogue: 0,0:17:57.39,0:18:00.56,Main Dialog,Spoken,0000,0000,0000,,Tetsu, who Reversed you?
+Dialogue: 0,0:18:01.78,0:18:03.22,Main Dialog,Spoken,0000,0000,0000,,I don't know.
+Dialogue: 0,0:18:03.22,0:18:05.50,Main Dialog,Spoken,0000,0000,0000,,My memories are all jumbled up.
+Dialogue: 0,0:18:06.19,0:18:09.50,Main Dialog,Spoken,0000,0000,0000,,Really? But...
+Dialogue: 0,0:18:09.50,0:18:13.76,Main Dialog,Spoken,0000,0000,0000,,...if there's a fighter around who can \Nbeat you, this will be hard to deal with.
+Dialogue: 0,0:18:18.66,0:18:19.62,Main Dialog,Spoken,0000,0000,0000,,Ren?
+Dialogue: 0,0:18:20.61,0:18:22.53,Main Dialog,Spoken,0000,0000,0000,,Oh, nothing.
+Dialogue: 0,0:18:23.52,0:18:26.14,Main Dialog,Spoken,0000,0000,0000,,Come on, Tetsu, let's go.
+Dialogue: 0,0:18:26.14,0:18:28.09,Main Dialog,Spoken,0000,0000,0000,,Asaka and Suiko, too.
+Dialogue: 0,0:18:28.09,0:18:29.30,Main Dialog,Spoken,0000,0000,0000,,Right!
+Dialogue: 0,0:18:30.05,0:18:34.00,Main Dialog,Spoken,0000,0000,0000,,It seems we've got more \Ntrouble waiting for us.
+Dialogue: 0,0:18:36.05,0:18:37.45,Main Dialog,Spoken,0000,0000,0000,,Watch!
+Dialogue: 0,0:18:37.45,0:18:39.95,Main Dialog,Spoken,0000,0000,0000,,This is Crusher Kyou's latest secret weapon,
+Dialogue: 0,0:18:39.95,0:18:42.62,Main Dialog,Spoken,0000,0000,0000,,obtained after crisscrossing \Nthe world seven times!
+Dialogue: 0,0:18:42.62,0:18:46.64,Main Dialog,Spoken,0000,0000,0000,,Fabulous Immortal Finally Crush Rush Type Z!
+Dialogue: 0,0:18:55.98,0:18:56.96,Main Dialog,Spoken,0000,0000,0000,,You did it.
+Dialogue: 0,0:18:56.96,0:18:57.99,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:18:58.88,0:19:02.99,Main Dialog,Spoken,0000,0000,0000,,I never thought you would \Ndefeat everyone here but me.
+Dialogue: 0,0:19:03.42,0:19:08.12,Main Dialog,Spoken,0000,0000,0000,,To be honest, I underestimated you... um...
+Dialogue: 0,0:19:09.18,0:19:13.50,Main Dialog,Spoken,0000,0000,0000,,It's Kyou! The great Crusher Kyou \NYahagi, former member of AL4!
+Dialogue: 0,0:19:13.79,0:19:15.55,Main Dialog,Spoken,0000,0000,0000,,Oh, pardon me.
+Dialogue: 0,0:19:15.55,0:19:18.63,Main Dialog,Spoken,0000,0000,0000,,I just can't seem to remember \Nthe names of all the small fry.
+Dialogue: 0,0:19:18.90,0:19:20.28,Main Dialog,Spoken,0000,0000,0000,,Is that right?
+Dialogue: 0,0:19:20.28,0:19:25.06,Main Dialog,Spoken,0000,0000,0000,,In that case, I'll just have to carve my \Nname into your poor excuse for a brain!
+Dialogue: 0,0:19:25.06,0:19:27.39,Main Dialog,Spoken,0000,0000,0000,,The name of the man who's gonna beat you!
+Dialogue: 0,0:19:27.89,0:19:28.89,Main Dialog,Spoken,0000,0000,0000,,If you like.
+Dialogue: 0,0:19:29.32,0:19:34.77,Main Dialog,Spoken,0000,0000,0000,,Although there's no chance \Nthat I'm going to lose...
+Dialogue: 0,0:19:35.86,0:19:36.52,Main Dialog,Spoken,0000,0000,0000,,Here I go!
+Dialogue: 0,0:19:36.91,0:19:39.28,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:19:42.59,0:19:43.63,Main Dialog,Spoken,0000,0000,0000,,Ren!
+Dialogue: 0,0:19:44.58,0:19:46.66,Main Dialog,Spoken,0000,0000,0000,,Oh, are we disturbing you?
+Dialogue: 0,0:19:47.00,0:19:49.31,Main Dialog,Spoken,0000,0000,0000,,Since Tetsu and Asaka are \Nwith you, that means...
+Dialogue: 0,0:19:49.31,0:19:51.92,Main Dialog,Spoken,0000,0000,0000,,Yes. My work is done.
+Dialogue: 0,0:19:51.92,0:19:53.70,Main Dialog,Spoken,0000,0000,0000,,Then fight me!
+Dialogue: 0,0:19:53.70,0:19:55.74,Main Dialog,Spoken,0000,0000,0000,,Wait! I'm the one who's going to defeat Ren!
+Dialogue: 0,0:19:56.54,0:19:59.09,Main Dialog,Spoken,0000,0000,0000,,Then... Ren will be mine...
+Dialogue: 0,0:19:59.09,0:20:01.18,Main Dialog,Spoken,0000,0000,0000,,What are you babbling about?! I'm first!
+Dialogue: 0,0:20:01.18,0:20:02.09,Main Dialog,Spoken,0000,0000,0000,,No, I am!
+Dialogue: 0,0:20:02.69,0:20:06.55,Main Dialog,Spoken,0000,0000,0000,,Not that I care, but haven't both of \Nyou already stood up your Vanguards?
+Dialogue: 0,0:20:06.55,0:20:08.61,Main Dialog,Spoken,0000,0000,0000,,Ah! Shoot!
+Dialogue: 0,0:20:08.61,0:20:12.22,Main Dialog,Spoken,0000,0000,0000,,Once a fight is started, \Nyou can't give it up.
+Dialogue: 0,0:20:12.22,0:20:14.38,Main Dialog,Spoken,0000,0000,0000,,I know that!
+Dialogue: 0,0:20:14.38,0:20:15.81,Main Dialog,Spoken,0000,0000,0000,,We have no choice.
+Dialogue: 0,0:20:16.29,0:20:19.32,Main Dialog,Spoken,0000,0000,0000,,I'll be done with this guy \Nsoon, so hang on, Ren!
+Dialogue: 0,0:20:20.32,0:20:24.06,Main Dialog,Spoken,0000,0000,0000,,My apologies, but we're in a hurry.
+Dialogue: 0,0:20:24.06,0:20:24.82,Main Dialog,Spoken,0000,0000,0000,,Right?
+Dialogue: 0,0:20:24.82,0:20:26.57,Main Dialog,Spoken,0000,0000,0000,,W-What?!
+Dialogue: 0,0:20:27.08,0:20:28.43,Main Dialog,Spoken,0000,0000,0000,,See you around!
+Dialogue: 0,0:20:28.43,0:20:29.77,Main Dialog,Spoken,0000,0000,0000,,Excuse us.
+Dialogue: 0,0:20:29.77,0:20:30.70,Main Dialog,Spoken,0000,0000,0000,,Take care.
+Dialogue: 0,0:20:31.15,0:20:34.71,Main Dialog,Spoken,0000,0000,0000,,Well, I'll leave the rest \Nto you, Kyou Yahagi.
+Dialogue: 0,0:20:36.44,0:20:40.46,Main Dialog,Spoken,0000,0000,0000,,Hey, you! Don't say my name only \Nwhen it's convenient for you!
+Dialogue: 0,0:20:40.46,0:20:43.12,Main Dialog,Spoken,0000,0000,0000,,Wait, Ren!
+Dialogue: 0,0:20:50.59,0:20:52.45,Main Dialog,Spoken,0000,0000,0000,,This is Miyaji Academy.
+Dialogue: 0,0:20:52.45,0:20:53.98,Main Dialog,Spoken,0000,0000,0000,,Why did we come here?
+Dialogue: 0,0:20:54.36,0:20:58.54,Main Dialog,Spoken,0000,0000,0000,,Well, there's something \NI really need to confirm.
+Dialogue: 0,0:20:58.54,0:20:59.36,Main Dialog,Spoken,0000,0000,0000,,"Confirm"?
+Dialogue: 0,0:21:00.05,0:21:01.36,Main Dialog,Spoken,0000,0000,0000,,Yes.
+Dialogue: 0,0:21:03.17,0:21:04.68,Main Dialog,Spoken,0000,0000,0000,,Ren?!
+Dialogue: 0,0:21:04.68,0:21:07.12,Main Dialog,Spoken,0000,0000,0000,,And everyone else... \NWhat are you doing here?
+Dialogue: 0,0:21:07.73,0:21:12.33,Main Dialog,Spoken,0000,0000,0000,,Actually, I wanted to check \Non the Ultra-rare girl.
+Dialogue: 0,0:21:12.33,0:21:14.67,Main Dialog,Spoken,0000,0000,0000,,You mean Kourin?
+Dialogue: 0,0:21:14.67,0:21:15.62,Main Dialog,Spoken,0000,0000,0000,,That's right.
+Dialogue: 0,0:21:16.03,0:21:20.29,Main Dialog,Spoken,0000,0000,0000,,Um... Apparently, Kourin's \Nbeen busy with her idol work,
+Dialogue: 0,0:21:20.29,0:21:22.78,Main Dialog,Spoken,0000,0000,0000,,so she hasn't been to school for a while.
+Dialogue: 0,0:21:23.29,0:21:26.51,Main Dialog,Spoken,0000,0000,0000,,Huh? But isn't it the \Nsame way with you, Suiko?
+Dialogue: 0,0:21:27.70,0:21:29.45,Main Dialog,Spoken,0000,0000,0000,,Yes... well...
+Dialogue: 0,0:21:29.45,0:21:31.72,Main Dialog,Spoken,0000,0000,0000,,Oh! What are all of you doing here?
+Dialogue: 0,0:21:32.05,0:21:33.20,Main Dialog,Spoken,0000,0000,0000,,Kourin?!
+Dialogue: 0,0:21:33.20,0:21:35.37,Main Dialog,Spoken,0000,0000,0000,,Huh? Even Suiko's here!
+Dialogue: 0,0:21:35.37,0:21:36.98,Main Dialog,Spoken,0000,0000,0000,,Where were you last night?
+Dialogue: 0,0:21:37.55,0:21:39.10,Main Dialog,Spoken,0000,0000,0000,,You didn't come home.
+Dialogue: 0,0:21:39.10,0:21:40.73,Main Dialog,Spoken,0000,0000,0000,,Ah... That's...
+Dialogue: 0,0:21:41.06,0:21:43.41,Main Dialog,Spoken,0000,0000,0000,,Isn't staying out overnight kind of risky?
+Dialogue: 0,0:21:43.41,0:21:45.74,Main Dialog,Spoken,0000,0000,0000,,Don't forget, you're an idol!
+Dialogue: 0,0:21:46.12,0:21:47.72,Main Dialog,Spoken,0000,0000,0000,,R-Right...
+Dialogue: 0,0:21:50.08,0:21:53.78,Main Dialog,Spoken,0000,0000,0000,,Come on, Aichi, we'll be late if \Nwe keep lollygagging around here.
+Dialogue: 0,0:21:53.78,0:21:54.98,Main Dialog,Spoken,0000,0000,0000,,Right...
+Dialogue: 0,0:21:54.98,0:21:57.07,Main Dialog,Spoken,0000,0000,0000,,Never mind, Aichi.
+Dialogue: 0,0:21:57.07,0:21:59.50,Main Dialog,Spoken,0000,0000,0000,,I guess I had the wrong idea.
+Dialogue: 0,0:21:59.85,0:22:02.28,Main Dialog,Spoken,0000,0000,0000,,Oh? Well, then...
+Dialogue: 0,0:22:02.76,0:22:04.16,Main Dialog,Spoken,0000,0000,0000,,Bye bye!
+Dialogue: 0,0:22:06.05,0:22:11.55,Main Dialog,Spoken,0000,0000,0000,,I thought the other two Ultra-rare \Nmembers would be like Suiko,
+Dialogue: 0,0:22:12.05,0:22:14.35,Main Dialog,Spoken,0000,0000,0000,,but they don't seem to be \Nshowing any of the signs.
+Dialogue: 0,0:22:15.17,0:22:17.89,Main Dialog,Spoken,0000,0000,0000,,I'm glad you seem well, Kourin!
+Dialogue: 0,0:22:18.99,0:22:21.79,Main Dialog,Spoken,0000,0000,0000,,Be careful, Aichi.
+Dialogue: 0,0:23:56.88,0:23:59.25,Main Dialog,Spoken,0000,0000,0000,,What's up? All of you guys came over...
+Dialogue: 0,0:23:59.25,0:24:00.75,Main Dialog,Spoken,0000,0000,0000,,It's a long story.
+Dialogue: 0,0:24:00.75,0:24:03.18,Main Dialog,Spoken,0000,0000,0000,,But we came to check on you and the others.
+Dialogue: 0,0:24:03.18,0:24:05.81,Main Dialog,Spoken,0000,0000,0000,,I just followed Ren here.
+Dialogue: 0,0:24:05.81,0:24:07.77,Main Dialog,Spoken,0000,0000,0000,,I'm just glad that nothing seems to be amiss.
+Dialogue: 0,0:24:07.77,0:24:08.70,Main Dialog,Spoken,0000,0000,0000,,I just remembered,
+Dialogue: 0,0:24:08.70,0:24:12.72,Main Dialog,Spoken,0000,0000,0000,,Mitsusada from Team Caesar is apparently \Ncoming back from Singapore.
+Dialogue: 0,0:24:12.72,0:24:15.57,Main Dialog,Spoken,0000,0000,0000,,I bet he's gotten even stronger.
+Dialogue: 0,0:24:15.57,0:24:17.96,Main Dialog,Spoken,0000,0000,0000,,Next time: Daiyusha Falls!
+Dialogue: 0,0:24:16.10,0:24:24.98,Signs,Spoken,0000,0000,0000,,Daiyusha Falls!
+Dialogue: 0,0:24:17.96,0:24:19.81,Main Dialog,Spoken,0000,0000,0000,,Koutei is coming back? Now?
+Dialogue: 0,0:24:20.81,0:24:22.33,Main Dialog,Spoken,0000,0000,0000,,I have a bad feeling about this.
+Dialogue: 0,0:24:22.33,0:24:23.31,Main Dialog,Spoken,0000,0000,0000,,What's wrong, Ren?

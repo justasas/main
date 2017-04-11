@@ -1,0 +1,921 @@
+1
+00:00:20,438 --> 00:00:23,841
+<i>Neutral star systems in peril.</i>
+
+2
+00:00:23,909 --> 00:00:27,611
+<i>Darth Maul and Savage Opress
+command the planet Mandalore</i>
+
+3
+00:00:27,679 --> 00:00:29,814
+<i>through the puppet Prime Minister Almec</i>
+
+4
+00:00:29,882 --> 00:00:32,816
+<i>while they expand
+their criminal enterprise.</i>
+
+5
+00:00:32,884 --> 00:00:35,252
+<i>With the Death Watch removed from power</i>
+
+6
+00:00:35,320 --> 00:00:37,721
+<i>and the Jedi unaware
+of the villainous plot,</i>
+
+7
+00:00:37,789 --> 00:00:40,457
+<i>nothing stands in the way
+of Darth Maul's vision</i>
+
+8
+00:00:40,525 --> 00:00:42,792
+<i>for a vast criminal empire.</i>
+
+9
+00:00:42,860 --> 00:00:45,262
+<i>We now find Duchess Satine imprisoned</i>
+
+10
+00:00:45,329 --> 00:00:47,263
+<i>as her few remaining loyal subjects</i>
+
+11
+00:00:47,331 --> 00:00:50,300
+<i>make a desperate attempt to rescue her.</i>
+
+12
+00:00:50,367 --> 00:00:52,001
+What do you want, you traitor?
+
+13
+00:00:54,171 --> 00:00:56,172
+We'll never betray you, Auntie Satine.
+
+14
+00:00:56,239 --> 00:00:57,340
+I'm here to rescue you.
+
+15
+00:00:57,407 --> 00:00:59,108
+Korkie.
+
+16
+00:01:00,611 --> 00:01:01,844
+Freeze!
+
+17
+00:01:01,912 --> 00:01:03,946
+Hold it there.
+
+18
+00:01:06,617 --> 00:01:07,617
+Death Watch.
+
+19
+00:01:11,021 --> 00:01:12,422
+Bo.
+
+20
+00:01:12,489 --> 00:01:14,557
+It's been a long time.
+
+21
+00:01:14,625 --> 00:01:15,691
+It's okay, Auntie.
+
+22
+00:01:15,759 --> 00:01:17,493
+She's on our side now.
+
+23
+00:01:17,561 --> 00:01:19,795
+Why are you helping now?
+
+24
+00:01:19,863 --> 00:01:23,733
+The enemy of my enemy is my friend.
+
+25
+00:01:23,800 --> 00:01:26,536
+There was a time
+when we weren't enemies.
+
+26
+00:01:26,603 --> 00:01:30,006
+Perhaps that time has come again.
+
+27
+00:01:30,074 --> 00:01:31,308
+Come on.
+
+28
+00:01:31,376 --> 00:01:32,476
+Let's go.
+
+29
+00:01:38,716 --> 00:01:41,318
+It's all clear.
+Come on.
+
+30
+00:01:44,289 --> 00:01:47,124
+We need to contact the Jedi Council.
+
+31
+00:01:47,192 --> 00:01:48,926
+Korkie, give me your comlink.
+
+32
+00:01:48,994 --> 00:01:51,195
+It won't be any good
+unless we get outside the city.
+
+33
+00:01:51,263 --> 00:01:52,964
+All of the frequencies are jammed.
+
+34
+00:01:53,031 --> 00:01:56,233
+You are all taking
+a terrible risk by helping me.
+
+35
+00:01:56,301 --> 00:01:58,002
+Nothing we haven't done before.
+
+36
+00:01:58,070 --> 00:01:59,170
+Right, Auntie?
+
+37
+00:01:59,238 --> 00:02:00,905
+Let's get going.
+
+38
+00:02:34,676 --> 00:02:35,677
+Take 'em out.
+
+39
+00:02:43,753 --> 00:02:45,654
+Get the duchess clear.
+
+40
+00:03:21,462 --> 00:03:23,596
+The transmission is still blocked.
+
+41
+00:03:32,474 --> 00:03:33,574
+You're clear.
+
+42
+00:03:34,843 --> 00:03:36,944
+<i>This is a message
+for Obi-Wan Kenobi.</i>
+
+43
+00:03:37,011 --> 00:03:38,412
+<i>I've lost Mandalore.</i>
+
+44
+00:03:38,480 --> 00:03:39,714
+<i>My people have been massacred.</i>
+
+45
+00:03:42,886 --> 00:03:46,021
+<i>Obi-Wan, I need your help.</i>
+
+46
+00:03:55,098 --> 00:03:56,766
+<i>You summoned me, Masters?</i>
+
+47
+00:04:01,938 --> 00:04:04,006
+<i>This is a message
+for Obi-Wan Kenobi.</i>
+
+48
+00:04:04,074 --> 00:04:05,541
+<i>I've lost Mandalore.</i>
+
+49
+00:04:05,608 --> 00:04:07,142
+<i>My people have been massacred,</i>
+
+50
+00:04:07,210 --> 00:04:09,845
+<i>and Almec is now the prime minister.</i>
+
+51
+00:04:09,913 --> 00:04:11,413
+<i>I can't explain everything now</i>
+
+52
+00:04:11,480 --> 00:04:15,383
+<i>but Almec has the support
+of the crime families.</i>
+
+53
+00:04:15,451 --> 00:04:18,719
+<i>Obi-Wan, I need your help.</i>
+
+54
+00:04:21,456 --> 00:04:24,459
+Your thoughts on this, Master Kenobi.
+
+55
+00:04:24,526 --> 00:04:28,229
+Satine has been at odds
+with the Death Watch for years.
+
+56
+00:04:28,297 --> 00:04:31,466
+And according to a report
+from Padawan Tano,
+
+57
+00:04:31,534 --> 00:04:34,136
+they're no longer in league
+with the Separatists.
+
+58
+00:04:34,203 --> 00:04:35,971
+If there was a takeover on Mandalore,
+
+59
+00:04:36,038 --> 00:04:37,973
+it was most likely an independent act
+
+60
+00:04:38,040 --> 00:04:40,409
+caused by the Death Watch alone.
+
+61
+00:04:40,477 --> 00:04:42,811
+Without involvement
+from the Separatists,
+
+62
+00:04:42,879 --> 00:04:45,915
+this is an internal affair
+for the Mandalorians.
+
+63
+00:04:45,983 --> 00:04:47,750
+I'm afraid we cannot help.
+
+64
+00:04:47,818 --> 00:04:50,720
+We cannot just hand Mandalore
+over to these crime families
+
+65
+00:04:50,788 --> 00:04:52,389
+and let Satine become a martyr.
+
+66
+00:04:52,456 --> 00:04:55,025
+I'm afraid her decision
+to keep Mandalore neutral
+
+67
+00:04:55,092 --> 00:04:57,827
+makes this situation difficult.
+
+68
+00:04:57,895 --> 00:05:00,997
+Understand your feelings I do,
+Obi-Wan.
+
+69
+00:05:01,065 --> 00:05:02,499
+But to take action,
+
+70
+00:05:02,567 --> 00:05:05,936
+support from the Republic Senate
+we will need.
+
+71
+00:05:06,003 --> 00:05:08,371
+You know what the Senate will decide.
+
+72
+00:05:08,439 --> 00:05:11,508
+They will not send aid
+to a neutral system.
+
+73
+00:05:11,576 --> 00:05:15,879
+At this time, nothing more can we do.
+
+74
+00:05:20,151 --> 00:05:22,152
+Satine's accomplices have escaped,
+
+75
+00:05:22,220 --> 00:05:24,821
+including the renegade
+Death Watch soldiers.
+
+76
+00:05:24,889 --> 00:05:26,456
+But we will find them.
+
+77
+00:05:26,524 --> 00:05:28,859
+The duchess appears
+to have contacted the Jedi
+
+78
+00:05:28,926 --> 00:05:30,293
+just as anticipated.
+
+79
+00:05:30,361 --> 00:05:31,662
+Good.
+
+80
+00:05:31,730 --> 00:05:33,764
+You have done well.
+
+81
+00:05:33,832 --> 00:05:35,799
+What of the people?
+
+82
+00:05:35,867 --> 00:05:38,335
+You are the legitimate prime minister.
+
+83
+00:05:38,403 --> 00:05:40,004
+Mandalore is a sovereign planet
+
+84
+00:05:40,072 --> 00:05:43,308
+and you will maintain its neutrality.
+
+85
+00:05:43,376 --> 00:05:44,676
+And what of the Jedi?
+
+86
+00:05:46,479 --> 00:05:48,880
+Because of Mandalore's neutrality,
+
+87
+00:05:48,947 --> 00:05:51,482
+the Jedi have no jurisdiction here.
+
+88
+00:05:51,550 --> 00:05:56,153
+If Kenobi comes to rescue his friend,
+
+89
+00:05:56,221 --> 00:05:59,590
+he will have to come alone.
+
+90
+00:06:27,385 --> 00:06:28,418
+Ah.
+
+91
+00:06:28,486 --> 00:06:29,886
+Ah!
+
+92
+00:06:29,954 --> 00:06:33,323
+Anakin, that's the last time
+I borrow a ship from you.
+
+93
+00:06:44,936 --> 00:06:46,770
+You better get your ship looked at.
+
+94
+00:06:46,837 --> 00:06:48,838
+Oh, it's my friend's ship.
+
+95
+00:06:51,008 --> 00:06:52,329
+He told me it was perfectly fine.
+
+96
+00:06:53,476 --> 00:06:54,677
+Terribly sorry about that.
+
+97
+00:06:54,744 --> 00:06:56,678
+Do you have a landing permit?
+
+98
+00:06:56,746 --> 00:06:59,348
+Um, I think I left it in the ship.
+
+99
+00:06:59,416 --> 00:07:01,350
+Come with me, and I'll get it.
+
+100
+00:07:51,052 --> 00:07:53,519
+Here to do more
+of your master's bidding?
+
+101
+00:07:54,688 --> 00:07:56,189
+I do my own bidding.
+
+102
+00:07:56,256 --> 00:07:57,823
+Obi-Wan.
+
+103
+00:08:02,530 --> 00:08:03,596
+Are you alone?
+
+104
+00:08:03,664 --> 00:08:04,664
+Yes.
+
+105
+00:08:04,732 --> 00:08:06,172
+The Jedi Council and Galactic Senate
+
+106
+00:08:06,200 --> 00:08:08,434
+will be of no help to us here.
+
+107
+00:08:13,406 --> 00:08:15,374
+I trust you have an escape plan then?
+
+108
+00:08:15,442 --> 00:08:17,176
+As always, my dear.
+
+109
+00:08:25,986 --> 00:08:28,487
+There's no record
+of a prisoner transfer here.
+
+110
+00:08:28,555 --> 00:08:30,789
+The orders came from upstairs.
+
+111
+00:08:34,361 --> 00:08:36,395
+What's the authorization code?
+
+112
+00:08:36,463 --> 00:08:38,297
+Oh, um...
+
+113
+00:08:45,548 --> 00:08:46,548
+Hey, you!
+
+114
+00:08:46,572 --> 00:08:47,572
+Stop!
+
+115
+00:08:49,642 --> 00:08:50,642
+It's the duchess.
+
+116
+00:08:50,676 --> 00:08:52,077
+She's getting away.
+
+117
+00:09:29,249 --> 00:09:31,117
+We have to contact my sister for help.
+
+118
+00:09:31,185 --> 00:09:32,819
+She'll send reinforcements.
+
+119
+00:09:32,886 --> 00:09:34,354
+Who's your sister?
+
+120
+00:09:47,903 --> 00:09:49,304
+Brace yourself!
+
+121
+00:09:56,279 --> 00:09:57,647
+Let's get out of here.
+
+122
+00:10:00,951 --> 00:10:02,352
+Obi-Wan!
+
+123
+00:10:29,247 --> 00:10:31,482
+No.
+It can't be.
+
+124
+00:10:39,525 --> 00:10:41,593
+We meet again, Kenobi.
+
+125
+00:10:41,660 --> 00:10:44,662
+Welcome to my world.
+
+126
+00:10:47,266 --> 00:10:49,667
+Take them back to the palace.
+
+127
+00:11:02,216 --> 00:11:07,220
+Your noble flaw is a weakness
+shared by you...
+
+128
+00:11:07,288 --> 00:11:09,122
+and your duchess.
+
+129
+00:11:09,190 --> 00:11:12,192
+You should have chosen the dark side,
+
+130
+00:11:12,259 --> 00:11:13,726
+Master Jedi.
+
+131
+00:11:15,629 --> 00:11:18,798
+Your emotions betray you.
+
+132
+00:11:18,866 --> 00:11:20,833
+Your fear,
+
+133
+00:11:20,901 --> 00:11:24,036
+and yes, your anger.
+
+134
+00:11:24,104 --> 00:11:28,173
+Let your anger deepen your hatred.
+
+135
+00:11:28,241 --> 00:11:30,075
+Don't listen to him, Obi...
+
+136
+00:11:30,142 --> 00:11:31,610
+Quiet.
+
+137
+00:11:31,678 --> 00:11:35,747
+You can kill me,
+but you will never destroy me.
+
+138
+00:11:35,815 --> 00:11:38,250
+It takes strength
+to resist the dark side.
+
+139
+00:11:38,317 --> 00:11:40,351
+Only the weak embrace it.
+
+140
+00:11:40,419 --> 00:11:42,520
+It is more powerful than you know.
+
+141
+00:11:42,588 --> 00:11:44,722
+And those who oppose it
+are more powerful
+
+142
+00:11:44,790 --> 00:11:45,957
+than you'll ever be.
+
+143
+00:11:47,026 --> 00:11:48,660
+I know where you're from.
+
+144
+00:11:48,727 --> 00:11:50,562
+I've been to your village.
+
+145
+00:11:50,629 --> 00:11:54,199
+I know the decision to join
+the dark side wasn't yours.
+
+146
+00:11:54,267 --> 00:11:55,901
+The Nightsisters made it for you.
+
+147
+00:11:55,968 --> 00:11:56,968
+Silence!
+
+148
+00:11:56,970 --> 00:11:59,171
+You think you know me?
+
+149
+00:11:59,238 --> 00:12:01,773
+It was I who languished for years
+
+150
+00:12:01,841 --> 00:12:03,809
+thinking of nothing but you.
+
+151
+00:12:03,876 --> 00:12:05,744
+Nothing but this moment.
+
+152
+00:12:06,980 --> 00:12:11,284
+And now the perfect tool
+for my vengeance
+
+153
+00:12:11,351 --> 00:12:13,319
+is in front of us.
+
+154
+00:12:13,387 --> 00:12:15,455
+I never planned on killing you.
+
+155
+00:12:15,522 --> 00:12:19,859
+But I will make you share
+my pain, Kenobi.
+
+156
+00:12:32,739 --> 00:12:33,739
+Satine.
+
+157
+00:12:45,619 --> 00:12:48,588
+Remember, my dear Obi-Wan...
+
+158
+00:12:52,393 --> 00:12:54,628
+I've loved you always.
+
+159
+00:12:56,197 --> 00:12:58,665
+I always will.
+
+160
+00:13:10,378 --> 00:13:12,912
+Do we kill him now, brother?
+
+161
+00:13:12,980 --> 00:13:14,581
+No.
+
+162
+00:13:14,648 --> 00:13:15,982
+Imprison him below.
+
+163
+00:13:16,050 --> 00:13:19,786
+Let him drown in his misery.
+
+164
+00:13:19,853 --> 00:13:22,422
+Take him to his cell to rot.
+
+165
+00:13:43,543 --> 00:13:46,045
+You summoned me, Chancellor?
+
+166
+00:13:46,113 --> 00:13:48,247
+Prepare my ship.
+
+167
+00:14:12,007 --> 00:14:13,907
+- Ah!
+- It's the rebels!
+
+168
+00:14:35,663 --> 00:14:37,730
+Sorry, I don't believe we've met.
+
+169
+00:14:37,798 --> 00:14:38,798
+You are?
+
+170
+00:14:38,799 --> 00:14:39,899
+Bo-Katan.
+
+171
+00:14:39,967 --> 00:14:41,067
+I'm here to rescue you.
+
+172
+00:14:41,135 --> 00:14:42,602
+That's all you need to know.
+
+173
+00:14:42,670 --> 00:14:44,704
+Sounds good to me.
+
+174
+00:14:44,772 --> 00:14:46,973
+You ever used one of these before?
+
+175
+00:14:47,041 --> 00:14:50,310
+No, but in this case,
+I'm a fast learner.
+
+176
+00:14:50,377 --> 00:14:51,377
+Let's go.
+
+177
+00:15:36,266 --> 00:15:37,433
+Halt!
+
+178
+00:16:40,066 --> 00:16:42,334
+Maul must really want you dead.
+
+179
+00:16:42,402 --> 00:16:44,637
+You have no idea.
+
+180
+00:16:50,244 --> 00:16:53,280
+Hmm, I sense a presence.
+
+181
+00:16:53,347 --> 00:16:56,449
+A presence
+I haven't felt since...
+
+182
+00:16:56,517 --> 00:16:58,318
+Master.
+
+183
+00:17:11,999 --> 00:17:13,900
+Master.
+
+184
+00:17:13,968 --> 00:17:20,206
+I am most impressed to see
+you have survived your injuries.
+
+185
+00:17:20,273 --> 00:17:22,675
+I used your training, Master.
+
+186
+00:17:22,743 --> 00:17:24,977
+And I have built all this
+
+187
+00:17:25,045 --> 00:17:28,247
+in hopes of returning to your side.
+
+188
+00:17:28,315 --> 00:17:29,982
+Hmm.
+
+189
+00:17:30,050 --> 00:17:32,051
+How unfortunate
+
+190
+00:17:32,119 --> 00:17:36,055
+that are attempting to deceive me.
+
+191
+00:17:36,123 --> 00:17:37,857
+Master?
+
+192
+00:17:39,527 --> 00:17:43,030
+You have become a rival!
+
+193
+00:18:43,795 --> 00:18:46,330
+Go back to your Republic
+and tell them what has happened.
+
+194
+00:18:46,398 --> 00:18:48,532
+That would likely lead
+to a Republic invasion
+
+195
+00:18:48,600 --> 00:18:49,600
+of Mandalore.
+
+196
+00:18:49,601 --> 00:18:51,469
+Yes, and Maul will die.
+
+197
+00:18:51,536 --> 00:18:53,504
+But Mandalore will survive.
+
+198
+00:18:53,572 --> 00:18:55,739
+We always survive.
+
+199
+00:18:55,807 --> 00:18:58,509
+Now go.
+
+200
+00:18:58,576 --> 00:19:00,911
+Your Satine's sister, aren't you?
+
+201
+00:19:03,148 --> 00:19:05,116
+I'm so sorry.
+
+202
+00:19:22,501 --> 00:19:24,836
+Oof.
+
+203
+00:19:41,719 --> 00:19:43,220
+Ugh!
+
+204
+00:19:45,590 --> 00:19:46,590
+Uh!
+
+205
+00:20:09,982 --> 00:20:11,216
+Brother.
+
+206
+00:20:25,198 --> 00:20:30,001
+Brother, I am an unworthy apprentice.
+
+207
+00:20:30,069 --> 00:20:33,038
+I'm not like you.
+
+208
+00:20:33,105 --> 00:20:35,774
+I never was.
+
+209
+00:20:37,710 --> 00:20:42,914
+Remember, the first
+and only reality of the Sith:
+
+210
+00:20:42,982 --> 00:20:45,383
+there can only be two.
+
+211
+00:20:45,451 --> 00:20:50,222
+And you are no longer my apprentice.
+
+212
+00:20:50,289 --> 00:20:54,493
+You have been replaced.
+
+213
+00:21:28,864 --> 00:21:29,864
+Ugh!
+
+214
+00:21:34,503 --> 00:21:36,571
+Have mercy.
+
+215
+00:21:36,639 --> 00:21:38,006
+Please.
+
+216
+00:21:38,074 --> 00:21:39,174
+Please!
+
+217
+00:21:39,241 --> 00:21:40,909
+There is no mercy.
+
+218
+00:21:45,314 --> 00:21:47,282
+Do not worry.
+
+219
+00:21:47,349 --> 00:21:49,951
+I'm not going to kill you.
+
+220
+00:21:50,018 --> 00:21:53,588
+I have other uses for you.
+

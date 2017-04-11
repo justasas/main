@@ -1,0 +1,363 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.93,0:00:01.73,Main Dialog,,0000,0000,0000,,Permission denied.
+Dialogue: 0,0:00:02.22,0:00:05.65,Main Dialog,,0000,0000,0000,,Oh, no... Isn't there \Nanything that can be done?!
+Dialogue: 0,0:00:05.65,0:00:07.11,Main Dialog,,0000,0000,0000,,It is possible.
+Dialogue: 0,0:00:07.81,0:00:11.99,Main Dialog,,0000,0000,0000,,Fight against a powerful high school \Nteam of my choice and achieve victory.
+Dialogue: 0,0:00:14.21,0:00:16.99,Main Dialog,,0000,0000,0000,,We'll do it. Please let us do it!
+Dialogue: 0,0:01:48.10,0:01:49.56,Main Dialog,,0000,0000,0000,,Ehhhh?!
+Dialogue: 0,0:01:50.04,0:01:54.55,Main Dialog,,0000,0000,0000,,We're fighting against Hitsue High, \Nwhere Kai and the others go?!
+Dialogue: 0,0:01:55.02,0:01:56.49,Main Dialog,,0000,0000,0000,,Do you have a problem with that?
+Dialogue: 0,0:01:56.49,0:01:57.80,Main Dialog,,0000,0000,0000,,N-No...
+Dialogue: 0,0:01:58.12,0:02:02.02,Main Dialog,,0000,0000,0000,,In short, if we beat this Vanguard Club,
+Dialogue: 0,0:02:02.02,0:02:06.06,Main Dialog,,0000,0000,0000,,you'll recognize us as \Nan official club, right?
+Dialogue: 0,0:02:06.53,0:02:11.06,Main Dialog,,0000,0000,0000,,Correct. Although if you lose, \Nyou'll have to disband immediately.
+Dialogue: 0,0:02:14.26,0:02:17.07,Main Dialog,,0000,0000,0000,,Let's go, Miyaji Academy Cardfight Club!
+Dialogue: 0,0:02:18.57,0:02:22.90,Main Dialog,,0000,0000,0000,,T-Tentatively! This is our first match!
+Dialogue: 0,0:02:23.58,0:02:28.58,Signs,,0000,0000,0000,,First Match! Miyaji \NAcademy vs. Hitsue High School!
+Dialogue: 0,0:02:28.58,0:02:31.25,Signs,,0000,0000,0000,,Vanguard Club
+Dialogue: 0,0:02:31.64,0:02:35.63,Main Dialog,,0000,0000,0000,,U-Um, we've come from Miyaji Academy.
+Dialogue: 0,0:02:35.88,0:02:39.76,Main Dialog,,0000,0000,0000,,Welcome to Hitsue High's Vanguard Club!
+Dialogue: 0,0:02:40.05,0:02:42.76,Main Dialog,,0000,0000,0000,,Huh?! Mr. Mark? What are you doing here?
+Dialogue: 0,0:02:43.18,0:02:44.50,Main Dialog,,0000,0000,0000,,Job change!
+Dialogue: 0,0:02:44.50,0:02:47.96,Main Dialog,,0000,0000,0000,,And I'm also the faculty \Nadvisor of this Vanguard Club.
+Dialogue: 0,0:02:47.96,0:02:49.72,Main Dialog,,0000,0000,0000,,You're the faculty advisor, Mr. Mark?
+Dialogue: 0,0:02:49.72,0:02:53.90,Main Dialog,,0000,0000,0000,,Yes! Advisor... or perhaps \Nyou could say "instructor"...
+Dialogue: 0,0:02:53.90,0:02:54.76,Main Dialog,,0000,0000,0000,,Who is he?
+Dialogue: 0,0:02:54.76,0:02:59.21,Main Dialog,,0000,0000,0000,,H-He was my teacher in middle \Nschool. A very mysterious man...
+Dialogue: 0,0:02:59.21,0:03:00.53,Main Dialog,,0000,0000,0000,,Oh, here they are!
+Dialogue: 0,0:03:02.82,0:03:05.28,Main Dialog,,0000,0000,0000,,Kai, Miwa, Izaki!
+Dialogue: 0,0:03:05.68,0:03:08.79,Main Dialog,,0000,0000,0000,,We're Hitsue High School's select team!
+Dialogue: 0,0:03:09.46,0:03:10.89,Main Dialog,,0000,0000,0000,,Just the three of you?
+Dialogue: 0,0:03:10.89,0:03:13.29,Main Dialog,,0000,0000,0000,,Kourin!
+Dialogue: 0,0:03:15.21,0:03:18.46,Main Dialog,,0000,0000,0000,,I've been waiting for you, my angel!
+Dialogue: 0,0:03:20.82,0:03:21.88,Main Dialog,,0000,0000,0000,,Safe...
+Dialogue: 0,0:03:21.88,0:03:23.22,Main Dialog,,0000,0000,0000,,That was too close.
+Dialogue: 0,0:03:26.28,0:03:29.36,Main Dialog,,0000,0000,0000,,What do you think? We've got a funky, \Nhappy little club here, right?
+Dialogue: 0,0:03:29.36,0:03:30.56,Main Dialog,,0000,0000,0000,,R-Right...
+Dialogue: 0,0:03:30.56,0:03:35.23,Main Dialog,,0000,0000,0000,,Oh yeah, start with a proper greeting, \Npeople. This is an away match.
+Dialogue: 0,0:03:35.58,0:03:36.73,Main Dialog,,0000,0000,0000,,Go ahead, Aichi.
+Dialogue: 0,0:03:36.73,0:03:38.54,Main Dialog,,0000,0000,0000,,Ah... um... right.
+Dialogue: 0,0:03:39.90,0:03:43.49,Main Dialog,,0000,0000,0000,,Um, we appreciate your club \Naccepting our invitation to...
+Dialogue: 0,0:03:43.49,0:03:48.49,Main Dialog,,0000,0000,0000,,Yeah, yeah. This bunch doesn't \Nneed any stiff salutations, right?
+Dialogue: 0,0:03:48.76,0:03:51.12,Main Dialog,,0000,0000,0000,,That's Toshiki Kai, isn't it?!
+Dialogue: 0,0:03:51.12,0:03:53.00,Main Dialog,,0000,0000,0000,,So where are we gonna fight?
+Dialogue: 0,0:03:53.37,0:03:56.22,Main Dialog,,0000,0000,0000,,Shingo, Naoki, give a proper greeting.
+Dialogue: 0,0:03:56.22,0:04:00.44,Main Dialog,,0000,0000,0000,,Oh, Aichi! I hardly recognize you!
+Dialogue: 0,0:04:00.44,0:04:01.48,Main Dialog,,0000,0000,0000,,Oh...
+Dialogue: 0,0:04:01.48,0:04:02.37,Main Dialog,,0000,0000,0000,,Excellent!
+Dialogue: 0,0:04:02.82,0:04:08.72,Main Dialog,,0000,0000,0000,,Toshiki Kai, the fighter who was \Nin both Team Q4 and Team New AL4!
+Dialogue: 0,0:04:08.72,0:04:11.02,Main Dialog,,0000,0000,0000,,It's such a thrill to be able to meet you!
+Dialogue: 0,0:04:11.38,0:04:13.98,Main Dialog,,0000,0000,0000,,Kai, looks like you've got a fan.
+Dialogue: 0,0:04:14.89,0:04:16.62,Main Dialog,,0000,0000,0000,,Say something.
+Dialogue: 0,0:04:17.00,0:04:17.90,Main Dialog,,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:04:18.78,0:04:20.53,Main Dialog,,0000,0000,0000,,He suddenly keeled over...
+Dialogue: 0,0:04:20.74,0:04:22.36,Main Dialog,,0000,0000,0000,,Hey, are you okay?
+Dialogue: 0,0:04:22.36,0:04:23.53,Main Dialog,,0000,0000,0000,,Shingo...
+Dialogue: 0,0:04:24.81,0:04:26.00,Main Dialog,,0000,0000,0000,,Kourin!
+Dialogue: 0,0:04:26.81,0:04:28.70,Main Dialog,,0000,0000,0000,,Hey! Everyone!
+Dialogue: 0,0:04:33.32,0:04:34.42,Main Dialog,,0000,0000,0000,,It's me.
+Dialogue: 0,0:04:35.17,0:04:38.42,Main Dialog,,0000,0000,0000,,The match with Hitsue High is about to start.
+Dialogue: 0,0:04:39.08,0:04:41.42,Main Dialog,,0000,0000,0000,,I'll call you back later \Nwith news of their loss.
+Dialogue: 0,0:04:42.02,0:04:44.16,Main Dialog,,0000,0000,0000,,That's why I set up the match.
+Dialogue: 0,0:04:44.16,0:04:47.62,Main Dialog,,0000,0000,0000,,Be there at their finish and report it to me.
+Dialogue: 0,0:04:47.62,0:04:50.18,Main Dialog,,0000,0000,0000,,As vice president, that's your duty.
+Dialogue: 0,0:04:50.69,0:04:52.44,Main Dialog,,0000,0000,0000,,Please leave it to me.
+Dialogue: 0,0:04:56.56,0:04:58.09,Main Dialog,,0000,0000,0000,,It's almost too easy.
+Dialogue: 0,0:04:58.09,0:05:01.08,Main Dialog,,0000,0000,0000,,Whoa! We're gonna do it here?!
+Dialogue: 0,0:05:01.08,0:05:03.69,Main Dialog,,0000,0000,0000,,Shhhh! It's embarrassing if \Nyou make a scene about it.
+Dialogue: 0,0:05:12.40,0:05:15.68,Main Dialog,,0000,0000,0000,,All right, Miyaji Academy \Nversus Hitsue High School.
+Dialogue: 0,0:05:15.68,0:05:19.84,Main Dialog,,0000,0000,0000,,Let this intramural Cardfight match begin!
+Dialogue: 0,0:05:20.76,0:05:25.06,Main Dialog,,0000,0000,0000,,I was hoping we'd be able to have an \Nintramural match like this sometime, but...
+Dialogue: 0,0:05:26.44,0:05:27.86,Main Dialog,,0000,0000,0000,,Aichi Sendou.
+Dialogue: 0,0:05:27.86,0:05:32.28,Main Dialog,,0000,0000,0000,,We know about your club's circumstances, \Nas well as your friendships here.
+Dialogue: 0,0:05:32.28,0:05:35.35,Main Dialog,,0000,0000,0000,,But, Hitsue team, there'll be \Nno holding back, you hear?
+Dialogue: 0,0:05:35.85,0:05:36.90,Main Dialog,,0000,0000,0000,,Of course!
+Dialogue: 0,0:05:36.90,0:05:37.85,Main Dialog,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:05:38.10,0:05:41.36,Main Dialog,,0000,0000,0000,,Okay. Then, Miyaji Academy team...
+Dialogue: 0,0:05:41.73,0:05:43.05,Main Dialog,,0000,0000,0000,,Right. Holding back won't...
+Dialogue: 0,0:05:43.05,0:05:44.61,Main Dialog,,0000,0000,0000,,No, thank you!
+Dialogue: 0,0:05:45.12,0:05:46.24,Main Dialog,,0000,0000,0000,,Good!
+Dialogue: 0,0:05:48.01,0:05:50.74,Main Dialog,,0000,0000,0000,,If I go up against Kai by \Nthe luck of the draw...
+Dialogue: 0,0:05:51.14,0:05:53.90,Main Dialog,,0000,0000,0000,,All right! I'm gettin' psyched up!
+Dialogue: 0,0:05:53.90,0:05:56.75,Main Dialog,,0000,0000,0000,,In our own way, we've been \Nworking really hard, too!
+Dialogue: 0,0:06:03.72,0:06:06.89,Main Dialog,,0000,0000,0000,,If we win and Aichi's club folds...
+Dialogue: 0,0:06:07.55,0:06:15.31,Signs,,0000,0000,0000,,Hitsue High School Division
+Dialogue: 0,0:06:07.94,0:06:09.45,Main Dialog,,0000,0000,0000,,What the heck?!
+Dialogue: 0,0:06:09.45,0:06:13.10,Main Dialog,,0000,0000,0000,,Miyaji is boring without \NMorikawa or a Cardfight club!
+Dialogue: 0,0:06:13.10,0:06:15.31,Main Dialog,,0000,0000,0000,,I'm transferring to Hitsue!
+Dialogue: 0,0:06:15.88,0:06:19.56,Main Dialog,,0000,0000,0000,,Here I am! I wanted to see you, Morikawa!
+Dialogue: 0,0:06:20.38,0:06:23.94,Main Dialog,,0000,0000,0000,,Me too... Kourin!
+Dialogue: 0,0:06:25.25,0:06:30.80,Main Dialog,,0000,0000,0000,,And so begins a school love story!
+Dialogue: 0,0:06:31.37,0:06:34.70,Main Dialog,,0000,0000,0000,,I don't think you're on the right track, \Nbut I can see you've got enthusiasm.
+Dialogue: 0,0:06:35.10,0:06:36.92,Main Dialog,,0000,0000,0000,,It'll be five against five,
+Dialogue: 0,0:06:36.92,0:06:40.40,Main Dialog,,0000,0000,0000,,with victory going to the \Nteam that has the most wins.
+Dialogue: 0,0:06:40.62,0:06:41.69,Signs,,0000,0000,0000,,Vanguard Club
+Dialogue: 0,0:06:42.30,0:06:44.71,Main Dialog,,0000,0000,0000,,Let's start the roulette!
+Dialogue: 0,0:06:45.01,0:06:46.65,Main Dialog,,0000,0000,0000,,The first match is between...
+Dialogue: 0,0:06:50.60,0:06:51.97,Main Dialog,,0000,0000,0000,,Stop!
+Dialogue: 0,0:06:52.86,0:06:55.97,Main Dialog,,0000,0000,0000,,From Miyaji Academy.... Naoki Ishida!
+Dialogue: 0,0:06:56.50,0:06:57.60,Main Dialog,,0000,0000,0000,,All right!
+Dialogue: 0,0:06:58.16,0:07:02.18,Main Dialog,,0000,0000,0000,,I've been amped up since we got here!
+Dialogue: 0,0:07:02.66,0:07:04.36,Main Dialog,,0000,0000,0000,,Hurry up and let me fight!
+Dialogue: 0,0:07:04.76,0:07:08.45,Main Dialog,,0000,0000,0000,,Naoki Ishida... The boy \Nthat Aichi was mentoring...
+Dialogue: 0,0:07:09.52,0:07:11.66,Main Dialog,,0000,0000,0000,,...versus, from Hitsue High School...
+Dialogue: 0,0:07:14.57,0:07:16.22,Main Dialog,,0000,0000,0000,,Stop!
+Dialogue: 0,0:07:17.97,0:07:19.25,Main Dialog,,0000,0000,0000,,Toshiki Kai!
+Dialogue: 0,0:07:19.54,0:07:21.25,Main Dialog,,0000,0000,0000,,Kai and Naoki?!
+Dialogue: 0,0:07:22.73,0:07:26.00,Main Dialog,,0000,0000,0000,,It'll absolutely, positively, 100% \Nbe over in a matter of moments!
+Dialogue: 0,0:07:26.42,0:07:27.44,Main Dialog,,0000,0000,0000,,What's that?!
+Dialogue: 0,0:07:27.44,0:07:30.64,Main Dialog,,0000,0000,0000,,What? It's not even worth discussing.
+Dialogue: 0,0:07:30.64,0:07:34.28,Main Dialog,,0000,0000,0000,,Look, Toshiki Kai is a solitary, \Nlegendary-class fighter
+Dialogue: 0,0:07:34.28,0:07:38.50,Main Dialog,,0000,0000,0000,,who's roamed all over the world.
+Dialogue: 0,0:07:38.50,0:07:41.52,Main Dialog,,0000,0000,0000,,Even dandelions are afraid \Nto sprout in his wake.
+Dialogue: 0,0:07:42.66,0:07:44.90,Main Dialog,,0000,0000,0000,,There isn't even a remote chance you \Ncould beat a fighter like that...
+Dialogue: 0,0:07:44.90,0:07:49.49,Main Dialog,,0000,0000,0000,,Shut up! Whether he's a great \Nfighter or not, I'm gonna win this!
+Dialogue: 0,0:07:56.77,0:07:59.29,Main Dialog,,0000,0000,0000,,Hey, where's the table... That's far!
+Dialogue: 0,0:07:59.89,0:08:00.83,Main Dialog,,0000,0000,0000,,No problem!
+Dialogue: 0,0:08:02.57,0:08:04.36,Main Dialog,,0000,0000,0000,,So what's with this glove?
+Dialogue: 0,0:08:04.36,0:08:06.96,Main Dialog,,0000,0000,0000,,You need it for this fight.
+Dialogue: 0,0:08:08.28,0:08:09.48,Main Dialog,,0000,0000,0000,,W-What the...?!
+Dialogue: 0,0:08:12.20,0:08:13.34,Main Dialog,,0000,0000,0000,,What is this?!
+Dialogue: 0,0:08:13.74,0:08:15.83,Main Dialog,,0000,0000,0000,,A Motion Figure System.
+Dialogue: 0,0:08:15.83,0:08:18.85,Main Dialog,,0000,0000,0000,,With it, the world you picture \Nwill expand significantly!
+Dialogue: 0,0:08:19.21,0:08:22.35,Main Dialog,,0000,0000,0000,,Motion F-Figure System?
+Dialogue: 0,0:08:23.93,0:08:25.69,Main Dialog,,0000,0000,0000,,A know-nothing noob.
+Dialogue: 0,0:08:25.69,0:08:29.44,Main Dialog,,0000,0000,0000,,And he suddenly has to \Ntake on Kai? Unlucky guy.
+Dialogue: 0,0:08:30.45,0:08:32.08,Main Dialog,,0000,0000,0000,,Turn down my first Vanguard...
+Dialogue: 0,0:08:32.08,0:08:33.86,Main Dialog,,0000,0000,0000,,Set down my deck... Draw five cards...
+Dialogue: 0,0:08:41.26,0:08:43.62,Main Dialog,,0000,0000,0000,,All right. Not a bad hand...
+Dialogue: 0,0:08:50.42,0:08:51.38,Main Dialog,,0000,0000,0000,,Stand up...
+Dialogue: 0,0:08:51.38,0:08:51.84,Main Dialog,,0000,0000,0000,,...the...
+Dialogue: 0,0:08:51.84,0:08:52.86,Main Dialog,,0000,0000,0000,,...Vanguard!
+Dialogue: 0,0:08:53.12,0:08:54.10,Main Dialog,,0000,0000,0000,,Wha...?!
+Dialogue: 0,0:08:54.10,0:08:55.18,Main Dialog,,0000,0000,0000,,"The," he says?!
+Dialogue: 0,0:08:55.18,0:08:56.18,Main Dialog,,0000,0000,0000,,Why, you...
+Dialogue: 0,0:08:56.90,0:08:58.72,Main Dialog,,0000,0000,0000,,You're...
+Dialogue: 0,0:08:58.72,0:09:00.10,Main Dialog,,0000,0000,0000,,...pretty cool.
+Dialogue: 0,0:09:00.10,0:09:01.64,Main Dialog,,0000,0000,0000,,But where are we?!
+Dialogue: 0,0:09:03.42,0:09:05.27,Main Dialog,,0000,0000,0000,,W-Wow...
+Dialogue: 0,0:09:06.84,0:09:09.61,Main Dialog,,0000,0000,0000,,This is the space between \Nthe planet Cray and Earth.
+Dialogue: 0,0:09:10.37,0:09:14.36,Main Dialog,,0000,0000,0000,,The units battle on Cray as we fight here.
+Dialogue: 0,0:09:14.80,0:09:17.86,Main Dialog,,0000,0000,0000,,So that's what a Motion \NFigure System is about!
+Dialogue: 0,0:09:18.21,0:09:20.45,Main Dialog,,0000,0000,0000,,That's right. It seems you're picturing it.
+Dialogue: 0,0:09:20.94,0:09:22.08,Main Dialog,,0000,0000,0000,,Then let's start.
+Dialogue: 0,0:09:22.08,0:09:22.95,Main Dialog,,0000,0000,0000,,Y-Yeah!
+Dialogue: 0,0:09:24.84,0:09:26.87,Main Dialog,,0000,0000,0000,,Ambush Dragon Eradicator, Linchu!
+Dialogue: 0,0:09:27.26,0:09:29.78,Main Dialog,,0000,0000,0000,,Eradicator, Strike-dagger Dragon!
+Dialogue: 0,0:09:32.66,0:09:36.54,Main Dialog,,0000,0000,0000,,Awesome! I don't even need to \Npicture it to see the unit over there!
+Dialogue: 0,0:09:37.25,0:09:38.54,Main Dialog,,0000,0000,0000,,Funny guy!
+Dialogue: 0,0:09:38.54,0:09:40.04,Main Dialog,,0000,0000,0000,,That's why he's a noob.
+Dialogue: 0,0:09:40.04,0:09:43.61,Main Dialog,,0000,0000,0000,,I think you were the same way \Nwhen you first started out.
+Dialogue: 0,0:09:43.61,0:09:44.64,Main Dialog,,0000,0000,0000,,What was that?!
+Dialogue: 0,0:09:50.24,0:09:52.40,Main Dialog,,0000,0000,0000,,Interesting... \NI'm gonna give it my best shot!
+Dialogue: 0,0:09:54.86,0:09:56.99,Main Dialog,,0000,0000,0000,,Narukami versus Narukami...
+Dialogue: 0,0:09:58.53,0:10:00.56,Main Dialog,,0000,0000,0000,,Kai... Naoki...
+Dialogue: 0,0:10:18.29,0:10:21.09,Main Dialog,,0000,0000,0000,,Strike, Thunder Boom Dragon!
+Dialogue: 0,0:10:21.94,0:10:22.85,Main Dialog,,0000,0000,0000,,No guard.
+Dialogue: 0,0:10:23.41,0:10:24.72,Main Dialog,,0000,0000,0000,,Drive check!
+Dialogue: 0,0:10:36.88,0:10:38.40,Main Dialog,,0000,0000,0000,,Turn end!
+Dialogue: 0,0:10:39.02,0:10:42.44,Main Dialog,,0000,0000,0000,,You're just lucky that you drew a critical.
+Dialogue: 0,0:10:42.44,0:10:47.16,Main Dialog,,0000,0000,0000,,But Naoki's doing great! He \Nisn't afraid of Kai at all!
+Dialogue: 0,0:10:47.74,0:10:48.71,Main Dialog,,0000,0000,0000,,Ride!
+Dialogue: 0,0:10:50.72,0:10:53.67,Main Dialog,,0000,0000,0000,,Counterblast! Spark Rain retires.
+Dialogue: 0,0:10:54.17,0:10:54.74,Main Dialog,,0000,0000,0000,,Call.
+Dialogue: 0,0:10:56.41,0:10:59.45,Main Dialog,,0000,0000,0000,,Dragonic Deathscythe attacks \Nwith a boost from Hisen!
+Dialogue: 0,0:11:07.57,0:11:10.52,Main Dialog,,0000,0000,0000,,Strike-dagger boosts! Spark Rain Dragon!
+Dialogue: 0,0:11:21.76,0:11:23.46,Main Dialog,,0000,0000,0000,,Kai is wasting effort, huh?
+Dialogue: 0,0:11:23.46,0:11:27.86,Main Dialog,,0000,0000,0000,,Oh, I wouldn't say that. To Kai, \Nno fights are a waste of effort.
+Dialogue: 0,0:11:27.86,0:11:30.62,Main Dialog,,0000,0000,0000,,He plays seriously, no matter \Nwho the opponent is.
+Dialogue: 0,0:11:34.16,0:11:35.78,Main Dialog,,0000,0000,0000,,Are you shocked?
+Dialogue: 0,0:11:35.78,0:11:38.34,Main Dialog,,0000,0000,0000,,Is your first time seeing \Nimages too strong for you?
+Dialogue: 0,0:11:39.12,0:11:40.34,Main Dialog,,0000,0000,0000,,Naoki...
+Dialogue: 0,0:11:41.97,0:11:46.93,Main Dialog,,0000,0000,0000,,A-Awesome! Dragonic Deathscythe \Nand Spark Rain Dragon!
+Dialogue: 0,0:11:47.40,0:11:51.20,Main Dialog,,0000,0000,0000,,I never imagined I'd get to \Nhave a live showdown with 'em!
+Dialogue: 0,0:11:51.20,0:11:53.06,Main Dialog,,0000,0000,0000,,Too cool...
+Dialogue: 0,0:11:53.42,0:11:55.28,Main Dialog,,0000,0000,0000,,This fight is awesome!
+Dialogue: 0,0:11:55.28,0:11:57.07,Main Dialog,,0000,0000,0000,,I stand and draw!
+Dialogue: 0,0:11:58.14,0:12:00.07,Main Dialog,,0000,0000,0000,,All right, how about this one?!
+Dialogue: 0,0:12:01.04,0:12:02.57,Main Dialog,,0000,0000,0000,,Strike, my avatar!
+Dialogue: 0,0:12:03.32,0:12:06.94,Main Dialog,,0000,0000,0000,,I ride Eradicator, Vowing Sword Dragon!
+Dialogue: 0,0:12:09.61,0:12:10.60,Main Dialog,,0000,0000,0000,,One more of the same!
+Dialogue: 0,0:12:12.17,0:12:13.08,Main Dialog,,0000,0000,0000,,How 'bout that?!
+Dialogue: 0,0:12:27.33,0:12:28.47,Main Dialog,,0000,0000,0000,,Ride the Vanguard!
+Dialogue: 0,0:12:29.18,0:12:30.81,Main Dialog,,0000,0000,0000,,Hot-blooded, scarlet dragon...
+Dialogue: 0,0:12:33.60,0:12:35.69,Main Dialog,,0000,0000,0000,,Eradicator, Vowing Sword Dragon!
+Dialogue: 0,0:12:43.68,0:12:44.82,Main Dialog,,0000,0000,0000,,That's...
+Dialogue: 0,0:12:45.34,0:12:47.13,Main Dialog,,0000,0000,0000,,Amazing, huh, Shingo?
+Dialogue: 0,0:12:47.13,0:12:49.20,Main Dialog,,0000,0000,0000,,It sure is a spectacle!
+Dialogue: 0,0:12:49.60,0:12:50.95,Main Dialog,,0000,0000,0000,,Great!
+Dialogue: 0,0:12:51.50,0:12:54.46,Main Dialog,,0000,0000,0000,,Dragons really are impressive, y'know?
+Dialogue: 0,0:12:54.46,0:12:56.06,Main Dialog,,0000,0000,0000,,It's a grade 3 festival!
+Dialogue: 0,0:12:56.06,0:12:56.96,Main Dialog,,0000,0000,0000,,That's all?
+Dialogue: 0,0:12:59.94,0:13:01.35,Main Dialog,,0000,0000,0000,,This guy...
+Dialogue: 0,0:13:01.35,0:13:04.47,Main Dialog,,0000,0000,0000,,Even though we've got the same dragon,\N he's cool every step of the way!
+Dialogue: 0,0:13:05.06,0:13:05.88,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:13:06.98,0:13:09.76,Main Dialog,,0000,0000,0000,,Supreme Army Eradicator, \NZuitan and Red River Dragoon!
+Dialogue: 0,0:13:10.61,0:13:13.02,Main Dialog,,0000,0000,0000,,Zuitan attacks with a boost from Red River!
+Dialogue: 0,0:13:14.16,0:13:15.27,Main Dialog,,0000,0000,0000,,I guard with Spy-eye!
+Dialogue: 0,0:13:15.90,0:13:17.27,Main Dialog,,0000,0000,0000,,Vowing Sword Dragon!
+Dialogue: 0,0:13:17.97,0:13:23.86,Main Dialog,,0000,0000,0000,,If the opponent has three or more damage, \NVowing Sword Dragon gets +2000 power!
+Dialogue: 0,0:13:26.74,0:13:27.78,Main Dialog,,0000,0000,0000,,No guard!
+Dialogue: 0,0:13:29.04,0:13:30.53,Main Dialog,,0000,0000,0000,,Check the drive trigger.
+Dialogue: 0,0:13:33.94,0:13:36.04,Main Dialog,,0000,0000,0000,,I got a critical trigger.
+Dialogue: 0,0:13:44.09,0:13:45.51,Main Dialog,,0000,0000,0000,,5 damage...
+Dialogue: 0,0:13:46.01,0:13:48.12,Main Dialog,,0000,0000,0000,,Spark Rain Dragon attacks.
+Dialogue: 0,0:13:53.60,0:13:54.31,Main Dialog,,0000,0000,0000,,Naoki!
+Dialogue: 0,0:13:56.25,0:13:57.35,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:14:02.68,0:14:04.11,Main Dialog,,0000,0000,0000,,He withstood it?!
+Dialogue: 0,0:14:04.86,0:14:06.11,Main Dialog,,0000,0000,0000,,Nice guts!
+Dialogue: 0,0:14:08.37,0:14:12.09,Main Dialog,,0000,0000,0000,,The fate of the Cardfight \NClub is on the line here...
+Dialogue: 0,0:14:12.61,0:14:15.12,Main Dialog,,0000,0000,0000,,Like I'm gonna make myself \Nlook bad by losin'?!
+Dialogue: 0,0:14:16.08,0:14:17.20,Main Dialog,,0000,0000,0000,,Naoki...
+Dialogue: 0,0:14:18.41,0:14:20.29,Main Dialog,,0000,0000,0000,,I stand and draw!
+Dialogue: 0,0:14:21.76,0:14:25.13,Main Dialog,,0000,0000,0000,,Watch this! Now it's my Break Time!
+Dialogue: 0,0:14:25.58,0:14:26.90,Main Dialog,,0000,0000,0000,,"Break Time"?
+Dialogue: 0,0:14:26.90,0:14:28.13,Main Dialog,,0000,0000,0000,,He's gonna take a break?
+Dialogue: 0,0:14:28.89,0:14:30.51,Main Dialog,,0000,0000,0000,,I told him that's wrong!
+Dialogue: 0,0:14:30.97,0:14:34.22,Main Dialog,,0000,0000,0000,,Maybe that guy belongs right over here...
+Dialogue: 0,0:14:35.32,0:14:36.52,Main Dialog,,0000,0000,0000,,What does that mean?
+Dialogue: 0,0:14:37.05,0:14:38.64,Main Dialog,,0000,0000,0000,,My heart is on fire!
+Dialogue: 0,0:14:39.42,0:14:42.40,Main Dialog,,0000,0000,0000,,It's screaming for me to \Nprotect the Cardfight Club!
+Dialogue: 0,0:14:42.73,0:14:47.12,Main Dialog,,0000,0000,0000,,Watch this! My invincible... \Nsurefire... miraculous...
+Dialogue: 0,0:14:47.12,0:14:48.15,Main Dialog,,0000,0000,0000,,...Break Ride!
+Dialogue: 0,0:14:50.69,0:14:52.57,Main Dialog,,0000,0000,0000,,Eradicator, Gauntlet Buster Dragon!
+Dialogue: 0,0:14:55.24,0:14:58.38,Main Dialog,,0000,0000,0000,,Vowing Sword Dragon's break ride skill...
+Dialogue: 0,0:14:58.38,0:15:04.04,Main Dialog,,0000,0000,0000,,When another Narukami rides, I can \Nretire one of your rear-guards!
+Dialogue: 0,0:15:08.42,0:15:11.46,Main Dialog,,0000,0000,0000,,Gauntlet Buster Dragon gets +10000 power!
+Dialogue: 0,0:15:11.46,0:15:13.92,Main Dialog,,0000,0000,0000,,And then... Limit Break!
+Dialogue: 0,0:15:15.00,0:15:17.28,Main Dialog,,0000,0000,0000,,One of your rear-guards\N went into the Drop Zone,
+Dialogue: 0,0:15:17.78,0:15:20.18,Main Dialog,,0000,0000,0000,,so this gets +3000 power \Nand an extra critical!
+Dialogue: 0,0:15:20.78,0:15:22.27,Main Dialog,,0000,0000,0000,,And I'm not done yet!
+Dialogue: 0,0:15:22.68,0:15:25.15,Main Dialog,,0000,0000,0000,,On top of that, an Especial Counterblast?!
+Dialogue: 0,0:15:25.64,0:15:29.30,Main Dialog,,0000,0000,0000,,I choose one rear-guard unit and retire it.
+Dialogue: 0,0:15:30.33,0:15:31.33,Main Dialog,,0000,0000,0000,,One more time!
+Dialogue: 0,0:15:34.78,0:15:38.73,Main Dialog,,0000,0000,0000,,Power-up, critical, and \Nretiring rear-guards to boot?!
+Dialogue: 0,0:15:38.73,0:15:41.30,Main Dialog,,0000,0000,0000,,Give me that grade 3, too!
+Dialogue: 0,0:15:42.54,0:15:44.56,Main Dialog,,0000,0000,0000,,It isn't just the power of the cards.
+Dialogue: 0,0:15:44.56,0:15:46.92,Main Dialog,,0000,0000,0000,,That newbie is pretty good.
+Dialogue: 0,0:15:47.32,0:15:50.76,Main Dialog,,0000,0000,0000,,Naoki, to be able to get \Nthat far against Kai...
+Dialogue: 0,0:15:50.76,0:15:52.70,Main Dialog,,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:15:52.70,0:15:55.33,Main Dialog,,0000,0000,0000,,Compared to you and everyone else here,
+Dialogue: 0,0:15:55.33,0:15:58.43,Main Dialog,,0000,0000,0000,,he's got a long, long, long way to go.
+Dialogue: 0,0:15:59.10,0:16:02.72,Main Dialog,,0000,0000,0000,,Shingo, when I first started Vanguard,
+Dialogue: 0,0:16:02.72,0:16:05.54,Main Dialog,,0000,0000,0000,,I was so weak that I was \Nscared to have a match.
+Dialogue: 0,0:16:05.54,0:16:07.44,Main Dialog,,0000,0000,0000,,I don't believe it! \NSendou, you of all people...?
+Dialogue: 0,0:16:08.46,0:16:09.77,Main Dialog,,0000,0000,0000,,It's true.
+Dialogue: 0,0:16:10.26,0:16:12.06,Main Dialog,,0000,0000,0000,,Naoki is doing great!
+Dialogue: 0,0:16:13.32,0:16:17.22,Main Dialog,,0000,0000,0000,,I call Thunder Boom Dragon \Nand Red River Dragoon!
+Dialogue: 0,0:16:18.73,0:16:21.20,Main Dialog,,0000,0000,0000,,Thunder Boom Dragon attacks Zuitan!
+Dialogue: 0,0:16:26.50,0:16:31.01,Main Dialog,,0000,0000,0000,,Here I go! Gauntlet Buster \NDragon, Dynamite Counter!
+Dialogue: 0,0:16:34.43,0:16:36.26,Main Dialog,,0000,0000,0000,,Strike!
+Dialogue: 0,0:16:37.81,0:16:41.49,Main Dialog,,0000,0000,0000,,I guard with Pollux, Seiobo, \NYellow Gem, and Hisen!
+Dialogue: 0,0:16:44.04,0:16:45.44,Main Dialog,,0000,0000,0000,,Twin drive check!
+Dialogue: 0,0:16:45.85,0:16:46.98,Main Dialog,,0000,0000,0000,,First check...
+Dialogue: 0,0:16:49.94,0:16:54.20,Main Dialog,,0000,0000,0000,,I give the power to Gauntlet and \Nthe extra critical to Vowing!
+Dialogue: 0,0:16:56.62,0:16:58.45,Main Dialog,,0000,0000,0000,,Second check!
+Dialogue: 0,0:17:01.50,0:17:02.95,Main Dialog,,0000,0000,0000,,Yes! He blocked it!
+Dialogue: 0,0:17:03.88,0:17:08.60,Main Dialog,,0000,0000,0000,,I'm still goin'! Vowing \NSword Dragon! Linchu boosts!
+Dialogue: 0,0:17:10.09,0:17:11.21,Main Dialog,,0000,0000,0000,,No guard.
+Dialogue: 0,0:17:17.68,0:17:19.17,Main Dialog,,0000,0000,0000,,That makes it 5 to 5!
+Dialogue: 0,0:17:19.52,0:17:22.22,Main Dialog,,0000,0000,0000,,I'm gonna break {\i1}you{\i0} in the next turn!
+Dialogue: 0,0:17:23.06,0:17:24.77,Main Dialog,,0000,0000,0000,,Well, he's in high spirits.
+Dialogue: 0,0:17:25.57,0:17:27.36,Main Dialog,,0000,0000,0000,,He's a real character.
+Dialogue: 0,0:17:30.04,0:17:32.08,Main Dialog,,0000,0000,0000,,I can see why Aichi mentored you.
+Dialogue: 0,0:17:32.58,0:17:35.18,Main Dialog,,0000,0000,0000,,You're a Vanguard fighter \Nwith real potential.
+Dialogue: 0,0:17:36.78,0:17:41.53,Main Dialog,,0000,0000,0000,,But your deck isn't Narukami yet.
+Dialogue: 0,0:17:41.93,0:17:43.04,Main Dialog,,0000,0000,0000,,What?!
+Dialogue: 0,0:17:43.54,0:17:47.04,Main Dialog,,0000,0000,0000,,I'll show you a true Narukami!
+Dialogue: 0,0:17:54.29,0:17:56.14,Main Dialog,,0000,0000,0000,,I stand and draw!
+Dialogue: 0,0:18:00.08,0:18:04.06,Main Dialog,,0000,0000,0000,,Powerful, ancient dragon, trace the \Nancestry of your form and strength
+Dialogue: 0,0:18:04.58,0:18:06.48,Main Dialog,,0000,0000,0000,,and swoop down to the Earth again!
+Dialogue: 0,0:18:06.78,0:18:07.69,Main Dialog,,0000,0000,0000,,Break Ride!
+Dialogue: 0,0:18:11.66,0:18:14.48,Main Dialog,,0000,0000,0000,,Eradicator, Dragonic Descendant!
+Dialogue: 0,0:18:15.22,0:18:18.07,Main Dialog,,0000,0000,0000,,Vowing Sword Dragon's Break Ride skill!
+Dialogue: 0,0:18:18.84,0:18:19.90,Main Dialog,,0000,0000,0000,,Uh oh!
+Dialogue: 0,0:18:26.53,0:18:29.50,Main Dialog,,0000,0000,0000,,I give +10000 power to Dragonic Descendant.
+Dialogue: 0,0:18:29.93,0:18:31.69,Main Dialog,,0000,0000,0000,,Especial Counterblast!
+Dialogue: 0,0:18:32.69,0:18:34.50,Main Dialog,,0000,0000,0000,,It gets +5000 power this turn.
+Dialogue: 0,0:18:35.08,0:18:38.76,Main Dialog,,0000,0000,0000,,Watch, Naoki Ishida. This \Nis the true Narukami!
+Dialogue: 0,0:18:41.12,0:18:44.41,Main Dialog,,0000,0000,0000,,Dragonic Descendant attacks \Nwith a boost from Hisen!
+Dialogue: 0,0:18:48.20,0:18:52.40,Main Dialog,,0000,0000,0000,,And another +5000 power \Nwith Hisen's Soulblast!
+Dialogue: 0,0:18:53.58,0:18:55.15,Main Dialog,,0000,0000,0000,,Perfect guard with Guld!
+Dialogue: 0,0:18:59.30,0:19:01.72,Main Dialog,,0000,0000,0000,,Twin drive, first check.
+Dialogue: 0,0:19:02.42,0:19:03.66,Main Dialog,,0000,0000,0000,,Second check.
+Dialogue: 0,0:19:04.54,0:19:07.04,Main Dialog,,0000,0000,0000,,Dragonic Descendant's Limit Break!
+Dialogue: 0,0:19:07.93,0:19:11.70,Main Dialog,,0000,0000,0000,,When its attack doesn't hit, \NDescendant stands again!
+Dialogue: 0,0:19:12.78,0:19:13.85,Main Dialog,,0000,0000,0000,,Stand?!
+Dialogue: 0,0:19:15.21,0:19:17.21,Main Dialog,,0000,0000,0000,,And then on to even greater heights!
+Dialogue: 0,0:19:17.21,0:19:18.59,Main Dialog,,0000,0000,0000,,An extra critical!
+Dialogue: 0,0:19:23.84,0:19:27.14,Main Dialog,,0000,0000,0000,,This is... This is Narukami?!
+Dialogue: 0,0:19:39.76,0:19:44.20,Main Dialog,,0000,0000,0000,,Victory! Hitsue High School's Toshiki Kai!
+Dialogue: 0,0:19:56.64,0:19:57.21,Main Dialog,,0000,0000,0000,,Hey!
+Dialogue: 0,0:19:59.98,0:20:02.47,Main Dialog,,0000,0000,0000,,Will you... fight me again?
+Dialogue: 0,0:20:03.86,0:20:05.12,Main Dialog,,0000,0000,0000,,You know where to find me.
+Dialogue: 0,0:20:08.37,0:20:08.97,Main Dialog,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:12.33,0:20:14.98,Main Dialog,,0000,0000,0000,,Sorry, Aichi. I lost.
+Dialogue: 0,0:20:15.30,0:20:18.23,Main Dialog,,0000,0000,0000,,That's okay. It was a good fight.
+Dialogue: 0,0:20:18.86,0:20:21.20,Main Dialog,,0000,0000,0000,,It was your first time with \Na Motion Figure System,
+Dialogue: 0,0:20:21.20,0:20:25.87,Main Dialog,,0000,0000,0000,,and you didn't freeze up under his \Nattacks. That alone is impressive.
+Dialogue: 0,0:20:26.54,0:20:28.73,Main Dialog,,0000,0000,0000,,That guy is amazing.
+Dialogue: 0,0:20:28.73,0:20:29.24,Main Dialog,,0000,0000,0000,,Yep!
+Dialogue: 0,0:20:29.88,0:20:31.75,Main Dialog,,0000,0000,0000,,That's what I was trying to tell you!
+Dialogue: 0,0:20:32.14,0:20:35.05,Main Dialog,,0000,0000,0000,,What are you talking about?! This \Nis your first intramural match.
+Dialogue: 0,0:20:35.05,0:20:37.96,Main Dialog,,0000,0000,0000,,There are a lot more like \Nhim all over the world.
+Dialogue: 0,0:20:37.96,0:20:42.29,Main Dialog,,0000,0000,0000,,Seriously?! Whoa! \NVanguard is awesome!
+Dialogue: 0,0:20:42.29,0:20:43.76,Main Dialog,,0000,0000,0000,,I'm even more fired up than before!
+Dialogue: 0,0:20:47.50,0:20:49.13,Main Dialog,,0000,0000,0000,,One loss to begin with...
+Dialogue: 0,0:20:49.89,0:20:52.89,Signs,,0000,0000,0000,,Hitsue High School        Miyaji Academy
+Dialogue: 0,0:20:53.21,0:20:58.29,Main Dialog,,0000,0000,0000,,One win to start! Just two more, and \NKourin will transfer to my school!
+Dialogue: 0,0:20:58.29,0:20:59.14,Main Dialog,,0000,0000,0000,,What's he doing?
+Dialogue: 0,0:20:59.14,0:21:00.40,Main Dialog,,0000,0000,0000,,G-Good question...
+Dialogue: 0,0:21:01.50,0:21:04.90,Main Dialog,,0000,0000,0000,,And now, roulette! Our \Nsecond match is between...
+Dialogue: 0,0:21:11.58,0:21:13.32,Signs,,0000,0000,0000,,Miyaji Academy\NKourin Tatsunagi
+Dialogue: 0,0:21:14.38,0:21:17.32,Main Dialog,,0000,0000,0000,,Miyaji Academy's Kourin Tatsunagi!
+Dialogue: 0,0:21:18.38,0:21:19.75,Main Dialog,,0000,0000,0000,,What?! Kourin?!
+Dialogue: 0,0:21:24.82,0:21:28.40,Main Dialog,,0000,0000,0000,,What is this?! What twist of fate?!
+Dialogue: 0,0:21:28.40,0:21:30.57,Main Dialog,,0000,0000,0000,,What mixed emotions!
+Dialogue: 0,0:21:30.57,0:21:34.72,Main Dialog,,0000,0000,0000,,I want to be with the one I love, but \NI have to battle and defeat her?!
+Dialogue: 0,0:21:34.72,0:21:39.77,Main Dialog,,0000,0000,0000,,The gods are putting me to the test!
+Dialogue: 0,0:21:38.81,0:21:39.77,Signs,,0000,0000,0000,,Hitsue High School\NYuuta Izaki
+Dialogue: 0,0:21:41.42,0:21:43.81,Main Dialog,,0000,0000,0000,,...and Yuuta Izaki of Hitsue High School!
+Dialogue: 0,0:21:43.81,0:21:44.28,Main Dialog,,0000,0000,0000,,Okay!
+Dialogue: 0,0:21:44.58,0:21:46.70,Main Dialog,,0000,0000,0000,,What?!
+Dialogue: 0,0:21:46.70,0:21:49.52,Main Dialog,,0000,0000,0000,,You're lucky, Morikawa. Now \Nyou don't have to fight her.
+Dialogue: 0,0:21:49.52,0:21:52.42,Main Dialog,,0000,0000,0000,,You need 100 years more experience \Nbefore battling Kourin!
+Dialogue: 0,0:21:52.42,0:21:54.28,Main Dialog,,0000,0000,0000,,Let me do it, Izaki!
+Dialogue: 0,0:21:54.28,0:21:56.77,Main Dialog,,0000,0000,0000,,Which is it?! You are such a pain in the...
+Dialogue: 0,0:21:56.77,0:21:57.86,Main Dialog,,0000,0000,0000,,Okay, okay.
+Dialogue: 0,0:21:57.86,0:22:00.21,Main Dialog,,0000,0000,0000,,The great and powerful Morikawa \Nwill get his chance later.
+Dialogue: 0,0:22:00.73,0:22:03.98,Main Dialog,,0000,0000,0000,,It's like in sumo and go, where the \Ngrand champion always goes last.
+Dialogue: 0,0:22:03.98,0:22:05.29,Main Dialog,,0000,0000,0000,,O-Oh yeah?
+Dialogue: 0,0:22:05.29,0:22:06.97,Main Dialog,,0000,0000,0000,,Can we get on with this?!
+Dialogue: 0,0:22:07.64,0:22:09.56,Main Dialog,,0000,0000,0000,,Yuuta Izaki is on the way!
+Dialogue: 0,0:22:14.56,0:22:16.49,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:22:19.21,0:22:24.00,Main Dialog,,0000,0000,0000,,Kourin!
+Dialogue: 0,0:23:55.81,0:23:58.41,Main Dialog,,0000,0000,0000,,Toshiki Kai... I'll remember your name!
+Dialogue: 0,0:23:58.41,0:24:02.02,Main Dialog,,0000,0000,0000,,What are you babbling about?! \NEven a baby can remember names!
+Dialogue: 0,0:24:02.02,0:24:04.42,Main Dialog,,0000,0000,0000,,Oh, shut up! At least \Nlet me try to look cool!
+Dialogue: 0,0:24:04.42,0:24:05.88,Main Dialog,,0000,0000,0000,,Next time, I'm definitely gonna win!
+Dialogue: 0,0:24:05.88,0:24:08.25,Main Dialog,,0000,0000,0000,,So Hitsue High's next fighter is Izaki, huh?
+Dialogue: 0,0:24:08.64,0:24:11.38,Main Dialog,,0000,0000,0000,,But what I'm curious about is their \Nfighter that we haven't seen yet...
+Dialogue: 0,0:24:11.38,0:24:13.63,Main Dialog,,0000,0000,0000,,Next Time: The Ringer is \Na Middle School Student!
+Dialogue: 0,0:24:12.13,0:24:24.94,Signs,,0000,0000,0000,,The Ringer is a Middle School Student!
+Dialogue: 0,0:24:14.08,0:24:16.05,Main Dialog,,0000,0000,0000,,Ringer? Don't tell me...
+Dialogue: 0,0:24:16.05,0:24:17.35,Main Dialog,,0000,0000,0000,,That's...!
+Dialogue: 0,0:24:17.35,0:24:20.16,Main Dialog,,0000,0000,0000,,I get to see a fight like that here?!
+Dialogue: 0,0:24:20.16,0:24:22.06,Main Dialog,,0000,0000,0000,,Yep. This one's with Misaki.
+Dialogue: 0,0:24:22.06,0:24:23.82,Main Dialog,,0000,0000,0000,,A passionate fight is about to start!

@@ -1,0 +1,1192 @@
+﻿1
+00:00:18,768 --> 00:00:21,770
+<i>ANNOUNCER: Manhunt!</i>
+<i>After a long and perilous search,</i>
+
+2
+00:00:21,813 --> 00:00:25,816
+<i>the Jedi finally track down</i>
+<i>Separatist leader Count Dooku.</i>
+
+3
+00:00:25,942 --> 00:00:28,152
+<i>During a heroic attempt</i>
+<i>to capture the Count,</i>
+
+4
+00:00:28,278 --> 00:00:30,779
+<i>Anakin Skywalker has gone missing.</i>
+
+5
+00:00:30,905 --> 00:00:33,115
+<i>Having lost contact with Skywalker,</i>
+
+6
+00:00:33,158 --> 00:00:36,952
+<i>Obi-Wan Kenobi heads toward</i>
+<i>his friend's last known location,</i>
+
+7
+00:00:36,995 --> 00:00:41,290
+<i>a lone Separatist frigate</i>
+<i>in the far reaches of the Outer Rim.</i>
+
+8
+00:01:15,992 --> 00:01:17,534
+(MUTTERING)
+
+9
+00:01:17,660 --> 00:01:20,954
+Don't bother to get up.
+You're not the prisoner I'm looking for.
+
+10
+00:01:31,925 --> 00:01:33,300
+(LIGHTSABER ACTIVATING)
+
+11
+00:01:33,343 --> 00:01:35,010
+Oh. It's you.
+
+12
+00:01:35,136 --> 00:01:37,346
+This is how you thank me
+for rescuing you?
+
+13
+00:01:37,472 --> 00:01:39,014
+Pounce on me from the ceiling?
+
+14
+00:01:39,140 --> 00:01:42,810
+Kind of difficult
+without a lightsaber. Thanks.
+
+15
+00:01:42,852 --> 00:01:45,687
+Did you manage to locate Dooku
+before landing in jail?
+
+16
+00:01:45,772 --> 00:01:47,314
+Well, I know he's onboard.
+
+17
+00:01:47,357 --> 00:01:50,317
+I might have been able to do something
+about it if I'd had my weapon.
+
+18
+00:01:50,360 --> 00:01:52,528
+It was important for you
+to arrive without it,
+
+19
+00:01:52,654 --> 00:01:54,530
+so your capture would be convincing.
+
+20
+00:01:54,656 --> 00:01:56,115
+Oh, they were convinced, all right.
+
+21
+00:01:56,199 --> 00:01:58,951
+But how come I'm the one
+getting caught all the time?
+
+22
+00:01:59,035 --> 00:02:00,452
+It doesn't look good.
+
+23
+00:02:00,537 --> 00:02:03,622
+When you're a Jedi Master,
+you can make the plan.
+
+24
+00:02:03,706 --> 00:02:04,790
+That's just it.
+
+25
+00:02:04,874 --> 00:02:07,376
+How can I become a Jedi Master
+if I'm always getting caught?
+
+26
+00:02:07,460 --> 00:02:10,379
+At least you're a master at getting caught.
+
+27
+00:02:10,463 --> 00:02:11,839
+Very funny.
+
+28
+00:02:14,509 --> 00:02:16,301
+Surprise, surprise.
+
+29
+00:02:18,138 --> 00:02:21,682
+-OBI-WAN: If it isn't Count Dooku.
+-Obi-Wan Kenobi.
+
+30
+00:02:21,808 --> 00:02:26,228
+I thought I sensed
+an unpleasant disturbance in the Force.
+
+31
+00:02:26,563 --> 00:02:29,231
+I see you've freed young Skywalker.
+
+32
+00:02:29,315 --> 00:02:33,735
+Where might he be if you weren't
+always around to rescue him?
+
+33
+00:02:33,820 --> 00:02:34,987
+(THUDDING)
+
+34
+00:02:35,071 --> 00:02:37,739
+Sir! There's a Jedi Cruiser attacking!
+
+35
+00:02:40,910 --> 00:02:44,371
+Let's try not to blow up the ship
+before they get off this time.
+
+36
+00:02:44,747 --> 00:02:48,917
+Your ship is surrounded, Count.
+Republic troops are boarding as we speak.
+
+37
+00:02:49,002 --> 00:02:50,544
+Jedi fools.
+
+38
+00:02:51,921 --> 00:02:53,672
+I should have seen that coming.
+
+39
+00:02:53,756 --> 00:02:55,424
+-What are you doing?
+-Following him.
+
+40
+00:02:55,508 --> 00:02:57,718
+Not that way! We need to cut him off!
+
+41
+00:02:57,760 --> 00:03:00,429
+You cut him off.
+I'll follow him and meet you at the hangar.
+
+42
+00:03:00,555 --> 00:03:02,055
+Why do I even try?
+
+43
+00:03:15,778 --> 00:03:17,154
+Oh, great.
+
+44
+00:03:17,655 --> 00:03:19,114
+(DROIDS EXCLAIM)
+
+45
+00:03:19,282 --> 00:03:21,700
+-Your ship is ready, sir.
+-Good.
+
+46
+00:03:46,184 --> 00:03:49,645
+-I thought you were following Dooku.
+-I was. I followed him here.
+
+47
+00:03:50,772 --> 00:03:52,064
+Hang on!
+
+48
+00:04:02,492 --> 00:04:03,575
+(COMLINK BEEPS)
+
+49
+00:04:03,660 --> 00:04:05,244
+Ahsoka, Dooku managed to escape.
+
+50
+00:04:05,328 --> 00:04:07,496
+We're in pursuit,
+but we could use reinforcements.
+
+51
+00:04:07,705 --> 00:04:09,665
+<i>Follow us in what ships you can round up.</i>
+
+52
+00:04:09,916 --> 00:04:11,625
+We'll get there as soon as we can.
+
+53
+00:04:15,046 --> 00:04:16,546
+(RUMBLING)
+
+54
+00:04:25,056 --> 00:04:26,181
+That was easy.
+
+55
+00:04:27,892 --> 00:04:29,810
+Lucky for you, I'm an excellent shot.
+
+56
+00:04:29,894 --> 00:04:32,938
+-Well, now those fighters are attacking.
+-I'm on it.
+
+57
+00:04:33,731 --> 00:04:35,065
+ANAKIN: He's getting too close.
+
+58
+00:04:43,574 --> 00:04:46,326
+Lucky for you, I'm an excellent pilot.
+
+59
+00:04:53,418 --> 00:04:57,129
+For all your expertise,
+this is not a very smooth landing.
+
+60
+00:05:00,008 --> 00:05:03,885
+And if you'd hit that second fighter,
+we wouldn't be in this mess.
+
+61
+00:05:14,480 --> 00:05:16,982
+-I've had better landings.
+-Dooku.
+
+62
+00:05:23,531 --> 00:05:25,949
+(BEEPING)
+
+63
+00:05:26,034 --> 00:05:28,243
+What's this? A homing beacon?
+
+64
+00:05:29,078 --> 00:05:31,830
+Which means the distinguished Count
+is waiting for help,
+
+65
+00:05:32,290 --> 00:05:33,832
+so he can't be far off.
+
+66
+00:05:33,916 --> 00:05:36,752
+His engine is damaged.
+He's not going anywhere.
+
+67
+00:05:36,836 --> 00:05:38,754
+ANAKIN: Not without a homing beacon.
+
+68
+00:05:44,135 --> 00:05:46,511
+There. Caves are a good start.
+
+69
+00:05:51,017 --> 00:05:52,309
+ANAKIN: Strange.
+
+70
+00:05:53,519 --> 00:05:56,480
+You sense it, too. Many life forms in there.
+
+71
+00:05:56,856 --> 00:05:58,690
+And Dooku's one of them.
+
+72
+00:05:59,150 --> 00:06:01,985
+Let's try to get him
+before something else does.
+
+73
+00:06:17,126 --> 00:06:19,086
+(RUMBLING)
+
+74
+00:06:19,170 --> 00:06:20,629
+What's that?
+
+75
+00:06:24,217 --> 00:06:25,342
+OBI-WAN: Run!
+
+76
+00:06:47,740 --> 00:06:51,326
+You won't be needing this
+anymore, Skywalker.
+
+77
+00:07:12,432 --> 00:07:16,268
+(INDISTINCT SHOUTING)
+
+78
+00:07:25,528 --> 00:07:27,279
+(LAUGHING)
+
+79
+00:07:36,581 --> 00:07:39,833
+Well, well. What do we have here?
+
+80
+00:07:41,377 --> 00:07:42,669
+Who are you?
+
+81
+00:07:42,837 --> 00:07:46,548
+More importantly, my friend, who are you?
+
+82
+00:07:55,892 --> 00:07:59,853
+Master! Obi-Wan, can you hear me?
+Master!
+
+83
+00:08:11,491 --> 00:08:14,242
+Anakin, when I tell you to run, run.
+
+84
+00:08:14,327 --> 00:08:16,203
+Master! You're alive!
+
+85
+00:08:16,287 --> 00:08:19,915
+-And where's your lightsaber?
+-It got knocked out of my hand.
+
+86
+00:08:19,999 --> 00:08:22,250
+-By a rock?
+-Yeah, by a rock.
+
+87
+00:08:22,668 --> 00:08:25,795
+-It's got to be here somewhere.
+-That is a feeble excuse.
+
+88
+00:08:25,922 --> 00:08:28,173
+You know what would be helpful?
+A little light.
+
+89
+00:08:28,341 --> 00:08:29,758
+Certainly.
+
+90
+00:08:33,304 --> 00:08:36,473
+Silly thing.
+It was just working a minute ago.
+
+91
+00:08:37,016 --> 00:08:38,266
+(MOCKINGLY) You don't suppose it was
+
+92
+00:08:38,434 --> 00:08:40,143
+hit by a rock, do you?
+
+93
+00:08:41,312 --> 00:08:43,355
+(GUNDARK SQUEALING)
+
+94
+00:08:43,856 --> 00:08:46,233
+Oh! This should be interesting.
+
+95
+00:08:56,577 --> 00:09:00,664
+Your Solar Sailor is very beautiful.
+
+96
+00:09:00,748 --> 00:09:04,751
+It's a pretty rare ship. Very expensive.
+
+97
+00:09:05,294 --> 00:09:09,172
+What are you doing all the way out here?
+
+98
+00:09:09,257 --> 00:09:12,092
+I sustained some damage
+in an asteroid storm
+
+99
+00:09:12,176 --> 00:09:13,969
+and had to make a landing.
+
+100
+00:09:14,053 --> 00:09:16,263
+Feel free to help yourself to it.
+
+101
+00:09:19,892 --> 00:09:23,395
+If you need transport,
+the nearest planet is Florrum.
+
+102
+00:09:23,479 --> 00:09:27,190
+-It's six parsecs away.
+-Is it civilized?
+
+103
+00:09:27,608 --> 00:09:30,777
+That depends
+on your definition of "civilized".
+
+104
+00:09:31,028 --> 00:09:34,155
+But you would certainly be
+more comfortable there than here.
+
+105
+00:09:34,407 --> 00:09:38,076
+Vanqor is no place to be after dark.
+
+106
+00:09:38,578 --> 00:09:41,121
+Perhaps I shall take you up on your offer.
+
+107
+00:09:41,205 --> 00:09:46,418
+Very good.
+Now all that's left to do is settle my fee.
+
+108
+00:09:46,752 --> 00:09:48,003
+Fee?
+
+109
+00:09:48,087 --> 00:09:51,923
+Just a little something
+to cover my expenses.
+
+110
+00:09:52,008 --> 00:09:57,554
+It shouldn't be a problem for someone
+so obviously wealthy as yourself.
+
+111
+00:09:59,015 --> 00:10:02,642
+I'd be happy to compensate you
+for your services.
+
+112
+00:10:03,311 --> 00:10:05,604
+That's it, boys! We're heading home!
+
+113
+00:10:09,191 --> 00:10:10,734
+Jump in anytime!
+
+114
+00:10:10,818 --> 00:10:13,903
+Oh, you're doing fine.
+She seems to like you.
+
+115
+00:10:14,488 --> 00:10:16,072
+(CHUCKLES) Yeah, lucky me!
+
+116
+00:10:16,866 --> 00:10:19,784
+This isn't as much fun as it looks!
+
+117
+00:10:20,953 --> 00:10:23,496
+I thought gundarks were only found
+on Vanqor!
+
+118
+00:10:23,581 --> 00:10:25,999
+Then this system must be Vanqor.
+
+119
+00:10:28,336 --> 00:10:32,464
+-So that would make this one...
+-The mother of all gundarks. Precisely.
+
+120
+00:10:33,966 --> 00:10:35,842
+(GRUNTING) Are you gonna help me?
+
+121
+00:10:42,516 --> 00:10:44,976
+Well, you took your time.
+
+122
+00:10:50,274 --> 00:10:53,485
+(SQUEALING)
+
+123
+00:11:00,993 --> 00:11:04,537
+It's a pity.
+I was just starting to sense a connection.
+
+124
+00:11:04,622 --> 00:11:06,122
+Should I leave you two alone?
+
+125
+00:11:06,207 --> 00:11:08,875
+Or would you prefer to find a way out
+of this hole before she wakes up?
+
+126
+00:11:33,943 --> 00:11:36,111
+Welcome to Florrum.
+
+127
+00:11:38,656 --> 00:11:45,120
+Lose your flashy sword?
+Are these what you were looking for, Jedi?
+
+128
+00:11:45,579 --> 00:11:48,832
+I am more powerful than any Jedi.
+
+129
+00:11:49,333 --> 00:11:52,168
+Know that you are dealing
+with a Sith Lord.
+
+130
+00:11:53,587 --> 00:11:56,131
+You're still outnumbered.
+
+131
+00:11:56,215 --> 00:12:01,469
+The leader of the clanker army,
+and a Sith Lord, no less.
+
+132
+00:12:01,554 --> 00:12:04,806
+Someone is sure to pay a pretty price
+for you.
+
+133
+00:12:05,182 --> 00:12:08,893
+Provide me with the proper means
+of communications,
+
+134
+00:12:08,978 --> 00:12:12,522
+I will arrange for any ransom to be paid.
+
+135
+00:12:12,606 --> 00:12:16,443
+And you will arrange for your armies
+to crush us, as well.
+
+136
+00:12:16,527 --> 00:12:20,071
+You don't survive in the Outer Rim
+by being stupid.
+
+137
+00:12:20,156 --> 00:12:23,116
+If the Separatists will pay to get you back,
+
+138
+00:12:23,200 --> 00:12:27,495
+chances are the Republic
+will offer even more.
+
+139
+00:12:31,500 --> 00:12:33,001
+(DISTANT SQUEALING)
+
+140
+00:12:33,085 --> 00:12:36,880
+-Sounds like another gundark.
+-That's too far away to worry about.
+
+141
+00:12:36,964 --> 00:12:38,965
+It won't stay far away.
+
+142
+00:12:44,430 --> 00:12:46,723
+Uh-oh. New problem!
+
+143
+00:12:48,225 --> 00:12:49,309
+(COUGHING)
+
+144
+00:12:49,393 --> 00:12:51,561
+-That's not good.
+-It's just gas.
+
+145
+00:12:51,645 --> 00:12:54,022
+Yes, probably toxic gas.
+
+146
+00:12:54,523 --> 00:12:57,317
+That's good. Maybe it'll kill your gundark.
+
+147
+00:12:58,486 --> 00:12:59,986
+And maybe it'll kill us!
+
+148
+00:13:00,529 --> 00:13:02,614
+Come on. Let's get out of here.
+
+149
+00:13:05,075 --> 00:13:06,201
+(COUGHING)
+
+150
+00:13:06,243 --> 00:13:09,162
+This isn't gonna work. I can't breathe!
+
+151
+00:13:09,246 --> 00:13:11,331
+As always, I'm open to...
+
+152
+00:13:12,082 --> 00:13:13,374
+(GROANS)
+
+153
+00:13:13,709 --> 00:13:17,045
+Come on, Obi-Wan. Don't give up now.
+
+154
+00:13:23,928 --> 00:13:27,138
+-(COUGHING) What was that?
+-(COUGHING) I have no idea.
+
+155
+00:13:28,057 --> 00:13:29,349
+Master!
+
+156
+00:13:29,892 --> 00:13:31,392
+(COUGHING)
+
+157
+00:13:32,061 --> 00:13:34,395
+Looks like I got here just in time.
+
+158
+00:13:34,522 --> 00:13:36,356
+What do you mean, "just in time"?
+
+159
+00:13:36,398 --> 00:13:38,233
+You were in very big trouble!
+
+160
+00:13:38,359 --> 00:13:41,027
+Trouble? We were simply searching
+for Count Dooku.
+
+161
+00:13:41,987 --> 00:13:46,199
+Yeah. We had the situation
+well under control, my little Padawan.
+
+162
+00:13:46,242 --> 00:13:47,659
+Oh! I see.
+
+163
+00:13:47,743 --> 00:13:50,995
+So, which part of the situation
+did you have under control?
+
+164
+00:13:51,080 --> 00:13:55,166
+The blocked entrance? The poison gas?
+Or that gundark behind you?
+
+165
+00:13:55,584 --> 00:13:56,876
+-Gundark?
+-Oh.
+
+166
+00:13:56,919 --> 00:14:00,088
+You mean the one
+that's too far away to worry about?
+
+167
+00:14:00,256 --> 00:14:01,673
+(SQUEALING)
+
+168
+00:14:01,924 --> 00:14:03,258
+Block the entrance!
+
+169
+00:14:11,267 --> 00:14:14,727
+-There's still Dooku to deal with.
+-You let him get away?
+
+170
+00:14:14,770 --> 00:14:18,565
+No, not "get away," exactly, just...
+
+171
+00:14:20,109 --> 00:14:21,776
+Chime in, any time.
+
+172
+00:14:23,612 --> 00:14:26,406
+Oh, no. I'm enjoying this far too much.
+
+173
+00:14:28,117 --> 00:14:33,121
+<i>If you want the Sith Lord,</i>
+<i>it will cost you a million credits.</i>
+
+174
+00:14:33,205 --> 00:14:38,501
+<i>The payment will be in spice,</i>
+<i>delivered in an unarmed diplomatic ship.</i>
+
+175
+00:14:38,794 --> 00:14:43,131
+We will need proof he's alive
+before agreeing to your terms.
+
+176
+00:14:43,841 --> 00:14:47,135
+<i>Let me present your fearless Sith Lord.</i>
+
+177
+00:14:49,138 --> 00:14:52,640
+<i>I'm afraid he's too embarrassed to speak.</i>
+
+178
+00:14:52,683 --> 00:14:55,143
+A hologram can be faked.
+
+179
+00:14:56,186 --> 00:15:00,648
+<i>You want proof? This is his lightsaber.</i>
+
+180
+00:15:00,941 --> 00:15:05,361
+Hmm. Yes. Belongs to Dooku,
+that lightsaber does.
+
+181
+00:15:06,322 --> 00:15:10,950
+This scum having possession
+of Dooku's lightsaber proves nothing.
+
+182
+00:15:11,827 --> 00:15:13,494
+<i>If you refuse,</i>
+
+183
+00:15:13,621 --> 00:15:19,000
+<i>I'm sure the Separatist Council will be</i>
+<i>more than willing to meet my price.</i>
+
+184
+00:15:19,877 --> 00:15:23,212
+We may never have a better chance
+to capture Count Dooku.
+
+185
+00:15:24,381 --> 00:15:29,052
+We would like to send two Jedi
+to confirm you have Count Dooku
+
+186
+00:15:29,178 --> 00:15:31,346
+before delivering the ransom.
+
+187
+00:15:32,306 --> 00:15:34,682
+<i>Send your Jedi.</i>
+<i>But they must be unarmed.</i>
+
+188
+00:15:34,808 --> 00:15:37,185
+-Impossible.
+<i>-They will be safe.</i>
+
+189
+00:15:38,145 --> 00:15:41,648
+<i>We have no interest</i>
+<i>in getting involved in your war.</i>
+
+190
+00:15:45,486 --> 00:15:48,696
+We've reestablished contact
+with Kenobi and Skywalker.
+
+191
+00:15:49,031 --> 00:15:54,160
+-They're in a system close to Florrum.
+-And most eager to find Dooku they are.
+
+192
+00:15:57,998 --> 00:16:00,416
+<i>His only stipulation</i>
+<i>is that you arrive unarmed.</i>
+
+193
+00:16:00,709 --> 00:16:04,212
+-Unarmed?
+-We know very little about these pirates.
+
+194
+00:16:04,296 --> 00:16:05,546
+We may be walking blind
+
+195
+00:16:05,589 --> 00:16:08,257
+into what could very well be
+a hostile situation.
+
+196
+00:16:08,384 --> 00:16:10,551
+<i>We can't let Dooku</i>
+<i>slip through our fingers again.</i>
+
+197
+00:16:10,719 --> 00:16:12,387
+<i>Report back as soon as you arrive.</i>
+
+198
+00:16:13,806 --> 00:16:15,473
+Well, this should be fun.
+
+199
+00:16:43,168 --> 00:16:48,006
+(WARBLING)
+
+200
+00:16:48,340 --> 00:16:49,757
+Follow me.
+
+201
+00:16:58,100 --> 00:17:00,727
+<i>(MUSIC PLAYING)</i>
+
+202
+00:17:02,646 --> 00:17:04,439
+(PEOPLE CHATTERING SOFTLY)
+
+203
+00:17:14,450 --> 00:17:18,286
+Gentlemen! Can I offer you
+something to drink?
+
+204
+00:17:19,955 --> 00:17:21,456
+No, thank you.
+
+205
+00:17:24,918 --> 00:17:27,503
+Congratulations on your capture
+of Count Dooku.
+
+206
+00:17:27,588 --> 00:17:30,173
+-Very impressive.
+-Yes, it was.
+
+207
+00:17:30,841 --> 00:17:32,467
+(EXCLAIMS DISMISSIVELY)
+Even a Sith Lord
+
+208
+00:17:32,509 --> 00:17:34,385
+is no match for my warriors.
+
+209
+00:17:36,346 --> 00:17:37,638
+(LAUGHING)
+
+210
+00:17:37,723 --> 00:17:41,726
+He put up quite a fight. Blasters, cannons,
+that glowy thing...
+
+211
+00:17:41,810 --> 00:17:42,852
+(IMITATES LIGHTSABER WHOOSHING)
+
+212
+00:17:43,437 --> 00:17:45,354
+-You mean a lightsaber?
+-That's it.
+
+213
+00:17:45,439 --> 00:17:49,817
+And I don't need to tell you,
+those things can do some damage.
+
+214
+00:17:50,027 --> 00:17:52,570
+Carved up some of my best men
+pretty good
+
+215
+00:17:52,654 --> 00:17:54,489
+before I could get the jump on him.
+
+216
+00:17:54,573 --> 00:17:58,076
+And how, exactly, did you get
+the jump on him?
+
+217
+00:17:58,160 --> 00:17:59,577
+With this?
+
+218
+00:18:04,666 --> 00:18:07,001
+(CHATTERING)
+
+219
+00:18:09,546 --> 00:18:13,091
+We have no interest
+in disagreeing with you.
+
+220
+00:18:13,175 --> 00:18:17,845
+All we want is to confirm
+you are holding Dooku, and we'll go.
+
+221
+00:18:18,305 --> 00:18:20,098
+I will arrange a meeting.
+
+222
+00:18:28,357 --> 00:18:33,361
+-Look how the mighty Sith Lord has fallen.
+-This place suits you, Count.
+
+223
+00:18:33,862 --> 00:18:40,743
+It wasn't so long ago that you yourself
+were in similar surroundings on my ship.
+
+224
+00:18:40,869 --> 00:18:44,705
+Yeah, but now I'm free and you're not.
+
+225
+00:18:45,457 --> 00:18:50,545
+I'm confident the situation
+will rectify itself soon.
+
+226
+00:18:50,712 --> 00:18:53,464
+Soon, you'll be brought to trial
+by the Senate
+
+227
+00:18:53,549 --> 00:18:57,718
+and most likely spend a very long time
+in a cell just like this one.
+
+228
+00:18:58,554 --> 00:19:00,388
+And that's if you're lucky.
+
+229
+00:19:01,181 --> 00:19:05,852
+Oh, my naive young Jedi,
+you must be overly optimistic
+
+230
+00:19:05,894 --> 00:19:10,565
+if you think these Weequayans plan
+to let you leave this planet.
+
+231
+00:19:10,607 --> 00:19:14,735
+(CHUCKLES) They're planet-hopping thieves
+looking for a quick score.
+
+232
+00:19:14,778 --> 00:19:17,572
+They have no interest
+in picking a fight with Jedi.
+
+233
+00:19:17,614 --> 00:19:20,408
+They are devious and deceitful,
+
+234
+00:19:20,492 --> 00:19:23,244
+and, most importantly, stupid.
+
+235
+00:19:23,287 --> 00:19:25,913
+It's a wonder
+you don't get along with them, Dooku.
+
+236
+00:19:26,498 --> 00:19:28,583
+You have so much in common.
+
+237
+00:19:28,917 --> 00:19:32,962
+You underestimate them
+at your own peril, Kenobi.
+
+238
+00:19:38,468 --> 00:19:40,928
+I don't know about you,
+but I could use some rest.
+
+239
+00:19:41,096 --> 00:19:43,723
+Remember, Anakin,
+this could still be a trap.
+
+240
+00:19:43,932 --> 00:19:45,641
+You're not worried about Dooku, are you?
+
+241
+00:19:45,767 --> 00:19:48,603
+No. I'm worried about these pirates.
+
+242
+00:19:49,146 --> 00:19:50,605
+(JAWA EXCLAIMS)
+
+243
+00:19:53,734 --> 00:19:56,777
+Jedi! Now that your business
+is completed,
+
+244
+00:19:56,904 --> 00:20:00,323
+we invite you to join us
+in the Grand Hall for a banquet.
+
+245
+00:20:00,949 --> 00:20:05,328
+And a true Weequay banquet
+is not to be missed.
+
+246
+00:20:08,415 --> 00:20:10,958
+No question they have Dooku.
+Send the ransom.
+
+247
+00:20:11,084 --> 00:20:14,962
+<i>-He's being securely held?</i>
+-Yeah, and very cranky about it.
+
+248
+00:20:15,422 --> 00:20:16,464
+<i>Good.</i>
+
+249
+00:20:16,590 --> 00:20:20,676
+<i>Senator Kharraus and Representative Binks</i>
+<i>will be dispatched immediately.</i>
+
+250
+00:20:21,136 --> 00:20:23,054
+<i>(MUSIC PLAYING)</i>
+
+251
+00:20:36,443 --> 00:20:40,613
+Now can I persuade you
+to join us for a drink?
+
+252
+00:20:40,656 --> 00:20:44,450
+It's a tradition. In the name of friendship!
+
+253
+00:20:44,493 --> 00:20:47,995
+All right. But nothing too strong.
+He's flying.
+
+254
+00:20:48,080 --> 00:20:50,748
+Bring our guests some refreshments!
+
+255
+00:21:08,141 --> 00:21:10,518
+To a successful transaction!
+
+256
+00:21:10,602 --> 00:21:13,980
+(ALL CHEERING)
+
+257
+00:21:15,691 --> 00:21:19,193
+To powerful pirates
+and new friends of the Republic!
+
+258
+00:21:20,696 --> 00:21:23,030
+Enjoy your evening, gentlemen.
+
+259
+00:21:25,617 --> 00:21:28,202
+-I still don't get it.
+-Get what?
+
+260
+00:21:28,287 --> 00:21:31,872
+How a bunch of drunken pirates managed
+to catch Dooku when we couldn't.
+
+261
+00:21:32,374 --> 00:21:34,542
+Maybe there's a lesson to be learned here.
+
+262
+00:21:34,584 --> 00:21:36,002
+(SIGHS) I still don't get it.
+
+263
+00:21:36,044 --> 00:21:38,170
+It's to remind us to be humble
+
+264
+00:21:38,213 --> 00:21:41,674
+and never too proud to accept a gift
+when it comes our way.
+
+265
+00:21:42,050 --> 00:21:45,886
+-Well, to unexpected gifts, then.
+-Hear, hear!
+
+266
+00:21:46,305 --> 00:21:48,264
+<i>(MUSIC PLAYING)</i>
+
+267
+00:22:34,895 --> 00:22:35,895
+English - SDH
+

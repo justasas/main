@@ -1,0 +1,241 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:21.58,0:00:23.82,Main Dialog,Spoken,0000,0000,0000,,D-Don't tell me...
+Dialogue: 0,0:00:24.41,0:00:27.76,Main Dialog,Spoken,0000,0000,0000,,They're coming after me directly...
+Dialogue: 0,0:00:28.73,0:00:31.20,Main Dialog,Spoken,0000,0000,0000,,This is the beginning of the end.
+Dialogue: 0,0:00:37.21,0:00:41.34,Main Dialog,Spoken,0000,0000,0000,,I'm going to possess you.
+Dialogue: 0,0:00:52.34,0:00:57.93,Main Dialog,Spoken,0000,0000,0000,,Everything you have will be mine.
+Dialogue: 0,0:00:58.68,0:01:03.52,Main Dialog,Spoken,0000,0000,0000,,Your position, your precious memories...
+Dialogue: 0,0:01:03.52,0:01:05.25,Main Dialog,Spoken,0000,0000,0000,,...and...
+Dialogue: 0,0:01:14.32,0:01:15.88,Main Dialog,Spoken,0000,0000,0000,,Stop it!
+Dialogue: 0,0:01:17.78,0:01:20.51,Main Dialog,Spoken,0000,0000,0000,,I won't let you have them!
+Dialogue: 0,0:03:00.78,0:03:02.06,Main Dialog,Spoken,0000,0000,0000,,Okay, here I go!
+Dialogue: 0,0:03:02.06,0:03:03.40,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:03:06.33,0:03:07.56,Main Dialog,Spoken,0000,0000,0000,,Vanguard!
+Dialogue: 0,0:03:11.84,0:03:13.98,Main Dialog,Spoken,0000,0000,0000,,The way he looked then...
+Dialogue: 0,0:03:18.18,0:03:19.51,Main Dialog,Spoken,0000,0000,0000,,You're no good.
+Dialogue: 0,0:03:19.86,0:03:20.97,Main Dialog,Spoken,0000,0000,0000,,You.
+Dialogue: 0,0:03:21.73,0:03:23.13,Main Dialog,Spoken,0000,0000,0000,,Fight me.
+Dialogue: 0,0:03:23.13,0:03:24.01,Main Dialog,Spoken,0000,0000,0000,,Me?
+Dialogue: 0,0:03:24.81,0:03:26.51,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:03:27.45,0:03:31.02,Main Dialog,Spoken,0000,0000,0000,,You're disappointin' me, Aichi Sendou!
+Dialogue: 0,0:03:31.90,0:03:38.03,Main Dialog,Spoken,0000,0000,0000,,I was lookin' for the strongest Vanguard \Nfighter, and is {\i1}this{\i0} his ability?
+Dialogue: 0,0:03:38.97,0:03:42.80,Main Dialog,Spoken,0000,0000,0000,,Well, whatever. I'll take \Ndown the strongest fighter.
+Dialogue: 0,0:03:42.80,0:03:44.21,Main Dialog,Spoken,0000,0000,0000,,That's my...
+Dialogue: 0,0:03:44.57,0:03:47.95,Main Dialog,Spoken,0000,0000,0000,,That's what I... was ordered to do.
+Dialogue: 0,0:04:06.49,0:04:09.23,Main Dialog,Spoken,0000,0000,0000,,How...? When did I get here?
+Dialogue: 0,0:04:10.25,0:04:13.30,Main Dialog,Spoken,0000,0000,0000,,Darn it! I can't remember!
+Dialogue: 0,0:04:16.85,0:04:21.78,Main Dialog,Spoken,0000,0000,0000,,Is something... something \Nhorrible trying to happen?
+Dialogue: 0,0:04:22.94,0:04:25.98,Main Dialog,Spoken,0000,0000,0000,,If anyone knows the answer to that, it's...
+Dialogue: 0,0:04:36.25,0:04:41.26,Signs,Sign,0000,0000,0000,,Lock
+Dialogue: 0,0:04:55.28,0:04:57.90,Main Dialog,Spoken,0000,0000,0000,,Please push the room number \Nthat you would like to go to.
+Dialogue: 0,0:05:01.89,0:05:04.90,Main Dialog,Spoken,0000,0000,0000,,We've been waiting for you, Toshiki Kai.
+Dialogue: 0,0:05:06.22,0:05:10.00,Main Dialog,Spoken,0000,0000,0000,,Please go through the door and \Ninto the inner direct elevator.
+Dialogue: 0,0:05:25.33,0:05:26.68,Main Dialog,Spoken,0000,0000,0000,,Welcome.
+Dialogue: 0,0:05:27.21,0:05:31.18,Main Dialog,Spoken,0000,0000,0000,,It's unusual for you to come here.
+Dialogue: 0,0:05:33.05,0:05:34.43,Main Dialog,Spoken,0000,0000,0000,,Where's Takuto?
+Dialogue: 0,0:05:35.21,0:05:37.66,Main Dialog,Spoken,0000,0000,0000,,He's here. This way.
+Dialogue: 0,0:05:40.86,0:05:42.36,Main Dialog,Spoken,0000,0000,0000,,You're not going to ask about it?
+Dialogue: 0,0:05:43.29,0:05:45.86,Main Dialog,Spoken,0000,0000,0000,,This uniform. I like it.
+Dialogue: 0,0:05:46.54,0:05:48.11,Main Dialog,Spoken,0000,0000,0000,,I couldn't care less.
+Dialogue: 0,0:05:48.62,0:05:51.12,Main Dialog,Spoken,0000,0000,0000,,Welcome, Toshiki Kai.
+Dialogue: 0,0:05:56.94,0:05:58.37,Main Dialog,Spoken,0000,0000,0000,,Something wrong?
+Dialogue: 0,0:05:59.94,0:06:00.88,Main Dialog,Spoken,0000,0000,0000,,No.
+Dialogue: 0,0:06:02.36,0:06:05.42,Main Dialog,Spoken,0000,0000,0000,,Anyway, it's been a long time.
+Dialogue: 0,0:06:05.42,0:06:07.09,Main Dialog,Spoken,0000,0000,0000,,What can I do for you today?
+Dialogue: 0,0:06:07.56,0:06:09.78,Main Dialog,Spoken,0000,0000,0000,,There's something I want to ask you.
+Dialogue: 0,0:06:10.89,0:06:12.53,Main Dialog,Spoken,0000,0000,0000,,Please, take your time.
+Dialogue: 0,0:06:18.85,0:06:21.25,Main Dialog,Spoken,0000,0000,0000,,The card he had was...?
+Dialogue: 0,0:06:21.25,0:06:23.40,Main Dialog,Spoken,0000,0000,0000,,A card I'd never seen before.
+Dialogue: 0,0:06:23.98,0:06:26.28,Main Dialog,Spoken,0000,0000,0000,,And right before my eyes...
+Dialogue: 0,0:06:27.60,0:06:29.89,Main Dialog,Spoken,0000,0000,0000,,...it vanished without a trace.
+Dialogue: 0,0:06:31.53,0:06:33.14,Main Dialog,Spoken,0000,0000,0000,,But that's not all.
+Dialogue: 0,0:06:33.14,0:06:35.41,Main Dialog,Spoken,0000,0000,0000,,He lost his memories, too.
+Dialogue: 0,0:06:35.82,0:06:38.81,Main Dialog,Spoken,0000,0000,0000,,And the way he acted during the fight...
+Dialogue: 0,0:06:38.81,0:06:41.97,Main Dialog,Spoken,0000,0000,0000,,Looking at him reminded me of something.
+Dialogue: 0,0:06:42.74,0:06:43.62,Main Dialog,Spoken,0000,0000,0000,,It was...
+Dialogue: 0,0:06:44.84,0:06:49.42,Main Dialog,Spoken,0000,0000,0000,,...similar to the sensation of the \Nevil force that Leon once displayed.
+Dialogue: 0,0:06:49.93,0:06:54.01,Main Dialog,Spoken,0000,0000,0000,,At the time, he must have \Nbeen influenced by Cray.
+Dialogue: 0,0:06:55.86,0:06:58.45,Main Dialog,Spoken,0000,0000,0000,,You know a lot about Cray, don't you?
+Dialogue: 0,0:06:58.45,0:06:59.94,Main Dialog,Spoken,0000,0000,0000,,Do you know anything about this?
+Dialogue: 0,0:07:02.52,0:07:04.82,Main Dialog,Spoken,0000,0000,0000,,Your guess is correct.
+Dialogue: 0,0:07:06.56,0:07:12.07,Main Dialog,Spoken,0000,0000,0000,,The entities called Void are trying to \Nenvelop the planet Cray in darkness.
+Dialogue: 0,0:07:12.52,0:07:17.26,Main Dialog,Spoken,0000,0000,0000,,And they're trying to \Nbegin a new way of battle.
+Dialogue: 0,0:07:17.89,0:07:21.62,Main Dialog,Spoken,0000,0000,0000,,The phenomenon that happened to \NNaoki Ishida was only the beginning.
+Dialogue: 0,0:07:22.26,0:07:24.88,Main Dialog,Spoken,0000,0000,0000,,The phenomenon that I call...
+Dialogue: 0,0:07:25.57,0:07:27.06,Main Dialog,Spoken,0000,0000,0000,,...Reverse.
+Dialogue: 0,0:07:28.58,0:07:30.01,Main Dialog,Spoken,0000,0000,0000,,Reverse?!
+Dialogue: 0,0:07:31.28,0:07:37.14,Main Dialog,Spoken,0000,0000,0000,,You lose your own soul, and \Nyour energy becomes Void's.
+Dialogue: 0,0:07:37.65,0:07:39.89,Main Dialog,Spoken,0000,0000,0000,,How does that happen?
+Dialogue: 0,0:07:41.28,0:07:42.97,Main Dialog,Spoken,0000,0000,0000,,It works like this...
+Dialogue: 0,0:07:44.33,0:07:48.65,Main Dialog,Spoken,0000,0000,0000,,One Reverse fighter challenges \Na Cardfighter to a battle.
+Dialogue: 0,0:07:48.89,0:07:53.12,Main Dialog,Spoken,0000,0000,0000,,And then, if the fighter \Nwho was challenged loses...
+Dialogue: 0,0:07:56.10,0:07:59.79,Main Dialog,Spoken,0000,0000,0000,,...he too becomes a Reverse fighter.
+Dialogue: 0,0:08:06.36,0:08:08.50,Main Dialog,Spoken,0000,0000,0000,,Where are you going?
+Dialogue: 0,0:08:09.22,0:08:11.94,Main Dialog,Spoken,0000,0000,0000,,To warn Aichi and the others about this.
+Dialogue: 0,0:08:11.94,0:08:13.49,Main Dialog,Spoken,0000,0000,0000,,Please wait a moment.
+Dialogue: 0,0:08:13.49,0:08:15.55,Main Dialog,Spoken,0000,0000,0000,,I'm not done explaining.
+Dialogue: 0,0:08:20.29,0:08:21.56,Main Dialog,Spoken,0000,0000,0000,,Takuto...
+Dialogue: 0,0:08:22.45,0:08:27.91,Main Dialog,Spoken,0000,0000,0000,,It's very convenient that you came to me.
+Dialogue: 0,0:08:35.08,0:08:38.92,Main Dialog,Spoken,0000,0000,0000,,We need strong fighters.
+Dialogue: 0,0:08:39.78,0:08:44.49,Main Dialog,Spoken,0000,0000,0000,,If we succeed here, we'll be able to increase \Nthe number of Reverse fighters even faster.
+Dialogue: 0,0:08:46.61,0:08:49.29,Main Dialog,Spoken,0000,0000,0000,,For example, Aichi Sendou...
+Dialogue: 0,0:08:49.74,0:08:52.55,Main Dialog,Spoken,0000,0000,0000,,Or Ren Suzugamori...
+Dialogue: 0,0:08:55.44,0:08:56.80,Main Dialog,Spoken,0000,0000,0000,,Or even...
+Dialogue: 0,0:08:57.38,0:09:00.96,Main Dialog,Spoken,0000,0000,0000,,...you, Toshiki Kai!
+Dialogue: 0,0:09:05.96,0:09:08.69,Main Dialog,Spoken,0000,0000,0000,,You've been Reversed too?
+Dialogue: 0,0:09:11.22,0:09:12.19,Main Dialog,Spoken,0000,0000,0000,,I...
+Dialogue: 0,0:09:25.40,0:09:27.20,Main Dialog,Spoken,0000,0000,0000,,So annoying.
+Dialogue: 0,0:09:27.20,0:09:28.96,Main Dialog,Spoken,0000,0000,0000,,Please disappear!
+Dialogue: 0,0:09:35.98,0:09:38.97,Main Dialog,Spoken,0000,0000,0000,,You're not just a regular Reverse, are you?
+Dialogue: 0,0:09:39.77,0:09:43.24,Main Dialog,Spoken,0000,0000,0000,,Right now, I'm an ally of Void.
+Dialogue: 0,0:09:43.24,0:09:47.73,Main Dialog,Spoken,0000,0000,0000,,Well, you could also call me a \Nrepresentative... or an agent...
+Dialogue: 0,0:09:50.68,0:09:53.48,Main Dialog,Spoken,0000,0000,0000,,And Void is searching...
+Dialogue: 0,0:09:54.04,0:10:00.74,Main Dialog,Spoken,0000,0000,0000,,Searching for the first Reverse fighter, the \Nprogenitor from whom everything will begin.
+Dialogue: 0,0:10:02.72,0:10:05.37,Main Dialog,Spoken,0000,0000,0000,,First Reverse fighter...
+Dialogue: 0,0:10:05.74,0:10:10.50,Main Dialog,Spoken,0000,0000,0000,,Toshiki Kai, you're perfect for the role.
+Dialogue: 0,0:10:13.10,0:10:16.30,Main Dialog,Spoken,0000,0000,0000,,Once you're Reversed, you'll understand too.
+Dialogue: 0,0:10:16.30,0:10:22.76,Main Dialog,Spoken,0000,0000,0000,,You'll know how wonderful this \Nstate is, how full of bliss.
+Dialogue: 0,0:10:23.05,0:10:23.93,Main Dialog,Spoken,0000,0000,0000,,I'm not gonna let it happen!
+Dialogue: 0,0:10:46.01,0:10:48.37,Main Dialog,Spoken,0000,0000,0000,,Oh... nothing...
+Dialogue: 0,0:10:49.17,0:10:56.13,Main Dialog,Spoken,0000,0000,0000,,What... What does this \Ntightness in my chest mean?
+Dialogue: 0,0:11:05.56,0:11:08.68,Main Dialog,Spoken,0000,0000,0000,,Stand up the Vanguard!
+Dialogue: 0,0:11:05.56,0:11:08.68,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:11:14.18,0:11:16.49,Main Dialog,Spoken,0000,0000,0000,,Eradicator, Strike-dagger Dragon!
+Dialogue: 0,0:11:17.26,0:11:20.50,Main Dialog,Spoken,0000,0000,0000,,Star-vader, Dust Tail Unicorn!
+Dialogue: 0,0:11:21.90,0:11:23.66,Main Dialog,Spoken,0000,0000,0000,,What's that unit?!
+Dialogue: 0,0:11:25.93,0:11:29.29,Main Dialog,Spoken,0000,0000,0000,,Surprised, are you? I don't blame you.
+Dialogue: 0,0:11:29.64,0:11:33.29,Main Dialog,Spoken,0000,0000,0000,,This is the first time you've \Nseen this clan, right?
+Dialogue: 0,0:11:33.66,0:11:36.44,Main Dialog,Spoken,0000,0000,0000,,And you're not the only one.
+Dialogue: 0,0:11:36.81,0:11:42.18,Main Dialog,Spoken,0000,0000,0000,,No one in the world is aware of \Nthe existence of this clan yet.
+Dialogue: 0,0:11:46.68,0:11:50.18,Main Dialog,Spoken,0000,0000,0000,,This entire clan is the avatar of Void.
+Dialogue: 0,0:11:53.02,0:11:56.07,Main Dialog,Spoken,0000,0000,0000,,It's an envoy whose purpose \Nis to steal the light
+Dialogue: 0,0:11:56.07,0:11:58.94,Main Dialog,Spoken,0000,0000,0000,,from the lives of everything \Non Cray and Earth.
+Dialogue: 0,0:11:59.80,0:12:04.45,Main Dialog,Spoken,0000,0000,0000,,A heretic that comes through the \Njuncture of time and dimension...
+Dialogue: 0,0:12:05.09,0:12:08.21,Main Dialog,Spoken,0000,0000,0000,,The end of an evolution that inherits \Na hundred million afternoons and nights,
+Dialogue: 0,0:12:08.21,0:12:10.52,Main Dialog,Spoken,0000,0000,0000,,and casts away imagination...
+Dialogue: 0,0:12:11.27,0:12:14.04,Main Dialog,Spoken,0000,0000,0000,,The destroyer that has \Nobtained ultimate power...
+Dialogue: 0,0:12:14.84,0:12:16.22,Main Dialog,Spoken,0000,0000,0000,,Its name is...
+Dialogue: 0,0:12:16.58,0:12:18.04,Main Dialog,Spoken,0000,0000,0000,,Link Joker!
+Dialogue: 0,0:12:25.93,0:12:29.34,Main Dialog,Spoken,0000,0000,0000,,A frozen planet that doesn't \Nknow what it means to melt...
+Dialogue: 0,0:12:30.60,0:12:34.81,Main Dialog,Spoken,0000,0000,0000,,A scorching planet that \Nspews flames for eternity...
+Dialogue: 0,0:12:35.50,0:12:40.72,Main Dialog,Spoken,0000,0000,0000,,A planet with no concept of "moment" \Nbecause its time has stopped...
+Dialogue: 0,0:12:40.72,0:12:46.11,Main Dialog,Spoken,0000,0000,0000,,These three planets are the products of \Ndestruction by the hands of Link Joker.
+Dialogue: 0,0:12:46.11,0:12:49.34,Main Dialog,Spoken,0000,0000,0000,,Or perhaps I should say "nothingness"?
+Dialogue: 0,0:12:49.34,0:12:53.53,Main Dialog,Spoken,0000,0000,0000,,A nothingness that brings on destruction.
+Dialogue: 0,0:12:53.53,0:12:58.49,Main Dialog,Spoken,0000,0000,0000,,So targeting Cray and Earth, two planets \Nthat are overflowing with life...
+Dialogue: 0,0:12:58.49,0:13:01.09,Main Dialog,Spoken,0000,0000,0000,,Isn't it only logical?
+Dialogue: 0,0:13:06.57,0:13:08.37,Main Dialog,Spoken,0000,0000,0000,,Link Joker...
+Dialogue: 0,0:13:21.40,0:13:22.86,Main Dialog,Spoken,0000,0000,0000,,Link Joker...
+Dialogue: 0,0:13:23.73,0:13:27.00,Main Dialog,Spoken,0000,0000,0000,,The destroyer that has obtained \Nultimate power, huh?
+Dialogue: 0,0:13:31.22,0:13:35.46,Main Dialog,Spoken,0000,0000,0000,,Interesting. Just how much power is that?
+Dialogue: 0,0:13:36.93,0:13:38.21,Main Dialog,Spoken,0000,0000,0000,,You'll have to show me!
+Dialogue: 0,0:13:39.25,0:13:40.81,Main Dialog,Spoken,0000,0000,0000,,I ride Red River Dragoon!
+Dialogue: 0,0:13:43.60,0:13:45.47,Main Dialog,Spoken,0000,0000,0000,,Strike-dagger moves!
+Dialogue: 0,0:13:45.77,0:13:46.97,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:13:50.88,0:13:51.81,Main Dialog,Spoken,0000,0000,0000,,Red River!
+Dialogue: 0,0:14:08.80,0:14:13.60,Main Dialog,Spoken,0000,0000,0000,,I ride Star-vader, Mobius Breath Dragon!
+Dialogue: 0,0:14:15.49,0:14:16.34,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:14:34.58,0:14:38.81,Main Dialog,Spoken,0000,0000,0000,,It's like I can pluck the \Nthoughts right out of your head.
+Dialogue: 0,0:14:40.70,0:14:43.44,Main Dialog,Spoken,0000,0000,0000,,This is what you're thinking.
+Dialogue: 0,0:14:43.82,0:14:47.19,Main Dialog,Spoken,0000,0000,0000,,"Hurry up and show me that \Nclan's characteristics."
+Dialogue: 0,0:14:47.61,0:14:50.46,Main Dialog,Spoken,0000,0000,0000,,"That way I can get a \Ngood idea of the deck...
+Dialogue: 0,0:14:50.46,0:14:53.69,Main Dialog,Spoken,0000,0000,0000,,...and find a way to beat it."
+Dialogue: 0,0:14:53.69,0:14:55.33,Main Dialog,Spoken,0000,0000,0000,,Isn't that the gist?
+Dialogue: 0,0:15:08.33,0:15:10.81,Main Dialog,Spoken,0000,0000,0000,,I will show you...
+Dialogue: 0,0:15:12.85,0:15:20.73,Main Dialog,Spoken,0000,0000,0000,,The only thing is that... the power they \Npossess goes beyond what you can imagine.
+Dialogue: 0,0:15:21.24,0:15:25.77,Main Dialog,Spoken,0000,0000,0000,,Now, Mobius Breath Dragon's attack hit!
+Dialogue: 0,0:15:26.42,0:15:28.99,Main Dialog,Spoken,0000,0000,0000,,I'll show you its skill!
+Dialogue: 0,0:15:31.13,0:15:33.97,Main Dialog,Spoken,0000,0000,0000,,Set target on Hisen...
+Dialogue: 0,0:15:34.77,0:15:35.93,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:15:52.74,0:15:53.86,Main Dialog,Spoken,0000,0000,0000,,What the...?!
+Dialogue: 0,0:16:01.24,0:16:04.49,Main Dialog,Spoken,0000,0000,0000,,What?! My card's turned over?!
+Dialogue: 0,0:16:06.10,0:16:09.29,Main Dialog,Spoken,0000,0000,0000,,What in the world is happening?!
+Dialogue: 0,0:16:10.53,0:16:12.25,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:16:13.48,0:16:17.45,Main Dialog,Spoken,0000,0000,0000,,Now it's your turn.
+Dialogue: 0,0:16:21.86,0:16:23.25,Main Dialog,Spoken,0000,0000,0000,,I can't turn it back over?!
+Dialogue: 0,0:16:23.76,0:16:28.46,Main Dialog,Spoken,0000,0000,0000,,This skill continues until \Nthe end of your turn.
+Dialogue: 0,0:16:28.84,0:16:29.52,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:16:29.85,0:16:33.47,Main Dialog,Spoken,0000,0000,0000,,During this time, Hisen stays face down.
+Dialogue: 0,0:16:33.90,0:16:37.97,Main Dialog,Spoken,0000,0000,0000,,It can't boost your Vanguard.
+Dialogue: 0,0:16:40.24,0:16:42.56,Main Dialog,Spoken,0000,0000,0000,,That's "lock."
+Dialogue: 0,0:16:43.42,0:16:47.84,Main Dialog,Spoken,0000,0000,0000,,But a unit that's been locked doesn't \Nonly lose the ability to boost.
+Dialogue: 0,0:16:48.69,0:16:51.22,Main Dialog,Spoken,0000,0000,0000,,Everything is sealed away.
+Dialogue: 0,0:16:52.61,0:16:55.57,Main Dialog,Spoken,0000,0000,0000,,That's right... everything.
+Dialogue: 0,0:16:55.57,0:17:00.74,Main Dialog,Spoken,0000,0000,0000,,Link Joker can use this skill \Nto bind every possible unit!
+Dialogue: 0,0:17:04.80,0:17:09.38,Main Dialog,Spoken,0000,0000,0000,,I told you it would exceed \Nwhat you could imagine.
+Dialogue: 0,0:17:09.38,0:17:13.38,Main Dialog,Spoken,0000,0000,0000,,And Link Joker doesn't only \Nhave an effect on units...
+Dialogue: 0,0:17:13.62,0:17:15.00,Main Dialog,Spoken,0000,0000,0000,,Toshiki Kai!
+Dialogue: 0,0:17:17.82,0:17:21.64,Main Dialog,Spoken,0000,0000,0000,,Before the day is through, \NI'm going to bind you!
+Dialogue: 0,0:17:24.60,0:17:29.27,Main Dialog,Spoken,0000,0000,0000,,Talk's cheap. But it's not \Ngonna be easy for you!
+Dialogue: 0,0:17:29.62,0:17:33.64,Main Dialog,Spoken,0000,0000,0000,,I ride Dragonic Deathscythe!
+Dialogue: 0,0:17:36.53,0:17:37.66,Main Dialog,Spoken,0000,0000,0000,,Counterblast!
+Dialogue: 0,0:17:38.21,0:17:41.03,Main Dialog,Spoken,0000,0000,0000,,Mow down that Star-vader Radon!
+Dialogue: 0,0:17:49.82,0:17:50.62,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:17:54.85,0:17:55.67,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:17:57.01,0:17:58.47,Main Dialog,Spoken,0000,0000,0000,,No guard.
+Dialogue: 0,0:18:01.88,0:18:04.18,Main Dialog,Spoken,0000,0000,0000,,I got a heal trigger!
+Dialogue: 0,0:18:04.60,0:18:06.17,Main Dialog,Spoken,0000,0000,0000,,I give the power to Zuitan
+Dialogue: 0,0:18:07.42,0:18:09.44,Main Dialog,Spoken,0000,0000,0000,,and heal 1 damage.
+Dialogue: 0,0:18:14.06,0:18:16.03,Main Dialog,Spoken,0000,0000,0000,,Even without having Hisen's boost...
+Dialogue: 0,0:18:16.85,0:18:19.45,Main Dialog,Spoken,0000,0000,0000,,Even with your Lock still in place...
+Dialogue: 0,0:18:22.73,0:18:24.59,Main Dialog,Spoken,0000,0000,0000,,...Dragonic Deathscythe's power...
+Dialogue: 0,0:18:24.84,0:18:30.54,Main Dialog,Spoken,0000,0000,0000,,No... {\i1}my{\i0} power won't be bound by that skill!
+Dialogue: 0,0:18:46.41,0:18:48.18,Main Dialog,Spoken,0000,0000,0000,,Continue, Zuitan!
+Dialogue: 0,0:18:58.08,0:19:01.18,Main Dialog,Spoken,0000,0000,0000,,Draw. I give the power to Mobius.
+Dialogue: 0,0:19:06.90,0:19:08.41,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:19:17.00,0:19:19.76,Main Dialog,Spoken,0000,0000,0000,,Impressive, Toshiki Kai.
+Dialogue: 0,0:19:20.22,0:19:26.97,Main Dialog,Spoken,0000,0000,0000,,Even while undergoing baptism by "lock," \Nyou're able to calmly muster power.
+Dialogue: 0,0:19:45.38,0:19:46.38,Main Dialog,Spoken,0000,0000,0000,,Aichi.
+Dialogue: 0,0:19:48.26,0:19:51.26,Main Dialog,Spoken,0000,0000,0000,,Nasty weather... Looks \Nlike it could get rough.
+Dialogue: 0,0:19:51.26,0:19:53.08,Main Dialog,Spoken,0000,0000,0000,,I wonder if it's going to rain.
+Dialogue: 0,0:19:54.26,0:19:58.21,Main Dialog,Spoken,0000,0000,0000,,I just remembered... \Nthat pack you ordered came in.
+Dialogue: 0,0:19:58.21,0:20:00.70,Main Dialog,Spoken,0000,0000,0000,,Oh... thank you very much.
+Dialogue: 0,0:20:04.52,0:20:06.25,Main Dialog,Spoken,0000,0000,0000,,Link Joker...
+Dialogue: 0,0:20:07.05,0:20:11.25,Main Dialog,Spoken,0000,0000,0000,,It doesn't matter who you are. \NNo one can escape its shackles.
+Dialogue: 0,0:20:11.25,0:20:12.89,Main Dialog,Spoken,0000,0000,0000,,That includes...
+Dialogue: 0,0:20:13.36,0:20:17.22,Main Dialog,Spoken,0000,0000,0000,,...Toshiki Kai. That's right, you.
+Dialogue: 0,0:20:26.08,0:20:29.06,Main Dialog,Spoken,0000,0000,0000,,In the names of the accursed gods,
+Dialogue: 0,0:20:29.65,0:20:32.77,Main Dialog,Spoken,0000,0000,0000,,twine together the monstrous powers \Nat the end of the universe...
+Dialogue: 0,0:20:33.19,0:20:36.17,Main Dialog,Spoken,0000,0000,0000,,...and push open the door of destruction!
+Dialogue: 0,0:20:37.96,0:20:41.52,Main Dialog,Spoken,0000,0000,0000,,Break ride! Twilight Baron!
+Dialogue: 0,0:20:44.85,0:20:51.02,Main Dialog,Spoken,0000,0000,0000,,Beast of war from another world, \Nseal the power of all his soldiers!
+Dialogue: 0,0:20:51.68,0:20:53.70,Main Dialog,Spoken,0000,0000,0000,,Break ride skill!
+Dialogue: 0,0:20:56.90,0:21:01.21,Main Dialog,Spoken,0000,0000,0000,,I give +10000 power to Twilight Baron!
+Dialogue: 0,0:21:03.33,0:21:04.90,Main Dialog,Spoken,0000,0000,0000,,And...
+Dialogue: 0,0:21:06.16,0:21:07.53,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:21:10.20,0:21:12.41,Main Dialog,Spoken,0000,0000,0000,,The target is Hisen...
+Dialogue: 0,0:21:12.41,0:21:13.58,Main Dialog,Spoken,0000,0000,0000,,...and...
+Dialogue: 0,0:21:14.91,0:21:15.92,Main Dialog,Spoken,0000,0000,0000,,Zuitan!
+Dialogue: 0,0:21:17.32,0:21:18.63,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:21:31.26,0:21:34.53,Main Dialog,Spoken,0000,0000,0000,,Two units are locked?!
+Dialogue: 0,0:21:39.28,0:21:42.11,Main Dialog,Spoken,0000,0000,0000,,I'm just getting started.
+Dialogue: 0,0:21:42.53,0:21:50.16,Main Dialog,Spoken,0000,0000,0000,,From here on out, I'm going to subject you \Nto all of Link Joker's strength and terror!
+Dialogue: 0,0:23:56.29,0:23:57.64,Main Dialog,Spoken,0000,0000,0000,,Link Joker?!
+Dialogue: 0,0:23:57.64,0:24:01.16,Main Dialog,Spoken,0000,0000,0000,,Well, don't you think it's a charming clan?
+Dialogue: 0,0:24:01.16,0:24:02.67,Main Dialog,Spoken,0000,0000,0000,,Yeah. It is interesting.
+Dialogue: 0,0:24:03.01,0:24:05.66,Main Dialog,Spoken,0000,0000,0000,,But I beat any clans that face me!
+Dialogue: 0,0:24:05.66,0:24:08.96,Main Dialog,Spoken,0000,0000,0000,,Unparalleled strength, savage passion...
+Dialogue: 0,0:24:09.53,0:24:11.66,Main Dialog,Spoken,0000,0000,0000,,That's Toshiki Kai, all right.
+Dialogue: 0,0:24:11.66,0:24:14.33,Main Dialog,Spoken,0000,0000,0000,,Until just a little while ago, the \Nsky was clear, but all of a sudden...
+Dialogue: 0,0:24:14.33,0:24:15.68,Main Dialog,Spoken,0000,0000,0000,,Kai...
+Dialogue: 0,0:24:15.68,0:24:17.18,Main Dialog,Spoken,0000,0000,0000,,Next time: Reverse!
+Dialogue: 0,0:24:16.35,0:24:25.02,Signs,Sign,0000,0000,0000,,Reverse!
+Dialogue: 0,0:24:17.58,0:24:20.06,Main Dialog,Spoken,0000,0000,0000,,This vague sense of unease is spreading...
+Dialogue: 0,0:24:20.32,0:24:22.53,Main Dialog,Spoken,0000,0000,0000,,"Lock" is going to bind you.
+Dialogue: 0,0:24:22.53,0:24:24.06,Main Dialog,Spoken,0000,0000,0000,,Shut up with that nonsense!

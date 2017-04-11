@@ -1,0 +1,4805 @@
+1
+00:00:51,697 --> 00:00:54,564
+<b><i>Korea, 1950.</i></b>
+
+2
+00:00:54,733 --> 00:00:59,136
+<b><i>America fights in a war</i></b>
+<b><i>that leaves 2 million dead.</i></b>
+
+3
+00:01:07,379 --> 00:01:12,476
+<b><i>The fighting ends in a draw</i></b>
+<b><i>leaving Korea divided, North and South...</i></b>
+
+4
+00:01:12,651 --> 00:01:14,642
+<b><i>...and, technically, still at war.</i></b>
+
+5
+00:01:35,107 --> 00:01:38,133
+<b><i>The North becomes a surreal blend</i></b>
+<b><i>of Stalinism...</i></b>
+
+6
+00:01:38,310 --> 00:01:41,108
+<b><i>...Communism</i></b>
+<b><i>and cult-of-personality dictatorship...</i></b>
+
+7
+00:01:41,279 --> 00:01:45,807
+<b><i>...known to the world as the</i></b>
+<b><i>Democratic People's Republic of Korea...</i></b>
+
+8
+00:01:45,984 --> 00:01:47,918
+<b><i>...or the DPRK.</i></b>
+
+9
+00:01:53,525 --> 00:01:56,517
+<b><i>April 1994:</i></b>
+<b><i>The DPRK stuns the world...</i></b>
+
+10
+00:01:56,695 --> 00:02:01,029
+<b><i>...when it announces its withdrawal</i></b>
+<b><i>from the Non-Proliferation Treaty...</i></b>
+
+11
+00:02:01,199 --> 00:02:04,100
+<b><i>...and reveals its plan</i></b>
+<b><i>to build nuclear weapons.</i></b>
+
+12
+00:02:07,706 --> 00:02:09,503
+<b><i>May 1994:</i></b>
+
+13
+00:02:09,675 --> 00:02:12,838
+<b><i>Determined to prevent North Korea</i></b>
+<b><i>from becoming a nuclear power...</i></b>
+
+14
+00:02:13,011 --> 00:02:16,310
+<b><i>...President Bill Clinton orders</i></b>
+<b><i>Defense Secretary William Perry...</i></b>
+
+15
+00:02:16,481 --> 00:02:19,314
+<b><i>...to draw up military Op. Plan 5027...</i></b>
+
+16
+00:02:19,484 --> 00:02:24,114
+<b><i>...a U.S. surgical strike</i></b>
+<b><i>on the nuclear reactor at Yongbyon.</i></b>
+
+17
+00:02:24,289 --> 00:02:25,779
+<b><i>Many voice their concern...</i></b>
+
+18
+00:02:25,957 --> 00:02:29,791
+<b><i>...the DPRK might retaliate</i></b>
+<b><i>with their 11,000 artillery tubes...</i></b>
+
+19
+00:02:29,961 --> 00:02:32,327
+<b><i>...trained on Seoul, South Korea.</i></b>
+
+20
+00:02:32,497 --> 00:02:34,727
+<b><i>Just as the NSC is meeting...</i></b>
+
+21
+00:02:34,933 --> 00:02:38,232
+<b><i>...to discuss the evacuation</i></b>
+<b><i>of all non-military personnel in Seoul...</i></b>
+
+22
+00:02:38,437 --> 00:02:42,669
+<b><i>...there is a telephone call from</i></b>
+<b><i>former U.S. President Jimmy Carter.</i></b>
+
+23
+00:02:43,208 --> 00:02:46,905
+<b><i>As a private citizen, President Carter</i></b>
+<b><i>had flown to Pyongyang...</i></b>
+
+24
+00:02:47,079 --> 00:02:49,809
+<b><i>...met with North Korea's leader,</i></b>
+<b><i>Kim Il Sung...</i></b>
+
+25
+00:02:49,981 --> 00:02:53,348
+<b><i>...and struck a deal</i></b>
+<b><i>which averted military action.</i></b>
+
+26
+00:02:53,518 --> 00:02:55,816
+<b><i>Had Op. Plan 5027 been executed...</i></b>
+
+27
+00:02:55,987 --> 00:02:58,547
+<b><i>...the Pentagon had projected</i></b>
+<b><i>up to 1 million deaths.</i></b>
+
+28
+00:02:58,724 --> 00:03:02,592
+<b><i>Few people realize, in June 1994...</i></b>
+
+29
+00:03:02,828 --> 00:03:07,595
+<b><i>...America was days, if not hours,</i></b>
+<b><i>away from war with North Korea.</i></b>
+
+30
+00:03:53,411 --> 00:03:56,574
+<b>They're gonna crucify Weylon for this.</b>
+<b>How long until launch time?</b>
+
+31
+00:03:56,748 --> 00:03:59,546
+<b>-They're saying six days.</b>
+<b>-Good morning, sir.</b>
+
+32
+00:03:59,718 --> 00:04:02,448
+<b>All right, Weylon,</b>
+<b>tell me what you know.</b>
+
+33
+00:04:02,621 --> 00:04:05,590
+<b>Secretary of Defense Beekman</b>
+<b>is in Qatar for the week...</b>
+
+34
+00:04:05,757 --> 00:04:08,282
+<b>...unless you direct him home sooner.</b>
+<b>General Vance...</b>
+
+35
+00:04:08,460 --> 00:04:11,952
+<b>...as Chairman of the Joint Chiefs,</b>
+<b>will discuss the military viewpoint.</b>
+
+36
+00:04:12,130 --> 00:04:13,461
+<b>-Mr. President.</b>
+<b>-General.</b>
+
+37
+00:04:13,632 --> 00:04:16,260
+<b>Sir, approximately six hours ago...</b>
+
+38
+00:04:17,936 --> 00:04:21,167
+<b>...the Satellite Reconnaissance Center</b>
+<b>analyzed imaging data from--</b>
+
+39
+00:04:21,339 --> 00:04:25,070
+<b>-Mr. President....</b>
+<b>-l'm sorry, guys. Be seated.</b>
+
+40
+00:04:25,243 --> 00:04:28,679
+<b>--imaging data from a KH-12</b>
+<b>over North Korea...</b>
+
+41
+00:04:28,847 --> 00:04:31,441
+<b>...showing what we can now say</b>
+<b>with certainty...</b>
+
+42
+00:04:31,616 --> 00:04:35,313
+<b>...is a three-stage, Topol-class,</b>
+<b>intercontinental ballistic missile...</b>
+
+43
+00:04:35,487 --> 00:04:37,580
+<b>...at the Yongjiri Missile Center--</b>
+
+44
+00:04:37,756 --> 00:04:39,348
+<b>We're fortunate to acquire images...</b>
+
+45
+00:04:39,558 --> 00:04:42,152
+<b>...as the crane was loading the missile</b>
+<b>into its silo.</b>
+
+46
+00:04:42,327 --> 00:04:45,091
+<b>lf it was half an hour later,</b>
+<b>we never would have seen it.</b>
+
+47
+00:04:45,263 --> 00:04:47,823
+<b>The longest-range missile</b>
+<b>North Korea had prior to this...</b>
+
+48
+00:04:47,999 --> 00:04:50,126
+<b>...would've run out of fuel</b>
+<b>over Alaska.</b>
+
+49
+00:04:50,302 --> 00:04:53,760
+<b>Three stages means it can hit New York,</b>
+<b>Washington, D.C., anywhere in U.S.</b>
+
+50
+00:04:55,440 --> 00:04:59,206
+<b>-What do we know about its payload?</b>
+<b>-From images, it's impossible to say.</b>
+
+51
+00:04:59,377 --> 00:05:01,470
+<b>Could it be a warhead</b>
+<b>or a nuclear device?</b>
+
+52
+00:05:01,646 --> 00:05:04,581
+<b>-We can't say.</b>
+<b>-lt's not likely, Mr. President.</b>
+
+53
+00:05:06,284 --> 00:05:10,311
+<b>KH-12 has a rotating periscope mirror.</b>
+<b>lt can get a real high angle of obliquity.</b>
+
+54
+00:05:10,488 --> 00:05:13,616
+<b>We're gonna get a better angle,</b>
+<b>to help us determine the load.</b>
+
+55
+00:05:13,792 --> 00:05:17,558
+<b>We've always assumed that North Korea</b>
+<b>would never deploy a missile like this...</b>
+
+56
+00:05:17,729 --> 00:05:21,529
+<b>...because of our certain</b>
+<b>and inevitable military response.</b>
+
+57
+00:05:23,201 --> 00:05:27,035
+<b>Even test-firing a three-stage rocket</b>
+<b>is a 10-year leap in their capabilities...</b>
+
+58
+00:05:27,205 --> 00:05:31,039
+<b>...and it represents a direct</b>
+<b>and grave threat to our national security.</b>
+
+59
+00:05:31,209 --> 00:05:32,870
+<b>We won't let that happen.</b>
+
+60
+00:05:50,328 --> 00:05:53,559
+<b>Let's try to keep things</b>
+<b>under control tonight, okay?</b>
+
+61
+00:05:54,566 --> 00:05:55,897
+<b>Let's try.</b>
+
+62
+00:06:00,238 --> 00:06:03,730
+<b>-Shultiess, how you doing?</b>
+<b>-Good, sir.</b>
+
+63
+00:06:08,947 --> 00:06:11,745
+<b>Chief asked me to tell him</b>
+<b>when this man's off the phone.</b>
+
+64
+00:06:11,917 --> 00:06:14,750
+<b>Where'd you find the banana?</b>
+<b>Looks like he's 12.</b>
+
+65
+00:06:14,920 --> 00:06:17,445
+<b>Well, he speaks some Korean</b>
+<b>and he's a hell of a shot.</b>
+
+66
+00:06:17,656 --> 00:06:21,092
+<b>l need like 200500-won coins</b>
+<b>just to call Boston?</b>
+
+67
+00:06:23,194 --> 00:06:26,789
+<b>LT, did you get the score of the 49ers</b>
+<b>game? What was that, like, 36-27?</b>
+
+68
+00:06:26,965 --> 00:06:29,900
+<b>-Field temperature was, like, 97.</b>
+<b>-You happy? You guys suck.</b>
+
+69
+00:06:30,068 --> 00:06:31,797
+<b>Meideros, what's going on?</b>
+
+70
+00:06:31,970 --> 00:06:34,734
+<b>l got two 8000-pound,</b>
+<b>laser-guided chopsticks...</b>
+
+71
+00:06:36,408 --> 00:06:39,241
+<b>...suspended from an extended-range</b>
+<b>CH-53 chopper, and l'm--</b>
+
+72
+00:06:39,411 --> 00:06:42,505
+<b>You're vulnerable to RPGs</b>
+<b>coming from those soy sauce bottles.</b>
+
+73
+00:06:42,681 --> 00:06:44,979
+<b>Bound to be fire</b>
+<b>from the fish flakes holder.</b>
+
+74
+00:06:45,183 --> 00:06:47,811
+<b>l bet you there's a sniper</b>
+<b>hiding in that bowl of <i>jigae.</i></b>
+
+75
+00:06:47,986 --> 00:06:50,216
+<b>-Gotta think.</b>
+<b>-That's why l roll with you, man.</b>
+
+76
+00:06:50,388 --> 00:06:53,118
+<b>-Master chief.</b>
+<b>-Keep your eye on these.</b>
+
+77
+00:06:53,291 --> 00:06:56,454
+<b>-Baby, is that you?</b>
+<b>-Fifty bucks says he starts bawling.</b>
+
+78
+00:06:56,628 --> 00:06:58,619
+<b>-l love you so much, baby.</b>
+<b>-This is comedy.</b>
+
+79
+00:06:58,797 --> 00:07:00,321
+<b>-Here it comes.</b>
+<b>-l miss you.</b>
+
+80
+00:07:00,498 --> 00:07:04,958
+<b>Just tell me what's going on.</b>
+<b>Are you okay? Yeah. Yeah.</b>
+
+81
+00:07:05,136 --> 00:07:07,604
+<b>-Wait, wait, here it comes.</b>
+<b>-Wait for it.</b>
+
+82
+00:07:07,772 --> 00:07:10,605
+<b>-A girl?</b>
+<b>-This is sad, man.</b>
+
+83
+00:07:10,775 --> 00:07:13,335
+<b>-Can't look.</b>
+<b>-l got a baby girl?</b>
+
+84
+00:07:13,511 --> 00:07:15,741
+<b>Waterworks. What's up with that?</b>
+
+85
+00:07:18,149 --> 00:07:21,243
+<b>Hello? Amy? Hello? This goddamn--</b>
+
+86
+00:07:21,419 --> 00:07:23,751
+<b>-lt's a girl?</b>
+<b>-lt's a girl, dude.</b>
+
+87
+00:07:23,922 --> 00:07:27,358
+<b>-Yeah. Congratulations, man.</b>
+<b>-l got a baby girl, man.</b>
+
+88
+00:07:28,526 --> 00:07:32,360
+<b>l already talked to Amy about it.</b>
+<b>We're gonna name her Bobbi.</b>
+
+89
+00:07:32,530 --> 00:07:34,623
+<b>That's real nice, Spaz.</b>
+
+90
+00:07:34,799 --> 00:07:37,324
+<b>-l got a baby girl, man.</b>
+<b>-You got a baby girl.</b>
+
+91
+00:07:37,502 --> 00:07:39,936
+<b>l got a baby girl, gentlemen.</b>
+
+92
+00:07:51,316 --> 00:07:53,443
+<b>What's on offer, general?</b>
+
+93
+00:07:53,618 --> 00:07:55,643
+<b>Sir, we propose</b>
+<b>Operation Sheet Lightning:</b>
+
+94
+00:07:55,820 --> 00:07:59,483
+<b>A surgical strike on the missile site.</b>
+<b>Multiple cruise missile launches...</b>
+
+95
+00:07:59,657 --> 00:08:04,356
+<b>...concurrent with sorties from seven</b>
+<b>B-2 stealth Spirits and five F-117 As.</b>
+
+96
+00:08:04,529 --> 00:08:05,860
+<b>Ellie?</b>
+
+97
+00:08:06,031 --> 00:08:09,330
+<b>lf it was any other sovereign nation, sir,</b>
+<b>l'd urge negotiations...</b>
+
+98
+00:08:09,501 --> 00:08:13,995
+<b>...but DPRK, there is just no viable</b>
+<b>diplomatic option.</b>
+
+99
+00:08:14,172 --> 00:08:16,470
+<b>And if they do test that missile...</b>
+
+100
+00:08:16,641 --> 00:08:20,270
+<b>...it devastates our footing</b>
+<b>in the multilateral talks.</b>
+
+101
+00:08:20,445 --> 00:08:24,006
+<b>Yeah. Have the warning orders</b>
+<b>been given, general?</b>
+
+102
+00:08:24,182 --> 00:08:29,142
+<b>-Yes, sir.</b>
+<b>-Okay, so we take out the missile site.</b>
+
+103
+00:08:29,320 --> 00:08:31,311
+<b>What's Pyongyang gonna do?</b>
+
+104
+00:08:31,489 --> 00:08:35,016
+<b>Well, sir, l think Kim's people</b>
+<b>can be persuaded to stand down.</b>
+
+105
+00:08:35,193 --> 00:08:38,321
+<b>l think the general overestimates</b>
+<b>my skills of diplomacy, sir.</b>
+
+106
+00:08:40,365 --> 00:08:42,390
+<b>What are they gonna do, Weylon?</b>
+
+107
+00:08:42,567 --> 00:08:45,764
+<b>Either a cantankerous, political,</b>
+<b>diplomatic protest...</b>
+
+108
+00:08:45,937 --> 00:08:49,373
+<b>...or some sort of military response,</b>
+<b>not much in between.</b>
+
+109
+00:08:49,541 --> 00:08:51,532
+<b><i>Sir?</i></b>
+
+110
+00:08:51,709 --> 00:08:53,404
+<b>Sir, that is Commander Tim Mackey...</b>
+
+111
+00:08:53,578 --> 00:08:56,103
+<b>...commander U.S. Naval base,</b>
+<b>Jinhae, South Korea.</b>
+
+112
+00:08:56,314 --> 00:08:59,681
+<b><i>Mr. President, if we attack</i></b>
+<b><i>that missile site...</i></b>
+
+113
+00:08:59,851 --> 00:09:02,615
+<b><i>...the DPRK will most surely</i></b>
+<b><i>counterattack at Seoul...</i></b>
+
+114
+00:09:02,821 --> 00:09:05,346
+<b><i>...using their 11,000 artillery tubes.</i></b>
+
+115
+00:09:05,523 --> 00:09:08,356
+<b>That's possible,</b>
+<b>or a more proportional response...</b>
+
+116
+00:09:08,526 --> 00:09:12,428
+<b>...would be Scud missile attack</b>
+<b>against the research center at Taejon.</b>
+
+117
+00:09:12,597 --> 00:09:15,122
+<b>The South Koreans respond</b>
+<b>with a strike at the DMZ--</b>
+
+118
+00:09:15,333 --> 00:09:17,028
+<b>Or the Pyongyang nuclear facility.</b>
+
+119
+00:09:17,202 --> 00:09:20,262
+<b>And the North Koreans respond</b>
+<b>with their artillery.</b>
+
+120
+00:09:20,438 --> 00:09:23,430
+<b>We bomb them,</b>
+<b>they bomb their neighbors.</b>
+
+121
+00:09:23,608 --> 00:09:26,372
+<b>We have a contingency, sir,</b>
+<b>should the North attempt that:</b>
+
+122
+00:09:26,544 --> 00:09:27,841
+<b>Operation Swift Rage.</b>
+
+123
+00:09:28,012 --> 00:09:31,106
+<b>We can neutralize 90 percent</b>
+<b>of North Korea's response capabilities...</b>
+
+124
+00:09:31,282 --> 00:09:34,479
+<b>-...in the first 24 hours of hostilities.</b>
+<b>-And we'd be at war.</b>
+
+125
+00:09:34,652 --> 00:09:38,281
+<b>Sir, l believe we've been at war</b>
+<b>for at least six hours now.</b>
+
+126
+00:09:53,638 --> 00:09:55,629
+<b><i>Mr. President, if I may?</i></b>
+
+127
+00:09:55,807 --> 00:09:59,800
+<b>-Negative, commander.</b>
+<b>-Go on, commander.</b>
+
+128
+00:09:59,978 --> 00:10:01,309
+<b><i>Mr. President...</i></b>
+
+129
+00:10:01,479 --> 00:10:05,506
+<b><i>...in 1997, North Korea opened</i></b>
+<b><i>its airspace to commercial airliners.</i></b>
+
+130
+00:10:05,683 --> 00:10:09,619
+<b><i>A platoon from SEALs Team</i> <i>1
+<b><i>could board a commercial airline's flight...</i></b>
+
+131
+00:10:09,787 --> 00:10:11,118
+<b><i>...deploy over North Korea--</i></b>
+
+132
+00:10:11,289 --> 00:10:14,747
+<b>You don't think the North Koreans</b>
+<b>would pick up a commercial airliner...</b>
+
+133
+00:10:14,926 --> 00:10:17,417
+<b>...leaving from a U.S. military base</b>
+<b>in South Korea?</b>
+
+134
+00:10:17,595 --> 00:10:19,460
+<b>Sir, we would just</b>
+<b>dress the SEALs up...</b>
+
+135
+00:10:21,132 --> 00:10:25,000
+<b>...walk them through lncheon, put them</b>
+<b>on a commercial airliner and take off.</b>
+
+136
+00:10:25,170 --> 00:10:28,833
+<b>Mixed right in with civilian traffic.</b>
+<b>Completely undetectable.</b>
+
+137
+00:10:29,007 --> 00:10:30,668
+<b><i>We would deploy over North Korea...</i></b>
+
+138
+00:10:30,842 --> 00:10:34,278
+<b><i>...glide the 60 miles</i></b>
+<b><i>to the Yongjiri missile site...</i></b>
+
+139
+00:10:34,445 --> 00:10:37,209
+<b><i>...and sabotage the missile</i></b>
+<b><i>as it's being fueled.</i></b>
+
+140
+00:10:37,415 --> 00:10:40,441
+<b><i>Secondary explosions should destroy</i></b>
+<b><i>the entire complex.</i></b>
+
+141
+00:10:40,618 --> 00:10:43,382
+<b>Whole thing will be perceived</b>
+<b>as an industrial accident.</b>
+
+142
+00:10:43,555 --> 00:10:46,115
+<b>North Korea would have no grounds</b>
+<b>to retaliate, sir.</b>
+
+143
+00:10:46,291 --> 00:10:50,352
+<b>And if it turned out to be a nuclear</b>
+<b>warhead, what about the radiation?</b>
+
+144
+00:10:50,528 --> 00:10:53,224
+<b>The blast from the fuel explosions</b>
+<b>would be massive, sir.</b>
+
+145
+00:10:53,431 --> 00:10:55,524
+<b>Even though it wouldn't be</b>
+<b>an atomic blast...</b>
+
+146
+00:10:55,700 --> 00:10:58,294
+<b>...it would probably create</b>
+<b>its own mushroom cloud.</b>
+
+147
+00:10:58,469 --> 00:11:01,370
+<b>The heat from the blast would</b>
+<b>incinerate nuclear materials...</b>
+
+148
+00:11:01,539 --> 00:11:03,473
+<b>...alleviating any radiation concerns.</b>
+
+149
+00:11:03,641 --> 00:11:05,734
+<b>Sir, l don't recommend this.</b>
+
+150
+00:11:05,944 --> 00:11:10,313
+<b>lf they're detected, it's an act of war,</b>
+<b>and we lose the element of surprise.</b>
+
+151
+00:11:10,481 --> 00:11:13,848
+<b>What's the window of opportunity</b>
+<b>to explore a special-ops plan?</b>
+
+152
+00:11:14,018 --> 00:11:18,182
+<b>-l'd say 72 hours, but l wouldn't--</b>
+<b>-Seventy-two hours.</b>
+
+153
+00:11:18,356 --> 00:11:22,224
+<b>Sir, a covert action? l--</b>
+
+154
+00:11:22,894 --> 00:11:26,591
+<b>We need to send a strong and visible</b>
+<b>response to the North Koreans...</b>
+
+155
+00:11:26,764 --> 00:11:29,927
+<b>...to the world, to put them on notice</b>
+<b>that that dog don't hunt.</b>
+
+156
+00:11:30,101 --> 00:11:32,228
+<b>We will never allow them</b>
+<b>to be an lCBM power.</b>
+
+157
+00:11:33,104 --> 00:11:36,005
+<b>Commander Mackey,</b>
+<b>could you be ready in 72 hours?</b>
+
+158
+00:11:36,174 --> 00:11:39,610
+<b><i>-Yes, sir, I believe we could be ready.</i></b>
+<b>-Admiral?</b>
+
+159
+00:11:40,211 --> 00:11:42,941
+<b>lt's not much time to put a mission</b>
+<b>together, sir, but....</b>
+
+160
+00:11:43,114 --> 00:11:47,847
+<b>l understand. Gentlemen, keep up</b>
+<b>with your preparations.</b>
+
+161
+00:11:48,019 --> 00:11:50,453
+<b>l'll give you a decision</b>
+<b>within six hours.</b>
+
+162
+00:11:50,622 --> 00:11:52,783
+<b><i>Yes, sir. We'll give it</i></b>
+<b><i>everything we've got.</i></b>
+
+163
+00:11:52,991 --> 00:11:55,084
+<b>Thank you, Mr. President.</b>
+
+164
+00:11:55,260 --> 00:11:58,855
+<b>We'll give it everything we've got.</b>
+<b>Tell me l didn't just say that.</b>
+
+165
+00:11:59,030 --> 00:12:02,397
+<b>What are you looking at?</b>
+<b>Get Lieutenant James in here.</b>
+
+166
+00:12:02,567 --> 00:12:04,558
+<b>Yes, sir.</b>
+
+167
+00:12:07,438 --> 00:12:11,772
+<b>Mr. President, Kim Jong ll is 5-foot-2.</b>
+
+168
+00:12:11,943 --> 00:12:14,434
+<b>-He wears four-inch lifts.</b>
+<b>-Sexy.</b>
+
+169
+00:12:14,612 --> 00:12:17,877
+<b>He lives in a palace where he indulges</b>
+<b>his penchant for prostitutes.</b>
+
+170
+00:12:18,049 --> 00:12:22,952
+<b>This missile is pompous grandstanding</b>
+<b>by a very small man.</b>
+
+171
+00:12:23,121 --> 00:12:26,113
+<b>Sir, in 1996, the Korea lnstitute</b>
+<b>for National Reunification...</b>
+
+172
+00:12:26,291 --> 00:12:29,988
+<b>...applied a computer model that</b>
+<b>predicted Eastern Europe's collapse.</b>
+
+173
+00:12:30,161 --> 00:12:31,492
+<b>Yeah?</b>
+
+174
+00:12:31,663 --> 00:12:36,100
+<b>According to the model, North Korea</b>
+<b>should have collapsed in 1992.</b>
+
+175
+00:12:36,267 --> 00:12:39,395
+<b>l say we give this job to Special Ops,</b>
+<b>make this all go away...</b>
+
+176
+00:12:39,570 --> 00:12:43,301
+<b>...and let North Korea collapse</b>
+<b>when it collapses.</b>
+
+177
+00:12:44,042 --> 00:12:45,339
+<b>Cam?</b>
+
+178
+00:12:46,911 --> 00:12:48,242
+<b>Yeah.</b>
+
+179
+00:12:49,981 --> 00:12:54,145
+<b>Okay. Tell Mackey his mission is a go.</b>
+
+180
+00:12:55,086 --> 00:12:58,453
+<b>But keep General Vance</b>
+<b>and his stealth bombers on standby...</b>
+
+181
+00:12:58,623 --> 00:13:01,057
+<b>...should the SEALs fail.</b>
+
+182
+00:13:17,709 --> 00:13:19,040
+<b>-Lieutenant.</b>
+<b>-Colonel.</b>
+
+183
+00:13:19,210 --> 00:13:22,475
+<b>-Thanks for the lift, sir.</b>
+<b>-They gave us a nice plane for this one.</b>
+
+184
+00:13:22,647 --> 00:13:24,808
+<b>-l can see that.</b>
+<b>-Do we gain miles for this?</b>
+
+185
+00:13:24,982 --> 00:13:29,009
+<b>-No, but l did order you the kosher meal.</b>
+<b>-LTC.</b>
+
+186
+00:13:32,290 --> 00:13:34,815
+<b>Let me know when you get settled in,</b>
+<b>we'll be on our way.</b>
+
+187
+00:13:34,992 --> 00:13:36,789
+<b>Appreciate the hell out of that, sir.</b>
+
+188
+00:13:36,961 --> 00:13:40,158
+<b>-Lieutenant James.</b>
+<b>-Shultiess.</b>
+
+189
+00:13:40,331 --> 00:13:43,061
+<b>-How you feeling today, Papa?</b>
+<b>-l feel immortal.</b>
+
+190
+00:13:43,234 --> 00:13:44,724
+<b>-l'm the Stoke.</b>
+<b>-Stoke?</b>
+
+191
+00:13:44,902 --> 00:13:48,360
+<b>-lt's just my new call sign.</b>
+<b>-l wasn't aware you had an old one.</b>
+
+192
+00:13:48,539 --> 00:13:52,134
+<b>Well, my old one was for mortals,</b>
+<b>and l am immortal.</b>
+
+193
+00:13:52,310 --> 00:13:55,302
+<b>-l'm the Stoke.</b>
+<b>-Whatever.</b>
+
+194
+00:13:58,649 --> 00:14:02,551
+<b>Good evening, gentlemen, and welcome</b>
+<b>to United States Air Force Flight 738...</b>
+
+195
+00:14:02,720 --> 00:14:05,382
+<b>...with nonstop service to the skies</b>
+<b>over North Korea...</b>
+
+196
+00:14:05,556 --> 00:14:09,083
+<b>...where we will be jumping from</b>
+<b>an altitude of approximately 33,000 feet.</b>
+
+197
+00:14:09,260 --> 00:14:13,390
+<b>Meideros, in the hatch. Barnes,</b>
+<b>Mazetti, Shultiess, Ballantine.</b>
+
+198
+00:14:23,641 --> 00:14:25,336
+<b>AK-47s.</b>
+
+199
+00:14:32,283 --> 00:14:33,443
+<b>Hey, not a scratch, guys.</b>
+
+200
+00:14:33,651 --> 00:14:37,280
+<b>Airline wants this plane back in the</b>
+<b>same condition they gave it to us in.</b>
+
+201
+00:14:37,455 --> 00:14:40,253
+<b>-You got it, Diawi.</b>
+<b>-Diawi? Why do you guys call him that?</b>
+
+202
+00:14:40,425 --> 00:14:43,883
+<b>l don't call him that, but l've known him</b>
+<b>since like the second grade.</b>
+
+203
+00:14:44,061 --> 00:14:46,689
+<b>-Oh, hey, hey, what did he just say?</b>
+<b>-Sorry. l'm sorry.</b>
+
+204
+00:14:46,864 --> 00:14:51,733
+<b>lt's okay, kid. Hey, you scared?</b>
+<b>Don't lie to me.</b>
+
+205
+00:14:53,271 --> 00:14:55,296
+<b>l don't know. Maybe a little.</b>
+
+206
+00:14:55,473 --> 00:14:58,442
+<b>Damn straight, you're scared.</b>
+<b>Who wouldn't be?</b>
+
+207
+00:14:58,609 --> 00:14:59,974
+<b>-Yeah.</b>
+<b>-Yeah.</b>
+
+208
+00:15:00,178 --> 00:15:03,773
+<b>-Okay.</b>
+<b>-Stick with me, kid. l'm immortal.</b>
+
+209
+00:15:03,948 --> 00:15:06,178
+<b>Go. Go.</b>
+
+210
+00:15:08,319 --> 00:15:13,586
+<b>Yeah, PVC-77 Satcom.</b>
+<b>That's you, schoolboy.</b>
+
+211
+00:15:14,592 --> 00:15:17,060
+<b>-Give it to Ballantine.</b>
+<b>-l got it.</b>
+
+212
+00:15:17,995 --> 00:15:20,486
+<b>Okay, gentlemen, time to give up</b>
+<b>the personal shit.</b>
+
+213
+00:15:20,698 --> 00:15:23,565
+<b>-Yes.</b>
+<b>-Throw in the jewels. Let's go, boys.</b>
+
+214
+00:15:32,443 --> 00:15:34,070
+<b>l want these back.</b>
+
+215
+00:15:34,946 --> 00:15:36,937
+<b><i>What are those, son?</i></b>
+
+216
+00:15:41,352 --> 00:15:43,786
+<b>l said what are those, ensign?</b>
+
+217
+00:15:44,455 --> 00:15:46,685
+<b>-Silver wings, master chief--</b>
+<b>-Bullshit!</b>
+
+218
+00:15:46,858 --> 00:15:51,158
+<b>Army lead wings, son.</b>
+<b>You get them inside Cracker Jacks.</b>
+
+219
+00:15:51,329 --> 00:15:54,025
+<b>-Where'd you get them, son?</b>
+<b>-Fort Benning, master chief.</b>
+
+220
+00:15:54,232 --> 00:15:56,598
+<b>Fort Benning, Georgia.</b>
+
+221
+00:15:56,767 --> 00:16:00,203
+<b>The Army's version of 48 hours</b>
+<b>of intensive training...</b>
+
+222
+00:16:00,371 --> 00:16:02,532
+<b>...crammed into 21 days.</b>
+
+223
+00:16:02,740 --> 00:16:07,006
+<b>Making pussy-ass static-line jumps</b>
+<b>out of an Army C-141...</b>
+
+224
+00:16:07,178 --> 00:16:10,170
+<b>...and landing on firm ground.</b>
+
+225
+00:16:10,348 --> 00:16:14,808
+<b>My 1 -year-old Scott Jr.</b>
+<b>can do that. You see these?</b>
+
+226
+00:16:14,986 --> 00:16:19,821
+<b>-Yes, master chief.</b>
+<b>-Navy gold wings, son.</b>
+
+227
+00:16:20,024 --> 00:16:23,790
+<b>Get those out of my sight. l will</b>
+<b>teach you to drop like a Navy SEAL...</b>
+
+228
+00:16:23,961 --> 00:16:27,829
+<b>...from heights where there's no air into</b>
+<b>water so cold you'll wish you was dead.</b>
+
+229
+00:16:27,999 --> 00:16:30,331
+<b>You will drop at night with NVGs...</b>
+
+230
+00:16:30,501 --> 00:16:32,833
+<b>...fall five minutes</b>
+<b>before you pull your cord.</b>
+
+231
+00:16:33,004 --> 00:16:35,529
+<b>And if you manage to stay alive</b>
+<b>through all that...</b>
+
+232
+00:16:36,474 --> 00:16:40,376
+<b>...we'll see about getting you</b>
+<b>a pair of these. ls that clear?</b>
+
+233
+00:16:40,545 --> 00:16:42,672
+<b>Master chief.</b>
+
+234
+00:16:49,287 --> 00:16:51,517
+<b>l don't know why you always</b>
+<b>bring these, sir.</b>
+
+235
+00:16:53,824 --> 00:16:57,851
+<b>-You just make sure l get them back.</b>
+<b>-Yes, sir.</b>
+
+236
+00:16:58,829 --> 00:17:01,525
+<b>-Check your O-ring.</b>
+<b>-Give me one of those too.</b>
+
+237
+00:17:04,068 --> 00:17:08,562
+<b>-How are you doing there, Shultiess?</b>
+<b>-Good, sir.</b>
+
+238
+00:17:08,739 --> 00:17:12,835
+<b>Sir, it says here that the Koreans</b>
+<b>believe in shaman.</b>
+
+239
+00:17:13,010 --> 00:17:16,912
+<b>Sometimes he appears as an old man,</b>
+<b>a tiger, sometimes as a leopard.</b>
+
+240
+00:17:17,081 --> 00:17:19,879
+<b>-Everything's gonna be all right.</b>
+<b>-Yeah.</b>
+
+241
+00:17:21,352 --> 00:17:23,047
+<b>lt's just....</b>
+
+242
+00:17:24,221 --> 00:17:27,588
+<b>l was glad to read about those shamans,</b>
+<b>you know?</b>
+
+243
+00:17:27,758 --> 00:17:30,852
+<b>l don't wanna die in a godless land, sir,</b>
+<b>that's all.</b>
+
+244
+00:17:32,830 --> 00:17:37,699
+<b>Hey, nobody's dying from my stick,</b>
+<b>you copy that, sailor?</b>
+
+245
+00:17:38,903 --> 00:17:40,871
+<b>Yes, sir.</b>
+
+246
+00:17:41,472 --> 00:17:42,837
+<b>Makes me look bad.</b>
+
+247
+00:17:49,480 --> 00:17:52,108
+<b>-Pressurize in six.</b>
+<b>-Pressurize in six.</b>
+
+248
+00:17:52,283 --> 00:17:54,581
+<b>Six minutes. Six. Six to go.</b>
+
+249
+00:17:55,586 --> 00:17:57,611
+<b>-Let's run this down again.</b>
+<b>-On deck.</b>
+
+250
+00:17:57,788 --> 00:17:59,585
+<b>-Six minutes.</b>
+<b>-Okay.</b>
+
+251
+00:18:02,960 --> 00:18:05,428
+<b>-Sir, we're ready for the bounce.</b>
+<b>-Okay.</b>
+
+252
+00:18:05,596 --> 00:18:07,587
+<b>Two minutes.</b>
+
+253
+00:18:10,568 --> 00:18:13,332
+<b>-All right, listen up.</b>
+<b>-What is your problem?</b>
+
+254
+00:18:13,504 --> 00:18:16,132
+<b>l'm throwing up.</b>
+<b>l hate jumping out of airplanes.</b>
+
+255
+00:18:16,307 --> 00:18:17,672
+<b>-Swallow it.</b>
+<b>-l am.</b>
+
+256
+00:18:17,875 --> 00:18:21,675
+<b>--designed this aircraft to carry pussy-ass</b>
+<b>businessmen from Omaha to St. Louis.</b>
+
+257
+00:18:21,879 --> 00:18:24,313
+<b>They see you chucking,</b>
+<b>they're gonna red-tag you.</b>
+
+258
+00:18:24,482 --> 00:18:27,451
+<b>--we may find it useful to jump out of</b>
+<b>a piece of shit like this.</b>
+
+259
+00:18:27,618 --> 00:18:31,076
+<b>l don't get why you go SEALs</b>
+<b>when you hate jumping out of airplanes.</b>
+
+260
+00:18:31,255 --> 00:18:36,420
+<b>-l like swimming. l'm a good swimmer.</b>
+<b>-Depressurize.</b>
+
+261
+00:18:42,700 --> 00:18:45,430
+<b>Now, obviously,</b>
+<b>the pencil-dicks in Seattle...</b>
+
+262
+00:18:47,271 --> 00:18:50,968
+<b>...didn't design this ramp to be deployed</b>
+<b>under these conditions.</b>
+
+263
+00:18:51,142 --> 00:18:54,600
+<b>The system's hydraulics can't compete</b>
+<b>with the overwhelming force...</b>
+
+264
+00:18:54,779 --> 00:18:56,838
+<b>...of the air streams</b>
+<b>under the fuselage...</b>
+
+265
+00:18:57,014 --> 00:18:59,448
+<b>...preventing the stairs</b>
+<b>from locking into place.</b>
+
+266
+00:18:59,617 --> 00:19:04,054
+<b>Fortunately, the U.S. Navy</b>
+<b>has devised the bounce.</b>
+
+267
+00:19:04,221 --> 00:19:08,180
+<b>Now, personally,</b>
+<b>l've seen men injured...</b>
+
+268
+00:19:08,359 --> 00:19:12,728
+<b>...maimed and even killed</b>
+<b>attempting to do this.</b>
+
+269
+00:19:12,930 --> 00:19:16,229
+<b>So l suggest you pay close att--</b>
+
+270
+00:19:22,506 --> 00:19:25,634
+<b>Like l said.</b>
+
+271
+00:19:27,078 --> 00:19:29,638
+<b>Anyone laughs, they're fucking dead.</b>
+
+272
+00:19:37,488 --> 00:19:42,721
+<b>Shultiess, you're jumping first.</b>
+<b>Trust me, it's better that way.</b>
+
+273
+00:19:43,961 --> 00:19:47,488
+<b>The High Altitude-High Opening drop,</b>
+<b>the HAHO.</b>
+
+274
+00:19:47,665 --> 00:19:51,157
+<b>The single most effective</b>
+<b>aerial infiltration available...</b>
+
+275
+00:19:51,335 --> 00:19:53,064
+<b>...to the Special Warfare Operator.</b>
+
+276
+00:19:53,237 --> 00:19:56,365
+<b>Ensign James, if l hear one snort,</b>
+<b>one snicker...</b>
+
+277
+00:19:56,540 --> 00:19:58,531
+<b>...one chuckle out of you</b>
+<b>or Callaghan...</b>
+
+278
+00:19:58,709 --> 00:20:01,735
+<b>...l will personally give you both</b>
+<b>one of these, l shit you not.</b>
+
+279
+00:20:01,912 --> 00:20:04,437
+<b>-Understood?</b>
+<b>-Master chief.</b>
+
+280
+00:20:04,615 --> 00:20:07,914
+<b>The MT1 X, the crown jewel,</b>
+<b>the crown jewel...</b>
+
+281
+00:20:08,085 --> 00:20:11,054
+<b>...the crown jewel</b>
+<b>of Naval parachutes.</b>
+
+282
+00:20:11,222 --> 00:20:15,955
+<b>lt can put a Spec War Operator</b>
+<b>anywhere on this earth at any time...</b>
+
+283
+00:20:16,127 --> 00:20:20,120
+<b>...provided, that is,</b>
+<b>you survive the jump.</b>
+
+284
+00:20:21,599 --> 00:20:24,625
+<b>-All right, Barnes, open her up.</b>
+<b>-Oxygen.</b>
+
+285
+00:20:28,239 --> 00:20:31,766
+<b>Although the missile's already been</b>
+<b>lowered into its underground casing...</b>
+
+286
+00:20:31,942 --> 00:20:36,538
+<b>...we were able to use thermal imaging</b>
+<b>to acquire these new target folders.</b>
+
+287
+00:20:36,714 --> 00:20:39,308
+<b>From this lower perigee...</b>
+
+288
+00:20:39,517 --> 00:20:43,544
+<b>...these images clearly show</b>
+<b>a diamond-shaped missile tip.</b>
+
+289
+00:20:43,721 --> 00:20:45,586
+<b>lndicative of</b>
+<b>a nuclear-tipped warhead.</b>
+
+290
+00:20:45,756 --> 00:20:48,247
+<b>Mr. President, we can now say</b>
+<b>with high confidence...</b>
+
+291
+00:20:48,425 --> 00:20:51,451
+<b>...that this missile was designed</b>
+<b>to deliver a nuclear device.</b>
+
+292
+00:20:51,629 --> 00:20:53,460
+<b>Well, how do we know</b>
+<b>it's carrying one?</b>
+
+293
+00:20:53,631 --> 00:20:55,622
+<b>How do we know it's not</b>
+<b>a dummy warhead...</b>
+
+294
+00:20:55,800 --> 00:20:57,597
+<b>...that looks like a nuclear warhead?</b>
+
+295
+00:20:57,768 --> 00:21:01,431
+<b>Well, sir, when plutonium is reprocessed</b>
+<b>to make a nuclear bomb material...</b>
+
+296
+00:21:01,605 --> 00:21:04,631
+<b>...it emits a radioactive gas,</b>
+<b>krypton-85.</b>
+
+297
+00:21:04,809 --> 00:21:09,644
+<b>Our Lacrosse synthetic aperture radar</b>
+<b>detected this gas from Yongjiri...</b>
+
+298
+00:21:09,814 --> 00:21:11,941
+<b>...at levels consistent</b>
+<b>with the existence...</b>
+
+299
+00:21:12,116 --> 00:21:16,143
+<b>...of a midrange, three- to five-megaton</b>
+<b>nuclear device.</b>
+
+300
+00:21:16,320 --> 00:21:20,313
+<b>Mr. President, we're as sure about this</b>
+<b>as we were about any Soviet missile site.</b>
+
+301
+00:21:20,491 --> 00:21:25,451
+<b>That is an actual, live,</b>
+<b>nuclear-tipped missile on the launch pad.</b>
+
+302
+00:21:25,629 --> 00:21:27,494
+<b>What's more disturbing,</b>
+<b>Mr. President...</b>
+
+303
+00:21:27,665 --> 00:21:30,998
+<b>...is they seem to be fueling this missile</b>
+<b>to its highest alert level.</b>
+
+304
+00:21:31,168 --> 00:21:35,434
+<b>ln this condition, it could be launched</b>
+<b>within three minutes of receiving an order.</b>
+
+305
+00:21:35,606 --> 00:21:37,870
+<b>-And then how much time do we--</b>
+<b>-Thirty minutes.</b>
+
+306
+00:21:40,978 --> 00:21:42,502
+<b>That's right.</b>
+
+307
+00:21:42,680 --> 00:21:46,616
+<b>A Topol-class missile launched</b>
+<b>from North Korea...</b>
+
+308
+00:21:46,784 --> 00:21:50,618
+<b>...would strike the United States</b>
+<b>in approximately 30 minutes.</b>
+
+309
+00:21:52,456 --> 00:21:56,153
+<b>Once it's in the air, there's no asset</b>
+<b>in our arsenal that can bring it down.</b>
+
+310
+00:21:56,327 --> 00:22:01,663
+<b>ln light of this, we ought to revisit your</b>
+<b>decision to give Mackey the go-ahead.</b>
+
+311
+00:22:13,344 --> 00:22:17,474
+<b>-Mazetti, you're up.</b>
+<b>-Get going, Mazetti.</b>
+
+312
+00:22:22,486 --> 00:22:25,683
+<b>-Good bounce.</b>
+<b>-Thank you, sir.</b>
+
+313
+00:22:28,025 --> 00:22:30,653
+<b>-Ten bucks says the new guy freezes.</b>
+<b>-Shut up, Mazetti.</b>
+
+314
+00:22:30,828 --> 00:22:32,523
+<b>Shultiess.</b>
+
+315
+00:22:33,731 --> 00:22:36,165
+<b>-Happy jumping, Shultiess.</b>
+<b>-Thank you, sir.</b>
+
+316
+00:22:36,333 --> 00:22:38,665
+<b>Meideros.</b>
+
+317
+00:22:39,837 --> 00:22:41,998
+<b>This is what we do, boys.</b>
+
+318
+00:22:43,941 --> 00:22:45,704
+<b>Mazetti, hold on.</b>
+
+319
+00:22:46,377 --> 00:22:49,346
+<b>-Hold on, gang. Back up.</b>
+<b><i>-Team leader, this is the cockpit.</i></b>
+
+320
+00:22:49,513 --> 00:22:51,777
+<b>-Shut it off.</b>
+<b><i>-Pentagon is saying stand down.</i></b>
+
+321
+00:22:57,354 --> 00:23:01,017
+<b>-Abort.</b>
+<b>-Abort. Abort.</b>
+
+322
+00:23:01,191 --> 00:23:03,125
+<b>-Abort.</b>
+<b>-Abort.</b>
+
+323
+00:23:03,294 --> 00:23:06,422
+<b>Un-fucking-believable.</b>
+
+324
+00:23:07,598 --> 00:23:10,965
+<b>We are gonna abort mission.</b>
+<b>You keep these boys on the plane.</b>
+
+325
+00:23:11,168 --> 00:23:13,728
+<b>Yes, sir. Bobby?</b>
+
+326
+00:23:19,276 --> 00:23:21,506
+<b>-What the hell's going on, chief?</b>
+<b>-Step back, sailor.</b>
+
+327
+00:23:21,679 --> 00:23:24,170
+<b>Mazetti, on the hatch.</b>
+<b>Ballantine, check the hydraulics.</b>
+
+328
+00:23:24,348 --> 00:23:26,248
+<b>What are you doing?</b>
+<b>Our guys are out there!</b>
+
+329
+00:23:26,417 --> 00:23:28,442
+<b>Following orders.</b>
+<b>Step back, master chief.</b>
+
+330
+00:23:28,619 --> 00:23:33,147
+<b>That's bullshit! They got no Satcoms.</b>
+<b>Bobby is completely fucked down there.</b>
+
+331
+00:23:33,324 --> 00:23:36,885
+<b>They will send a cleanup team.</b>
+<b>Mazetti, on the hatch.</b>
+
+332
+00:23:37,061 --> 00:23:39,393
+<b>Ballantine, take it off. Take it off!</b>
+
+333
+00:23:39,563 --> 00:23:42,396
+<b>-Callaghan, what are you doing?</b>
+<b>-Can't send a cleanup crew.</b>
+
+334
+00:23:42,566 --> 00:23:44,659
+<b>They'll never find them.</b>
+<b>The North Kors will.</b>
+
+335
+00:23:44,835 --> 00:23:48,566
+<b>That's not for you to decide.</b>
+<b>Mazetti, on the hatch!</b>
+
+336
+00:23:48,739 --> 00:23:51,230
+<b>Callaghan, you will not</b>
+<b>exit this plane!</b>
+
+337
+00:23:51,408 --> 00:23:55,139
+<b>Barnes, l am making this jump!</b>
+
+338
+00:23:56,113 --> 00:23:59,480
+<b>Get back!</b>
+<b>Callaghan, don't be an idiot!</b>
+
+339
+00:23:59,917 --> 00:24:01,509
+<b>Track this flag for coordinates.</b>
+
+340
+00:24:01,719 --> 00:24:04,745
+<b>Stay on altitude until we stabilize!</b>
+
+341
+00:24:07,157 --> 00:24:09,853
+<b><i>Exit airplane, proper body position.</i></b>
+<b><i>Forget that.</i></b>
+
+342
+00:24:11,428 --> 00:24:14,920
+<b>Today we will go through a variety</b>
+<b>of nonoptimal parachute functions:</b>
+
+343
+00:24:15,099 --> 00:24:17,863
+<b>lnversions, cigarette rolls,</b>
+<b>line overs, totals...</b>
+
+344
+00:24:18,035 --> 00:24:20,868
+<b>...and my personal favorite,</b>
+<b>the Mae West.</b>
+
+345
+00:24:21,038 --> 00:24:24,667
+<b>All of which have one thing in common.</b>
+<b>They're all fatal.</b>
+
+346
+00:24:25,275 --> 00:24:28,301
+<b><i>Stay with the program.</i></b>
+<b><i>Don't deploy in spin.</i></b>
+
+347
+00:24:28,479 --> 00:24:30,709
+<b><i>Spin recovery. Full spread eagle.</i></b>
+<b><i>Arch back.</i></b>
+
+348
+00:24:30,881 --> 00:24:32,712
+<b><i>Don't deploy. Recover position.</i></b>
+
+349
+00:24:32,883 --> 00:24:36,319
+<b><i>Regain control. Deploy parachute.</i></b>
+<b><i>Come on, Bobby. Stay with the program.</i></b>
+
+350
+00:24:36,487 --> 00:24:37,852
+<b><i>Regain control.</i></b>
+
+351
+00:24:38,355 --> 00:24:40,346
+<b><i>Full spread eagle.</i></b>
+<b><i>Brace for opening shock.</i></b>
+
+352
+00:24:40,524 --> 00:24:44,392
+<b><i>On rare occasions your parachute</i></b>
+<b><i>would fail to deploy.</i></b>
+
+353
+00:24:44,561 --> 00:24:47,894
+<b>lt is for this reason the U.S. Navy</b>
+<b>provides you with a reserve chute.</b>
+
+354
+00:24:48,065 --> 00:24:50,863
+<b>But before you attempt to cut away</b>
+<b>your main chute...</b>
+
+355
+00:24:51,035 --> 00:24:53,230
+<b>...you must first cut away</b>
+<b>your twinkie.</b>
+
+356
+00:24:53,404 --> 00:24:56,840
+<b><i>Cut away the chute. Stay.</i></b>
+<b><i>Get to the twinkie. Get to the twinkie.</i></b>
+
+357
+00:24:57,975 --> 00:25:01,342
+<b><i>Worse than a total deployment failure</i></b>
+<b><i>is a partial deployment.</i></b>
+
+358
+00:25:01,512 --> 00:25:05,073
+<b>Centrifugal force rushes all the blood</b>
+<b>from your brain to your feet.</b>
+
+359
+00:25:05,282 --> 00:25:07,546
+<b>Fifteen seconds, you get tunnel vision.</b>
+
+360
+00:25:07,718 --> 00:25:09,811
+<b>Ten seconds, you black out.</b>
+
+361
+00:25:10,387 --> 00:25:13,220
+<b>After that, you die.</b>
+
+362
+00:25:13,390 --> 00:25:16,018
+<b><i>K-bar knife, right thigh pocket.</i></b>
+
+363
+00:25:16,193 --> 00:25:18,661
+<b><i>Pull at risers.</i></b>
+<b><i>Full spread eagle.</i></b>
+
+364
+00:25:23,934 --> 00:25:25,868
+<b>Crown jewel, my ass.</b>
+
+365
+00:25:30,941 --> 00:25:32,306
+<b>What's going on, admiral?</b>
+
+366
+00:25:32,910 --> 00:25:35,003
+<b>The situation's very fluid here.</b>
+
+367
+00:25:35,179 --> 00:25:37,079
+<b>Four jumped before</b>
+<b>the recall order was--</b>
+
+368
+00:25:37,247 --> 00:25:38,578
+<b>That's not how l heard it.</b>
+
+369
+00:25:38,749 --> 00:25:41,684
+<b>l heard two, including your</b>
+<b>lieutenant, jumped after the red.</b>
+
+370
+00:25:42,252 --> 00:25:44,516
+<b>From what l gather, General Vance...</b>
+
+371
+00:25:44,688 --> 00:25:47,714
+<b>...Lt. James slipped at the exit</b>
+<b>and was sucked out the plane.</b>
+
+372
+00:25:47,891 --> 00:25:49,756
+<b>-And Callaghan?</b>
+<b>-May have jumped before.</b>
+
+373
+00:25:49,927 --> 00:25:52,418
+<b>-His comm unit was probably--</b>
+<b>-Don't bullshit, Mackey.</b>
+
+374
+00:25:52,596 --> 00:25:55,190
+<b>Your men got no respect</b>
+<b>for chain of command.</b>
+
+375
+00:25:55,365 --> 00:25:57,526
+<b>-l disagree, sir.</b>
+<b>-You think they're heroes?</b>
+
+376
+00:25:57,701 --> 00:26:00,932
+<b>They're gonna get people killed.</b>
+<b>Better pray they're not detected.</b>
+
+377
+00:26:01,105 --> 00:26:03,596
+<b>l've ordered Team One Hilo platoon</b>
+<b>to organize an--</b>
+
+378
+00:26:03,774 --> 00:26:05,105
+<b>No, sir, you will not.</b>
+
+379
+00:26:06,410 --> 00:26:10,278
+<b>-General, my guys are my res--</b>
+<b><i>-Your guys will dig in and stay put.</i></b>
+
+380
+00:26:11,081 --> 00:26:14,448
+<b>The president has ordered</b>
+<b>a surgical strike at the missile site.</b>
+
+381
+00:26:15,886 --> 00:26:18,286
+<b>Your guys will do BDA,</b>
+<b>and when that's done...</b>
+
+382
+00:26:18,455 --> 00:26:21,913
+<b>-...our guys pull them out in a Pave Low.</b>
+<b>-When is this happening, sir?</b>
+
+383
+00:26:22,092 --> 00:26:24,219
+<b>You'll know when you need</b>
+<b>to know, commander.</b>
+
+384
+00:26:41,245 --> 00:26:45,113
+<b>Echo 7 Yankee, any OP,</b>
+<b>report in, over.</b>
+
+385
+00:26:47,151 --> 00:26:49,745
+<b>Echo 7 Yankee, any OP,</b>
+<b>report in, over.</b>
+
+386
+00:26:49,920 --> 00:26:51,945
+<b>Get that.</b>
+
+387
+00:26:52,122 --> 00:26:55,523
+<b>Echo 2 on site, also Echo--</b>
+<b>What number are you?</b>
+
+388
+00:26:55,692 --> 00:26:59,128
+<b>-That would be three.</b>
+<b>-Also Echo 2-- Three. Three, over.</b>
+
+389
+00:26:59,296 --> 00:27:02,163
+<b>Copy that, Echo 2, Echo 3.</b>
+<b>What's your position? Over.</b>
+
+390
+00:27:03,300 --> 00:27:05,097
+<b>Give me your GPS.</b>
+
+391
+00:27:07,538 --> 00:27:11,338
+<b>Two-twenty-one by 39.851, over.</b>
+
+392
+00:27:11,508 --> 00:27:13,908
+<b>Copy that, stand by.</b>
+
+393
+00:27:16,847 --> 00:27:18,940
+<b>Okay, we're 20 miles apart.</b>
+
+394
+00:27:19,116 --> 00:27:24,611
+<b>Proceed to coordinates</b>
+<b>2107 by 38.720, over.</b>
+
+395
+00:27:24,788 --> 00:27:27,552
+<b>-Roger that.</b>
+<b>-Get there fast as you can, Echo 3.</b>
+
+396
+00:27:27,724 --> 00:27:29,817
+<b>LT, where are the others?</b>
+
+397
+00:27:31,328 --> 00:27:33,558
+<b>We're it, over.</b>
+
+398
+00:27:34,998 --> 00:27:38,331
+<b><i>Not entirely, Echo 7.</i></b>
+<b><i>Echo 12 in the air.</i></b>
+
+399
+00:27:38,502 --> 00:27:41,232
+<b>-No shit?</b>
+<b><i>-No shit.</i></b>
+
+400
+00:27:41,638 --> 00:27:44,505
+<b>Echo 3, you got a 10-mile hump</b>
+<b>ahead of you, get moving.</b>
+
+401
+00:27:44,675 --> 00:27:48,805
+<b>-Roger that.</b>
+<b>-Echo 12, glide to these coordinates....</b>
+
+402
+00:27:48,979 --> 00:27:52,676
+<b>Sir, why haven't we turned this plane</b>
+<b>around? We've got to get back to base.</b>
+
+403
+00:27:52,849 --> 00:27:56,478
+<b>Son, we're flying commercial airspace</b>
+<b>with a commercial lFF signature.</b>
+
+404
+00:27:56,653 --> 00:27:59,816
+<b>-Any deviation of our flight plan, they'll--</b>
+<b>-Shit.</b>
+
+405
+00:27:59,990 --> 00:28:02,390
+<b>You're right. l'm sorry, colonel.</b>
+
+406
+00:28:03,527 --> 00:28:05,085
+<b>We gotta get back to base ASAP.</b>
+
+407
+00:28:05,262 --> 00:28:07,230
+<b>l got four guys there</b>
+<b>that need my help.</b>
+
+408
+00:28:07,397 --> 00:28:08,887
+<b>l understand.</b>
+
+409
+00:28:09,066 --> 00:28:12,092
+<b>We'll drop off of North Korean</b>
+<b>radar somewhere over Kazakhstan.</b>
+
+410
+00:28:12,269 --> 00:28:13,702
+<b>Then vector back to Seoul.</b>
+
+411
+00:28:13,870 --> 00:28:16,395
+<b>l'll have you in South Korea</b>
+<b>in under four hours.</b>
+
+412
+00:28:16,573 --> 00:28:18,370
+<b>Thank you, sir.</b>
+
+413
+00:28:26,750 --> 00:28:28,615
+<b>Did you jump on the red?</b>
+
+414
+00:28:29,186 --> 00:28:32,019
+<b>-Oh, Jesus, man. You scared me.</b>
+<b>-Did you jump on the red?</b>
+
+415
+00:28:32,189 --> 00:28:35,590
+<b>-Yes, how about help getting me down?</b>
+<b>-That was real dumb, Spaz.</b>
+
+416
+00:28:35,759 --> 00:28:38,922
+<b>-Yeah, l know.</b>
+<b>-lt's not funny, Neil.</b>
+
+417
+00:28:39,096 --> 00:28:40,757
+<b>Don't suppose</b>
+<b>you brought a Satcom?</b>
+
+418
+00:28:41,365 --> 00:28:46,132
+<b>No, but l did bring</b>
+<b>my travel backgammon.</b>
+
+419
+00:28:49,373 --> 00:28:53,639
+<b>One PVC-77 satellite-encrypted</b>
+<b>transceiver.</b>
+
+420
+00:28:53,810 --> 00:28:55,641
+<b>Good job, Spaz.</b>
+
+421
+00:28:55,812 --> 00:28:58,110
+<b>-Thanks.</b>
+<b>-But you're still in a lot of trouble.</b>
+
+422
+00:28:59,049 --> 00:29:01,540
+<b>-How are they?</b>
+<b>-There's four of them on the ground.</b>
+
+423
+00:29:01,718 --> 00:29:03,481
+<b>They're okay, scattered in two spots.</b>
+
+424
+00:29:03,654 --> 00:29:05,315
+<b>-What's his call sign?</b>
+<b>-Echo 7.</b>
+
+425
+00:29:05,522 --> 00:29:08,514
+<b>Echo 7, you all right? Any injuries?</b>
+
+426
+00:29:09,960 --> 00:29:12,326
+<b><i>-Yeah, we're all tiptop, sir.</i></b>
+<b>-Okay, listen up.</b>
+
+427
+00:29:12,529 --> 00:29:14,258
+<b>Your mission has been recalled.</b>
+
+428
+00:29:14,464 --> 00:29:18,264
+<b><i>I want you to reconnoiter to a safe</i></b>
+<b><i>hide-site and dig in awaiting exfiltration.</i></b>
+
+429
+00:29:18,435 --> 00:29:20,926
+<b>Keep your terrestrial comms</b>
+<b>to a minimum.</b>
+
+430
+00:29:21,104 --> 00:29:23,732
+<b>There's not a lot of RF there,</b>
+<b>you guys will stick out.</b>
+
+431
+00:29:23,907 --> 00:29:25,738
+<b>Sir, we had a
+<b>Rubber Duck contingency.</b>
+
+432
+00:29:25,909 --> 00:29:27,274
+<b>lt's been aborted.</b>
+
+433
+00:29:28,045 --> 00:29:30,445
+<b>Any time estimate</b>
+<b>on exfil, sir?</b>
+
+434
+00:29:30,614 --> 00:29:32,138
+<b>Not at this time.</b>
+
+435
+00:29:32,316 --> 00:29:35,285
+<b>-Understood.</b>
+<b><i>-Make contact again at 1800.</i></b>
+
+436
+00:29:35,452 --> 00:29:37,113
+<b>Alpha Whiskey out.</b>
+
+437
+00:29:39,656 --> 00:29:42,682
+<b>1800, Echo 7 out.</b>
+
+438
+00:29:45,162 --> 00:29:47,323
+<b>All right, let's hump, Stoke man.</b>
+
+439
+00:29:47,497 --> 00:29:49,965
+<b>Hey, it's the Stoke.</b>
+
+440
+00:29:55,472 --> 00:29:57,463
+<b>Sir, Master Chief Barnes is here.</b>
+
+441
+00:29:59,109 --> 00:30:00,804
+<b>-Sir.</b>
+<b>-Master chief.</b>
+
+442
+00:30:01,578 --> 00:30:03,944
+<b>Requesting permission to mount</b>
+<b>a boat-drop rescue.</b>
+
+443
+00:30:04,114 --> 00:30:05,706
+<b>Barnes...</b>
+
+444
+00:30:06,783 --> 00:30:09,149
+<b>...there's not gonna be a boat drop.</b>
+
+445
+00:30:09,486 --> 00:30:13,217
+<b>They're gonna exfiltrate</b>
+<b>using a MH-53 Pave Low.</b>
+
+446
+00:30:13,457 --> 00:30:15,618
+<b>How's a chopper</b>
+<b>gonna avoid detection, sir?</b>
+
+447
+00:30:15,792 --> 00:30:19,023
+<b>When we're bombing them,</b>
+<b>we won't be worried about detection.</b>
+
+448
+00:30:19,196 --> 00:30:21,630
+<b>Sir, we've got four SEALs</b>
+<b>down behind enemy lines.</b>
+
+449
+00:30:21,798 --> 00:30:25,962
+<b>-They are sitting ducks out--</b>
+<b>-You come in here to tell me that, chief?</b>
+
+450
+00:30:26,403 --> 00:30:28,837
+<b>There's not gonna be a Navy rescue.</b>
+
+451
+00:30:30,407 --> 00:30:32,705
+<b>Flyboys will handle this.</b>
+
+452
+00:30:33,543 --> 00:30:34,908
+<b>Return to your staging area.</b>
+
+453
+00:30:36,380 --> 00:30:38,109
+<b>Sir!</b>
+
+454
+00:31:27,364 --> 00:31:30,856
+<b>Shultiess, you get the computer</b>
+<b>and bring up a sat image of the area.</b>
+
+455
+00:31:31,034 --> 00:31:34,526
+<b>There's a village about a half klick</b>
+<b>down the hill, wasn't on this map.</b>
+
+456
+00:31:34,704 --> 00:31:36,604
+<b>Of course there is.</b>
+
+457
+00:31:57,427 --> 00:31:59,895
+<b>Nightfall, we move</b>
+<b>to the top of these mountains...</b>
+
+458
+00:32:00,063 --> 00:32:01,928
+<b>...and then east into this area here.</b>
+
+459
+00:32:02,098 --> 00:32:04,658
+<b>lt's more remote</b>
+<b>but it's closer to the missile site.</b>
+
+460
+00:32:04,835 --> 00:32:08,566
+<b>Probably gonna ask us to do BDA</b>
+<b>so we might as well dig in near the site.</b>
+
+461
+00:32:08,772 --> 00:32:12,071
+<b>Hey, LT, look, all due respect...</b>
+
+462
+00:32:12,242 --> 00:32:15,905
+<b>...l didn't risk a court-martial</b>
+<b>to do bomb-damage assessment...</b>
+
+463
+00:32:16,079 --> 00:32:19,571
+<b>...for a bunch of faggot-ass</b>
+<b>F-117 flyboys.</b>
+
+464
+00:32:19,783 --> 00:32:22,684
+<b>Let's just go find that missile site</b>
+<b>and blow its ass up.</b>
+
+465
+00:32:22,853 --> 00:32:24,320
+<b>You done?</b>
+
+466
+00:33:24,281 --> 00:33:26,374
+<b>Bobby, he saw us. What should we do?</b>
+
+467
+00:34:08,858 --> 00:34:10,416
+<b>-l got it!</b>
+<b>-Check the window!</b>
+
+468
+00:34:10,627 --> 00:34:12,561
+<b>-Who else is here?</b>
+<b>-l got her!</b>
+
+469
+00:34:16,199 --> 00:34:18,429
+<b>Cover that window! Just shut up!</b>
+
+470
+00:34:19,135 --> 00:34:20,625
+<b>Shut her up.</b>
+
+471
+00:34:22,405 --> 00:34:24,373
+<b>-Neil, grab them!</b>
+<b>-l got it!</b>
+
+472
+00:34:30,780 --> 00:34:32,247
+<b>Bobby, get out of there!</b>
+
+473
+00:34:32,449 --> 00:34:34,110
+<b>Shultiess! Meideros! On me.</b>
+
+474
+00:34:59,309 --> 00:35:01,777
+<b>Neil, let's go! Come on!</b>
+
+475
+00:35:37,714 --> 00:35:39,545
+<b>Meideros, get us restocked!</b>
+
+476
+00:35:39,783 --> 00:35:42,149
+<b>Shultiess, check our six.</b>
+
+477
+00:35:43,353 --> 00:35:45,617
+<b>Fucker shot me right in my Kevlar.</b>
+
+478
+00:35:46,856 --> 00:35:49,154
+<b>Seeing how we're compromised...</b>
+
+479
+00:35:49,325 --> 00:35:53,421
+<b>-...can't we call in for an exfiltration?</b>
+<b>-Negative on that. We're on our own.</b>
+
+480
+00:35:59,069 --> 00:36:01,469
+<b>This way is no good. Cliffs.</b>
+
+481
+00:36:02,806 --> 00:36:05,866
+<b>Right, we're gonna have to</b>
+<b>turn around, take the fight to them.</b>
+
+482
+00:36:06,843 --> 00:36:09,004
+<b>Gonna leapfrog in pairs.</b>
+<b>Meideros, with me.</b>
+
+483
+00:36:09,212 --> 00:36:10,543
+<b>Got you.</b>
+
+484
+00:36:11,181 --> 00:36:13,649
+<b>No different than live-fire exercise,</b>
+<b>San Clemente.</b>
+
+485
+00:36:13,850 --> 00:36:17,377
+<b>Hey, the radio-frequency charts</b>
+<b>are in my right thigh pocket, okay?</b>
+
+486
+00:36:17,554 --> 00:36:19,215
+<b>All the instructions are there too.</b>
+
+487
+00:36:19,389 --> 00:36:22,051
+<b>And l expect you to hand</b>
+<b>them to me if l need them.</b>
+
+488
+00:36:23,727 --> 00:36:25,160
+<b>On your command.</b>
+
+489
+00:36:48,685 --> 00:36:50,346
+<b>Let's go to work.</b>
+
+490
+00:36:52,422 --> 00:36:54,219
+<b>Come on, kid.</b>
+
+491
+00:38:24,147 --> 00:38:26,342
+<b>RPGs!</b>
+
+492
+00:38:31,888 --> 00:38:34,379
+<b>Meideros! Get over here!</b>
+
+493
+00:38:46,202 --> 00:38:48,136
+<b>Echo 7 to base. Do you copy?</b>
+
+494
+00:38:48,304 --> 00:38:50,704
+<b>Base, this is Echo 7,</b>
+<b>do you copy? Over.</b>
+
+495
+00:39:06,756 --> 00:39:10,123
+<b>Bobby! How's your guy!</b>
+
+496
+00:39:13,997 --> 00:39:16,124
+<b>Bobby, man down!</b>
+
+497
+00:39:16,332 --> 00:39:18,129
+<b>We've gotta get</b>
+<b>out of here! Come on!</b>
+
+498
+00:39:18,735 --> 00:39:20,760
+<b>Stay with me, Shultiess.</b>
+<b>Stay with me.</b>
+
+499
+00:39:21,004 --> 00:39:22,904
+<b>l can't see anything!</b>
+
+500
+00:39:24,240 --> 00:39:27,505
+<b>Echo 7 to base, we are</b>
+<b>brevity code Charlie. Repeat, Charlie.</b>
+
+501
+00:39:27,677 --> 00:39:32,740
+<b>We are facing heavy enemy fire.</b>
+<b>We have engaged. Do you copy? Over.</b>
+
+502
+00:39:37,220 --> 00:39:39,279
+<b>No one is dying</b>
+<b>on my stick, l told you.</b>
+
+503
+00:39:39,522 --> 00:39:41,422
+<b>Hold tight!</b>
+
+504
+00:40:22,699 --> 00:40:27,796
+<b>Our Father, who art in heaven.</b>
+
+505
+00:41:31,868 --> 00:41:33,301
+<b>-Mr. Ambassador.</b>
+<b>-Mr. President.</b>
+
+506
+00:41:33,469 --> 00:41:35,994
+<b>l was just about to call</b>
+<b>your president on the phone.</b>
+
+507
+00:41:36,172 --> 00:41:38,868
+<b>-l thought--</b>
+<b>-Mr. President, wars are started...</b>
+
+508
+00:41:39,075 --> 00:41:40,975
+<b>...over misunderstandings.</b>
+
+509
+00:41:41,144 --> 00:41:42,475
+<b>-l don't quite--</b>
+<b>-Wars.</b>
+
+510
+00:41:44,347 --> 00:41:46,042
+<b>This will be on South Korea's soil.</b>
+
+511
+00:41:46,416 --> 00:41:50,318
+<b>Your <i>USS Ronald Reagan</i></b>
+<b>has made way to the Sea of Japan.</b>
+
+512
+00:41:50,520 --> 00:41:53,978
+<b>And your destroyer, the <i>USS Lassen,</i></b>
+<b>is on course to the Yellow Sea.</b>
+
+513
+00:41:54,857 --> 00:41:58,054
+<b>You don't think North Korea could</b>
+<b>misconstrue your actions...</b>
+
+514
+00:41:58,227 --> 00:42:00,821
+<b>...as a provocation</b>
+<b>towards engagement?</b>
+
+515
+00:42:01,297 --> 00:42:03,891
+<b>-l wouldn't confuse--</b>
+<b>-From your ships' movements...</b>
+
+516
+00:42:04,067 --> 00:42:07,059
+<b>...l assume you have seen the missile.</b>
+
+517
+00:42:09,877 --> 00:42:11,936
+<b>Your Navy SEALs were captured...</b>
+
+518
+00:42:12,113 --> 00:42:16,015
+<b>...by the DPRK Fifth Regiment</b>
+<b>in Kimhyongjik.</b>
+
+519
+00:42:16,951 --> 00:42:19,647
+<b>l should say, two captured.</b>
+
+520
+00:42:20,321 --> 00:42:23,518
+<b>Two of your men were killed.</b>
+
+521
+00:42:25,660 --> 00:42:27,321
+<b>How did you get these?</b>
+
+522
+00:42:27,495 --> 00:42:31,090
+<b>Your government spends</b>
+<b>billions of dollars on your satellites...</b>
+
+523
+00:42:31,265 --> 00:42:35,429
+<b>...all to avoid putting human intelligence</b>
+<b>inside hostile territory.</b>
+
+524
+00:42:35,603 --> 00:42:38,163
+<b>These photos came from one soldier...</b>
+
+525
+00:42:38,339 --> 00:42:41,797
+<b>...with a $3000 camera</b>
+<b>connected to a satellite phone.</b>
+
+526
+00:42:41,976 --> 00:42:43,500
+<b>They were taken four hours ago.</b>
+
+527
+00:42:43,678 --> 00:42:46,647
+<b>We discovered the missile</b>
+<b>at Yongjiri 10 days ago.</b>
+
+528
+00:42:46,814 --> 00:42:49,942
+<b>And we've been watching them</b>
+<b>assemble it in the caves.</b>
+
+529
+00:42:50,151 --> 00:42:53,712
+<b>Our Special Operations</b>
+<b>Task Force 121 infiltrated the area.</b>
+
+530
+00:42:53,954 --> 00:42:57,355
+<b>We were wondering when you</b>
+<b>were going to discover it.</b>
+
+531
+00:42:58,159 --> 00:43:01,287
+<b>Were you ever planning</b>
+<b>on telling us about this grave threat?</b>
+
+532
+00:43:01,462 --> 00:43:04,158
+<b>Mr. Ambassador, when we</b>
+<b>first discovered the missile...</b>
+
+533
+00:43:04,365 --> 00:43:07,630
+<b>...we had hopes for a preemptive,</b>
+<b>special operations mission.</b>
+
+534
+00:43:07,802 --> 00:43:10,896
+<b>-lt required the utmost secrecy--</b>
+<b>-Your mission was compromised.</b>
+
+535
+00:43:11,072 --> 00:43:12,630
+<b>Yes.</b>
+
+536
+00:43:12,840 --> 00:43:16,071
+<b>lt was an act of war</b>
+<b>against the DPRK.</b>
+
+537
+00:43:16,310 --> 00:43:20,838
+<b>-We felt that we could--</b>
+<b>-Retaliation will be against my country.</b>
+
+538
+00:43:22,149 --> 00:43:27,052
+<b>-How could you have such--?</b>
+<b>-We're trying to preserve a fragile peace.</b>
+
+539
+00:43:27,221 --> 00:43:30,088
+<b>By attacking a sovereign country?</b>
+
+540
+00:43:30,558 --> 00:43:33,686
+<b>Your administration has always</b>
+<b>preached regime change...</b>
+
+541
+00:43:33,861 --> 00:43:35,988
+<b>...and now you see</b>
+<b>the chance to affect it.</b>
+
+542
+00:43:36,197 --> 00:43:40,224
+<b>All that stands in the way are the many</b>
+<b>hundreds of thousands of lives...</b>
+
+543
+00:43:40,401 --> 00:43:43,063
+<b>...Korean lives,</b>
+<b>that will be lost in the process.</b>
+
+544
+00:43:43,237 --> 00:43:47,173
+<b>-lt won't be hundreds of thousands.</b>
+<b>-That will be all, general.</b>
+
+545
+00:43:48,509 --> 00:43:51,000
+<b>And should you succeed, what then?</b>
+
+546
+00:43:51,212 --> 00:43:53,908
+<b>-We have no plans for--</b>
+<b>-Twenty-three million...</b>
+
+547
+00:43:54,081 --> 00:43:56,845
+<b>...hungry North Koreans.</b>
+<b>Where do they go?</b>
+
+548
+00:43:57,051 --> 00:43:59,212
+<b>New York? Philadelphia?</b>
+
+549
+00:43:59,420 --> 00:44:01,285
+<b>They come to Seoul.</b>
+
+550
+00:44:01,522 --> 00:44:04,514
+<b>They come to Seoul</b>
+<b>like East Germany went to Berlin.</b>
+
+551
+00:44:04,692 --> 00:44:07,422
+<b>They come to Seoul</b>
+<b>and destroy our economy.</b>
+
+552
+00:44:07,628 --> 00:44:09,357
+<b>We are not ready for this.</b>
+
+553
+00:44:09,530 --> 00:44:11,555
+<b>We did not ask for this.</b>
+
+554
+00:44:11,766 --> 00:44:16,703
+<b>And you. Now you give us no choice</b>
+<b>but this? What of China's reactions?</b>
+
+555
+00:44:16,871 --> 00:44:19,806
+<b>Japan's? The United Nations'?</b>
+<b>The world's reactions?</b>
+
+556
+00:44:20,007 --> 00:44:21,599
+<b>Mr. Ambassador, we assure you...</b>
+
+557
+00:44:21,809 --> 00:44:24,073
+<b>...there'll be no further</b>
+<b>military action conducted...</b>
+
+558
+00:44:24,245 --> 00:44:27,373
+<b>...until South Korea</b>
+<b>and the United States see eye to eye.</b>
+
+559
+00:44:27,548 --> 00:44:28,879
+<b>That's right.</b>
+
+560
+00:44:30,217 --> 00:44:33,584
+<b>Then turn your ships around.</b>
+
+561
+00:45:35,482 --> 00:45:37,313
+<b>Sir, as of 0900 this morning...</b>
+
+562
+00:45:37,518 --> 00:45:40,351
+<b>...Operation Sheet Lightning</b>
+<b>remains on schedule...</b>
+
+563
+00:45:40,521 --> 00:45:43,012
+<b>...with the 8th Fighter Wing</b>
+<b>and 18th Bomber Wing...</b>
+
+564
+00:45:43,190 --> 00:45:46,159
+<b>...both reporting troop strengths</b>
+<b>at over 85 percent.</b>
+
+565
+00:45:46,327 --> 00:45:48,090
+<b>-What's with these estimates?</b>
+<b>-Sir?</b>
+
+566
+00:45:48,295 --> 00:45:50,957
+<b>-Ten thousand U.S. casualties?</b>
+<b>-Five, ten thousand, sir.</b>
+
+567
+00:45:51,165 --> 00:45:55,033
+<b>-Ten to fifty thousand South Koreans?</b>
+<b>-That's combined civilian, military.</b>
+
+568
+00:45:55,202 --> 00:45:58,103
+<b>Sir, it is what it is.</b>
+<b>And these are good numbers.</b>
+
+569
+00:45:58,272 --> 00:46:01,867
+<b>Bullshit. We're taking out 90 percent</b>
+<b>of their artillery in the first 90 minutes.</b>
+
+570
+00:46:02,042 --> 00:46:03,373
+<b>We factored that in, sir.</b>
+
+571
+00:46:03,544 --> 00:46:07,036
+<b>l can't take these numbers</b>
+<b>to the president. He'll shut us down.</b>
+
+572
+00:46:07,214 --> 00:46:11,048
+<b>-Sir, we stand by these numbers.</b>
+<b>-Yeah, l heard you.</b>
+
+573
+00:46:11,819 --> 00:46:13,719
+<b>Bring me different ones.</b>
+
+574
+00:46:27,635 --> 00:46:29,330
+<b>Bobby, don't you say--</b>
+
+575
+00:46:37,711 --> 00:46:41,044
+<b>-What your mission?</b>
+<b>-l don't understand.</b>
+
+576
+00:46:41,916 --> 00:46:43,406
+<b>What your mission?</b>
+
+577
+00:46:43,951 --> 00:46:45,851
+<b>l don't understand</b>
+<b>what you're saying.</b>
+
+578
+00:46:50,791 --> 00:46:55,057
+<b>What your mission?</b>
+
+579
+00:47:04,071 --> 00:47:06,904
+<b>-Come on, man.</b>
+<b>-You Delta Force?</b>
+
+580
+00:47:08,309 --> 00:47:09,674
+<b>Delta?</b>
+
+581
+00:47:10,210 --> 00:47:12,110
+<b>Screw those--</b>
+
+582
+00:47:25,326 --> 00:47:29,422
+<b>Today l'm supposed to teach you</b>
+<b>about survival techniques for torture.</b>
+
+583
+00:47:30,130 --> 00:47:33,622
+<b>But there's nothing l can say to you</b>
+<b>today that's gonna change things...</b>
+
+584
+00:47:33,801 --> 00:47:36,429
+<b>...when and if you get captured</b>
+<b>by the enemy.</b>
+
+585
+00:47:38,105 --> 00:47:40,938
+<b>Viet Cong did their thing</b>
+<b>on me for three days.</b>
+
+586
+00:47:42,977 --> 00:47:44,774
+<b>They did things...</b>
+
+587
+00:47:45,446 --> 00:47:49,314
+<b>...that were truly</b>
+<b>unimaginable. Unhuman.</b>
+
+588
+00:47:52,586 --> 00:47:57,319
+<b>lf any of you should ever</b>
+<b>get captured by the enemy...</b>
+
+589
+00:47:57,524 --> 00:47:59,151
+<b>...know this:</b>
+
+590
+00:48:01,662 --> 00:48:04,130
+<b>l will be there with you.</b>
+
+591
+00:48:05,466 --> 00:48:07,832
+<b>Because you men are my brothers...</b>
+
+592
+00:48:09,636 --> 00:48:12,002
+<b>...and l will never leave you alone.</b>
+
+593
+00:48:26,153 --> 00:48:28,849
+<b>You Army Ranger?</b>
+
+594
+00:48:29,023 --> 00:48:30,388
+<b>Black Hawk Ground?</b>
+
+595
+00:48:30,557 --> 00:48:34,049
+<b>Yeah. l'm Black Hawk Ground.</b>
+
+596
+00:48:34,495 --> 00:48:36,622
+<b>-Black Hawk Ground?</b>
+<b>-Yeah.</b>
+
+597
+00:48:40,300 --> 00:48:42,359
+<b><i>I will never leave you.</i></b>
+
+598
+00:48:46,140 --> 00:48:50,577
+<b>Yeah, l'm Black Hawk Ground,</b>
+<b>you fucking pussy.</b>
+
+599
+00:48:54,548 --> 00:48:56,914
+<b>Pussy? What you mean, pussy?</b>
+
+600
+00:48:57,151 --> 00:48:59,984
+<b>Pussy. You, pussy.</b>
+
+601
+00:49:04,024 --> 00:49:06,857
+<b>What your mission?</b>
+
+602
+00:49:19,706 --> 00:49:23,267
+<b>Americans think we stupid?</b>
+
+603
+00:49:23,444 --> 00:49:25,810
+<b>You think we savages?</b>
+
+604
+00:49:26,013 --> 00:49:29,540
+<b>l know how to speak English,</b>
+<b>Chinese and French.</b>
+
+605
+00:49:32,219 --> 00:49:35,848
+<b>l study, stupid university</b>
+<b>in Pyongyang.</b>
+
+606
+00:49:36,023 --> 00:49:40,119
+<b>l travel to Shanghai, study Mandarin.</b>
+
+607
+00:49:40,561 --> 00:49:42,688
+<b>You're a great man.</b>
+
+608
+00:50:07,654 --> 00:50:11,090
+<b>l told him that you are</b>
+<b>Lieutenant Robert James...</b>
+
+609
+00:50:11,258 --> 00:50:14,056
+<b>...Navy SEALs Team One.</b>
+
+610
+00:50:15,462 --> 00:50:19,558
+<b>He said, ''lf you are Navy,</b>
+<b>then where is your boat?''</b>
+
+611
+00:50:20,134 --> 00:50:21,795
+<b>Funny, huh?</b>
+
+612
+00:50:23,403 --> 00:50:27,066
+<b>We have a real problem, you and me.</b>
+
+613
+00:50:31,011 --> 00:50:34,913
+<b>You see, America sees two Koreas:</b>
+
+614
+00:50:35,082 --> 00:50:37,175
+<b>North and South.</b>
+
+615
+00:51:01,708 --> 00:51:04,836
+<b>l apologize, lieutenant.</b>
+<b>That must be very painful.</b>
+
+616
+00:51:13,320 --> 00:51:15,515
+<b>Hwang here is very excited.</b>
+
+617
+00:51:15,689 --> 00:51:18,487
+<b>Delivering American soldiers</b>
+<b>to our dear leader...</b>
+
+618
+00:51:18,692 --> 00:51:20,853
+<b>...would bring him</b>
+<b>and his men great rewards.</b>
+
+619
+00:51:21,028 --> 00:51:24,691
+<b>Enough pork and beef for perhaps</b>
+<b>two months, maybe even more.</b>
+
+620
+00:51:24,865 --> 00:51:28,824
+<b>Maybe a letter of commendation</b>
+<b>from our dear leader.</b>
+
+621
+00:51:36,977 --> 00:51:41,539
+<b>You see, Hwang here, he wants me</b>
+<b>to radio my commanders...</b>
+
+622
+00:51:41,748 --> 00:51:44,581
+<b>...to tell them</b>
+<b>about his great discovery.</b>
+
+623
+00:51:47,654 --> 00:51:51,215
+<b>You see, America sees two Koreas.</b>
+
+624
+00:51:51,391 --> 00:51:53,325
+<b>We see only one.</b>
+
+625
+00:51:54,461 --> 00:51:57,555
+<b>We call her the</b>
+<b>''Land of the Morning Calm.''</b>
+
+626
+00:52:03,470 --> 00:52:05,438
+<b>Our dear leader tells us...</b>
+
+627
+00:52:05,606 --> 00:52:09,474
+<b>...soon we will reunify</b>
+<b>under his great command.</b>
+
+628
+00:52:11,078 --> 00:52:14,514
+<b>So we wait and prepare for this day.</b>
+
+629
+00:52:14,681 --> 00:52:17,172
+<b>Yeah, well, that's never</b>
+<b>gonna happen.</b>
+
+630
+00:52:17,918 --> 00:52:19,681
+<b>-No?</b>
+<b>-No.</b>
+
+631
+00:52:21,021 --> 00:52:22,545
+<b>Maybe you are right.</b>
+
+632
+00:52:22,723 --> 00:52:25,521
+<b>Maybe you and l are not so different.</b>
+
+633
+00:52:30,063 --> 00:52:32,258
+<b>Yeah, well, your leader,</b>
+<b>he's fucking crazy.</b>
+
+634
+00:52:34,534 --> 00:52:40,063
+<b>ln my country, we are killed</b>
+<b>for saying such things about our leaders.</b>
+
+635
+00:52:40,240 --> 00:52:42,936
+<b>Yeah, well, in mine,</b>
+<b>it's pretty much national sport.</b>
+
+636
+00:52:43,110 --> 00:52:45,203
+<b>l am afraid that if our dear leader...</b>
+
+637
+00:52:45,412 --> 00:52:48,142
+<b>...finds that there are Navy SEALs</b>
+<b>in the DPRK...</b>
+
+638
+00:52:50,117 --> 00:52:53,280
+<b>...that would give him</b>
+<b>enough reason for the reunification.</b>
+
+639
+00:52:53,520 --> 00:52:55,112
+<b>Well, that'd be really stupid.</b>
+
+640
+00:52:56,023 --> 00:52:58,048
+<b>l think so too.</b>
+
+641
+00:52:58,525 --> 00:53:01,050
+<b>l am afraid</b>
+<b>that our dear leader thinks...</b>
+
+642
+00:53:01,261 --> 00:53:04,253
+<b>...that we are more powerful</b>
+<b>than we really are.</b>
+
+643
+00:53:05,399 --> 00:53:09,426
+<b>l think people are afraid to tell him</b>
+<b>how hungry his soldiers are...</b>
+
+644
+00:53:09,603 --> 00:53:12,163
+<b>...how old his equipment is.</b>
+
+645
+00:53:13,240 --> 00:53:15,606
+<b>-So?</b>
+<b>-So l think it is better...</b>
+
+646
+00:53:15,776 --> 00:53:19,906
+<b>...that you die here</b>
+<b>without our dear leader ever knowing.</b>
+
+647
+00:53:21,415 --> 00:53:23,440
+<b>Don't you think so?</b>
+
+648
+00:53:35,162 --> 00:53:39,565
+<b>l told him to tell the villagers</b>
+<b>to say nothing about ever seeing you.</b>
+
+649
+00:53:40,834 --> 00:53:42,699
+<b>Better, no?</b>
+
+650
+00:53:43,437 --> 00:53:47,635
+<b>You see, l am a good <i>chingu.</i></b>
+
+651
+00:53:47,808 --> 00:53:50,174
+<b>Do you know what <i>chingu</i> means?</b>
+
+652
+00:53:50,444 --> 00:53:52,036
+<b>Friends.</b>
+
+653
+00:53:52,212 --> 00:53:55,943
+<b>Friends with common interests.</b>
+
+654
+00:54:00,387 --> 00:54:01,979
+<b>We go to my command.</b>
+
+655
+00:54:02,155 --> 00:54:04,646
+<b>There you will tell me</b>
+<b>what l need to know.</b>
+
+656
+00:54:11,164 --> 00:54:13,223
+<b>Why haven't we heard</b>
+<b>from the North Koreans?</b>
+
+657
+00:54:13,400 --> 00:54:16,028
+<b>They may still be deciding</b>
+<b>what to ask for.</b>
+
+658
+00:54:16,203 --> 00:54:17,898
+<b>Been no increased military activity.</b>
+
+659
+00:54:18,105 --> 00:54:20,972
+<b>Not at Yongjiri,</b>
+<b>DMZ, Yongbyon, nothing.</b>
+
+660
+00:54:21,141 --> 00:54:24,474
+<b>Likely they're looking for the dear leader.</b>
+<b>Goes missing from time to time.</b>
+
+661
+00:54:24,644 --> 00:54:26,578
+<b>-Mr. President?</b>
+<b>-You've spoken to them?</b>
+
+662
+00:54:26,747 --> 00:54:28,078
+<b>-Yeah.</b>
+<b>-So?</b>
+
+663
+00:54:28,248 --> 00:54:30,375
+<b>So here's what</b>
+<b>the South Koreans are saying:</b>
+
+664
+00:54:30,550 --> 00:54:33,576
+<b>lf we execute the surgical strike</b>
+<b>at the missile site...</b>
+
+665
+00:54:33,754 --> 00:54:37,246
+<b>...they believe the DPRK</b>
+<b>will retaliate with artillery...</b>
+
+666
+00:54:37,424 --> 00:54:38,982
+<b>...and their damage estimates...</b>
+
+667
+00:54:39,159 --> 00:54:41,354
+<b>...are far greater</b>
+<b>than the Pentagon estimates.</b>
+
+668
+00:54:41,528 --> 00:54:42,995
+<b>As high as 1 million dead.</b>
+
+669
+00:54:43,163 --> 00:54:45,893
+<b>-They're utterly misguided, they--</b>
+<b>-Hold on, general.</b>
+
+670
+00:54:46,066 --> 00:54:48,261
+<b>What do they suggest?</b>
+
+671
+00:54:49,569 --> 00:54:52,402
+<b>l'll let the general</b>
+<b>take you through it, sir.</b>
+
+672
+00:54:52,639 --> 00:54:55,699
+<b>Sir, l'd like to say up front</b>
+<b>we had this scenario ourselves.</b>
+
+673
+00:54:55,876 --> 00:54:58,037
+<b>We didn't think you'd</b>
+<b>abide our suggesting it.</b>
+
+674
+00:54:58,211 --> 00:55:01,942
+<b>Truth is, sir, in terms of Allied</b>
+<b>casualty projections....</b>
+
+675
+00:55:02,149 --> 00:55:04,117
+<b>Well, they're extremely positive, sir.</b>
+
+676
+00:55:04,284 --> 00:55:07,378
+<b>-Well, let's here the plan, general.</b>
+<b>-Admiral?</b>
+
+677
+00:55:07,854 --> 00:55:11,221
+<b>Well, sir, it starts</b>
+<b>with an absolute Naval blockade...</b>
+
+678
+00:55:11,391 --> 00:55:13,416
+<b>...along the 37th parallel.</b>
+
+679
+00:55:13,593 --> 00:55:16,960
+<b>We're prepared to affect that</b>
+<b>any time tomorrow after 1200 hours.</b>
+
+680
+00:55:18,198 --> 00:55:19,893
+<b>And then, Mr. President, the plan...</b>
+
+681
+00:55:20,100 --> 00:55:23,160
+<b>...calls for a combined</b>
+<b>ROK-U.S., preemptive, first strike.</b>
+
+682
+00:55:23,370 --> 00:55:25,565
+<b>A sudden, massive</b>
+<b>and overwhelming barrage...</b>
+
+683
+00:55:25,772 --> 00:55:27,239
+<b>...along the entire DPRK line.</b>
+
+684
+00:55:27,441 --> 00:55:30,433
+<b>Artillery, air bases,</b>
+<b>supply depots, army bases.</b>
+
+685
+00:55:30,677 --> 00:55:34,738
+<b>Get half the forces while they're asleep.</b>
+<b>Keep their MiGs from ever taking off.</b>
+
+686
+00:55:34,915 --> 00:55:38,282
+<b>Another 20 percent of ground force</b>
+<b>as they're approaching their tubes.</b>
+
+687
+00:55:38,452 --> 00:55:41,717
+<b>Any tubes we missed in the first</b>
+<b>cruise strikes and F-117 runs...</b>
+
+688
+00:55:41,922 --> 00:55:44,789
+<b>...the South Koreans have</b>
+<b>Patriot batteries along the line.</b>
+
+689
+00:55:45,225 --> 00:55:49,093
+<b>Second wave of sorties 90 minutes later</b>
+<b>would end threat of artillery altogether.</b>
+
+690
+00:55:49,429 --> 00:55:52,398
+<b>We would make the missile sites...</b>
+
+691
+00:55:52,566 --> 00:55:56,127
+<b>...and the nuclear research facilities</b>
+<b>secondary and tertiary targets.</b>
+
+692
+00:55:56,303 --> 00:55:59,500
+<b>Ellie, this is what</b>
+<b>the South Koreans proposed?</b>
+
+693
+00:55:59,706 --> 00:56:01,606
+<b>lf it's this or a surgical strike...</b>
+
+694
+00:56:01,808 --> 00:56:05,801
+<b>...which would leave the North Koreans</b>
+<b>capable of a full-strength retaliation...</b>
+
+695
+00:56:05,979 --> 00:56:09,142
+<b>...then, yes, they prefer</b>
+<b>a preemptive attack.</b>
+
+696
+00:56:09,749 --> 00:56:12,479
+<b>lt's a provocative strategy,</b>
+<b>sir, no question.</b>
+
+697
+00:56:12,652 --> 00:56:15,815
+<b>But, well, the Allied</b>
+<b>casualty projections...</b>
+
+698
+00:56:16,022 --> 00:56:18,081
+<b>-...are the real draw.</b>
+<b>-What are they?</b>
+
+699
+00:56:18,725 --> 00:56:21,592
+<b>We could reasonably project</b>
+<b>total Allied casualties--</b>
+
+700
+00:56:21,761 --> 00:56:23,752
+<b>Combined U.S.</b>
+<b>and South Korean total dead.</b>
+
+701
+00:56:24,498 --> 00:56:26,432
+<b>--one to three thousand.</b>
+
+702
+00:56:27,601 --> 00:56:29,831
+<b>lt would all be over</b>
+<b>in a matter of hours, sir.</b>
+
+703
+00:56:33,173 --> 00:56:35,869
+<b>General, what are the enemy</b>
+<b>casualty projections?</b>
+
+704
+00:56:37,143 --> 00:56:38,667
+<b>Sir...</b>
+
+705
+00:56:38,879 --> 00:56:43,111
+<b>...l truly believe our response is justified</b>
+<b>by North Korea deploying nuclear lCBM.</b>
+
+706
+00:56:43,316 --> 00:56:45,477
+<b>What are the projections, general?</b>
+
+707
+00:56:46,052 --> 00:56:48,953
+<b>Somewhere between 350</b>
+<b>and 500 thousand dead...</b>
+
+708
+00:56:49,122 --> 00:56:50,612
+<b>...sir.</b>
+
+709
+00:56:53,460 --> 00:56:55,052
+<b>Yeah.</b>
+
+710
+00:56:55,295 --> 00:56:57,786
+<b>Cam, Ellie, my office. Right now.</b>
+
+711
+00:57:10,510 --> 00:57:13,035
+<b>This thing is totally out of hand!</b>
+
+712
+00:57:13,213 --> 00:57:17,513
+<b>Vance has been pushing Armageddon</b>
+<b>since the beginning!</b>
+
+713
+00:57:17,717 --> 00:57:22,347
+<b>Oh, excuse me.</b>
+<b>l've gotta use the head.</b>
+
+714
+00:57:24,824 --> 00:57:27,816
+<b>You know what l love most</b>
+<b>about the Navy, Mr. President?</b>
+
+715
+00:57:29,396 --> 00:57:30,727
+<b>What is that?</b>
+
+716
+00:57:32,666 --> 00:57:35,499
+<b>The boats go real slow.</b>
+
+717
+00:59:04,457 --> 00:59:06,152
+<b>Mr. Ambassador...</b>
+
+718
+00:59:06,393 --> 00:59:10,625
+<b>...this proposal,</b>
+<b>this surprise attack, it's....</b>
+
+719
+00:59:11,665 --> 00:59:14,031
+<b>Does this represent the wishes</b>
+<b>of your government?</b>
+
+720
+00:59:14,200 --> 00:59:19,832
+<b>Mr. President, 3.5 million</b>
+<b>North Koreans...</b>
+
+721
+00:59:20,040 --> 00:59:22,531
+<b>...have died from starvation</b>
+<b>in the last three years.</b>
+
+722
+00:59:22,709 --> 00:59:26,805
+<b>What has your nation done</b>
+<b>to grieve these deaths?</b>
+
+723
+00:59:28,648 --> 00:59:31,708
+<b>-The casualties, the enemy casualties--</b>
+<b>-Mr. President...</b>
+
+724
+00:59:31,918 --> 00:59:35,046
+<b>...you give us only evils</b>
+<b>to choose from.</b>
+
+725
+00:59:50,503 --> 00:59:53,336
+<b>Come, come, come.</b>
+<b>l want to show you something.</b>
+
+726
+00:59:54,140 --> 00:59:56,335
+<b>You know movie, <i>Taxi Rider?</i></b>
+
+727
+00:59:56,509 --> 00:59:59,967
+<b>Robert Nero? Jo Jo Foster?</b>
+
+728
+01:00:03,450 --> 01:00:05,077
+<b><i>Taxi Rider.</i></b>
+
+729
+01:00:18,998 --> 01:00:20,829
+<b>Get the fuck off me!</b>
+
+730
+01:00:21,034 --> 01:00:22,899
+<b>Get the fuck off me!</b>
+
+731
+01:00:29,042 --> 01:00:30,600
+<b><i>Taxi Rider!</i> Yeah!</b>
+
+732
+01:00:35,749 --> 01:00:38,013
+<b>Tell me about <i>Taxi Rider.</i> Jo Jo Foster.</b>
+
+733
+01:00:59,072 --> 01:01:01,063
+<b>Don't shoot! Please, don't shoot!</b>
+
+734
+01:01:01,274 --> 01:01:03,105
+<b>-Are you Robert James?</b>
+<b>-Yes.</b>
+
+735
+01:01:03,510 --> 01:01:07,241
+<b>This is Captain Chung Joon</b>
+<b>of the South Korean Task Force 121.</b>
+
+736
+01:01:08,381 --> 01:01:09,712
+<b>Bobby!</b>
+
+737
+01:01:09,916 --> 01:01:12,214
+<b>Our government</b>
+<b>has sent us to get you.</b>
+
+738
+01:01:14,654 --> 01:01:16,144
+<b>Would you like to come with us?</b>
+
+739
+01:01:17,123 --> 01:01:18,818
+<b>That'd be real good.</b>
+
+740
+01:01:23,263 --> 01:01:26,232
+<b>Hey, see if you can</b>
+<b>get this thing going.</b>
+
+741
+01:02:01,367 --> 01:02:02,834
+<b>lt's not happening. No fuel.</b>
+
+742
+01:02:05,805 --> 01:02:08,069
+<b>Captain, l need that jeep.</b>
+
+743
+01:02:08,675 --> 01:02:10,302
+<b>My men.</b>
+
+744
+01:02:27,660 --> 01:02:29,150
+<b>Shit!</b>
+
+745
+01:02:38,137 --> 01:02:40,901
+<b>-l'm gonna go for the jeep.</b>
+<b>-That's a bad idea, Bobby.</b>
+
+746
+01:02:41,174 --> 01:02:44,337
+<b>What are we gonna do?</b>
+<b>We can't just stick here.</b>
+
+747
+01:03:28,788 --> 01:03:30,779
+<b>Bobby, the wall!</b>
+
+748
+01:03:37,397 --> 01:03:38,921
+<b>Bobby, it's a dead end. Back up.</b>
+
+749
+01:03:39,098 --> 01:03:41,157
+<b>-l can see that.</b>
+<b>-Back up!</b>
+
+750
+01:04:30,950 --> 01:04:32,941
+<b>-Echo 7?</b>
+<b>-Yes, sir.</b>
+
+751
+01:04:33,152 --> 01:04:35,518
+<b><i>Sir, I have two KIA.</i></b>
+
+752
+01:04:35,755 --> 01:04:39,213
+<b>And Callaghan....</b>
+<b>Well, sir, he's hurt pretty bad.</b>
+
+753
+01:04:39,425 --> 01:04:41,859
+<b>There's something</b>
+<b>you need to pass on right away.</b>
+
+754
+01:04:42,095 --> 01:04:45,622
+<b>Mr. President, l've got</b>
+<b>Commander Mackey on the line.</b>
+
+755
+01:04:45,798 --> 01:04:48,266
+<b>Lieutenant Bobby James</b>
+<b>is freed in North Korea...</b>
+
+756
+01:04:48,434 --> 01:04:50,595
+<b>...and safe with South Korean</b>
+<b>special forces.</b>
+
+757
+01:04:51,371 --> 01:04:53,862
+<b>Additionally, sir,</b>
+<b>Lieutenant James is reporting...</b>
+
+758
+01:04:54,040 --> 01:04:57,635
+<b>...that at least some of his captors</b>
+<b>were <i>Chieu Hoi.</i> That's....</b>
+
+759
+01:04:57,844 --> 01:05:00,335
+<b>Vietnamese for defectors.</b>
+<b>l know. l was there.</b>
+
+760
+01:05:00,546 --> 01:05:02,138
+<b>Beg your pardon, sir.</b>
+
+761
+01:05:03,049 --> 01:05:06,041
+<b>-Ellie, l want you to hear this.</b>
+<b>-Go ahead, commander.</b>
+
+762
+01:05:06,252 --> 01:05:09,653
+<b>Sir, Lieutenant James</b>
+<b>is asking permission to cross deck.</b>
+
+763
+01:05:10,690 --> 01:05:12,521
+<b>l was Army Ranger, not a sailor.</b>
+
+764
+01:05:12,759 --> 01:05:15,159
+<b>Cross deck means</b>
+<b>cross over and join the troops...</b>
+
+765
+01:05:15,361 --> 01:05:16,794
+<b>...that come to replace you.</b>
+
+766
+01:05:16,996 --> 01:05:20,363
+<b>Sir, he's asking to remount</b>
+<b>Operation Silent Night...</b>
+
+767
+01:05:20,533 --> 01:05:22,501
+<b>...with help of South Korean</b>
+<b>special ops.</b>
+
+768
+01:05:22,702 --> 01:05:24,966
+<b>They think they can sabotage</b>
+<b>the missile site?</b>
+
+769
+01:05:25,138 --> 01:05:26,867
+<b>-That's absurd.</b>
+<b>-Vance....</b>
+
+770
+01:05:27,306 --> 01:05:30,332
+<b>-Admiral?</b>
+<b>-That is what he's saying, sir.</b>
+
+771
+01:05:30,510 --> 01:05:32,569
+<b>Okay, we need to get</b>
+<b>Ambassador Li in here.</b>
+
+772
+01:05:32,779 --> 01:05:34,679
+<b>Commander Mackey,</b>
+<b>how many men are there?</b>
+
+773
+01:05:34,881 --> 01:05:36,678
+<b>Six, including Lieutenant James.</b>
+
+774
+01:05:37,216 --> 01:05:39,013
+<b>l don't see a downside.</b>
+
+775
+01:05:39,218 --> 01:05:42,051
+<b>Excuse me. Detection.</b>
+
+776
+01:05:42,221 --> 01:05:45,088
+<b>Loss of the initiative.</b>
+<b>Element of surprise.</b>
+
+777
+01:05:46,592 --> 01:05:48,492
+<b>lf DPRK doesn't know</b>
+<b>about the SEALs...</b>
+
+778
+01:05:48,661 --> 01:05:50,720
+<b>...they might not know</b>
+<b>we're coming for the missile.</b>
+
+779
+01:05:50,930 --> 01:05:53,228
+<b>-We've been down this road--</b>
+<b>-Vance....</b>
+
+780
+01:05:54,700 --> 01:05:56,327
+<b>l'm done talking about this.</b>
+
+781
+01:05:57,203 --> 01:05:59,865
+<b>Commander Mackey,</b>
+<b>permission granted.</b>
+
+782
+01:06:00,039 --> 01:06:02,234
+<b>And tell your man</b>
+<b>that should he succeed...</b>
+
+783
+01:06:02,408 --> 01:06:05,172
+<b>...he'll have the thanks</b>
+<b>of more than one grateful nation.</b>
+
+784
+01:06:05,378 --> 01:06:08,245
+<b>Yes, sir. We'll give it</b>
+<b>everything we've got.</b>
+
+785
+01:06:16,823 --> 01:06:18,518
+<b><i>Echo 7 Yankee.</i></b>
+
+786
+01:06:19,125 --> 01:06:21,320
+<b>Mission status: Hilary.</b>
+
+787
+01:06:21,527 --> 01:06:24,394
+<b>-Roger: Hilary.</b>
+<b>-Report at 0400 prior to your assault.</b>
+
+788
+01:06:24,597 --> 01:06:26,428
+<b>Yes, sir.</b>
+
+789
+01:06:27,533 --> 01:06:31,936
+<b>Captain Chung, l am</b>
+<b>Ambassador Li Sung Park.</b>
+
+790
+01:06:32,105 --> 01:06:35,336
+<b>l am calling you</b>
+<b>from the office of the president.</b>
+
+791
+01:06:42,548 --> 01:06:46,416
+<b>l have just received orders</b>
+<b>to assist you in any way possible.</b>
+
+792
+01:06:47,854 --> 01:06:50,982
+<b>l guess we are,</b>
+<b>how do you say, ''in business.''</b>
+
+793
+01:06:51,858 --> 01:06:53,655
+<b>-ln business.</b>
+<b>-Yes.</b>
+
+794
+01:06:59,665 --> 01:07:01,997
+<b>We gotta get rid of this taxi.</b>
+
+795
+01:07:04,237 --> 01:07:06,831
+<b>l must speak to my president now.</b>
+
+796
+01:07:07,006 --> 01:07:09,440
+<b>l wish our soldiers</b>
+<b>success, Mr. President.</b>
+
+797
+01:07:09,609 --> 01:07:13,409
+<b>l fear their actions</b>
+<b>will determine war or peace.</b>
+
+798
+01:07:13,613 --> 01:07:17,174
+<b>Mr. Ambassador, our nation thanks you</b>
+<b>for your actions here today.</b>
+
+799
+01:07:21,621 --> 01:07:24,647
+<b>l don't care what the president</b>
+<b>of South Korea is willing to do.</b>
+
+800
+01:07:24,824 --> 01:07:29,625
+<b>l'm not gonna authorize a preemptive,</b>
+<b>full-scale assault on North Korea.</b>
+
+801
+01:07:29,929 --> 01:07:32,022
+<b>We'll give the SEALs 24 hours.</b>
+
+802
+01:07:32,198 --> 01:07:37,158
+<b>lf they fail, we'll proceed</b>
+<b>with a surgical strike on the missile site.</b>
+
+803
+01:07:39,405 --> 01:07:41,134
+<b>l'm done talking about this.</b>
+
+804
+01:07:41,307 --> 01:07:43,969
+<b>lf we go that way</b>
+<b>who's gonna tell the South Koreans?</b>
+
+805
+01:07:44,177 --> 01:07:47,271
+<b>-They'll see it on CNN.</b>
+<b>-Sir, if the South Koreans are right...</b>
+
+806
+01:07:47,446 --> 01:07:49,676
+<b>...our strike could provoke</b>
+<b>a counter-attack.</b>
+
+807
+01:07:49,916 --> 01:07:52,646
+<b>lf they come at us with everything</b>
+<b>including WMDs...</b>
+
+808
+01:07:52,818 --> 01:07:57,312
+<b>...we're talking 700,000 to a million</b>
+<b>South Koreans dead.</b>
+
+809
+01:07:58,991 --> 01:08:00,925
+<b>They won't do that.</b>
+
+810
+01:08:02,028 --> 01:08:03,928
+<b>They know we need</b>
+<b>to take this site out.</b>
+
+811
+01:08:04,297 --> 01:08:08,927
+<b>Unless they want us to attack</b>
+<b>so they can say we started this war.</b>
+
+812
+01:08:38,231 --> 01:08:39,823
+<b>Now we go to missile?</b>
+
+813
+01:08:40,032 --> 01:08:43,524
+<b>No. Need you to get me</b>
+<b>to the hills above the village first.</b>
+
+814
+01:08:52,778 --> 01:08:54,109
+<b>Few toys for our trip.</b>
+
+815
+01:08:54,780 --> 01:08:56,509
+<b>Let's move out.</b>
+
+816
+01:09:07,593 --> 01:09:09,527
+<b>Got satellite photos</b>
+<b>of the missile site.</b>
+
+817
+01:09:12,198 --> 01:09:13,631
+<b>Look.</b>
+
+818
+01:09:15,701 --> 01:09:18,033
+<b>These are fan-fucking-tastic.</b>
+
+819
+01:09:19,105 --> 01:09:21,005
+<b>''Fan-fucking-tastic''?</b>
+
+820
+01:09:21,741 --> 01:09:23,231
+<b>l like this saying.</b>
+
+821
+01:09:24,543 --> 01:09:27,478
+<b>These workers, why are they</b>
+<b>wearing these uniforms?</b>
+
+822
+01:09:27,647 --> 01:09:29,274
+<b>Oh, prisoners.</b>
+
+823
+01:09:29,448 --> 01:09:32,383
+<b>They are all political prisoners.</b>
+
+824
+01:09:32,752 --> 01:09:35,812
+<b>They work there until they die.</b>
+
+825
+01:09:36,022 --> 01:09:39,890
+<b>That way, no risk</b>
+<b>of DPRK secrets ever leaving.</b>
+
+826
+01:09:40,059 --> 01:09:43,995
+<b>-What about the ones that don't die?</b>
+<b>-Eventually, they all die.</b>
+
+827
+01:09:44,163 --> 01:09:46,131
+<b>Fortunately for Kim Jong ll...</b>
+
+828
+01:09:46,299 --> 01:09:51,931
+<b>...there is no shortage of new</b>
+<b>political prisoners in North Korea.</b>
+
+829
+01:09:55,341 --> 01:09:58,174
+<b>All along the perimeter</b>
+<b>there's double bands of razor wire.</b>
+
+830
+01:09:58,344 --> 01:10:00,642
+<b>Plus guards every 50 meters.</b>
+
+831
+01:10:01,047 --> 01:10:04,505
+<b>Except here. No fences</b>
+<b>at the mouth of valley...</b>
+
+832
+01:10:04,684 --> 01:10:06,447
+<b>...because of these cliffs.</b>
+
+833
+01:10:06,619 --> 01:10:10,111
+<b>-Okay. Can the truck take us there?</b>
+<b>-No.</b>
+
+834
+01:10:10,423 --> 01:10:12,584
+<b>Looks like we're gonna</b>
+<b>have to climb then.</b>
+
+835
+01:10:58,471 --> 01:11:01,565
+<b>Chung, l gotta radio in brevity code</b>
+<b>so they don't assume...</b>
+
+836
+01:11:01,741 --> 01:11:03,106
+<b>...we've been compromised.</b>
+
+837
+01:11:11,050 --> 01:11:12,677
+<b>Wanna try this?</b>
+
+838
+01:12:03,436 --> 01:12:05,666
+<b>Come on, let's go.</b>
+
+839
+01:12:30,729 --> 01:12:34,290
+<b>-There is no way that l'm--</b>
+<b>-You're not coming with me, Neil.</b>
+
+840
+01:12:34,467 --> 01:12:35,991
+<b>Sorry.</b>
+
+841
+01:12:50,983 --> 01:12:53,816
+<b>Echo 7 Yankee, do you copy?</b>
+
+842
+01:12:55,855 --> 01:12:57,914
+<b>Echo 7 Yankee, come in.</b>
+
+843
+01:13:06,665 --> 01:13:10,123
+<b>All right, they're still fueling the missile,</b>
+<b>that's good.</b>
+
+844
+01:13:10,669 --> 01:13:14,332
+<b>There's light guard on the bunker.</b>
+<b>Soldiers must still be in their barracks.</b>
+
+845
+01:13:17,343 --> 01:13:21,439
+<b><i>Jinhae, this is Kun San 230,</i></b>
+<b><i>your signal is strong, good check.</i></b>
+
+846
+01:13:21,614 --> 01:13:24,515
+<b><i>Continue beacon at constant intervals.</i></b>
+
+847
+01:13:25,351 --> 01:13:29,117
+<b><i>Roger, Kun San.</i></b>
+<b><i>Maintaining current signal strength.</i></b>
+
+848
+01:13:29,688 --> 01:13:33,385
+<b><i>Jinhae, this is the</i> USS Ronald Reagan</b>
+<b><i>continuing signal sweep.</i></b>
+
+849
+01:13:33,559 --> 01:13:36,858
+<b><i>No signals reported. Over.</i></b>
+
+850
+01:13:38,764 --> 01:13:42,291
+<b>Ronald <i>Reagan, Jinhae.</i></b>
+<b><i>Appreciate the help, sir.</i></b>
+
+851
+01:13:42,468 --> 01:13:45,130
+<b>Henry, this plan of yours</b>
+<b>is gonna get people hurt.</b>
+
+852
+01:13:45,304 --> 01:13:47,169
+<b>What's your status?</b>
+
+853
+01:13:47,806 --> 01:13:51,242
+<b>l'm waiting for contact</b>
+<b>from Lieutenant James.</b>
+
+854
+01:13:51,410 --> 01:13:54,311
+<b><i>Come in Echo 7, Echo 7.</i></b>
+
+855
+01:13:54,480 --> 01:13:56,380
+<b>He's overdue.</b>
+
+856
+01:13:57,650 --> 01:13:59,515
+<b>l'm shutting you down, bud.</b>
+
+857
+01:13:59,685 --> 01:14:03,553
+<b>Norman, for God's sake,</b>
+<b>give it a chance.</b>
+
+858
+01:14:04,356 --> 01:14:07,154
+<b>Just give it 10 more minutes.</b>
+
+859
+01:14:08,027 --> 01:14:11,224
+<b><i>Come in, Echo 7.</i></b>
+<b><i>Echo 7, do you copy?</i></b>
+
+860
+01:14:12,398 --> 01:14:13,888
+<b>You guys ready?</b>
+
+861
+01:16:06,412 --> 01:16:09,006
+<b>Echo 7 Yankee, come in.</b>
+
+862
+01:16:10,416 --> 01:16:12,384
+<b>Echo 7 Yankee, do you copy?</b>
+
+863
+01:16:12,551 --> 01:16:13,916
+<b>Man, come on.</b>
+
+864
+01:17:02,034 --> 01:17:03,058
+<b>Okay.</b>
+
+865
+01:17:57,222 --> 01:17:58,553
+<b>Prisoners.</b>
+
+866
+01:17:58,724 --> 01:18:01,921
+<b>Tell them they're free to go.</b>
+<b>They gotta get the hell out of here.</b>
+
+867
+01:18:05,397 --> 01:18:07,058
+<b>Admiral, General Vance tells me...</b>
+
+868
+01:18:07,232 --> 01:18:09,723
+<b>...we may have lost track</b>
+<b>of Operation Silent Night.</b>
+
+869
+01:18:09,902 --> 01:18:12,166
+<b>-That's correct, sir.</b>
+<b>-What does that mean?</b>
+
+870
+01:18:12,738 --> 01:18:17,732
+<b>l'm afraid we-- We have to assume</b>
+<b>that they have been compromised.</b>
+
+871
+01:18:23,549 --> 01:18:24,675
+<b>Quiet.</b>
+
+872
+01:18:26,051 --> 01:18:27,746
+<b>He say, ''Thank you for my freedom.''</b>
+
+873
+01:18:33,692 --> 01:18:35,023
+<b>Fight.</b>
+
+874
+01:18:35,194 --> 01:18:37,560
+<b>You wanna fight alongside us?</b>
+
+875
+01:18:38,864 --> 01:18:40,195
+<b>Okay.</b>
+
+876
+01:18:47,940 --> 01:18:49,601
+<b>American Navy SEAL!</b>
+
+877
+01:18:51,610 --> 01:18:53,134
+<b>No!</b>
+
+878
+01:19:03,155 --> 01:19:06,090
+<b>Let's get the hell out of here now.</b>
+<b>Come on, get out of here.</b>
+
+879
+01:19:08,527 --> 01:19:11,792
+<b>American Navy SEAL, you come.</b>
+
+880
+01:19:12,898 --> 01:19:14,365
+<b>You come!</b>
+
+881
+01:19:29,381 --> 01:19:31,246
+<b>l know if you do not succeed here...</b>
+
+882
+01:19:31,850 --> 01:19:35,149
+<b>...things will only</b>
+<b>get worse for my country.</b>
+
+883
+01:19:36,555 --> 01:19:41,652
+<b>Tell your president that we are not</b>
+<b>all ignorant peasants here in Korea.</b>
+
+884
+01:19:47,933 --> 01:19:50,401
+<b>Let's get the hell out of here.</b>
+<b>Now. Come on.</b>
+
+885
+01:20:06,919 --> 01:20:08,511
+<b>Come on.</b>
+
+886
+01:20:10,455 --> 01:20:12,446
+<b>They're on their own,</b>
+<b>we can't do any more.</b>
+
+887
+01:20:30,943 --> 01:20:34,208
+<b>Mr. President, to make our window,</b>
+<b>we have to put the B-2's at Okinawa...</b>
+
+888
+01:20:34,379 --> 01:20:38,247
+<b>...and the F-117's at Jinhae,</b>
+<b>in the air right now.</b>
+
+889
+01:20:43,822 --> 01:20:45,483
+<b>Very well.</b>
+
+890
+01:20:51,596 --> 01:20:53,826
+<b>Okinawa and Jinhae are go.</b>
+
+891
+01:20:57,970 --> 01:21:02,304
+<b>-Jinhae, Okinawa, you are go.</b>
+<b>-Eighteenth Bomber Wing, you are go.</b>
+
+892
+01:21:02,708 --> 01:21:04,141
+<b><i>Okinawa 267...</i></b>
+
+893
+01:21:04,343 --> 01:21:05,935
+<b><i>...cleared for takeoff.</i></b>
+
+894
+01:21:06,144 --> 01:21:07,975
+<b><i>Priority clearance, runway 217.</i></b>
+
+895
+01:21:08,146 --> 01:21:09,636
+<b><i>Go, Okinawa, go.</i></b>
+
+896
+01:21:09,815 --> 01:21:11,578
+<b>Two South 8th Fighter Wing is a go.</b>
+
+897
+01:21:13,352 --> 01:21:14,580
+<b><i>Roger, go.</i></b>
+
+898
+01:21:14,786 --> 01:21:18,779
+<b><i>-Jinhae watching.</i></b>
+<b><i>-Roger, Okinawa launching, and away.</i></b>
+
+899
+01:21:53,158 --> 01:21:56,150
+<b><i>Roger, Okinawa. On course,</i></b>
+<b><i>proceeding north two-seven-zero...</i></b>
+
+900
+01:21:56,328 --> 01:21:58,023
+<b><i>...initializing target acquisition.</i></b>
+
+901
+01:22:10,342 --> 01:22:13,778
+<b><i>MA- 17 moving in</i></b>
+<b><i>to attempt formation.</i></b>
+
+902
+01:22:29,428 --> 01:22:31,225
+<b>Chung!</b>
+
+903
+01:22:34,733 --> 01:22:36,360
+<b>Okay!</b>
+
+904
+01:22:42,441 --> 01:22:44,033
+<b>There are too many at the bunker.</b>
+
+905
+01:22:44,209 --> 01:22:46,734
+<b>-No matter what, hold them here!</b>
+<b>-Right!</b>
+
+906
+01:22:53,819 --> 01:22:57,255
+<b>Sir, the first wave breaks North Korean</b>
+<b>airspace in nine minutes.</b>
+
+907
+01:22:57,422 --> 01:22:59,754
+<b>Past this, the squadron</b>
+<b>needs a go-forward order.</b>
+
+908
+01:22:59,925 --> 01:23:02,450
+<b>-So ordered.</b>
+<b>-Oscar two-zero.</b>
+
+909
+01:23:02,627 --> 01:23:04,322
+<b>Go order is affirmed.</b>
+
+910
+01:23:04,529 --> 01:23:06,190
+<b><i>Roger that. Proceeding on course.</i></b>
+
+911
+01:23:06,364 --> 01:23:09,595
+<b><i>Crossing hostile territory</i></b>
+<b><i>in zero-eight-four-seven.</i></b>
+
+912
+01:24:00,385 --> 01:24:04,287
+<b>-Chung! Get your men, let's go!</b>
+<b>-They're dead!</b>
+
+913
+01:24:04,656 --> 01:24:06,385
+<b>Watch out!</b>
+
+914
+01:24:13,665 --> 01:24:15,792
+<b>Sir, First Squad penetrates</b>
+<b>hostile airspace...</b>
+
+915
+01:24:15,967 --> 01:24:17,958
+<b>...in 45 seconds.</b>
+
+916
+01:24:29,314 --> 01:24:31,111
+<b>The tanker should've</b>
+<b>blown the bunker.</b>
+
+917
+01:24:34,019 --> 01:24:35,350
+<b>Hold on.</b>
+
+918
+01:25:14,025 --> 01:25:15,959
+<b>Mr. President.</b>
+
+919
+01:25:16,161 --> 01:25:18,721
+<b><i>Initializing weapons systems.</i></b>
+<b><i>Safety off.</i></b>
+
+920
+01:25:27,672 --> 01:25:29,162
+<b>Get new orders to all pilots...</b>
+
+921
+01:25:29,341 --> 01:25:31,002
+<b>...in Operation Sheet Lightning,</b>
+<b>brevity code Allison.</b>
+
+922
+01:25:31,176 --> 01:25:33,235
+<b>Elements stand down,</b>
+<b>pilots return to base!</b>
+
+923
+01:25:33,411 --> 01:25:35,345
+<b>Echo 2-0, Echo 2-0.</b>
+
+924
+01:25:35,513 --> 01:25:38,107
+<b>Brevity code Allison!</b>
+<b>Stand down! l repeat, stand down!</b>
+
+925
+01:25:38,683 --> 01:25:40,878
+<b><i>Roger that, Cent Comm.</i></b>
+<b><i>Aborting approach.</i></b>
+
+926
+01:25:42,220 --> 01:25:43,710
+<b><i>Man, that was close.</i></b>
+
+927
+01:25:43,922 --> 01:25:45,913
+<b>-Mr. President.</b>
+<b>-Sir, our boys have done it.</b>
+
+928
+01:25:53,398 --> 01:25:56,026
+<b>-Neil, you good?</b>
+<b>-Yeah.</b>
+
+929
+01:25:56,201 --> 01:25:58,465
+<b>Yeah, you were making</b>
+<b>quite a racket up there.</b>
+
+930
+01:25:58,637 --> 01:26:01,765
+<b>-l was just trying to get some sleep.</b>
+<b>-Shit.</b>
+
+931
+01:26:01,940 --> 01:26:04,374
+<b>Hold on, it's gonna get bumpy.</b>
+
+932
+01:26:14,386 --> 01:26:17,150
+<b>-You wanted to see me, sir?</b>
+<b>-Come on in, Barnes.</b>
+
+933
+01:26:17,555 --> 01:26:18,988
+<b>lf l can drop you here...</b>
+
+934
+01:26:19,157 --> 01:26:22,558
+<b>...can you get a Rubber Duck exfil team</b>
+<b>two kilometers up the Tumen River...</b>
+
+935
+01:26:22,727 --> 01:26:24,217
+<b>...from the Sea of Japan?</b>
+
+936
+01:26:24,896 --> 01:26:28,764
+<b>With resupply tanks?</b>
+<b>You bet your ass we could, sir.</b>
+
+937
+01:26:30,535 --> 01:26:34,062
+<b>So how would you and your boys</b>
+<b>like to go get your LT?</b>
+
+938
+01:26:51,323 --> 01:26:53,154
+<b>That's west.</b>
+
+939
+01:27:14,379 --> 01:27:17,542
+<b>-Meideros and Shultiess--</b>
+<b>-We know.</b>
+
+940
+01:27:17,716 --> 01:27:21,846
+<b>-We couldn't-- l wanted--</b>
+<b>-Bobby, we know.</b>
+
+941
+01:27:42,674 --> 01:27:44,801
+<b>l'm sorry to keep you waiting, general.</b>
+
+942
+01:27:45,009 --> 01:27:47,500
+<b>-Please sit down.</b>
+<b>-Thank you, Mr. President.</b>
+
+943
+01:27:47,679 --> 01:27:50,876
+<b>This nation owes you</b>
+<b>a debt of gratitude, Norman.</b>
+
+944
+01:27:51,049 --> 01:27:56,146
+<b>You've had a long</b>
+<b>and distinguished career.</b>
+
+945
+01:27:56,421 --> 01:27:57,979
+<b>Thank you, Mr. President.</b>
+
+946
+01:28:01,926 --> 01:28:03,655
+<b>Norman...</b>
+
+947
+01:28:05,230 --> 01:28:08,165
+<b>...l'm relieving you of your command.</b>
+
+948
+01:28:11,069 --> 01:28:13,367
+<b>Will the defendant approach?</b>
+
+949
+01:28:18,443 --> 01:28:20,411
+<b>You wanted to see me, sir?</b>
+
+950
+01:28:24,149 --> 01:28:26,640
+<b>You've been invited</b>
+<b>to the White House, lieutenant.</b>
+
+951
+01:28:26,851 --> 01:28:29,877
+<b>The president wants</b>
+<b>to give you a commendation.</b>
+
+952
+01:28:31,256 --> 01:28:32,951
+<b>Me, sir?</b>
+
+953
+01:28:34,592 --> 01:28:36,583
+<b>l should be at the tribunal</b>
+<b>with Callaghan.</b>
+
+954
+01:28:37,362 --> 01:28:41,355
+<b>Yeah, well, you're going</b>
+<b>to the White House instead.</b>
+
+955
+01:28:42,467 --> 01:28:44,628
+<b>lt's a classified meeting,</b>
+<b>you understand?</b>
+
+956
+01:28:44,803 --> 01:28:46,930
+<b>No invited guests.</b>
+
+957
+01:28:47,172 --> 01:28:49,163
+<b>lt's the Oval Office.</b>
+
+958
+01:28:49,874 --> 01:28:51,205
+<b>Just you and the president.</b>
+
+959
+01:28:55,580 --> 01:28:57,445
+<b>You can take one witness there.</b>
+
+960
+01:28:58,183 --> 01:28:59,775
+<b>One guy?</b>
+
+961
+01:29:00,752 --> 01:29:03,915
+<b>Master Chief Petty Officer</b>
+<b>Neil T. Callaghan...</b>
+
+962
+01:29:04,088 --> 01:29:06,579
+<b>...this tribunal</b>
+<b>has reached its verdict.</b>
+
+963
+01:29:06,758 --> 01:29:08,817
+<b>On your feet, Master Chief.</b>
+
+964
+01:29:15,200 --> 01:29:17,134
+<b>-Lieutenant James.</b>
+<b>-Yes, sir.</b>
+
+965
+01:29:17,302 --> 01:29:19,236
+<b>lt's a pleasure to meet you. Come in.</b>
+
+966
+01:29:19,404 --> 01:29:21,463
+<b>-Sit down.</b>
+<b>-Thank you, sir.</b>
+
+967
+01:29:21,639 --> 01:29:24,733
+<b>On the Article 15 charge</b>
+<b>of striking an officer...</b>
+
+968
+01:29:24,909 --> 01:29:28,072
+<b>...we find the defendant</b>
+<b>guilty as charged...</b>
+
+969
+01:29:28,246 --> 01:29:32,706
+<b>...and sentence him to one year in the</b>
+<b>Naval Consolidated Brig at Miramar.</b>
+
+970
+01:29:34,252 --> 01:29:36,652
+<b>Sir, the lieutenant's witness is here.</b>
+
+971
+01:29:38,523 --> 01:29:39,854
+<b>Send him in.</b>
+
+972
+01:29:47,532 --> 01:29:51,832
+<b>On the Article 90 charge</b>
+<b>of disobeying a lawful order...</b>
+
+973
+01:29:52,003 --> 01:29:53,937
+<b>...we find the defendant guilty...</b>
+
+974
+01:29:54,105 --> 01:29:58,041
+<b>...and sentence him to 10 years</b>
+<b>at Nav Con Brig, Miramar.</b>
+
+975
+01:29:59,043 --> 01:30:01,443
+<b>Lieutenant Robert James.</b>
+
+976
+01:30:14,325 --> 01:30:17,385
+<b>Does the prisoner have anything</b>
+<b>he'd like to say?</b>
+
+977
+01:30:17,996 --> 01:30:19,793
+<b>No, sir.</b>
+
+978
+01:30:20,798 --> 01:30:22,356
+<b>Very well.</b>
+
+979
+01:30:24,569 --> 01:30:26,469
+<b>By executive order...</b>
+
+980
+01:30:26,638 --> 01:30:30,768
+<b>...the transcripts of this tribunal</b>
+<b>are classified ''top secret.''</b>
+
+981
+01:30:31,509 --> 01:30:36,037
+<b>The record of these charges are to be</b>
+<b>expunged from your permanent record...</b>
+
+982
+01:30:36,214 --> 01:30:39,411
+<b>...and your sentence is commuted</b>
+<b>to time served.</b>
+
+983
+01:30:43,688 --> 01:30:45,815
+<b>You're free to go, Master Chief.</b>
+
+984
+01:31:00,004 --> 01:31:03,531
+<b>l never seen anybody swallow more puke</b>
+<b>on my planes than you, Bobby James.</b>
+
+985
+01:31:03,708 --> 01:31:05,335
+<b>You saw that?</b>
+
+986
+01:31:05,510 --> 01:31:07,603
+<b>Why didn't you ever red-tag me?</b>
+
+987
+01:31:09,247 --> 01:31:12,546
+<b>l never saw anybody who wanted</b>
+<b>to be a Navy SEAL bad as you.</b>
+
+988
+01:31:17,088 --> 01:31:19,079
+<b>You know, master chief...</b>
+
+989
+01:31:21,359 --> 01:31:24,226
+<b>...what you taught me,</b>
+<b>what you trained me to do....</b>
+
+990
+01:31:24,395 --> 01:31:26,260
+<b>You saved my life over there, sir.</b>
+
+991
+01:31:29,133 --> 01:31:30,760
+<b>Come on, son.</b>
+
+992
+01:31:43,548 --> 01:31:45,311
+<b><i>High-ranking U.S. officials...</i></b>
+
+993
+01:31:45,483 --> 01:31:48,941
+<b><i>...attempting to explain the cause</i></b>
+<b><i>of a large mushroom cloud...</i></b>
+
+994
+01:31:49,120 --> 01:31:51,884
+<b><i>...first seen over North Korea</i></b>
+<b><i>on Sunday...</i></b>
+
+995
+01:31:52,056 --> 01:31:55,219
+<b><i>...are raising more questions</i></b>
+<b><i>than answers.</i></b>
+
+996
+01:31:55,393 --> 01:31:59,591
+<b><i>The mushroom cloud was first</i></b>
+<b><i>detected Sunday in satellite images...</i></b>
+
+997
+01:31:59,764 --> 01:32:01,254
+<b><i>...by South Korean media...</i></b>
+
+998
+01:32:01,432 --> 01:32:04,765
+<b><i>...indicating the cloud</i></b>
+<b><i>was approximately four kilometers...</i></b>
+
+999
+01:32:04,936 --> 01:32:08,064
+<b><i>...from the border area</i></b>
+<b><i>between North Korea and China...</i></b>
+
+1000
+01:32:08,239 --> 01:32:10,605
+<b><i>...in Yanggang province.</i></b>
+
+1001
+01:32:10,775 --> 01:32:14,609
+<b><i>Pyongyang initially denied</i></b>
+<b><i>that any explosion had occurred...</i></b>
+
+1002
+01:32:14,779 --> 01:32:17,009
+<b><i>...but later reversed themselves...</i></b>
+
+1003
+01:32:17,181 --> 01:32:21,083
+<b><i>...linking the explosion</i></b>
+<b><i>to a hydroelectric dam project.</i></b>
+
+1004
+01:32:21,252 --> 01:32:24,483
+<b><i>In the U.S.,</i></b>
+<b><i>several high-ranking officials...</i></b>
+
+1005
+01:32:24,656 --> 01:32:28,490
+<b><i>...were unusually quick to accept</i></b>
+<b><i>Pyongyang's explanation...</i></b>
+
+1006
+01:32:28,660 --> 01:32:32,118
+<b><i>...or offered differing explanations</i></b>
+<b><i>of their own.</i></b>
+
+1007
+01:32:32,296 --> 01:32:37,290
+<b><i>National Security Adviser, Condoleezza</i></b>
+<b><i>Rice, told CNN yesterday, quote:</i></b>
+
+1008
+01:32:37,468 --> 01:32:39,163
+<b><i>''There are all kinds of reports...</i></b>
+
+1009
+01:32:39,337 --> 01:32:42,534
+<b><i>...and there are all kinds of assessments</i></b>
+<b><i>that are going on.</i></b>
+
+1010
+01:32:42,707 --> 01:32:45,198
+<b><i>Maybe it was a forest fire</i></b>
+<b><i>of some kind. ''</i></b>
+
+1011
+01:32:45,410 --> 01:32:47,935
+<b>When the stories broke</b>
+<b>over the weekend...</b>
+
+1012
+01:32:48,112 --> 01:32:51,775
+<b>...about some explosion</b>
+<b>taking place in North Korea...</b>
+
+1013
+01:32:51,949 --> 01:32:54,315
+<b>...my instincts told me</b>
+<b>it was not nuclear.</b>
+
+1014
+01:32:54,485 --> 01:32:56,612
+<b>And the North Koreans</b>
+<b>have announced today...</b>
+
+1015
+01:32:56,788 --> 01:33:00,485
+<b>...that they were doing some demolition</b>
+<b>work for a hydroelectric project...</b>
+
+1016
+01:33:00,658 --> 01:33:05,186
+<b>...and they are inviting foreign officials,</b>
+<b>especially from the United Kingdom...</b>
+
+1017
+01:33:05,363 --> 01:33:06,694
+<b>...to visit the site.</b>
+
+1018
+01:33:06,864 --> 01:33:08,889
+<b><i>However, upon their return...</i></b>
+
+1019
+01:33:09,067 --> 01:33:13,128
+<b><i>...the diplomats told reporters that</i></b>
+<b><i>according to the satellite images...</i></b>
+
+1020
+01:33:13,304 --> 01:33:15,795
+<b><i>...they had been taken</i></b>
+<b><i>to the wrong position...</i></b>
+
+1021
+01:33:15,973 --> 01:33:20,239
+<b><i>...about 100 kilometers</i></b>
+<b><i>from the suspected explosion site.</i></b>
+
+1022
+01:33:20,578 --> 01:33:24,014
+<b><i>Today, the story</i></b>
+<b><i>took another curious turn...</i></b>
+
+1023
+01:33:24,182 --> 01:33:28,983
+<b><i>...as the South Korean Vice Minister</i></b>
+<b><i>of Reunification, Rhee-bong Jo...</i></b>
+
+1024
+01:33:29,153 --> 01:33:33,021
+<b><i>...released a statement claiming</i></b>
+<b><i>that there was no explosion...</i></b>
+
+1025
+01:33:33,191 --> 01:33:38,493
+<b><i>...stating the supposed mushroom cloud</i></b>
+<b><i>was a natural cloud formation.</i></b>
+
+1026
+01:33:38,663 --> 01:33:43,191
+<b><i>Perhaps the most troubling theory</i></b>
+<b><i>put forth to explain the large cloud...</i></b>
+
+1027
+01:33:43,367 --> 01:33:47,201
+<b><i>...is that a foreign state may have</i></b>
+<b><i>incurred into North Korea...</i></b>
+
+1028
+01:33:47,371 --> 01:33:51,171
+<b><i>...to conduct a clandestine</i></b>
+<b><i>military operation.</i></b>
+
+1029
+01:33:51,342 --> 01:33:55,108
+<b><i>This theory took on greater potential</i></b>
+<b><i>for being accurate...</i></b>
+
+1030
+01:33:55,279 --> 01:33:57,110
+<b><i>...when it was discovered today...</i></b>
+
+1031
+01:33:57,281 --> 01:34:01,877
+<b><i>...that the explosion occurred near</i></b>
+<b><i>the site of the Yongjiri Missile Base...</i></b>
+
+1032
+01:34:02,086 --> 01:34:06,386
+<b><i>...a secret facility thought to have</i></b>
+<b><i>an underground missile-firing system...</i></b>
+
+1033
+01:34:06,557 --> 01:34:08,388
+<b><i>...and which is also suspected...</i></b>
+
+1034
+01:34:08,559 --> 01:34:13,861
+<b><i>...to contain part of the DPRK's</i></b>
+<b><i>uranium-enrichment program.</i></b>
+
+1035
+01:34:14,031 --> 01:34:18,525
+<b><i>Mi-kyung Choi,</i></b>
+<b>Korea News <i>lnternational, Seoul.</i></b>
+
+1036
+01:35:37,415 --> 01:35:39,406
+<b>[ENGLlSH]</b>
+

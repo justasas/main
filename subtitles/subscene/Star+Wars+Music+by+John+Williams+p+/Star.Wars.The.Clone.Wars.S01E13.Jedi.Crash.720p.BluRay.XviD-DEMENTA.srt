@@ -1,0 +1,943 @@
+﻿1
+00:00:18,935 --> 00:00:22,813
+<font color="#404040">ANNOUNCER: </font><i>The Republic fleet is on</i>
+<i>the defensive and pushed to the brink.</i>
+
+2
+00:00:23,273 --> 00:00:27,067
+<i>As war rages in the much-contested</i>
+<i>Outer Rim territories,</i>
+
+3
+00:00:27,318 --> 00:00:31,572
+<i>chaos and fear mount as</i>
+<i>the Separatist army wages an epic battle</i>
+
+4
+00:00:31,614 --> 00:00:34,241
+<i>against heavily outnumbered</i>
+<i>Republic ships.</i>
+
+5
+00:00:34,284 --> 00:00:36,660
+<i>In the far reaches of the Quell system,</i>
+
+6
+00:00:36,786 --> 00:00:39,246
+<i>Anakin Skywalker</i>
+<i>and his Padawan, Ahsoka,</i>
+
+7
+00:00:39,289 --> 00:00:43,083
+<i>race across the galaxy</i>
+<i>to aid Jedi Knight Aayla Secura</i>
+
+8
+00:00:43,126 --> 00:00:48,297
+<i>who is in the midst of a fight for her life</i>
+<i>as the sinister droid army closes in.</i>
+
+9
+00:00:48,423 --> 00:00:49,465
+Our shields are gone!
+
+10
+00:00:52,802 --> 00:00:55,054
+Hurry, Skywalker, we're depending on you.
+
+11
+00:00:57,932 --> 00:00:59,308
+Prepare the gunships.
+
+12
+00:01:08,735 --> 00:01:11,653
+We have them now.
+Send in the super droids.
+
+13
+00:01:21,081 --> 00:01:23,499
+Commander, get out there
+and stop those droids.
+
+14
+00:01:23,625 --> 00:01:24,666
+I'm on it!
+
+15
+00:01:27,128 --> 00:01:28,170
+This way.
+
+16
+00:01:30,840 --> 00:01:32,007
+We're ready, Admiral.
+
+17
+00:01:38,348 --> 00:01:39,848
+General, Skywalker's here.
+
+18
+00:01:39,933 --> 00:01:42,684
+And none too soon.
+We're entering the atmosphere.
+
+19
+00:02:06,209 --> 00:02:07,668
+Rocket droids! Incoming!
+
+20
+00:02:17,637 --> 00:02:19,721
+Those droids are boarding Aayla's ship!
+
+21
+00:02:26,563 --> 00:02:29,731
+Take care of that clanker.
+I'll be onboard Aayla's cruiser.
+
+22
+00:02:29,816 --> 00:02:32,151
+Master, are you sure
+that's the wisest thing...
+
+23
+00:02:49,002 --> 00:02:50,460
+<font color="#DF01D7">(ALARM BEEPING)</font>
+
+24
+00:02:52,839 --> 00:02:56,008
+-Hey, kid.
+-I know! I know! I'm hanging on!
+
+25
+00:03:03,600 --> 00:03:08,061
+This is taking too long.
+Destroy that cruiser.
+
+26
+00:03:08,521 --> 00:03:11,690
+But, sir,
+there are still hundreds of droids onboard.
+
+27
+00:03:11,774 --> 00:03:14,610
+-I don't care.
+-Roger, roger.
+
+28
+00:03:40,220 --> 00:03:42,429
+Nice entrance, Skywalker.
+
+29
+00:03:43,389 --> 00:03:45,724
+How do you plan to get us
+out of this mess?
+
+30
+00:03:46,601 --> 00:03:50,979
+Well, I have a ship docking
+in the lower hangar as we speak.
+
+31
+00:03:54,108 --> 00:03:56,026
+-Activate docking port.
+-On it.
+
+32
+00:03:59,364 --> 00:04:00,781
+Hold it.
+
+33
+00:04:02,116 --> 00:04:03,367
+Ha-ha!
+
+34
+00:04:06,913 --> 00:04:08,205
+We made it.
+
+35
+00:04:11,376 --> 00:04:12,918
+Gangway locked in, sir!
+
+36
+00:04:20,134 --> 00:04:21,843
+It's too late!
+
+37
+00:04:23,179 --> 00:04:24,554
+<font color="#404040">AHSOKA:</font> Master!
+
+38
+00:04:33,398 --> 00:04:34,690
+Don't move the ship.
+
+39
+00:04:34,941 --> 00:04:36,358
+Are you guys all right down there?
+
+40
+00:04:44,117 --> 00:04:46,243
+Ahsoka, we have to leave now!
+
+41
+00:04:47,120 --> 00:04:49,454
+Hurry, get him on the ship.
+
+42
+00:04:51,457 --> 00:04:53,208
+I'm gonna turn on the deflector shields!
+
+43
+00:04:54,794 --> 00:04:56,044
+Gangway release.
+
+44
+00:05:04,762 --> 00:05:07,556
+<i>You'll never be able to dock</i>
+<i>with our ship in the middle of this battle.</i>
+
+45
+00:05:07,598 --> 00:05:09,057
+We have no choice, Admiral.
+
+46
+00:05:09,142 --> 00:05:11,310
+General Skywalker's condition
+may be critical.
+
+47
+00:05:11,394 --> 00:05:13,562
+We must get him onboard the Resolute.
+
+48
+00:05:13,646 --> 00:05:16,732
+<i>-Are all Jedi so reckless?</i>
+-Just the good ones.
+
+49
+00:05:25,783 --> 00:05:27,409
+The hyperdrive's been activated!
+
+50
+00:05:28,953 --> 00:05:30,787
+-Shut it down!
+-I can't!
+
+51
+00:05:31,998 --> 00:05:33,623
+General Secura, what's going on?
+
+52
+00:05:33,750 --> 00:05:36,168
+<i>We're going into hyperspace.</i>
+<i>Detach! Detach!</i>
+
+53
+00:05:36,252 --> 00:05:38,337
+-They'll take us with them.
+-Evasive maneuvers!
+
+54
+00:05:44,177 --> 00:05:46,762
+Plot every course
+along their last known trajectory!
+
+55
+00:05:46,804 --> 00:05:49,097
+We need to finish this battle
+and find them!
+
+56
+00:05:55,730 --> 00:05:58,607
+I need you with Commander Bly
+up on the bridge right now.
+
+57
+00:05:58,941 --> 00:06:00,067
+<font color="#404040">AHSOKA:</font> I should stay.
+
+58
+00:06:00,109 --> 00:06:03,445
+Commander Bly doesn't need my help.
+Anakin does.
+
+59
+00:06:04,238 --> 00:06:07,491
+You can help Anakin
+by getting this ship to safety.
+
+60
+00:06:09,118 --> 00:06:10,786
+General Secura, we have a problem.
+
+61
+00:06:10,912 --> 00:06:12,287
+What is it, Commander?
+
+62
+00:06:12,413 --> 00:06:16,166
+In our haste to escape, the navicomputer's
+coordinates were inputted incorrectly.
+
+63
+00:06:16,292 --> 00:06:19,503
+And, well, we're headed right for a star.
+
+64
+00:06:38,481 --> 00:06:42,150
+It's no use. The navigation computer's
+completely fried!
+
+65
+00:06:42,276 --> 00:06:45,278
+Shut down all power circuits
+to reset the coordinates.
+
+66
+00:06:45,321 --> 00:06:47,656
+That will cut off Anakin's life support!
+
+67
+00:06:47,949 --> 00:06:51,993
+I don't like it any more than you do,
+but it's a risk we're going to have to take.
+
+68
+00:06:58,000 --> 00:07:00,544
+We're switching off primary power units.
+
+69
+00:07:00,670 --> 00:07:02,963
+<font color="#404040">BLY:</font> We're cutting it awfully close.
+
+70
+00:07:03,297 --> 00:07:05,715
+<font color="#404040">AAYLA:</font> Ready to shut off auxiliary power.
+
+71
+00:07:05,842 --> 00:07:11,179
+On three. One, two, three!
+
+72
+00:07:27,196 --> 00:07:30,198
+We're out of hyperspace,
+resume all power!
+
+73
+00:07:30,533 --> 00:07:31,575
+<font color="#DF01D7">(GROANS)</font>
+
+74
+00:07:36,998 --> 00:07:40,500
+Switch the power back on!
+What are you waiting for?
+
+75
+00:07:42,712 --> 00:07:44,379
+Hurry, hurry!
+
+76
+00:07:57,518 --> 00:08:02,397
+Well, we're not gonna crash into the star,
+but we're definitely gonna hit that planet.
+
+77
+00:08:16,078 --> 00:08:17,078
+<font color="#DF01D7">(GROANING)</font>
+
+78
+00:08:29,258 --> 00:08:30,926
+Everyone, out!
+
+79
+00:08:44,273 --> 00:08:48,652
+Well, we made it,
+and Master Skywalker is still alive.
+
+80
+00:08:48,903 --> 00:08:51,947
+I'm just glad
+he wasn't awake to see that landing.
+
+81
+00:08:52,448 --> 00:08:54,241
+He would have been proud.
+
+82
+00:08:55,409 --> 00:08:57,827
+I've certainly perfected
+the art of demolishing ships
+
+83
+00:08:57,954 --> 00:09:00,247
+and almost getting my master killed.
+
+84
+00:09:15,137 --> 00:09:18,640
+Anakin doesn't have much time.
+We have to find help tonight.
+
+85
+00:09:20,935 --> 00:09:25,146
+Okay, you and Bly go south.
+Rex and I will stay here with Anakin.
+
+86
+00:09:25,606 --> 00:09:26,940
+No, Ahsoka.
+
+87
+00:09:26,983 --> 00:09:29,776
+In order to get help quickly,
+we must work together.
+
+88
+00:09:29,986 --> 00:09:31,361
+I can't leave him.
+
+89
+00:09:31,487 --> 00:09:35,490
+Master, I know if I was hurt,
+he'd never leave me behind.
+
+90
+00:09:35,616 --> 00:09:37,701
+I know this is hard, Ahsoka.
+
+91
+00:09:37,827 --> 00:09:40,996
+But Anakin has to stay behind,
+and we have to go now.
+
+92
+00:09:41,539 --> 00:09:44,165
+There is nothing more we can do for him.
+
+93
+00:09:46,335 --> 00:09:49,004
+We must do all we can
+to get off of this planet.
+
+94
+00:09:49,213 --> 00:09:52,799
+As a Jedi, it is your duty
+to do what is best for the group.
+
+95
+00:10:05,062 --> 00:10:06,980
+General Secura, look.
+
+96
+00:10:08,858 --> 00:10:11,484
+We're not the only ones
+here on this planet.
+
+97
+00:10:11,527 --> 00:10:14,696
+There has to be
+some kind of something here.
+
+98
+00:10:15,531 --> 00:10:17,407
+<font color="#DF01D7">(DISTANT SCREECHING)</font>
+
+99
+00:10:21,996 --> 00:10:24,372
+If you don't mind me asking,
+General Secura,
+
+100
+00:10:24,498 --> 00:10:25,874
+where exactly are we going?
+
+101
+00:10:26,000 --> 00:10:28,376
+To go find the people
+who live on this planet.
+
+102
+00:10:28,502 --> 00:10:31,838
+Where are we going to find them?
+We have no idea where they are.
+
+103
+00:10:32,548 --> 00:10:37,719
+It seems to me that the people
+we're looking for live near giant trees.
+
+104
+00:10:38,888 --> 00:10:41,097
+Very perceptive, Padawan.
+
+105
+00:10:42,600 --> 00:10:46,686
+Be strong, Master. Just a little bit longer.
+
+106
+00:10:47,229 --> 00:10:49,189
+Rex will watch over you.
+
+107
+00:10:49,231 --> 00:10:50,690
+It is time to go.
+
+108
+00:10:50,733 --> 00:10:53,610
+Don't worry, kid. I'll take good care of him.
+
+109
+00:10:56,781 --> 00:11:00,075
+Captain Rex, keep your locator on.
+We should be back by daybreak
+
+110
+00:11:00,117 --> 00:11:02,952
+with whoever or whatever
+lives on this planet.
+
+111
+00:11:03,079 --> 00:11:06,915
+Got it, General Secura.
+Hey, kid. Good luck.
+
+112
+00:11:08,084 --> 00:11:10,251
+Come on, guys, let's move out.
+
+113
+00:11:19,929 --> 00:11:24,265
+I can still sense your worry for Anakin,
+your attachment to him.
+
+114
+00:11:24,308 --> 00:11:28,061
+It's just... I get so confused sometimes.
+
+115
+00:11:28,562 --> 00:11:31,272
+It's forbidden for Jedi
+to form attachments,
+
+116
+00:11:31,315 --> 00:11:34,109
+yet we are supposed to be compassionate.
+
+117
+00:11:34,151 --> 00:11:36,444
+It is nothing to be ashamed of, Ahsoka.
+
+118
+00:11:37,071 --> 00:11:40,490
+I went through the same process
+when I was your age with my own master.
+
+119
+00:11:40,616 --> 00:11:42,575
+Really? You?
+
+120
+00:11:42,618 --> 00:11:44,619
+He was like a father to me.
+
+121
+00:11:45,121 --> 00:11:48,331
+I realized that for the greater good,
+I had to let him go.
+
+122
+00:11:48,791 --> 00:11:52,419
+Don't lose a thousand lives
+just to save one.
+
+123
+00:11:52,461 --> 00:11:57,298
+Maybe, but that doesn't mean
+that I can't try to save his life.
+
+124
+00:12:16,986 --> 00:12:18,653
+<font color="#DF01D7">(SOFT SNARLING)</font>
+
+125
+00:12:55,399 --> 00:12:57,442
+I don't see any signs of life.
+
+126
+00:12:57,693 --> 00:12:58,735
+<font color="#DF01D7">(GASPS)</font>
+
+127
+00:12:58,861 --> 00:13:00,403
+Watch out!
+
+128
+00:13:04,867 --> 00:13:08,036
+No wonder it's deserted! It's a death trap!
+
+129
+00:13:08,245 --> 00:13:11,581
+You'd have to be crazy
+to want to dodge those on a daily basis.
+
+130
+00:13:12,917 --> 00:13:15,627
+It looks like someone
+or something intelligent enough
+
+131
+00:13:15,711 --> 00:13:18,880
+to figure out a use for the pods
+has dragged them away!
+
+132
+00:13:19,423 --> 00:13:21,883
+All we have to do is follow the trail!
+Let's go!
+
+133
+00:13:34,396 --> 00:13:47,534
+<font color="#DF01D7">(SNARLING)</font>
+
+134
+00:13:52,706 --> 00:13:55,500
+General! Are you all right?
+
+135
+00:13:56,460 --> 00:13:57,585
+Be...
+
+136
+00:13:58,337 --> 00:13:59,462
+Behind you.
+
+137
+00:14:00,256 --> 00:14:01,464
+What the...
+
+138
+00:14:01,757 --> 00:14:03,716
+<font color="#DF01D7">(SCREAMING)</font>
+
+139
+00:14:06,095 --> 00:14:12,725
+<font color="#DF01D7">(SCREECHING)</font>
+
+140
+00:14:31,745 --> 00:14:33,162
+<font color="#DF01D7">(CAWING)</font>
+
+141
+00:14:42,089 --> 00:14:44,591
+Watch your left! Left!
+
+142
+00:14:44,758 --> 00:14:46,426
+<font color="#DF01D7">(SCREAMING)</font>
+
+143
+00:14:55,185 --> 00:14:56,895
+<font color="#DF01D7">(SCREECHING)</font>
+
+144
+00:15:04,278 --> 00:15:08,072
+Cameron's dead. So are Lucky and Flesh.
+
+145
+00:15:11,452 --> 00:15:12,785
+We have to keep moving.
+
+146
+00:15:48,614 --> 00:15:50,907
+Pod central. We made it.
+
+147
+00:16:00,709 --> 00:16:02,168
+Hello?
+
+148
+00:16:07,633 --> 00:16:09,550
+What have you come here for?
+
+149
+00:16:09,802 --> 00:16:13,554
+We are peacekeepers.
+We are Jedi from the Galactic Republic.
+
+150
+00:16:13,847 --> 00:16:17,350
+Our ship crashed a few miles away,
+and one of us is very badly injured.
+
+151
+00:16:18,060 --> 00:16:19,519
+We need your help.
+
+152
+00:16:19,561 --> 00:16:23,564
+Violence breeds violence.
+Jedi are no peacekeepers.
+
+153
+00:16:27,027 --> 00:16:28,736
+We're fighting for freedom.
+
+154
+00:16:28,821 --> 00:16:32,073
+And freedom and peace
+require fear and death?
+
+155
+00:16:34,076 --> 00:16:38,579
+We colonized this system
+to find solace from your wretched war.
+
+156
+00:16:38,664 --> 00:16:40,707
+We came here to find peace.
+
+157
+00:16:41,250 --> 00:16:42,500
+You must leave.
+
+158
+00:16:42,584 --> 00:16:46,421
+You will only destroy what small amount
+of peace is left in the galaxy.
+
+159
+00:16:47,756 --> 00:16:50,091
+You will only bring the destruction of us.
+
+160
+00:16:50,175 --> 00:16:53,261
+Regardless of the Clone Wars
+and our part in them,
+
+161
+00:16:53,345 --> 00:16:55,054
+we still need your help.
+
+162
+00:16:55,431 --> 00:16:58,182
+I'm afraid I must do
+what's best for my people.
+
+163
+00:16:58,600 --> 00:17:00,184
+We cannot help you.
+
+164
+00:17:01,270 --> 00:17:05,231
+Please, can you at least
+give us some medical supplies?
+
+165
+00:17:05,274 --> 00:17:07,233
+My friend is dying.
+
+166
+00:17:14,616 --> 00:17:16,951
+I cannot ignore a plea for help.
+
+167
+00:17:17,286 --> 00:17:20,955
+I will send my son, Wag Too,
+to help your friend. He is a healer.
+
+168
+00:17:21,165 --> 00:17:26,127
+But only one Jedi may go with him.
+The other must stay as insurance.
+
+169
+00:17:26,628 --> 00:17:29,297
+We wouldn't want a surprise attack
+on our village
+
+170
+00:17:29,423 --> 00:17:31,924
+or the kidnapping of our only healer.
+
+171
+00:17:32,468 --> 00:17:36,763
+Bly and I will stay.
+Padawan, go and help your master.
+
+172
+00:17:36,805 --> 00:17:41,684
+No! The clone and his blaster cannot stay.
+He will go with the youngling.
+
+173
+00:17:41,810 --> 00:17:43,978
+I can handle it. I don't need help.
+
+174
+00:17:44,021 --> 00:17:46,105
+-Ahsoka!
+-Don't worry.
+
+175
+00:17:46,148 --> 00:17:50,818
+Be mindful of your surroundings, Padawan,
+those creatures are still out there.
+
+176
+00:17:51,320 --> 00:17:54,530
+Got it. We won't be long.
+
+177
+00:18:13,342 --> 00:18:16,886
+-Here, it will restore your energy.
+-Thank you.
+
+178
+00:18:18,680 --> 00:18:22,934
+I'm sure you are aware that
+the Jedi did not initiate the Clone Wars.
+
+179
+00:18:23,435 --> 00:18:27,855
+Our only intention is to end it
+and restore peace to our galaxy.
+
+180
+00:18:29,525 --> 00:18:34,278
+What difference does it make who started
+the war and who only wants to end it?
+
+181
+00:18:34,696 --> 00:18:38,241
+No side is free of fault.
+It takes two to fight.
+
+182
+00:18:38,367 --> 00:18:42,912
+-But isn't liberty worth fighting for?
+-But is it worth killing for?
+
+183
+00:18:43,580 --> 00:18:45,873
+Fighting for something
+doesn't necessarily mean
+
+184
+00:18:45,958 --> 00:18:48,626
+you have to destroy everything
+in your path.
+
+185
+00:18:49,378 --> 00:18:53,714
+Only when you lay your arms down
+and pursue a course of non-violence
+
+186
+00:18:53,757 --> 00:18:57,885
+can you make this claim to me
+that the Jedi are peacekeepers.
+
+187
+00:19:20,117 --> 00:19:21,200
+<font color="#DF01D7">(GROANS)</font>
+
+188
+00:19:22,619 --> 00:19:25,246
+General, you need to maintain your rest.
+
+189
+00:19:25,414 --> 00:19:27,415
+I can't rest!
+
+190
+00:19:28,083 --> 00:19:32,753
+Rex, they're coming. I can hear them.
+We must fight.
+
+191
+00:19:37,259 --> 00:19:38,926
+<font color="#DF01D7">(SCREECHING)</font>
+
+192
+00:20:01,617 --> 00:20:03,201
+No, don't!
+
+193
+00:20:08,707 --> 00:20:09,957
+Fine.
+
+194
+00:20:23,430 --> 00:20:24,972
+Good work, little guy.
+
+195
+00:20:26,892 --> 00:20:27,975
+<font color="#DF01D7">(GROANING)</font>
+
+196
+00:20:28,060 --> 00:20:29,393
+Master!
+
+197
+00:20:33,315 --> 00:20:35,483
+Good to see you, Snips.
+
+198
+00:20:35,567 --> 00:20:41,030
+This is Wag Too, he's a healer.
+He can make you well again.
+
+199
+00:20:41,114 --> 00:20:43,866
+Don't you worry. I can fix you right up.
+
+200
+00:21:01,260 --> 00:21:02,301
+Um...
+
+201
+00:21:02,761 --> 00:21:04,178
+Snips?
+
+202
+00:21:08,016 --> 00:21:11,435
+The oil from the pods
+will aid in the healing process.
+
+203
+00:21:14,898 --> 00:21:17,525
+Don't worry, you'll be well in no time.
+
+204
+00:21:26,660 --> 00:21:30,162
+-You were right all along, Master Secura.
+-About what?
+
+205
+00:21:30,580 --> 00:21:31,872
+<font color="#404040">AHSOKA:</font> If I had stayed with Anakin,
+
+206
+00:21:31,957 --> 00:21:35,501
+we probably wouldn't have found
+this village in time to save him.
+
+207
+00:21:38,380 --> 00:21:41,340
+At least this whole ordeal is over now.
+
+208
+00:21:44,177 --> 00:21:46,929
+We still have to find a way off this planet.
+
+209
+00:21:48,432 --> 00:21:52,268
+Well, I'm sure Admiral Yularen
+and the Republic fleet are looking for us.
+
+210
+00:21:52,853 --> 00:21:55,688
+It shouldn't take them too long
+to get here.
+
+211
+00:22:35,645 --> 00:22:36,687
+English - SDH
+

@@ -1,0 +1,1367 @@
+﻿1
+00:00:18,601 --> 00:00:20,936
+<font color="#404040">ANNOUNCER: </font><i>A deadly weapon unleashed.</i>
+
+2
+00:00:20,979 --> 00:00:24,106
+The Separatist battleship Malevolence
+<i>advances unopposed</i>
+
+3
+00:00:24,232 --> 00:00:25,399
+<i>through Republic space,</i>
+
+4
+00:00:25,442 --> 00:00:28,652
+<i>tearing apart any ship</i>
+<i>that stands in its path.</i>
+
+5
+00:00:29,112 --> 00:00:31,488
+<i>After a daring rescue and narrow escape,</i>
+
+6
+00:00:31,614 --> 00:00:35,117
+<i>Anakin Skywalker prepares</i>
+<i>a counterattack on the enemy ship</i>
+
+7
+00:00:35,243 --> 00:00:40,122
+<i>and its diabolical droid commander,</i>
+<i>General Grievous.</i>
+
+8
+00:00:49,591 --> 00:00:51,967
+<font color="#404040">YULAREN:</font> This strike force
+has been commissioned by the Senate
+
+9
+00:00:52,010 --> 00:00:54,511
+to hunt down the enemy's new battleship.
+
+10
+00:00:54,637 --> 00:00:59,016
+As the bulk of our fleets are engaged
+on the front lines, we'll be on our own.
+
+11
+00:00:59,142 --> 00:01:02,186
+General Skywalker has prepared
+our attack strategy.
+
+12
+00:01:02,312 --> 00:01:03,479
+Thank you, Admiral.
+
+13
+00:01:03,605 --> 00:01:06,440
+While our capital ships are vulnerable
+to the enemy's attack,
+
+14
+00:01:06,483 --> 00:01:09,193
+I believe a squad of bombers
+can outmaneuver their ion weapon.
+
+15
+00:01:09,319 --> 00:01:12,780
+Our target will be the bridge
+and General Grievous.
+
+16
+00:01:15,867 --> 00:01:19,369
+The head clanker.
+Skywalker's getting pretty ambitious.
+
+17
+00:01:19,913 --> 00:01:23,540
+Our bombers will attack at high speed
+to evade the enemy's ion weapon.
+
+18
+00:01:23,625 --> 00:01:27,044
+We'll concentrate our firepower
+on the bridge superstructure, here.
+
+19
+00:01:27,504 --> 00:01:30,756
+We destroy General Grievous
+and the ship will fall with him.
+
+20
+00:01:30,840 --> 00:01:31,924
+Any questions?
+
+21
+00:01:32,008 --> 00:01:34,176
+Just tell us where that metal head is, sir.
+
+22
+00:01:34,260 --> 00:01:36,970
+Yeah, we've been waiting for a chance
+to take him out.
+
+23
+00:01:37,013 --> 00:01:40,015
+All right, men, settle down.
+This is an important mission.
+
+24
+00:01:40,558 --> 00:01:44,728
+We destroy Grievous,
+we can bring the war to a quicker end.
+
+25
+00:01:44,813 --> 00:01:47,106
+Pilots, prepare your bombers.
+
+26
+00:01:47,774 --> 00:01:50,901
+Skywalker, this is an aggressive plan.
+
+27
+00:01:51,361 --> 00:01:54,571
+Are you sure your squadron
+can complete this mission?
+
+28
+00:01:54,656 --> 00:01:56,824
+Let's ask them. Matchstick!
+
+29
+00:01:57,325 --> 00:02:00,119
+-You think our boys can pull it off?
+-Yes, sir!
+
+30
+00:02:00,203 --> 00:02:03,038
+There hasn't been a mission
+Shadow Squadron couldn't complete.
+
+31
+00:02:03,123 --> 00:02:06,959
+That's right. Minimal casualties,
+maximum effectiveness. That's us.
+
+32
+00:02:07,085 --> 00:02:09,878
+I admire your confidence, pilot.
+
+33
+00:02:09,963 --> 00:02:13,006
+Even so, minimal casualties
+may be enough
+
+34
+00:02:13,091 --> 00:02:16,385
+to prevent you
+from breaking Grievous' defenses.
+
+35
+00:02:16,970 --> 00:02:18,637
+Master Plo is right.
+
+36
+00:02:18,721 --> 00:02:22,432
+With Grievous on that ship's bridge,
+it's bound to be well protected.
+
+37
+00:02:22,517 --> 00:02:23,809
+Don't worry, Ahsoka.
+
+38
+00:02:23,893 --> 00:02:27,521
+We'll destroy that bridge,
+and Grievous along with it.
+
+39
+00:02:29,607 --> 00:02:34,278
+Master Skywalker seems to inspire
+great confidence in his men.
+
+40
+00:02:35,029 --> 00:02:37,114
+He does lead by example.
+
+41
+00:02:58,595 --> 00:03:00,053
+<font color="#DF01D7">(GRIEVOUS LAUGHING)</font>
+
+42
+00:03:00,138 --> 00:03:03,223
+So much for the Jedi escort.
+
+43
+00:03:05,476 --> 00:03:09,104
+The last transport is fleeing, General.
+You've got them on the run.
+
+44
+00:03:14,194 --> 00:03:17,946
+They won't get far.
+Charge the plasma rotors!
+
+45
+00:03:23,578 --> 00:03:26,663
+They're moving to attack position, sir.
+Still setting the coordinates.
+
+46
+00:03:26,748 --> 00:03:28,874
+Are we clear to make
+the jump to hyperspace?
+
+47
+00:03:30,627 --> 00:03:32,794
+Fire ion weapon!
+
+48
+00:03:38,343 --> 00:03:40,177
+We've lost all power!
+
+49
+00:03:47,060 --> 00:03:50,479
+Boy, this is a lot more fun
+when they're not shooting back.
+
+50
+00:03:50,521 --> 00:03:53,148
+I still can't seem to hit anything.
+
+51
+00:03:54,150 --> 00:03:57,319
+<i>Grievous, those battle droids</i>
+<i>are expensive.</i>
+
+52
+00:03:57,987 --> 00:04:00,822
+<i>The Jedi are never that harsh</i>
+<i>with their clones.</i>
+
+53
+00:04:00,907 --> 00:04:02,032
+<font color="#DF01D7">(GRIEVOUS SNARLS)</font>
+
+54
+00:04:02,158 --> 00:04:06,912
+The care these Jedi show for their troops
+is a weakness.
+
+55
+00:04:06,996 --> 00:04:10,791
+<i>A weakness we shall continue to exploit.</i>
+
+56
+00:04:10,833 --> 00:04:14,002
+<i>I have the coordinates for a new target.</i>
+
+57
+00:04:14,337 --> 00:04:18,340
+<i>The Republic’s secret</i>
+<i>Outer Rim medical station.</i>
+
+58
+00:04:18,383 --> 00:04:23,387
+<i>It is unprotected</i>
+<i>and treating over 60,000 wounded clones.</i>
+
+59
+00:04:23,513 --> 00:04:26,974
+<i>We will do them a favor</i>
+<i>and put them out of their misery.</i>
+
+60
+00:04:27,016 --> 00:04:28,809
+<i>Once you have destroyed it,</i>
+
+61
+00:04:28,851 --> 00:04:32,646
+<i>there will be nowhere for the Jedi</i>
+<i>to send their wounded,</i>
+
+62
+00:04:32,689 --> 00:04:34,481
+<i>and they will die.</i>
+
+63
+00:04:34,524 --> 00:04:37,401
+It will be a pleasure, my lord.
+
+64
+00:04:38,194 --> 00:04:42,489
+<i>I feel very confident leaving the ship</i>
+<i>under your command, General.</i>
+
+65
+00:04:43,533 --> 00:04:44,866
+<font color="#404040">DROID:</font> General!
+
+66
+00:04:51,040 --> 00:04:56,211
+Target those escape pods!
+I have a reputation to uphold.
+
+67
+00:05:00,341 --> 00:05:03,385
+<font color="#DF01D7">(DROIDS BUZZING)</font>
+
+68
+00:05:04,345 --> 00:05:05,387
+<font color="#DF01D7">(R2-D2 BEEPING)</font>
+
+69
+00:05:05,513 --> 00:05:09,182
+-<font color="#404040">AHSOKA:</font> Which one's mine?
+-You're with me. You'll be my gunner.
+
+70
+00:05:10,518 --> 00:05:12,227
+Somebody's got to watch my back.
+
+71
+00:05:12,312 --> 00:05:16,064
+Broadside could do that.
+Besides, you have Artoo.
+
+72
+00:05:16,190 --> 00:05:17,232
+<font color="#DF01D7">(R2-D2 BEEPING)</font>
+
+73
+00:05:17,317 --> 00:05:20,068
+But I so enjoy your company, my Padawan.
+
+74
+00:05:20,153 --> 00:05:23,697
+-Just admit it. You don't like my flying.
+-Well, no, I...
+
+75
+00:05:23,740 --> 00:05:25,574
+<font color="#DF01D7">(LAUGHING NERVOUSLY)</font>
+No, it's not that. It's just I...
+
+76
+00:05:25,658 --> 00:05:26,742
+<font color="#404040">PLO:</font> Skywalker.
+
+77
+00:05:26,868 --> 00:05:29,411
+The enemy warship has attacked
+our convoy of medical transports
+
+78
+00:05:29,495 --> 00:05:30,662
+near Ryndellia.
+
+79
+00:05:30,747 --> 00:05:32,539
+Medical transports?
+
+80
+00:05:32,582 --> 00:05:36,168
+Only General Grievous would go
+after clones who can't fight back.
+
+81
+00:05:36,252 --> 00:05:37,586
+The Ryndellia system.
+
+82
+00:05:37,712 --> 00:05:40,756
+Near Naboo!
+Isn't that where our medical base is?
+
+83
+00:05:40,840 --> 00:05:42,549
+I'll bet that will be his next target.
+
+84
+00:05:42,925 --> 00:05:47,095
+There are many star clusters in that area.
+With a ship that big,
+
+85
+00:05:47,221 --> 00:05:51,433
+he will be unable to chart a course
+that's less than 10 parsecs.
+
+86
+00:05:51,601 --> 00:05:53,935
+Looks like we're gonna have
+to take a shortcut.
+
+87
+00:05:54,062 --> 00:05:56,938
+Admiral, warn that station what's coming.
+
+88
+00:05:57,106 --> 00:05:59,441
+This journey may be treacherous.
+
+89
+00:05:59,567 --> 00:06:02,110
+If you lose any ships
+before you reach the target...
+
+90
+00:06:02,153 --> 00:06:04,112
+We won't lose anybody.
+
+91
+00:06:06,282 --> 00:06:09,451
+I will come along and fly fighter escort.
+
+92
+00:06:09,577 --> 00:06:10,911
+<font color="#404040">ANAKIN:</font> Any help is welcome, Master Plo.
+
+93
+00:06:10,953 --> 00:06:12,079
+<font color="#DF01D7">(R2-D2 WHISTLES)</font>
+
+94
+00:06:12,121 --> 00:06:13,622
+Just try not to fall behind.
+
+95
+00:06:13,664 --> 00:06:17,793
+I had a feeling you'd be coming along.
+Your ship has already been prepped.
+
+96
+00:06:22,673 --> 00:06:24,966
+<font color="#404040">NALA:</font> Even if we had the transports,
+
+97
+00:06:25,093 --> 00:06:29,137
+it is not possible to evacuate
+all of our wounded in time.
+
+98
+00:06:29,263 --> 00:06:32,808
+<i>You must try. You won't stand a chance</i>
+<i>against that battleship.</i>
+
+99
+00:06:33,309 --> 00:06:35,477
+<i>Nala Se, I only just received word.</i>
+
+100
+00:06:35,520 --> 00:06:38,480
+<i>I've contacted the Naboo.</i>
+<i>They are sending ships to help you.</i>
+
+101
+00:06:38,606 --> 00:06:42,317
+<i>-And I am on my way, as well.</i>
+-Thank you, Master Jedi.
+
+102
+00:06:42,360 --> 00:06:44,486
+<font color="#404040">CLONE:</font> If they reach us in time,
+
+103
+00:06:44,529 --> 00:06:46,988
+do you really think
+they're going to stop that thing?
+
+104
+00:06:47,115 --> 00:06:48,949
+It is our only hope.
+
+105
+00:07:01,129 --> 00:07:02,712
+Launch the fighters.
+
+106
+00:07:14,725 --> 00:07:16,810
+<font color="#404040">OBI-WAN:</font><i> I hope you know</i>
+<i>what you're doing, Anakin.</i>
+
+107
+00:07:16,853 --> 00:07:18,228
+Well, if I don't,
+
+108
+00:07:18,354 --> 00:07:20,647
+<i>I won't be around to hear</i>
+<i>the "I told you so."</i>
+
+109
+00:07:20,690 --> 00:07:22,065
+That's reassuring.
+
+110
+00:07:22,191 --> 00:07:25,068
+Well, take your shortcut,
+and I'll take the long way.
+
+111
+00:07:25,194 --> 00:07:28,280
+-But you better be there before I arrive.
+<i>-I'll be there, Obi-Wan.</i>
+
+112
+00:07:30,032 --> 00:07:32,492
+Shadow Squadron, tighten formation.
+Call in.
+
+113
+00:07:32,702 --> 00:07:33,910
+Shadow 2, standing by.
+
+114
+00:07:34,162 --> 00:07:35,370
+Shadow 3, standing by.
+
+115
+00:07:35,663 --> 00:07:36,872
+Shadow 4, standing by.
+
+116
+00:07:37,039 --> 00:07:38,665
+<font color="#DF01D7">(R2-D2 BEEPING EXCITEDLY)</font>
+
+117
+00:07:38,708 --> 00:07:42,043
+I know, Artooie.
+This is gonna be a tough one.
+
+118
+00:07:42,545 --> 00:07:44,588
+Cut the chatter, Ahsoka.
+
+119
+00:07:44,881 --> 00:07:46,256
+Shadow 11, standing by.
+
+120
+00:07:46,424 --> 00:07:47,883
+Shadow 12, standing by.
+
+121
+00:07:53,890 --> 00:07:55,557
+<font color="#404040">PLO:</font> Fighter escort ready.
+
+122
+00:07:58,060 --> 00:08:01,396
+This is Admiral Yularen.
+You are cleared for hyperspace jump.
+
+123
+00:08:01,898 --> 00:08:03,690
+<i>-Good hunting, sir.</i>
+-Thanks, Admiral.
+
+124
+00:08:03,858 --> 00:08:05,692
+<font color="#404040">ANAKIN:</font><i> All right, boys, let's go.</i>
+
+125
+00:08:07,570 --> 00:08:10,530
+Broadside, if we make it
+through this one, drinks are on me.
+
+126
+00:08:10,740 --> 00:08:12,115
+I can already taste it.
+
+127
+00:08:26,839 --> 00:08:28,590
+<font color="#404040">GRIEVOUS:</font> What's taking so long?
+
+128
+00:08:28,633 --> 00:08:32,636
+I want to get there before
+too many wounded clones escape.
+
+129
+00:08:32,803 --> 00:08:34,137
+<font color="#404040">DROID:</font> Sorry, sir.
+
+130
+00:08:34,222 --> 00:08:37,015
+The navicomputer has had to calculate
+a complex course
+
+131
+00:08:37,099 --> 00:08:40,977
+around a large nebula
+near the medical station.
+
+132
+00:08:41,354 --> 00:08:44,439
+They told me this ship was fast!
+
+133
+00:08:53,157 --> 00:08:56,076
+Okay, if we can just manage
+to navigate through my shortcut,
+
+134
+00:08:56,118 --> 00:08:57,285
+we'll be all right.
+
+135
+00:08:57,787 --> 00:09:01,456
+A nebula can be very unpredictable.
+I advise caution.
+
+136
+00:09:02,166 --> 00:09:03,667
+Don't worry about us, Master Jedi.
+
+137
+00:09:03,793 --> 00:09:06,002
+We can hold our own.
+Right, Shadow Squadron?
+
+138
+00:09:06,504 --> 00:09:07,796
+Copy that, Shadow 2.
+
+139
+00:09:08,089 --> 00:09:10,298
+Does anyone care
+what the Padawan thinks?
+
+140
+00:09:10,633 --> 00:09:12,634
+Of course we care, Snips!
+
+141
+00:09:12,677 --> 00:09:14,803
+But we're still going through that nebula.
+
+142
+00:09:14,929 --> 00:09:16,513
+<font color="#DF01D7">(R2-D2 BEEPING)</font>
+
+143
+00:09:16,639 --> 00:09:17,931
+Thanks, Artooie.
+
+144
+00:09:44,834 --> 00:09:47,335
+<font color="#404040">CLONE:</font><i> The evacuation</i>
+<i>is proceeding slowly, madam.</i>
+
+145
+00:09:47,420 --> 00:09:51,673
+We will have to move the patients
+in stable condition first.
+
+146
+00:09:51,757 --> 00:09:55,510
+The more critically injured
+will have to wait.
+
+147
+00:09:55,553 --> 00:09:59,014
+<font color="#404040">CLONE:</font><i> What about the bacta tanks?</i>
+<i>Many of those men can't be moved at all.</i>
+
+148
+00:09:59,098 --> 00:10:00,890
+I know, Commander.
+
+149
+00:10:01,017 --> 00:10:06,062
+Guide the patients that can be moved
+onto transports as quickly as you can.
+
+150
+00:10:06,522 --> 00:10:07,772
+<i>At once, madam.</i>
+
+151
+00:10:14,030 --> 00:10:16,740
+This soup is thick.
+Can you see anything?
+
+152
+00:10:16,949 --> 00:10:19,075
+Just keep your eyes on my thruster,
+Shadow 2.
+
+153
+00:10:19,368 --> 00:10:20,619
+<font color="#DF01D7">(BUZZING)</font>
+
+154
+00:10:21,120 --> 00:10:23,371
+They'll have to. The scanners are useless.
+
+155
+00:10:23,456 --> 00:10:25,206
+This is old-fashioned flying.
+
+156
+00:10:25,291 --> 00:10:28,418
+You have to feel your way through
+to stay on course.
+
+157
+00:10:28,586 --> 00:10:30,712
+<font color="#404040">PLO:</font><i> Skywalker is right, Ahsoka.</i>
+
+158
+00:10:31,047 --> 00:10:34,924
+Clear your mind, young one,
+and you will see the path.
+
+159
+00:10:35,718 --> 00:10:38,386
+Right now, I can't see anything at all.
+
+160
+00:10:40,056 --> 00:10:41,890
+<font color="#404040">BROADSIDE:</font> <i>I always know</i>
+<i>where I'm going.</i>
+
+161
+00:10:42,016 --> 00:10:43,558
+Yeah? Where's that, Broadside?
+
+162
+00:10:43,893 --> 00:10:46,227
+I'm going to blow up that battleship.
+
+163
+00:10:46,771 --> 00:10:49,564
+A clear path if ever there was one.
+
+164
+00:10:55,863 --> 00:11:00,408
+<font color="#404040">DROID:</font> Sir, the navicomputer indicates
+we only have one parsec to go.
+
+165
+00:11:00,451 --> 00:11:05,246
+Good. We will maximize our casualties
+with this attack.
+
+166
+00:11:05,289 --> 00:11:08,416
+<font color="#404040">DROID:</font> General, there's an incoming
+transmission from Count Dooku.
+
+167
+00:11:08,542 --> 00:11:09,751
+<font color="#DF01D7">(DEVICE BEEPING)</font>
+
+168
+00:11:09,794 --> 00:11:13,713
+<i>General Grievous, I have received</i>
+<i>intelligence from Lord Sidious.</i>
+
+169
+00:11:13,756 --> 00:11:16,633
+<i>The Republic has launched</i>
+<i>a small strike force</i>
+
+170
+00:11:16,759 --> 00:11:18,593
+to attack the Malevolence.
+
+171
+00:11:18,636 --> 00:11:23,765
+Let the Republic come!
+Our ship is unstoppable!
+
+172
+00:11:23,808 --> 00:11:29,062
+<i>Skywalker is leading the mission.</i>
+<i>Do not underestimate him.</i>
+
+173
+00:11:29,105 --> 00:11:30,271
+<font color="#DF01D7">(SCOFFS)</font>
+
+174
+00:11:30,314 --> 00:11:34,442
+I assure you, Count,
+if anything, it is Skywalker
+
+175
+00:11:34,568 --> 00:11:38,238
+who will underestimate this ship
+and its power.
+
+176
+00:11:44,954 --> 00:11:47,789
+So, Skyguy, how did you know
+about this shortcut?
+
+177
+00:11:47,832 --> 00:11:49,958
+It's an old smuggler's route.
+
+178
+00:11:50,084 --> 00:11:52,252
+The pilots used to talk about it
+on Tatooine.
+
+179
+00:11:52,294 --> 00:11:53,795
+Smuggler's route?
+
+180
+00:11:53,921 --> 00:11:55,964
+Ha! That makes me feel better!
+
+181
+00:11:56,090 --> 00:11:58,633
+<font color="#404040">ANAKIN:</font><i> They call it the Balmorraa Run.</i>
+
+182
+00:11:58,759 --> 00:11:59,968
+Balmorra Run?
+
+183
+00:12:00,010 --> 00:12:01,094
+<font color="#DF01D7">(BEEPING)</font>
+
+184
+00:12:01,137 --> 00:12:02,303
+I think I'm picking up a contact.
+
+185
+00:12:02,471 --> 00:12:05,974
+Skywalker! Listen to me!
+We need to turn around!
+
+186
+00:12:06,100 --> 00:12:08,351
+We can't.
+Not if we're gonna catch Grievous.
+
+187
+00:12:08,769 --> 00:12:12,021
+Another contact! This one's much larger.
+
+188
+00:12:12,148 --> 00:12:15,650
+<i>Skywalker! Balmorraa's the nesting ground</i>
+<i>of the giant Nebray mantas!</i>
+
+189
+00:12:15,776 --> 00:12:18,027
+Another? Another!
+
+190
+00:12:18,154 --> 00:12:19,154
+<font color="#DF01D7">(GASPS)</font>
+
+191
+00:12:21,157 --> 00:12:22,490
+Take evasive action!
+
+192
+00:12:31,333 --> 00:12:32,500
+<font color="#DF01D7">(R2-D2 BEEPING)</font>
+
+193
+00:12:32,626 --> 00:12:35,128
+Those gas-gulpers are huge!
+
+194
+00:12:37,339 --> 00:12:39,048
+Don't shoot, or they'll panic!
+
+195
+00:12:39,300 --> 00:12:42,051
+They'll panic? I'm about to panic!
+
+196
+00:12:42,344 --> 00:12:43,678
+There are so many of them!
+
+197
+00:12:52,188 --> 00:12:55,023
+I'm hit! My stabilizer's out!
+
+198
+00:12:59,361 --> 00:13:00,862
+Pull it together, Matchstick!
+
+199
+00:13:02,698 --> 00:13:04,324
+I'm okay. I got it.
+
+200
+00:13:07,203 --> 00:13:09,996
+These things are gonna make a meal
+out of us!
+
+201
+00:13:10,080 --> 00:13:11,873
+<font color="#DF01D7">(R2-D2 BEEPING NERVOUSLY)</font>
+
+202
+00:13:11,999 --> 00:13:13,708
+All wings, line up behind me!
+
+203
+00:13:13,834 --> 00:13:14,918
+Roger that, boss.
+
+204
+00:13:30,100 --> 00:13:32,936
+Hurry! They will not follow us
+beyond the nebula.
+
+205
+00:13:35,189 --> 00:13:37,899
+-That one looks hungry.
+-Nah, it's just smiling at you.
+
+206
+00:13:46,909 --> 00:13:48,117
+We're coming out of it!
+
+207
+00:13:51,956 --> 00:13:54,582
+Let's hope your shortcut paid off.
+
+208
+00:13:55,209 --> 00:13:56,709
+We're not far behind Grievous now.
+
+209
+00:13:59,588 --> 00:14:03,049
+<i>The medical station reports</i>
+<i>50% of patients evacuated.</i>
+
+210
+00:14:03,092 --> 00:14:04,592
+That's not good enough.
+
+211
+00:14:04,635 --> 00:14:07,262
+They'll never be finished
+before the enemy arrives.
+
+212
+00:14:07,304 --> 00:14:10,223
+<i>General Skywalker still has a chance</i>
+<i>to catch Grievous.</i>
+
+213
+00:14:10,266 --> 00:14:13,768
+-If he does, we have to be ready.
+<i>-Yes, sir.</i>
+
+214
+00:14:24,655 --> 00:14:27,782
+Shadow 2,
+what is the damage to your ship?
+
+215
+00:14:27,992 --> 00:14:29,325
+Just a scratch, sir.
+
+216
+00:14:29,493 --> 00:14:32,495
+We must not take
+any more unnecessary risks.
+
+217
+00:14:32,621 --> 00:14:37,834
+If we lose even a single ship,
+our mission is that much closer to failure.
+
+218
+00:14:38,002 --> 00:14:41,170
+Understood, Master Plo.
+But we didn't lose any ships, and I didn't...
+
+219
+00:14:41,297 --> 00:14:44,132
+<i>-<font color="#404040">CLONE:</font> Sir, another contact!</i>
+-I thought those things wouldn't follow us.
+
+220
+00:14:44,258 --> 00:14:47,594
+Not following, coming out of hyperspace.
+It's a ship.
+
+221
+00:14:48,262 --> 00:14:50,138
+It's the Malevolence.
+
+222
+00:15:02,109 --> 00:15:04,319
+A squadron of Republic fighters
+is approaching.
+
+223
+00:15:04,361 --> 00:15:05,778
+Skywalker!
+
+224
+00:15:09,658 --> 00:15:12,827
+Launch fighters and bring the ship around.
+
+225
+00:15:12,953 --> 00:15:16,164
+<font color="#404040">DROID:</font> There are several medical
+transports surrounding the station.
+
+226
+00:15:26,342 --> 00:15:31,179
+Target the transports first!
+I want every single ship destroyed!
+
+227
+00:15:31,513 --> 00:15:32,805
+Roger, roger.
+
+228
+00:15:49,490 --> 00:15:52,158
+Ha! This is too easy!
+
+229
+00:15:56,747 --> 00:15:58,373
+We've got fighters coming in!
+
+230
+00:16:03,671 --> 00:16:06,047
+<font color="#404040">ANAKIN:</font><i> Hold it steady.</i>
+<i>Come on, hold it steady.</i>
+
+231
+00:16:06,215 --> 00:16:09,384
+Charge the ion cannon and prepare to fire!
+
+232
+00:16:09,510 --> 00:16:12,387
+But, sir, our fighters
+will be caught in the blast.
+
+233
+00:16:12,429 --> 00:16:14,180
+Fire at my command!
+
+234
+00:16:16,725 --> 00:16:21,354
+-Get those fighters off of us!
+-Your fancy flying is making it difficult!
+
+235
+00:16:21,730 --> 00:16:22,772
+Fire!
+
+236
+00:16:25,734 --> 00:16:28,277
+-Incoming!
+-Make towards the edge of the ray! Now!
+
+237
+00:16:31,699 --> 00:16:33,366
+Give it everything you've got.
+
+238
+00:16:33,701 --> 00:16:35,743
+<font color="#DF01D7">(LAUGHING MALICIOUSLY)</font>
+
+239
+00:16:35,869 --> 00:16:38,579
+Shadow 2, your speed is dropping.
+What's wrong?
+
+240
+00:16:38,706 --> 00:16:41,124
+Nothing, sir.
+Just trying to keep it together.
+
+241
+00:16:41,583 --> 00:16:42,709
+You can make it, Matchstick.
+
+242
+00:16:42,793 --> 00:16:43,918
+<i>Hang on!</i>
+
+243
+00:16:45,879 --> 00:16:46,921
+<font color="#DF01D7">(GASPS)</font>
+
+244
+00:16:47,798 --> 00:16:48,923
+<font color="#404040">CLONE:</font><i> Watch out!</i>
+
+245
+00:17:01,395 --> 00:17:03,146
+Shadow Squadron, check in.
+
+246
+00:17:03,439 --> 00:17:05,898
+We lost Matchstick and Tag.
+
+247
+00:17:06,775 --> 00:17:09,610
+<i>Shadows 6, 7 and 10</i>
+<i>were caught in the ray.</i>
+
+248
+00:17:15,242 --> 00:17:19,162
+It looks as though Skywalker has failed.
+He's lost almost half his ships.
+
+249
+00:17:19,288 --> 00:17:20,621
+We should go, madam.
+
+250
+00:17:20,914 --> 00:17:22,331
+I will stay.
+
+251
+00:17:28,797 --> 00:17:29,964
+<font color="#404040">PLO:</font> Stay on course.
+
+252
+00:17:30,424 --> 00:17:31,799
+This flak is heavy!
+
+253
+00:17:32,134 --> 00:17:33,509
+All deflectors, double front!
+
+254
+00:17:34,678 --> 00:17:38,306
+Master! We need a new plan!
+
+255
+00:17:38,432 --> 00:17:40,349
+We can make it, Ahsoka. Hang in there.
+
+256
+00:17:44,605 --> 00:17:46,689
+Sir, the enemy fighters are closing.
+
+257
+00:17:47,191 --> 00:17:50,818
+Let them come! Prepare the ion cannon.
+
+258
+00:17:50,986 --> 00:17:56,657
+First we will destroy the medical station,
+then we will finish off Skywalker.
+
+259
+00:17:56,950 --> 00:17:59,118
+I have a bad feeling about this.
+
+260
+00:18:00,954 --> 00:18:02,622
+Watch those towers, boys!
+
+261
+00:18:06,919 --> 00:18:08,294
+We're too close! Loosen up!
+
+262
+00:18:16,178 --> 00:18:17,470
+Ion cannon ready.
+
+263
+00:18:17,805 --> 00:18:20,306
+They're targeting the station.
+We're running out of time.
+
+264
+00:18:22,184 --> 00:18:26,479
+Master! You can make it,
+but everyone else is getting shot down!
+
+265
+00:18:27,940 --> 00:18:29,190
+<i>Master!</i>
+
+266
+00:18:31,360 --> 00:18:33,027
+Station has been targeted.
+
+267
+00:18:34,279 --> 00:18:36,864
+Start the ion cannon acceleration.
+
+268
+00:18:39,827 --> 00:18:41,702
+If we can do enough damage,
+
+269
+00:18:41,787 --> 00:18:44,789
+the weapon may overload
+when Grievous tries to fire.
+
+270
+00:18:49,837 --> 00:18:51,546
+Shadow Squadron, new target.
+
+271
+00:18:51,713 --> 00:18:53,673
+<i>We're taking out the starboard ion cannon.</i>
+
+272
+00:18:58,720 --> 00:19:01,180
+Ion cannon, 75% charged.
+
+273
+00:19:01,473 --> 00:19:02,557
+Hurry!
+
+274
+00:19:10,732 --> 00:19:11,899
+Torpedoes away!
+
+275
+00:19:31,170 --> 00:19:32,253
+Fire!
+
+276
+00:19:47,769 --> 00:19:49,187
+Good work, Shadow Squadron!
+
+277
+00:19:49,688 --> 00:19:51,439
+<font color="#404040">ANAKIN:</font><i> Nice job, Ahsoka!</i>
+
+278
+00:19:56,236 --> 00:19:57,820
+<font color="#404040">GRIEVOUS:</font> Damage report.
+
+279
+00:19:57,946 --> 00:20:00,239
+We've lost both primary weapons.
+
+280
+00:20:00,741 --> 00:20:03,784
+-The hyperdrive has been disabled.
+-<font color="#404040">GRIEVOUS:</font> Impossible!
+
+281
+00:20:03,911 --> 00:20:06,621
+General, we are picking up
+three Republic warships
+
+282
+00:20:06,747 --> 00:20:07,997
+entering the system.
+
+283
+00:20:21,011 --> 00:20:23,012
+-Anakin, do you copy?
+<i>-<font color="#404040">ANAKIN:</font> I'm here.</i>
+
+284
+00:20:23,138 --> 00:20:26,349
+Congratulations. It looks
+like your mission was a success.
+
+285
+00:20:26,808 --> 00:20:29,310
+Partially, but Grievous is still alive.
+
+286
+00:20:29,853 --> 00:20:33,940
+The battle was pretty rough on my men.
+We're heading for the medical station.
+
+287
+00:20:33,982 --> 00:20:35,983
+We'll take it from here.
+
+288
+00:20:36,026 --> 00:20:38,319
+But don't worry,
+we'll call when we need you.
+
+289
+00:20:38,445 --> 00:20:39,820
+<i>I'll be waiting, Obi-Wan.</i>
+
+290
+00:20:39,905 --> 00:20:43,991
+All right, let's finish what Anakin started.
+Ahead full.
+
+291
+00:20:44,868 --> 00:20:46,160
+<font color="#DF01D7">(GRUNTS IN FRUSTRATION)</font>
+
+292
+00:20:46,203 --> 00:20:49,830
+Full retreat! Make for Separatist space.
+
+293
+00:21:09,226 --> 00:21:11,435
+<font color="#404040">PLO:</font> Great job, Master Skywalker.
+
+294
+00:21:11,520 --> 00:21:14,855
+Your leadership skills
+are most impressive.
+
+295
+00:21:14,898 --> 00:21:16,691
+You didn't do so bad yourself.
+
+296
+00:21:16,858 --> 00:21:21,362
+Uh, excuse me, I believe it was
+my suggestion to change the plan.
+
+297
+00:21:21,446 --> 00:21:25,283
+-That's kind of true, Snips.
+-<font color="#404040">PLO:</font> From a certain point of view.
+
+298
+00:21:32,291 --> 00:21:33,874
+Make sure our ships are ready.
+
+299
+00:21:33,959 --> 00:21:36,711
+We'll only have a short time
+before Obi-Wan calls us for support.
+
+300
+00:21:36,795 --> 00:21:38,170
+Yes, sir.
+
+301
+00:21:41,758 --> 00:21:47,263
+<font color="#404040">NALA:</font> General Skywalker, I wanted to
+thank you for your valiant effort today.
+
+302
+00:21:48,056 --> 00:21:51,017
+Do not take the lives you saved lightly.
+
+303
+00:21:51,101 --> 00:21:54,603
+I don't. But I also can't take
+the lives I lost lightly.
+
+304
+00:21:55,939 --> 00:21:57,148
+I see.
+
+305
+00:21:57,816 --> 00:22:01,068
+If you will excuse me,
+I must prepare for the coming battle.
+
+306
+00:22:05,407 --> 00:22:08,492
+Your master is a very curious Jedi.
+
+307
+00:22:09,077 --> 00:22:10,953
+He is one of a kind.
+

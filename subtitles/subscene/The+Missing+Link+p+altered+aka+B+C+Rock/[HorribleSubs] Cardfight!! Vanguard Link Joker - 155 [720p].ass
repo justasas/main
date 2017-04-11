@@ -1,0 +1,301 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:16.59,0:00:19.05,Main Dialog,,0000,0000,0000,,Be careful, Leon.
+Dialogue: 0,0:00:19.05,0:00:20.45,Main Dialog,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:00:20.45,0:00:22.50,Main Dialog,,0000,0000,0000,,I don't know what kind of \Ntrap has been laid here,
+Dialogue: 0,0:00:23.00,0:00:24.34,Main Dialog,,0000,0000,0000,,but I just have to win.
+Dialogue: 0,0:00:25.97,0:00:27.62,Main Dialog,,0000,0000,0000,,That's all.
+Dialogue: 0,0:02:07.33,0:02:09.84,Main Dialog,,0000,0000,0000,,So? Where is he?
+Dialogue: 0,0:02:10.31,0:02:13.32,Main Dialog,,0000,0000,0000,,My favorite room is the study, but...
+Dialogue: 0,0:02:24.64,0:02:26.75,Main Dialog,,0000,0000,0000,,The Souryu child...
+Dialogue: 0,0:02:27.30,0:02:31.50,Main Dialog,,0000,0000,0000,,Even I'm at a disadvantage \Nwhen faced with you two.
+Dialogue: 0,0:02:31.94,0:02:34.50,Main Dialog,,0000,0000,0000,,While you're together, that is...
+Dialogue: 0,0:02:41.07,0:02:42.55,Main Dialog,,0000,0000,0000,,Leon!
+Dialogue: 0,0:02:42.55,0:02:45.06,Main Dialog,,0000,0000,0000,,Leon Souryu...
+Dialogue: 0,0:02:45.06,0:02:47.56,Main Dialog,,0000,0000,0000,,I've prepared a different room for you.
+Dialogue: 0,0:02:47.56,0:02:49.82,Main Dialog,,0000,0000,0000,,You're a VIP.
+Dialogue: 0,0:02:49.82,0:02:52.70,Main Dialog,,0000,0000,0000,,I have to give you red-carpet treatment.
+Dialogue: 0,0:02:52.70,0:02:53.31,Main Dialog,,0000,0000,0000,,Leon!
+Dialogue: 0,0:02:58.78,0:03:00.68,Main Dialog,,0000,0000,0000,,I told you.
+Dialogue: 0,0:03:00.68,0:03:06.42,Main Dialog,,0000,0000,0000,,My full-bore reception is waiting for him.
+Dialogue: 0,0:03:10.12,0:03:15.13,Signs,,0000,0000,0000,,The Two Leons
+Dialogue: 0,0:03:19.99,0:03:22.06,Main Dialog,,0000,0000,0000,,I've been split up from Takuto?
+Dialogue: 0,0:03:34.98,0:03:36.40,Main Dialog,,0000,0000,0000,,What the...?!
+Dialogue: 0,0:03:40.96,0:03:42.82,Main Dialog,,0000,0000,0000,,Who are you?!
+Dialogue: 0,0:03:43.39,0:03:47.41,Main Dialog,,0000,0000,0000,,The fighter that you'll \Nnever be able to surpass.
+Dialogue: 0,0:03:48.46,0:03:50.25,Main Dialog,,0000,0000,0000,,I'm asking for your name!
+Dialogue: 0,0:03:50.25,0:03:53.38,Main Dialog,,0000,0000,0000,,I'm you from the future,
+Dialogue: 0,0:03:53.38,0:03:55.77,Main Dialog,,0000,0000,0000,,a future ruled by Link Joker.
+Dialogue: 0,0:03:55.77,0:03:56.88,Main Dialog,,0000,0000,0000,,From the future?!
+Dialogue: 0,0:04:03.24,0:04:05.24,Main Dialog,,0000,0000,0000,,What is this farce?
+Dialogue: 0,0:04:05.24,0:04:06.85,Main Dialog,,0000,0000,0000,,A future Leon?!
+Dialogue: 0,0:04:07.58,0:04:09.60,Main Dialog,,0000,0000,0000,,I won't let you get away with this!
+Dialogue: 0,0:04:11.30,0:04:12.73,Main Dialog,,0000,0000,0000,,Shut up.
+Dialogue: 0,0:04:17.08,0:04:20.73,Main Dialog,,0000,0000,0000,,I'd like to dispose of you for good \Nas soon as possible,
+Dialogue: 0,0:04:21.34,0:04:27.74,Main Dialog,,0000,0000,0000,,but summoning the future Leon \Nused up an awful lot of power.
+Dialogue: 0,0:04:28.17,0:04:29.91,Main Dialog,,0000,0000,0000,,Oh, don't worry.
+Dialogue: 0,0:04:29.91,0:04:32.89,Main Dialog,,0000,0000,0000,,I won't take up too much of your time.
+Dialogue: 0,0:04:32.89,0:04:35.87,Main Dialog,,0000,0000,0000,,It's his destiny to lose this fight
+Dialogue: 0,0:04:35.87,0:04:39.27,Main Dialog,,0000,0000,0000,,and become Reversed.
+Dialogue: 0,0:04:44.31,0:04:47.41,Main Dialog,,0000,0000,0000,,Even if you are the future me,
+Dialogue: 0,0:04:48.10,0:04:50.14,Main Dialog,,0000,0000,0000,,I'll still win.
+Dialogue: 0,0:04:50.14,0:04:52.64,Main Dialog,,0000,0000,0000,,That's logical.
+Dialogue: 0,0:04:53.25,0:04:57.90,Main Dialog,,0000,0000,0000,,But don't forget that your future is me.
+Dialogue: 0,0:04:58.60,0:05:01.83,Main Dialog,,0000,0000,0000,,Stand up, my Vanguard!
+Dialogue: 0,0:05:04.72,0:05:06.94,Main Dialog,,0000,0000,0000,,Advance Party Brave Shooter!
+Dialogue: 0,0:05:08.24,0:05:11.16,Main Dialog,,0000,0000,0000,,Battle Siren, Katy!
+Dialogue: 0,0:05:11.96,0:05:14.20,Main Dialog,,0000,0000,0000,,You say I'm Reversed?
+Dialogue: 0,0:05:14.20,0:05:16.92,Main Dialog,,0000,0000,0000,,As if I would accept that!
+Dialogue: 0,0:05:16.92,0:05:19.94,Main Dialog,,0000,0000,0000,,I go first. Draw.
+Dialogue: 0,0:05:19.94,0:05:23.32,Main Dialog,,0000,0000,0000,,I ride Blue Storm Water General, Hermes!
+Dialogue: 0,0:05:27.54,0:05:29.66,Main Dialog,,0000,0000,0000,,I ride Wheel Assault!
+Dialogue: 0,0:05:32.46,0:05:33.56,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:05:34.55,0:05:35.56,Main Dialog,,0000,0000,0000,,Attack!
+Dialogue: 0,0:05:38.15,0:05:39.56,Main Dialog,,0000,0000,0000,,Wheel Assault!
+Dialogue: 0,0:05:46.60,0:05:48.22,Main Dialog,,0000,0000,0000,,Ride!
+Dialogue: 0,0:05:48.22,0:05:49.57,Main Dialog,,0000,0000,0000,,And then I call!
+Dialogue: 0,0:05:56.08,0:05:57.79,Main Dialog,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:05:58.44,0:06:00.37,Main Dialog,,0000,0000,0000,,We're still in the opening moves.
+Dialogue: 0,0:06:00.37,0:06:04.05,Main Dialog,,0000,0000,0000,,Already worried you won't be able \Nto change your own fate?
+Dialogue: 0,0:06:05.58,0:06:07.90,Main Dialog,,0000,0000,0000,,I stand and draw.
+Dialogue: 0,0:06:08.74,0:06:11.26,Main Dialog,,0000,0000,0000,,I ride Tear Knight, Lazarus!
+Dialogue: 0,0:06:14.06,0:06:14.92,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:06:16.31,0:06:16.98,Main Dialog,,0000,0000,0000,,Basil!
+Dialogue: 0,0:06:19.55,0:06:20.56,Main Dialog,,0000,0000,0000,,Lazarus!
+Dialogue: 0,0:06:24.80,0:06:26.17,Main Dialog,,0000,0000,0000,,Drive check...
+Dialogue: 0,0:06:26.64,0:06:27.40,Main Dialog,,0000,0000,0000,,Heal trigger!
+Dialogue: 0,0:06:30.06,0:06:32.24,Main Dialog,,0000,0000,0000,,I give the power to Tidal Assault!
+Dialogue: 0,0:06:36.66,0:06:38.16,Main Dialog,,0000,0000,0000,,Tidal Assault!
+Dialogue: 0,0:06:38.65,0:06:39.92,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:06:40.43,0:06:41.82,Main Dialog,,0000,0000,0000,,With its skill,
+Dialogue: 0,0:06:41.82,0:06:44.21,Main Dialog,,0000,0000,0000,,Tidal Assault stands and attacks.
+Dialogue: 0,0:06:47.23,0:06:48.67,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:06:49.69,0:06:51.41,Main Dialog,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:06:52.84,0:06:54.89,Main Dialog,,0000,0000,0000,,I see.
+Dialogue: 0,0:06:54.89,0:06:59.17,Main Dialog,,0000,0000,0000,,Aqua Force's combination \Nattacks are wonderful.
+Dialogue: 0,0:06:59.17,0:07:03.97,Main Dialog,,0000,0000,0000,,But my Aqua Force is so very superior.
+Dialogue: 0,0:07:07.54,0:07:09.70,Main Dialog,,0000,0000,0000,,Stand and draw.
+Dialogue: 0,0:07:12.31,0:07:18.58,Main Dialog,,0000,0000,0000,,Dragon spun into existence from the \Nwarp of the wind and the weft of the sea...
+Dialogue: 0,0:07:19.82,0:07:21.12,Main Dialog,,0000,0000,0000,,Turn into...
+Dialogue: 0,0:07:21.87,0:07:23.96,Main Dialog,,0000,0000,0000,,...your destined form!
+Dialogue: 0,0:07:24.63,0:07:25.96,Main Dialog,,0000,0000,0000,,Don't tell me...
+Dialogue: 0,0:07:29.30,0:07:33.76,Main Dialog,,0000,0000,0000,,Blue Storm Dragon, Maelstrom "Reverse"!
+Dialogue: 0,0:07:41.66,0:07:44.35,Main Dialog,,0000,0000,0000,,Maelstrom "Reverse"?!
+Dialogue: 0,0:07:44.83,0:07:47.82,Main Dialog,,0000,0000,0000,,Enfolded in Link Joker's power,
+Dialogue: 0,0:07:47.82,0:07:51.11,Main Dialog,,0000,0000,0000,,this dragon will lead to a new land \Nfor the Souryu people.
+Dialogue: 0,0:07:51.42,0:07:54.94,Main Dialog,,0000,0000,0000,,This is Maelstrom "Reverse"!
+Dialogue: 0,0:07:57.75,0:08:00.86,Main Dialog,,0000,0000,0000,,What a sinister form.
+Dialogue: 0,0:08:00.86,0:08:05.13,Main Dialog,,0000,0000,0000,,It's the perfect unit for the Reversed \NLeon Souryu, don't you think?
+Dialogue: 0,0:08:08.47,0:08:11.14,Main Dialog,,0000,0000,0000,,That's right. Despair.
+Dialogue: 0,0:08:11.14,0:08:13.31,Main Dialog,,0000,0000,0000,,Just like you,
+Dialogue: 0,0:08:13.31,0:08:18.13,Main Dialog,,0000,0000,0000,,Leon Souryu is sinking \Nto the depths of despair.
+Dialogue: 0,0:08:22.32,0:08:23.49,Main Dialog,,0000,0000,0000,,You...
+Dialogue: 0,0:08:23.49,0:08:27.43,Main Dialog,,0000,0000,0000,,How much do you have to belittle \NAqua Force before you're satisfied?!
+Dialogue: 0,0:08:32.47,0:08:34.15,Main Dialog,,0000,0000,0000,,Gregorius moves.
+Dialogue: 0,0:08:34.70,0:08:36.51,Main Dialog,,0000,0000,0000,,I call Diamantes.
+Dialogue: 0,0:08:36.51,0:08:38.41,Main Dialog,,0000,0000,0000,,It attacks Lazarus!
+Dialogue: 0,0:08:41.04,0:08:42.41,Main Dialog,,0000,0000,0000,,Intercept!
+Dialogue: 0,0:08:43.13,0:08:45.29,Main Dialog,,0000,0000,0000,,Diamantes uses its skill to move back.
+Dialogue: 0,0:08:46.01,0:08:48.04,Main Dialog,,0000,0000,0000,,Tidal Assault attacks!
+Dialogue: 0,0:08:48.51,0:08:49.42,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:08:49.96,0:08:51.05,Main Dialog,,0000,0000,0000,,Gregorius!
+Dialogue: 0,0:08:55.76,0:08:56.68,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:09:03.34,0:09:05.94,Main Dialog,,0000,0000,0000,,Maelstrom "Reverse"!
+Dialogue: 0,0:09:05.94,0:09:07.44,Main Dialog,,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:09:07.71,0:09:09.31,Main Dialog,,0000,0000,0000,,I lock Katy!
+Dialogue: 0,0:09:11.10,0:09:14.44,Main Dialog,,0000,0000,0000,,It gets +5000 power and an extra critical.
+Dialogue: 0,0:09:17.53,0:09:19.20,Main Dialog,,0000,0000,0000,,Twin drive...
+Dialogue: 0,0:09:19.74,0:09:21.06,Main Dialog,,0000,0000,0000,,First...
+Dialogue: 0,0:09:21.60,0:09:23.04,Main Dialog,,0000,0000,0000,,Second...
+Dialogue: 0,0:09:24.05,0:09:25.33,Main Dialog,,0000,0000,0000,,Heal trigger.
+Dialogue: 0,0:09:36.21,0:09:38.84,Main Dialog,,0000,0000,0000,,What sinister power...
+Dialogue: 0,0:09:40.58,0:09:44.10,Main Dialog,,0000,0000,0000,,This is the power of the true Maelstrom.
+Dialogue: 0,0:09:44.55,0:09:46.18,Main Dialog,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:09:51.85,0:09:53.21,Main Dialog,,0000,0000,0000,,Well?
+Dialogue: 0,0:09:53.21,0:09:56.49,Main Dialog,,0000,0000,0000,,What do you think of Maelstrom \N"Reverse's" power?
+Dialogue: 0,0:10:00.59,0:10:02.01,Main Dialog,,0000,0000,0000,,Leon...
+Dialogue: 0,0:10:20.47,0:10:22.02,Main Dialog,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:10:22.02,0:10:25.77,Main Dialog,,0000,0000,0000,,Are you intimidated by \NMaelstrom "Reverse's" power?
+Dialogue: 0,0:10:25.77,0:10:29.31,Main Dialog,,0000,0000,0000,,Now, it's your turn.
+Dialogue: 0,0:10:29.31,0:10:32.40,Main Dialog,,0000,0000,0000,,Advance towards the warped future!
+Dialogue: 0,0:10:33.79,0:10:36.10,Main Dialog,,0000,0000,0000,,I stand and draw.
+Dialogue: 0,0:10:38.43,0:10:42.74,Main Dialog,,0000,0000,0000,,Wielder of the Demiurge, \Narise from the blue sea!
+Dialogue: 0,0:10:43.38,0:10:44.53,Main Dialog,,0000,0000,0000,,I ride...
+Dialogue: 0,0:10:44.79,0:10:47.78,Main Dialog,,0000,0000,0000,,...Blue Flight Dragon, Trans-core Dragon!
+Dialogue: 0,0:10:49.16,0:10:50.15,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:10:51.06,0:10:52.54,Main Dialog,,0000,0000,0000,,It attacks Gregorius!
+Dialogue: 0,0:10:56.25,0:10:57.46,Main Dialog,,0000,0000,0000,,Hermes!
+Dialogue: 0,0:11:01.70,0:11:03.35,Main Dialog,,0000,0000,0000,,Trans-core Dragon!
+Dialogue: 0,0:11:09.40,0:11:10.85,Main Dialog,,0000,0000,0000,,No guard.
+Dialogue: 0,0:11:11.61,0:11:13.30,Main Dialog,,0000,0000,0000,,Twin drive...
+Dialogue: 0,0:11:23.90,0:11:25.28,Main Dialog,,0000,0000,0000,,Tidal Assault!
+Dialogue: 0,0:11:25.71,0:11:27.04,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:11:31.51,0:11:33.39,Main Dialog,,0000,0000,0000,,Prepare yourself.
+Dialogue: 0,0:11:33.39,0:11:36.92,Main Dialog,,0000,0000,0000,,True terror is about to begin.
+Dialogue: 0,0:11:42.07,0:11:43.48,Main Dialog,,0000,0000,0000,,What do you think?
+Dialogue: 0,0:11:43.48,0:11:48.42,Main Dialog,,0000,0000,0000,,A fight between two people who share \Nthe same flesh and blood is fun, isn't it?
+Dialogue: 0,0:11:50.43,0:11:53.34,Main Dialog,,0000,0000,0000,,Particularly in their case,
+Dialogue: 0,0:11:53.34,0:11:57.65,Main Dialog,,0000,0000,0000,,when it's literally fighting against oneself.
+Dialogue: 0,0:11:57.65,0:12:01.66,Main Dialog,,0000,0000,0000,,Now, get beaten to a pulp!
+Dialogue: 0,0:12:01.66,0:12:07.24,Main Dialog,,0000,0000,0000,,Each wound that you sustain \Nwill link to your future...
+Dialogue: 0,0:12:07.69,0:12:09.92,Main Dialog,,0000,0000,0000,,...Leon Souryu!
+Dialogue: 0,0:12:11.26,0:12:13.46,Main Dialog,,0000,0000,0000,,Stand and draw!
+Dialogue: 0,0:12:15.36,0:12:16.96,Main Dialog,,0000,0000,0000,,I move Katy to the Soul.
+Dialogue: 0,0:12:17.72,0:12:20.95,Main Dialog,,0000,0000,0000,,Gregorias gets +3000 power.
+Dialogue: 0,0:12:20.95,0:12:22.19,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:12:24.12,0:12:26.22,Main Dialog,,0000,0000,0000,,Diamantes, move forward!
+Dialogue: 0,0:12:26.88,0:12:28.60,Main Dialog,,0000,0000,0000,,Attack Trans-core!
+Dialogue: 0,0:12:33.86,0:12:35.41,Main Dialog,,0000,0000,0000,,Heal trigger!
+Dialogue: 0,0:12:35.41,0:12:37.55,Main Dialog,,0000,0000,0000,,I give the power to Trans-core Dragon.
+Dialogue: 0,0:12:39.49,0:12:41.53,Main Dialog,,0000,0000,0000,,Vain resistance.
+Dialogue: 0,0:12:46.21,0:12:47.95,Main Dialog,,0000,0000,0000,,Dorothea boosts.
+Dialogue: 0,0:12:48.55,0:12:50.72,Main Dialog,,0000,0000,0000,,Maelstrom "Reverse"!
+Dialogue: 0,0:12:52.89,0:12:54.96,Main Dialog,,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:13:02.47,0:13:05.20,Main Dialog,,0000,0000,0000,,Emerald Shield, Paschal!
+Dialogue: 0,0:13:06.62,0:13:08.17,Main Dialog,,0000,0000,0000,,A perfect guard?
+Dialogue: 0,0:13:09.05,0:13:11.85,Main Dialog,,0000,0000,0000,,If you think that leaves you \Nin the clear, you're naive!
+Dialogue: 0,0:13:12.27,0:13:13.10,Main Dialog,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:13.80,0:13:17.73,Main Dialog,,0000,0000,0000,,Maelstrom "Reverse's" Limit Break!
+Dialogue: 0,0:13:17.73,0:13:18.99,Main Dialog,,0000,0000,0000,,I draw one card,
+Dialogue: 0,0:13:18.99,0:13:22.09,Main Dialog,,0000,0000,0000,,and retire one of your rear-guards!
+Dialogue: 0,0:13:23.22,0:13:24.19,Main Dialog,,0000,0000,0000,,Take this!
+Dialogue: 0,0:13:24.19,0:13:26.53,Main Dialog,,0000,0000,0000,,Dark Cloud Sacrifice!
+Dialogue: 0,0:13:31.34,0:13:34.00,Main Dialog,,0000,0000,0000,,My rear-guards are destroyed?!
+Dialogue: 0,0:13:34.51,0:13:36.75,Main Dialog,,0000,0000,0000,,It's pointless to struggle.
+Dialogue: 0,0:13:36.75,0:13:39.19,Main Dialog,,0000,0000,0000,,Either you'll be sacrificed,
+Dialogue: 0,0:13:39.19,0:13:42.00,Main Dialog,,0000,0000,0000,,or you'll have to offer up your \Ncomrades to be sacrificed.
+Dialogue: 0,0:13:42.00,0:13:45.76,Main Dialog,,0000,0000,0000,,That's Dark Cloud Sacrifice!
+Dialogue: 0,0:13:48.86,0:13:51.96,Main Dialog,,0000,0000,0000,,I'll tell you just a little \Nbit about your fated future.
+Dialogue: 0,0:13:52.77,0:13:55.02,Main Dialog,,0000,0000,0000,,During a match,
+Dialogue: 0,0:13:55.02,0:14:00.61,Main Dialog,,0000,0000,0000,,this power will make you fall into despair, \Nlose the will to fight, and be Reversed.
+Dialogue: 0,0:14:00.61,0:14:03.35,Main Dialog,,0000,0000,0000,,Ludicrous! You speak nonsense!
+Dialogue: 0,0:14:03.35,0:14:05.51,Main Dialog,,0000,0000,0000,,You get Reversed,
+Dialogue: 0,0:14:05.51,0:14:10.18,Main Dialog,,0000,0000,0000,,and Aqua Force becomes \Nsubordinate to Link Joker.
+Dialogue: 0,0:14:10.60,0:14:11.79,Main Dialog,,0000,0000,0000,,Shut your mouth!
+Dialogue: 0,0:14:11.79,0:14:13.58,Main Dialog,,0000,0000,0000,,Aqua Force equals absolute justice!
+Dialogue: 0,0:14:14.13,0:14:16.33,Main Dialog,,0000,0000,0000,,They wouldn't give in to anyone!
+Dialogue: 0,0:14:17.81,0:14:21.16,Main Dialog,,0000,0000,0000,,That line makes me feel nostalgic now.
+Dialogue: 0,0:14:21.16,0:14:25.59,Main Dialog,,0000,0000,0000,,Fine. Try to fight the certain future.
+Dialogue: 0,0:14:26.06,0:14:28.02,Main Dialog,,0000,0000,0000,,Stand and draw!
+Dialogue: 0,0:14:29.90,0:14:32.11,Main Dialog,,0000,0000,0000,,I call Lazarus!
+Dialogue: 0,0:14:33.82,0:14:35.47,Main Dialog,,0000,0000,0000,,Trans-core Dragon!
+Dialogue: 0,0:14:35.72,0:14:37.23,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:14:38.74,0:14:39.98,Main Dialog,,0000,0000,0000,,Twin drive...
+Dialogue: 0,0:14:44.51,0:14:45.98,Main Dialog,,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:14:46.82,0:14:48.97,Main Dialog,,0000,0000,0000,,I give all of the effects to Lazarus!
+Dialogue: 0,0:14:52.67,0:14:54.20,Main Dialog,,0000,0000,0000,,Intercept!
+Dialogue: 0,0:14:58.90,0:15:00.87,Main Dialog,,0000,0000,0000,,Is it over already?
+Dialogue: 0,0:15:01.40,0:15:05.05,Main Dialog,,0000,0000,0000,,Aqua Force, with its \Nmuch-prized combo attacks,
+Dialogue: 0,0:15:05.05,0:15:06.88,Main Dialog,,0000,0000,0000,,is a disgrace.
+Dialogue: 0,0:15:09.37,0:15:12.24,Main Dialog,,0000,0000,0000,,The wind will blow on you no longer!
+Dialogue: 0,0:15:12.24,0:15:14.68,Main Dialog,,0000,0000,0000,,Stand and draw.
+Dialogue: 0,0:15:14.68,0:15:16.39,Main Dialog,,0000,0000,0000,,Diamantes moves.
+Dialogue: 0,0:15:16.81,0:15:19.64,Main Dialog,,0000,0000,0000,,I call Maelstrom "Reverse"!
+Dialogue: 0,0:15:20.20,0:15:21.75,Main Dialog,,0000,0000,0000,,Observe.
+Dialogue: 0,0:15:21.75,0:15:25.46,Main Dialog,,0000,0000,0000,,The Aqua Force taken in by \Nthe power of Link Joker
+Dialogue: 0,0:15:25.77,0:15:28.15,Main Dialog,,0000,0000,0000,,is the true Aqua Force!
+Dialogue: 0,0:15:38.17,0:15:39.83,Main Dialog,,0000,0000,0000,,Tidal Assault!
+Dialogue: 0,0:15:47.46,0:15:49.59,Main Dialog,,0000,0000,0000,,Maelstrom "Reverse"!
+Dialogue: 0,0:15:53.35,0:15:54.80,Main Dialog,,0000,0000,0000,,This is the end!
+Dialogue: 0,0:15:55.25,0:15:57.68,Main Dialog,,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:15:58.12,0:16:00.93,Main Dialog,,0000,0000,0000,,Dark Cloud Sacrifice!
+Dialogue: 0,0:16:06.97,0:16:09.44,Main Dialog,,0000,0000,0000,,Paschal! Perfect guard!
+Dialogue: 0,0:16:10.01,0:16:11.57,Main Dialog,,0000,0000,0000,,Twin drive...
+Dialogue: 0,0:16:13.80,0:16:15.76,Main Dialog,,0000,0000,0000,,Critical trigger.
+Dialogue: 0,0:16:15.76,0:16:16.95,Main Dialog,,0000,0000,0000,,I give all of the effects
+Dialogue: 0,0:16:16.95,0:16:20.24,Main Dialog,,0000,0000,0000,,to my rear-guard Maelstrom "Reverse."
+Dialogue: 0,0:16:21.71,0:16:23.33,Main Dialog,,0000,0000,0000,,Vanish, Lazarus!
+Dialogue: 0,0:16:40.99,0:16:42.23,Main Dialog,,0000,0000,0000,,Leon!
+Dialogue: 0,0:16:46.93,0:16:48.82,Main Dialog,,0000,0000,0000,,It's over?
+Dialogue: 0,0:16:51.74,0:16:55.14,Main Dialog,,0000,0000,0000,,See? Your future is right in front of you!
+Dialogue: 0,0:16:55.14,0:16:56.74,Main Dialog,,0000,0000,0000,,Quiver in terror!
+Dialogue: 0,0:17:02.32,0:17:03.20,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:17:03.20,0:17:05.18,Main Dialog,,0000,0000,0000,,Jet-ski Rider!
+Dialogue: 0,0:17:18.02,0:17:19.65,Main Dialog,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:17:22.65,0:17:24.32,Main Dialog,,0000,0000,0000,,You're stripped bare.
+Dialogue: 0,0:17:24.32,0:17:27.68,Main Dialog,,0000,0000,0000,,You have just one unit,\N and no cards in your hand.
+Dialogue: 0,0:17:27.68,0:17:31.20,Main Dialog,,0000,0000,0000,,Well, your miserable future \Nis waiting for you...
+Dialogue: 0,0:17:31.20,0:17:32.94,Main Dialog,,0000,0000,0000,,...Leon Souryu!
+Dialogue: 0,0:17:34.55,0:17:35.95,Main Dialog,,0000,0000,0000,,I see.
+Dialogue: 0,0:17:36.59,0:17:39.07,Main Dialog,,0000,0000,0000,,This is where you gave up.
+Dialogue: 0,0:17:39.07,0:17:40.58,Main Dialog,,0000,0000,0000,,What?!
+Dialogue: 0,0:17:41.02,0:17:44.39,Main Dialog,,0000,0000,0000,,Stripped of everything, you lost all hope.
+Dialogue: 0,0:17:44.39,0:17:46.33,Main Dialog,,0000,0000,0000,,You accepted being Reversed.
+Dialogue: 0,0:17:46.79,0:17:48.83,Main Dialog,,0000,0000,0000,,But I'm different!
+Dialogue: 0,0:17:48.83,0:17:51.46,Main Dialog,,0000,0000,0000,,How do you have any hope of winning?!
+Dialogue: 0,0:17:52.08,0:17:56.47,Main Dialog,,0000,0000,0000,,In any case, this is destined to be \Nover for you during my next turn!
+Dialogue: 0,0:17:57.00,0:17:59.35,Main Dialog,,0000,0000,0000,,I can't change your past.
+Dialogue: 0,0:17:59.35,0:18:02.12,Main Dialog,,0000,0000,0000,,But I can change my future!
+Dialogue: 0,0:18:02.26,0:18:04.97,Main Dialog,,0000,0000,0000,,No, I {\i1}will{\i0} change it!
+Dialogue: 0,0:18:06.44,0:18:09.39,Main Dialog,,0000,0000,0000,,Interesting. Show me, then.
+Dialogue: 0,0:18:09.39,0:18:11.98,Main Dialog,,0000,0000,0000,,Show me your pathetic resistance!
+Dialogue: 0,0:18:14.19,0:18:16.24,Main Dialog,,0000,0000,0000,,Stand and draw.
+Dialogue: 0,0:18:18.17,0:18:20.34,Main Dialog,,0000,0000,0000,,Snowy white, swift wind!
+Dialogue: 0,0:18:20.34,0:18:22.33,Main Dialog,,0000,0000,0000,,Become a shooting star in the night sky
+Dialogue: 0,0:18:22.33,0:18:24.33,Main Dialog,,0000,0000,0000,,and come forth!
+Dialogue: 0,0:18:24.33,0:18:27.00,Main Dialog,,0000,0000,0000,,Tetra-drive Dragon!
+Dialogue: 0,0:18:34.31,0:18:37.54,Main Dialog,,0000,0000,0000,,Trans-core Dragon's break ride skill!
+Dialogue: 0,0:18:37.54,0:18:41.01,Main Dialog,,0000,0000,0000,,I add +10000 to Tetra-drive Dragon's power!
+Dialogue: 0,0:18:44.46,0:18:47.21,Main Dialog,,0000,0000,0000,,As long as my opponent doesn't \Ndiscard a unit from his hand,
+Dialogue: 0,0:18:47.21,0:18:48.81,Main Dialog,,0000,0000,0000,,he can't guard!
+Dialogue: 0,0:18:48.81,0:18:53.32,Main Dialog,,0000,0000,0000,,And I also gain a critical!
+Dialogue: 0,0:18:58.52,0:19:01.16,Main Dialog,,0000,0000,0000,,Besides, I'm definitely not alone.
+Dialogue: 0,0:19:06.03,0:19:08.71,Main Dialog,,0000,0000,0000,,I have friends who entrust \Nme with the future!
+Dialogue: 0,0:19:10.89,0:19:13.75,Main Dialog,,0000,0000,0000,,I have comrades who \Ngive me strength!
+Dialogue: 0,0:19:18.73,0:19:21.13,Main Dialog,,0000,0000,0000,,I also have the hopes \Nof the Souryu people!
+Dialogue: 0,0:19:23.58,0:19:26.35,Main Dialog,,0000,0000,0000,,And the sacred wind that \Ngives me divine protection!
+Dialogue: 0,0:19:34.13,0:19:36.29,Main Dialog,,0000,0000,0000,,Couldn't you hear it?
+Dialogue: 0,0:19:37.52,0:19:40.71,Main Dialog,,0000,0000,0000,,Aqua Force's misery...
+Dialogue: 0,0:19:40.71,0:19:44.20,Main Dialog,,0000,0000,0000,,But that alone can't change the future!
+Dialogue: 0,0:19:45.92,0:19:46.74,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:19:47.45,0:19:49.04,Main Dialog,,0000,0000,0000,,Intercept!
+Dialogue: 0,0:19:50.13,0:19:51.79,Main Dialog,,0000,0000,0000,,Twin drive...
+Dialogue: 0,0:19:51.79,0:19:53.44,Main Dialog,,0000,0000,0000,,First check...
+Dialogue: 0,0:20:00.45,0:20:01.59,Main Dialog,,0000,0000,0000,,Second check...
+Dialogue: 0,0:20:03.79,0:20:05.16,Main Dialog,,0000,0000,0000,,It can't be!
+Dialogue: 0,0:20:05.16,0:20:07.43,Main Dialog,,0000,0000,0000,,A double critical trigger?!
+Dialogue: 0,0:20:07.88,0:20:10.12,Main Dialog,,0000,0000,0000,,I'm going to surpass the future!
+Dialogue: 0,0:20:10.12,0:20:12.31,Main Dialog,,0000,0000,0000,,Together with my comrades!
+Dialogue: 0,0:20:19.11,0:20:21.69,Main Dialog,,0000,0000,0000,,Farewell, weak self. {smp: originally this was "weak me" but I thought that sounded really wrong; feel free to change it back upon bushi-revision if you think it's better the other way}
+Dialogue: 0,0:20:44.70,0:20:45.81,Main Dialog,,0000,0000,0000,,This is...
+Dialogue: 0,0:20:49.64,0:20:52.12,Main Dialog,,0000,0000,0000,,You... Curse you!
+Dialogue: 0,0:21:02.16,0:21:05.36,Main Dialog,,0000,0000,0000,,If I hadn't given up then...
+Dialogue: 0,0:21:05.74,0:21:10.01,Main Dialog,,0000,0000,0000,,If I hadn't yielded to \Nthe power of Reverse...
+Dialogue: 0,0:21:10.01,0:21:12.62,Main Dialog,,0000,0000,0000,,...this future wouldn't have...
+Dialogue: 0,0:21:13.62,0:21:15.00,Main Dialog,,0000,0000,0000,,Yes.
+Dialogue: 0,0:21:20.01,0:21:21.91,Main Dialog,,0000,0000,0000,,The wind...
+Dialogue: 0,0:21:21.91,0:21:24.76,Main Dialog,,0000,0000,0000,,...blew on me...
+Dialogue: 0,0:21:40.90,0:21:44.97,Main Dialog,,0000,0000,0000,,You... Leon Souryu...
+Dialogue: 0,0:21:44.97,0:21:48.53,Main Dialog,,0000,0000,0000,,Half of him was used to \Nbring forth the future Leon.
+Dialogue: 0,0:21:49.37,0:21:53.04,Main Dialog,,0000,0000,0000,,It seems he took a lot of damage.
+Dialogue: 0,0:21:57.09,0:21:58.54,Main Dialog,,0000,0000,0000,,Thank you, Leon.
+Dialogue: 0,0:21:59.32,0:22:02.07,Main Dialog,,0000,0000,0000,,I won't let your fight go to waste.
+Dialogue: 0,0:22:05.48,0:22:07.30,Main Dialog,,0000,0000,0000,,It's my turn next!
+Dialogue: 0,0:22:07.30,0:22:10.55,Main Dialog,,0000,0000,0000,,I'm definitely going to beat you!
+Dialogue: 0,0:22:11.16,0:22:13.34,Main Dialog,,0000,0000,0000,,You little...
+Dialogue: 0,0:23:55.95,0:23:59.12,Main Dialog,,0000,0000,0000,,You should never have given up.
+Dialogue: 0,0:23:59.12,0:24:01.12,Main Dialog,,0000,0000,0000,,All paths were closed off,
+Dialogue: 0,0:24:01.12,0:24:04.29,Main Dialog,,0000,0000,0000,,so I thought only despair was left for me.
+Dialogue: 0,0:24:04.89,0:24:06.54,Main Dialog,,0000,0000,0000,,Even so, just by believing,
+Dialogue: 0,0:24:06.54,0:24:08.80,Main Dialog,,0000,0000,0000,,the future opens up.
+Dialogue: 0,0:24:08.80,0:24:10.80,Main Dialog,,0000,0000,0000,,Faith in friends...
+Dialogue: 0,0:24:10.80,0:24:13.18,Main Dialog,,0000,0000,0000,,Hope that can't be dashed?
+Dialogue: 0,0:24:15.89,0:24:17.97,Main Dialog,,0000,0000,0000,,Next time: The One Who Cuts Through Chains!
+Dialogue: 0,0:24:16.35,0:24:24.98,Signs,,0000,0000,0000,,The One Who Cuts Through Chains
+Dialogue: 0,0:24:17.97,0:24:20.82,Main Dialog,,0000,0000,0000,,I can't rest here!
+Dialogue: 0,0:24:20.82,0:24:24.22,Main Dialog,,0000,0000,0000,,But for now, all I can do is entrust \Neverything to Leon and Takuto...

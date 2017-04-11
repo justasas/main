@@ -1,0 +1,346 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.48,0:00:07.98,Signs,Sign,0000,0000,0000,,VF High School Championship\NKanto Block 3
+Dialogue: 0,0:00:05.24,0:00:06.86,Main Dialog,Spoken,0000,0000,0000,,So this is the venue, huh?
+Dialogue: 0,0:00:09.59,0:00:11.16,Main Dialog,Spoken,0000,0000,0000,,I'm totally pumped!
+Dialogue: 0,0:00:11.50,0:00:15.36,Main Dialog,Spoken,0000,0000,0000,,I'm gonna do this! \NI'm gonna be on fire! I'm gonna win!
+Dialogue: 0,0:00:15.69,0:00:20.05,Main Dialog,Spoken,0000,0000,0000,,You're overexcited. \NThat's what makes you a noob...
+Dialogue: 0,0:00:20.05,0:00:23.21,Main Dialog,Spoken,0000,0000,0000,,Shut up! Be quiet while I get fired up!
+Dialogue: 0,0:00:23.21,0:00:25.12,Main Dialog,Spoken,0000,0000,0000,,What about you?
+Dialogue: 0,0:00:25.50,0:00:27.98,Main Dialog,Spoken,0000,0000,0000,,For a fighter like me, there's the expression
+Dialogue: 0,0:00:27.98,0:00:30.85,Main Dialog,Spoken,0000,0000,0000,,"The man of virtue should \Nenjoy the mountains."
+Dialogue: 0,0:00:30.85,0:00:34.01,Main Dialog,Spoken,0000,0000,0000,,Perfect composure, confidence to spare.
+Dialogue: 0,0:00:36.08,0:00:36.76,Main Dialog,Spoken,0000,0000,0000,,Your legs.
+Dialogue: 0,0:00:37.65,0:00:39.76,Main Dialog,Spoken,0000,0000,0000,,This is... Uh...
+Dialogue: 0,0:00:39.76,0:00:43.09,Main Dialog,Spoken,0000,0000,0000,,Captain, please say a few words to everyone.
+Dialogue: 0,0:00:39.76,0:00:43.09,Main Dialog,Spoken,0000,0000,0000,,{\a6}My body is producing too much epinephrine...
+Dialogue: 0,0:00:43.93,0:00:44.27,Main Dialog,Spoken,0000,0000,0000,,Right.
+Dialogue: 0,0:00:44.27,0:00:45.44,Main Dialog,Spoken,0000,0000,0000,,Um...
+Dialogue: 0,0:00:46.02,0:00:52.37,Main Dialog,Spoken,0000,0000,0000,,Anyway, today is the first tournament \Nfor the Miyaji Academy Cardfight Club.
+Dialogue: 0,0:00:52.37,0:00:55.03,Main Dialog,Spoken,0000,0000,0000,,Let's do our Vanguard best,\N and have no regrets!
+Dialogue: 0,0:00:55.65,0:00:56.68,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:02:28.00,0:02:31.50,Signs,Sign,0000,0000,0000,,Vanguard Cardfight\NHigh School Championship
+Dialogue: 0,0:02:29.26,0:02:32.68,Main Dialog,Spoken,0000,0000,0000,,VF High School Championship... \NIt goes back a long way,
+Dialogue: 0,0:02:32.68,0:02:36.80,Main Dialog,Spoken,0000,0000,0000,,with the first tournament being \Nheld many, many years ago.
+Dialogue: 0,0:02:35.67,0:02:39.51,Signs,Sign,0000,0000,0000,,VF High School Championship Arena
+Dialogue: 0,0:02:36.80,0:02:42.48,Main Dialog,Spoken,0000,0000,0000,,Since then, countless high school fighters \Nhave shown us much drama.
+Dialogue: 0,0:02:45.78,0:02:47.58,Main Dialog,Spoken,0000,0000,0000,,Victory and defeat,
+Dialogue: 0,0:02:48.81,0:02:50.49,Main Dialog,Spoken,0000,0000,0000,,friendship and effort...
+Dialogue: 0,0:02:51.40,0:02:55.65,Main Dialog,Spoken,0000,0000,0000,,Every year, we witness new inspirations.
+Dialogue: 0,0:02:54.69,0:02:58.49,Signs,Sign,0000,0000,0000,,The Road to VF High School Championship
+Dialogue: 0,0:02:57.57,0:02:58.32,Main Dialog,Spoken,0000,0000,0000,,And so!
+Dialogue: 0,0:02:59.21,0:03:04.62,Main Dialog,Spoken,0000,0000,0000,,This year, new high school student \Nfighters will make their pages in history.
+Dialogue: 0,0:03:05.22,0:03:11.05,Main Dialog,Spoken,0000,0000,0000,,Out of 4,000 schools nationwide, the battle \Nto decide which one is the top begins now!
+Dialogue: 0,0:03:13.93,0:03:17.78,Main Dialog,Spoken,0000,0000,0000,,Let the VF High School Championship, \NKanto Block 3...
+Dialogue: 0,0:03:18.66,0:03:19.72,Main Dialog,Spoken,0000,0000,0000,,...start!
+Dialogue: 0,0:03:21.63,0:03:26.64,Signs,Sign,0000,0000,0000,,Hidden Fighting Spirit
+Dialogue: 0,0:03:26.88,0:03:32.86,Main Dialog,Spoken,0000,0000,0000,,Y'know, I had no idea that VF High School \NChampionship had such a rich history...
+Dialogue: 0,0:03:34.38,0:03:39.61,Main Dialog,Spoken,0000,0000,0000,,You call yourself a Vanguard fighter and \Nyou don't know about an event like this?
+Dialogue: 0,0:03:39.61,0:03:43.40,Main Dialog,Spoken,0000,0000,0000,,Your ignorance knows no \Nbounds, Porcupine Head.
+Dialogue: 0,0:03:43.40,0:03:46.28,Main Dialog,Spoken,0000,0000,0000,,What's that, Granny Glasses?!
+Dialogue: 0,0:03:46.28,0:03:47.70,Main Dialog,Spoken,0000,0000,0000,,Excuse me?!
+Dialogue: 0,0:03:47.70,0:03:49.79,Main Dialog,Spoken,0000,0000,0000,,It's Ren and the others!
+Dialogue: 0,0:03:52.82,0:03:56.56,Main Dialog,Spoken,0000,0000,0000,,So they're strongly favored to win?
+Dialogue: 0,0:03:56.56,0:03:59.80,Main Dialog,Spoken,0000,0000,0000,,They do give off that aura...
+Dialogue: 0,0:04:02.78,0:04:03.80,Main Dialog,Spoken,0000,0000,0000,,Sailor Suit...
+Dialogue: 0,0:04:04.14,0:04:06.60,Main Dialog,Spoken,0000,0000,0000,,I totally wanna fight her one more time!
+Dialogue: 0,0:04:07.08,0:04:10.81,Main Dialog,Spoken,0000,0000,0000,,People are saying good \Nthings about you guys, too!
+Dialogue: 0,0:04:11.21,0:04:12.97,Main Dialog,Spoken,0000,0000,0000,,Miwa! Kai!
+Dialogue: 0,0:04:12.97,0:04:15.89,Main Dialog,Spoken,0000,0000,0000,,After all, two of your \Nmembers are from the team
+Dialogue: 0,0:04:15.89,0:04:18.64,Main Dialog,Spoken,0000,0000,0000,,that won the national tournament \Nand the Asia Circuit.
+Dialogue: 0,0:04:18.64,0:04:20.44,Main Dialog,Spoken,0000,0000,0000,,Naturally, all eyes will be on you.
+Dialogue: 0,0:04:22.36,0:04:25.97,Main Dialog,Spoken,0000,0000,0000,,Still, our Hitsue High team isn't gonna lose.
+Dialogue: 0,0:04:30.04,0:04:32.45,Main Dialog,Spoken,0000,0000,0000,,Morikawa! Izaki!
+Dialogue: 0,0:04:32.45,0:04:34.64,Main Dialog,Spoken,0000,0000,0000,,What in the world happened to you two?
+Dialogue: 0,0:04:34.64,0:04:37.80,Main Dialog,Spoken,0000,0000,0000,,Don't think we're the same as always, Aichi.
+Dialogue: 0,0:04:37.80,0:04:40.09,Main Dialog,Spoken,0000,0000,0000,,We're gonna win this elimination round!
+Dialogue: 0,0:04:41.67,0:04:43.34,Signs,Sign,0000,0000,0000,,Vanguard Club
+Dialogue: 0,0:04:41.96,0:04:47.09,Main Dialog,Spoken,0000,0000,0000,,Yes! The VF High School Championship is a \Nhigh school fighter's dream celebration!
+Dialogue: 0,0:04:47.81,0:04:54.10,Main Dialog,Spoken,0000,0000,0000,,As one of those students, this time \Nespecially, they're serious to the max!
+Dialogue: 0,0:05:00.73,0:05:02.17,Main Dialog,Spoken,0000,0000,0000,,Morikawa?
+Dialogue: 0,0:05:05.09,0:05:06.74,Main Dialog,Spoken,0000,0000,0000,,I'm sorry, Kourin.
+Dialogue: 0,0:05:06.74,0:05:07.61,Main Dialog,Spoken,0000,0000,0000,,Y-Yes?
+Dialogue: 0,0:05:08.24,0:05:13.06,Main Dialog,Spoken,0000,0000,0000,,Because of my mighty hopes \Ntoday, I'm cutting you off.
+Dialogue: 0,0:05:13.06,0:05:16.50,Main Dialog,Spoken,0000,0000,0000,,I'm going to deny myself \Nmy love for you today.
+Dialogue: 0,0:05:16.50,0:05:17.75,Main Dialog,Spoken,0000,0000,0000,,Please forgive me.
+Dialogue: 0,0:05:18.56,0:05:20.75,Main Dialog,Spoken,0000,0000,0000,,I-Is that right?
+Dialogue: 0,0:05:21.42,0:05:24.46,Main Dialog,Spoken,0000,0000,0000,,I'm looking forward to \Ngoing up against you guys.
+Dialogue: 0,0:05:24.93,0:05:26.63,Main Dialog,Spoken,0000,0000,0000,,Please excuse me, Kourin.
+Dialogue: 0,0:05:27.84,0:05:30.39,Main Dialog,Spoken,0000,0000,0000,,What was that? He seems totally different...
+Dialogue: 0,0:05:33.61,0:05:35.14,Main Dialog,Spoken,0000,0000,0000,,Thank you for your patience.
+Dialogue: 0,0:05:35.14,0:05:38.90,Main Dialog,Spoken,0000,0000,0000,,We will now announce the \Npairings for Kanto Block 3.
+Dialogue: 0,0:05:41.40,0:05:43.90,Signs,Sign,0000,0000,0000,,VF High School Championship\NKanto Block 3
+Dialogue: 0,0:05:41.88,0:05:43.90,Main Dialog,Spoken,0000,0000,0000,,The pairings for the first fight are...
+Dialogue: 0,0:05:47.49,0:05:48.61,Signs,Sign,0000,0000,0000,,Miyaji Academy
+Dialogue: 0,0:05:50.70,0:05:52.16,Signs,Sign,0000,0000,0000,,Hitsue High School
+Dialogue: 0,0:05:52.68,0:05:55.37,Main Dialog,Spoken,0000,0000,0000,,Yeah! Right from the get-go!
+Dialogue: 0,0:05:55.37,0:05:57.45,Main Dialog,Spoken,0000,0000,0000,,Just what we were hoping for, right?
+Dialogue: 0,0:05:57.45,0:05:59.04,Main Dialog,Spoken,0000,0000,0000,,Well... maybe not...
+Dialogue: 0,0:06:04.56,0:06:07.72,Main Dialog,Spoken,0000,0000,0000,,All right: The VF High School \NChampionship, Kanto Block 3!
+Dialogue: 0,0:06:07.72,0:06:11.53,Main Dialog,Spoken,0000,0000,0000,,The first tense match is about to begin!
+Dialogue: 0,0:06:11.53,0:06:13.10,Main Dialog,Spoken,0000,0000,0000,,It's {\i1}so{\i0} exciting!
+Dialogue: 0,0:06:13.74,0:06:17.48,Main Dialog,Spoken,0000,0000,0000,,Participating in the first match, from \NHitsue High School's Vanguard Club,
+Dialogue: 0,0:06:18.30,0:06:20.17,Main Dialog,Spoken,0000,0000,0000,,Toshiki Kai!
+Dialogue: 0,0:06:22.44,0:06:23.46,Main Dialog,Spoken,0000,0000,0000,,Kai...
+Dialogue: 0,0:06:23.84,0:06:27.86,Main Dialog,Spoken,0000,0000,0000,,And facing off against him, from \NMiyaji Academy's Cardfight Club,
+Dialogue: 0,0:06:28.29,0:06:30.10,Main Dialog,Spoken,0000,0000,0000,,Shingo Komoi!
+Dialogue: 0,0:06:31.74,0:06:36.74,Main Dialog,Spoken,0000,0000,0000,,T-Toshiki Kai! He's had great \Nmatches at countless tournaments,
+Dialogue: 0,0:06:36.74,0:06:42.75,Main Dialog,Spoken,0000,0000,0000,,but his unofficial duel with Ren Suzagamori \Nis famous throughout the Vanguard world!
+Dialogue: 0,0:06:45.53,0:06:50.26,Main Dialog,Spoken,0000,0000,0000,,To be able to fight him... this is \Nthe best day of my entire life!
+Dialogue: 0,0:06:51.69,0:06:53.86,Main Dialog,Spoken,0000,0000,0000,,Why can't I be out there?!
+Dialogue: 0,0:06:53.86,0:06:56.65,Main Dialog,Spoken,0000,0000,0000,,Me, the VF High School \NChampionship powerhouse!
+Dialogue: 0,0:06:56.65,0:07:00.26,Main Dialog,Spoken,0000,0000,0000,,We did it like you said, deciding it fair \Nand square by drawing lots, remember?
+Dialogue: 0,0:07:00.26,0:07:01.80,Main Dialog,Spoken,0000,0000,0000,,So don't complain.
+Dialogue: 0,0:07:12.04,0:07:15.02,Main Dialog,Spoken,0000,0000,0000,,All right, begin the first fight!
+Dialogue: 0,0:07:15.02,0:07:16.09,Main Dialog,Spoken,0000,0000,0000,,Stand up...
+Dialogue: 0,0:07:16.09,0:07:16.87,Main Dialog,Spoken,0000,0000,0000,,...the...
+Dialogue: 0,0:07:16.87,0:07:17.54,Main Dialog,Spoken,0000,0000,0000,,...Vanguard!
+Dialogue: 0,0:07:37.06,0:07:39.52,Main Dialog,Spoken,0000,0000,0000,,Dragonic Descendant attacks!
+Dialogue: 0,0:07:40.17,0:07:42.17,Main Dialog,Spoken,0000,0000,0000,,P-Perfect guard with Marilyn!
+Dialogue: 0,0:07:47.42,0:07:49.03,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:07:49.03,0:07:53.91,Main Dialog,Spoken,0000,0000,0000,,If the attack doesn't hit, Descendant \Ngains an extra critical and stands again!
+Dialogue: 0,0:07:54.20,0:07:54.94,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:08:01.57,0:08:05.56,Main Dialog,Spoken,0000,0000,0000,,The winner of the first match: Toshiki Kai!
+Dialogue: 0,0:08:10.45,0:08:13.62,Main Dialog,Spoken,0000,0000,0000,,I really wanted to fight {\i1}you{\i0}...
+Dialogue: 0,0:08:14.96,0:08:15.86,Main Dialog,Spoken,0000,0000,0000,,Kai...
+Dialogue: 0,0:08:16.88,0:08:20.26,Main Dialog,Spoken,0000,0000,0000,,C-Complete defeat...
+Dialogue: 0,0:08:20.72,0:08:22.76,Main Dialog,Spoken,0000,0000,0000,,No, wait a second!
+Dialogue: 0,0:08:23.17,0:08:27.22,Main Dialog,Spoken,0000,0000,0000,,He's a fighter who could even \Nwin at the tournament proper.
+Dialogue: 0,0:08:27.22,0:08:28.82,Main Dialog,Spoken,0000,0000,0000,,Looking at it that way,
+Dialogue: 0,0:08:31.05,0:08:35.54,Main Dialog,Spoken,0000,0000,0000,,my ability could be deemed "runner-up class"!
+Dialogue: 0,0:08:35.54,0:08:38.32,Main Dialog,Spoken,0000,0000,0000,,Get over here, Granny Glasses!
+Dialogue: 0,0:08:38.32,0:08:40.78,Main Dialog,Spoken,0000,0000,0000,,Would you be quiet, you meathead?!
+Dialogue: 0,0:08:42.25,0:08:46.96,Main Dialog,Spoken,0000,0000,0000,,What the heck?! He's excited, he's depressed... \NMan, is that guy annoying.
+Dialogue: 0,0:08:47.33,0:08:49.00,Main Dialog,Spoken,0000,0000,0000,,What about the next match?
+Dialogue: 0,0:08:51.89,0:08:52.55,Main Dialog,Spoken,0000,0000,0000,,Who's the opponent?
+Dialogue: 0,0:08:53.61,0:08:55.69,Main Dialog,Spoken,0000,0000,0000,,All right! We won the first match!
+Dialogue: 0,0:08:55.69,0:08:58.50,Main Dialog,Spoken,0000,0000,0000,,All we need is one more win \Nto go on to the next round!
+Dialogue: 0,0:08:58.50,0:09:01.77,Main Dialog,Spoken,0000,0000,0000,,Shoot! {\i1}Now{\i0} I get nervous!
+Dialogue: 0,0:09:02.82,0:09:04.14,Main Dialog,Spoken,0000,0000,0000,,I don't blame you.
+Dialogue: 0,0:09:04.14,0:09:09.25,Main Dialog,Spoken,0000,0000,0000,,This is your first time at the grand stage \Nof the VF High School Championship.
+Dialogue: 0,0:09:07.90,0:09:12.28,Signs,Sign,0000,0000,0000,,Strongest Water
+Dialogue: 0,0:09:09.84,0:09:12.28,Main Dialog,Spoken,0000,0000,0000,,H-Huh? My water is acting up...
+Dialogue: 0,0:09:12.89,0:09:16.03,Main Dialog,Spoken,0000,0000,0000,,H-Hey, you're even more nervous than I am!
+Dialogue: 0,0:09:16.93,0:09:20.85,Main Dialog,Spoken,0000,0000,0000,,Nervous? Me, the strongest \Nfighter? Don't be ridiculous.
+Dialogue: 0,0:09:23.52,0:09:25.17,Main Dialog,Spoken,0000,0000,0000,,M-Morikawa...
+Dialogue: 0,0:09:25.88,0:09:29.94,Main Dialog,Spoken,0000,0000,0000,,Staying hydrated is fine. Just make \Nsure you wipe the floor later.
+Dialogue: 0,0:09:29.94,0:09:31.26,Main Dialog,Spoken,0000,0000,0000,,Okay.
+Dialogue: 0,0:09:31.65,0:09:33.76,Main Dialog,Spoken,0000,0000,0000,,Good grief. I can't watch \Nany more of that, y'know?
+Dialogue: 0,0:09:35.64,0:09:37.37,Main Dialog,Spoken,0000,0000,0000,,That reminds me...
+Dialogue: 0,0:09:39.46,0:09:41.26,Main Dialog,Spoken,0000,0000,0000,,Blaster Blade attacks!
+Dialogue: 0,0:09:41.58,0:09:44.73,Main Dialog,Spoken,0000,0000,0000,,What?! Guard! And intercept!
+Dialogue: 0,0:09:45.42,0:09:47.86,Main Dialog,Spoken,0000,0000,0000,,Can't watch any more of that, huh?
+Dialogue: 0,0:09:48.73,0:09:51.05,Main Dialog,Spoken,0000,0000,0000,,Well, I know how you feel...
+Dialogue: 0,0:09:52.84,0:09:55.22,Main Dialog,Spoken,0000,0000,0000,,Kamui, you really are strong!
+Dialogue: 0,0:09:55.22,0:09:57.65,Main Dialog,Spoken,0000,0000,0000,,Aww... You're the strong one, Brother!
+Dialogue: 0,0:09:57.93,0:10:00.88,Main Dialog,Spoken,0000,0000,0000,,We're getting close to your first \Nnational tournament, right?
+Dialogue: 0,0:10:00.88,0:10:03.52,Main Dialog,Spoken,0000,0000,0000,,I'm sure you wanna practice \Na little bit, don't you?
+Dialogue: 0,0:10:03.52,0:10:04.66,Main Dialog,Spoken,0000,0000,0000,,But I have to mind the store...
+Dialogue: 0,0:10:05.13,0:10:07.16,Main Dialog,Spoken,0000,0000,0000,,It just so happens that I have \Nnothing better to do right now.
+Dialogue: 0,0:10:09.64,0:10:12.46,Main Dialog,Spoken,0000,0000,0000,,It doesn't count as minding the \Nstore if you're daydreaming.
+Dialogue: 0,0:10:12.46,0:10:14.50,Main Dialog,Spoken,0000,0000,0000,,Go ahead. I'll watch over things for you.
+Dialogue: 0,0:10:16.16,0:10:19.14,Main Dialog,Spoken,0000,0000,0000,,Even if it doesn't seem like he's looking,
+Dialogue: 0,0:10:19.14,0:10:21.40,Main Dialog,Spoken,0000,0000,0000,,he watches over his friends \Nand comes through for us.
+Dialogue: 0,0:10:23.38,0:10:26.61,Main Dialog,Spoken,0000,0000,0000,,As a friend, that makes me really happy...
+Dialogue: 0,0:10:27.02,0:10:30.69,Main Dialog,Spoken,0000,0000,0000,,...but right this moment, his \Nfriends are all Hitsue students
+Dialogue: 0,0:10:30.69,0:10:34.61,Main Dialog,Spoken,0000,0000,0000,,and the help he's giving is \Ndesigned to make me lose.
+Dialogue: 0,0:10:35.00,0:10:38.25,Main Dialog,Spoken,0000,0000,0000,,Sorry, but I'm not going to cooperate!
+Dialogue: 0,0:10:39.53,0:10:41.78,Main Dialog,Spoken,0000,0000,0000,,All right, then. Let's \Nbegin the second match!
+Dialogue: 0,0:10:44.41,0:10:46.22,Main Dialog,Spoken,0000,0000,0000,,Misaki, we're counting on you!
+Dialogue: 0,0:10:53.28,0:10:56.80,Main Dialog,Spoken,0000,0000,0000,,From Hitsue High School: Taishi Miwa!
+Dialogue: 0,0:10:57.29,0:11:01.55,Main Dialog,Spoken,0000,0000,0000,,And from Miyaji Academy: Misaki Tokura!
+Dialogue: 0,0:11:01.97,0:11:05.47,Main Dialog,Spoken,0000,0000,0000,,That was your first serious \Nfight back then, right?
+Dialogue: 0,0:11:06.13,0:11:08.57,Main Dialog,Spoken,0000,0000,0000,,Don't think I'm going to hold back on \Nyou just because we go back awhile.
+Dialogue: 0,0:11:08.90,0:11:11.06,Main Dialog,Spoken,0000,0000,0000,,I'm going to fight you \Nwith everything I've got.
+Dialogue: 0,0:11:11.41,0:11:14.56,Main Dialog,Spoken,0000,0000,0000,,I recall that, a long time ago, it seemed \Nlike you weren't even interested in cards.
+Dialogue: 0,0:11:15.18,0:11:18.07,Main Dialog,Spoken,0000,0000,0000,,And now here you are, in a \Nclub with your friends...
+Dialogue: 0,0:11:18.42,0:11:23.45,Main Dialog,Spoken,0000,0000,0000,,You've changed. But I don't \Nhave anything against that.
+Dialogue: 0,0:11:27.05,0:11:27.80,Main Dialog,Spoken,0000,0000,0000,,Let the match begin!
+Dialogue: 0,0:11:28.34,0:11:30.54,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:11:35.61,0:11:37.00,Main Dialog,Spoken,0000,0000,0000,,Seal Dragon, Terrycloth!
+Dialogue: 0,0:11:37.61,0:11:39.37,Main Dialog,Spoken,0000,0000,0000,,Witch of Prohibited Books, Cinnamon!
+Dialogue: 0,0:11:45.52,0:11:48.40,Main Dialog,Spoken,0000,0000,0000,,He's got serious skills as a fighter.
+Dialogue: 0,0:11:49.01,0:11:50.57,Main Dialog,Spoken,0000,0000,0000,,I can't let my guard down.
+Dialogue: 0,0:12:02.99,0:12:05.66,Signs,Sign,0000,0000,0000,,VF High School Championship\NKanto Block 3
+Dialogue: 0,0:12:10.68,0:12:11.84,Main Dialog,Spoken,0000,0000,0000,,Turn end!
+Dialogue: 0,0:12:12.62,0:12:15.20,Main Dialog,Spoken,0000,0000,0000,,Tokura's turn is over.
+Dialogue: 0,0:12:15.20,0:12:18.17,Main Dialog,Spoken,0000,0000,0000,,She's pushed Miwa into \Na corner with 5 damage.
+Dialogue: 0,0:12:19.08,0:12:22.84,Main Dialog,Spoken,0000,0000,0000,,You weren't kidding about not holding back.
+Dialogue: 0,0:12:23.93,0:12:25.43,Main Dialog,Spoken,0000,0000,0000,,You, too!
+Dialogue: 0,0:12:25.74,0:12:26.85,Main Dialog,Spoken,0000,0000,0000,,SD, yo!
+Dialogue: 0,0:12:26.85,0:12:28.14,Main Dialog,Spoken,0000,0000,0000,,Same damage!
+Dialogue: 0,0:12:28.14,0:12:30.97,Main Dialog,Spoken,0000,0000,0000,,Figures. Both Misaki and Miwa are strong...
+Dialogue: 0,0:12:30.97,0:12:32.42,Main Dialog,Spoken,0000,0000,0000,,Remember, Miwa's your senior!
+Dialogue: 0,0:12:32.42,0:12:34.62,Main Dialog,Spoken,0000,0000,0000,,RMYS, yo!
+Dialogue: 0,0:12:35.82,0:12:40.33,Main Dialog,Spoken,0000,0000,0000,,Yeah, I only wish we could get those \Nguys into the tournament...
+Dialogue: 0,0:12:43.73,0:12:48.00,Main Dialog,Spoken,0000,0000,0000,,That being said, I'll never be able \Nto beat her if I take this casually.
+Dialogue: 0,0:12:48.00,0:12:52.58,Main Dialog,Spoken,0000,0000,0000,,And so, it's time for me \Nto get totally serious!
+Dialogue: 0,0:12:54.08,0:12:59.63,Main Dialog,Spoken,0000,0000,0000,,When the seal is broken, the dragon's \Nflames will reduce everything to ashes!
+Dialogue: 0,0:13:02.06,0:13:03.09,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:13:05.47,0:13:08.37,Main Dialog,Spoken,0000,0000,0000,,...Hellfire Seal Dragon, Blockade Inferno!
+Dialogue: 0,0:13:10.82,0:13:15.23,Main Dialog,Spoken,0000,0000,0000,,Seal Dragon, Blockade is in the Soul, \Nso Inferno's power is 13000!
+Dialogue: 0,0:13:15.48,0:13:17.10,Main Dialog,Spoken,0000,0000,0000,,Flannel moves back!
+Dialogue: 0,0:13:17.61,0:13:18.28,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:13:22.45,0:13:26.61,Main Dialog,Spoken,0000,0000,0000,,And then, break through \Nthe limit! Limit Break!
+Dialogue: 0,0:13:28.49,0:13:29.99,Main Dialog,Spoken,0000,0000,0000,,Especial Counterblast!
+Dialogue: 0,0:13:30.49,0:13:33.75,Main Dialog,Spoken,0000,0000,0000,,I get to retire all of my \Nopponent's grade 2 units!
+Dialogue: 0,0:13:47.22,0:13:49.48,Main Dialog,Spoken,0000,0000,0000,,He mowed down her rear-guards!
+Dialogue: 0,0:13:49.48,0:13:52.01,Main Dialog,Spoken,0000,0000,0000,,Her defensive capability has \Nbeen slashed in one stroke!
+Dialogue: 0,0:13:53.00,0:13:54.77,Main Dialog,Spoken,0000,0000,0000,,With Miwa, I'm not surprised...
+Dialogue: 0,0:13:55.24,0:13:57.86,Main Dialog,Spoken,0000,0000,0000,,But that's not all!
+Dialogue: 0,0:13:57.86,0:14:01.26,Main Dialog,Spoken,0000,0000,0000,,Blockade Inferno gets +10000 power!
+Dialogue: 0,0:14:04.18,0:14:08.46,Main Dialog,Spoken,0000,0000,0000,,It mows down the enemy and \Nincreases its own power.
+Dialogue: 0,0:14:08.46,0:14:13.33,Main Dialog,Spoken,0000,0000,0000,,That's Blockade Inferno's \NVanishing Field Ultimatum!
+Dialogue: 0,0:14:18.92,0:14:21.25,Main Dialog,Spoken,0000,0000,0000,,He means to beat her with one blow?!
+Dialogue: 0,0:14:21.65,0:14:23.50,Main Dialog,Spoken,0000,0000,0000,,Here I go!
+Dialogue: 0,0:14:25.13,0:14:27.88,Main Dialog,Spoken,0000,0000,0000,,Blockade Inferno attacks!
+Dialogue: 0,0:14:28.57,0:14:30.72,Main Dialog,Spoken,0000,0000,0000,,Perfect guard! Kushinada!
+Dialogue: 0,0:14:33.17,0:14:37.48,Main Dialog,Spoken,0000,0000,0000,,Even 28000 power can't break \Nthrough a perfect guard!
+Dialogue: 0,0:14:42.94,0:14:44.73,Main Dialog,Spoken,0000,0000,0000,,I give the effects to Jacquard!
+Dialogue: 0,0:14:47.18,0:14:51.36,Main Dialog,Spoken,0000,0000,0000,,Next! Even though this attack isn't \Ngoing through, I still have Jacquard!
+Dialogue: 0,0:14:52.77,0:14:53.81,Main Dialog,Spoken,0000,0000,0000,,Miwa...
+Dialogue: 0,0:14:54.74,0:14:56.53,Main Dialog,Spoken,0000,0000,0000,,What's with Miwa?
+Dialogue: 0,0:14:56.53,0:14:59.14,Main Dialog,Spoken,0000,0000,0000,,Where did his usual carefree personality go?
+Dialogue: 0,0:14:59.14,0:15:00.38,Main Dialog,Spoken,0000,0000,0000,,It's because he's serious.
+Dialogue: 0,0:15:02.14,0:15:03.88,Main Dialog,Spoken,0000,0000,0000,,Do you know why?
+Dialogue: 0,0:15:06.33,0:15:09.50,Main Dialog,Spoken,0000,0000,0000,,With its skill, Jacquard gets +3000 power!
+Dialogue: 0,0:15:10.08,0:15:11.55,Main Dialog,Spoken,0000,0000,0000,,Go, Jacquard!
+Dialogue: 0,0:15:13.60,0:15:17.39,Main Dialog,Spoken,0000,0000,0000,,You're gonna take this damage!
+Dialogue: 0,0:15:20.37,0:15:23.15,Main Dialog,Spoken,0000,0000,0000,,This is the first time I've \Nseen you looking like that.
+Dialogue: 0,0:15:26.34,0:15:28.08,Main Dialog,Spoken,0000,0000,0000,,You've got a serious look.
+Dialogue: 0,0:15:31.05,0:15:34.94,Main Dialog,Spoken,0000,0000,0000,,It's because I can't take this fight lightly.
+Dialogue: 0,0:15:37.14,0:15:38.60,Main Dialog,Spoken,0000,0000,0000,,Perfect guard!
+Dialogue: 0,0:15:40.32,0:15:42.12,Main Dialog,Spoken,0000,0000,0000,,I'm still not done! Blockade!
+Dialogue: 0,0:15:44.21,0:15:45.08,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:15:53.64,0:15:56.25,Main Dialog,Spoken,0000,0000,0000,,All right! Boss Lady didn't take any damage!
+Dialogue: 0,0:15:56.25,0:15:58.31,Main Dialog,Spoken,0000,0000,0000,,Th-Thank goodness...
+Dialogue: 0,0:15:59.72,0:16:00.84,Main Dialog,Spoken,0000,0000,0000,,Misaki...
+Dialogue: 0,0:16:01.78,0:16:04.19,Main Dialog,Spoken,0000,0000,0000,,Doing the best you can for \Nthe sake of your friends...
+Dialogue: 0,0:16:04.82,0:16:07.19,Main Dialog,Spoken,0000,0000,0000,,That's the kind of guy you are.
+Dialogue: 0,0:16:07.82,0:16:09.04,Main Dialog,Spoken,0000,0000,0000,,I don't know about that...
+Dialogue: 0,0:16:09.86,0:16:13.80,Main Dialog,Spoken,0000,0000,0000,,But to seriously come at me \Nwith everything you've got...
+Dialogue: 0,0:16:14.73,0:16:16.70,Main Dialog,Spoken,0000,0000,0000,,I blocked all of your attacks this turn,
+Dialogue: 0,0:16:17.78,0:16:20.45,Main Dialog,Spoken,0000,0000,0000,,but I'm impressed that \Nyou've gotten this far.
+Dialogue: 0,0:16:21.12,0:16:24.21,Main Dialog,Spoken,0000,0000,0000,,Well, I can't afford to pull my \Npunches when you're my opponent.
+Dialogue: 0,0:16:24.21,0:16:26.84,Main Dialog,Spoken,0000,0000,0000,,Sorry, but this fight is mine.
+Dialogue: 0,0:16:27.29,0:16:31.05,Main Dialog,Spoken,0000,0000,0000,,It's your turn, but unless a miracle happens,
+Dialogue: 0,0:16:31.05,0:16:32.97,Main Dialog,Spoken,0000,0000,0000,,you won't be able to deal me any damage!
+Dialogue: 0,0:16:34.12,0:16:35.22,Main Dialog,Spoken,0000,0000,0000,,Oh?
+Dialogue: 0,0:16:35.50,0:16:38.49,Main Dialog,Spoken,0000,0000,0000,,In that case, I'll make a miracle happen!
+Dialogue: 0,0:16:40.17,0:16:44.10,Main Dialog,Spoken,0000,0000,0000,,Even when besieged by a storm of despair, \Nif you grab the rudder of fate,
+Dialogue: 0,0:16:45.24,0:16:47.36,Main Dialog,Spoken,0000,0000,0000,,you'll find the sea route \Nthat leads to victory!
+Dialogue: 0,0:16:48.01,0:16:50.05,Main Dialog,Spoken,0000,0000,0000,,Goddess of Good Luck, Fortuna!
+Dialogue: 0,0:16:50.05,0:16:53.44,Main Dialog,Spoken,0000,0000,0000,,I break ride on top of Oracle Queen, Himiko!
+Dialogue: 0,0:16:54.74,0:16:56.03,Main Dialog,Spoken,0000,0000,0000,,Fortuna!
+Dialogue: 0,0:17:04.84,0:17:06.42,Main Dialog,Spoken,0000,0000,0000,,The break ride's effects!
+Dialogue: 0,0:17:06.97,0:17:09.42,Main Dialog,Spoken,0000,0000,0000,,I give the power to Fortuna, +10000.
+Dialogue: 0,0:17:09.77,0:17:12.29,Main Dialog,Spoken,0000,0000,0000,,And then I add +5000 to \Nthe power of Tatsutahime!
+Dialogue: 0,0:17:13.21,0:17:14.42,Main Dialog,Spoken,0000,0000,0000,,Skill activated!
+Dialogue: 0,0:17:14.80,0:17:18.40,Main Dialog,Spoken,0000,0000,0000,,I do a Soulblast, which \Ngives +5000 to Fortuna.
+Dialogue: 0,0:17:20.72,0:17:21.96,Main Dialog,Spoken,0000,0000,0000,,Chamomile's skill!
+Dialogue: 0,0:17:23.40,0:17:24.65,Main Dialog,Spoken,0000,0000,0000,,Counterblast!
+Dialogue: 0,0:17:25.84,0:17:30.12,Main Dialog,Spoken,0000,0000,0000,,When Chamomile is moved from the Soul to \Nthe Drop Zone, I can superior call!
+Dialogue: 0,0:17:31.78,0:17:33.82,Main Dialog,Spoken,0000,0000,0000,,I do the same thing with my other Chamomile.
+Dialogue: 0,0:17:34.33,0:17:36.40,Main Dialog,Spoken,0000,0000,0000,,Melissa has the same skill.
+Dialogue: 0,0:17:38.96,0:17:42.95,Main Dialog,Spoken,0000,0000,0000,,Wow! Her rear-guard was practically empty, \Nbut she's filled it up again all at once!
+Dialogue: 0,0:17:43.80,0:17:48.08,Main Dialog,Spoken,0000,0000,0000,,This is the decision the goddess \Nof fortune handed down for me.
+Dialogue: 0,0:17:48.45,0:17:50.09,Main Dialog,Spoken,0000,0000,0000,,Destiny Decision!
+Dialogue: 0,0:17:51.52,0:17:54.85,Main Dialog,Spoken,0000,0000,0000,,Nice! You set the board up perfectly.
+Dialogue: 0,0:17:54.85,0:17:57.44,Main Dialog,Spoken,0000,0000,0000,,But I wouldn't call that a miracle...
+Dialogue: 0,0:17:57.44,0:18:01.05,Main Dialog,Spoken,0000,0000,0000,,After all, I may be able to protect \Nagainst that attacking power.
+Dialogue: 0,0:18:03.24,0:18:06.00,Main Dialog,Spoken,0000,0000,0000,,Shoot. Guess my bluff didn't work...
+Dialogue: 0,0:18:08.60,0:18:11.77,Main Dialog,Spoken,0000,0000,0000,,Now then... I wonder which of them \Nwill make the miracle happen.
+Dialogue: 0,0:18:12.53,0:18:15.58,Main Dialog,Spoken,0000,0000,0000,,Fortuna, attack Blockade Inferno!
+Dialogue: 0,0:18:16.25,0:18:19.96,Main Dialog,Spoken,0000,0000,0000,,Dragon that brings on a disaster, \Ngo from whence you came!
+Dialogue: 0,0:18:21.18,0:18:23.12,Main Dialog,Spoken,0000,0000,0000,,Rinocross! Perfect guard!
+Dialogue: 0,0:18:28.18,0:18:30.13,Main Dialog,Spoken,0000,0000,0000,,Twin drive check.
+Dialogue: 0,0:18:34.94,0:18:38.89,Main Dialog,Spoken,0000,0000,0000,,All right! No trigger! Now he'll be able \Nto guard against her other attacks!
+Dialogue: 0,0:18:38.89,0:18:41.78,Main Dialog,Spoken,0000,0000,0000,,But! The real issue is what happens next...
+Dialogue: 0,0:18:42.89,0:18:45.18,Main Dialog,Spoken,0000,0000,0000,,Fortuna brings about a miracle!
+Dialogue: 0,0:18:45.72,0:18:49.14,Main Dialog,Spoken,0000,0000,0000,,Break through the limit! Limit Break!
+Dialogue: 0,0:18:51.29,0:18:52.29,Main Dialog,Spoken,0000,0000,0000,,Soulblast!
+Dialogue: 0,0:18:53.17,0:18:56.28,Main Dialog,Spoken,0000,0000,0000,,With that, I get to do one more drive check.
+Dialogue: 0,0:18:56.94,0:18:57.93,Main Dialog,Spoken,0000,0000,0000,,Second check!
+Dialogue: 0,0:19:01.50,0:19:04.01,Main Dialog,Spoken,0000,0000,0000,,She gets to drive check... again!
+Dialogue: 0,0:19:05.06,0:19:05.92,Main Dialog,Spoken,0000,0000,0000,,Third check!
+Dialogue: 0,0:19:08.33,0:19:12.06,Main Dialog,Spoken,0000,0000,0000,,Dang. With this timing, \Nthat really is a miracle.
+Dialogue: 0,0:19:12.06,0:19:15.30,Main Dialog,Spoken,0000,0000,0000,,A miracle caused by someone \Nwho's totally serious?
+Dialogue: 0,0:19:15.97,0:19:18.00,Main Dialog,Spoken,0000,0000,0000,,I'm the same as you.
+Dialogue: 0,0:19:19.09,0:19:21.17,Main Dialog,Spoken,0000,0000,0000,,It's because I want to go to \Nthe High School Championship.
+Dialogue: 0,0:19:21.17,0:19:23.32,Main Dialog,Spoken,0000,0000,0000,,Together with my friends from Miyaji...
+Dialogue: 0,0:19:24.88,0:19:27.29,Main Dialog,Spoken,0000,0000,0000,,Figures. I understand.
+Dialogue: 0,0:19:27.29,0:19:30.81,Main Dialog,Spoken,0000,0000,0000,,Seriousness wouldn't come out unless \Nyou're doing it for your friends.
+Dialogue: 0,0:19:33.12,0:19:33.94,Main Dialog,Spoken,0000,0000,0000,,Here I go!
+Dialogue: 0,0:19:34.38,0:19:37.94,Main Dialog,Spoken,0000,0000,0000,,I give the +5000 to Chamomile, then draw!
+Dialogue: 0,0:19:38.24,0:19:41.45,Main Dialog,Spoken,0000,0000,0000,,Chamomile attacks with a \Nboost from Tatsutahime!
+Dialogue: 0,0:19:42.77,0:19:46.58,Main Dialog,Spoken,0000,0000,0000,,I guard with Biella and Artpique, \Nand intercept with Jacquard!
+Dialogue: 0,0:19:47.10,0:19:49.58,Main Dialog,Spoken,0000,0000,0000,,My other Chamomile attacks!
+Dialogue: 0,0:19:51.18,0:19:52.52,Main Dialog,Spoken,0000,0000,0000,,No guard!
+Dialogue: 0,0:19:53.98,0:19:58.71,Main Dialog,Spoken,0000,0000,0000,,If I draw a heal trigger here, \NI'll be able to make it to my turn!
+Dialogue: 0,0:20:15.00,0:20:17.38,Main Dialog,Spoken,0000,0000,0000,,I'm sorry, everyone...
+Dialogue: 0,0:20:20.13,0:20:25.12,Main Dialog,Spoken,0000,0000,0000,,The winner, from Miyaji Academy's \NCardfight Club: Misaki Tokura!
+Dialogue: 0,0:20:29.73,0:20:32.52,Main Dialog,Spoken,0000,0000,0000,,She did it! That's our Boss Lady!
+Dialogue: 0,0:20:32.52,0:20:34.77,Main Dialog,Spoken,0000,0000,0000,,That makes it one win and one loss.
+Dialogue: 0,0:20:34.77,0:20:37.95,Main Dialog,Spoken,0000,0000,0000,,That's right. So we've got \Nanother fighting chance.
+Dialogue: 0,0:20:37.95,0:20:39.13,Main Dialog,Spoken,0000,0000,0000,,I see.
+Dialogue: 0,0:20:41.44,0:20:42.54,Main Dialog,Spoken,0000,0000,0000,,Well, shucks.
+Dialogue: 0,0:20:43.33,0:20:47.17,Main Dialog,Spoken,0000,0000,0000,,A crushing defeat, I'd say. \NGuess I just can't beat you...
+Dialogue: 0,0:20:47.17,0:20:49.36,Main Dialog,Spoken,0000,0000,0000,,You had me backed into a corner, too.
+Dialogue: 0,0:20:49.36,0:20:52.28,Main Dialog,Spoken,0000,0000,0000,,If I hadn't drawn Fortuna, you would've won.
+Dialogue: 0,0:20:54.12,0:20:55.65,Main Dialog,Spoken,0000,0000,0000,,Let's fight again sometime.
+Dialogue: 0,0:20:56.02,0:20:58.85,Main Dialog,Spoken,0000,0000,0000,,But I'm not gonna lose!
+Dialogue: 0,0:20:58.85,0:20:59.90,Main Dialog,Spoken,0000,0000,0000,,Got it?!
+Dialogue: 0,0:21:00.78,0:21:02.09,Main Dialog,Spoken,0000,0000,0000,,Same goes for me!
+Dialogue: 0,0:21:03.29,0:21:04.78,Main Dialog,Spoken,0000,0000,0000,,That was a great fight!
+Dialogue: 0,0:21:05.62,0:21:06.91,Main Dialog,Spoken,0000,0000,0000,,Sorry...
+Dialogue: 0,0:21:09.28,0:21:12.48,Main Dialog,Spoken,0000,0000,0000,,It wasn't a fight you need \Nto apologize for. Right?
+Dialogue: 0,0:21:12.48,0:21:13.16,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:21:13.42,0:21:14.60,Main Dialog,Spoken,0000,0000,0000,,Shoot...
+Dialogue: 0,0:21:14.60,0:21:20.65,Main Dialog,Spoken,0000,0000,0000,,The verdict of Miyaji versus Hitsue all \Ndepends on who wins the third match!
+Dialogue: 0,0:21:21.24,0:21:23.73,Main Dialog,Spoken,0000,0000,0000,,Will we survive the elimination \Nround or be defeated?
+Dialogue: 0,0:21:23.73,0:21:25.94,Main Dialog,Spoken,0000,0000,0000,,This match will decide everything.
+Dialogue: 0,0:21:27.38,0:21:30.93,Main Dialog,Spoken,0000,0000,0000,,All right, then... the fateful third \Nmatch is about to begin!
+Dialogue: 0,0:21:31.25,0:21:34.42,Main Dialog,Spoken,0000,0000,0000,,Yeah! I bet Brother's gonna be in this one!
+Dialogue: 0,0:21:34.42,0:21:35.70,Main Dialog,Spoken,0000,0000,0000,,It's inevitable!
+Dialogue: 0,0:21:35.70,0:21:37.44,Main Dialog,Spoken,0000,0000,0000,,II, yo!
+Dialogue: 0,0:21:37.90,0:21:40.94,Main Dialog,Spoken,0000,0000,0000,,From Miyaji Academy: Aichi Sendou!
+Dialogue: 0,0:21:42.02,0:21:43.23,Main Dialog,Spoken,0000,0000,0000,,My opponent?
+Dialogue: 0,0:21:43.86,0:21:46.57,Main Dialog,Spoken,0000,0000,0000,,All right! Leave the rest to me!
+Dialogue: 0,0:21:47.49,0:21:48.87,Main Dialog,Spoken,0000,0000,0000,,Morikawa?
+Dialogue: 0,0:21:48.87,0:21:49.88,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:21:50.68,0:21:53.13,Main Dialog,Spoken,0000,0000,0000,,I mean, Captain, please!
+Dialogue: 0,0:21:53.13,0:21:54.33,Main Dialog,Spoken,0000,0000,0000,,We're counting on you!
+Dialogue: 0,0:21:58.61,0:22:00.54,Main Dialog,Spoken,0000,0000,0000,,And from Hitsue High School...
+Dialogue: 0,0:22:02.40,0:22:04.06,Main Dialog,Spoken,0000,0000,0000,,...Yuuta Izaki!
+Dialogue: 0,0:22:07.42,0:22:09.05,Main Dialog,Spoken,0000,0000,0000,,Go get 'im, Izaki!
+Dialogue: 0,0:22:09.05,0:22:09.88,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:22:12.18,0:22:13.22,Main Dialog,Spoken,0000,0000,0000,,Izaki...
+Dialogue: 0,0:22:15.46,0:22:19.06,Main Dialog,Spoken,0000,0000,0000,,Aichi... I'm gonna knock you for a loop!
+Dialogue: 0,0:22:20.38,0:22:21.53,Main Dialog,Spoken,0000,0000,0000,,Izaki...
+Dialogue: 0,0:23:57.12,0:23:58.74,Main Dialog,Spoken,0000,0000,0000,,Those Hitsue guys are dangerous!
+Dialogue: 0,0:23:58.74,0:24:00.96,Main Dialog,Spoken,0000,0000,0000,,Boss Lady was this close to losin'!
+Dialogue: 0,0:24:00.96,0:24:04.41,Main Dialog,Spoken,0000,0000,0000,,They're much more aggressive than \Nthe last time we fought them!
+Dialogue: 0,0:24:04.41,0:24:06.96,Main Dialog,Spoken,0000,0000,0000,,All of the Hitsue members have \Nseriously come here to win.
+Dialogue: 0,0:24:06.96,0:24:08.42,Main Dialog,Spoken,0000,0000,0000,,Next time: A Man's Guts!
+Dialogue: 0,0:24:07.67,0:24:24.98,Signs,Sign,0000,0000,0000,,A Man's Guts!
+Dialogue: 0,0:24:09.25,0:24:11.30,Main Dialog,Spoken,0000,0000,0000,,My opponent is Izaki.
+Dialogue: 0,0:24:11.30,0:24:13.51,Main Dialog,Spoken,0000,0000,0000,,My friend, who's always a nice guy...
+Dialogue: 0,0:24:13.51,0:24:16.14,Main Dialog,Spoken,0000,0000,0000,,I see. It's kinda hard to do, huh?
+Dialogue: 0,0:24:16.14,0:24:19.39,Main Dialog,Spoken,0000,0000,0000,,Uh uh. I'm going to hit him with everything \NI've got {\i1}because{\i0} he's my friend!
+Dialogue: 0,0:24:19.39,0:24:21.65,Main Dialog,Spoken,0000,0000,0000,,I'm sure Izaki feels the same way.
+Dialogue: 0,0:24:21.65,0:24:23.14,Main Dialog,Spoken,0000,0000,0000,,I understand.

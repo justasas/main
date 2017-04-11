@@ -1,0 +1,4814 @@
+1
+00:00:30,656 --> 00:00:32,825
+Dr. Gruber!
+
+2
+00:00:35,453 --> 00:00:39,165
+<i>Doctor!</i>
+
+3
+00:00:39,248 --> 00:00:40,416
+<i>Mr. West!</i>
+
+4
+00:00:44,295 --> 00:00:45,629
+<i>Mr. West!</i>
+
+5
+00:00:45,713 --> 00:00:46,839
+<i>Get out!</i>
+
+6
+00:00:50,134 --> 00:00:52,053
+<i>Move back.</i>
+
+7
+00:01:07,818 --> 00:01:09,590
+My god.
+
+8
+00:01:13,707 --> 00:01:15,639
+You idiots!
+You'll ruin my notes.
+
+9
+00:01:15,674 --> 00:01:17,175
+I have to record
+his vital signs!
+
+10
+00:01:18,112 --> 00:01:19,205
+No!
+
+11
+00:01:21,707 --> 00:01:22,625
+Dr. Gruber?
+
+12
+00:01:23,008 --> 00:01:25,336
+<i>Dr. Gruber, How this happened?</i>
+
+13
+00:01:30,424 --> 00:01:31,675
+Dr. Gruber?
+
+14
+00:01:48,025 --> 00:01:49,819
+<i>He's dead.</i>
+
+15
+00:01:49,902 --> 00:01:53,364
+Of course, he's dead,
+the dosage was too large.
+
+16
+00:01:53,447 --> 00:01:54,623
+You killed him.
+
+17
+00:01:54,706 --> 00:01:56,826
+No, I did not.
+
+18
+00:01:57,993 --> 00:02:00,621
+I gave him life.
+
+19
+00:04:52,001 --> 00:04:54,336
+All right,
+I'm gonna zap her again.
+
+20
+00:04:54,420 --> 00:04:57,172
+Charge up the paddles.
+
+21
+00:04:57,298 --> 00:04:58,215
+Come on, let's go! Let's go!
+
+22
+00:04:58,299 --> 00:05:00,134
+Sorry, doctor.
+
+23
+00:05:00,217 --> 00:05:03,178
+Hold the compressions.
+
+24
+00:05:03,304 --> 00:05:05,139
+Clear!
+
+25
+00:05:08,517 --> 00:05:10,978
+Straight line.
+
+26
+00:05:12,563 --> 00:05:15,858
+All right, let's call it.
+
+27
+00:05:15,941 --> 00:05:16,775
+Cain.
+
+28
+00:05:16,859 --> 00:05:19,987
+She just needs a little more time
+for the drugs to circulate.
+
+29
+00:05:20,070 --> 00:05:21,697
+Cain, we have done everything
+
+30
+00:05:21,780 --> 00:05:23,741
+that can be done for this woman.
+
+31
+00:05:23,824 --> 00:05:25,701
+She has not responded.
+
+32
+00:05:28,370 --> 00:05:29,913
+She's gone!
+
+33
+00:05:41,258 --> 00:05:43,635
+Cain, your optimism is touching,
+but a waste of time.
+
+34
+00:05:43,719 --> 00:05:45,888
+A good doctor
+knows when to stop.
+
+35
+00:05:45,971 --> 00:05:46,889
+- Dr. Harrod, just...
+- Take her.
+
+36
+00:05:46,972 --> 00:05:50,100
+And take her to the morgue.
+
+37
+00:05:52,770 --> 00:05:54,938
+Gangway...
+
+38
+00:06:05,366 --> 00:06:06,533
+Mr. Cain.
+
+39
+00:06:06,617 --> 00:06:07,868
+Hey, Mace!
+
+40
+00:06:07,951 --> 00:06:09,203
+I got another one for you.
+
+41
+00:06:09,286 --> 00:06:12,289
+They ain't locked.
+Doc Hill's in the autopsy room.
+
+42
+00:06:12,373 --> 00:06:14,541
+Oh, thanks.
+
+43
+00:06:14,625 --> 00:06:16,752
+Don't know why they keep
+locked doors around here.
+
+44
+00:06:16,835 --> 00:06:19,254
+Nobody wants in...
+
+45
+00:06:19,380 --> 00:06:21,006
+and ain't nobody gettin' out.
+
+46
+00:06:21,090 --> 00:06:23,884
+Yup.
+
+47
+00:06:51,620 --> 00:06:55,124
+Full house.
+
+48
+00:07:50,095 --> 00:07:52,181
+Oh, I'm sorry, Dan.
+I didn't mean to scare you.
+
+49
+00:07:52,264 --> 00:07:53,348
+Oh, it wasn't too bad
+Dean Halsey.
+
+50
+00:07:53,474 --> 00:07:55,100
+I just didn't know anybody was here.
+
+51
+00:07:55,184 --> 00:07:57,144
+You mean, "anybody else".
+
+52
+00:07:57,227 --> 00:07:58,645
+Dan, this is Herbert West.
+
+53
+00:07:58,729 --> 00:08:00,355
+He'll be joining you
+in your third year.
+
+54
+00:08:00,481 --> 00:08:02,316
+He was doing independent
+research in Switzerland
+
+55
+00:08:02,399 --> 00:08:04,193
+with Dr. Gruber shortly before he died.
+
+56
+00:08:04,276 --> 00:08:06,653
+Mr. West, this is Daniel Cain.
+
+57
+00:08:06,737 --> 00:08:08,071
+(One of Miskatonic Medical's
+
+58
+00:08:08,155 --> 00:08:11,366
+best young hopes
+for the future of medicine.
+
+59
+00:08:11,492 --> 00:08:12,784
+What were you researching?
+
+60
+00:08:12,868 --> 00:08:14,244
+Death.
+
+61
+00:08:14,328 --> 00:08:17,331
+Alan, we don't see you
+around here much anymore.
+
+62
+00:08:17,414 --> 00:08:19,333
+Well, I was just showing
+our newest student,
+
+63
+00:08:19,416 --> 00:08:21,335
+Herbert West here,
+the not-so-grand tour.
+
+64
+00:08:21,418 --> 00:08:23,295
+This should interest you, Carl.
+
+65
+00:08:23,378 --> 00:08:26,965
+He worked with Hans Gruber.
+
+66
+00:08:27,049 --> 00:08:28,675
+Mr. West?
+
+67
+00:08:28,759 --> 00:08:34,431
+This is our eminent brain researcher
+and grant machine, Dr. Carl Hill.
+
+68
+00:08:34,515 --> 00:08:36,517
+I know your work, Dr. Hill.
+
+69
+00:08:36,558 --> 00:08:38,352
+Quite well.
+
+70
+00:08:38,435 --> 00:08:40,729
+Your theory on the location
+of the will in the brain is...
+
+71
+00:08:40,812 --> 00:08:43,190
+interesting...
+
+72
+00:08:43,273 --> 00:08:46,735
+though derivative of Dr. Gruber's
+research in the early '70s.
+
+73
+00:08:46,818 --> 00:08:50,113
+So derivative, in fact, that in Europe
+it's considered plagiarized.
+
+74
+00:08:50,197 --> 00:08:54,076
+And your support of the 12-minute limit on
+the life of the brain stem after death...
+
+75
+00:08:54,159 --> 00:08:57,079
+Six to 12 minutes, Mr...
+
+76
+00:08:57,162 --> 00:08:59,998
+West. Herbert West.
+
+77
+00:09:00,082 --> 00:09:03,168
+Frankly, Dr. Hill?
+
+78
+00:09:03,252 --> 00:09:05,587
+Your work on brain death
+is outdated.
+
+79
+00:09:08,465 --> 00:09:10,801
+Carl, while I remember,
+
+80
+00:09:10,884 --> 00:09:13,387
+we're having a grant committee
+meeting Thursday.
+
+81
+00:09:13,470 --> 00:09:16,014
+Megan and I would love it
+if you came to dinner.
+
+82
+00:09:16,098 --> 00:09:17,307
+Well, I'd love to, Alan,
+
+83
+00:09:17,391 --> 00:09:19,393
+looking forward to it.
+
+84
+00:09:19,476 --> 00:09:23,146
+And looking forward to
+seeing you in class, Mr. West.
+
+85
+00:09:32,639 --> 00:09:36,233
+Ah, Dean Halsey, I don't know if this is
+the right time. But I've been so busy, I...
+
+86
+00:09:36,268 --> 00:09:38,015
+No, this is the perfect time.
+What is it?
+
+87
+00:09:38,016 --> 00:09:42,066
+I wondered if you could write me
+a letter of recommendation for the...
+
+88
+00:09:42,067 --> 00:09:44,232
+Wellmont Scholarship.
+
+89
+00:09:44,267 --> 00:09:47,356
+Well, absolutely.
+Of course.
+
+90
+00:09:47,657 --> 00:09:51,361
+I was going to suggest that you apply.
+It's a very prestigious scholarship, Dan.
+
+91
+00:09:51,362 --> 00:09:53,383
+- It will do good things to your career.
+- Thank you.
+
+92
+00:09:53,384 --> 00:09:57,603
+- Mr. West, I'll take you to pathology.
+- Good.
+
+93
+00:10:22,696 --> 00:10:25,552
+Hi.
+
+94
+00:10:27,993 --> 00:10:31,957
+No. No.
+
+95
+00:10:31,992 --> 00:10:34,444
+Oh yes! Oh!
+
+96
+00:10:58,644 --> 00:11:02,701
+- How was that?
+- You worry too much, Dan.
+
+97
+00:11:06,677 --> 00:11:09,260
+Okay girl, medical school
+as I know 'em, uh?
+
+98
+00:11:10,392 --> 00:11:12,611
+- Rufus!
+- Hi Rufus.
+
+99
+00:11:12,613 --> 00:11:13,811
+Hi!
+
+100
+00:11:13,812 --> 00:11:15,231
+- Hey, baby.
+- Hey, Rufus.
+
+101
+00:11:15,232 --> 00:11:16,743
+Where have you been?
+Come on here.
+
+102
+00:11:16,744 --> 00:11:19,121
+Yeah, usually you're always bothering us.
+
+103
+00:11:19,122 --> 00:11:20,985
+Yeah, he likes his new home.
+
+104
+00:11:21,286 --> 00:11:24,838
+Lots of new corners
+and closets to hide in.
+
+105
+00:11:24,839 --> 00:11:26,748
+You can see him all day yesterday.
+
+106
+00:11:26,749 --> 00:11:28,322
+Goodnight, come on.
+
+107
+00:11:28,523 --> 00:11:31,080
+It's a nice place, Dan.
+I really like it.
+
+108
+00:11:31,581 --> 00:11:33,664
+- Yeah?
+- Yeah.
+
+109
+00:11:34,165 --> 00:11:36,297
+So why don't you move in with me?
+
+110
+00:11:37,459 --> 00:11:40,104
+Please don't start, you know I can't.
+
+111
+00:11:41,737 --> 00:11:43,108
+You know...
+
+112
+00:11:43,967 --> 00:11:48,378
+It's alright for two people who love
+each other... to live together.
+
+113
+00:11:48,479 --> 00:11:50,971
+Yeah, I know.
+But not me.
+
+114
+00:11:50,972 --> 00:11:54,414
+And especially not in front
+of daddy's students, okay?
+
+115
+00:11:54,615 --> 00:11:59,161
+Oh! I'm not sure, but I think that
+violates one of my civil rights.
+
+116
+00:11:59,462 --> 00:12:01,438
+You'll find a roommate.
+
+117
+00:12:01,939 --> 00:12:03,613
+Yeah, well better.
+
+118
+00:12:04,614 --> 00:12:07,286
+I can't afford this place by myself.
+
+119
+00:12:08,489 --> 00:12:10,400
+You know any eligible nurses?
+
+120
+00:12:10,801 --> 00:12:13,044
+Hey! That's not fair.
+
+121
+00:12:17,536 --> 00:12:19,612
+Oh oh...
+
+122
+00:12:22,152 --> 00:12:24,700
+Hey, you have a beautiful body.
+
+123
+00:12:25,259 --> 00:12:26,911
+- You do.
+- Yes.
+
+124
+00:12:27,312 --> 00:12:29,503
+Somehow I'm not sure
+that's a compliment.
+
+125
+00:12:29,704 --> 00:12:33,215
+Coming from someone who spends
+most of his time with cadavers.
+
+126
+00:12:34,841 --> 00:12:38,118
+Hey, dead body, is best cadavers.
+
+127
+00:12:38,419 --> 00:12:39,655
+It's beautiful.
+
+128
+00:12:40,356 --> 00:12:45,106
+Besides, you know...
+It just don't jump when you tickle.
+
+129
+00:12:46,105 --> 00:12:47,948
+Dan! Don't!
+I hate that.
+
+130
+00:12:48,049 --> 00:12:51,422
+Stop! Don't...
+Don't tickle me.
+
+131
+00:12:52,223 --> 00:12:54,233
+- Stop!
+- Okay.
+
+132
+00:13:04,211 --> 00:13:05,120
+Rufus.
+
+133
+00:13:05,463 --> 00:13:07,466
+I have to go.
+
+134
+00:13:10,609 --> 00:13:12,344
+No, stay.
+
+135
+00:13:12,628 --> 00:13:13,994
+Daddy knows I'm here.
+
+136
+00:13:14,029 --> 00:13:15,826
+I don't care
+what Dean Halsey knows.
+
+137
+00:13:16,127 --> 00:13:19,267
+Oh you should care.
+For his sake, mine and...
+
+138
+00:13:19,268 --> 00:13:21,706
+I want you again.
+
+139
+00:13:22,107 --> 00:13:23,221
+No...
+
+140
+00:13:23,256 --> 00:13:24,800
+Be reasonable.
+
+141
+00:13:24,917 --> 00:13:27,260
+If I didn't come home
+all night...
+
+142
+00:13:27,268 --> 00:13:28,172
+just one night...
+
+143
+00:13:29,022 --> 00:13:30,620
+What would he do?
+
+144
+00:13:30,623 --> 00:13:31,640
+Expel me?
+
+145
+00:13:32,041 --> 00:13:34,298
+He has too much integrity for that.
+
+146
+00:13:35,599 --> 00:13:37,811
+He likes you, you know?
+
+147
+00:13:38,212 --> 00:13:39,541
+I like him.
+
+148
+00:13:39,576 --> 00:13:41,444
+He's out of touch with the times.
+
+149
+00:13:41,528 --> 00:13:43,196
+That's just the way he is,
+
+150
+00:13:43,279 --> 00:13:45,740
+the world's last living Puritan.
+
+151
+00:13:48,786 --> 00:13:50,787
+I really hated it.
+
+152
+00:14:36,061 --> 00:14:37,689
+The day that you graduate,
+
+153
+00:14:37,772 --> 00:14:41,559
+the minute you get your M.D.,
+I'll marry you,
+
+154
+00:14:41,643 --> 00:14:44,728
+and I'll help you, and I'll be with you
+
+155
+00:14:45,455 --> 00:14:48,025
+as much as I can until then.
+
+156
+00:14:48,108 --> 00:14:49,575
+I promise.
+
+157
+00:14:51,274 --> 00:14:53,526
+Back to square one.
+
+158
+00:14:53,611 --> 00:14:57,702
+Well, at least it gives me
+a chance to housebreak you.
+
+159
+00:14:59,367 --> 00:15:01,616
+Housebroken, is it?
+
+160
+00:15:06,818 --> 00:15:10,044
+I'm going to have to teach
+you a lesson, my girl.
+
+161
+00:15:10,079 --> 00:15:11,380
+What are you doing?
+
+162
+00:15:12,441 --> 00:15:13,832
+Dan.
+
+163
+00:15:16,178 --> 00:15:19,224
+Dan... stop, don't.
+
+164
+00:15:20,391 --> 00:15:21,735
+Dan, stop it!
+
+165
+00:15:21,770 --> 00:15:22,954
+Come, my pretty.
+
+166
+00:15:22,989 --> 00:15:24,544
+Dan, I don't like that.
+
+167
+00:15:25,939 --> 00:15:30,111
+There's not a jury in the world
+that would convict me.
+
+168
+00:15:30,194 --> 00:15:31,562
+Dan, stop it!
+
+169
+00:15:31,647 --> 00:15:33,865
+Doctor Dan!
+
+170
+00:15:33,948 --> 00:15:37,118
+Dan, don't, come on, stop.
+
+171
+00:15:37,203 --> 00:15:38,286
+I really have to go.
+
+172
+00:15:38,371 --> 00:15:39,829
+Come here! Come to me.
+
+173
+00:15:39,855 --> 00:15:41,958
+- Oh.
+- What?
+
+174
+00:15:44,001 --> 00:15:45,845
+Oh, shit.
+
+175
+00:15:45,928 --> 00:15:47,197
+Hi.
+
+176
+00:15:47,381 --> 00:15:48,411
+Can I help you?
+
+177
+00:15:49,883 --> 00:15:51,686
+You're here about
+the apartment, huh?
+
+178
+00:15:51,869 --> 00:15:53,546
+Yes.
+
+179
+00:15:53,972 --> 00:15:56,057
+Didn't we meet this morning?
+You're...
+
+180
+00:15:56,139 --> 00:15:58,017
+West. Herbert West.
+
+181
+00:15:58,102 --> 00:16:00,603
+West.
+Excuse me just one sec.
+
+182
+00:16:03,975 --> 00:16:05,017
+Come in.
+
+183
+00:16:05,100 --> 00:16:06,037
+Thank you.
+
+184
+00:16:12,535 --> 00:16:13,785
+I startled you.
+
+185
+00:16:13,869 --> 00:16:15,996
+Yes, you did.
+
+186
+00:16:17,790 --> 00:16:21,461
+May I introduce my fiance,
+Megan Halsey?
+
+187
+00:16:21,544 --> 00:16:24,715
+- Miss Halsey.
+- Mr. West.
+
+188
+00:16:24,799 --> 00:16:27,009
+I'm afraid the place is still
+kind of a mess, Mr. West.
+
+189
+00:16:27,092 --> 00:16:29,387
+Oh... Herbert.
+
+190
+00:16:40,275 --> 00:16:42,943
+So, you've
+just come from Europe?
+
+191
+00:16:43,027 --> 00:16:45,448
+Switzerland.
+
+192
+00:16:45,530 --> 00:16:47,868
+What was Dr. Gruber like?
+He was pretty famous.
+
+193
+00:16:47,950 --> 00:16:49,493
+Yes, pretty famous...
+
+194
+00:16:49,577 --> 00:16:52,121
+Does this building
+have a basement?
+
+195
+00:16:56,543 --> 00:16:58,629
+Oh, yes.
+
+196
+00:17:02,091 --> 00:17:04,553
+Yes.
+
+197
+00:17:04,636 --> 00:17:07,430
+I think this will be just fine.
+
+198
+00:17:07,513 --> 00:17:09,850
+I have my things outside,
+shall I move in now?
+
+199
+00:17:09,934 --> 00:17:12,978
+Look, I have to go.
+
+200
+00:17:13,062 --> 00:17:15,190
+I think you and Mr. West
+have a lot to discuss
+
+201
+00:17:15,273 --> 00:17:16,607
+before you decide anything.
+
+202
+00:17:16,691 --> 00:17:19,694
+Oh, I've decided.
+
+203
+00:17:19,779 --> 00:17:20,787
+Well, I'd like to...
+
+204
+00:17:20,790 --> 00:17:22,750
+You know, you'll never even
+know that I'm here.
+
+205
+00:17:22,756 --> 00:17:23,570
+Dan, I...
+
+206
+00:17:23,574 --> 00:17:25,241
+Except, of course,
+on the first of the month.
+
+207
+00:17:25,325 --> 00:17:26,869
+Mr. West?
+
+208
+00:17:26,953 --> 00:17:28,247
+Miss Halsey?
+
+209
+00:17:28,330 --> 00:17:32,250
+You didn't say why
+you left Switzerland.
+
+210
+00:17:32,934 --> 00:17:36,456
+Cause there was no more
+I could learn there.
+
+211
+00:17:39,760 --> 00:17:42,179
+Do we... have a deal?
+
+212
+00:17:47,852 --> 00:17:49,271
+Done.
+
+213
+00:17:50,689 --> 00:17:53,024
+Done.
+
+214
+00:17:53,108 --> 00:17:57,321
+You make the incision
+at the base of the skull...
+
+215
+00:18:11,129 --> 00:18:13,798
+cutting away
+enough of the faschia...
+
+216
+00:18:16,844 --> 00:18:18,721
+to get your fingers in...
+
+217
+00:18:21,975 --> 00:18:25,978
+and then grasping firmly
+with both hands,
+
+218
+00:18:26,062 --> 00:18:31,152
+you pull the skin forward
+over the head,
+
+219
+00:18:32,278 --> 00:18:35,239
+very much like peeling
+a large orange.
+
+220
+00:18:37,158 --> 00:18:42,707
+Once the skull is plainly visible,
+
+221
+00:18:42,790 --> 00:18:45,918
+you take the bone saw...
+
+222
+00:18:47,170 --> 00:18:49,172
+And you cut around the perimeter.
+
+223
+00:19:02,188 --> 00:19:05,691
+And there you have it,
+ladies and gentlemen,
+
+224
+00:19:05,774 --> 00:19:08,068
+the human brain.
+
+225
+00:19:08,194 --> 00:19:10,964
+Once the brain stem
+of an individual,
+
+226
+00:19:11,048 --> 00:19:13,950
+I'm talking about the reticular
+activating system,
+
+227
+00:19:14,035 --> 00:19:16,779
+heart regulation,
+respiratory center.
+
+228
+00:19:16,861 --> 00:19:19,123
+Once these activities cease,
+
+229
+00:19:19,207 --> 00:19:24,504
+the brain can only survive
+an additional six to 12 minutes.
+
+230
+00:19:24,588 --> 00:19:27,466
+Six to 12 minutes.
+
+231
+00:19:29,552 --> 00:19:32,513
+Until...
+
+232
+00:19:32,598 --> 00:19:37,143
+brain death brings about
+an irreversible conclusion.
+
+233
+00:19:45,820 --> 00:19:49,725
+We all want to retain
+our personalities
+
+234
+00:19:49,809 --> 00:19:52,078
+in some idyllic afterlife.
+
+235
+00:19:52,161 --> 00:19:54,998
+We all pray for some miracle,
+
+236
+00:19:55,081 --> 00:19:58,709
+some drug, potion, pill.
+
+237
+00:20:04,509 --> 00:20:09,430
+Perhaps, though,
+it takes something else.
+
+238
+00:20:09,514 --> 00:20:13,978
+Perhaps it takes desire,
+an obsessive desire.
+
+239
+00:20:14,061 --> 00:20:16,480
+Perhaps it take...
+
+240
+00:20:21,946 --> 00:20:26,358
+We will discuss the location of the will
+in the brain structure
+
+241
+00:20:26,484 --> 00:20:29,578
+at another time.
+
+242
+00:20:29,662 --> 00:20:31,748
+Mr. West!
+
+243
+00:20:31,832 --> 00:20:35,169
+I suggest you get
+yourself a pen!
+
+244
+00:20:37,004 --> 00:20:38,422
+Class dismissed.
+
+245
+00:20:40,926 --> 00:20:42,710
+How can you teach such drivel?
+
+246
+00:20:42,794 --> 00:20:44,755
+These people are here to learn
+and you're closing their minds
+
+247
+00:20:44,838 --> 00:20:45,807
+before they even have a chance!
+
+248
+00:20:45,889 --> 00:20:47,308
+What are you here for,
+Mr. West?
+
+249
+00:20:47,350 --> 00:20:49,510
+You know, you should have
+stolen more of Gruber's ideas,
+
+250
+00:20:49,551 --> 00:20:50,829
+then at least you'd have ideas!
+
+251
+00:20:50,912 --> 00:20:52,814
+Mr. West!
+
+252
+00:20:55,567 --> 00:20:58,446
+It is going to be
+a pleasure to fail you.
+
+253
+00:21:05,662 --> 00:21:09,667
+I would like to propose a toast
+
+254
+00:21:09,750 --> 00:21:11,878
+to the National Science Foundation
+
+255
+00:21:11,961 --> 00:21:16,215
+for recognizing the genius
+of Dr. Carl Hill,
+
+256
+00:21:17,217 --> 00:21:20,646
+and for awarding
+Miskatonic Medical School
+
+257
+00:21:20,688 --> 00:21:22,173
+its largest grant ever.
+
+258
+00:21:23,350 --> 00:21:27,519
+Your new laser drill is going
+to revolutionize neurosurgery.
+
+259
+00:21:27,604 --> 00:21:32,035
+To the foundation,
+and to Miskatonic.
+
+260
+00:21:35,513 --> 00:21:37,056
+It's all right, sweetheart,
+you can drink up.
+
+261
+00:21:37,239 --> 00:21:38,283
+We're celebrating.
+
+262
+00:21:38,367 --> 00:21:40,452
+I know, Daddy,
+but I have to go soon.
+
+263
+00:21:40,536 --> 00:21:44,248
+After preparing such a feast,
+you must be tired.
+
+264
+00:21:44,374 --> 00:21:45,999
+I have a study date.
+
+265
+00:21:46,084 --> 00:21:47,460
+With Daniel?
+
+266
+00:21:47,542 --> 00:21:49,129
+Yeah.
+
+267
+00:21:49,212 --> 00:21:50,463
+Daniel Cain'?
+
+268
+00:21:51,924 --> 00:21:54,928
+Herbert West has moved in
+with him, hasn't he?
+
+269
+00:21:55,010 --> 00:21:56,678
+For the time being.
+
+270
+00:21:57,463 --> 00:21:59,641
+That must be him.
+Excuse me.
+
+271
+00:22:03,896 --> 00:22:06,932
+So, your daughter
+is seeing Cain, eh?
+
+272
+00:22:08,566 --> 00:22:11,572
+You think that's wise, Alan'?
+
+273
+00:22:11,655 --> 00:22:12,781
+Dan!
+
+274
+00:22:12,865 --> 00:22:14,415
+Hello, sir.
+
+275
+00:22:14,416 --> 00:22:16,243
+Dr. Hill.
+
+276
+00:22:16,327 --> 00:22:18,258
+Would you join us
+for a glass of wine?
+
+277
+00:22:20,163 --> 00:22:22,042
+Actually, we have some
+work to do.
+
+278
+00:22:22,126 --> 00:22:23,585
+Why don't you study here?
+
+279
+00:22:23,668 --> 00:22:27,089
+Well, I've her home soon,
+don't worry.
+
+280
+00:22:27,172 --> 00:22:31,429
+Well then, one last toast?
+
+281
+00:22:33,013 --> 00:22:34,848
+To Megan...
+
+282
+00:22:34,932 --> 00:22:38,977
+my esteemed colleague's capable,
+
+283
+00:22:39,060 --> 00:22:42,566
+beautiful, loving daughter,
+
+284
+00:22:42,649 --> 00:22:46,431
+the obsession of all
+who fall under her spell.
+
+285
+00:22:53,164 --> 00:22:54,946
+- I'll drink to that.
+- Hear, hear.
+
+286
+00:22:58,081 --> 00:22:59,788
+Are you sure you won't
+stay with us here?
+
+287
+00:22:59,789 --> 00:23:01,643
+We promise not to take two boys.
+
+288
+00:23:02,900 --> 00:23:05,015
+And you're a little tired my dear.
+
+289
+00:23:05,916 --> 00:23:07,869
+Very tired.
+
+290
+00:23:11,897 --> 00:23:14,213
+Um, no! That's okay.
+
+291
+00:23:14,914 --> 00:23:16,681
+You two have a good time.
+
+292
+00:23:18,198 --> 00:23:19,350
+Bye daddy.
+
+293
+00:23:19,551 --> 00:23:21,135
+Now, don't be too late.
+
+294
+00:23:21,136 --> 00:23:23,681
+I'll see you soon.
+Dr Hill.
+
+295
+00:23:29,612 --> 00:23:31,261
+How about some brandy.
+
+296
+00:23:32,932 --> 00:23:35,978
+Your daughter has grown into
+an enchanting young woman.
+
+297
+00:23:35,979 --> 00:23:37,627
+Oh yes, she has.
+
+298
+00:23:41,044 --> 00:23:43,111
+You know, since Marianne died,
+
+299
+00:23:43,612 --> 00:23:47,269
+she's taken care of the
+house, the cooking and me.
+
+300
+00:23:48,070 --> 00:23:50,585
+It'll be a shame when she leaves.
+
+301
+00:23:51,586 --> 00:23:54,226
+She deserves the best, Alan.
+
+302
+00:23:55,427 --> 00:23:58,499
+Someone clearly superior.
+
+303
+00:23:59,155 --> 00:24:01,243
+Oh, give the boy a chance.
+
+304
+00:24:01,344 --> 00:24:03,937
+He's a very good scholar.
+
+305
+00:24:06,038 --> 00:24:08,371
+He needs our help, Carl.
+
+306
+00:24:08,372 --> 00:24:10,968
+He deserves the Wellmont Scholarship.
+
+307
+00:24:10,969 --> 00:24:12,797
+Oh, but I don't know, Alan.
+
+308
+00:24:12,798 --> 00:24:13,998
+Perhaps...
+
+309
+00:24:14,899 --> 00:24:17,561
+But I can't help wondering...
+
+310
+00:24:18,062 --> 00:24:21,197
+Is he morally fit to be a doctor.
+
+311
+00:24:24,607 --> 00:24:28,644
+Well, as you said,
+he's a clever young man.
+
+312
+00:24:28,745 --> 00:24:32,302
+He knows full well, he's
+chasing the Dean's daughter.
+
+313
+00:24:32,803 --> 00:24:36,610
+He could be using her to
+gain an advantage with you.
+
+314
+00:24:36,911 --> 00:24:39,589
+I suspected the same
+thing in the beginning.
+
+315
+00:24:39,590 --> 00:24:42,521
+He's proven himself to
+be a perfect gentleman.
+
+316
+00:24:42,622 --> 00:24:46,386
+Oh, of course.
+But after he gets the scholarship?
+
+317
+00:24:46,787 --> 00:24:48,703
+He won't need her then.
+
+318
+00:24:50,336 --> 00:24:51,925
+I don't believe that.
+
+319
+00:24:52,826 --> 00:24:56,175
+I trust him.
+Meg trust him.
+
+320
+00:24:56,176 --> 00:25:00,975
+Meg has matured a great
+deal in the past few years,
+
+321
+00:25:01,276 --> 00:25:04,839
+but she's still young
+and impressionable.
+
+322
+00:25:06,842 --> 00:25:11,339
+And now Cain is rooming
+with that West character.
+
+323
+00:25:12,055 --> 00:25:15,409
+West is a strange bird,
+I'll agree to that.
+
+324
+00:25:15,910 --> 00:25:18,515
+He's a cancer, Alan.
+
+325
+00:25:20,616 --> 00:25:23,786
+His intelligence is highly questionable.
+
+326
+00:25:24,587 --> 00:25:27,037
+He's disrespectful,
+
+327
+00:25:27,038 --> 00:25:29,406
+teller of lies about the staff.
+
+328
+00:25:30,407 --> 00:25:35,254
+I think he's deranged...
+dangerous.
+
+329
+00:25:37,345 --> 00:25:39,719
+- Dangerous?
+- Yes, Alan.
+
+330
+00:25:40,320 --> 00:25:43,805
+And Cain is with him all the time.
+
+331
+00:25:44,006 --> 00:25:46,556
+And with your daughter.
+
+332
+00:25:47,557 --> 00:25:50,934
+Cain is dangerous.
+
+333
+00:25:50,935 --> 00:25:52,797
+He's dangerous?
+
+334
+00:25:52,998 --> 00:25:58,037
+To school... and to your daughter.
+
+335
+00:25:58,738 --> 00:26:05,021
+Your beautiful, young,
+loving daughter.
+
+336
+00:26:05,422 --> 00:26:10,329
+At the end of this...
+my daughter.
+
+337
+00:26:27,223 --> 00:26:28,458
+What is this?
+
+338
+00:26:29,633 --> 00:26:31,009
+It's nothing.
+
+339
+00:26:33,510 --> 00:26:35,264
+What's the matter?
+
+340
+00:26:36,565 --> 00:26:38,030
+Nothing.
+
+341
+00:26:40,431 --> 00:26:44,781
+He's not here, you know?
+He's still on shift in the hospital.
+
+342
+00:26:45,782 --> 00:26:48,031
+- It's not West.
+- No.
+
+343
+00:26:49,232 --> 00:26:51,967
+You know, every since he
+moved in you come over last night
+
+344
+00:26:51,968 --> 00:26:55,315
+and when you do you're in a
+case of repressed hysteria.
+
+345
+00:26:56,143 --> 00:26:59,901
+Oh, I'm sorry Danny,
+but he makes my skin crawl.
+
+346
+00:27:00,102 --> 00:27:03,518
+Well, he's just one of
+your typical genius.
+
+347
+00:27:03,719 --> 00:27:07,820
+He's uh, very intelligent,
+he's very private
+
+348
+00:27:07,821 --> 00:27:09,464
+didn't quite act like other people.
+
+349
+00:27:10,165 --> 00:27:12,263
+But he's been no problem, really.
+
+350
+00:27:13,464 --> 00:27:15,064
+Yeah.
+
+351
+00:27:32,434 --> 00:27:35,242
+No, Dan.
+No!
+
+352
+00:27:36,661 --> 00:27:39,373
+Please!
+
+353
+00:27:39,455 --> 00:27:41,021
+Okay, what is it?
+
+354
+00:27:41,056 --> 00:27:43,215
+I don't know, it's...
+
+355
+00:27:43,250 --> 00:27:46,000
+Look, it's not you, really.
+
+356
+00:27:46,235 --> 00:27:48,320
+It's just a lot of little things.
+
+357
+00:27:48,655 --> 00:27:49,758
+Like what?
+
+358
+00:27:49,884 --> 00:27:52,628
+Well, West is always in his room
+with the door closed.
+
+359
+00:27:52,711 --> 00:27:54,417
+I mean, do you ever see him?
+
+360
+00:27:54,555 --> 00:27:56,056
+Does he ever eat?
+
+361
+00:27:56,140 --> 00:27:59,108
+I told you, he's a little cracked.
+
+362
+00:28:00,520 --> 00:28:03,156
+He bothers you, too.
+
+363
+00:28:03,239 --> 00:28:05,467
+No, don't be ridiculous.
+
+364
+00:28:05,551 --> 00:28:07,234
+Rufus is terrified of him.
+
+365
+00:28:07,318 --> 00:28:09,290
+When West comes in,
+he runs and hides.
+
+366
+00:28:09,325 --> 00:28:10,897
+Rufus runs and hides all the time,
+
+367
+00:28:10,980 --> 00:28:12,073
+it's standard cat activity.
+
+368
+00:28:12,157 --> 00:28:13,158
+Yes, but not when we're together,
+
+369
+00:28:13,241 --> 00:28:15,202
+then he's all over us trying
+to get your attention and...
+
+370
+00:28:16,704 --> 00:28:18,289
+Where is he?
+
+371
+00:28:18,372 --> 00:28:19,790
+I haven't seen him
+since we got here.
+
+372
+00:28:19,916 --> 00:28:21,082
+It's okay, he's around here.
+
+373
+00:28:21,167 --> 00:28:22,168
+I haven't even heard him,
+
+374
+00:28:22,250 --> 00:28:24,920
+usually he at least knocks
+something over when I'm here.
+
+375
+00:28:27,341 --> 00:28:29,468
+Pss pss pss pss.
+
+376
+00:28:31,179 --> 00:28:33,971
+Rufus... Rufus... Rufus.
+
+377
+00:28:34,055 --> 00:28:35,182
+Pss pss pss pss.
+
+378
+00:28:35,265 --> 00:28:38,768
+Come on, you fat cat.
+
+379
+00:28:38,852 --> 00:28:40,212
+Here, kitty!
+
+380
+00:28:40,296 --> 00:28:42,005
+Rufus.
+
+381
+00:28:42,090 --> 00:28:44,424
+Come on now, you mad animal.
+
+382
+00:28:44,508 --> 00:28:46,569
+Don't you try to hide from me.
+
+383
+00:28:46,653 --> 00:28:49,113
+I know all of your tricks.
+
+384
+00:28:49,196 --> 00:28:52,116
+Rufus?
+Where are you, boy?
+
+385
+00:28:52,201 --> 00:28:54,118
+Here, kitty.
+
+386
+00:28:54,202 --> 00:28:56,245
+Here, kitty!
+
+387
+00:28:57,956 --> 00:28:59,290
+Here, kitty.
+
+388
+00:29:04,545 --> 00:29:08,217
+Rufus. Hey, boy!
+
+389
+00:29:19,813 --> 00:29:22,440
+Rufus?
+
+390
+00:29:25,987 --> 00:29:28,739
+Rufus?
+
+391
+00:29:30,699 --> 00:29:32,533
+Rufus.
+
+392
+00:29:38,457 --> 00:29:41,210
+Rufus?
+
+393
+00:29:49,051 --> 00:29:50,137
+Hey, boy.
+
+394
+00:29:57,269 --> 00:29:59,354
+Rufus, are you in here?
+
+395
+00:30:04,401 --> 00:30:07,238
+Here, boy.
+
+396
+00:30:07,322 --> 00:30:09,281
+Here, kitty.
+
+397
+00:30:21,919 --> 00:30:25,257
+Rufus?
+
+398
+00:30:30,388 --> 00:30:32,849
+Oh, Dan, I think it's...
+
+399
+00:30:32,932 --> 00:30:34,557
+What are you doing in my room?
+
+400
+00:30:34,841 --> 00:30:37,299
+- How dare you come in...
+- Dan! Dan!
+
+401
+00:30:38,230 --> 00:30:39,981
+What's the matter?
+What's the matter?
+
+402
+00:30:40,065 --> 00:30:42,609
+I thought I was renting
+a private room, Dan!
+
+403
+00:30:42,692 --> 00:30:43,860
+Meg, what the hell
+are you doing in here?
+
+404
+00:30:43,943 --> 00:30:45,819
+- I...
+- Would you please leave, now!
+
+405
+00:30:46,103 --> 00:30:48,074
+Easy!
+
+406
+00:30:48,157 --> 00:30:49,366
+In the fridge.
+
+407
+00:30:59,668 --> 00:31:01,421
+I was going to show you.
+
+408
+00:31:01,504 --> 00:31:03,506
+Shut up.
+
+409
+00:31:08,554 --> 00:31:10,263
+What happened?
+
+410
+00:31:10,347 --> 00:31:13,390
+It was dead when I found it.
+
+411
+00:31:13,475 --> 00:31:15,477
+You killed him.
+
+412
+00:31:15,559 --> 00:31:17,271
+He hated you!
+
+413
+00:31:17,354 --> 00:31:20,150
+Meg. It suffocated.
+
+414
+00:31:23,568 --> 00:31:27,281
+It knocked the garbage over and
+it got its head stuck in a jar.
+
+415
+00:31:27,365 --> 00:31:29,384
+You weren't home,
+so I put it in there.
+
+416
+00:31:29,568 --> 00:31:30,994
+I certainly didn't think
+you'd want to find it like that.
+
+417
+00:31:31,120 --> 00:31:32,913
+I didn't want
+to stink the place up.
+
+418
+00:31:32,996 --> 00:31:34,956
+I was going to show you.
+
+419
+00:31:35,038 --> 00:31:36,824
+You couldn't call, or write a note?
+
+420
+00:31:36,906 --> 00:31:39,051
+I was busy pushing bodies around,
+as you well know,
+
+421
+00:31:39,136 --> 00:31:40,537
+and what would a note say, Dan?
+
+422
+00:31:40,572 --> 00:31:42,631
+"Cat dead, details later"?
+
+423
+00:31:42,715 --> 00:31:43,857
+I knew you were fond of it.
+
+424
+00:31:43,942 --> 00:31:45,309
+You killed him, I know you did.
+
+425
+00:31:45,335 --> 00:31:46,438
+He killed him.
+
+426
+00:31:46,473 --> 00:31:47,836
+Besides, I do not
+like people in my room!
+
+427
+00:31:47,920 --> 00:31:50,390
+All right, that's enough.
+
+428
+00:31:57,414 --> 00:31:59,182
+I think you both better leave, now.
+
+429
+00:31:59,365 --> 00:32:01,441
+- What the hell is this?
+- That is none of your business.
+
+430
+00:32:01,459 --> 00:32:02,403
+Yeah, I think it is my business!
+
+431
+00:32:02,485 --> 00:32:03,528
+Just as it is none of my business
+
+432
+00:32:03,612 --> 00:32:05,439
+that you're sleeping
+with Dean Halsey's daughter.
+
+433
+00:32:08,384 --> 00:32:10,327
+You know, I would not want
+to see a fellow student,
+
+434
+00:32:10,412 --> 00:32:12,363
+especially one
+as promising as yourself,
+
+435
+00:32:12,405 --> 00:32:14,540
+be thrown out of school,
+out of the profession...
+
+436
+00:32:14,723 --> 00:32:17,970
+on moral ground.
+
+437
+00:32:18,211 --> 00:32:20,296
+I think Dr. Halsey
+just might understand.
+
+438
+00:32:20,380 --> 00:32:22,049
+Oh, do you?
+
+439
+00:32:22,175 --> 00:32:24,593
+Well, you may well be right.
+
+440
+00:32:24,675 --> 00:32:28,430
+Are you sure you want
+to find out?
+
+441
+00:33:54,655 --> 00:33:55,866
+Herbert?
+
+442
+00:33:57,167 --> 00:33:58,135
+Herbert.
+
+443
+00:33:58,777 --> 00:34:00,043
+Herbert!
+
+444
+00:34:00,078 --> 00:34:01,645
+You hear that sound?
+
+445
+00:34:03,122 --> 00:34:05,821
+West! West!
+
+446
+00:34:06,794 --> 00:34:08,880
+West, what is that?
+
+447
+00:34:31,195 --> 00:34:32,312
+Quiet!
+
+448
+00:34:36,200 --> 00:34:37,826
+Get off of...
+
+449
+00:34:38,310 --> 00:34:39,361
+Cain!
+
+450
+00:34:42,933 --> 00:34:44,119
+Get out of here!
+
+451
+00:34:49,290 --> 00:34:51,161
+Get it off of me!
+
+452
+00:34:57,847 --> 00:34:59,142
+Stay away!
+
+453
+00:34:59,227 --> 00:35:00,950
+Later!
+
+454
+00:35:05,731 --> 00:35:07,317
+Aw, shit.
+
+455
+00:35:08,526 --> 00:35:10,363
+There he is! Shit.
+
+456
+00:35:18,619 --> 00:35:20,124
+Don't move.
+
+457
+00:35:23,760 --> 00:35:25,194
+Look out!
+
+458
+00:35:25,379 --> 00:35:27,792
+There it goes under the stairs,
+it's under the stairs.
+
+459
+00:35:36,932 --> 00:35:39,350
+Okay, I got it.
+
+460
+00:35:39,434 --> 00:35:41,478
+I got it.
+
+461
+00:36:06,462 --> 00:36:09,549
+Oh.
+
+462
+00:36:09,632 --> 00:36:11,093
+Look out!
+
+463
+00:36:36,893 --> 00:36:38,989
+It's really quite simple.
+
+464
+00:36:39,024 --> 00:36:41,263
+All life is a physical
+and chemical process, correct?
+
+465
+00:36:41,558 --> 00:36:45,521
+It stands to reason then, that if one
+could find extremely fresh specimens
+
+466
+00:36:45,604 --> 00:36:49,023
+and recharge that chemical process,
+bang, we have re-animation.
+
+467
+00:36:49,107 --> 00:36:53,694
+- The theory is not new, West.
+- But my reagent is.
+
+468
+00:36:54,077 --> 00:36:55,363
+Read.
+
+469
+00:36:59,576 --> 00:37:01,245
+"With various animating solutions,"
+
+470
+00:37:01,329 --> 00:37:03,139
+"I have killed and brought
+to animated life,"
+
+471
+00:37:03,222 --> 00:37:07,260
+"a number of rabbits,
+guinea pigs, cats, and dogs."
+
+472
+00:37:07,344 --> 00:37:09,612
+I've broken the 6 to 12 minute barrier.
+
+473
+00:37:09,738 --> 00:37:11,858
+I've conquered brain death.
+
+474
+00:37:13,593 --> 00:37:16,544
+"With the higher animals
+and the consequent"
+
+475
+00:37:16,579 --> 00:37:20,212
+increased strength of solution,
+reaction has become more violent...
+
+476
+00:37:21,102 --> 00:37:24,028
+and my research
+has become more difficult.
+
+477
+00:37:24,166 --> 00:37:26,196
+Which is why
+I need you to help me.
+
+478
+00:37:27,193 --> 00:37:28,485
+Help you?
+
+479
+00:37:28,520 --> 00:37:30,731
+You are the perfect person
+to assist me.
+
+480
+00:37:30,814 --> 00:37:33,533
+You're hard-working, bright,
+people respect you,
+
+481
+00:37:33,818 --> 00:37:37,262
+and you have access
+to certain authorities.
+
+482
+00:37:38,290 --> 00:37:41,835
+We can defeat death.
+
+483
+00:37:41,919 --> 00:37:44,506
+We can achieve
+every doctor's dream.
+
+484
+00:37:44,589 --> 00:37:48,336
+You'll be famous... and live lifetimes.
+
+485
+00:37:48,520 --> 00:37:51,598
+You haven't done this on people?
+
+486
+00:37:56,262 --> 00:37:58,272
+I've done all I can here.
+
+487
+00:37:58,799 --> 00:38:02,010
+I'll need new lab space.
+
+488
+00:38:02,093 --> 00:38:04,011
+You will help me.
+
+489
+00:38:04,094 --> 00:38:06,722
+- No!
+- Why? Because it's mad?
+
+490
+00:38:06,806 --> 00:38:08,434
+No, because I don't
+believe you.
+
+491
+00:38:08,518 --> 00:38:10,435
+How can you say that?
+You've seen the results.
+
+492
+00:38:10,519 --> 00:38:12,731
+No, Rufus wasn't dead
+to begin with.
+
+493
+00:38:12,815 --> 00:38:14,481
+You drugged him
+and reduced his vital signs.
+
+494
+00:38:14,565 --> 00:38:15,691
+You lowered his body temperature.
+
+495
+00:38:15,817 --> 00:38:16,900
+He couldn't have been dead.
+
+496
+00:38:16,984 --> 00:38:18,568
+Do you agree
+that he's dead now?
+
+497
+00:38:19,656 --> 00:38:21,824
+Do you agree
+that he's dead now?
+
+498
+00:38:29,581 --> 00:38:31,585
+West, no!
+
+499
+00:38:36,090 --> 00:38:37,298
+West, stop!
+
+500
+00:38:37,383 --> 00:38:39,426
+I'll show you.
+
+501
+00:38:39,510 --> 00:38:41,221
+- Then you'll help me.
+- No!
+
+502
+00:38:41,303 --> 00:38:42,429
+Yes, you will.
+
+503
+00:38:42,514 --> 00:38:46,102
+That is why I brought the infernal beast
+back to life in the first place.
+
+504
+00:38:51,899 --> 00:38:53,734
+- In the brain?
+- Of course.
+
+505
+00:38:57,904 --> 00:39:01,785
+Don't expect it to tango,
+it has a broken back.
+
+506
+00:39:06,415 --> 00:39:11,043
+God! Why does
+it make that noise?
+
+507
+00:39:11,127 --> 00:39:13,716
+Birth is always painful.
+
+508
+00:39:18,469 --> 00:39:20,012
+It was dead.
+
+509
+00:39:20,094 --> 00:39:21,473
+Twice.
+
+510
+00:39:25,145 --> 00:39:27,062
+- Oh, it's him!
+- Baby, what are you doing here?
+
+511
+00:39:27,146 --> 00:39:28,998
+It's Rufus! How did...
+
+512
+00:39:29,138 --> 00:39:31,735
+- Come on, let's go upstairs.
+- Oh! Oh, my God.
+
+513
+00:40:47,143 --> 00:40:51,238
+Herbert West has effected
+re-animation in dead animal tissue.
+
+514
+00:40:53,543 --> 00:40:57,497
+Mr. Cain, I'm surprised.
+
+515
+00:40:57,580 --> 00:40:58,581
+No, I've seen it.
+
+516
+00:40:58,665 --> 00:41:02,586
+He brought back a dead animal,
+a cat, back to life.
+
+517
+00:41:02,669 --> 00:41:05,672
+I hadn't expected such nonsense
+from you, Mr. Cain,
+
+518
+00:41:05,756 --> 00:41:08,634
+but I should have guessed it
+when you took up with Mr. West.
+
+519
+00:41:08,718 --> 00:41:12,262
+I know he's unstable,
+but I've seen the results,
+
+520
+00:41:12,347 --> 00:41:14,515
+and so has your daughter.
+
+521
+00:41:14,598 --> 00:41:16,684
+What have you been doing
+with my daughter?
+
+522
+00:41:16,768 --> 00:41:19,102
+She walked into an experiment.
+
+523
+00:41:19,186 --> 00:41:22,272
+You've involved Megan
+in your insanity?
+
+524
+00:41:22,356 --> 00:41:24,276
+I never intended to involve her.
+
+525
+00:41:24,360 --> 00:41:27,238
+Tomorrow morning, you will
+submit to me a written apology
+
+526
+00:41:27,364 --> 00:41:29,032
+for this entire affair.
+
+527
+00:41:29,115 --> 00:41:32,493
+These experiments were clearly beyond
+the scope of your legitimate studies.
+
+528
+00:41:32,576 --> 00:41:35,914
+They've obviously interfered with
+your ability to do your class work.
+
+529
+00:41:35,997 --> 00:41:40,544
+If any equipment from the hospital
+or from the laboratories
+
+530
+00:41:40,628 --> 00:41:44,131
+of Miskatonic University were involved
+in any of this unauthorized activity,
+
+531
+00:41:44,215 --> 00:41:46,092
+criminal charges
+may be pressed.
+
+532
+00:41:46,175 --> 00:41:49,805
+You will, in any case, have
+your student loan rescinded.
+
+533
+00:41:51,957 --> 00:41:54,894
+My loan?
+
+534
+00:41:54,976 --> 00:41:57,269
+I won't be able to continue school.
+
+535
+00:41:57,395 --> 00:41:59,816
+As for Mr. West,
+he needs submit no apology.
+
+536
+00:41:59,898 --> 00:42:03,279
+You may tell him that he may
+continue with his research
+
+537
+00:42:03,405 --> 00:42:05,571
+without the impediment
+of an education.
+
+538
+00:42:05,656 --> 00:42:08,449
+As of now, he is no longer
+a student of this university.
+
+539
+00:42:09,809 --> 00:42:11,578
+Sir, can we please just discuss this?
+
+540
+00:42:11,662 --> 00:42:13,916
+I think you're being blinded
+by your emotions.
+
+541
+00:42:14,957 --> 00:42:17,544
+That will be all, Mr. Cain.
+
+542
+00:42:26,137 --> 00:42:28,055
+Don't take this out on Meg.
+
+543
+00:42:29,098 --> 00:42:30,599
+She tried to stop me.
+
+544
+00:42:30,683 --> 00:42:33,686
+I said that will be all.
+
+545
+00:42:38,699 --> 00:42:41,041
+I'll... I'll talk to him.
+
+546
+00:42:41,314 --> 00:42:42,493
+Won't do any good.
+
+547
+00:42:42,494 --> 00:42:43,919
+He listens to me.
+
+548
+00:42:44,120 --> 00:42:46,677
+- I got to talk to West.
+- You've got to avoid him.
+
+549
+00:42:47,378 --> 00:42:48,813
+Daddy's angry now.
+
+550
+00:42:48,814 --> 00:42:50,962
+But he'll listen to me.
+He likes you. He always has.
+
+551
+00:42:50,963 --> 00:42:53,064
+But you've got to separate
+yourself from West.
+
+552
+00:42:53,065 --> 00:42:55,791
+Meg! Don't you
+understand what he's done?
+
+553
+00:42:55,992 --> 00:42:57,533
+What we could do?
+
+554
+00:42:58,134 --> 00:43:00,588
+What about what we could do?
+
+555
+00:43:03,429 --> 00:43:05,290
+I love you.
+
+556
+00:43:07,285 --> 00:43:09,213
+I love you too.
+
+557
+00:43:13,665 --> 00:43:15,178
+And I accept.
+
+558
+00:43:16,929 --> 00:43:17,740
+What?
+
+559
+00:43:18,441 --> 00:43:20,849
+I accept your proposal.
+
+560
+00:43:21,971 --> 00:43:23,177
+Oh, let's get married.
+
+561
+00:43:23,178 --> 00:43:24,978
+- Your father...
+- It's perfect don't you see?
+
+562
+00:43:24,979 --> 00:43:26,717
+Daddy will have to come
+around eventually
+
+563
+00:43:26,718 --> 00:43:28,956
+and West don't
+anything to hold over us.
+
+564
+00:43:28,957 --> 00:43:30,080
+And we'll be together.
+
+565
+00:43:30,081 --> 00:43:32,846
+- Okay, I just have to talk to West...
+- No, Dan, don't.
+
+566
+00:43:33,947 --> 00:43:35,714
+I'll get a job while this blows over.
+
+567
+00:43:35,715 --> 00:43:38,143
+You keep your job driving...
+Daddy will see that we're serious.
+
+568
+00:43:38,344 --> 00:43:42,203
+Yes, daddy will see that we're serious.
+
+569
+00:43:42,204 --> 00:43:42,904
+West!
+
+570
+00:43:42,905 --> 00:43:45,094
+You still don't believe what you
+saw this morning, do you Ms Halsey?
+
+571
+00:43:45,095 --> 00:43:46,216
+Dan, come with me.
+
+572
+00:43:46,217 --> 00:43:47,585
+West, we've been thrown out of school.
+
+573
+00:43:47,586 --> 00:43:48,950
+He's threatening to call the police.
+
+574
+00:43:49,151 --> 00:43:50,405
+Oh yes.
+
+575
+00:43:51,706 --> 00:43:55,129
+Curious.
+He didn't seem such a fool.
+
+576
+00:43:56,330 --> 00:43:58,605
+He must have been talking to Hill.
+
+577
+00:43:59,606 --> 00:44:03,376
+You're right. He's different.
+He's angry from ***
+
+578
+00:44:03,377 --> 00:44:04,258
+What's wrong with you?
+
+579
+00:44:04,259 --> 00:44:07,029
+He doesn't care about anything
+except his own crazy ideas.
+
+580
+00:44:07,130 --> 00:44:08,167
+Can't you see that?
+
+581
+00:44:08,168 --> 00:44:11,040
+Meg, he's right.
+Your father's wrong.
+
+582
+00:44:13,701 --> 00:44:15,822
+Okay. Okay what do we do now?
+
+583
+00:44:15,823 --> 00:44:18,045
+- We prove it to him.
+- Danny! Listen to me.
+
+584
+00:44:18,046 --> 00:44:19,261
+It's the only way Danny.
+
+585
+00:44:19,262 --> 00:44:21,377
+I'll tell daddy that you planned
+for all of the experiments.
+
+586
+00:44:21,678 --> 00:44:24,395
+- I'll tell him.
+- Please do. Tell Dr Hill too.
+
+587
+00:44:24,396 --> 00:44:26,474
+Sam! Please.
+Please come with me.
+
+588
+00:44:26,475 --> 00:44:28,386
+He is a maniac.
+He may even be a murderer.
+
+589
+00:44:28,387 --> 00:44:29,587
+- Meg.
+- You're in danger.
+
+590
+00:44:29,588 --> 00:44:31,980
+Meg, we can save millions of lives.
+
+591
+00:44:31,981 --> 00:44:34,830
+Oh yes. We could
+save everyone's life.
+
+592
+00:44:38,479 --> 00:44:40,043
+Okay, we need a lab animal.
+
+593
+00:44:41,187 --> 00:44:42,675
+I'm gonna tell daddy.
+
+594
+00:44:42,676 --> 00:44:46,420
+He'll stop you. For your
+own good Dan. He'll stop you.
+
+595
+00:44:46,921 --> 00:44:50,948
+You know, he'll never
+accept an animal subject.
+
+596
+00:44:50,949 --> 00:44:54,221
+He'll claim it some sort of
+artificial stimulus response.
+
+597
+00:44:55,479 --> 00:44:58,014
+There's only one kind
+of proof that he'll accept.
+
+598
+00:44:58,015 --> 00:44:59,620
+That he'll have to accept.
+
+599
+00:44:59,621 --> 00:45:02,967
+- No, no, Herbert we can't do that.
+- Oh, yes.
+
+600
+00:45:03,568 --> 00:45:04,836
+We can.
+
+601
+00:45:18,472 --> 00:45:20,891
+- Oh, they keep on a comin', don't they?
+- Oh, yeah.
+
+602
+00:45:30,357 --> 00:45:33,194
+You ain't got my lunch
+under there, have you?
+
+603
+00:45:33,276 --> 00:45:35,528
+Yeah, one meatball
+run over by a semi.
+
+604
+00:45:35,611 --> 00:45:36,988
+Ew!
+
+605
+00:45:37,072 --> 00:45:39,366
+I lost my appetite. You gonna
+be around for a while?
+
+606
+00:45:39,491 --> 00:45:41,993
+I might go catch me
+some coffee.
+
+607
+00:45:42,077 --> 00:45:43,578
+- Take your time.
+- You got it.
+
+608
+00:45:52,795 --> 00:45:54,547
+Meatball?
+
+609
+00:45:54,632 --> 00:45:56,508
+Just put your shoes on.
+
+610
+00:46:09,437 --> 00:46:10,854
+Oh, damn, if we get caught...
+
+611
+00:46:10,938 --> 00:46:12,856
+Oh, well, what will they do?
+
+612
+00:46:12,940 --> 00:46:14,691
+Embalm us?
+
+613
+00:46:14,776 --> 00:46:17,278
+Let's go.
+
+614
+00:46:35,461 --> 00:46:38,090
+Burn victim.
+
+615
+00:46:42,677 --> 00:46:44,678
+- Here's your meatball.
+- Oh.
+
+616
+00:46:49,432 --> 00:46:51,561
+Shotgun wound to the head.
+
+617
+00:46:53,729 --> 00:46:55,731
+Oh, god, he's rotten.
+
+618
+00:46:58,401 --> 00:47:00,569
+- Malpractice.
+- Shit.
+
+619
+00:47:01,779 --> 00:47:03,572
+Let's go, we're not going
+to find anything.
+
+620
+00:47:03,654 --> 00:47:05,365
+Wait. Wait!
+
+621
+00:47:10,204 --> 00:47:13,038
+Yes, I think you.
+
+622
+00:47:13,122 --> 00:47:14,874
+How long?
+
+623
+00:47:14,958 --> 00:47:17,294
+He arrived early this evening.
+
+624
+00:47:17,377 --> 00:47:19,714
+John Doe, apparently just dropped dead.
+
+625
+00:47:19,796 --> 00:47:22,591
+No record of any damage.
+It's almost perfect.
+
+626
+00:47:23,842 --> 00:47:25,301
+Why "almost"?
+
+627
+00:47:25,384 --> 00:47:27,387
+Could be heart damage.
+
+628
+00:47:27,471 --> 00:47:28,472
+Then let's just find another one.
+
+629
+00:47:28,598 --> 00:47:30,599
+No! We do not have time!
+
+630
+00:47:30,682 --> 00:47:32,516
+All we need tonight
+
+631
+00:47:32,600 --> 00:47:35,020
+is a specific, conscious reaction.
+
+632
+00:47:35,102 --> 00:47:36,686
+He's been dead for hours.
+
+633
+00:47:36,769 --> 00:47:40,066
+Any evidence of re-animated
+consciousness will justify proceeding.
+
+634
+00:47:42,693 --> 00:47:44,695
+Start the recorder.
+
+635
+00:47:45,779 --> 00:47:47,781
+Start the damn recorder!
+
+636
+00:47:51,035 --> 00:47:53,037
+Make the entry.
+
+637
+00:47:54,871 --> 00:47:56,789
+October...
+
+638
+00:47:56,873 --> 00:47:57,791
+Tenth.
+
+639
+00:47:57,875 --> 00:47:58,918
+Tenth.
+
+640
+00:47:59,003 --> 00:48:01,462
+- Subject: Male.
+- Age?
+
+641
+00:48:02,545 --> 00:48:05,715
+Age, early twenties.
+
+642
+00:48:05,798 --> 00:48:08,803
+- Physical condition?
+- No deformities.
+
+643
+00:48:08,886 --> 00:48:12,513
+Appears to have been in
+excellent physical condition.
+
+644
+00:48:14,848 --> 00:48:17,644
+Apparent cause of death...
+
+645
+00:48:20,356 --> 00:48:22,357
+what?
+
+646
+00:48:22,440 --> 00:48:24,484
+Heart failure.
+
+647
+00:48:24,567 --> 00:48:27,028
+Heart failure.
+
+648
+00:48:29,237 --> 00:48:32,450
+Time, 10:33 PM.
+
+649
+00:48:32,533 --> 00:48:35,371
+10:33 PM.
+
+650
+00:48:37,996 --> 00:48:39,998
+15 cc's.
+
+651
+00:48:42,043 --> 00:48:44,503
+15 cc's of reagent being administered.
+
+652
+00:48:53,010 --> 00:48:54,805
+He loves me,
+we're getting married.
+
+653
+00:48:54,889 --> 00:48:57,765
+He's mad! I've seen this happen
+to medical students before.
+
+654
+00:48:57,849 --> 00:48:59,267
+Good ones!
+
+655
+00:48:59,351 --> 00:49:02,604
+Dr. Harrod, is Mr. Cain loose
+in this hospital?
+
+656
+00:49:02,687 --> 00:49:04,605
+In the morgue, I think, doctor.
+
+657
+00:49:04,689 --> 00:49:07,608
+I specifically told
+Dr. Riley to suspend him,
+
+658
+00:49:07,692 --> 00:49:10,611
+and to take him off the floor
+if he reported to work!
+
+659
+00:49:10,695 --> 00:49:14,116
+Dr. Riley's been
+in emergency surgery for four hours.
+
+660
+00:49:14,199 --> 00:49:17,492
+I haven't seen him.
+
+661
+00:49:17,576 --> 00:49:18,868
+Time elapsed.
+
+662
+00:49:22,707 --> 00:49:24,584
+15 seconds.
+
+663
+00:49:26,876 --> 00:49:29,629
+Something should
+have happened by now.
+
+664
+00:49:40,724 --> 00:49:43,810
+It's not working.
+
+665
+00:49:43,893 --> 00:49:44,894
+Let's get out of here!
+
+666
+00:49:44,978 --> 00:49:48,148
+Obviously, the human dosage
+factor is unknown.
+
+667
+00:49:48,231 --> 00:49:50,858
+Increasing the dosage,
+20 cc's of reagent.
+
+668
+00:49:50,941 --> 00:49:52,777
+- Herbert, let's go!
+- No!
+
+669
+00:50:18,678 --> 00:50:19,929
+Damn!
+
+670
+00:50:20,012 --> 00:50:23,014
+Page Mr. Cain and have him report
+to Level L security desk,
+
+671
+00:50:23,097 --> 00:50:26,226
+and make sure
+that she stays right here.
+
+672
+00:50:26,310 --> 00:50:28,771
+You can't stop me! I followed you here,
+and I'm gonna follow you
+
+673
+00:50:28,812 --> 00:50:29,938
+- until you listen to me!
+- Megan!
+
+674
+00:50:30,022 --> 00:50:31,024
+- I love him!
+- You're my daughter,
+
+675
+00:50:31,106 --> 00:50:32,940
+and you'll do as you're told!
+
+676
+00:50:33,024 --> 00:50:34,942
+Sit down, Miss Halsey.
+
+677
+00:50:35,026 --> 00:50:37,488
+Mr. Cain will be up soon,
+you can discuss it then.
+
+678
+00:50:37,570 --> 00:50:39,406
+Don't blame him, Daddy!
+
+679
+00:50:39,490 --> 00:50:42,493
+We failed.
+
+680
+00:50:42,575 --> 00:50:43,784
+Come on, let's go!
+
+681
+00:50:43,825 --> 00:50:45,369
+I mean, someone
+could be coming any minute!
+
+682
+00:50:45,452 --> 00:50:48,874
+He failed! Not I!
+
+683
+00:50:48,959 --> 00:50:51,166
+<i>Mr. Cain, Mr. Daniel Cain,</i>
+
+684
+00:50:51,249 --> 00:50:54,336
+<i>please report
+to the security desk, Level L</i>
+
+685
+00:50:55,337 --> 00:50:56,630
+Oh, god.
+
+686
+00:50:56,713 --> 00:50:58,382
+Cover him up.
+
+687
+00:50:59,509 --> 00:51:01,927
+- Let's go!
+- All right!
+
+688
+00:51:20,653 --> 00:51:23,073
+Grab him!
+
+689
+00:51:26,618 --> 00:51:28,286
+Stop!
+
+690
+00:51:32,206 --> 00:51:33,583
+It listened to me.
+
+691
+00:51:42,466 --> 00:51:44,051
+Cain?
+
+692
+00:51:46,095 --> 00:51:47,888
+Cain?
+
+693
+00:51:50,138 --> 00:51:52,058
+Cain, open up this door.
+
+694
+00:51:53,060 --> 00:51:56,146
+Help!
+
+695
+00:51:56,230 --> 00:51:57,563
+Get help!
+
+696
+00:51:57,646 --> 00:52:00,483
+Is West in there with you?
+
+697
+00:52:00,567 --> 00:52:01,735
+You're in a lot of trouble,
+both of you!
+
+698
+00:52:25,174 --> 00:52:26,967
+No!
+
+699
+00:52:34,142 --> 00:52:36,142
+Let go!
+
+700
+00:52:49,156 --> 00:52:50,907
+Stop!
+
+701
+00:52:50,991 --> 00:52:52,160
+For god's sakes!
+
+702
+00:52:53,160 --> 00:52:56,246
+Dan... look out.
+
+703
+00:53:26,191 --> 00:53:29,111
+Come on.
+
+704
+00:53:29,195 --> 00:53:31,197
+Find the recorder.
+
+705
+00:53:32,780 --> 00:53:35,743
+- Herbert... no.
+- Did you see him react?
+
+706
+00:53:35,826 --> 00:53:38,412
+He listened to me.
+It made a conscious act.
+
+707
+00:53:38,496 --> 00:53:41,413
+He heard you as an animal would.
+
+708
+00:53:42,414 --> 00:53:44,499
+Herbert, no, you can't be serious!
+
+709
+00:53:44,583 --> 00:53:46,043
+Hell, you may be right.
+
+710
+00:53:46,126 --> 00:53:47,253
+It'd probably been dead too long.
+
+711
+00:53:47,337 --> 00:53:49,967
+It wasn't fresh enough!
+
+712
+00:53:50,007 --> 00:53:52,967
+We probably only revived the senses
+and the instincts, so, come on!
+
+713
+00:53:53,008 --> 00:53:55,135
+Help me get him up.
+
+714
+00:53:55,219 --> 00:53:56,303
+Is he dead?
+
+715
+00:53:56,386 --> 00:53:58,722
+Of course, will you
+give me a hand here?
+
+716
+00:53:58,807 --> 00:54:01,266
+Now, he interrupted an important
+experiment in progress.
+
+717
+00:54:01,351 --> 00:54:02,685
+Granted, it was an accident.
+
+718
+00:54:02,769 --> 00:54:05,145
+But this is the freshest body
+that we could come across
+
+719
+00:54:05,229 --> 00:54:06,396
+save of killing one ourselves,
+
+720
+00:54:06,480 --> 00:54:08,817
+and every moment that we spend
+talking about it costs us results!
+
+721
+00:54:08,900 --> 00:54:10,899
+Now will you give me a hand?
+
+722
+00:54:12,861 --> 00:54:16,574
+Dan, we can bring him back to life.
+
+723
+00:54:30,211 --> 00:54:31,796
+Okay.
+
+724
+00:54:39,637 --> 00:54:41,764
+Now, get the recorder.
+
+725
+00:54:43,224 --> 00:54:44,725
+Find my serum.
+
+726
+00:54:48,436 --> 00:54:50,314
+This is a dream.
+
+727
+00:54:50,397 --> 00:54:52,483
+Fiction.
+
+728
+00:54:53,484 --> 00:54:55,278
+Here. Do his other hand.
+
+729
+00:54:57,402 --> 00:54:59,948
+Oh, good.
+
+730
+00:55:00,032 --> 00:55:05,829
+Unbreakable plastic, one of
+man's few durable inventions.
+
+731
+00:55:07,912 --> 00:55:09,915
+Certainly more durable than this.
+
+732
+00:55:11,042 --> 00:55:14,839
+We need you in the crash room.
+
+733
+00:55:14,922 --> 00:55:16,797
+Coming.
+
+734
+00:55:45,616 --> 00:55:47,659
+12 cc's being administered.
+
+735
+00:55:47,744 --> 00:55:52,333
+The dosage lessened in accordance
+to the freshness of the subject.
+
+736
+00:56:06,346 --> 00:56:11,809
+5 seconds.
+
+737
+00:56:11,891 --> 00:56:14,145
+Come on.
+
+738
+00:56:14,228 --> 00:56:17,940
+I'll show you.
+
+739
+00:56:18,023 --> 00:56:22,110
+15 seconds. I'll show you!
+
+740
+00:56:22,150 --> 00:56:23,654
+17 seconds.
+
+741
+00:56:23,737 --> 00:56:26,156
+Re-animation at 17 seconds!
+The eyes opened!
+
+742
+00:56:26,240 --> 00:56:28,451
+Doctor. Dr. Halsey,
+
+743
+00:56:28,534 --> 00:56:32,119
+you once did me a favor by
+letting me into your medical school.
+
+744
+00:56:32,159 --> 00:56:33,286
+Doctor?
+
+745
+00:56:33,371 --> 00:56:35,124
+Welcome back to life.
+
+746
+00:56:58,437 --> 00:57:00,313
+Daddy?
+
+747
+00:57:00,396 --> 00:57:02,023
+Dan?
+
+748
+00:57:02,149 --> 00:57:03,568
+Damn the bitch.
+
+749
+00:57:03,652 --> 00:57:07,322
+Megan... Meg?
+
+750
+00:57:09,196 --> 00:57:13,870
+Dan, what is it,
+are you all right?
+
+751
+00:57:17,790 --> 00:57:22,418
+Dan, he's trying to speak,
+the recorder!
+
+752
+00:57:25,088 --> 00:57:26,548
+No!
+
+753
+00:57:26,631 --> 00:57:28,424
+Daddy!
+
+754
+00:57:28,507 --> 00:57:29,593
+Daddy, no!
+
+755
+00:57:29,677 --> 00:57:31,385
+No! No, Meg, don't go near him!
+
+756
+00:57:31,468 --> 00:57:32,386
+What the hell happened here?
+
+757
+00:57:32,470 --> 00:57:34,347
+Dan, you all right?
+
+758
+00:57:34,430 --> 00:57:36,222
+Who's that?
+
+759
+00:57:38,184 --> 00:57:42,063
+That is Dean Halsey, sir.
+
+760
+00:57:42,189 --> 00:57:45,191
+You see I came down here
+to visit Mr. Cain,
+
+761
+00:57:45,232 --> 00:57:48,193
+who was here working
+and Halsey entered
+
+762
+00:57:48,276 --> 00:57:51,197
+and started ranting at us,
+rather irrationally.
+
+763
+00:57:51,279 --> 00:57:52,698
+No!
+
+764
+00:57:52,781 --> 00:57:55,242
+He was just angry!
+
+765
+00:57:55,325 --> 00:57:56,286
+Daddy!
+
+766
+00:57:56,368 --> 00:57:57,327
+Meg. What happened?
+
+767
+00:57:57,410 --> 00:57:58,493
+Who's that over there?
+
+768
+00:57:58,577 --> 00:58:00,372
+Just a corpse.
+
+769
+00:58:00,455 --> 00:58:03,878
+You see, Halsey came in,
+grabbed that thing,
+
+770
+00:58:03,960 --> 00:58:07,253
+and, well, went crazy.
+
+771
+00:58:07,338 --> 00:58:08,456
+Dean Halsey?
+
+772
+00:58:08,480 --> 00:58:09,198
+Dean Halsey!
+
+773
+00:58:09,281 --> 00:58:10,498
+Arrest them!
+
+774
+00:58:10,583 --> 00:58:12,375
+I'm calling the police!
+
+775
+00:58:12,459 --> 00:58:14,169
+Oh, Daddy!
+
+776
+00:58:26,280 --> 00:58:30,871
+Shock... don't worry.
+
+777
+00:58:40,165 --> 00:58:42,560
+Eat that.
+We have work to do.
+
+778
+00:58:42,957 --> 00:58:46,123
+First of all, there are a few
+decisions that we have to make.
+
+779
+00:58:46,524 --> 00:58:50,269
+Well, fortunately the police accepted
+the explanation that Halsey went mad.
+
+780
+00:58:50,270 --> 00:58:52,181
+Well, what else
+could they believe in?
+
+781
+00:58:52,182 --> 00:58:55,340
+The truth?
+That he died and came back?
+
+782
+00:58:55,341 --> 00:58:56,533
+We did it Dan!
+
+783
+00:58:56,534 --> 00:58:58,384
+Did you see how he
+reacted to his daughter?
+
+784
+00:58:58,385 --> 00:59:00,214
+He recognised her.
+He knew who she was.
+
+785
+00:59:00,215 --> 00:59:03,539
+And he knew what has happened
+to him. He had conscious thought.
+
+786
+00:59:07,743 --> 00:59:08,679
+So.
+
+787
+00:59:09,180 --> 00:59:12,093
+So we can stay here
+in school... if we want.
+
+788
+00:59:12,094 --> 00:59:15,838
+It is up to us Dan, what
+our next move is going to be...
+
+789
+00:59:17,653 --> 00:59:19,896
+Will we show up or not...?
+
+790
+01:00:03,209 --> 01:00:04,430
+Damn!
+
+791
+01:00:05,531 --> 01:00:07,491
+It was the hypo...
+
+792
+01:00:07,892 --> 01:00:09,392
+God, hurt by your action...
+
+793
+01:00:09,393 --> 01:00:11,537
+No, no it's just a weak solution.
+
+794
+01:00:11,638 --> 01:00:15,729
+So I don't have to sleep
+just to keep the brain... sharp.
+
+795
+01:00:16,271 --> 01:00:19,021
+- No.
+- Yes. Yeah, I need it.
+
+796
+01:00:19,022 --> 01:00:20,116
+Please.
+
+797
+01:00:26,101 --> 01:00:28,518
+- How much?
+- Eight cc's.
+
+798
+01:00:49,298 --> 01:00:52,302
+- Oh, give it to me.
+- Here.
+
+799
+01:01:08,807 --> 01:01:14,022
+Now... we must make our plans.
+
+800
+01:01:33,027 --> 01:01:36,489
+Daddy.
+
+801
+01:01:36,573 --> 01:01:39,033
+He can't hear you, or see you.
+
+802
+01:01:39,117 --> 01:01:43,745
+That's a one-way mirror.
+
+803
+01:01:43,829 --> 01:01:47,835
+What is wrong with him, Doctor?
+
+804
+01:01:47,918 --> 01:01:49,202
+Will he ever be...
+
+805
+01:01:49,285 --> 01:01:51,756
+Until we know exactly what
+happened to him,
+
+806
+01:01:51,839 --> 01:01:57,597
+there's no way to determine
+his course of recovery.
+
+807
+01:01:57,638 --> 01:02:00,389
+That's why I need you
+to sign a release,
+
+808
+01:02:00,471 --> 01:02:04,601
+so that I can perform
+exploratory surgery on him.
+
+809
+01:02:04,643 --> 01:02:07,606
+Is that absolutely necessary,
+Dr. Hill?
+
+810
+01:02:07,647 --> 01:02:12,318
+I know how difficult
+this must be for you,
+
+811
+01:02:12,401 --> 01:02:17,617
+but I'm convinced that your father's
+problem is neurological.
+
+812
+01:02:17,657 --> 01:02:20,868
+Of course, we'll take
+every precaution.
+
+813
+01:02:24,416 --> 01:02:27,791
+You must trust me.
+
+814
+01:02:39,137 --> 01:02:42,849
+I want to take a look at the
+right frontal lobe.
+
+815
+01:02:42,931 --> 01:02:44,811
+I'll open the skull here...
+
+816
+01:02:44,895 --> 01:02:47,813
+I don't want to know.
+
+817
+01:02:47,898 --> 01:02:51,149
+Just help him.
+
+818
+01:03:12,047 --> 01:03:14,841
+Please, doctor.
+
+819
+01:03:14,926 --> 01:03:17,928
+Please let me talk to him.
+
+820
+01:03:18,012 --> 01:03:20,597
+No.
+
+821
+01:03:20,681 --> 01:03:24,893
+I must insist you leave his
+treatment up to me.
+
+822
+01:03:27,670 --> 01:03:32,222
+And I insist you call me Carl.
+
+823
+01:03:37,659 --> 01:03:42,804
+I want you to think of me as someone
+you can come to with your problems.
+
+824
+01:03:45,996 --> 01:03:49,316
+Or if you're ever lonely.
+
+825
+01:03:52,924 --> 01:03:56,780
+I know you're all by yourself now.
+
+826
+01:04:05,572 --> 01:04:07,938
+I'm going to take care
+of him, doctor,
+
+827
+01:04:08,020 --> 01:04:11,464
+and I'm going to find out
+what happened to him.
+
+828
+01:04:40,950 --> 01:04:43,879
+First and second lumbar
+vertebrae are crushed.
+
+829
+01:04:45,795 --> 01:04:48,031
+Dorsal ganglia is torn.
+
+830
+01:04:49,705 --> 01:04:53,541
+Inferior cervical ganglia is torn
+
+831
+01:04:55,874 --> 01:04:58,566
+The neck is broken.
+
+832
+01:05:04,324 --> 01:05:08,872
+Dean Halsey is clearly dead.
+
+833
+01:05:17,270 --> 01:05:22,440
+Patient's brain wave is erratic...
+disconnected.
+
+834
+01:05:24,855 --> 01:05:27,903
+I've never seen anything like it.
+
+835
+01:05:34,326 --> 01:05:37,790
+The patient though apparently dead...
+
+836
+01:05:39,260 --> 01:05:41,767
+must be made docile...
+
+837
+01:05:42,068 --> 01:05:45,283
+so that he can be
+studied more closely.
+
+838
+01:06:02,175 --> 01:06:04,552
+What are you doing here?
+
+839
+01:06:04,636 --> 01:06:07,138
+I've been waiting for you.
+
+840
+01:06:07,221 --> 01:06:11,309
+I have to tell you.
+
+841
+01:06:11,393 --> 01:06:15,733
+What did you do to him?
+
+842
+01:06:15,815 --> 01:06:20,360
+What did you and West do
+to him to make him like that?
+
+843
+01:06:20,443 --> 01:06:24,825
+It was... it was horrible.
+
+844
+01:06:24,864 --> 01:06:28,410
+I didn't...
+
+845
+01:06:28,494 --> 01:06:30,872
+What did you do to him?
+
+846
+01:06:37,961 --> 01:06:39,507
+He's not insane.
+
+847
+01:06:44,009 --> 01:06:47,012
+He's dead.
+
+848
+01:06:47,095 --> 01:06:51,392
+No. No.
+
+849
+01:06:51,476 --> 01:06:54,779
+You're insane,
+you are insane, no!
+
+850
+01:06:54,863 --> 01:06:57,022
+You know it's true, Meg.
+
+851
+01:06:57,106 --> 01:06:58,651
+You know it's true.
+
+852
+01:06:58,734 --> 01:07:01,862
+No.
+
+853
+01:07:05,281 --> 01:07:10,871
+Daddy. Daddy.
+
+854
+01:07:14,416 --> 01:07:17,880
+I'll tell you, Meg, everything.
+
+855
+01:07:30,183 --> 01:07:32,644
+Good evening, Mr. West.
+
+856
+01:07:37,397 --> 01:07:39,651
+What do you want?
+
+857
+01:07:39,735 --> 01:07:42,737
+I want to know why Halsey's
+heart fibrillated.
+
+858
+01:07:42,820 --> 01:07:44,155
+I don't have to talk to you.
+
+859
+01:07:44,238 --> 01:07:45,807
+Why his pulse is erratic.
+
+860
+01:07:45,890 --> 01:07:47,874
+I've told everything I know
+to the police.
+
+861
+01:07:47,958 --> 01:07:50,112
+Why he cries out in pain.
+
+862
+01:07:50,194 --> 01:07:51,814
+You can leave now, doctor.
+
+863
+01:07:51,856 --> 01:07:56,709
+When we both know
+he is quite dead.
+
+864
+01:08:03,174 --> 01:08:06,926
+Interesting little laboratory
+you have here.
+
+865
+01:08:06,968 --> 01:08:12,310
+Mr. West, I recognize this?
+
+866
+01:08:14,561 --> 01:08:16,480
+What do you want?
+
+867
+01:08:16,562 --> 01:08:20,691
+Yes, we are both scientists.
+
+868
+01:08:20,775 --> 01:08:23,738
+Let us get to the point.
+
+869
+01:08:27,199 --> 01:08:30,953
+I want your discovery.
+
+870
+01:08:31,036 --> 01:08:34,631
+Whatever it is that gives the
+dead the appearance of life.
+
+871
+01:08:34,656 --> 01:08:37,025
+Oh, it is not the appearance
+of life, it is life.
+
+872
+01:08:37,109 --> 01:08:41,365
+This is not magic, as you say,
+I am a scientist.
+
+873
+01:08:41,447 --> 01:08:45,051
+I'll have you locked up
+for a madman...
+
+874
+01:08:45,133 --> 01:08:47,219
+or a murderer.
+
+875
+01:08:50,900 --> 01:08:52,510
+You will do...
+
+876
+01:08:53,039 --> 01:08:55,110
+what I tell you to do.
+
+877
+01:08:56,889 --> 01:08:59,059
+Yes, doc.
+
+878
+01:08:59,833 --> 01:09:02,388
+I want to see your notes.
+
+879
+01:09:29,029 --> 01:09:32,332
+Ingenious, Mr. West.
+
+880
+01:09:32,415 --> 01:09:37,680
+Your extension of that old fool
+Gruber's work is really quite...
+
+881
+01:09:37,763 --> 01:09:38,808
+brilliant.
+
+882
+01:09:43,239 --> 01:09:47,059
+You... will be my assistant.
+
+883
+01:09:47,840 --> 01:09:51,693
+We will work very closely together.
+
+884
+01:09:55,703 --> 01:09:57,939
+And in a year or so...
+
+885
+01:09:59,715 --> 01:10:02,983
+I will reveal to an astonished world...
+
+886
+01:10:02,984 --> 01:10:06,219
+my new serum.
+
+887
+01:10:06,820 --> 01:10:09,840
+They will retire the
+Nobel Prize in my name.
+
+888
+01:10:09,941 --> 01:10:13,922
+And you... as my assistant,
+will be famous.
+
+889
+01:10:16,770 --> 01:10:19,337
+That leaves only Cain.
+
+890
+01:10:20,636 --> 01:10:23,483
+He will disappear.
+
+891
+01:10:26,827 --> 01:10:30,651
+Oh, yes.
+
+892
+01:10:33,545 --> 01:10:37,090
+I think West believes
+we'll really get away with it.
+
+893
+01:10:37,091 --> 01:10:40,329
+Oh, cause I don't.
+I don't know.
+
+894
+01:10:41,903 --> 01:10:45,943
+I think he's only
+excited by the experiment.
+
+895
+01:10:49,159 --> 01:10:51,247
+We tried to save it.
+
+896
+01:10:52,839 --> 01:10:54,769
+West killed it.
+
+897
+01:10:57,275 --> 01:10:58,289
+***
+
+898
+01:10:59,598 --> 01:11:01,104
+The corpse.
+
+899
+01:11:02,646 --> 01:11:04,942
+West killed the corpse.
+
+900
+01:11:04,943 --> 01:11:06,622
+How silly that sounds.
+
+901
+01:11:06,823 --> 01:11:09,669
+I'll go to the police, Meg.
+I've got to have proof.
+
+902
+01:11:09,670 --> 01:11:12,843
+I'll turn myself in, but I
+got to see your father first.
+
+903
+01:11:15,547 --> 01:11:17,208
+He's dead.
+
+904
+01:11:21,618 --> 01:11:23,726
+I have to prove it.
+
+905
+01:11:43,877 --> 01:11:45,771
+Has Dr. Hill examined
+your father?
+
+906
+01:11:45,855 --> 01:11:47,148
+Yes.
+
+907
+01:11:47,231 --> 01:11:50,860
+He wanted to do exploratory
+surgery on him.
+
+908
+01:11:50,985 --> 01:11:53,196
+Oh, shit.
+
+909
+01:11:53,279 --> 01:11:56,408
+Then he'll find out.
+
+910
+01:11:56,491 --> 01:11:59,660
+Eventually he'll find out.
+
+911
+01:11:59,743 --> 01:12:02,705
+Let us see...
+
+912
+01:12:02,791 --> 01:12:05,869
+my new serum at work?
+
+913
+01:12:08,928 --> 01:12:10,845
+Dead cat tissue.
+
+914
+01:12:15,812 --> 01:12:19,857
+Reagent.
+
+915
+01:12:42,885 --> 01:12:45,098
+Magnificent.
+
+916
+01:13:02,877 --> 01:13:06,498
+Yes, Mr. West.
+
+917
+01:13:06,584 --> 01:13:11,043
+I will be famous.
+
+918
+01:13:22,015 --> 01:13:24,518
+Laid to rest.
+
+919
+01:14:10,365 --> 01:14:13,200
+Yes.
+
+920
+01:14:16,871 --> 01:14:19,711
+Parts.
+
+921
+01:14:19,795 --> 01:14:24,965
+I've never done whole parts.
+
+922
+01:15:14,525 --> 01:15:19,280
+Wesssssst
+
+923
+01:15:22,448 --> 01:15:24,538
+Yes, doctor.
+
+924
+01:15:24,620 --> 01:15:27,205
+It's Herbert West.
+
+925
+01:15:27,287 --> 01:15:28,456
+What are you thinking?
+
+926
+01:15:28,539 --> 01:15:32,462
+How do you feel?
+
+927
+01:15:32,546 --> 01:15:36,051
+Yooooooou.
+
+928
+01:15:36,090 --> 01:15:37,217
+" You."
+
+929
+01:15:37,301 --> 01:15:43,056
+Baaassstaaard
+
+930
+01:17:19,840 --> 01:17:20,922
+Dan!
+
+931
+01:17:21,006 --> 01:17:24,217
+Oh my god, what has Hill
+done to him?
+
+932
+01:17:29,432 --> 01:17:33,730
+Looks like a laser drill.
+
+933
+01:17:33,812 --> 01:17:35,442
+Your father's been lobotomized.
+
+934
+01:18:20,993 --> 01:18:24,248
+That's it.
+
+935
+01:18:24,332 --> 01:18:27,500
+My work! My work!
+
+936
+01:18:27,584 --> 01:18:28,543
+What's going on?
+
+937
+01:18:28,628 --> 01:18:31,381
+My work is gone.
+
+938
+01:18:31,465 --> 01:18:33,224
+It's all gone.
+
+939
+01:18:33,310 --> 01:18:35,012
+He took my serum!
+
+940
+01:18:35,095 --> 01:18:36,429
+Except for what
+I have upstairs.
+
+941
+01:18:36,512 --> 01:18:37,931
+Who?
+
+942
+01:18:38,014 --> 01:18:39,349
+What happened here?
+
+943
+01:18:39,432 --> 01:18:40,808
+Hill.
+
+944
+01:18:40,892 --> 01:18:43,853
+Hill took my serum!
+My notes! Everything.
+
+945
+01:18:43,938 --> 01:18:44,939
+Herbert, you're insane!
+
+946
+01:18:45,021 --> 01:18:47,191
+- Now, what happened here?
+- I had to kill him.
+
+947
+01:18:47,276 --> 01:18:49,444
+What?
+
+948
+01:18:49,529 --> 01:18:53,282
+He's dead?
+
+949
+01:18:53,367 --> 01:18:57,578
+- Not any more.
+- No, Herbert.
+
+950
+01:18:57,662 --> 01:18:58,829
+This has gotta stop!
+
+951
+01:18:58,913 --> 01:19:00,457
+Look, he tried
+to blackmail me, Dan.
+
+952
+01:19:00,542 --> 01:19:01,461
+Enough is enough!
+
+953
+01:19:01,542 --> 01:19:03,169
+And he wanted you to disappear!
+
+954
+01:19:13,557 --> 01:19:17,311
+Oh. Oh.
+
+955
+01:19:17,392 --> 01:19:19,022
+Oh, that's why he did
+it to Halsey.
+
+956
+01:19:19,106 --> 01:19:20,356
+What? You've seen Halsey?
+
+957
+01:19:20,441 --> 01:19:23,608
+He lobotomized him, so he could
+control him in case
+
+958
+01:19:23,692 --> 01:19:25,946
+he ever tried to talk or tell
+somebody what happened.
+
+959
+01:19:26,031 --> 01:19:28,326
+<i>So he could protect his discovery.</i>
+
+960
+01:19:28,368 --> 01:19:30,076
+- Yes.
+- Very clever.
+
+961
+01:19:30,159 --> 01:19:31,703
+I gotta tell Meg.
+
+962
+01:19:31,786 --> 01:19:33,660
+What does Meg
+have to do with this?
+
+963
+01:19:33,745 --> 01:19:35,081
+Hill's got this weird file on her,
+
+964
+01:19:35,166 --> 01:19:37,668
+it's full of napkins and hair
+and photographs.
+
+965
+01:19:37,753 --> 01:19:41,171
+I think he's projected some sort
+of psychotic need onto her.
+
+966
+01:19:46,834 --> 01:19:48,745
+I think you're sick as he is.
+
+967
+01:19:48,746 --> 01:19:50,490
+Oh, I don't think so.
+
+968
+01:19:50,891 --> 01:19:52,202
+So, what do we do now?
+
+969
+01:19:52,203 --> 01:19:56,016
+Well, we're the only
+ones to know the truth.
+
+970
+01:19:56,065 --> 01:20:00,914
+Yes?
+So, he'll have to come to us.
+
+971
+01:20:02,161 --> 01:20:04,216
+You mean, after us.
+
+972
+01:21:35,776 --> 01:21:39,099
+Ah, yes...
+
+973
+01:21:56,656 --> 01:21:58,118
+Are you sure you're coming?
+
+974
+01:21:58,119 --> 01:21:59,319
+Y-y-yes.
+
+975
+01:22:00,085 --> 01:22:03,297
+Because if what you told me is true, we
+can hardly just walk down the street.
+
+976
+01:22:03,298 --> 01:22:06,816
+Perhaps not him but
+somebody, some thing will.
+
+977
+01:22:07,217 --> 01:22:10,325
+- Oh is it?
+- I told you I have a plan.
+
+978
+01:22:13,366 --> 01:22:16,830
+- So do I.
+- Oh, no damn. He spoke words.
+
+979
+01:22:17,031 --> 01:22:20,800
+Speech patterns. The muscle control.
+You did what do you feel?
+
+980
+01:22:20,843 --> 01:22:22,043
+Do it!
+
+981
+01:22:23,392 --> 01:22:26,386
+Alan...
+
+982
+01:22:36,744 --> 01:22:39,026
+I still don't understand
+why he'd come here.
+
+983
+01:22:39,027 --> 01:22:40,953
+Because he wants the credit.
+
+984
+01:22:41,154 --> 01:22:42,692
+Both of them.
+
+985
+01:22:42,693 --> 01:22:44,654
+No, don't you understand?
+
+986
+01:22:44,655 --> 01:22:49,283
+We stand between him
+and his obsessive desire.
+
+987
+01:22:51,647 --> 01:22:53,767
+You know, besides he hates it.
+
+988
+01:22:54,593 --> 01:22:55,778
+He's jealous.
+
+989
+01:22:57,444 --> 01:23:00,254
+- Meg!
+- Oh, come on.
+
+990
+01:23:00,255 --> 01:23:03,563
+Don't you see? It's not
+us he wants. It's her.
+
+991
+01:23:03,864 --> 01:23:05,443
+I got to go!
+
+992
+01:23:37,650 --> 01:23:39,556
+Is that you, Dr. Hill?
+
+993
+01:23:39,637 --> 01:23:40,899
+Yes, it's me.
+
+994
+01:23:53,333 --> 01:23:54,768
+Break time.
+
+995
+01:24:23,386 --> 01:24:27,546
+That's... better.
+
+996
+01:25:15,321 --> 01:25:18,270
+Meg? Meg!
+
+997
+01:25:18,271 --> 01:25:21,284
+Dan? Dan...
+
+998
+01:25:21,429 --> 01:25:24,932
+- I was so afraid.
+- What is it?
+
+999
+01:25:25,015 --> 01:25:27,018
+What's the matter?
+
+1000
+01:25:27,101 --> 01:25:31,271
+Well... I don't know.
+
+1001
+01:25:31,355 --> 01:25:33,398
+I was just worried about you.
+
+1002
+01:25:34,899 --> 01:25:37,154
+Why?
+
+1003
+01:25:37,236 --> 01:25:41,950
+I... I just feel horrible
+about everything.
+
+1004
+01:25:44,991 --> 01:25:47,162
+I guess I'm just getting paranoid.
+
+1005
+01:25:50,834 --> 01:25:53,250
+It's just...
+
+1006
+01:25:53,336 --> 01:25:54,920
+so hard to lose you.
+
+1007
+01:25:57,586 --> 01:26:00,007
+You should go away.
+
+1008
+01:26:02,385 --> 01:26:05,264
+Transfer to another school.
+
+1009
+01:26:05,348 --> 01:26:07,350
+Don't worry about me.
+
+1010
+01:26:10,099 --> 01:26:12,311
+You're the one
+that should get away.
+
+1011
+01:26:15,234 --> 01:26:16,276
+Go live your life.
+
+1012
+01:26:20,364 --> 01:26:23,113
+Find somebody.
+
+1013
+01:26:23,198 --> 01:26:25,242
+I tried to hate you.
+
+1014
+01:26:28,662 --> 01:26:31,498
+I wanted so much to hate you.
+
+1015
+01:26:36,836 --> 01:26:39,004
+I love you.
+
+1016
+01:26:41,218 --> 01:26:42,805
+No! Daddy!
+
+1017
+01:26:42,886 --> 01:26:47,222
+Dr. Halsey.
+
+1018
+01:26:47,306 --> 01:26:49,140
+No, Daddy!
+
+1019
+01:26:52,980 --> 01:26:55,357
+Oh, no, Daddy!
+
+1020
+01:26:55,440 --> 01:26:57,732
+Daddy! Daddy!
+
+1021
+01:27:11,832 --> 01:27:13,748
+The door.
+
+1022
+01:27:55,291 --> 01:27:57,917
+Oh... yes.
+
+1023
+01:28:44,591 --> 01:28:49,095
+Dan? Dan?
+
+1024
+01:28:49,177 --> 01:28:51,264
+Dan?
+
+1025
+01:28:51,347 --> 01:28:54,101
+Come on.
+
+1026
+01:28:56,559 --> 01:28:58,645
+Oh, well, you'll be all right.
+
+1027
+01:28:59,129 --> 01:29:00,905
+Meg!
+
+1028
+01:29:01,188 --> 01:29:02,399
+Oh my god.
+
+1029
+01:29:02,484 --> 01:29:03,904
+Where, Herbert?
+
+1030
+01:29:03,986 --> 01:29:06,778
+He's at the hospital I imagine.
+Can you stand up?
+
+1031
+01:29:06,862 --> 01:29:08,113
+Let's go.
+
+1032
+01:29:14,036 --> 01:29:16,037
+Oh... Meg.
+
+1033
+01:29:58,164 --> 01:30:00,874
+I've... always...
+
+1034
+01:30:01,875 --> 01:30:05,461
+admired your beauty, my dear.
+
+1035
+01:30:08,088 --> 01:30:12,217
+I think I've always loved you.
+
+1036
+01:30:20,269 --> 01:30:23,315
+You will love me.
+
+1037
+01:30:30,278 --> 01:30:32,113
+You will.
+
+1038
+01:30:34,659 --> 01:30:36,410
+Please!
+
+1039
+01:30:36,495 --> 01:30:38,496
+Please stop!
+
+1040
+01:30:38,578 --> 01:30:40,206
+Let me go!
+
+1041
+01:30:40,246 --> 01:30:43,708
+That's it, my dearest Meg...
+
+1042
+01:30:43,793 --> 01:30:46,462
+more passion!
+
+1043
+01:30:49,589 --> 01:30:54,219
+- Oh my god!
+- Yes, my love!
+
+1044
+01:30:55,470 --> 01:30:57,226
+I must say, Dr. Hill...
+
+1045
+01:30:57,308 --> 01:31:00,975
+I'm very disappointed in you.
+
+1046
+01:31:01,061 --> 01:31:03,761
+You steal the secret
+of life and death,
+
+1047
+01:31:03,846 --> 01:31:06,897
+and here you are trysting
+with the bubble-headed coed,
+
+1048
+01:31:06,983 --> 01:31:09,776
+you're not even
+a second-rate scientist.
+
+1049
+01:31:09,861 --> 01:31:13,111
+Mr. West.
+
+1050
+01:31:13,241 --> 01:31:16,366
+I'm actually glad to see you.
+
+1051
+01:31:17,868 --> 01:31:22,873
+It saves me the trouble
+of having to send for you.
+
+1052
+01:31:22,957 --> 01:31:25,252
+You'll never get credit
+for my discovery.
+
+1053
+01:31:25,335 --> 01:31:27,160
+Who's gonna believe
+a talking head?
+
+1054
+01:31:27,243 --> 01:31:28,836
+Get a job in a sideshow.
+
+1055
+01:31:28,920 --> 01:31:31,257
+I wonder why
+
+1056
+01:31:31,342 --> 01:31:35,718
+an intelligent young man like yourself
+
+1057
+01:31:37,472 --> 01:31:42,185
+should make such a foolish,
+fatal mistake,
+
+1058
+01:31:42,268 --> 01:31:46,147
+of coming here to challenge me.
+
+1059
+01:31:47,146 --> 01:31:50,318
+Oh... I have a plan.
+
+1060
+01:31:50,402 --> 01:31:54,573
+So do I.
+
+1061
+01:32:11,630 --> 01:32:13,549
+Let go of me!
+
+1062
+01:32:33,652 --> 01:32:34,821
+Enough!
+
+1063
+01:32:48,666 --> 01:32:52,669
+I will show you power, Mr. West!
+
+1064
+01:32:52,754 --> 01:32:54,884
+My discovery,
+
+1065
+01:32:54,966 --> 01:32:57,803
+a laser surgical drill.
+
+1066
+01:32:57,885 --> 01:33:01,971
+It makes possible a new
+technique in lobotomy,
+
+1067
+01:33:02,973 --> 01:33:07,019
+which results in total mastery
+
+1068
+01:33:07,101 --> 01:33:09,190
+of the human will.
+
+1069
+01:33:09,272 --> 01:33:12,273
+Re-animated subjects
+
+1070
+01:33:12,359 --> 01:33:15,486
+have proven to be the best.
+
+1071
+01:33:15,572 --> 01:33:19,364
+They will give me power!
+
+1072
+01:33:19,448 --> 01:33:22,702
+Undreamed of power.
+
+1073
+01:33:25,205 --> 01:33:27,082
+Stay behind me.
+
+1074
+01:33:31,628 --> 01:33:32,794
+Daddy, listen to me.
+
+1075
+01:33:32,877 --> 01:33:35,131
+It's Megan, Megan!
+
+1076
+01:33:35,213 --> 01:33:39,135
+- Hill, they'll kill her!
+- Then I'll give her life!
+
+1077
+01:33:41,135 --> 01:33:43,515
+Look at me!
+
+1078
+01:34:46,702 --> 01:34:47,787
+Meg, come on!
+
+1079
+01:34:47,871 --> 01:34:49,624
+Let's go! Come on!
+
+1080
+01:34:49,707 --> 01:34:50,623
+Wait!
+
+1081
+01:34:50,707 --> 01:34:52,374
+I am not through here!
+
+1082
+01:34:52,458 --> 01:34:54,791
+Megan, no!
+
+1083
+01:34:54,875 --> 01:34:58,340
+- Let me go!
+- I told you, I have a theory!
+
+1084
+01:34:58,465 --> 01:35:00,674
+- Overdose!
+- No!
+
+1085
+01:35:53,185 --> 01:35:56,607
+Herbert!
+
+1086
+01:36:14,874 --> 01:36:17,794
+Look out!
+
+1087
+01:36:24,593 --> 01:36:27,343
+Daddy!
+
+1088
+01:36:36,813 --> 01:36:37,813
+My notes.
+
+1089
+01:36:39,716 --> 01:36:41,819
+My notes!
+
+1090
+01:36:45,155 --> 01:36:47,197
+Let's go.
+
+1091
+01:37:05,166 --> 01:37:06,352
+Stop it!
+
+1092
+01:37:15,601 --> 01:37:17,605
+Come on!
+
+1093
+01:38:27,925 --> 01:38:29,052
+My God! Megan!
+
+1094
+01:38:29,132 --> 01:38:30,091
+Take her into number three!
+
+1095
+01:38:30,175 --> 01:38:32,553
+Bring her this way!
+
+1096
+01:38:37,292 --> 01:38:39,346
+Hurry, hurry,
+she's got nothing.
+
+1097
+01:38:39,936 --> 01:38:42,522
+Activating.
+
+1098
+01:38:42,605 --> 01:38:43,733
+Air on.
+
+1099
+01:38:50,780 --> 01:38:52,489
+Somebody give me some paste!
+
+1100
+01:38:52,573 --> 01:38:53,784
+On three.
+
+1101
+01:38:56,285 --> 01:38:57,285
+Okay, everybody off.
+
+1102
+01:38:57,369 --> 01:39:00,248
+Clear.
+
+1103
+01:39:03,627 --> 01:39:05,294
+Nothing.
+
+1104
+01:39:06,294 --> 01:39:07,879
+Bringing back air.
+
+1105
+01:39:10,842 --> 01:39:12,718
+The trachea's fractured.
+
+1106
+01:39:12,758 --> 01:39:14,095
+She's fixed and dilated.
+
+1107
+01:39:14,177 --> 01:39:16,639
+No response.
+
+1108
+01:39:21,102 --> 01:39:25,460
+Cain... Cain.
+
+1109
+01:41:04,163 --> 01:41:05,832
+I love you.
+

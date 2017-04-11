@@ -1,0 +1,775 @@
+[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 656
+PlayResY: 368
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0001,0001,0015,0
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Narration,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000028,&H00000028,0,1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Preview Main Right,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,9,0250,0030,0020,1
+Style: Preview Main top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0020,1
+Style: Next_Ep_Preview,Arial,20,&H0068C8D3,&H000000FF,&H00010A13,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,0045,0010,0060,1
+Style: Left_Names_00:36,Arial,26,&H00C1FFFC,&H000000FF,&H00173B42,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,0020,0010,0020,1
+Style: Right_Names_00:41,Arial,26,&H00B6FFFE,&H000000FF,&H00173B42,&H00000000,1,0,0,0,100,100,0,0,1,2,0,9,0020,0020,0020,1
+Style: Day Before Bid Txt,Arial,40,&H00040405,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,1,2,8,0010,0010,0080,1
+Style: preview1 kaoru under arrest,Arial,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0070,1
+Style: preview 2 money or friendship,Arial,26,&H001FF7E6,&H000000FF,&H0012A992,&H00000000,1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0095,1
+Style: Next_Ep_Preview,Arial,20,&H0068C8D3,&H000000FF,&H00010A13,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,0045,0010,0060,1
+Style: Hida,Times New Roman,26,&H00442E28,&H000000FF,&H00B4ACA3,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: bid list,Arial,20,&H00464848,&H000000FF,&H00DBE3E5,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: hospital,Arial,20,&H00383C51,&H000000FF,&H00D8E1DB,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,1
+Style: fiction,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,0010,0010,0020,1
+Style: curry,Times New Roman,20,&H00918480,&H000000FF,&H001C4551,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: card,Times New Roman,20,&H001B2D3B,&H000000FF,&H007A909F,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: card2,Times New Roman,20,&H001F3967,&H000000FF,&H008CA6FB,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: bids,Times New Roman,20,&H00382F2C,&H000000FF,&H00C5C1BD,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: preview 3,Arial,26,&H001FF7E6,&H000000FF,&H0012A992,&H00000000,1,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0040,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.45,0:00:05.12,Narration,Kao,0000,0000,0000,,I'm Kanzaki Kaoru. I've dived \Ninto the world of fixers,
+Dialogue: 0,0:00:05.12,0:00:06.85,Narration,,0000,0000,0000,,where snatching and cheating are all fair game.
+Dialogue: 0,0:00:07.75,0:00:11.09,Narration,Ton,0000,0000,0000,,Kaneko forced me to become an \Naccomplice for a scammer skipping town.
+Dialogue: 0,0:00:11.09,0:00:14.13,Flashback,fuy,0000,0000,0000,,The money is right in front of you.
+Dialogue: 0,0:00:14.87,0:00:18.96,Narration,,0000,0000,0000,,While I was able to successfully \Nsnatch Kaneko's goods...
+Dialogue: 0,0:00:19.37,0:00:24.40,Flashback,kaN,0000,0000,0000,,But that was only today.
+Dialogue: 0,0:00:26.26,0:00:28.99,Main,Kane,0000,0000,0000,,You're the one who gave \Nthat girl the idea, right?
+Dialogue: 0,0:00:28.99,0:00:30.12,Main,fuy,0000,0000,0000,,What idea?
+Dialogue: 0,0:00:30.64,0:00:32.01,Main,Kane,0000,0000,0000,,No need to play dumb.
+Dialogue: 0,0:00:32.61,0:00:36.54,Main,,0000,0000,0000,,She never would've come up with the \Nidea of filching the goods herself.
+Dialogue: 0,0:00:36.54,0:00:39.52,Main,fuy,0000,0000,0000,,It's not like you to blame others.
+Dialogue: 0,0:00:39.52,0:00:41.86,Main,fuy,0000,0000,0000,,You got any proof that it was me?
+Dialogue: 0,0:00:42.58,0:00:44.19,Main,Kane,0000,0000,0000,,I'm sorry to say it,
+Dialogue: 0,0:00:46.72,0:00:52.02,Main,,0000,0000,0000,,but I'm thinking of getting that \Nannoying girl out of our office.
+Dialogue: 0,0:00:52.51,0:00:55.33,Main,fuy,0000,0000,0000,,Do as you like.
+Dialogue: 0,0:00:55.96,0:00:57.70,Main,fuy,0000,0000,0000,,But will the chief agree?
+Dialogue: 0,0:00:58.13,0:01:00.58,Main,Kane,0000,0000,0000,,I don't think the chief would complain
+Dialogue: 0,0:01:01.17,0:01:03.42,Main,,0000,0000,0000,,if she wanted to leave of her own volition.
+Dialogue: 0,0:01:08.78,0:01:13.91,Main,Kao,0000,0000,0000,,So that's two million yen \Ntowards repayment, meaning...
+Dialogue: 0,0:01:16.96,0:01:19.52,Main,Kao,0000,0000,0000,,There's eighteen million yen left...
+Dialogue: 0,0:01:20.48,0:01:21.12,Main,Kao,0000,0000,0000,,It's hopeless.
+Dialogue: 0,0:01:21.12,0:01:23.86,Main,Big,0000,0000,0000,,If you get a loan from a crook like Fuyutsuki,
+Dialogue: 0,0:01:24.39,0:01:26.23,Main,,0000,0000,0000,,it's only natural that the interest
+Dialogue: 0,0:01:26.23,0:01:28.99,Main,,0000,0000,0000,,will cripple you to the point that you can't move.
+Dialogue: 0,0:01:28.06,0:01:31.40,Main,nuk,0000,0000,0000,,You've fallen into the Amazon River.
+Dialogue: 0,0:01:31.40,0:01:35.00,Main,nuk,0000,0000,0000,,No matter how you struggle, \Nyou can't get out.
+Dialogue: 0,0:01:35.88,0:01:38.99,Main,Jia,0000,0000,0000,,Yes, yes, yes, yes... huh?
+Dialogue: 0,0:01:38.31,0:01:41.28,Right_Names_00:41,,0000,0000,0000,,{\fad(420,1)\c&H9AA3A2&}Ji{\c&HB6FFFE&}age Shirou \N{\c&HFFC4A1&}Real Estate Agent
+Dialogue: 0,0:01:39.80,0:01:41.28,Main,Jia,0000,0000,0000,,Is Kaneko around?
+Dialogue: 0,0:01:42.04,0:01:44.14,Main,Jia,0000,0000,0000,,Put bluntly, I'm at a loss.
+Dialogue: 0,0:01:44.14,0:01:45.46,Main,Kane,0000,0000,0000,,Squatters, eh?
+Dialogue: 0,0:01:45.46,0:01:50.09,Main,Jia,0000,0000,0000,,We're ready for the wrecking stage of\Nthe development of this land here,
+Dialogue: 0,0:01:50.09,0:01:54.17,Main,,0000,0000,0000,,but there's one resident of the \Ncomplex who refuses to budge.
+Dialogue: 0,0:01:54.17,0:01:56.79,Main,Jia,0000,0000,0000,,At this rate, the entire development \Nproject is at jeopardy.
+Dialogue: 0,0:01:56.79,0:01:58.86,Main,Kane,0000,0000,0000,,Hida Ringorou?
+Dialogue: 0,0:01:59.26,0:02:00.43,Main,,0000,0000,0000,,Who the hell is that?
+Dialogue: 0,0:02:02.22,0:02:03.23,Main,Jia,0000,0000,0000,,He's just unreasonable.
+Dialogue: 0,0:02:03.84,0:02:07.76,Flashback,Hida,0000,0000,0000,,As I've told you... no matter how \Nmany times you ask, I can't leave.
+Dialogue: 0,0:02:06.63,0:02:08.57,Right_Names_00:41,txt,0000,0000,0000,,{\fad(420,1)}Hida {\c&H7B3EE0&}Rin{\c&HB6FFFE&}gorou
+Dialogue: 0,0:02:07.76,0:02:10.30,Flashback,hid,0000,0000,0000,,My wife and I are used to living here.
+Dialogue: 0,0:02:10.30,0:02:13.06,Flashback,Jia,0000,0000,0000,,But take a look around.
+Dialogue: 0,0:02:13.06,0:02:15.74,Flashback,Jia,0000,0000,0000,,You're the only one still putting up a fight.
+Dialogue: 0,0:02:15.74,0:02:19.00,Flashback,Hida,0000,0000,0000,,That may be, but...
+Dialogue: 0,0:02:19.00,0:02:21.88,Main,Nat,0000,0000,0000,,Just ram the place with an excavator and it's done.
+Dialogue: 0,0:02:21.88,0:02:24.98,Main,nuk,0000,0000,0000,,What century do you live in? Moron.
+Dialogue: 0,0:02:23.97,0:02:25.69,Main,jia,0000,0000,0000,,If I could use the old strong-arm tactics,
+Dialogue: 0,0:02:25.69,0:02:27.55,Main,,0000,0000,0000,,I would have done that ages ago!
+Dialogue: 0,0:02:27.55,0:02:31.16,Main,jia,0000,0000,0000,,Now, you make the tiniest threat \Nand the cops are all over you.
+Dialogue: 0,0:02:31.16,0:02:33.95,Main,Natsu,0000,0000,0000,,Kaneko, let me in on this one.
+Dialogue: 0,0:02:33.95,0:02:34.92,Main,,0000,0000,0000,,It sounds fun.
+Dialogue: 0,0:02:34.92,0:02:37.92,Main,Guy,0000,0000,0000,,I'm out. This doesn't sound too profitable.
+Dialogue: 0,0:02:37.92,0:02:40.10,Main,Kao,0000,0000,0000,,Um... I could maybe...
+Dialogue: 0,0:02:40.10,0:02:41.63,Main,Kane,0000,0000,0000,,Kids need to shut up.
+Dialogue: 0,0:02:42.08,0:02:43.44,Main,Kao,0000,0000,0000,,Kids?
+Dialogue: 0,0:02:43.44,0:02:45.21,Main,Natsu,0000,0000,0000,,So anyway, Chief Jiage.
+Dialogue: 0,0:02:45.21,0:02:47.63,Main,Natsu,0000,0000,0000,,Why is this guy so hung up on this?
+Dialogue: 0,0:02:47.63,0:02:50.21,Main,Jia,0000,0000,0000,,You know there's only one reason...
+Dialogue: 0,0:02:50.21,0:02:51.49,Flashback,Guy,0000,0000,0000,,Hida-kun.
+Dialogue: 0,0:02:51.49,0:02:54.35,Flashback,Guy,0000,0000,0000,,Do you have the details of that \Norder I asked you to take care of?
+Dialogue: 0,0:02:54.35,0:02:55.52,Flashback,Hida,0000,0000,0000,,It's all drawn up.
+Dialogue: 0,0:02:55.52,0:02:59.50,Main,Jia,0000,0000,0000,,Hida has the highest performance of \Nany employee at Sokonuke Construction.
+Dialogue: 0,0:02:59.50,0:03:03.46,Main,,0000,0000,0000,,He's an elite who made it to section \Nmanager by the time he was about 30.
+Dialogue: 0,0:03:04.24,0:03:08.12,Main,jia,0000,0000,0000,,And his wife is no ordinary wife.
+Dialogue: 0,0:03:06.66,0:03:08.59,Right_Names_00:41,,0000,0000,0000,,{\fad(420,1)}Hida {\c&HD560F3&}Ma{\c&HB6FFFE&}riko
+Dialogue: 0,0:03:08.12,0:03:13.25,Main,Jia,0000,0000,0000,,She's plain and middle-aged, but her \Nfather is on the prefectural assembly.
+Dialogue: 0,0:03:13.25,0:03:19.04,Main,Jia,0000,0000,0000,,Rumor has it Hida climbed so high up the\Ncorporate ladder thanks to his influence.
+Dialogue: 0,0:03:17.18,0:03:18.62,Main,Mari,0000,0000,0000,,{\a6}Father?
+Dialogue: 0,0:03:18.62,0:03:19.04,Main,Mari,0000,0000,0000,,{\a6}Yes.
+Dialogue: 0,0:03:19.04,0:03:20.91,Main,Jia,0000,0000,0000,,So there's only one reason
+Dialogue: 0,0:03:20.91,0:03:23.71,Main,,0000,0000,0000,,an elite hotshot like him would \Nwant to stay in that old house:
+Dialogue: 0,0:03:24.06,0:03:27.61,Main,,0000,0000,0000,,He wants to get the highest \Npossible compensation out of it.
+Dialogue: 0,0:03:27.61,0:03:28.28,Main,Kane,0000,0000,0000,,I see.
+Dialogue: 0,0:03:28.28,0:03:32.04,Main,nuk,0000,0000,0000,,The best way to deal with guys like \Nthat is to make him fail at work.
+Dialogue: 0,0:03:32.04,0:03:33.16,Main,Natsu,0000,0000,0000,,That's right!
+Dialogue: 0,0:03:33.16,0:03:37.37,Main,Natsu,0000,0000,0000,,Screw up one of his projects \Nand get him demoted.
+Dialogue: 0,0:03:37.37,0:03:38.99,Main,Jia,0000,0000,0000,,That's it!
+Dialogue: 0,0:03:38.99,0:03:40.96,Main,Jia,0000,0000,0000,,Let's do it, let's do it!
+Dialogue: 0,0:03:42.03,0:03:43.37,Main,Kane,0000,0000,0000,,Hey, Kanzaki.
+Dialogue: 0,0:03:43.99,0:03:46.26,Main,Kane,0000,0000,0000,,You said you wanted in on this, right?
+Dialogue: 0,0:03:46.26,0:03:48.13,Main,Kao,0000,0000,0000,,You'll let me do it?
+Dialogue: 0,0:03:48.13,0:03:49.48,Main,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:50.06,0:03:53.24,Main,Kane,0000,0000,0000,,As long as you follow my \Ndirections to the letter,
+Dialogue: 0,0:03:53.24,0:03:57.69,Main,,0000,0000,0000,,I won't give you just a tip, \Nbut a proper share.
+Dialogue: 0,0:03:57.69,0:03:58.38,Main,Kao,0000,0000,0000,,Really?
+Dialogue: 0,0:03:58.38,0:04:01.08,Main,Fuyu,0000,0000,0000,,There's no way she can do this.
+Dialogue: 0,0:04:01.08,0:04:03.60,Main,Fuyu,0000,0000,0000,,A company as big as Sokonuke Construction
+Dialogue: 0,0:04:03.60,0:04:07.12,Main,,0000,0000,0000,,is sure to have many skilled lawyers.
+Dialogue: 0,0:04:07.12,0:04:08.45,Main,Kao,0000,0000,0000,,I could do it.
+Dialogue: 0,0:04:08.45,0:04:10.58,Main,Kane,0000,0000,0000,,It's easy.
+Dialogue: 0,0:04:11.52,0:04:13.62,Main,Kane,0000,0000,0000,,There's no way a rising star elite
+Dialogue: 0,0:04:14.29,0:04:19.42,Main,,0000,0000,0000,,could possibly be satisfied with \Njust his middle-aged wife back home.
+Dialogue: 0,0:04:20.19,0:04:24.23,Main,Kane,0000,0000,0000,,So we get a photo of him \Ncheating and boom, it's done.
+Dialogue: 0,0:04:24.69,0:04:26.10,Main,nuk,0000,0000,0000,,The so-called honey trap.
+Dialogue: 0,0:04:26.10,0:04:27.78,Main,Natsu,0000,0000,0000,,That's the ticket.
+Dialogue: 0,0:04:27.78,0:04:28.54,Main,Kao,0000,0000,0000,,Honey?
+Dialogue: 0,0:04:28.54,0:04:30.61,Main,Kano,0000,0000,0000,,So, Kanzaki.
+Dialogue: 0,0:04:33.16,0:04:36.19,Main,Kano,0000,0000,0000,,You've got no brains, no \Nexperience, and no money.
+Dialogue: 0,0:04:36.99,0:04:39.93,Main,Kano,0000,0000,0000,,If you don't use the one weapon you do have,
+Dialogue: 0,0:04:39.93,0:04:42.05,Main,,0000,0000,0000,,you're wasting your potential.
+Dialogue: 0,0:04:43.72,0:04:46.56,Main,Kano,0000,0000,0000,,It's a fine weapon you have, too...
+Dialogue: 0,0:04:47.12,0:04:49.52,Main,Kano,0000,0000,0000,,Why don't you try using it?
+Dialogue: 0,0:04:58.32,0:04:58.77,Main,Kao,0000,0000,0000,,Weapon?
+Dialogue: 0,0:05:28.64,0:05:29.96,Main,Kao,0000,0000,0000,,No!
+Dialogue: 0,0:05:29.96,0:05:32.28,Main,Kao,0000,0000,0000,,There's no way I'm going \Nto be this guy's lover!
+Dialogue: 0,0:05:32.28,0:05:33.20,Main,Natsu,0000,0000,0000,,Hang on!
+Dialogue: 0,0:05:33.54,0:05:36.21,Main,Kao,0000,0000,0000,,That's no different than \Nworking on Pleasure Island!
+Dialogue: 0,0:05:36.21,0:05:38.81,Main,Kao,0000,0000,0000,,Why should I have to play lovey-dovey \Nwith some guy I don't even know?
+Dialogue: 0,0:05:38.81,0:05:41.11,Main,Kao,0000,0000,0000,,Because that's the only thing you're good for!
+Dialogue: 0,0:05:41.11,0:05:42.01,Main,Kao,0000,0000,0000,,That's not true!
+Dialogue: 0,0:05:42.76,0:05:46.41,Main,Kane,0000,0000,0000,,Here I thought I'd go easy on you since \Nyou're a woman, and you betray me.
+Dialogue: 0,0:05:46.41,0:05:49.24,Main,,0000,0000,0000,,I think I've cut you slack long enough.
+Dialogue: 0,0:05:49.78,0:05:51.80,Main,Kane,0000,0000,0000,,If you won't do as you're told,
+Dialogue: 0,0:05:51.80,0:05:54.78,Main,Kane,0000,0000,0000,,I won't work with you.
+Dialogue: 0,0:05:54.78,0:05:56.32,Main,Kao,0000,0000,0000,,That's fine with me.
+Dialogue: 0,0:05:56.77,0:05:59.51,Main,Kao,0000,0000,0000,,All I have to do is produce results on my own, right?
+Dialogue: 0,0:06:03.50,0:06:07.22,Main,Kao,0000,0000,0000,,Just watch, you old pervs!
+Dialogue: 0,0:06:11.21,0:06:12.39,Main,Natsu,0000,0000,0000,,She's got spirit.
+Dialogue: 0,0:06:12.39,0:06:14.67,Main,Jia,0000,0000,0000,,Now that's a feisty one.
+Dialogue: 0,0:06:16.79,0:06:19.24,Main,Kane,0000,0000,0000,,Like she can do anything.
+Dialogue: 0,0:06:24.95,0:06:26.79,Hida,,0000,0000,0000,,Hida
+Dialogue: 0,0:06:50.66,0:06:52.61,Main,Mari,0000,0000,0000,,Um... Can I help you?
+Dialogue: 0,0:06:54.37,0:06:57.98,Main,Kao,0000,0000,0000,,What a nice housing complex...
+Dialogue: 0,0:07:00.49,0:07:02.15,Main,Natsu,0000,0000,0000,,That idiot.
+Dialogue: 0,0:07:02.70,0:07:04.66,Main,Natsu,0000,0000,0000,,She looks totally suspicious.
+Dialogue: 0,0:07:21.45,0:07:23.31,Main,Natsu,0000,0000,0000,,What is this?
+Dialogue: 0,0:07:23.56,0:07:25.98,Left_Names_00:36,,0000,0000,0000,,{\fad(420,1)\c&HE5D6D7&}Sokonuke Construction
+Dialogue: 0,0:07:28.79,0:07:29.61,Main,Wom,0000,0000,0000,,Wanna sit here?
+Dialogue: 0,0:07:29.61,0:07:30.44,Main,Wom2,0000,0000,0000,,Sure.
+Dialogue: 0,0:07:32.57,0:07:33.56,Main,Wom,0000,0000,0000,,So did you see?
+Dialogue: 0,0:07:33.56,0:07:35.69,Main,Wom,0000,0000,0000,,Octopus and panda today.
+Dialogue: 0,0:07:35.69,0:07:36.39,Main,Wom2,0000,0000,0000,,Really?
+Dialogue: 0,0:07:36.92,0:07:39.11,Main,Wom,0000,0000,0000,,Man, it pisses me off!
+Dialogue: 0,0:07:39.11,0:07:41.62,Main,,0000,0000,0000,,Just how lovey-dovey can he and his wife be?
+Dialogue: 0,0:07:41.62,0:07:43.93,Main,Wom2,0000,0000,0000,,It should be against the rules to be
+Dialogue: 0,0:07:43.93,0:07:46.10,Main,,0000,0000,0000,,so handsome, competent, and faithful.
+Dialogue: 0,0:07:46.80,0:07:47.42,Main,Wom,0000,0000,0000,,Right?
+Dialogue: 0,0:07:47.42,0:07:48.22,Main,Wom2,0000,0000,0000,,Totally.
+Dialogue: 0,0:07:48.22,0:07:51.20,Main,gor,0000,0000,0000,,Oh, Hida? Yeah, I know him well.
+Dialogue: 0,0:07:49.01,0:07:51.20,Right_Names_00:41,,0000,0000,0000,,{\fad(420,1)\c&HC7B4A2&}Goromaki Engineering
+Dialogue: 0,0:07:52.02,0:07:55.74,Main,gor,0000,0000,0000,,He takes all of our big contracts away.
+Dialogue: 0,0:07:56.04,0:07:58.94,Left_Names_00:36,,0000,0000,0000,,{\fad(420,1)}President Go{\c&HF9D295&}ro{\c&HC1FFFC&}maki
+Dialogue: 0,0:07:56.48,0:07:58.48,Main,gor,0000,0000,0000,,It's hurting our business bigtime.
+Dialogue: 0,0:07:58.48,0:08:02.36,Main,gor,0000,0000,0000,,I wonder if having that assemblyman \Nbacking him is the reason.
+Dialogue: 0,0:08:02.36,0:08:04.63,Main,gor,0000,0000,0000,,That's the only answer that makes sense.
+Dialogue: 0,0:08:04.63,0:08:06.68,Main,gor,0000,0000,0000,,I heard he's already ordered
+Dialogue: 0,0:08:06.68,0:08:10.20,Main,,0000,0000,0000,,a bunch of materials just this week.
+Dialogue: 0,0:08:10.20,0:08:12.79,Main,Kane,0000,0000,0000,,You think he's got a big project in the works?
+Dialogue: 0,0:08:13.32,0:08:14.66,Main,gor,0000,0000,0000,,I'm absolutely certain.
+Dialogue: 0,0:08:26.02,0:08:27.39,Main,Hida,0000,0000,0000,,I'm on my way home.
+Dialogue: 0,0:08:27.39,0:08:29.41,Main,Hida,0000,0000,0000,,Is there anything you need me to pick up?
+Dialogue: 0,0:08:29.41,0:08:31.62,Main,,0000,0000,0000,,Yep. All right.
+Dialogue: 0,0:08:31.62,0:08:32.67,Main,,0000,0000,0000,,Bye.
+Dialogue: 0,0:08:33.07,0:08:34.52,Main,Shop,0000,0000,0000,,Welcome.
+Dialogue: 0,0:08:35.31,0:08:37.21,Main,Shop,0000,0000,0000,,Oh, Hida-san! Always good to see you!
+Dialogue: 0,0:08:37.21,0:08:38.25,Main,Hida,0000,0000,0000,,Hello.
+Dialogue: 0,0:08:38.60,0:08:40.75,Main,Hida,0000,0000,0000,,I guess she forgot to buy eggs.
+Dialogue: 0,0:08:40.75,0:08:43.76,Main,Shop,0000,0000,0000,,Always the dutiful husband!
+Dialogue: 0,0:08:53.95,0:08:55.00,Main,Hida,0000,0000,0000,,I'm home.
+Dialogue: 0,0:08:55.00,0:08:56.13,Main,Mari,0000,0000,0000,,Welcome back.
+Dialogue: 0,0:09:02.11,0:09:03.70,Main,Kao,0000,0000,0000,,What the hell?
+Dialogue: 0,0:09:04.18,0:09:06.72,Main,Kao,0000,0000,0000,,Looks like a run-of-the-mill corporate slave.
+Dialogue: 0,0:09:12.80,0:09:15.74,Main,Kane,0000,0000,0000,,From the looks of it, you got nothing.
+Dialogue: 0,0:09:17.72,0:09:22.08,Main,Kane,0000,0000,0000,,Hida's not the type you can \Ntake down through honest means.
+Dialogue: 0,0:09:24.19,0:09:29.40,Main,Kao,0000,0000,0000,,I don't think it's necessary to \Nforce him out of his home.
+Dialogue: 0,0:09:29.40,0:09:33.09,Main,Kao,0000,0000,0000,,He's a family man, who does honest work.
+Dialogue: 0,0:09:33.09,0:09:35.40,Main,Natsu,0000,0000,0000,,You think a man who values his family
+Dialogue: 0,0:09:36.07,0:09:38.56,Main,,0000,0000,0000,,would have all these \Nwomen's business cards?
+Dialogue: 0,0:09:38.56,0:09:39.30,Main,Kao,0000,0000,0000,,Business cards?
+Dialogue: 0,0:09:39.30,0:09:41.96,Main,Natsu,0000,0000,0000,,He's got a hospital director's daughter...
+Dialogue: 0,0:09:41.96,0:09:45.47,Main,,0000,0000,0000,,And here, a sake brewer's daughter.
+Dialogue: 0,0:09:45.47,0:09:47.71,Main,Natsu,0000,0000,0000,,All rich, uppercrusty ladies.
+Dialogue: 0,0:09:47.71,0:09:49.41,Main,Natsu,0000,0000,0000,,I wonder where he's meeting them.
+Dialogue: 0,0:09:49.41,0:09:51.98,Main,Kane,0000,0000,0000,,He must have shredded them \Nso his wife wouldn't find them.
+Dialogue: 0,0:09:52.74,0:09:54.75,Main,Kane,0000,0000,0000,,There's no reason to destroy business cards,
+Dialogue: 0,0:09:54.75,0:09:57.02,Main,,0000,0000,0000,,unless he has something to be guilty about.
+Dialogue: 0,0:09:57.02,0:09:58.12,Main,Natsu,0000,0000,0000,,Hey, look at this!
+Dialogue: 0,0:09:58.12,0:10:00.66,Main,Natsu,0000,0000,0000,,It's a bill for a hotel bar.
+Dialogue: 0,0:10:01.26,0:10:02.63,Main,Kao,0000,0000,0000,,A hotel?
+Dialogue: 0,0:10:04.48,0:10:06.86,Main,Kao,0000,0000,0000,,B-But he seemed like a devoted husband—
+Dialogue: 0,0:10:06.86,0:10:10.25,Main,Kane,0000,0000,0000,,If tailing someone like a turd \Nclinging to a goldfish were enough,
+Dialogue: 0,0:10:10.25,0:10:13.76,Main,,0000,0000,0000,,this world wouldn't have any need for fixers!
+Dialogue: 0,0:10:14.31,0:10:19.21,Main,Kane,0000,0000,0000,,I think the only way to take \Nthis guy down is seduction.
+Dialogue: 0,0:10:32.21,0:10:33.71,Main,Hida,0000,0000,0000,,Did you use a different mix?
+Dialogue: 0,0:10:33.71,0:10:35.18,Main,Mari,0000,0000,0000,,You noticed?
+Dialogue: 0,0:10:35.18,0:10:39.14,Main,,0000,0000,0000,,I tried making it from scratch today.
+Dialogue: 0,0:10:41.62,0:10:44.52,Main,Mari,0000,0000,0000,,You always want that one type of curry,
+Dialogue: 0,0:10:44.52,0:10:46.16,Main,,0000,0000,0000,,but sometimes, making your own is—
+Dialogue: 0,0:10:46.16,0:10:48.30,Main,Hida,0000,0000,0000,,I like that curry.
+Dialogue: 0,0:10:49.93,0:10:52.00,curry,,0000,0000,0000,,Gold Curry
+Dialogue: 0,0:10:54.92,0:10:56.78,Main,Mari,0000,0000,0000,,All right. I understand.
+Dialogue: 0,0:10:58.83,0:10:59.99,Main,Mari,0000,0000,0000,,That reminds me.
+Dialogue: 0,0:10:59.99,0:11:02.36,Main,Mari,0000,0000,0000,,I saw a strange woman this morning.
+Dialogue: 0,0:11:02.36,0:11:05.45,Main,Mari,0000,0000,0000,,I'm sure she was just someone \Nfrom that real estate place, but...
+Dialogue: 0,0:11:06.12,0:11:09.33,Main,Mari,0000,0000,0000,,Oh, and I talked to my father today.
+Dialogue: 0,0:11:10.51,0:11:14.00,Main,Mari,0000,0000,0000,,He said it'd help a lot if you'd intervene \Nwith the real estate agents...
+Dialogue: 0,0:11:18.74,0:11:21.30,Main,Hida,0000,0000,0000,,Who told you to talk to him?
+Dialogue: 0,0:11:22.72,0:11:26.31,Main,Hida,0000,0000,0000,,I said I would take care of \Nthe land compensation issue.
+Dialogue: 0,0:11:26.31,0:11:28.41,Main,Hida,0000,0000,0000,,Stay the hell out of it!
+Dialogue: 0,0:11:29.00,0:11:30.38,Main,Mari,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:11:30.96,0:11:31.95,Main,Mari,0000,0000,0000,,I won't do it again!
+Dialogue: 0,0:11:32.82,0:11:33.98,Main,Mari,0000,0000,0000,,I won't do it again! I'm sorry!
+Dialogue: 0,0:11:37.42,0:11:40.05,preview 3,Kiri,0000,0000,0000,,{\fs22\a6}Snack \N{\c&H1B11F7&}Mayakashi
+Dialogue: 0,0:11:38.42,0:11:41.42,Main,Kiri,0000,0000,0000,,You're investigating Hida of \NSokonuke Construction, right?
+Dialogue: 0,0:11:41.42,0:11:42.81,Main,Kao,0000,0000,0000,,How did you know?
+Dialogue: 0,0:11:42.81,0:11:45.83,Main,Kiri,0000,0000,0000,,How long do you think I've worked here?
+Dialogue: 0,0:11:46.46,0:11:51.34,Main,Kiri,0000,0000,0000,,Well, I bet this guy has \Nmany skeletons in his closet.
+Dialogue: 0,0:11:51.34,0:11:53.29,Main,Kao,0000,0000,0000,,You know Hida-san?
+Dialogue: 0,0:11:53.29,0:11:55.35,Main,Kiri,0000,0000,0000,,You know that place called \Nthe Rich Man's Hotel?
+Dialogue: 0,0:11:55.88,0:11:59.54,Main,Kiri,0000,0000,0000,,Every month, they hold a \Nparty there for the uppercrust.
+Dialogue: 0,0:11:59.54,0:12:01.14,Main,Kiri,0000,0000,0000,,Hida is a regular there.
+Dialogue: 0,0:12:03.36,0:12:06.11,Main,Kao,0000,0000,0000,,But he really seemed like a modest guy.
+Dialogue: 0,0:12:06.11,0:12:07.31,Main,Kao,0000,0000,0000,,Even his wife's lunches are...
+Dialogue: 0,0:12:07.31,0:12:13.02,Main,Kiri,0000,0000,0000,,A devoted husband wouldn't keep \Nhis wife in a dump like that.
+Dialogue: 0,0:12:13.49,0:12:16.79,Main,Kiri,0000,0000,0000,,His wife's nothing but money to him.
+Dialogue: 0,0:12:17.37,0:12:18.56,Main,Kao,0000,0000,0000,,I don't know...
+Dialogue: 0,0:12:18.84,0:12:23.26,Main,Kiri,0000,0000,0000,,But it looks like her father is going \Nto retire from his position soon.
+Dialogue: 0,0:12:24.24,0:12:28.53,Main,Kiri,0000,0000,0000,,He'll be needing a new cash cow.
+Dialogue: 0,0:12:29.17,0:12:30.22,Main,Kao,0000,0000,0000,,You're kidding...
+Dialogue: 0,0:12:30.22,0:12:34.41,Main,Kiri,0000,0000,0000,,He's got a weakness for women \Nwho look like they've got money.
+Dialogue: 0,0:12:35.82,0:12:38.31,Main,Kiri,0000,0000,0000,,Seducing him would be really easy.
+Dialogue: 0,0:12:38.31,0:12:41.12,Main,Kao,0000,0000,0000,,I could never do that!
+Dialogue: 0,0:12:41.12,0:12:44.76,Main,Kiri,0000,0000,0000,,Just shut your eyes, hold your \Nnose, and sleep with him.
+Dialogue: 0,0:12:44.76,0:12:46.05,Main,Kao,0000,0000,0000,,I'm telling you, I can't do that.
+Dialogue: 0,0:12:46.05,0:12:47.89,Main,Kiri,0000,0000,0000,,Don't worry!
+Dialogue: 0,0:12:48.46,0:12:50.96,Main,,0000,0000,0000,,It's just like swallowing bitter medicine.
+Dialogue: 0,0:12:51.81,0:12:53.36,Main,Natsu,0000,0000,0000,,Hey, Kaneko,
+Dialogue: 0,0:12:53.36,0:12:56.66,Main,,0000,0000,0000,,I'm surprised you got an appointment\Nwith a prefectural assemblyman.
+Dialogue: 0,0:12:56.66,0:12:57.94,Main,Kane,0000,0000,0000,,Well, you know.
+Dialogue: 0,0:12:59.88,0:13:00.72,Main,Kane,0000,0000,0000,,There he is.
+Dialogue: 0,0:13:09.60,0:13:10.88,Main,kos,0000,0000,0000,,Sorry I'm late.
+Dialogue: 0,0:13:11.15,0:13:12.48,Main,Natsu,0000,0000,0000,,Chief?
+Dialogue: 0,0:13:12.48,0:13:17.66,Main,kos,0000,0000,0000,,I was wondering what this invitation \Nfrom Kaneko-kun was all about.
+Dialogue: 0,0:13:17.66,0:13:21.76,Main,Kane,0000,0000,0000,,I'm so grateful that you even went to \Nthe trouble of setting everything up.
+Dialogue: 0,0:13:22.51,0:13:24.40,card,nuk,0000,0000,0000,,Seshuu Haragurou \NPrefectural Assembly Member
+Dialogue: 0,0:13:23.01,0:13:26.12,Main,nuk,0000,0000,0000,,Thank you so much for coming tonight.
+Dialogue: 0,0:13:26.12,0:13:27.19,Main,Ses,0000,0000,0000,,Not at all.
+Dialogue: 0,0:13:27.26,0:13:29.53,Left_Names_00:36,,0000,0000,0000,,{\fad(420,1)\c&HF1A6E7&}Se{\c&HC1FFFC&}shuu Haragurou
+Dialogue: 0,0:13:27.97,0:13:31.01,Main,Ses,0000,0000,0000,,Your reputation precedes you, sir,
+Dialogue: 0,0:13:31.01,0:13:35.26,Main,,0000,0000,0000,,as the most powerful man \Ncurrently on the assembly.
+Dialogue: 0,0:13:35.26,0:13:38.80,Main,Ses,0000,0000,0000,,Oh, come now.
+Dialogue: 0,0:13:38.80,0:13:40.40,Main,Ses,0000,0000,0000,,You flatter me!
+Dialogue: 0,0:13:42.86,0:13:48.40,Main,Kane,0000,0000,0000,,Oh, and your daughter's husband... \NHida Ringorou-san, was it?
+Dialogue: 0,0:13:48.40,0:13:51.40,Main,Kane,0000,0000,0000,,He seems to be doing quite \Nwell at Sokonuke Construction.
+Dialogue: 0,0:13:51.40,0:13:53.36,Main,Ses,0000,0000,0000,,That's right.
+Dialogue: 0,0:13:54.16,0:13:57.92,Main,Ses,0000,0000,0000,,He's a good worker, that's for sure.
+Dialogue: 0,0:13:57.92,0:13:59.20,Main,Ses,0000,0000,0000,,Just recently,
+Dialogue: 0,0:13:59.20,0:14:02.36,Main,,0000,0000,0000,,he asked me to introduce him to some \Npeople at the prefectural office,
+Dialogue: 0,0:14:02.36,0:14:04.46,Main,,0000,0000,0000,,so I did.
+Dialogue: 0,0:14:05.19,0:14:06.60,Main,Kane,0000,0000,0000,,The prefectural office...
+Dialogue: 0,0:14:06.96,0:14:09.73,Main,Ses,0000,0000,0000,,I mean, he's the husband of my littlest girl.
+Dialogue: 0,0:14:09.73,0:14:13.82,Main,,0000,0000,0000,,I couldn't help but be sweet on him.
+Dialogue: 0,0:14:14.37,0:14:15.99,Main,Ses,0000,0000,0000,,Not that that's okay!
+Dialogue: 0,0:14:18.87,0:14:20.96,Main,Kane,0000,0000,0000,,Oh, anyone would do the same!
+Dialogue: 0,0:14:23.04,0:14:26.08,Main,Kane,0000,0000,0000,,So about that prefectural office...
+Dialogue: 0,0:14:26.08,0:14:28.22,Main,nuk,0000,0000,0000,,Now, now, Kaneko-kun.
+Dialogue: 0,0:14:28.59,0:14:31.29,Main,,0000,0000,0000,,Let's leave his son-in-law at that.
+Dialogue: 0,0:14:31.96,0:14:33.31,Main,nuk,0000,0000,0000,,By the way, Sensei...
+Dialogue: 0,0:14:33.89,0:14:36.13,Main,nuk,0000,0000,0000,,What's this talk of you retiring?
+Dialogue: 0,0:14:36.13,0:14:37.29,Main,nuk,0000,0000,0000,,Is it true?
+Dialogue: 0,0:14:41.67,0:14:43.88,Main,Natsu,0000,0000,0000,,Why the hell did you invite the chief?
+Dialogue: 0,0:14:45.04,0:14:47.70,Main,Natsu,0000,0000,0000,,With him here, we can't even \Nextract information, let alone...
+Dialogue: 0,0:14:47.70,0:14:48.68,Main,Kane,0000,0000,0000,,Shut it.
+Dialogue: 0,0:14:49.32,0:14:53.30,Main,Kane,0000,0000,0000,,Using the old monster was the \Nquickest way to get that guy here.
+Dialogue: 0,0:14:53.30,0:14:58.04,Main,Kane,0000,0000,0000,,And to get his help, I had to pay that monster five.
+Dialogue: 0,0:14:58.04,0:14:59.24,Main,nat,0000,0000,0000,,Five million?!
+Dialogue: 0,0:14:59.24,0:15:00.15,Main,Kane,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:05.53,0:15:06.55,Main,Kane,0000,0000,0000,,Hey.
+Dialogue: 0,0:15:06.55,0:15:07.71,Main,Kane,0000,0000,0000,,How's it going over there?
+Dialogue: 0,0:15:07.71,0:15:09.49,Italics,Kiri,0000,0000,0000,,Perfect.
+Dialogue: 0,0:15:09.49,0:15:12.61,Italics,Kiri,0000,0000,0000,,She's ready to be the honey trap.
+Dialogue: 0,0:15:12.61,0:15:13.19,Main,Kane,0000,0000,0000,,Really?
+Dialogue: 0,0:15:13.19,0:15:15.06,Main,Kiri,0000,0000,0000,,If she does as I told her,
+Dialogue: 0,0:15:15.50,0:15:16.90,Main,,0000,0000,0000,,Hida will go down in no time.
+Dialogue: 0,0:15:17.39,0:15:20.43,Italics,Kiri,0000,0000,0000,,But you sure are being nice, Kaneko-chan.
+Dialogue: 0,0:15:20.43,0:15:21.84,Italics,Kiri,0000,0000,0000,,After all that tough talk,
+Dialogue: 0,0:15:21.46,0:15:22.57,Main,Kane,0000,0000,0000,,You fool.
+Dialogue: 0,0:15:21.84,0:15:24.01,Italics,kir,0000,0000,0000,,you're actually giving her work.
+Dialogue: 0,0:15:24.01,0:15:26.91,Main,kan,0000,0000,0000,,I'm using this to run her out of the office, too.
+Dialogue: 0,0:15:31.01,0:15:34.73,Main,gor,0000,0000,0000,,That's quite a big order.
+Dialogue: 0,0:15:35.68,0:15:38.12,Main,Kane,0000,0000,0000,,Are there orders from the \Nprefectural office, as well?
+Dialogue: 0,0:15:38.12,0:15:39.09,Main,gor,0000,0000,0000,,The prefectural office?
+Dialogue: 0,0:15:40.67,0:15:44.32,Main,gor,0000,0000,0000,,You mean the construction of \Nthe Mount Kanekure tunnel?
+Dialogue: 0,0:15:44.32,0:15:47.39,Main,kan,0000,0000,0000,,So that's why he got her daddy \Nto get to the prefectural staff.
+Dialogue: 0,0:15:47.97,0:15:49.63,Main,nat,0000,0000,0000,,Looks like it.
+Dialogue: 0,0:15:49.95,0:15:54.78,Main,Guy,0000,0000,0000,,I was honestly surprised when you \Nsuddenly suggested we submit a bid.
+Dialogue: 0,0:15:54.78,0:15:59.26,Main,Guy,0000,0000,0000,,But when you said we'd get the \Ngovernment's bid evaluation list,
+Dialogue: 0,0:15:59.26,0:16:02.32,Main,,0000,0000,0000,,as your superior, there's no way I wouldn't agree.
+Dialogue: 0,0:16:03.37,0:16:05.25,Main,Hida,0000,0000,0000,,The list will arrive by this weekend.
+Dialogue: 0,0:16:05.25,0:16:08.61,Main,,0000,0000,0000,,Then I'll prepare the documents, submit \Neverything on Monday, and it'll be done.
+Dialogue: 0,0:16:08.61,0:16:09.97,Main,Guy,0000,0000,0000,,Got it.
+Dialogue: 0,0:16:09.97,0:16:12.28,Main,Guy,0000,0000,0000,,How about we do a little \Npre-celebration tonight?
+Dialogue: 0,0:16:12.81,0:16:16.29,Main,Hida,0000,0000,0000,,I'm sorry, but I promised my\Nwife I'd eat with her tonight.
+Dialogue: 0,0:16:16.29,0:16:20.29,Main,Guy,0000,0000,0000,,I guess marrying a daughter from \Nhigh standing isn't all fun, is it?
+Dialogue: 0,0:16:20.29,0:16:22.08,Main,Hida,0000,0000,0000,,You're so right.
+Dialogue: 0,0:16:55.06,0:16:56.29,Main,Hida,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:16:58.80,0:17:00.22,Main,Kao,0000,0000,0000,,I'm so sorry.
+Dialogue: 0,0:17:01.36,0:17:03.22,Main,Kao,0000,0000,0000,,I wasn't paying attention.
+Dialogue: 0,0:17:07.44,0:17:09.42,Main,Hida,0000,0000,0000,,No, entirely my fault.
+Dialogue: 0,0:17:10.18,0:17:12.11,Main,Hida,0000,0000,0000,,We haven't met, have we?
+Dialogue: 0,0:17:12.78,0:17:14.64,Main,Kao,0000,0000,0000,,May I introduce myself?
+Dialogue: 0,0:17:14.64,0:17:16.00,Main,Hida,0000,0000,0000,,Yes, please.
+Dialogue: 0,0:17:21.69,0:17:23.92,card2,Hida,0000,0000,0000,,Aburakatabura Oil \NIrokawa Kouko
+Dialogue: 0,0:17:22.05,0:17:23.92,Main,Hida,0000,0000,0000,,Aburakatabura Oil?
+Dialogue: 0,0:17:25.47,0:17:26.85,Main,Hida,0000,0000,0000,,The city of Kanekure asked
+Dialogue: 0,0:17:26.85,0:17:30.22,Main,,0000,0000,0000,,if we might be interested in \Nestablishing a plant in this area.
+Dialogue: 0,0:17:30.22,0:17:31.39,Main,Hida,0000,0000,0000,,I'm here to do the inspection.
+Dialogue: 0,0:17:31.80,0:17:33.04,Main,Hida,0000,0000,0000,,And your name...
+Dialogue: 0,0:17:33.04,0:17:35.96,Main,Hida,0000,0000,0000,,Are you related to President Irokawa?
+Dialogue: 0,0:17:37.28,0:17:38.62,Main,Kao,0000,0000,0000,,I'm his daughter.
+Dialogue: 0,0:17:41.13,0:17:44.57,Main,Hida,0000,0000,0000,,Yes, I could tell you're not \Nlike these country girls.
+Dialogue: 0,0:17:45.13,0:17:47.84,Main,Kao,0000,0000,0000,,Oh, you're good.
+Dialogue: 0,0:17:51.95,0:17:55.05,Flashback_Italics,Kao,0000,0000,0000,,You know, isn't this just over the top?
+Dialogue: 0,0:17:55.05,0:17:57.19,Flashback,Kiri,0000,0000,0000,,The guy's a country bumpkin.
+Dialogue: 0,0:17:57.19,0:17:59.05,Flashback,,0000,0000,0000,,This is just right for him.
+Dialogue: 0,0:17:59.62,0:18:02.55,Flashback,Kiri,0000,0000,0000,,Yep. Perfect.
+Dialogue: 0,0:18:02.55,0:18:04.35,Flashback,Kiri,0000,0000,0000,,You can pay me the rental fee later.
+Dialogue: 0,0:18:04.96,0:18:06.67,Flashback,Kao,0000,0000,0000,,I have to pay for this, too?
+Dialogue: 0,0:18:11.96,0:18:13.78,Main,Kao,0000,0000,0000,,Changing jobs?
+Dialogue: 0,0:18:14.60,0:18:15.40,Main,,0000,0000,0000,,Yes.
+Dialogue: 0,0:18:16.33,0:18:20.33,Main,Hida,0000,0000,0000,,Around here, Sokonuke \NConstruction is a big player,
+Dialogue: 0,0:18:20.33,0:18:23.56,Main,,0000,0000,0000,,but it's still just a local business.
+Dialogue: 0,0:18:24.88,0:18:26.60,Main,Kao,0000,0000,0000,,I see.
+Dialogue: 0,0:18:28.20,0:18:32.37,Main,Hida,0000,0000,0000,,If only I could work with someone \Nlike you, Irokawa-san...
+Dialogue: 0,0:18:34.21,0:18:38.25,Main,Kao,0000,0000,0000,,Yes, I think that would be nice, too.
+Dialogue: 0,0:18:45.08,0:18:45.93,Main,,0000,0000,0000,,Um...
+Dialogue: 0,0:18:47.79,0:18:49.87,Main,Kao,0000,0000,0000,,May I ask a very forward question?
+Dialogue: 0,0:18:51.78,0:18:52.67,Main,Hida,0000,0000,0000,,What is it?
+Dialogue: 0,0:18:53.61,0:18:59.16,Main,Kao,0000,0000,0000,,You are married, are you not?
+Dialogue: 0,0:19:04.83,0:19:07.40,Main,Kao,0000,0000,0000,,I'm sorry for asking you something like that.
+Dialogue: 0,0:19:08.50,0:19:09.79,Main,Kao,0000,0000,0000,,Please, forget I said anything.
+Dialogue: 0,0:19:11.07,0:19:12.39,Main,Hida,0000,0000,0000,,Actually...
+Dialogue: 0,0:19:13.65,0:19:15.56,Main,,0000,0000,0000,,we are just moving into the divorce process.
+Dialogue: 0,0:19:17.72,0:19:18.67,Main,Kao,0000,0000,0000,,Excuse me?
+Dialogue: 0,0:19:18.67,0:19:21.37,Main,Hida,0000,0000,0000,,All I did throughout our marriage \Nwas endure and endure.
+Dialogue: 0,0:19:21.91,0:19:24.10,Main,Hida,0000,0000,0000,,She wouldn't cook, clean, or do laundry.
+Dialogue: 0,0:19:24.69,0:19:26.60,Main,Hida,0000,0000,0000,,All she did was flaunt her pride.
+Dialogue: 0,0:19:29.18,0:19:30.98,Main,Kao,0000,0000,0000,,She sounds like an awful wife.
+Dialogue: 0,0:19:34.04,0:19:35.08,Main,Hida,0000,0000,0000,,Irokawa-san.
+Dialogue: 0,0:19:36.66,0:19:42.84,Main,,0000,0000,0000,,I've even been thinking that I might as well
+Dialogue: 0,0:19:43.72,0:19:46.20,Main,,0000,0000,0000,,completely reset my own life.
+Dialogue: 0,0:19:48.76,0:19:49.56,Main,Hida,0000,0000,0000,,Irokawa-san...
+Dialogue: 0,0:19:50.81,0:19:52.13,Main,Kao,0000,0000,0000,,Hida-san...
+Dialogue: 0,0:20:03.60,0:20:05.58,Main,Hida,0000,0000,0000,,I'm sorry. It's an urgent call.
+Dialogue: 0,0:20:08.24,0:20:09.20,Main,Hida,0000,0000,0000,,Hello?
+Dialogue: 0,0:20:13.22,0:20:16.09,Main,Kao,0000,0000,0000,,"Moving into the divorce process," my ass.
+Dialogue: 0,0:20:16.09,0:20:18.46,Main,Kao,0000,0000,0000,,Lies, lies, and more lies.
+Dialogue: 0,0:20:19.92,0:20:21.99,Main,Kao,0000,0000,0000,,Blondie was right.
+Dialogue: 0,0:20:21.99,0:20:23.89,Main,,0000,0000,0000,,He's nothing but a lady killer.
+Dialogue: 0,0:20:24.73,0:20:29.13,Flashback,Kiri,0000,0000,0000,,I don't think I have to tell you \Nthat speed is the name of the game.
+Dialogue: 0,0:20:29.75,0:20:31.94,Flashback,Kiri,0000,0000,0000,,By tomorrow, he'll know who you really are,
+Dialogue: 0,0:20:33.55,0:20:36.24,Flashback,,0000,0000,0000,,so you've got to get him into your \Nroom tonight, no matter what.
+Dialogue: 0,0:20:49.96,0:20:51.62,Main,Kao,0000,0000,0000,,Excuse me, I'll have another.
+Dialogue: 0,0:20:52.60,0:20:56.26,Main,Hida,0000,0000,0000,,Yes, please send it to my residence, as always.
+Dialogue: 0,0:20:56.86,0:20:59.78,Main,Hida,0000,0000,0000,,And make sure it looks like private mail.
+Dialogue: 0,0:21:01.45,0:21:04.43,Main,Hida,0000,0000,0000,,You should go on a vacation, Saruwatari-san.
+Dialogue: 0,0:21:05.04,0:21:06.27,Main,Hida,0000,0000,0000,,Yes, I understand.
+Dialogue: 0,0:21:08.84,0:21:09.99,Main,Hida,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:21:22.01,0:21:23.29,Main,Hida,0000,0000,0000,,Irokawa-san?
+Dialogue: 0,0:21:24.65,0:21:26.03,Main,Kao,0000,0000,0000,,It looks like...
+Dialogue: 0,0:21:26.95,0:21:28.16,Main,,0000,0000,0000,,I'm a little drunk.
+Dialogue: 0,0:21:34.38,0:21:35.62,Main,Kao,0000,0000,0000,,It's this way.
+Dialogue: 0,0:21:35.62,0:21:36.39,Main,Hida,0000,0000,0000,,Okay.
+Dialogue: 0,0:21:50.96,0:21:53.42,Main,Kazu,0000,0000,0000,,You're a monster, Kaoru-chan.
+Dialogue: 0,0:21:56.79,0:21:57.99,Main,Kane,0000,0000,0000,,Okay, got it.
+Dialogue: 0,0:21:59.18,0:22:00.64,Main,Kane,0000,0000,0000,,You know what to do, right?
+Dialogue: 0,0:22:05.56,0:22:08.24,Main,Kane,0000,0000,0000,,Seems she finally got him in her room.
+Dialogue: 0,0:22:08.24,0:22:10.56,Main,Kane,0000,0000,0000,,I guess she did it, despite all her griping.
+Dialogue: 0,0:22:10.56,0:22:13.24,Main,Kiri,0000,0000,0000,,Who do you think gave her all the advice?
+Dialogue: 0,0:22:14.13,0:22:16.88,Main,fuy,0000,0000,0000,,You're an evil man, Kaneko.
+Dialogue: 0,0:22:16.88,0:22:18.62,Main,kir,0000,0000,0000,,Fuyu-kun! You're here!
+Dialogue: 0,0:22:18.62,0:22:19.24,Main,fuy,0000,0000,0000,,I'll take a beer.
+Dialogue: 0,0:22:23.01,0:22:24.50,Main,Kane,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:22:24.50,0:22:26.69,Main,Fuyu,0000,0000,0000,,Don't play dumb.
+Dialogue: 0,0:22:27.56,0:22:29.56,Main,Fuyu,0000,0000,0000,,You're making Kanzaki do the honey trap gig
+Dialogue: 0,0:22:29.56,0:22:32.44,Main,,0000,0000,0000,,so you can kick her out of the office.
+Dialogue: 0,0:22:32.89,0:22:35.04,Main,Fuyu,0000,0000,0000,,She came to us with nothing,
+Dialogue: 0,0:22:35.04,0:22:38.52,Main,,0000,0000,0000,,and you've made her sell her body so \Nyou can psychologically corner her.
+Dialogue: 0,0:22:39.16,0:22:42.97,Main,Fuyu,0000,0000,0000,,Sounds like something the yakuza would do.
+Dialogue: 0,0:22:44.68,0:22:46.28,Main,Kane,0000,0000,0000,,What did you say?
+Dialogue: 0,0:22:46.28,0:22:50.96,Main,Fuyu,0000,0000,0000,,Not that it has anything to do with me.
+Dialogue: 0,0:22:58.71,0:22:59.70,Main,Hida,0000,0000,0000,,Irokawa-san.
+Dialogue: 0,0:23:00.66,0:23:02.08,Main,Kao,0000,0000,0000,,Wait, Hida-san.
+Dialogue: 0,0:23:04.11,0:23:05.65,Main,Kao,0000,0000,0000,,No, wait.
+Dialogue: 0,0:23:05.65,0:23:08.06,Main,Hida,0000,0000,0000,,Look, Iro— Irokawa-san!
+Dialogue: 0,0:23:08.06,0:23:10.43,Main,,0000,0000,0000,,U-Um...
+Dialogue: 0,0:23:10.43,0:23:12.99,Main,Kao,0000,0000,0000,,Could I take a shower first?
+Dialogue: 0,0:23:14.84,0:23:15.90,Main,Hida,0000,0000,0000,,You're right.
+Dialogue: 0,0:23:15.90,0:23:18.93,Main,Kazu,0000,0000,0000,,Kaoru-chan!
+Dialogue: 0,0:23:22.24,0:23:23.88,Main,Kao,0000,0000,0000,,Now what?
+Dialogue: 0,0:23:24.81,0:23:27.32,Main,Kao,0000,0000,0000,,I can't exactly leave now.
+Dialogue: 0,0:23:32.12,0:23:35.60,Main,Kao,0000,0000,0000,,Oh, yeah, some information.
+Dialogue: 0,0:23:35.60,0:23:38.75,Main,Kao,0000,0000,0000,,Information... information...
+Dialogue: 0,0:23:45.78,0:23:47.69,Main,Kao,0000,0000,0000,,He's got a lot of money.
+Dialogue: 0,0:23:52.33,0:23:54.10,Main,Kao,0000,0000,0000,,What are these papers?
+Dialogue: 0,0:24:02.60,0:24:06.20,Main,Kao,0000,0000,0000,,I should have stayed out of this.
+Dialogue: 0,0:24:07.68,0:24:10.03,Main,Kao,0000,0000,0000,,I can't do this.
+Dialogue: 0,0:24:10.03,0:24:11.05,Main,Hida,0000,0000,0000,,Can't do what?
+Dialogue: 0,0:24:11.05,0:24:12.92,Main,kao,0000,0000,0000,,What else? His...
+Dialogue: 0,0:24:16.19,0:24:17.39,Main,kao,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:24:22.20,0:24:25.03,Main,Kao,0000,0000,0000,,Um... Eh? How was your shower?
+Dialogue: 0,0:24:25.03,0:24:28.95,Main,Hida,0000,0000,0000,,Something seemed off, so I made \Na phone call to your office.
+Dialogue: 0,0:24:29.46,0:24:32.98,Main,Hida,0000,0000,0000,,They said they never heard of any \Noffer from the city of Kanekure.
+Dialogue: 0,0:24:32.98,0:24:37.43,Main,Kao,0000,0000,0000,,Well, but it is still confidential news, \Neven in our own company...
+Dialogue: 0,0:24:37.43,0:24:42.44,Main,Hida,0000,0000,0000,,Also, they said the president has no daughter.
+Dialogue: 0,0:24:43.54,0:24:45.23,Main,Hida,0000,0000,0000,,So you're a fraud?
+Dialogue: 0,0:24:45.75,0:24:48.15,Main,Kao,0000,0000,0000,,No, no, I was just—
+Dialogue: 0,0:24:49.82,0:24:51.12,Main,Kao,0000,0000,0000,,What was that for?
+Dialogue: 0,0:24:51.12,0:24:53.00,Main,Hida,0000,0000,0000,,Isn't that obvious?
+Dialogue: 0,0:25:04.18,0:25:05.32,Main,Kao,0000,0000,0000,,Please stop.
+Dialogue: 0,0:25:06.16,0:25:08.54,Main,Kao,0000,0000,0000,,I'm sorry for looking through your bag.
+Dialogue: 0,0:25:09.46,0:25:12.08,Main,Kao,0000,0000,0000,,So please, don't be violent.
+Dialogue: 0,0:25:12.08,0:25:14.44,Main,Hida,0000,0000,0000,,Don't order me around, you scammer!
+Dialogue: 0,0:25:15.85,0:25:18.41,Main,Hida,0000,0000,0000,,This is just self-defense.
+Dialogue: 0,0:25:19.49,0:25:22.76,Main,Kazu,0000,0000,0000,,Excuse me... Housekeeping here!
+Dialogue: 0,0:25:22.76,0:25:23.92,Main,Kao,0000,0000,0000,,Kazuma?
+Dialogue: 0,0:25:24.48,0:25:27.01,Main,Kao,0000,0000,0000,,That guy's freaking abusive!
+Dialogue: 0,0:25:27.60,0:25:31.81,Main,Kao,0000,0000,0000,,I'm going to sue him for assault \Nand cut him down to size!
+Dialogue: 0,0:25:31.81,0:25:33.55,Main,Kane,0000,0000,0000,,Are you stupid?
+Dialogue: 0,0:25:33.55,0:25:37.00,Main,Kane,0000,0000,0000,,You met him under a fake identity.
+Dialogue: 0,0:25:37.56,0:25:40.60,Main,Kane,0000,0000,0000,,Who's going to believe you if you play the victim?
+Dialogue: 0,0:25:40.60,0:25:42.43,Main,Kao,0000,0000,0000,,But I can't let him get away with this!
+Dialogue: 0,0:25:42.43,0:25:44.91,Main,Kane,0000,0000,0000,,We only needed pictures of \Nyou being intimate with him.
+Dialogue: 0,0:25:44.91,0:25:46.59,Main,,0000,0000,0000,,How useless can you be?!
+Dialogue: 0,0:25:46.59,0:25:47.27,Main,Kane,0000,0000,0000,,You idiot!
+Dialogue: 0,0:25:48.88,0:25:51.74,Main,Natsu,0000,0000,0000,,We found out who Hida was in touch with.
+Dialogue: 0,0:25:54.56,0:25:56.01,Main,Natsu,0000,0000,0000,,A guy named Saruwatari.
+Dialogue: 0,0:25:56.01,0:25:59.12,Main,,0000,0000,0000,,He works at the prefectural office, \Nin the engineering department.
+Dialogue: 0,0:25:59.12,0:26:01.41,Main,Natsu,0000,0000,0000,,Apparently, they went drinking quite often.
+Dialogue: 0,0:26:00.08,0:26:01.99,bids,Natsu,0000,0000,0000,,Mount Kanekure Tunnel Construction \NBid Report
+Dialogue: 0,0:26:01.99,0:26:06.98,Main,Natsu,0000,0000,0000,,The bidding for the tunnel construction \Nhad a lot of evaluation criteria.
+Dialogue: 0,0:26:06.98,0:26:07.65,Main,kao,0000,0000,0000,,Tunnel?
+Dialogue: 0,0:26:07.65,0:26:12.10,Main,nat,0000,0000,0000,,I heard that every company was trying \Nto find out the most important criteria.
+Dialogue: 0,0:26:13.15,0:26:15.64,Main,nat,0000,0000,0000,,I bet Hida got his hands on that information.
+Dialogue: 0,0:26:15.64,0:26:17.80,Main,nat,0000,0000,0000,,The bidding is on Monday, right?
+Dialogue: 0,0:26:17.80,0:26:20.84,Main,nat,0000,0000,0000,,We just need to nab whoever's \Nin charge and make them talk.
+Dialogue: 0,0:26:20.84,0:26:22.81,Main,nat,0000,0000,0000,,Then we can nail Hida with collusive bidding.
+Dialogue: 0,0:26:22.81,0:26:24.60,Main,Natsu,0000,0000,0000,,We can't do that.
+Dialogue: 0,0:26:24.60,0:26:28.28,Main,Natsu,0000,0000,0000,,The person in charge took \Ntime off and went on a trip.
+Dialogue: 0,0:26:28.28,0:26:29.18,Main,Kane,0000,0000,0000,,A trip?
+Dialogue: 0,0:26:29.58,0:26:33.38,Main,Natsu,0000,0000,0000,,Our only other option is to \Nsteal the bid documents.
+Dialogue: 0,0:26:34.50,0:26:37.48,Main,,0000,0000,0000,,Oh... Um...
+Dialogue: 0,0:26:37.48,0:26:39.82,Main,Kao,0000,0000,0000,,If you're talking about those papers, \NI took pictures of them.
+Dialogue: 0,0:26:39.82,0:26:40.26,Main,Natsu,0000,0000,0000,,Huh?
+Dialogue: 0,0:26:43.48,0:26:44.51,Main,Kao,0000,0000,0000,,Look.
+Dialogue: 0,0:26:47.08,0:26:49.87,Main,Kao,0000,0000,0000,,Just so you know, \NI am doing my job, too.
+Dialogue: 0,0:26:50.32,0:26:52.04,Main,Kane,0000,0000,0000,,There's nothing here.
+Dialogue: 0,0:26:52.76,0:26:55.48,Main,Kane,0000,0000,0000,,Nothing, nothing, nothing, nothing, nothing!
+Dialogue: 0,0:26:55.48,0:26:59.36,Main,Fuyu,0000,0000,0000,,No one would walk around with \Nimportant documents like that.
+Dialogue: 0,0:26:59.84,0:27:03.21,Main,Kane,0000,0000,0000,,Why did you take pictures of real \Nestate pamphlets and his license?
+Dialogue: 0,0:27:03.60,0:27:06.12,Main,Kane,0000,0000,0000,,These are all useless, you idiot.
+Dialogue: 0,0:27:08.44,0:27:10.39,Main,Kane,0000,0000,0000,,Anyway, the bid closes the day after tomorrow.
+Dialogue: 0,0:27:10.39,0:27:11.16,Main,Kane,0000,0000,0000,,Let's go.
+Dialogue: 0,0:27:11.16,0:27:12.03,Main,nat,0000,0000,0000,,Okay.
+Dialogue: 0,0:27:15.63,0:27:17.28,Main,Fuyu,0000,0000,0000,,You got what you deserved.
+Dialogue: 0,0:27:17.84,0:27:20.64,Main,Fuyu,0000,0000,0000,,This is what you get for saying you \Ncan do something that you can't.
+Dialogue: 0,0:27:48.16,0:27:50.02,Main,shi,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:27:52.15,0:27:53.63,Main,Kao,0000,0000,0000,,Chief...
+Dialogue: 0,0:27:57.83,0:27:59.46,Main,Kao,0000,0000,0000,,It's nothing.
+Dialogue: 0,0:28:00.61,0:28:01.30,Main,Kao,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:28:02.04,0:28:04.50,Main,shi,0000,0000,0000,,It may be painful,
+Dialogue: 0,0:28:05.11,0:28:09.93,Main,,0000,0000,0000,,but you've got nothing left to lose.
+Dialogue: 0,0:28:11.51,0:28:15.93,Main,shi,0000,0000,0000,,Like when someone at the scene of a fire\Nsuddenly develops superhuman strength,
+Dialogue: 0,0:28:17.00,0:28:22.69,Main,shi,0000,0000,0000,,humans are strongest when they're \Nstanding at the edge of an abyss.
+Dialogue: 0,0:28:23.84,0:28:29.51,Main,shi,0000,0000,0000,,Everyone who works here \Nwas at that point once.
+Dialogue: 0,0:28:32.71,0:28:39.94,Main,shi,0000,0000,0000,,I feel like you could become that strong, too.
+Dialogue: 0,0:28:53.61,0:28:54.65,Main,Kazu,0000,0000,0000,,Welcome back.
+Dialogue: 0,0:28:57.16,0:28:59.12,Main,Kao,0000,0000,0000,,Don't just come in here.
+Dialogue: 0,0:28:59.12,0:29:00.56,Main,Kazu,0000,0000,0000,,But I bet you're hungry.
+Dialogue: 0,0:29:07.73,0:29:09.12,Main,Kao,0000,0000,0000,,Thanks...
+Dialogue: 0,0:29:10.53,0:29:11.64,Main,,0000,0000,0000,,for saving me.
+Dialogue: 0,0:29:12.25,0:29:14.57,Main,Kazu,0000,0000,0000,,You think I'd just leave you?
+Dialogue: 0,0:29:19.94,0:29:23.80,Main,Kao,0000,0000,0000,,I still can't believe that abusive bastard.
+Dialogue: 0,0:29:25.38,0:29:28.65,Main,Kao,0000,0000,0000,,Normally, scum like that would \Nget thrown in jail for assault.
+Dialogue: 0,0:29:29.14,0:29:30.82,Main,,0000,0000,0000,,He won't get away with this.
+Dialogue: 0,0:29:31.72,0:29:32.89,Main,Kazu,0000,0000,0000,,What if he hadn't been violent?
+Dialogue: 0,0:29:35.80,0:29:37.44,Main,Kazu,0000,0000,0000,,If he had been a normal guy?
+Dialogue: 0,0:29:40.06,0:29:41.10,Main,Kazu,0000,0000,0000,,Would you have done him?
+Dialogue: 0,0:29:43.28,0:29:44.11,Main,Kazu,0000,0000,0000,,Ow!
+Dialogue: 0,0:29:44.11,0:29:45.70,Main,Kao,0000,0000,0000,,Don't talk like that about me!
+Dialogue: 0,0:29:45.70,0:29:46.78,Main,Kazu,0000,0000,0000,,Okay, yeah, that's domestic violence.
+Dialogue: 0,0:29:46.78,0:29:47.71,Main,Kao,0000,0000,0000,,Shut up!
+Dialogue: 0,0:29:48.23,0:29:51.20,Main,Kao,0000,0000,0000,,Everyone asking me to fool around with him...
+Dialogue: 0,0:29:51.20,0:29:53.08,Main,,0000,0000,0000,,I'm not some cat in heat!
+Dialogue: 0,0:29:53.08,0:29:54.07,Main,Kazu,0000,0000,0000,,Okay, I'm sorry, I'm sorry!
+Dialogue: 0,0:29:54.07,0:29:55.45,Main,Kazu,0000,0000,0000,,I got it! I got it! Let's just eat, okay?
+Dialogue: 0,0:29:55.45,0:29:57.08,Main,Kazu,0000,0000,0000,,Come on, it's getting cold.
+Dialogue: 0,0:29:58.30,0:29:59.88,Main,Kazu,0000,0000,0000,,Come on, I'm sorry.
+Dialogue: 0,0:30:07.12,0:30:07.96,Main,Kazu,0000,0000,0000,,Did it get in your cut?
+Dialogue: 0,0:30:10.51,0:30:11.39,Main,Kao,0000,0000,0000,,It's too good.
+Dialogue: 0,0:30:13.22,0:30:13.83,Main,Kazu,0000,0000,0000,,Oh, yeah.
+Dialogue: 0,0:30:16.24,0:30:19.18,Main,Kazu,0000,0000,0000,,Your mailbox was full, \Nso I put the mail over there.
+Dialogue: 0,0:30:19.18,0:30:21.15,Main,Kazu,0000,0000,0000,,You got a ton of "We've missed you" notices.
+Dialogue: 0,0:30:21.87,0:30:23.72,Main,Kazu,0000,0000,0000,,And you haven't paid\Nyour electric bill, have you?
+Dialogue: 0,0:30:23.72,0:30:25.41,Main,Kazu,0000,0000,0000,,They'll turn it off sooner or later.
+Dialogue: 0,0:30:25.41,0:30:27.45,Main,Kao,0000,0000,0000,,I'll cross that bridge when I get to it.
+Dialogue: 0,0:30:33.45,0:30:36.59,Flashback_Italics,Hida,0000,0000,0000,,Yes, please send it to my residence, as always.
+Dialogue: 0,0:30:37.66,0:30:40.19,Flashback_Italics,Hida,0000,0000,0000,,And make sure it looks like private mail.
+Dialogue: 0,0:30:40.51,0:30:43.42,Flashback_Italics,Kazu,0000,0000,0000,,You should go on a vacation, Saruwatari-san.
+Dialogue: 0,0:30:43.42,0:30:44.40,Main,Kazu,0000,0000,0000,,What's up?
+Dialogue: 0,0:30:46.41,0:30:49.71,Main,Kao,0000,0000,0000,,A guy who hits women shouldn't be allowed
+Dialogue: 0,0:30:51.26,0:30:53.96,Main,,0000,0000,0000,,to go on leading a normal life... right?
+Dialogue: 0,0:30:53.96,0:30:55.28,Main,Kazu,0000,0000,0000,,That's right, that's right!
+Dialogue: 0,0:30:57.12,0:31:00.73,Main,Kao,0000,0000,0000,,And being treated like incompetent \Ntrash by that blondie pisses me off, too.
+Dialogue: 0,0:31:00.73,0:31:02.09,Main,Kazu,0000,0000,0000,,That's right, that's right!
+Dialogue: 0,0:31:06.28,0:31:07.95,Main,Kao,0000,0000,0000,,That domestic violence pig.
+Dialogue: 0,0:31:09.61,0:31:12.48,Main,Kao,0000,0000,0000,,I will cut you down to size.
+Dialogue: 0,0:31:14.39,0:31:16.02,Day Before Bid Txt,txt,0000,0000,0000,,{\fad(450,1)\c&H0A0A0B&}Day {\c&HBE23E0&}Before{\c&H0A0A0B&} the Bid
+Dialogue: 0,0:31:14.39,0:31:16.02,Main,Kiri,0000,0000,0000,,A fake driver's license?
+Dialogue: 0,0:31:17.12,0:31:20.76,Main,Kao,0000,0000,0000,,I want you to switch this guy's \Npicture with his picture.
+Dialogue: 0,0:31:21.24,0:31:22.66,Main,Kiri,0000,0000,0000,,I'll do it, but it'll be expensive.
+Dialogue: 0,0:31:24.52,0:31:25.90,Main,Kao,0000,0000,0000,,I know.
+Dialogue: 0,0:31:51.81,0:31:54.83,Main,Work,0000,0000,0000,,No luck. We couldn't find any \Npapers related to the bidding.
+Dialogue: 0,0:31:54.83,0:31:56.80,Main,Kane,0000,0000,0000,,I see.
+Dialogue: 0,0:31:58.88,0:32:00.37,Main,Kane,0000,0000,0000,,Here. Thank you.
+Dialogue: 0,0:32:00.37,0:32:01.47,Main,Work,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:32:11.03,0:32:12.24,Main,Post,0000,0000,0000,,Hida-san?
+Dialogue: 0,0:32:12.65,0:32:14.31,Main,Post,0000,0000,0000,,Letter for you.
+Dialogue: 0,0:32:41.72,0:32:43.06,Main,,0000,0000,0000,,Yes! Yes!
+Dialogue: 0,0:32:46.28,0:32:47.99,Main,Man,0000,0000,0000,,Hida-san? All right.
+Dialogue: 0,0:33:12.24,0:33:13.70,bid list,Doc,0000,0000,0000,,Bid Evaluation List
+Dialogue: 0,0:33:13.70,0:33:14.62,Main,Kao,0000,0000,0000,,All right.
+Dialogue: 0,0:33:19.42,0:33:22.01,Main,Hida,0000,0000,0000,,Saruwatari-san? What happened to my letter?
+Dialogue: 0,0:33:22.50,0:33:25.28,Main,Saru,0000,0000,0000,,What do you mean? \NI sent it like you told me to.
+Dialogue: 0,0:33:23.45,0:33:25.28,Left_Names_00:36,,0000,0000,0000,,{\fad(420,1)\fad(315,1)\c&HC4B2A4&}Saru{\c&HC1FFFC&}watari \N{\c&HDDE69A&}Prefectural Office \NEmployee
+Dialogue: 0,0:33:25.28,0:33:27.90,Main,Hida,0000,0000,0000,,Well, I haven't gotten it.
+Dialogue: 0,0:33:27.90,0:33:30.24,Main,Hida,0000,0000,0000,,Please check with the \Npostal service right away.
+Dialogue: 0,0:33:30.24,0:33:31.62,Main,Hida,0000,0000,0000,,A prefectural office worker \Nmust have some pull.
+Dialogue: 0,0:33:31.62,0:33:36.03,Main,Saru,0000,0000,0000,,Don't be crazy. It's a Sunday!
+Dialogue: 0,0:33:36.03,0:33:40.08,Main,Saru,0000,0000,0000,,Besides, I'm on vacation \Nright now, like you suggested!
+Dialogue: 0,0:33:40.08,0:33:43.23,Main,Wife,0000,0000,0000,,Look this way, darling. Say "cheese."
+Dialogue: 0,0:33:43.72,0:33:47.52,Main,Hida,0000,0000,0000,,Well, then, first thing tomorrow, please.
+Dialogue: 0,0:33:47.52,0:33:49.00,Main,Hida,0000,0000,0000,,First thing in the morning!
+Dialogue: 0,0:33:54.16,0:33:55.44,Main,Mari,0000,0000,0000,,Honey.
+Dialogue: 0,0:33:56.76,0:33:58.28,Main,,0000,0000,0000,,Is something wrong?
+Dialogue: 0,0:33:58.28,0:34:00.88,Main,Hida,0000,0000,0000,,Why do you always have to butt in?
+Dialogue: 0,0:34:04.22,0:34:05.53,Main,Kao,0000,0000,0000,,This is unbelievable.
+Dialogue: 0,0:34:05.53,0:34:07.39,Main,Kao,0000,0000,0000,,He's even beating his own wife.
+Dialogue: 0,0:34:09.73,0:34:10.60,Main,Kazu,0000,0000,0000,,Whoa, whoa, whoa!
+Dialogue: 0,0:34:12.25,0:34:14.75,Main,,0000,0000,0000,,If you go over there now, \Nthe whole plan will be ruined.
+Dialogue: 0,0:34:14.75,0:34:17.10,Main,Kao,0000,0000,0000,,But I can't stand for this!
+Dialogue: 0,0:34:17.10,0:34:17.84,Main,Kao,0000,0000,0000,,I won't stand for it!
+Dialogue: 0,0:34:17.84,0:34:19.05,Main,Kazu,0000,0000,0000,,No, no, no!
+Dialogue: 0,0:34:25.03,0:34:26.24,Main,Kiri,0000,0000,0000,,Welcome.
+Dialogue: 0,0:34:27.84,0:34:28.51,Main,Kane,0000,0000,0000,,Beer.
+Dialogue: 0,0:34:29.05,0:34:30.33,Main,Natsu,0000,0000,0000,,Same.
+Dialogue: 0,0:34:33.04,0:34:36.25,Main,Natsu,0000,0000,0000,,Maybe they did it via email.
+Dialogue: 0,0:34:36.55,0:34:41.09,Main,kan,0000,0000,0000,,No, because email can be \Ntraced and used as evidence.
+Dialogue: 0,0:34:43.63,0:34:47.94,Main,kan,0000,0000,0000,,Looks like the incompetent \Nidiot ruined our one chance.
+Dialogue: 0,0:34:48.45,0:34:50.66,Main,Kao,0000,0000,0000,,Say whatever you want.
+Dialogue: 0,0:34:51.68,0:34:52.33,Main,Kane,0000,0000,0000,,Huh?
+Dialogue: 0,0:34:52.84,0:34:55.10,Main,Natsu,0000,0000,0000,,You're sure taking this easy.
+Dialogue: 0,0:34:56.62,0:34:58.80,Main,Natsu,0000,0000,0000,,People who use violence
+Dialogue: 0,0:34:58.80,0:35:02.23,Main,,0000,0000,0000,,and threats to control anyone \Nweaker than themselves...
+Dialogue: 0,0:35:02.23,0:35:03.87,Main,,0000,0000,0000,,I will not
+Dialogue: 0,0:35:05.89,0:35:07.01,Main,,0000,0000,0000,,stand for it!
+Dialogue: 0,0:35:11.83,0:35:13.80,Main,Natsu,0000,0000,0000,,Keep the change.
+Dialogue: 0,0:35:17.78,0:35:19.26,Main,Natsu,0000,0000,0000,,What's wrong with her?
+Dialogue: 0,0:35:20.59,0:35:22.16,Main,Kazu,0000,0000,0000,,Sorry for the wait!
+Dialogue: 0,0:35:24.52,0:35:25.86,Main,Kazu,0000,0000,0000,,Where's Kaoru-chan?
+Dialogue: 0,0:35:25.86,0:35:27.55,Main,Kiri,0000,0000,0000,,She just stormed out like Joan of Arc.
+Dialogue: 0,0:35:27.55,0:35:30.50,Main,Kazu,0000,0000,0000,,What? And I thought we could celebrate...
+Dialogue: 0,0:35:31.50,0:35:32.20,Main,Kane,0000,0000,0000,,Celebrate?
+Dialogue: 0,0:35:32.64,0:35:35.69,Main,Kazu,0000,0000,0000,,Hey, those scary faces won't work on me.
+Dialogue: 0,0:35:35.69,0:35:39.18,Main,Kazu,0000,0000,0000,,I promised Kaoru-chan that I \Nwouldn't say a word to you guys.
+Dialogue: 0,0:35:40.83,0:35:42.27,Main,Natsu,0000,0000,0000,,Yeah, well...
+Dialogue: 0,0:35:42.27,0:35:44.98,Main,Natsu,0000,0000,0000,,I'd sure love to hear it.
+Dialogue: 0,0:35:44.98,0:35:46.27,Main,Kazu,0000,0000,0000,,I can't tell you!
+Dialogue: 0,0:35:46.26,0:35:48.33,Main,Kazu,0000,0000,0000,,A promise is a promise!
+Dialogue: 0,0:35:48.96,0:35:51.79,Main,Kazu,0000,0000,0000,,I will not crack under pressure...
+Dialogue: 0,0:35:52.94,0:35:53.73,Main,,0000,0000,0000,,for free.
+Dialogue: 0,0:35:54.84,0:35:56.97,Main,Kiri,0000,0000,0000,,Yep, loser, right there.
+Dialogue: 0,0:35:56.97,0:35:58.13,Main,Kane,0000,0000,0000,,How much do you want?
+Dialogue: 0,0:35:59.14,0:36:00.16,Main,Kazu,0000,0000,0000,,3,000.
+Dialogue: 0,0:36:01.27,0:36:03.07,Day Before Bid Txt,,0000,0000,0000,,{\fad(415,1)}Day {\c&HBE23E0&}of{\c&H040405&} the Bid
+Dialogue: 0,0:36:01.93,0:36:03.07,Main,bos,0000,0000,0000,,Can you make it on time?!
+Dialogue: 0,0:36:03.07,0:36:05.13,Main,Hida,0000,0000,0000,,We have all the documents.
+Dialogue: 0,0:36:05.13,0:36:07.05,Main,Hida,0000,0000,0000,,We just need to plug in the numbers.
+Dialogue: 0,0:36:07.05,0:36:10.40,Main,Guy,0000,0000,0000,,We had originally decided to \Nstay out of the tunnel construction.
+Dialogue: 0,0:36:10.40,0:36:14.73,Main,Guy,0000,0000,0000,,And you went ahead and \Nordered all those materials.
+Dialogue: 0,0:36:14.73,0:36:17.16,Main,,0000,0000,0000,,If this fails, we're looking at a huge loss!
+Dialogue: 0,0:36:17.16,0:36:19.77,Main,Guy2,0000,0000,0000,,Are you ready to take responsibility for this?
+Dialogue: 0,0:36:19.77,0:36:21.43,Main,Guy3,0000,0000,0000,,It is exactly as you say, sir.
+Dialogue: 0,0:36:21.43,0:36:23.73,Main,Guy3,0000,0000,0000,,Hida-kun, how are you going to \Ntake responsibility for this?
+Dialogue: 0,0:36:23.73,0:36:25.55,Main,Hida,0000,0000,0000,,But, sir...
+Dialogue: 0,0:36:28.92,0:36:30.04,Main,Hida,0000,0000,0000,,It's from the post office.
+Dialogue: 0,0:36:30.04,0:36:31.28,Main,Hida,0000,0000,0000,,It's finally there.
+Dialogue: 0,0:36:32.36,0:36:33.81,Main,Hida,0000,0000,0000,,Hello? Did you find it?
+Dialogue: 0,0:36:35.00,0:36:35.76,Main,Hida,0000,0000,0000,,What?
+Dialogue: 0,0:36:36.97,0:36:38.82,Main,Hida,0000,0000,0000,,I picked it up yesterday?
+Dialogue: 0,0:36:38.82,0:36:39.85,Main,Hida,0000,0000,0000,,Me?
+Dialogue: 0,0:36:41.04,0:36:44.37,Main,Hida,0000,0000,0000,,Please give me the driver's license number.
+Dialogue: 0,0:36:46.46,0:36:49.62,Main,Hida,0000,0000,0000,,Yes, that is indeed my license number.
+Dialogue: 0,0:36:50.85,0:36:51.60,Main,Hida,0000,0000,0000,,What?
+Dialogue: 0,0:36:51.60,0:36:53.75,Main,Guy,0000,0000,0000,,It's fine, Hida-kun!
+Dialogue: 0,0:36:54.72,0:36:56.76,Main,Guy,0000,0000,0000,,We'll figure out what to \Ndo with you right away.
+Dialogue: 0,0:36:56.76,0:36:59.31,Main,Hida,0000,0000,0000,,P-P-P-Please wait!
+Dialogue: 0,0:36:59.31,0:37:00.87,Main,Hida,0000,0000,0000,,I know for a fact that we can get the bid!
+Dialogue: 0,0:37:00.87,0:37:03.37,Main,Hida,0000,0000,0000,,No other business can clear \Nthe evaluation criteria!
+Dialogue: 0,0:37:03.37,0:37:04.96,Main,Guy,0000,0000,0000,,I said it's fine!
+Dialogue: 0,0:37:06.72,0:37:08.95,Main,Hida,0000,0000,0000,,It is {\i1}not{\i0} fine!
+Dialogue: 0,0:37:10.37,0:37:15.22,Main,Hida,0000,0000,0000,,Do you have any idea how much time and \Nmoney I have poured into this bid?!
+Dialogue: 0,0:37:15.22,0:37:17.54,Main,Hida,0000,0000,0000,,I cozied up to the guys \Nat the prefectural office,
+Dialogue: 0,0:37:17.54,0:37:20.08,Main,,0000,0000,0000,,all to get the documents in perfect order!
+Dialogue: 0,0:37:20.89,0:37:24.45,Main,Hida,0000,0000,0000,,I'm the only one at our company \Nwho could do something like this!
+Dialogue: 0,0:37:25.12,0:37:30.59,Main,Guy,0000,0000,0000,,Are you saying that you're turning \Nyourself in for collusive bidding?
+Dialogue: 0,0:37:33.09,0:37:40.66,hospital,,0000,0000,0000,,Ishii Hospital
+Dialogue: 0,0:37:47.70,0:37:50.00,Main,Kao,0000,0000,0000,,I met your husband at a party
+Dialogue: 0,0:37:50.84,0:37:52.76,Main,,0000,0000,0000,,and he assaulted me.
+Dialogue: 0,0:37:54.69,0:37:56.64,Main,Kao,0000,0000,0000,,That made me think that
+Dialogue: 0,0:37:57.40,0:37:59.81,Main,,0000,0000,0000,,perhaps the same thing \Nhad happened to you.
+Dialogue: 0,0:38:01.28,0:38:02.98,Main,Mari,0000,0000,0000,,It hasn't.
+Dialogue: 0,0:38:03.90,0:38:07.25,Main,Kao,0000,0000,0000,,But didn't your husband hit you last night?
+Dialogue: 0,0:38:09.40,0:38:10.39,Main,Kao,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:38:11.07,0:38:13.44,Main,Kao,0000,0000,0000,,I was worried, so I went to check.
+Dialogue: 0,0:38:19.36,0:38:22.00,Main,Kao,0000,0000,0000,,Don't you think you should leave him?
+Dialogue: 0,0:38:24.07,0:38:26.42,Main,Kao,0000,0000,0000,,Your husband has been \Nusing you and your father
+Dialogue: 0,0:38:26.42,0:38:28.87,Main,,0000,0000,0000,,to further his own career.
+Dialogue: 0,0:38:34.07,0:38:37.37,Main,Kao,0000,0000,0000,,You need to take better care of yourself.
+Dialogue: 0,0:38:39.32,0:38:41.24,Main,Kao,0000,0000,0000,,Why don't you set yourself free?
+Dialogue: 0,0:38:45.71,0:38:47.94,Main,Kao,0000,0000,0000,,I will help you.
+Dialogue: 0,0:38:51.56,0:38:56.64,Main,Jia,0000,0000,0000,,That brat has been demoted to \Nguard some remote warehouse.
+Dialogue: 0,0:38:59.32,0:39:02.61,Main,Jia,0000,0000,0000,,Thanks to that, we didn't even \Nhave to pay him that compensation.
+Dialogue: 0,0:39:02.61,0:39:06.44,Main,Jia,0000,0000,0000,,But hey, all's well that ends well.
+Dialogue: 0,0:39:06.97,0:39:09.19,Main,Jia,0000,0000,0000,,How did you guys do it, anyway?
+Dialogue: 0,0:39:09.19,0:39:11.08,Main,Kane,0000,0000,0000,,Well, we have our ways.
+Dialogue: 0,0:39:12.62,0:39:14.45,Main,Jia,0000,0000,0000,,Your so-called trade secrets?
+Dialogue: 0,0:39:14.45,0:39:15.56,Main,Jia,0000,0000,0000,,That's all fine.
+Dialogue: 0,0:39:15.56,0:39:19.12,Main,Jia,0000,0000,0000,,Let me show you my gratitude.
+Dialogue: 0,0:39:22.19,0:39:26.01,Main,Kane,0000,0000,0000,,This is Natsume's and my commission.
+Dialogue: 0,0:39:27.20,0:39:29.17,Main,Kane,0000,0000,0000,,You take the rest.
+Dialogue: 0,0:39:32.45,0:39:33.94,Main,Kao,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:39:55.25,0:39:55.86,Main,Kane,0000,0000,0000,,What?
+Dialogue: 0,0:39:56.41,0:39:57.28,Main,Kao,0000,0000,0000,,Nothing.
+Dialogue: 0,0:39:58.50,0:40:01.22,Main,,0000,0000,0000,,I just didn't think I'd get this much.
+Dialogue: 0,0:40:04.52,0:40:08.12,Main,Kane,0000,0000,0000,,There's no doubt that it was \Nyou who cut Hida down to size.
+Dialogue: 0,0:40:09.97,0:40:12.00,Main,Kane,0000,0000,0000,,And you didn't use your body, either.
+Dialogue: 0,0:40:12.00,0:40:14.37,Main,,0000,0000,0000,,You used your brains.
+Dialogue: 0,0:40:17.22,0:40:20.48,Main,Kao,0000,0000,0000,,Well, then... I've got some work left to do.
+Dialogue: 0,0:40:22.28,0:40:24.22,Main,Kane,0000,0000,0000,,Don't stick your nose in \Nwhere it doesn't belong.
+Dialogue: 0,0:40:26.40,0:40:27.26,Main,Kao,0000,0000,0000,,Huh?
+Dialogue: 0,0:40:27.96,0:40:33.71,Main,Kane,0000,0000,0000,,I'm sure you're off to do \Nsomething all compassionate.
+Dialogue: 0,0:40:39.44,0:40:44.43,Main,Kao,0000,0000,0000,,I don't want to become a fixer like you.
+Dialogue: 0,0:40:45.67,0:40:47.21,Main,Kao,0000,0000,0000,,If I'm going to get involved in incidents,
+Dialogue: 0,0:40:48.33,0:40:50.48,Main,,0000,0000,0000,,I want to save people.
+Dialogue: 0,0:40:51.49,0:40:53.21,Main,Kao,0000,0000,0000,,It's not wrong for a fixer \Nlike that to exist, right?
+Dialogue: 0,0:40:56.69,0:40:58.69,Main,Kane,0000,0000,0000,,Do as you like.
+Dialogue: 0,0:41:09.68,0:41:11.60,Main,Fuyu,0000,0000,0000,,She won that round.
+Dialogue: 0,0:41:11.60,0:41:15.27,Main,Guy,0000,0000,0000,,Unusual to see you pay out like that, though.
+Dialogue: 0,0:41:15.27,0:41:17.67,Main,Kane,0000,0000,0000,,I didn't need that pocket change.
+Dialogue: 0,0:41:19.96,0:41:21.64,Main,Natsu,0000,0000,0000,,Sorry to keep you all waiting.
+Dialogue: 0,0:41:21.64,0:41:23.53,Main,Natsu,0000,0000,0000,,The president is here.
+Dialogue: 0,0:41:23.53,0:41:28.68,Main,gor,0000,0000,0000,,Kaneko-san, the bid documents I got \Nfrom this youngster here were spot on!
+Dialogue: 0,0:41:28.68,0:41:30.42,Main,kaz,0000,0000,0000,,Aww, thanks.
+Dialogue: 0,0:41:30.42,0:41:36.19,Main,gor,0000,0000,0000,,We won the bid for the Mount Kanekure \Ntunnel construction a day early!
+Dialogue: 0,0:41:39.03,0:41:43.63,Main,kan,0000,0000,0000,,{\i1}This{\i0} is what I was after.
+Dialogue: 0,0:41:46.04,0:41:47.52,Main,hid,0000,0000,0000,,Damn it.
+Dialogue: 0,0:41:48.88,0:41:51.06,Main,,0000,0000,0000,,Why did this happen to me?
+Dialogue: 0,0:41:53.22,0:41:55.61,Main,,0000,0000,0000,,Damn it!
+Dialogue: 0,0:42:00.52,0:42:03.88,Main,mic,0000,0000,0000,,Honey! Honey! Are you okay?
+Dialogue: 0,0:42:05.42,0:42:08.33,Main,hid,0000,0000,0000,,You're just here to make fun of me, aren't you?
+Dialogue: 0,0:42:08.88,0:42:11.12,Main,,0000,0000,0000,,You think I'm just a loser!
+Dialogue: 0,0:42:13.08,0:42:14.42,Main,hid,0000,0000,0000,,Damn it!
+Dialogue: 0,0:42:16.12,0:42:18.65,Main,,0000,0000,0000,,What am I supposed to do?
+Dialogue: 0,0:42:22.20,0:42:25.94,Main,kao,0000,0000,0000,,Mariko-san, it's me, Kanzaki.
+Dialogue: 0,0:42:28.95,0:42:29.77,Main,hid,0000,0000,0000,,Her...
+Dialogue: 0,0:42:31.16,0:42:32.46,Main,,0000,0000,0000,,Did you call her?
+Dialogue: 0,0:42:32.46,0:42:34.69,Main,mic,0000,0000,0000,,It's not... I just wanted to help you...
+Dialogue: 0,0:42:34.69,0:42:36.18,Main,hid,0000,0000,0000,,Don't screw with me!
+Dialogue: 0,0:42:41.28,0:42:43.73,Main,hid,0000,0000,0000,,You even called the police?!
+Dialogue: 0,0:42:47.98,0:42:49.76,Main,cop,0000,0000,0000,,Is this the Hida residence?
+Dialogue: 0,0:42:49.76,0:42:50.66,Main,kao,0000,0000,0000,,Yes.
+Dialogue: 0,0:42:50.66,0:42:52.53,Main,kao,0000,0000,0000,,His wife called you, right?
+Dialogue: 0,0:42:52.53,0:42:53.68,Main,kao,0000,0000,0000,,Hida is inside.
+Dialogue: 0,0:42:53.68,0:42:54.66,Main,kao,0000,0000,0000,,Please.
+Dialogue: 0,0:42:54.66,0:42:56.57,Main,cop,0000,0000,0000,,Wait... Huh?
+Dialogue: 0,0:42:57.38,0:43:00.08,Main,,0000,0000,0000,,Are you Kanzaki?
+Dialogue: 0,0:43:00.08,0:43:00.54,Main,kao,0000,0000,0000,,What?
+Dialogue: 0,0:43:01.06,0:43:03.27,Main,cop,0000,0000,0000,,Can you come to the station with us?
+Dialogue: 0,0:43:03.50,0:43:05.85,Main,kao,0000,0000,0000,,Wait, wait, wait... Hang on!
+Dialogue: 0,0:43:07.93,0:43:10.31,Main,kao,0000,0000,0000,,That's her. She's the one who threatened me.
+Dialogue: 0,0:43:11.78,0:43:16.07,Main,kao,0000,0000,0000,,She followed me around and \Ncoerced me to leave my husband.
+Dialogue: 0,0:43:16.07,0:43:18.07,Main,kao,0000,0000,0000,,Wait, that's not what happened.
+Dialogue: 0,0:43:18.07,0:43:19.36,Main,kao,0000,0000,0000,,You're being abused by your husba—
+Dialogue: 0,0:43:19.36,0:43:21.82,Main,mic,0000,0000,0000,,I have not been abused!
+Dialogue: 0,0:43:25.73,0:43:29.98,Main,mic,0000,0000,0000,,I've only been able to live because \Nthis man's been by my side.
+Dialogue: 0,0:43:31.36,0:43:33.96,Main,mic,0000,0000,0000,,He married a woman like me.
+Dialogue: 0,0:43:33.96,0:43:37.18,Main,mic,0000,0000,0000,,Every day, he eats every bite \Nof the lunches I pack him.
+Dialogue: 0,0:43:37.89,0:43:39.27,Main,mic,0000,0000,0000,,He's always been with me.
+Dialogue: 0,0:43:42.36,0:43:47.01,Main,mic,0000,0000,0000,,I don't care if he uses me, or \Nwhatever he does. I need this man!
+Dialogue: 0,0:43:48.55,0:43:51.44,Main,mic,0000,0000,0000,,Don't stick your nose into business \Nthat doesn't concern you!
+Dialogue: 0,0:43:52.07,0:43:55.86,Main,mic,0000,0000,0000,,What does a little girl like \Nyou even know about marriage?!
+Dialogue: 0,0:44:01.73,0:44:05.40,Main,cop,0000,0000,0000,,She filed a damage report with us.
+Dialogue: 0,0:44:08.16,0:44:10.16,Main,,0000,0000,0000,,Wait, wait...
+Dialogue: 0,0:44:10.16,0:44:11.56,Main,kao,0000,0000,0000,,Wait a minute!
+Dialogue: 0,0:44:11.56,0:44:13.15,Main,kao,0000,0000,0000,,He's the one abusing her!
+Dialogue: 0,0:44:13.15,0:44:14.51,Main,kao,0000,0000,0000,,Let go of me!
+Dialogue: 0,0:44:14.51,0:44:15.54,Main,kao,0000,0000,0000,,I didn't do it!
+Dialogue: 0,0:44:16.05,0:44:17.18,Main,fuy,0000,0000,0000,,Kanzaki got arrested?
+Dialogue: 0,0:44:18.91,0:44:21.60,Main,fuy,0000,0000,0000,,All right. I'll call back later.
+Dialogue: 0,0:44:24.25,0:44:28.11,Main,kan,0000,0000,0000,,That's why I told her she \Nshouldn't stick her nose in.
+Dialogue: 0,0:44:28.11,0:44:29.89,Main,nuk,0000,0000,0000,,But I wonder what she did.
+Dialogue: 0,0:44:30.33,0:44:33.92,Main,nat,0000,0000,0000,,Maybe she went to beat down Hida.
+Dialogue: 0,0:44:33.92,0:44:35.18,Main,kan,0000,0000,0000,,Doesn't matter.
+Dialogue: 0,0:44:35.97,0:44:38.80,Main,,0000,0000,0000,,Now she won't be able \Nto work here anymore.
+Dialogue: 0,0:44:38.80,0:44:41.49,Main,fuy,0000,0000,0000,,Are you sure you can relax like that?
+Dialogue: 0,0:44:41.97,0:44:43.76,Main,fuy,0000,0000,0000,,You know her.
+Dialogue: 0,0:44:44.29,0:44:49.38,Main,,0000,0000,0000,,If the police grill her a bit, she might \Ntalk about everything she's seen here.
+Dialogue: 0,0:44:49.38,0:44:51.00,Main,all,0000,0000,0000,,That's not good!
+Dialogue: 0,0:44:52.20,0:44:56.99,Main,fuy,0000,0000,0000,,If she does, it might even affect the chief.
+Dialogue: 0,0:44:58.37,0:45:01.05,Main,fuy,0000,0000,0000,,Can you take responsibility for that?
+Dialogue: 0,0:45:05.53,0:45:08.66,Main,kao,0000,0000,0000,,Wait, wait. This is some sort of mistake.
+Dialogue: 0,0:45:08.66,0:45:10.52,Main,kao,0000,0000,0000,,I never threatened anyone!
+Dialogue: 0,0:45:10.52,0:45:13.66,Main,cop,0000,0000,0000,,It's not just threats, but \Nalso breaking and entering.
+Dialogue: 0,0:45:13.66,0:45:16.62,Main,cop,0000,0000,0000,,According to her, their yard was all messed up.
+Dialogue: 0,0:45:16.62,0:45:17.50,Main,kao,0000,0000,0000,,But...
+Dialogue: 0,0:45:17.50,0:45:22.74,Main,cop,0000,0000,0000,,You're going to tell us every \Nlittle thing you've been doing.
+Dialogue: 0,0:45:24.25,0:45:26.70,Main,kao,0000,0000,0000,,Wait! Open this door!
+Dialogue: 0,0:45:26.70,0:45:29.85,Main,,0000,0000,0000,,All I tried to do was save a \Nvictim of domestic violence!
+Dialogue: 0,0:45:29.85,0:45:33.89,Main,kao,0000,0000,0000,,That's the truth! Open this door!
+Dialogue: 0,0:45:34.25,0:45:35.82,preview1 kaoru under arrest,,0000,0000,0000,,Kaoru under arrest!
+Dialogue: 0,0:45:34.60,0:45:35.82,Main,,0000,0000,0000,,Arrested?
+Dialogue: 0,0:45:35.82,0:45:37.22,Main,,0000,0000,0000,,Stop blaming yourself!
+Dialogue: 0,0:45:37.22,0:45:41.26,preview 2 money or friendship,,0000,0000,0000,,Should one choose {\c&H1807F5&}money, {\c&H1FF7E6&}or {\c&H1807F5&}friendship?
+Dialogue: 0,0:45:37.94,0:45:40.36,Main,,0000,0000,0000,,All they did was use you.
+Dialogue: 0,0:45:40.36,0:45:42.10,Main,,0000,0000,0000,,Are you trying to threaten me?
+Dialogue: 0,0:45:41.26,0:45:42.93,preview 3,,0000,0000,0000,,{\a6\c&H1807F5&}Betrayal {\c&H1FF7E6&}brings {\c&H1807F5&}revenge—
+Dialogue: 0,0:45:42.10,0:45:44.73,Main,,0000,0000,0000,,I wanted to believe... in people.
+Dialogue: 0,0:45:46.03,0:45:47.47,Main,,0000,0000,0000,,Kaoru-chan, is business going well?
+Dialogue: 0,0:45:47.71,0:45:49.57,Main,,0000,0000,0000,,It's not okay.
+Dialogue: 0,0:45:51.39,0:45:53.91,Main,,0000,0000,0000,,To be honest, I want to just end it.
+Dialogue: 0,0:45:53.91,0:45:56.24,Main,,0000,0000,0000,,I can't just treat this \Nlike it doesn't concern me.
+Dialogue: 0,0:45:56.24,0:45:57.51,Main,,0000,0000,0000,,Didn't you hear me?
+Dialogue: 0,0:45:59.14,0:46:00.08,Main,,0000,0000,0000,,Do you want to die?
+Dialogue: 0,0:46:00.08,0:46:03.32,Main,,0000,0000,0000,,You idiot. Take this!
+Dialogue: 0,0:46:04.19,0:46:06.63,Main,,0000,0000,0000,,{\i1}Gokuaku Ganbo {\i0}is a fictional drama.
+Dialogue: 0,0:46:07.36,0:46:10.43,Main,,0000,0000,0000,,A lot of illegal things happened in this episode,
+Dialogue: 0,0:46:10.88,0:46:13.92,Main,,0000,0000,0000,,but if you were to actually attempt \Nthem, you would be arrested.
+Dialogue: 0,0:46:14.27,0:46:19.93,Main,,0000,0000,0000,,So obviously, please be careful \Nto not put yourself in harm's way.
+Dialogue: 0,0:46:19.93,0:46:26.59,fiction,,0000,0000,0000,,{\fad(515,1)}This drama is fiction. \NAlso, it is illegal for an unqualified individual \Nto intervene in others' problems for a reward.

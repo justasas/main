@@ -1,0 +1,1391 @@
+1
+00:00:18,686 --> 00:00:21,188
+<i>Ahsoka Tano captured!</i>
+
+2
+00:00:21,256 --> 00:00:23,290
+<i>While on the run to prove her innocence,</i>
+
+3
+00:00:23,358 --> 00:00:26,526
+<i>Padawan Tano teamed up
+with the deadly Asajj Ventress</i>
+
+4
+00:00:26,593 --> 00:00:30,496
+<i>to find the rogue Jedi
+who framed Ahsoka for murder.</i>
+
+5
+00:00:30,564 --> 00:00:32,898
+<i>The Jedi Council sent Anakin Skywalker</i>
+
+6
+00:00:32,966 --> 00:00:35,901
+<i>and Master Plo Koon to track Ahsoka down</i>
+
+7
+00:00:35,969 --> 00:00:38,069
+<i>and bring her back to the Temple.</i>
+
+8
+00:00:38,137 --> 00:00:39,871
+<i>Now captured and imprisoned,</i>
+
+9
+00:00:39,939 --> 00:00:44,609
+<i>Ahsoka faces punishment
+for crimes she did not commit.</i>
+
+10
+00:00:44,676 --> 00:00:47,478
+<i>The Senate requests
+that Ahsoka Tano be indicted</i>
+
+11
+00:00:47,546 --> 00:00:50,381
+<i>for acts of treason
+against the Republic.</i>
+
+12
+00:00:50,449 --> 00:00:53,350
+A fair trial Padawan Tano will have
+
+13
+00:00:53,418 --> 00:00:55,720
+in accordance with Jedi tradition.
+
+14
+00:00:55,788 --> 00:00:58,389
+<i>Ah, yes, Jedi tradition.</i>
+
+15
+00:00:58,456 --> 00:01:00,057
+<i>I'm afraid, Master Yoda,</i>
+
+16
+00:01:00,125 --> 00:01:03,594
+<i>that the Senate believes
+that an internal Jedi trial</i>
+
+17
+00:01:03,662 --> 00:01:05,830
+<i>would seem biased.</i>
+
+18
+00:01:05,898 --> 00:01:07,465
+<i>Therefore, the Senate asks</i>
+
+19
+00:01:07,533 --> 00:01:11,369
+<i>that the Council expel
+Ahsoka Tano from the Jedi Order</i>
+
+20
+00:01:11,437 --> 00:01:14,205
+<i>so that she may be put
+to a Republic Military tribunal,</i>
+
+21
+00:01:14,273 --> 00:01:17,609
+<i>where she will receive
+more impartial judgment.</i>
+
+22
+00:01:17,677 --> 00:01:22,347
+And who would represent Ahsoka
+in this tribunal, Admiral?
+
+23
+00:01:22,414 --> 00:01:25,016
+<i>That would be up
+to the Council, General,</i>
+
+24
+00:01:25,084 --> 00:01:28,186
+<i>but I would recommend
+someone outside the Order.</i>
+
+25
+00:01:28,253 --> 00:01:29,787
+Of course.
+
+26
+00:01:29,855 --> 00:01:33,390
+The Council will act
+as they deem necessary.
+
+27
+00:01:33,458 --> 00:01:37,094
+Thank you, Admiral.
+
+28
+00:01:37,162 --> 00:01:40,097
+Surely we cannot do
+what Tarkin suggests.
+
+29
+00:01:40,164 --> 00:01:42,598
+We need to stand together with Ahsoka.
+
+30
+00:01:42,666 --> 00:01:44,900
+And yet there's evidence
+that she is indeed
+
+31
+00:01:44,968 --> 00:01:47,769
+the mastermind behind the attack
+on the Temple.
+
+32
+00:01:47,837 --> 00:01:52,439
+She was found in possession
+of nanodroid explosives.
+
+33
+00:01:52,507 --> 00:01:54,742
+This alone is enough to convict her.
+
+34
+00:01:54,809 --> 00:01:57,510
+I understand your sentiment,
+Obi-Wan,
+
+35
+00:01:57,578 --> 00:02:00,113
+but if the Council does as you suggest,
+
+36
+00:02:00,181 --> 00:02:02,049
+it could be seen as an act of opposition
+
+37
+00:02:02,116 --> 00:02:03,649
+to the Senate.
+
+38
+00:02:03,717 --> 00:02:07,186
+I'm afraid we have little choice.
+
+39
+00:02:07,253 --> 00:02:09,021
+Hmm.
+
+40
+00:02:09,089 --> 00:02:10,556
+To the Chamber of Judgment,
+
+41
+00:02:10,624 --> 00:02:13,258
+summon Skywalker and his Padawan,
+
+42
+00:02:13,326 --> 00:02:17,261
+and in our decision,
+may the Force guide us.
+
+43
+00:02:31,375 --> 00:02:33,009
+You're not helping.
+
+44
+00:02:34,478 --> 00:02:36,245
+I'm sorry, Snips.
+
+45
+00:02:36,313 --> 00:02:39,046
+I just... I just don't know
+what to do.
+
+46
+00:02:39,114 --> 00:02:40,147
+It's okay.
+
+47
+00:02:40,215 --> 00:02:41,415
+I don't either.
+
+48
+00:03:20,449 --> 00:03:21,983
+Padawan Tano,
+
+49
+00:03:22,050 --> 00:03:25,286
+serious charges
+have been levied against you.
+
+50
+00:03:25,354 --> 00:03:27,122
+How plead you?
+
+51
+00:03:27,189 --> 00:03:28,723
+Not guilty, Master.
+
+52
+00:03:28,791 --> 00:03:31,526
+I would never take the lives
+of innocents.
+
+53
+00:03:31,594 --> 00:03:34,495
+The values of the Jedi are sacred to me.
+
+54
+00:03:34,563 --> 00:03:36,732
+There is evidence to the contrary.
+
+55
+00:03:36,799 --> 00:03:39,168
+You were alone with
+Letta Turmond when she died.
+
+56
+00:03:39,235 --> 00:03:40,969
+Can you explain this?
+
+57
+00:03:41,037 --> 00:03:43,770
+Someone used the Force against her.
+
+58
+00:03:43,838 --> 00:03:45,472
+Which brings us to Ventress.
+
+59
+00:03:45,540 --> 00:03:47,975
+Can you explain your association
+with her?
+
+60
+00:03:48,042 --> 00:03:50,944
+We had a mutual understanding.
+
+61
+00:03:51,012 --> 00:03:52,346
+I thought she was helping me.
+
+62
+00:03:52,413 --> 00:03:54,413
+Did you she help you acquire
+the nanodroid weaponry
+
+63
+00:03:54,448 --> 00:03:55,815
+found when you were apprehended,
+
+64
+00:03:55,883 --> 00:03:58,050
+the same devices used
+in the bombing of the Temple?
+
+65
+00:03:58,118 --> 00:04:01,687
+No, I was set up and deceived,
+
+66
+00:04:01,755 --> 00:04:03,823
+as you are being deceived now.
+
+67
+00:04:03,890 --> 00:04:06,091
+The question is, Padawan Tano,
+
+68
+00:04:06,158 --> 00:04:08,126
+who is deceiving us?
+
+69
+00:04:08,194 --> 00:04:10,595
+Ventress, you, or someone else?
+
+70
+00:04:10,663 --> 00:04:12,530
+I am not deceiving you.
+
+71
+00:04:12,598 --> 00:04:14,833
+I would assume Ventress is,
+
+72
+00:04:14,901 --> 00:04:16,400
+but I can't be sure.
+
+73
+00:04:16,468 --> 00:04:19,202
+My sense is clouded.
+
+74
+00:04:19,270 --> 00:04:21,004
+Clouded by the dark side
+
+75
+00:04:21,072 --> 00:04:23,205
+these things are, Padawan Tano.
+
+76
+00:04:23,273 --> 00:04:25,107
+Dangerously clouded,
+
+77
+00:04:25,175 --> 00:04:27,142
+but not just surrounding you,
+
+78
+00:04:27,209 --> 00:04:30,011
+surrounding many things in these times.
+
+79
+00:04:30,078 --> 00:04:32,780
+You've already made
+your decision, haven't you?
+
+80
+00:04:32,848 --> 00:04:36,183
+This meeting is just a formality!
+
+81
+00:04:37,251 --> 00:04:39,619
+Reached a decision, we have,
+
+82
+00:04:39,686 --> 00:04:42,455
+though not in total agreement are we.
+
+83
+00:04:42,523 --> 00:04:44,691
+It is the Council's opinion
+
+84
+00:04:44,758 --> 00:04:46,993
+that Padawan Ahsoka Tano
+has committed sedition
+
+85
+00:04:47,061 --> 00:04:48,461
+against the Republic,
+
+86
+00:04:48,529 --> 00:04:53,999
+and thus, she will be expelled
+from the Jedi Order.
+
+87
+00:04:54,067 --> 00:04:55,434
+You can't do this!
+
+88
+00:04:55,501 --> 00:04:58,503
+Your Padawan status
+will be stripped from you,
+
+89
+00:04:58,571 --> 00:05:00,872
+and you shall forfeit
+all rank and privileges
+
+90
+00:05:00,939 --> 00:05:03,641
+within the Grand Army of the Republic.
+
+91
+00:05:03,709 --> 00:05:05,743
+You will be turned over
+to the Republic courts
+
+92
+00:05:05,811 --> 00:05:07,278
+to await your trail
+
+93
+00:05:07,346 --> 00:05:10,148
+and whatever punishment
+they will set for you.
+
+94
+00:05:10,215 --> 00:05:14,750
+Henceforth, you are barred
+from the Jedi Order.
+
+95
+00:05:30,032 --> 00:05:32,667
+Padmé has agreed to represent
+you before the Senate.
+
+96
+00:05:32,735 --> 00:05:36,070
+I will do everything I can
+to prove your innocence, Ahsoka.
+
+97
+00:05:36,137 --> 00:05:38,472
+I am almost certain
+that the person behind this
+
+98
+00:05:38,540 --> 00:05:39,674
+is Ventress,
+
+99
+00:05:39,741 --> 00:05:42,177
+and you know I wasn't working with her.
+
+100
+00:05:42,244 --> 00:05:43,845
+She was at the warehouse...
+
+101
+00:05:43,913 --> 00:05:44,845
+in the room.
+
+102
+00:05:44,913 --> 00:05:47,448
+We fought, but she got away.
+
+103
+00:05:47,516 --> 00:05:51,753
+Didn't any of the clones see anything?
+
+104
+00:05:51,821 --> 00:05:54,489
+No, none of the clones
+reported seeing Ventress
+
+105
+00:05:54,557 --> 00:05:56,057
+at the scene.
+
+106
+00:05:56,125 --> 00:05:57,425
+I thought you said Ventress left
+
+107
+00:05:57,493 --> 00:05:59,193
+before you went into the warehouse.
+
+108
+00:05:59,261 --> 00:06:00,695
+That's what I thought, too,
+
+109
+00:06:00,762 --> 00:06:03,131
+but then she attacked me
+when I got inside.
+
+110
+00:06:03,198 --> 00:06:05,733
+I'd know her red lightsabers anywhere.
+
+111
+00:06:05,801 --> 00:06:09,536
+Well, if that's our only lead,
+then I know what I have to do.
+
+112
+00:06:09,604 --> 00:06:11,572
+Wait, where are you going?
+
+113
+00:06:11,639 --> 00:06:13,073
+You can't leave now.
+
+114
+00:06:13,141 --> 00:06:15,275
+Yes, I can.
+
+115
+00:06:15,343 --> 00:06:19,478
+I have to find Ventress
+and get to the bottom of this.
+
+116
+00:06:19,546 --> 00:06:21,647
+Until we hear from Anakin,
+
+117
+00:06:21,715 --> 00:06:23,349
+let's work on your defense.
+
+118
+00:06:24,618 --> 00:06:26,852
+Forgive me if I'm not optimistic.
+
+119
+00:06:26,920 --> 00:06:29,353
+I thought I was part of that Order,
+
+120
+00:06:29,421 --> 00:06:32,923
+but everyone, except Anakin,
+has abandoned me.
+
+121
+00:06:32,991 --> 00:06:34,191
+I'm not holding out much hope
+
+122
+00:06:34,259 --> 00:06:36,160
+the Senate will treat me any better.
+
+123
+00:07:15,979 --> 00:07:19,114
+Anakin Skywalker.
+
+124
+00:07:19,182 --> 00:07:21,146
+I know you're behind all of this.
+
+125
+00:07:21,266 --> 00:07:22,933
+Prove it.
+
+126
+00:07:32,743 --> 00:07:34,643
+Leave me alone.
+
+127
+00:07:47,455 --> 00:07:48,955
+Tell me what happened.
+
+128
+00:07:50,725 --> 00:07:53,660
+When I heard your little brat
+was on the run,
+
+129
+00:07:53,727 --> 00:07:56,661
+I thought she might bring
+a large bounty.
+
+130
+00:07:56,729 --> 00:07:58,396
+Bounty?
+
+131
+00:07:58,464 --> 00:08:00,165
+I was going to catch your pet
+
+132
+00:08:00,233 --> 00:08:02,567
+and turn her over to the authorities,
+
+133
+00:08:02,635 --> 00:08:06,372
+collect whatever bounty was due.
+
+134
+00:08:06,440 --> 00:08:07,440
+What stopped you?
+
+135
+00:08:10,076 --> 00:08:14,113
+At first... I admit... I was
+just interested in the money
+
+136
+00:08:14,181 --> 00:08:16,449
+and a little bit of revenge,
+
+137
+00:08:16,517 --> 00:08:19,918
+but then I realized
+your fallen Padawan and I
+
+138
+00:08:19,986 --> 00:08:22,387
+had a lot in common.
+
+139
+00:08:22,455 --> 00:08:25,458
+How dare you compare yourself to Ahsoka?
+
+140
+00:08:25,525 --> 00:08:27,826
+It's true.
+
+141
+00:08:27,894 --> 00:08:31,329
+My master abandoned me,
+
+142
+00:08:31,396 --> 00:08:36,300
+and that's exactly what you did to her,
+
+143
+00:08:36,368 --> 00:08:40,137
+you and your precious Jedi Order.
+
+144
+00:09:34,553 --> 00:09:36,920
+Ahsoka Tano,
+
+145
+00:09:36,988 --> 00:09:39,056
+you have been charged with sedition
+
+146
+00:09:39,123 --> 00:09:43,761
+against the Jedi Order
+and the Republic itself.
+
+147
+00:09:43,828 --> 00:09:47,297
+This court will decide your fate.
+
+148
+00:09:47,364 --> 00:09:51,367
+Prosecution, you may begin
+your arguments.
+
+149
+00:09:54,572 --> 00:09:56,607
+Former Padawan Tano,
+
+150
+00:09:56,674 --> 00:09:59,308
+I shall prove
+that you were the mastermind
+
+151
+00:09:59,376 --> 00:10:02,145
+behind the attack on the Jedi Temple
+
+152
+00:10:02,213 --> 00:10:05,148
+and that once your accomplices
+carried out your orders,
+
+153
+00:10:05,216 --> 00:10:08,151
+you eliminated them one by one.
+
+154
+00:10:08,219 --> 00:10:09,818
+When you are found guilty,
+
+155
+00:10:09,886 --> 00:10:12,354
+I ask the court
+that the full extent of the law
+
+156
+00:10:12,422 --> 00:10:13,890
+be brought down upon you,
+
+157
+00:10:13,957 --> 00:10:16,825
+including penalty of death.
+
+158
+00:10:20,463 --> 00:10:22,598
+After I left the warehouse,
+
+159
+00:10:22,666 --> 00:10:25,768
+after I left your little Padawan alone,
+
+160
+00:10:25,836 --> 00:10:27,136
+I was walking away,
+
+161
+00:10:27,204 --> 00:10:30,306
+and I thought she came up
+behind me to talk more.
+
+162
+00:10:30,374 --> 00:10:31,807
+But I was wrong.
+
+163
+00:10:31,874 --> 00:10:35,076
+Someone came out of nowhere
+and hit me from behind.
+
+164
+00:10:35,144 --> 00:10:38,213
+Not just anyone can sneak up behind me.
+
+165
+00:10:38,281 --> 00:10:40,582
+It had to be another Jedi.
+
+166
+00:10:40,649 --> 00:10:41,949
+I don't believe you.
+
+167
+00:10:42,016 --> 00:10:43,283
+Believe it.
+
+168
+00:10:43,351 --> 00:10:46,286
+Whoever you're looking for
+has my lightsabers.
+
+169
+00:10:46,353 --> 00:10:48,454
+That's how you'll know
+you've found the criminal.
+
+170
+00:10:49,623 --> 00:10:51,557
+Well, this leads me to a dead end.
+
+171
+00:10:51,625 --> 00:10:55,526
+You're the only one
+Ahsoka had talked to.
+
+172
+00:10:55,594 --> 00:10:57,461
+That's not true.
+
+173
+00:10:57,529 --> 00:10:59,330
+What do you mean?
+
+174
+00:10:59,398 --> 00:11:01,833
+Your Padawan contacted the Temple.
+
+175
+00:11:01,901 --> 00:11:05,503
+She spoke to someone named Barriss.
+
+176
+00:11:05,571 --> 00:11:07,472
+That's why we knew
+to go to the warehouse
+
+177
+00:11:07,540 --> 00:11:08,840
+in the first place.
+
+178
+00:11:08,908 --> 00:11:12,745
+It was this Barriss
+that told us to go there.
+
+179
+00:11:12,812 --> 00:11:15,580
+If you're lying, you're dead.
+
+180
+00:11:15,648 --> 00:11:17,815
+Such promises.
+
+181
+00:11:21,520 --> 00:11:23,220
+Look at the facts.
+
+182
+00:11:23,288 --> 00:11:25,955
+Letta Turmond called Ahsoka to her cell
+
+183
+00:11:26,022 --> 00:11:28,090
+to reveal the name
+of the true mastermind
+
+184
+00:11:28,158 --> 00:11:29,992
+behind the bombing of the Jedi Temple.
+
+185
+00:11:30,060 --> 00:11:32,394
+Letta told Ahsoka she was afraid.
+
+186
+00:11:32,462 --> 00:11:35,264
+She told her the mastermind was a Jedi,
+
+187
+00:11:35,332 --> 00:11:37,899
+and before she could reveal
+the Jedi's name,
+
+188
+00:11:37,967 --> 00:11:40,135
+Letta Turmond was strangled to death
+
+189
+00:11:40,203 --> 00:11:41,737
+by way of the Force.
+
+190
+00:11:41,804 --> 00:11:44,306
+Why would Ahsoka kill Letta
+
+191
+00:11:44,374 --> 00:11:46,275
+with a method that would so obviously
+
+192
+00:11:46,343 --> 00:11:48,143
+tie the murder to her?
+
+193
+00:11:48,211 --> 00:11:51,346
+A Jedi may be responsible
+for the murder,
+
+194
+00:11:51,414 --> 00:11:54,550
+but that Jedi is not Ahsoka Tano.
+
+195
+00:11:54,617 --> 00:11:56,118
+Members of the court,
+
+196
+00:11:56,185 --> 00:11:59,021
+you are prosecuting the wrong Jedi.
+
+197
+00:12:01,022 --> 00:12:04,425
+Well said, Senator Amidala.
+
+198
+00:12:04,492 --> 00:12:06,627
+However, if she is innocent,
+
+199
+00:12:06,694 --> 00:12:10,230
+then why was she seen conspiring
+with known Separatist terrorist
+
+200
+00:12:10,297 --> 00:12:12,632
+Asajj Ventress?
+
+201
+00:12:12,700 --> 00:12:14,234
+Ventress set me up.
+
+202
+00:12:14,301 --> 00:12:16,169
+My master will prove that.
+
+203
+00:12:16,237 --> 00:12:18,405
+And where is your master?
+
+204
+00:12:18,473 --> 00:12:21,340
+He's trying to find the real murderer.
+
+205
+00:12:21,408 --> 00:12:25,444
+Then maybe he should be looking at you.
+
+206
+00:12:49,028 --> 00:12:51,730
+Enter.
+
+207
+00:12:51,798 --> 00:12:54,832
+Barriss, I need to talk to you.
+
+208
+00:12:54,900 --> 00:12:56,401
+Master Skywalker,
+
+209
+00:12:56,469 --> 00:12:58,236
+how can I help you?
+
+210
+00:12:58,303 --> 00:13:00,371
+I was told that you spoke with Ahsoka
+
+211
+00:13:00,439 --> 00:13:01,706
+before she was arrested.
+
+212
+00:13:01,774 --> 00:13:03,541
+What did you say to her?
+
+213
+00:13:03,609 --> 00:13:05,809
+We've been friends for a long time.
+
+214
+00:13:05,877 --> 00:13:07,711
+I was only trying to help her.
+
+215
+00:13:07,778 --> 00:13:09,412
+I hope I'm not in any trouble.
+
+216
+00:13:09,480 --> 00:13:10,947
+It's no trouble.
+
+217
+00:13:11,015 --> 00:13:13,417
+I just need to know what you told her
+
+218
+00:13:13,484 --> 00:13:14,885
+and if you told anyone else.
+
+219
+00:13:14,952 --> 00:13:17,787
+No, I thought I had a clue for her,
+
+220
+00:13:17,854 --> 00:13:19,755
+but I really couldn't tell her anything.
+
+221
+00:13:19,823 --> 00:13:21,657
+Who told you I spoke to her?
+
+222
+00:13:21,725 --> 00:13:23,292
+Ventress.
+
+223
+00:13:23,360 --> 00:13:24,861
+She told me.
+
+224
+00:13:24,929 --> 00:13:26,396
+Ventress?
+
+225
+00:13:26,463 --> 00:13:29,331
+Isn't she the one Ahsoka says
+is really behind all this?
+
+226
+00:13:29,399 --> 00:13:31,067
+That's what Ahsoka says,
+
+227
+00:13:31,135 --> 00:13:33,336
+but I think she's wrong.
+
+228
+00:13:33,404 --> 00:13:35,772
+Ventress thinks
+someone else is involved.
+
+229
+00:13:35,839 --> 00:13:37,673
+And you believe her?
+
+230
+00:13:37,741 --> 00:13:40,075
+Who else could it be if not her?
+
+231
+00:13:40,143 --> 00:13:41,410
+Surely not Ahsoka.
+
+232
+00:13:41,477 --> 00:13:45,681
+No, I don't think it was Ahsoka either.
+
+233
+00:13:45,748 --> 00:13:49,217
+I think both Ahsoka and Ventress
+are telling the truth,
+
+234
+00:13:49,285 --> 00:13:52,453
+but there's only one way to find out.
+
+235
+00:13:54,223 --> 00:13:57,925
+Funny.
+Those belong to Ventress.
+
+236
+00:14:00,261 --> 00:14:01,594
+You should've gotten rid of them!
+
+237
+00:14:01,662 --> 00:14:04,364
+I think they suit me.
+
+238
+00:14:08,035 --> 00:14:12,437
+I'm sure many of you
+look at this former Jedi
+
+239
+00:14:12,505 --> 00:14:16,074
+and think, "Surely
+she cannot be this murderer"
+
+240
+00:14:16,142 --> 00:14:19,044
+or saboteur that they speak of."
+
+241
+00:14:19,111 --> 00:14:22,347
+And yet think of all the times
+we have been fooled
+
+242
+00:14:22,415 --> 00:14:24,281
+by the Separatists
+
+243
+00:14:24,349 --> 00:14:26,484
+and how they have infiltrated
+the Republic
+
+244
+00:14:26,552 --> 00:14:28,686
+and ask yourself,
+
+245
+00:14:28,754 --> 00:14:33,590
+"Is this yet another
+Separatist scheme?"
+
+246
+00:14:33,658 --> 00:14:36,627
+Another way to rip the Jedi,
+
+247
+00:14:36,695 --> 00:14:39,564
+and subsequently all of us,
+
+248
+00:14:39,631 --> 00:14:41,199
+apart.
+
+249
+00:14:45,837 --> 00:14:48,906
+Ahsoka trusted you,
+and you betrayed her.
+
+250
+00:14:48,974 --> 00:14:50,641
+I've learned that trust is overrated.
+
+251
+00:14:50,709 --> 00:14:52,910
+The only thing
+the Jedi Council believes in
+
+252
+00:14:52,978 --> 00:14:54,145
+is violence.
+
+253
+00:15:12,729 --> 00:15:14,663
+Cease hostility!
+
+254
+00:15:21,303 --> 00:15:23,038
+Barriss!
+
+255
+00:15:41,288 --> 00:15:42,288
+Look out!
+
+256
+00:16:23,628 --> 00:16:27,896
+The members of the court
+have reached a decision.
+
+257
+00:16:37,038 --> 00:16:39,339
+Ahsoka Tano,
+
+258
+00:16:39,407 --> 00:16:41,875
+by an overwhelming count of...
+
+259
+00:16:41,943 --> 00:16:44,377
+Chancellor.
+
+260
+00:16:44,445 --> 00:16:46,612
+I hope you have a reason
+
+261
+00:16:46,680 --> 00:16:49,314
+for bursting into our proceedings,
+
+262
+00:16:49,382 --> 00:16:51,617
+Master Skywalker.
+
+263
+00:16:51,685 --> 00:16:54,853
+I'm here with evidence and a confession
+
+264
+00:16:54,921 --> 00:16:56,854
+from the person responsible
+for all the crimes
+
+265
+00:16:56,922 --> 00:16:59,857
+Ahsoka has been accused of.
+
+266
+00:16:59,925 --> 00:17:04,028
+Barriss Offee, member of the Jedi Order
+
+267
+00:17:04,096 --> 00:17:05,630
+and traitor.
+
+268
+00:17:11,436 --> 00:17:14,104
+Barriss, is that true?
+
+269
+00:17:14,172 --> 00:17:16,106
+Tell them the truth.
+
+270
+00:17:20,777 --> 00:17:22,544
+I did it
+
+271
+00:17:22,612 --> 00:17:24,379
+because I've come to realize
+
+272
+00:17:24,447 --> 00:17:25,914
+what many of people in the Republic
+
+273
+00:17:25,982 --> 00:17:27,415
+have come to realize,
+
+274
+00:17:27,483 --> 00:17:30,317
+that the Jedi are the ones
+responsible for this war,
+
+275
+00:17:30,384 --> 00:17:32,052
+that we've so lost our way
+
+276
+00:17:32,119 --> 00:17:34,521
+that we have become villains
+in this conflict,
+
+277
+00:17:34,588 --> 00:17:37,056
+that we are the ones
+that should be put on trial,
+
+278
+00:17:37,124 --> 00:17:39,225
+all of us!
+
+279
+00:17:39,293 --> 00:17:41,326
+And my attack on the Temple
+was an attack
+
+280
+00:17:41,394 --> 00:17:44,062
+on what the Jedi have become,
+
+281
+00:17:44,129 --> 00:17:47,065
+an army fighting for the dark side,
+
+282
+00:17:47,133 --> 00:17:49,801
+fallen from the light
+that we once held so dear.
+
+283
+00:17:49,869 --> 00:17:53,103
+This Republic is failing!
+
+284
+00:17:53,171 --> 00:17:56,140
+It's only a matter of time.
+
+285
+00:17:57,976 --> 00:18:00,611
+Take her away.
+
+286
+00:18:23,366 --> 00:18:25,299
+Ahsoka,
+
+287
+00:18:25,367 --> 00:18:27,735
+I am so sorry
+
+288
+00:18:27,803 --> 00:18:32,040
+about everything.
+
+289
+00:18:32,108 --> 00:18:34,442
+You have our most humble apologies,
+
+290
+00:18:34,510 --> 00:18:36,343
+little 'Soka.
+
+291
+00:18:36,411 --> 00:18:39,446
+The Council was wrong to accuse you.
+
+292
+00:18:39,514 --> 00:18:43,050
+You have shown such
+great strength and resilience
+
+293
+00:18:43,117 --> 00:18:46,487
+in your struggle
+to prove your innocence.
+
+294
+00:18:46,554 --> 00:18:49,856
+This is the true sign of a Jedi Knight.
+
+295
+00:18:49,923 --> 00:18:52,826
+This was actually your great trial.
+
+296
+00:18:52,893 --> 00:18:54,794
+Now we see that.
+
+297
+00:18:54,862 --> 00:18:57,564
+We understand that the Force
+works in mysterious ways,
+
+298
+00:18:57,632 --> 00:18:59,331
+and because of this trial,
+
+299
+00:18:59,399 --> 00:19:04,070
+you have become a greater Jedi
+than you would have otherwise.
+
+300
+00:19:04,138 --> 00:19:08,008
+Back into the Order you may come.
+
+301
+00:19:09,910 --> 00:19:12,578
+They're asking you back, Ahsoka.
+
+302
+00:19:15,282 --> 00:19:18,451
+<i>I'm</i> asking you back.
+
+303
+00:19:45,642 --> 00:19:47,976
+I'm sorry, Master,
+
+304
+00:19:48,044 --> 00:19:50,612
+but I'm not coming back.
+
+305
+00:20:22,342 --> 00:20:25,611
+Ahsoka, wait!
+
+306
+00:20:25,679 --> 00:20:28,613
+Ahsoka, I need to talk to you.
+
+307
+00:20:33,686 --> 00:20:36,488
+Why are you doing this?
+
+308
+00:20:36,556 --> 00:20:38,690
+The Council didn't trust me,
+
+309
+00:20:38,757 --> 00:20:41,092
+so how can I trust myself?
+
+310
+00:20:41,160 --> 00:20:42,827
+What about me?
+
+311
+00:20:42,895 --> 00:20:45,464
+I believed in you.
+I stood by you.
+
+312
+00:20:45,531 --> 00:20:48,366
+I know you believe in me, Anakin,
+
+313
+00:20:48,434 --> 00:20:50,568
+and I'm grateful for that.
+
+314
+00:20:50,635 --> 00:20:52,804
+But this isn't about you.
+
+315
+00:20:52,871 --> 00:20:56,006
+I can't stay here any longer,
+
+316
+00:20:56,074 --> 00:20:57,975
+not now.
+
+317
+00:20:58,043 --> 00:21:00,210
+The Jedi Order is your life.
+
+318
+00:21:00,278 --> 00:21:02,813
+You can't just throw it away like this.
+
+319
+00:21:02,880 --> 00:21:05,949
+Ahsoka, you are making a mistake.
+
+320
+00:21:06,017 --> 00:21:10,154
+Maybe, but I have
+to sort this out on my own,
+
+321
+00:21:10,221 --> 00:21:12,755
+without the Council
+
+322
+00:21:12,823 --> 00:21:14,623
+and without you.
+
+323
+00:21:16,927 --> 00:21:18,461
+I understand.
+
+324
+00:21:18,529 --> 00:21:20,630
+More than you realize,
+
+325
+00:21:20,698 --> 00:21:25,301
+I understand wanting
+to walk away from the Order.
+
+326
+00:21:27,037 --> 00:21:29,272
+I know.
+

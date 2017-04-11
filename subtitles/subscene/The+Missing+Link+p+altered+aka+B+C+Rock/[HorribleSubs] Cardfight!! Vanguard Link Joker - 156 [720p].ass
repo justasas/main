@@ -1,0 +1,296 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.66,0:00:03.73,Main Dialog,Spoken,0000,0000,0000,,You... Leon Souryu...
+Dialogue: 0,0:00:10.22,0:00:12.13,Main Dialog,Spoken,0000,0000,0000,,Thank you, Leon.
+Dialogue: 0,0:00:12.13,0:00:15.06,Main Dialog,Spoken,0000,0000,0000,,I won't let your fight go to waste.
+Dialogue: 0,0:00:16.20,0:00:17.99,Main Dialog,Spoken,0000,0000,0000,,It's my turn next!
+Dialogue: 0,0:00:18.40,0:00:21.25,Main Dialog,Spoken,0000,0000,0000,,I'm definitely going to beat you!
+Dialogue: 0,0:00:22.06,0:00:23.59,Main Dialog,Spoken,0000,0000,0000,,You little...
+Dialogue: 0,0:02:18.90,0:02:23.91,Signs,Sign,0000,0000,0000,,The One Who Cuts Through Chains
+Dialogue: 0,0:02:37.45,0:02:41.59,Main Dialog,Spoken,0000,0000,0000,,Half of him was used to \Nbring forth the future Leon.
+Dialogue: 0,0:02:41.59,0:02:45.97,Main Dialog,Spoken,0000,0000,0000,,It seems he took a lot of damage.
+Dialogue: 0,0:02:45.97,0:02:48.34,Main Dialog,Spoken,0000,0000,0000,,So what?
+Dialogue: 0,0:02:48.34,0:02:52.10,Main Dialog,Spoken,0000,0000,0000,,Even if I've lost power, \Nthere's no way I'll lose to you.
+Dialogue: 0,0:02:52.69,0:02:57.67,Main Dialog,Spoken,0000,0000,0000,,Aichi Sendou was defeated, \Nand Leon Souryu has run out of steam.
+Dialogue: 0,0:03:04.09,0:03:07.87,Main Dialog,Spoken,0000,0000,0000,,This is the final battle, as they say...
+Dialogue: 0,0:03:08.82,0:03:12.08,Main Dialog,Spoken,0000,0000,0000,,Before that, release Kourin!
+Dialogue: 0,0:03:12.08,0:03:13.88,Main Dialog,Spoken,0000,0000,0000,,She's an Earth girl!
+Dialogue: 0,0:03:13.88,0:03:15.01,Main Dialog,Spoken,0000,0000,0000,,Kourin?
+Dialogue: 0,0:03:15.70,0:03:17.30,Main Dialog,Spoken,0000,0000,0000,,Oh, that girl...
+Dialogue: 0,0:03:17.85,0:03:20.93,Main Dialog,Spoken,0000,0000,0000,,Not only that girl! \NYou used Suiko and Rekka, too!
+Dialogue: 0,0:03:22.50,0:03:28.93,Main Dialog,Spoken,0000,0000,0000,,In the first place, you called on them to become \Nyour pawns to help you operate on Earth.
+Dialogue: 0,0:03:28.93,0:03:32.04,Main Dialog,Spoken,0000,0000,0000,,You're the one who used them.
+Dialogue: 0,0:03:32.04,0:03:34.60,Main Dialog,Spoken,0000,0000,0000,,I just did the same thing.
+Dialogue: 0,0:03:34.60,0:03:36.94,Main Dialog,Spoken,0000,0000,0000,,What, have you become attached to them?
+Dialogue: 0,0:03:38.44,0:03:41.63,Main Dialog,Spoken,0000,0000,0000,,Shall we fight with the stakes \Nbeing your precious Cray and Earth,
+Dialogue: 0,0:03:41.63,0:03:45.57,Main Dialog,Spoken,0000,0000,0000,,as well as the fate of your pawns?
+Dialogue: 0,0:03:45.94,0:03:48.83,Main Dialog,Spoken,0000,0000,0000,,Although I think your \Nstruggling will be in vain.
+Dialogue: 0,0:03:51.37,0:03:54.05,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:03:56.83,0:03:59.09,Main Dialog,Spoken,0000,0000,0000,,Scarlet Lion Cub, Caria!
+Dialogue: 0,0:03:59.74,0:04:02.59,Main Dialog,Spoken,0000,0000,0000,,Star-vader, World Line Dragon!
+Dialogue: 0,0:04:02.59,0:04:05.34,Main Dialog,Spoken,0000,0000,0000,,I ride Star-vader, Rune Magician!
+Dialogue: 0,0:04:05.95,0:04:07.95,Main Dialog,Spoken,0000,0000,0000,,I ride Knight of Elegant Skills, Gareth!
+Dialogue: 0,0:04:08.82,0:04:11.96,Main Dialog,Spoken,0000,0000,0000,,Strike Star-vader, Krypton!
+Dialogue: 0,0:04:24.09,0:04:27.53,Main Dialog,Spoken,0000,0000,0000,,Forget it, Sharlene! Leon gave us orders.
+Dialogue: 0,0:04:27.53,0:04:29.92,Main Dialog,Spoken,0000,0000,0000,,He told us to wait here, remember?
+Dialogue: 0,0:04:29.92,0:04:31.04,Main Dialog,Spoken,0000,0000,0000,,But...
+Dialogue: 0,0:04:40.25,0:04:41.80,Main Dialog,Spoken,0000,0000,0000,,We've got company, huh?
+Dialogue: 0,0:04:42.74,0:04:44.16,Main Dialog,Spoken,0000,0000,0000,,Miwa, are you okay?
+Dialogue: 0,0:04:44.16,0:04:46.30,Main Dialog,Spoken,0000,0000,0000,,Yeah. No problem!
+Dialogue: 0,0:04:46.70,0:04:48.64,Main Dialog,Spoken,0000,0000,0000,,Hmph! This'll be fun!
+Dialogue: 0,0:04:48.64,0:04:52.06,Main Dialog,Spoken,0000,0000,0000,,This deck can't be held \Nin place by any case now!
+Dialogue: 0,0:04:52.06,0:04:56.31,Main Dialog,Spoken,0000,0000,0000,,I, Shingo Komoi,\N will protect Sendou to the end!
+Dialogue: 0,0:05:00.75,0:05:03.21,Main Dialog,Spoken,0000,0000,0000,,Here I go! My heart's on fire!
+Dialogue: 0,0:05:03.21,0:05:03.81,Main Dialog,Spoken,0000,0000,0000,,Naoki!
+Dialogue: 0,0:05:03.81,0:05:06.07,Main Dialog,Spoken,0000,0000,0000,,It's yellin', "Kick all their butts!"
+Dialogue: 0,0:05:06.07,0:05:06.90,Main Dialog,Spoken,0000,0000,0000,,Hey!
+Dialogue: 0,0:05:08.75,0:05:10.84,Main Dialog,Spoken,0000,0000,0000,,We've got no choice! \NLet's split up and beat 'em all!
+Dialogue: 0,0:05:10.84,0:05:11.95,Main Dialog,Spoken,0000,0000,0000,,Roger!
+Dialogue: 0,0:05:15.43,0:05:16.46,Main Dialog,Spoken,0000,0000,0000,,Wake up!
+Dialogue: 0,0:05:16.88,0:05:17.83,Main Dialog,Spoken,0000,0000,0000,,Take this!
+Dialogue: 0,0:05:24.42,0:05:27.26,Main Dialog,Spoken,0000,0000,0000,,I ride Infinite Zero Dragon!
+Dialogue: 0,0:05:27.64,0:05:29.80,Main Dialog,Spoken,0000,0000,0000,,Krypton, attack Viviane!
+Dialogue: 0,0:05:34.55,0:05:37.19,Main Dialog,Spoken,0000,0000,0000,,I absolutely will not let you have your way!
+Dialogue: 0,0:05:37.85,0:05:38.94,Main Dialog,Spoken,0000,0000,0000,,Draw!
+Dialogue: 0,0:05:39.97,0:05:41.77,Main Dialog,Spoken,0000,0000,0000,,Warrior enveloped in incandescence!
+Dialogue: 0,0:05:42.27,0:05:46.61,Main Dialog,Spoken,0000,0000,0000,,Use those glowing flames to lead \Nthe despairing people to hope!
+Dialogue: 0,0:05:46.93,0:05:48.70,Main Dialog,Spoken,0000,0000,0000,,I ride my avatar!
+Dialogue: 0,0:05:50.68,0:05:54.47,Main Dialog,Spoken,0000,0000,0000,,Incandescent Lion, Blond Ezel!
+Dialogue: 0,0:06:01.71,0:06:05.47,Main Dialog,Spoken,0000,0000,0000,,I thought I'd gotten rid of you long ago,
+Dialogue: 0,0:06:05.47,0:06:07.84,Main Dialog,Spoken,0000,0000,0000,,so I'm surprised to see you back.
+Dialogue: 0,0:06:08.83,0:06:14.22,Main Dialog,Spoken,0000,0000,0000,,Leon... and the other Cardfighters... \Nled me back.
+Dialogue: 0,0:06:14.77,0:06:17.23,Main Dialog,Spoken,0000,0000,0000,,That's a laugh.
+Dialogue: 0,0:06:18.02,0:06:21.23,Main Dialog,Spoken,0000,0000,0000,,I'm responsible for your existence here.
+Dialogue: 0,0:06:21.72,0:06:23.98,Main Dialog,Spoken,0000,0000,0000,,I'll definitely beat you!
+Dialogue: 0,0:06:24.27,0:06:25.82,Main Dialog,Spoken,0000,0000,0000,,Superior call!
+Dialogue: 0,0:06:28.17,0:06:29.32,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:06:32.71,0:06:33.89,Main Dialog,Spoken,0000,0000,0000,,Twin drive!
+Dialogue: 0,0:06:36.41,0:06:37.87,Main Dialog,Spoken,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:06:47.38,0:06:50.48,Main Dialog,Spoken,0000,0000,0000,,You think you're going to beat me?
+Dialogue: 0,0:06:50.48,0:06:51.94,Main Dialog,Spoken,0000,0000,0000,,Oh, please.
+Dialogue: 0,0:06:51.94,0:06:58.48,Main Dialog,Spoken,0000,0000,0000,,Do you really think you can defeat me\Njust because Leon stole some of my power?
+Dialogue: 0,0:07:00.73,0:07:02.60,Main Dialog,Spoken,0000,0000,0000,,Feel the terror!
+Dialogue: 0,0:07:03.70,0:07:05.11,Main Dialog,Spoken,0000,0000,0000,,Break ride!
+Dialogue: 0,0:07:05.76,0:07:09.43,Main Dialog,Spoken,0000,0000,0000,,Star-vader, Infinite Zero Dragon!
+Dialogue: 0,0:07:11.41,0:07:12.74,Main Dialog,Spoken,0000,0000,0000,,Break ride skill!
+Dialogue: 0,0:07:15.68,0:07:17.95,Main Dialog,Spoken,0000,0000,0000,,I lock two of your rear-guards!
+Dialogue: 0,0:07:23.42,0:07:27.63,Main Dialog,Spoken,0000,0000,0000,,Now, shiver in fear at \Nthe terror of Link Joker!
+Dialogue: 0,0:07:28.25,0:07:33.59,Main Dialog,Spoken,0000,0000,0000,,Your locked rear-guards can't do \Nanything until your next turn.
+Dialogue: 0,0:07:33.59,0:07:41.48,Main Dialog,Spoken,0000,0000,0000,,From here on in, you'll stay powerless, \Nabsorbing my attacks until you lose.
+Dialogue: 0,0:07:46.11,0:07:50.66,Main Dialog,Spoken,0000,0000,0000,,You should have just stayed \Nobediently spellbound.
+Dialogue: 0,0:07:50.66,0:07:53.35,Main Dialog,Spoken,0000,0000,0000,,Blame your powerless self for this.
+Dialogue: 0,0:07:55.74,0:07:57.53,Main Dialog,Spoken,0000,0000,0000,,Go, Krypton!
+Dialogue: 0,0:07:59.58,0:08:00.79,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:08:01.25,0:08:02.98,Main Dialog,Spoken,0000,0000,0000,,I like it!
+Dialogue: 0,0:08:02.98,0:08:07.96,Main Dialog,Spoken,0000,0000,0000,,Useless, yes, but it's boring if \Nyou don't resist me a little bit.
+Dialogue: 0,0:08:09.02,0:08:12.66,Main Dialog,Spoken,0000,0000,0000,,I haven't just been sidelined all this time!
+Dialogue: 0,0:08:12.66,0:08:17.05,Main Dialog,Spoken,0000,0000,0000,,I've been looking for the \Npower to crush Link Joker!
+Dialogue: 0,0:08:18.57,0:08:20.32,Main Dialog,Spoken,0000,0000,0000,,That doesn't exist!
+Dialogue: 0,0:08:20.32,0:08:24.46,Main Dialog,Spoken,0000,0000,0000,,All power is nullified before my locking!
+Dialogue: 0,0:08:24.46,0:08:26.56,Main Dialog,Spoken,0000,0000,0000,,It's a waste! It won't help you one bit!
+Dialogue: 0,0:08:29.32,0:08:30.69,Main Dialog,Spoken,0000,0000,0000,,We'll see.
+Dialogue: 0,0:08:34.53,0:08:36.57,Main Dialog,Spoken,0000,0000,0000,,I stand and draw!
+Dialogue: 0,0:08:38.48,0:08:40.45,Main Dialog,Spoken,0000,0000,0000,,Even under the rule of a long darkness,
+Dialogue: 0,0:08:40.98,0:08:44.33,Main Dialog,Spoken,0000,0000,0000,,light resides in strong hearts \Nthat haven't lost hope!
+Dialogue: 0,0:08:44.75,0:08:50.96,Main Dialog,Spoken,0000,0000,0000,,Look upon the brilliance of tenacious souls, \Nawakened by power that can crush the spell!
+Dialogue: 0,0:08:51.55,0:08:54.72,Main Dialog,Spoken,0000,0000,0000,,My avatar, obtain even more power!
+Dialogue: 0,0:08:55.46,0:08:57.00,Main Dialog,Spoken,0000,0000,0000,,Your holy blade!
+Dialogue: 0,0:08:57.47,0:08:59.97,Main Dialog,Spoken,0000,0000,0000,,Use it to break through the \Nchains of detestable darkness!
+Dialogue: 0,0:08:59.97,0:09:02.98,Main Dialog,Spoken,0000,0000,0000,,I ride my warrior of the shining heavens!
+Dialogue: 0,0:09:03.88,0:09:09.10,Main Dialog,Spoken,0000,0000,0000,,Salvation Lion, Grand Ezel Scissors!
+Dialogue: 0,0:09:11.22,0:09:14.74,Main Dialog,Spoken,0000,0000,0000,,Grand Ezel... Scissors?!
+Dialogue: 0,0:09:19.33,0:09:21.12,Main Dialog,Spoken,0000,0000,0000,,What is that light?!
+Dialogue: 0,0:09:21.12,0:09:25.71,Main Dialog,Spoken,0000,0000,0000,,This light smashes the spell of Link Joker!
+Dialogue: 0,0:09:25.83,0:09:27.25,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:09:29.56,0:09:31.67,Main Dialog,Spoken,0000,0000,0000,,Break through all locks!
+Dialogue: 0,0:09:32.34,0:09:34.67,Main Dialog,Spoken,0000,0000,0000,,Holy Dispel Scissors!
+Dialogue: 0,0:09:41.20,0:09:44.27,Main Dialog,Spoken,0000,0000,0000,,What?! It can't be!
+Dialogue: 0,0:09:44.27,0:09:47.00,Main Dialog,Spoken,0000,0000,0000,,My locks have been broken?!
+Dialogue: 0,0:09:52.34,0:09:53.36,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:09:53.36,0:09:54.50,Main Dialog,Spoken,0000,0000,0000,,What the...?!
+Dialogue: 0,0:09:55.46,0:09:56.92,Main Dialog,Spoken,0000,0000,0000,,Leon Souryu?
+Dialogue: 0,0:09:56.92,0:09:58.91,Main Dialog,Spoken,0000,0000,0000,,No. Maybe it's...
+Dialogue: 0,0:09:58.91,0:10:02.07,Main Dialog,Spoken,0000,0000,0000,,...the other Takuto that \NLeon was talkin' about?
+Dialogue: 0,0:10:02.07,0:10:03.98,Main Dialog,Spoken,0000,0000,0000,,Takuto versus Takuto?
+Dialogue: 0,0:10:03.98,0:10:08.18,Main Dialog,Spoken,0000,0000,0000,,Whichever way, all we can do is \Nhave faith that those two will win!
+Dialogue: 0,0:10:09.59,0:10:11.25,Main Dialog,Spoken,0000,0000,0000,,Leon!
+Dialogue: 0,0:10:16.21,0:10:17.31,Main Dialog,Spoken,0000,0000,0000,,Takuto...
+Dialogue: 0,0:10:20.09,0:10:23.06,Main Dialog,Spoken,0000,0000,0000,,How?! It's impossible!
+Dialogue: 0,0:10:23.06,0:10:26.43,Main Dialog,Spoken,0000,0000,0000,,My locks... My locks have been broken?!
+Dialogue: 0,0:10:27.67,0:10:28.67,Main Dialog,Spoken,0000,0000,0000,,I see...
+Dialogue: 0,0:10:29.30,0:10:32.19,Main Dialog,Spoken,0000,0000,0000,,He finally did it... Takuto...
+Dialogue: 0,0:10:32.89,0:10:34.19,Main Dialog,Spoken,0000,0000,0000,,My locks...
+Dialogue: 0,0:10:34.64,0:10:37.28,Main Dialog,Spoken,0000,0000,0000,,The invincible Link Joker...
+Dialogue: 0,0:10:58.91,0:11:00.59,Main Dialog,Spoken,0000,0000,0000,,On top of that, skill activated!
+Dialogue: 0,0:11:01.81,0:11:04.08,Main Dialog,Spoken,0000,0000,0000,,I've got five rear-guards,
+Dialogue: 0,0:11:04.08,0:11:08.39,Main Dialog,Spoken,0000,0000,0000,,so Grand Ezel gets power \Nand an extra critical!
+Dialogue: 0,0:11:12.24,0:11:14.86,Main Dialog,Spoken,0000,0000,0000,,Caria boosts! Grand Ezel!
+Dialogue: 0,0:11:21.91,0:11:26.30,Main Dialog,Spoken,0000,0000,0000,,Begone with your evil power, Link Joker!
+Dialogue: 0,0:11:35.58,0:11:37.42,Main Dialog,Spoken,0000,0000,0000,,Perfect guard...
+Dialogue: 0,0:11:38.59,0:11:40.12,Main Dialog,Spoken,0000,0000,0000,,Twin drive...
+Dialogue: 0,0:11:41.50,0:11:42.68,Main Dialog,Spoken,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:11:43.36,0:11:46.24,Main Dialog,Spoken,0000,0000,0000,,I give all of the effects to Bagdemagus!
+Dialogue: 0,0:11:46.24,0:11:47.67,Main Dialog,Spoken,0000,0000,0000,,Torre boosts!
+Dialogue: 0,0:11:48.50,0:11:50.68,Main Dialog,Spoken,0000,0000,0000,,Bagdemagus attacks!
+Dialogue: 0,0:11:51.02,0:11:53.69,Main Dialog,Spoken,0000,0000,0000,,Guard! Intercept!
+Dialogue: 0,0:11:54.46,0:11:55.48,Main Dialog,Spoken,0000,0000,0000,,Blond Ezel!
+Dialogue: 0,0:11:59.91,0:12:00.94,Main Dialog,Spoken,0000,0000,0000,,No guard!
+Dialogue: 0,0:12:09.49,0:12:10.95,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:12:13.55,0:12:16.34,Main Dialog,Spoken,0000,0000,0000,,Grand Ezel Scissors...
+Dialogue: 0,0:12:16.34,0:12:20.71,Main Dialog,Spoken,0000,0000,0000,,I didn't know there was a trump card \Nthat could smash through locks...
+Dialogue: 0,0:12:22.56,0:12:26.34,Main Dialog,Spoken,0000,0000,0000,,Destined guidance awoke Grand Ezel
+Dialogue: 0,0:12:26.34,0:12:29.94,Main Dialog,Spoken,0000,0000,0000,,and gave it the power to crush Link Joker!
+Dialogue: 0,0:12:31.59,0:12:34.79,Main Dialog,Spoken,0000,0000,0000,,Already, the locks have lost their power!
+Dialogue: 0,0:12:34.79,0:12:37.32,Main Dialog,Spoken,0000,0000,0000,,The next turn is your last!
+Dialogue: 0,0:12:47.68,0:12:51.87,Main Dialog,Spoken,0000,0000,0000,,Next? Certainly, if there {\i1}is{\i0} a next turn...
+Dialogue: 0,0:12:53.89,0:13:01.96,Main Dialog,Spoken,0000,0000,0000,,But surely you know that you just \Nmissed your one chance of beating me.
+Dialogue: 0,0:13:03.34,0:13:04.88,Main Dialog,Spoken,0000,0000,0000,,Break ride!
+Dialogue: 0,0:13:05.36,0:13:09.42,Main Dialog,Spoken,0000,0000,0000,,Sword of despair that dyes \Nall brilliance jet-black!
+Dialogue: 0,0:13:09.42,0:13:13.11,Main Dialog,Spoken,0000,0000,0000,,Star-vader, Omega Glendios!
+Dialogue: 0,0:13:15.10,0:13:16.90,Main Dialog,Spoken,0000,0000,0000,,Omega Glendios?!
+Dialogue: 0,0:13:31.20,0:13:36.34,Main Dialog,Spoken,0000,0000,0000,,You just said you were going to bring \Nthe era of Link Joker to an end.
+Dialogue: 0,0:13:36.34,0:13:43.05,Main Dialog,Spoken,0000,0000,0000,,In that case, I'll bring to an end... \Nyour whole world!
+Dialogue: 0,0:13:43.80,0:13:45.00,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:13:51.19,0:13:52.68,Main Dialog,Spoken,0000,0000,0000,,Another lock?
+Dialogue: 0,0:13:53.15,0:13:55.06,Main Dialog,Spoken,0000,0000,0000,,Your locks no longer work on me!
+Dialogue: 0,0:13:55.47,0:13:56.39,Main Dialog,Spoken,0000,0000,0000,,Is that right?
+Dialogue: 0,0:13:57.84,0:14:01.32,Main Dialog,Spoken,0000,0000,0000,,The time has come for you \Nto be summoned, my servant.
+Dialogue: 0,0:14:01.32,0:14:02.90,Main Dialog,Spoken,0000,0000,0000,,Destroy my enemy!
+Dialogue: 0,0:14:02.90,0:14:03.94,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:14:06.08,0:14:09.15,Main Dialog,Spoken,0000,0000,0000,,Dauntless Dominate Dragon "Reverse"!
+Dialogue: 0,0:14:10.03,0:14:13.97,Main Dialog,Spoken,0000,0000,0000,,Observe. This is the power of Glendios!
+Dialogue: 0,0:14:13.97,0:14:16.20,Main Dialog,Spoken,0000,0000,0000,,Ascendant Joker!
+Dialogue: 0,0:14:16.20,0:14:20.46,Main Dialog,Spoken,0000,0000,0000,,Dauntless "Reverse" becomes Link Joker!
+Dialogue: 0,0:14:20.46,0:14:21.59,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:14:24.89,0:14:27.02,Main Dialog,Spoken,0000,0000,0000,,Becomes Link Joker?!
+Dialogue: 0,0:14:27.02,0:14:28.19,Main Dialog,Spoken,0000,0000,0000,,That's right.
+Dialogue: 0,0:14:28.19,0:14:35.22,Main Dialog,Spoken,0000,0000,0000,,Under Glendios, all "Reverse" units \Nbecome servants of Link Joker!
+Dialogue: 0,0:14:35.62,0:14:38.98,Main Dialog,Spoken,0000,0000,0000,,On top of that, it gets +4000 power!
+Dialogue: 0,0:14:39.89,0:14:44.73,Main Dialog,Spoken,0000,0000,0000,,It turns into Link Joker... \Nand also powers up?!
+Dialogue: 0,0:14:49.85,0:14:51.24,Main Dialog,Spoken,0000,0000,0000,,Now what?!
+Dialogue: 0,0:14:51.79,0:14:54.49,Main Dialog,Spoken,0000,0000,0000,,Hey! These jerks...
+Dialogue: 0,0:15:00.22,0:15:02.17,Main Dialog,Spoken,0000,0000,0000,,I'm scared!
+Dialogue: 0,0:15:02.17,0:15:06.01,Main Dialog,Spoken,0000,0000,0000,,Don't be, Sharlene! We have \Nto do our best for Leon!
+Dialogue: 0,0:15:06.01,0:15:09.17,Main Dialog,Spoken,0000,0000,0000,,Yeah. I'm okay. I won't lose!
+Dialogue: 0,0:15:13.48,0:15:14.70,Main Dialog,Spoken,0000,0000,0000,,Whoa...
+Dialogue: 0,0:15:14.70,0:15:17.78,Main Dialog,Spoken,0000,0000,0000,,Be careful. The power of all \Nthese guys is increasing!
+Dialogue: 0,0:15:17.78,0:15:18.89,Main Dialog,Spoken,0000,0000,0000,,Yeah...
+Dialogue: 0,0:15:19.37,0:15:26.13,Main Dialog,Spoken,0000,0000,0000,,I... I bet that aura has some \Nkind of effect on their power.
+Dialogue: 0,0:15:32.22,0:15:34.78,Main Dialog,Spoken,0000,0000,0000,,I lock Knight of Passion, Torre!
+Dialogue: 0,0:15:38.16,0:15:40.70,Main Dialog,Spoken,0000,0000,0000,,I told you that your locks \Nwere useless now.
+Dialogue: 0,0:15:42.64,0:15:45.67,Main Dialog,Spoken,0000,0000,0000,,Did you think it was a regular old lock?
+Dialogue: 0,0:15:45.67,0:15:48.42,Main Dialog,Spoken,0000,0000,0000,,Don't underestimate the power of Glendios.
+Dialogue: 0,0:15:48.95,0:15:50.63,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:15:52.92,0:15:54.05,Main Dialog,Spoken,0000,0000,0000,,Omega Lock!
+Dialogue: 0,0:15:54.05,0:15:55.10,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:15:55.55,0:15:59.47,Main Dialog,Spoken,0000,0000,0000,,Even after the opponent's turn ends, \Nthis lock won't come undone.
+Dialogue: 0,0:15:59.95,0:16:01.64,Main Dialog,Spoken,0000,0000,0000,,This is an Omega Lock!
+Dialogue: 0,0:16:02.17,0:16:06.06,Main Dialog,Spoken,0000,0000,0000,,You'll never break free of my lock!
+Dialogue: 0,0:16:06.83,0:16:09.57,Main Dialog,Spoken,0000,0000,0000,,It... It can't be...
+Dialogue: 0,0:16:10.25,0:16:12.90,Main Dialog,Spoken,0000,0000,0000,,You underestimated me.
+Dialogue: 0,0:16:12.90,0:16:17.58,Main Dialog,Spoken,0000,0000,0000,,While you have a trump card, \Ndid you really think that I {\i1}didn't{\i0}?
+Dialogue: 0,0:16:18.33,0:16:19.58,Main Dialog,Spoken,0000,0000,0000,,Omega Glendios!
+Dialogue: 0,0:16:20.08,0:16:21.83,Main Dialog,Spoken,0000,0000,0000,,Attack Bagdemagus!
+Dialogue: 0,0:16:22.96,0:16:24.75,Main Dialog,Spoken,0000,0000,0000,,Attacking a rear-guard?!
+Dialogue: 0,0:16:25.31,0:16:26.33,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:16:26.33,0:16:28.41,Main Dialog,Spoken,0000,0000,0000,,Twin drive!
+Dialogue: 0,0:16:28.41,0:16:31.59,Main Dialog,Spoken,0000,0000,0000,,I give the power to Dauntless "Reverse"!
+Dialogue: 0,0:16:31.99,0:16:34.09,Main Dialog,Spoken,0000,0000,0000,,Dauntless "Reverse"!
+Dialogue: 0,0:16:38.43,0:16:40.22,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:16:40.64,0:16:44.34,Main Dialog,Spoken,0000,0000,0000,,Your lock will last forever.
+Dialogue: 0,0:16:44.34,0:16:47.33,Main Dialog,Spoken,0000,0000,0000,,This is the beginning \Nof the end of the world!
+Dialogue: 0,0:16:51.04,0:16:55.24,Main Dialog,Spoken,0000,0000,0000,,If I could only use Grand Ezel, \NI'd be able to get rid of the lock...
+Dialogue: 0,0:16:55.63,0:16:57.49,Main Dialog,Spoken,0000,0000,0000,,...but I don't have enough for the cost!
+Dialogue: 0,0:16:58.06,0:17:02.37,Main Dialog,Spoken,0000,0000,0000,,His aim is to just attack the rear-guards...
+Dialogue: 0,0:17:04.01,0:17:09.13,Main Dialog,Spoken,0000,0000,0000,,All you can do is watch as \NI lock all of your rear-guards!
+Dialogue: 0,0:17:14.38,0:17:15.88,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:17:15.88,0:17:16.89,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:17:18.71,0:17:20.14,Main Dialog,Spoken,0000,0000,0000,,Omega Lock!
+Dialogue: 0,0:17:22.34,0:17:24.39,Main Dialog,Spoken,0000,0000,0000,,I call Bagdemagus!
+Dialogue: 0,0:17:25.87,0:17:27.77,Main Dialog,Spoken,0000,0000,0000,,I lock Bagdemagus!
+Dialogue: 0,0:17:32.41,0:17:33.90,Main Dialog,Spoken,0000,0000,0000,,Omega Lock!
+Dialogue: 0,0:17:38.65,0:17:40.66,Main Dialog,Spoken,0000,0000,0000,,I attack Glendios!
+Dialogue: 0,0:17:45.03,0:17:45.91,Main Dialog,Spoken,0000,0000,0000,,Guard.
+Dialogue: 0,0:17:50.25,0:17:51.80,Main Dialog,Spoken,0000,0000,0000,,I won't give up!
+Dialogue: 0,0:17:51.80,0:17:56.05,Main Dialog,Spoken,0000,0000,0000,,As long as I don't have \N6 damage, I haven't lost!
+Dialogue: 0,0:17:57.38,0:17:59.18,Main Dialog,Spoken,0000,0000,0000,,I have cards in my hand.
+Dialogue: 0,0:17:59.59,0:18:04.81,Main Dialog,Spoken,0000,0000,0000,,I'll send all of his attacks back \Nat him and then counterattack!
+Dialogue: 0,0:18:05.61,0:18:07.35,Main Dialog,Spoken,0000,0000,0000,,At some point, the locks will break!
+Dialogue: 0,0:18:08.08,0:18:09.47,Main Dialog,Spoken,0000,0000,0000,,And that's when I'll...!
+Dialogue: 0,0:18:11.29,0:18:14.32,Main Dialog,Spoken,0000,0000,0000,,The locks won't have a chance to break.
+Dialogue: 0,0:18:15.41,0:18:16.95,Main Dialog,Spoken,0000,0000,0000,,Final Turn.
+Dialogue: 0,0:18:17.41,0:18:18.76,Main Dialog,Spoken,0000,0000,0000,,And also...
+Dialogue: 0,0:18:19.45,0:18:21.20,Main Dialog,Spoken,0000,0000,0000,,...the world will end!
+Dialogue: 0,0:18:23.77,0:18:25.45,Main Dialog,Spoken,0000,0000,0000,,What are you saying?!
+Dialogue: 0,0:18:25.79,0:18:27.50,Main Dialog,Spoken,0000,0000,0000,,The world will end?
+Dialogue: 0,0:18:28.78,0:18:30.96,Main Dialog,Spoken,0000,0000,0000,,What is he talking about?!
+Dialogue: 0,0:18:34.98,0:18:35.96,Main Dialog,Spoken,0000,0000,0000,,Well, then...
+Dialogue: 0,0:18:36.57,0:18:43.47,Main Dialog,Spoken,0000,0000,0000,,One card, two cards, three cards, \Nfour cards, and five cards...
+Dialogue: 0,0:18:46.67,0:18:53.11,Main Dialog,Spoken,0000,0000,0000,,Just before, you said you hadn't lost \Nunless you got 6 damage.
+Dialogue: 0,0:18:53.70,0:18:59.41,Main Dialog,Spoken,0000,0000,0000,,But that was only true before \NGlendios came to this world.
+Dialogue: 0,0:18:59.41,0:19:01.11,Main Dialog,Spoken,0000,0000,0000,,That was in the past.
+Dialogue: 0,0:19:01.76,0:19:03.87,Main Dialog,Spoken,0000,0000,0000,,In the past?
+Dialogue: 0,0:19:04.62,0:19:10.00,Main Dialog,Spoken,0000,0000,0000,,That's right! Glendios and I\N are changing the world!
+Dialogue: 0,0:19:10.00,0:19:13.63,Main Dialog,Spoken,0000,0000,0000,,Ultimate break! World End!
+Dialogue: 0,0:19:14.56,0:19:20.93,Main Dialog,Spoken,0000,0000,0000,,If five or more of my opponent's \Ncards are locked, I win!
+Dialogue: 0,0:19:25.35,0:19:28.89,Main Dialog,Spoken,0000,0000,0000,,You... automatically win?!
+Dialogue: 0,0:19:29.57,0:19:35.15,Main Dialog,Spoken,0000,0000,0000,,Unbelievable! He can win \Nwithout doing 6 damage?!
+Dialogue: 0,0:19:36.66,0:19:38.83,Main Dialog,Spoken,0000,0000,0000,,That's World End.
+Dialogue: 0,0:19:38.83,0:19:40.90,Main Dialog,Spoken,0000,0000,0000,,That changes the world.
+Dialogue: 0,0:19:41.35,0:19:45.66,Main Dialog,Spoken,0000,0000,0000,,This is the true power of Glendios... \Nof Link Joker!
+Dialogue: 0,0:19:46.67,0:19:49.79,Main Dialog,Spoken,0000,0000,0000,,It's over, Takuto Tatsunagi.
+Dialogue: 0,0:20:02.17,0:20:03.07,Main Dialog,Spoken,0000,0000,0000,,This is...
+Dialogue: 0,0:20:03.07,0:20:04.30,Main Dialog,Spoken,0000,0000,0000,,Be careful, everyone!
+Dialogue: 0,0:20:04.30,0:20:06.92,Main Dialog,Spoken,0000,0000,0000,,That's not so easy!
+Dialogue: 0,0:20:08.77,0:20:09.81,Main Dialog,Spoken,0000,0000,0000,,S-Sendou?
+Dialogue: 0,0:20:10.42,0:20:11.98,Main Dialog,Spoken,0000,0000,0000,,Sendou!
+Dialogue: 0,0:20:11.98,0:20:13.81,Main Dialog,Spoken,0000,0000,0000,,Where did you go?!
+Dialogue: 0,0:20:13.81,0:20:15.02,Main Dialog,Spoken,0000,0000,0000,,Aichi!
+Dialogue: 0,0:20:15.02,0:20:16.19,Main Dialog,Spoken,0000,0000,0000,,Brother!
+Dialogue: 0,0:20:16.19,0:20:18.14,Main Dialog,Spoken,0000,0000,0000,,Where did you go, Aichi?!
+Dialogue: 0,0:20:18.14,0:20:20.07,Main Dialog,Spoken,0000,0000,0000,,Aichi!
+Dialogue: 0,0:20:26.06,0:20:29.33,Main Dialog,Spoken,0000,0000,0000,,You've lost, Takuto Tatsunagi.
+Dialogue: 0,0:20:33.49,0:20:34.39,Main Dialog,Spoken,0000,0000,0000,,Takuto!
+Dialogue: 0,0:20:37.68,0:20:41.82,Main Dialog,Spoken,0000,0000,0000,,Don't push it with that exhausted \Nbody of yours, Leon Souryu.
+Dialogue: 0,0:20:43.70,0:20:44.59,Main Dialog,Spoken,0000,0000,0000,,That's right.
+Dialogue: 0,0:20:45.10,0:20:50.10,Main Dialog,Spoken,0000,0000,0000,,I can use you in a better way \Nthan just being Reversed.
+Dialogue: 0,0:20:53.95,0:20:57.61,Main Dialog,Spoken,0000,0000,0000,,Give me that body... and power!
+Dialogue: 0,0:20:58.73,0:20:59.61,Main Dialog,Spoken,0000,0000,0000,,Stop!
+Dialogue: 0,0:21:00.88,0:21:01.86,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:21:05.54,0:21:06.86,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:21:11.35,0:21:13.62,Main Dialog,Spoken,0000,0000,0000,,Stop... it!
+Dialogue: 0,0:21:28.45,0:21:31.52,Main Dialog,Spoken,0000,0000,0000,,And now, no one stands in my way!
+Dialogue: 0,0:21:31.52,0:21:34.14,Main Dialog,Spoken,0000,0000,0000,,No one can defy me!
+Dialogue: 0,0:21:34.61,0:21:40.43,Main Dialog,Spoken,0000,0000,0000,,Cray... and this Earth... \Nboth of them are my worlds!
+Dialogue: 0,0:21:58.17,0:21:59.42,Main Dialog,Spoken,0000,0000,0000,,...Oh?
+Dialogue: 0,0:22:00.91,0:22:02.02,Main Dialog,Spoken,0000,0000,0000,,Takuto...
+Dialogue: 0,0:22:02.80,0:22:05.55,Main Dialog,Spoken,0000,0000,0000,,No... Fake Takuto!
+Dialogue: 0,0:22:06.11,0:22:07.80,Main Dialog,Spoken,0000,0000,0000,,What?
+Dialogue: 0,0:23:56.02,0:23:57.99,Main Dialog,Spoken,0000,0000,0000,,Takuto... Tatsunagi...
+Dialogue: 0,0:23:57.99,0:23:58.84,Main Dialog,,0000,0000,0000,,Ah...
+Dialogue: 0,0:23:58.84,0:24:01.66,Main Dialog,Spoken,0000,0000,0000,,But the Takuto you people know \Nno longer exists.
+Dialogue: 0,0:24:01.66,0:24:05.47,Main Dialog,Spoken,0000,0000,0000,,I'm not used to this body yet, but...
+Dialogue: 0,0:24:05.47,0:24:06.63,Main Dialog,Spoken,0000,0000,0000,,What are you saying?!
+Dialogue: 0,0:24:06.63,0:24:10.05,Main Dialog,Spoken,0000,0000,0000,,His power is being sublimated by mine!
+Dialogue: 0,0:24:10.43,0:24:12.98,Main Dialog,Spoken,0000,0000,0000,,Takuto... I'll make you pay for this!
+Dialogue: 0,0:24:12.98,0:24:15.18,Main Dialog,Spoken,0000,0000,0000,,No matter what happens to me, \NI'll make sure you pay!
+Dialogue: 0,0:24:15.18,0:24:17.18,Main Dialog,Spoken,0000,0000,0000,,Next time: Kourin!
+Dialogue: 0,0:24:16.05,0:24:24.98,Signs,Sign,0000,0000,0000,,Kourin
+Dialogue: 0,0:24:17.18,0:24:19.22,Main Dialog,Spoken,0000,0000,0000,,I'll use my power to do everything I can!
+Dialogue: 0,0:24:19.22,0:24:21.98,Main Dialog,Spoken,0000,0000,0000,,I don't want to lose anybody!
+Dialogue: 0,0:24:21.98,0:24:24.48,Main Dialog,Spoken,0000,0000,0000,,I'm going to get the original Kourin back!

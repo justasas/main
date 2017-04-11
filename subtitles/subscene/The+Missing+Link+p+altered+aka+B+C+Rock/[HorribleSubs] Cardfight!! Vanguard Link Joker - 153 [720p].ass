@@ -1,0 +1,298 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Title,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00A0587F,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,20,65,100,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+Style: Song Subtitles,A-OTF Maru Folk Pro H,26,&H00ECECFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,10,10,5,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.06,0:00:05.79,Main Dialog,,0000,0000,0000,,Before being Reversed, you acted \Nas Kai's beneficial brakes.
+Dialogue: 0,0:00:06.88,0:00:08.07,Main Dialog,,0000,0000,0000,,That's the person...
+Dialogue: 0,0:00:09.59,0:00:11.40,Main Dialog,,0000,0000,0000,,...I'm going to bring back!
+Dialogue: 0,0:00:13.51,0:00:14.63,Main Dialog,,0000,0000,0000,,After all...
+Dialogue: 0,0:00:15.67,0:00:17.30,Main Dialog,,0000,0000,0000,,I'm your friend, too!
+Dialogue: 0,0:00:23.98,0:00:24.91,Main Dialog,,0000,0000,0000,,Kai!
+Dialogue: 0,0:00:32.40,0:00:34.72,Main Dialog,,0000,0000,0000,,She did it! Boss Lady won!
+Dialogue: 0,0:00:34.91,0:00:36.21,Main Dialog,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:00:36.21,0:00:37.92,Main Dialog,,0000,0000,0000,,She did it!
+Dialogue: 0,0:00:38.31,0:00:39.46,Main Dialog,,0000,0000,0000,,I...
+Dialogue: 0,0:00:41.17,0:00:44.64,Main Dialog,,0000,0000,0000,,What is this... discouragement?
+Dialogue: 0,0:00:44.64,0:00:47.38,Main Dialog,,0000,0000,0000,,It just means you thought a little \Ntoo much about your friend.
+Dialogue: 0,0:00:47.38,0:00:49.17,Main Dialog,,0000,0000,0000,,You'll get better soon.
+Dialogue: 0,0:00:49.17,0:00:50.18,Main Dialog,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:00:50.18,0:00:52.69,Main Dialog,,0000,0000,0000,,Thought too much... about my friend?
+Dialogue: 0,0:00:52.69,0:00:56.01,Main Dialog,,0000,0000,0000,,That's an embarrassing expression \Nif I've ever heard one...
+Dialogue: 0,0:00:56.01,0:01:00.85,Main Dialog,,0000,0000,0000,,Look, guys, I don't remember anything, \Nbut don't try to snow job me with cheap praise!
+Dialogue: 0,0:01:11.05,0:01:13.00,Main Dialog,,0000,0000,0000,,Fight me, Kai!
+Dialogue: 0,0:02:56.73,0:02:57.84,Main Dialog,,0000,0000,0000,,Aichi...
+Dialogue: 0,0:02:58.84,0:02:59.90,Main Dialog,,0000,0000,0000,,Kai...
+Dialogue: 0,0:03:19.90,0:03:23.13,Main Dialog,,0000,0000,0000,,Why? Why did you choose...
+Dialogue: 0,0:03:23.79,0:03:27.42,Main Dialog,,0000,0000,0000,,...to have Link Joker Reverse you, Kai?!
+Dialogue: 0,0:03:32.59,0:03:34.09,Main Dialog,,0000,0000,0000,,Psyqualia...
+Dialogue: 0,0:03:36.56,0:03:41.44,Main Dialog,,0000,0000,0000,,The power to hear the voice of the \Ndeck and see what's going to happen...
+Dialogue: 0,0:03:42.46,0:03:46.98,Main Dialog,,0000,0000,0000,,Kai rejected the idea of \NRen and me using Psyqualia.
+Dialogue: 0,0:03:49.01,0:03:51.56,Main Dialog,,0000,0000,0000,,He didn't depend on a special power,
+Dialogue: 0,0:03:51.56,0:03:55.69,Main Dialog,,0000,0000,0000,,but had faith that he'd get \Nstronger through his own efforts.
+Dialogue: 0,0:03:56.41,0:03:58.56,Main Dialog,,0000,0000,0000,,And yet... Why?
+Dialogue: 0,0:03:59.46,0:04:04.47,Signs,,0000,0000,0000,,The Two Leaders
+Dialogue: 0,0:04:10.29,0:04:12.76,Main Dialog,,0000,0000,0000,,I saw it that day.
+Dialogue: 0,0:04:14.88,0:04:18.94,Main Dialog,,0000,0000,0000,,The absolute strength that \NI'd been pursuing single-mindedly.
+Dialogue: 0,0:04:19.74,0:04:23.70,Main Dialog,,0000,0000,0000,,And I wasn't the one who had it.
+Dialogue: 0,0:04:33.49,0:04:34.79,Main Dialog,,0000,0000,0000,,That's right.
+Dialogue: 0,0:04:35.74,0:04:44.02,Main Dialog,,0000,0000,0000,,You were shown the strength of those two, \Nand felt impatience, yearning, envy, and fear.
+Dialogue: 0,0:04:44.81,0:04:51.41,Main Dialog,,0000,0000,0000,,You were caught up in emotions that \Nyou'd never felt before and became unhinged.
+Dialogue: 0,0:04:52.72,0:04:59.57,Main Dialog,,0000,0000,0000,,You're right. I fought strong people and became \Nstronger myself through experience.
+Dialogue: 0,0:05:00.66,0:05:04.82,Main Dialog,,0000,0000,0000,,I believed that was the only way \Nto become the strongest of all.
+Dialogue: 0,0:05:05.59,0:05:06.31,Main Dialog,,0000,0000,0000,,But...
+Dialogue: 0,0:05:08.21,0:05:12.51,Main Dialog,,0000,0000,0000,,...you and Ren embraced the \Npower called Psyqualia.
+Dialogue: 0,0:05:13.18,0:05:17.76,Main Dialog,,0000,0000,0000,,And then you two, who had chosen the \Npath that I'd rejected all along,
+Dialogue: 0,0:05:18.51,0:05:21.04,Main Dialog,,0000,0000,0000,,obtained strength that surpassed me.
+Dialogue: 0,0:05:28.87,0:05:31.05,Main Dialog,,0000,0000,0000,,Your psyche wavered...
+Dialogue: 0,0:05:31.53,0:05:36.28,Main Dialog,,0000,0000,0000,,...because you'd thought that accepting \Nan alien power was weakness.
+Dialogue: 0,0:05:37.11,0:05:45.24,Main Dialog,,0000,0000,0000,,But those two, who obtained the strange power, \Nhad become stronger, far stronger than you.
+Dialogue: 0,0:05:46.61,0:05:52.05,Main Dialog,,0000,0000,0000,,Aichi, like someone who can drink \Nwater from the sand of a dry desert,
+Dialogue: 0,0:05:52.05,0:05:54.41,Main Dialog,,0000,0000,0000,,you get stronger every time you fight.
+Dialogue: 0,0:05:54.86,0:05:59.26,Main Dialog,,0000,0000,0000,,You even turn your mistakes into sustenance \Nand continue to grow like there's no tomorrow.
+Dialogue: 0,0:06:00.17,0:06:02.99,Main Dialog,,0000,0000,0000,,And how did you feel about \Nthat strength of Aichi Sendou?
+Dialogue: 0,0:06:02.99,0:06:06.11,Main Dialog,,0000,0000,0000,,Longing, jealousy, and fear.
+Dialogue: 0,0:06:06.98,0:06:08.02,Main Dialog,,0000,0000,0000,,That's why...
+Dialogue: 0,0:06:08.02,0:06:12.48,Main Dialog,,0000,0000,0000,,...I accepted the alien power of Link Joker.
+Dialogue: 0,0:06:12.48,0:06:14.23,Main Dialog,,0000,0000,0000,,To become the strongest...
+Dialogue: 0,0:06:16.21,0:06:18.61,Main Dialog,,0000,0000,0000,,With this power that I've taken on,
+Dialogue: 0,0:06:18.61,0:06:22.59,Main Dialog,,0000,0000,0000,,I'm going to beat you and Ren \Nto prove that I'm the strongest!
+Dialogue: 0,0:06:24.11,0:06:25.38,Main Dialog,,0000,0000,0000,,You're...
+Dialogue: 0,0:06:26.32,0:06:27.86,Main Dialog,,0000,0000,0000,,You're making...
+Dialogue: 0,0:06:29.69,0:06:30.99,Main Dialog,,0000,0000,0000,,...a huge mistake!
+Dialogue: 0,0:06:33.20,0:06:36.86,Main Dialog,,0000,0000,0000,,Kai, every time you win a fight \Nwith the power of Link Joker,
+Dialogue: 0,0:06:36.86,0:06:38.62,Main Dialog,,0000,0000,0000,,someone becomes Reversed.
+Dialogue: 0,0:06:39.78,0:06:44.52,Main Dialog,,0000,0000,0000,,As a result, this world may \Nbe swallowed up by Link Joker.
+Dialogue: 0,0:06:47.95,0:06:51.26,Main Dialog,,0000,0000,0000,,You don't care what happens \Nto everyone... to the world?!
+Dialogue: 0,0:06:51.51,0:06:55.13,Main Dialog,,0000,0000,0000,,I'm interested in becoming \Nstronger. That's all.
+Dialogue: 0,0:06:55.77,0:06:56.84,Main Dialog,,0000,0000,0000,,Kai...
+Dialogue: 0,0:06:57.15,0:06:59.39,Main Dialog,,0000,0000,0000,,Wake up and smell the coffee, Kai!
+Dialogue: 0,0:07:02.66,0:07:03.86,Main Dialog,,0000,0000,0000,,He's ignorin' me?!
+Dialogue: 0,0:07:03.86,0:07:05.60,Main Dialog,,0000,0000,0000,,That's Reverse's fault too.
+Dialogue: 0,0:07:05.60,0:07:07.92,Main Dialog,,0000,0000,0000,,But as always, he isn't \Ngood at expressing himself.
+Dialogue: 0,0:07:09.36,0:07:15.12,Main Dialog,,0000,0000,0000,,Even though I'm out of Reverse's \Nspell, I know how he feels.
+Dialogue: 0,0:07:15.12,0:07:18.42,Main Dialog,,0000,0000,0000,,Kai's thinking that he's \Ngone beyond good and evil.
+Dialogue: 0,0:07:18.42,0:07:20.90,Main Dialog,,0000,0000,0000,,He's not focused on anything \Nbut getting stronger.
+Dialogue: 0,0:07:21.39,0:07:22.67,Main Dialog,,0000,0000,0000,,That's awful...
+Dialogue: 0,0:07:22.67,0:07:26.66,Main Dialog,,0000,0000,0000,,Dang it! I know how he \Nfeels. I get it, but...
+Dialogue: 0,0:07:30.43,0:07:31.43,Main Dialog,,0000,0000,0000,,Kai...
+Dialogue: 0,0:07:32.08,0:07:35.64,Main Dialog,,0000,0000,0000,,The only thing to do is beat you.
+Dialogue: 0,0:07:38.31,0:07:40.53,Main Dialog,,0000,0000,0000,,Humans are weak.
+Dialogue: 0,0:07:40.53,0:07:43.50,Main Dialog,,0000,0000,0000,,No matter how they try to \Nstick to their firm beliefs,
+Dialogue: 0,0:07:43.50,0:07:46.46,Main Dialog,,0000,0000,0000,,they'll waver, get hurt, be tormented.
+Dialogue: 0,0:07:46.46,0:07:48.66,Main Dialog,,0000,0000,0000,,And that's where they can \Nbe taken advantage of.
+Dialogue: 0,0:07:49.51,0:07:53.46,Main Dialog,,0000,0000,0000,,Since they've got a strong will, \Nthey can't surrender.
+Dialogue: 0,0:07:53.46,0:07:56.06,Main Dialog,,0000,0000,0000,,They don't notice the cracks forming there.
+Dialogue: 0,0:07:56.97,0:07:59.14,Main Dialog,,0000,0000,0000,,Humans are such fools.
+Dialogue: 0,0:08:13.36,0:08:15.96,Main Dialog,,0000,0000,0000,,Aichi, please help Kai!
+Dialogue: 0,0:08:30.71,0:08:33.60,Main Dialog,,0000,0000,0000,,I've been waiting for this moment.
+Dialogue: 0,0:08:33.60,0:08:37.92,Main Dialog,,0000,0000,0000,,Aichi, I'm going to beat you, \Nthen move forward.
+Dialogue: 0,0:08:37.92,0:08:41.57,Main Dialog,,0000,0000,0000,,So I can become stronger than anyone, \Nthe strongest of all!
+Dialogue: 0,0:08:49.23,0:08:50.22,Main Dialog,,0000,0000,0000,,Stand up,
+Dialogue: 0,0:08:50.22,0:08:50.95,Main Dialog,,0000,0000,0000,,the
+Dialogue: 0,0:08:50.95,0:08:51.96,Main Dialog,,0000,0000,0000,,Vanguard!
+Dialogue: 0,0:08:55.91,0:08:57.91,Main Dialog,,0000,0000,0000,,Holy Squire, Enide!
+Dialogue: 0,0:08:59.35,0:09:01.51,Main Dialog,,0000,0000,0000,,White Night Fenrir!
+Dialogue: 0,0:09:02.54,0:09:05.62,Main Dialog,,0000,0000,0000,,This is Kai's Link Joker deck.
+Dialogue: 0,0:09:06.60,0:09:09.36,Main Dialog,,0000,0000,0000,,I ride Little Liberator, Marron!
+Dialogue: 0,0:09:10.58,0:09:11.82,Main Dialog,,0000,0000,0000,,Enide moves!
+Dialogue: 0,0:09:12.85,0:09:13.43,Main Dialog,,0000,0000,0000,,Ride!
+Dialogue: 0,0:09:14.51,0:09:16.94,Main Dialog,,0000,0000,0000,,Hollow Twin Blades, Binary Star!
+Dialogue: 0,0:09:17.55,0:09:19.00,Main Dialog,,0000,0000,0000,,Fenrir moves back.
+Dialogue: 0,0:09:20.55,0:09:21.63,Main Dialog,,0000,0000,0000,,Attack!
+Dialogue: 0,0:09:27.25,0:09:28.39,Main Dialog,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:09:29.14,0:09:31.07,Main Dialog,,0000,0000,0000,,My turn! I draw!
+Dialogue: 0,0:09:36.53,0:09:39.42,Main Dialog,,0000,0000,0000,,That's right. This is where it started.
+Dialogue: 0,0:09:40.11,0:09:41.94,Main Dialog,,0000,0000,0000,,With this Blaster Blade...
+Dialogue: 0,0:09:43.63,0:09:47.70,Main Dialog,,0000,0000,0000,,He introduced me to Blaster Blade that day.
+Dialogue: 0,0:09:49.69,0:09:53.78,Main Dialog,,0000,0000,0000,,Kai brought me together with Vanguard.
+Dialogue: 0,0:10:02.08,0:10:06.28,Main Dialog,,0000,0000,0000,,When I was lost, when it looked like \NI was going in the wrong direction,
+Dialogue: 0,0:10:06.92,0:10:08.88,Main Dialog,,0000,0000,0000,,Kai was the one who brought me to my senses.
+Dialogue: 0,0:10:10.36,0:10:13.05,Main Dialog,,0000,0000,0000,,I am who I am now because of Kai.
+Dialogue: 0,0:10:13.88,0:10:17.90,Main Dialog,,0000,0000,0000,,I've been able to dedicate my \Nheart and soul to Vanguard.
+Dialogue: 0,0:10:18.44,0:10:20.27,Main Dialog,,0000,0000,0000,,I've made irreplaceable friends.
+Dialogue: 0,0:10:21.03,0:10:23.18,Main Dialog,,0000,0000,0000,,I've made a place that's important to me.
+Dialogue: 0,0:10:24.00,0:10:26.74,Main Dialog,,0000,0000,0000,,It's all thanks to Kai.
+Dialogue: 0,0:10:28.88,0:10:31.82,Main Dialog,,0000,0000,0000,,So now it's my turn.
+Dialogue: 0,0:10:35.83,0:10:38.20,Main Dialog,,0000,0000,0000,,Stand up, my avatar!
+Dialogue: 0,0:10:38.71,0:10:39.31,Main Dialog,,0000,0000,0000,,I ride...
+Dialogue: 0,0:10:52.18,0:10:54.76,Main Dialog,,0000,0000,0000,,...Blaster Blade Liberator!
+Dialogue: 0,0:11:01.86,0:11:02.93,Main Dialog,,0000,0000,0000,,Kai...
+Dialogue: 0,0:11:03.51,0:11:06.63,Main Dialog,,0000,0000,0000,,I swear I'll get you back to normal!
+Dialogue: 0,0:11:21.78,0:11:22.77,Main Dialog,,0000,0000,0000,,Kai...
+Dialogue: 0,0:11:28.34,0:11:31.66,Main Dialog,,0000,0000,0000,,Kai... I swear to the Kai from that day...
+Dialogue: 0,0:11:32.35,0:11:34.08,Main Dialog,,0000,0000,0000,,...that I'll win this fight!
+Dialogue: 0,0:11:35.59,0:11:37.84,Main Dialog,,0000,0000,0000,,Call! Please, Marron!
+Dialogue: 0,0:11:41.75,0:11:42.90,Main Dialog,,0000,0000,0000,,Blaster Blade!
+Dialogue: 0,0:11:45.51,0:11:46.51,Main Dialog,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:11:49.92,0:11:50.93,Main Dialog,,0000,0000,0000,,Ride!
+Dialogue: 0,0:11:51.50,0:11:54.19,Main Dialog,,0000,0000,0000,,Strike Star-vader, Krypton!
+Dialogue: 0,0:11:55.32,0:11:56.07,Main Dialog,,0000,0000,0000,,Attack.
+Dialogue: 0,0:12:00.68,0:12:01.91,Main Dialog,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:12:03.63,0:12:08.71,Main Dialog,,0000,0000,0000,,Aichi and Toshiki Kai, an awesome match-up \Nof Cardfighters goin' at it like this...
+Dialogue: 0,0:12:08.71,0:12:11.95,Main Dialog,,0000,0000,0000,,I would've preferred to see them \Nfight at the national championship.
+Dialogue: 0,0:12:12.50,0:12:14.59,Main Dialog,,0000,0000,0000,,Brother, please win!
+Dialogue: 0,0:12:15.59,0:12:16.66,Main Dialog,,0000,0000,0000,,Aichi...
+Dialogue: 0,0:12:17.51,0:12:19.61,Main Dialog,,0000,0000,0000,,Come back to us, Kai!
+Dialogue: 0,0:12:23.22,0:12:25.56,Main Dialog,,0000,0000,0000,,For all of Kai's friends, who care about him...
+Dialogue: 0,0:12:26.46,0:12:27.72,Main Dialog,,0000,0000,0000,,...I'll win!
+Dialogue: 0,0:12:27.72,0:12:29.10,Main Dialog,,0000,0000,0000,,Give me power!
+Dialogue: 0,0:12:29.82,0:12:31.96,Main Dialog,,0000,0000,0000,,Your proud, noble white wings!
+Dialogue: 0,0:12:32.91,0:12:33.87,Main Dialog,,0000,0000,0000,,Ride!
+Dialogue: 0,0:12:35.79,0:12:38.54,Main Dialog,,0000,0000,0000,,Solitary Liberator, Gancelot!
+Dialogue: 0,0:12:40.39,0:12:42.68,Main Dialog,,0000,0000,0000,,Marron moves. Call!
+Dialogue: 0,0:12:43.99,0:12:45.61,Main Dialog,,0000,0000,0000,,Phallon attacks Radon!
+Dialogue: 0,0:12:46.48,0:12:47.39,Main Dialog,,0000,0000,0000,,Guard.
+Dialogue: 0,0:12:50.25,0:12:53.66,Main Dialog,,0000,0000,0000,,Gancelot attacks with a boost from Enide!
+Dialogue: 0,0:12:57.82,0:12:59.38,Main Dialog,,0000,0000,0000,,Drive trigger, check!
+Dialogue: 0,0:13:02.65,0:13:04.02,Main Dialog,,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:13:04.02,0:13:06.84,Main Dialog,,0000,0000,0000,,I give the power to Escrad and \Nthe extra critical to Gancelot!
+Dialogue: 0,0:13:07.39,0:13:09.70,Main Dialog,,0000,0000,0000,,All right! Critical trigger!
+Dialogue: 0,0:13:12.83,0:13:15.30,Main Dialog,,0000,0000,0000,,Damage trigger, check.
+Dialogue: 0,0:13:16.91,0:13:18.50,Main Dialog,,0000,0000,0000,,Second check...
+Dialogue: 0,0:13:19.61,0:13:21.65,Main Dialog,,0000,0000,0000,,I got a heal trigger.
+Dialogue: 0,0:13:22.42,0:13:26.64,Main Dialog,,0000,0000,0000,,I give the power to Krypton \Nand heal 1 damage point.
+Dialogue: 0,0:13:27.14,0:13:29.26,Main Dialog,,0000,0000,0000,,He turned 180 with that heal trigger.
+Dialogue: 0,0:13:31.13,0:13:32.41,Main Dialog,,0000,0000,0000,,Enide's skill...
+Dialogue: 0,0:13:33.04,0:13:36.08,Main Dialog,,0000,0000,0000,,When a boosted attack hits, I can draw!
+Dialogue: 0,0:13:37.02,0:13:40.35,Main Dialog,,0000,0000,0000,,Escrad attacks Radon with \Na boost from Marron!
+Dialogue: 0,0:13:41.47,0:13:42.75,Main Dialog,,0000,0000,0000,,No guard.
+Dialogue: 0,0:13:46.92,0:13:48.00,Main Dialog,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:13:48.63,0:13:51.74,Main Dialog,,0000,0000,0000,,Fighting with Kai always \Ngives me butterflies,
+Dialogue: 0,0:13:52.82,0:13:55.80,Main Dialog,,0000,0000,0000,,but I don't feel that \Nsense of excitement now.
+Dialogue: 0,0:13:57.32,0:13:59.88,Main Dialog,,0000,0000,0000,,I didn't want to have this \Nkind of fight with him.
+Dialogue: 0,0:13:59.88,0:14:01.77,Main Dialog,,0000,0000,0000,,Remember, Kai!
+Dialogue: 0,0:14:02.50,0:14:04.40,Main Dialog,,0000,0000,0000,,Stand and draw.
+Dialogue: 0,0:14:07.35,0:14:08.06,Main Dialog,,0000,0000,0000,,Ride!
+Dialogue: 0,0:14:09.73,0:14:13.19,Main Dialog,,0000,0000,0000,,Star-vader, Infinite Zero Dragon!
+Dialogue: 0,0:14:14.88,0:14:15.78,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:14:16.04,0:14:18.91,Main Dialog,,0000,0000,0000,,Krypton! Mana Shot Star-vader, Neon!
+Dialogue: 0,0:14:19.67,0:14:21.41,Main Dialog,,0000,0000,0000,,Neon attacks Phallon!
+Dialogue: 0,0:14:25.08,0:14:25.77,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:14:30.51,0:14:34.59,Main Dialog,,0000,0000,0000,,White Night boosts Infinite Zero!
+Dialogue: 0,0:14:37.20,0:14:38.30,Main Dialog,,0000,0000,0000,,No guard.
+Dialogue: 0,0:14:38.98,0:14:40.93,Main Dialog,,0000,0000,0000,,Check the drive trigger.
+Dialogue: 0,0:14:43.30,0:14:45.35,Main Dialog,,0000,0000,0000,,I got a critical trigger.
+Dialogue: 0,0:14:46.47,0:14:50.36,Main Dialog,,0000,0000,0000,,I give the power to Krypton and the \Nextra critical to Infinite Zero.
+Dialogue: 0,0:14:50.90,0:14:52.87,Main Dialog,,0000,0000,0000,,Now he gets a critical?!
+Dialogue: 0,0:14:59.76,0:15:01.24,Main Dialog,,0000,0000,0000,,White Night's skill.
+Dialogue: 0,0:15:02.46,0:15:03.74,Main Dialog,,0000,0000,0000,,I draw a card.
+Dialogue: 0,0:15:04.34,0:15:06.61,Main Dialog,,0000,0000,0000,,Krypton attacks Phallon!
+Dialogue: 0,0:15:07.43,0:15:08.47,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:15:11.14,0:15:12.39,Main Dialog,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:15:12.82,0:15:14.33,Main Dialog,,0000,0000,0000,,4 to 3!
+Dialogue: 0,0:15:14.33,0:15:15.86,Main Dialog,,0000,0000,0000,,He's made a comeback!
+Dialogue: 0,0:15:17.95,0:15:21.39,Main Dialog,,0000,0000,0000,,Until now, it was a perfect fight, \Nwith both of them totally guarded.
+Dialogue: 0,0:15:21.99,0:15:26.95,Main Dialog,,0000,0000,0000,,But I've seen Brother Aichi \Nperform miracles before!
+Dialogue: 0,0:15:28.51,0:15:31.70,Main Dialog,,0000,0000,0000,,At a time like this, he always wins!
+Dialogue: 0,0:15:37.68,0:15:39.58,Main Dialog,,0000,0000,0000,,I'll bring you back to normal!
+Dialogue: 0,0:15:40.06,0:15:46.08,Main Dialog,,0000,0000,0000,,There was a time when I pursued strength\Nand became lost, but a leader guided me...
+Dialogue: 0,0:15:46.58,0:15:49.30,Main Dialog,,0000,0000,0000,,That was you, Kai!
+Dialogue: 0,0:15:52.34,0:15:54.19,Main Dialog,,0000,0000,0000,,Give me even more courage!
+Dialogue: 0,0:15:54.67,0:15:58.36,Main Dialog,,0000,0000,0000,,Your proud, noble white wings! Break ride!
+Dialogue: 0,0:16:00.07,0:16:02.37,Main Dialog,,0000,0000,0000,,Solitary Liberator, Gancelot!
+Dialogue: 0,0:16:03.28,0:16:07.42,Main Dialog,,0000,0000,0000,,It gets +10000 power! And three \Nrear-guard units each get +5000!
+Dialogue: 0,0:16:07.75,0:16:10.57,Main Dialog,,0000,0000,0000,,Escrad! Marron! Phallon!
+Dialogue: 0,0:16:12.01,0:16:14.52,Main Dialog,,0000,0000,0000,,I call May Rain Liberator, Bruno!
+Dialogue: 0,0:16:15.70,0:16:17.14,Main Dialog,,0000,0000,0000,,Gancelot attacks!
+Dialogue: 0,0:16:19.95,0:16:21.16,Main Dialog,,0000,0000,0000,,No guard.
+Dialogue: 0,0:16:21.65,0:16:23.45,Main Dialog,,0000,0000,0000,,Drive trigger, check!
+Dialogue: 0,0:16:25.45,0:16:30.02,Main Dialog,,0000,0000,0000,,Heal trigger! I add +5000 to the power \Nof Escrad and heal 1 damage point!
+Dialogue: 0,0:16:35.99,0:16:36.89,Main Dialog,,0000,0000,0000,,Escrad!
+Dialogue: 0,0:16:41.53,0:16:42.98,Main Dialog,,0000,0000,0000,,No guard.
+Dialogue: 0,0:16:47.22,0:16:48.98,Main Dialog,,0000,0000,0000,,Escrad's Counterblast!
+Dialogue: 0,0:16:51.13,0:16:54.15,Main Dialog,,0000,0000,0000,,I superior call Flame of Victory!
+Dialogue: 0,0:16:54.95,0:16:57.58,Main Dialog,,0000,0000,0000,,Bruno's skill, +3000 power!
+Dialogue: 0,0:16:58.13,0:17:00.45,Main Dialog,,0000,0000,0000,,5 damage! Only 1 more to go!
+Dialogue: 0,0:17:00.45,0:17:01.87,Main Dialog,,0000,0000,0000,,He has him on the ropes!
+Dialogue: 0,0:17:01.87,0:17:03.37,Main Dialog,,0000,0000,0000,,Go, Aichi!
+Dialogue: 0,0:17:04.52,0:17:05.57,Main Dialog,,0000,0000,0000,,Aichi...
+Dialogue: 0,0:17:05.70,0:17:08.09,Main Dialog,,0000,0000,0000,,Come back to us, Kai!
+Dialogue: 0,0:17:11.04,0:17:15.01,Main Dialog,,0000,0000,0000,,Kai, I'm going to put everyone's \Nfeelings for you into this one attack!
+Dialogue: 0,0:17:15.16,0:17:17.63,Main Dialog,,0000,0000,0000,,Phallon attacks with a boost from Bruno!
+Dialogue: 0,0:17:23.54,0:17:24.62,Main Dialog,,0000,0000,0000,,Guard.
+Dialogue: 0,0:17:31.25,0:17:32.34,Main Dialog,,0000,0000,0000,,Turn end...
+Dialogue: 0,0:17:35.35,0:17:37.08,Main Dialog,,0000,0000,0000,,He couldn't finish him off...
+Dialogue: 0,0:17:37.08,0:17:41.18,Main Dialog,,0000,0000,0000,,It's okay! The damage is 3 to 5. \NBrother still has the advantage.
+Dialogue: 0,0:17:41.18,0:17:42.09,Main Dialog,,0000,0000,0000,,I know he can do this!
+Dialogue: 0,0:17:42.63,0:17:45.31,Main Dialog,,0000,0000,0000,,That's right! Victory is \Nright before his eyes!
+Dialogue: 0,0:17:46.58,0:17:47.94,Main Dialog,,0000,0000,0000,,He's too quiet.
+Dialogue: 0,0:17:50.92,0:17:53.30,Main Dialog,,0000,0000,0000,,I don't think it'll be over \Nfor Kai just like that.
+Dialogue: 0,0:17:53.83,0:17:54.88,Main Dialog,,0000,0000,0000,,Miwa...
+Dialogue: 0,0:18:01.50,0:18:05.49,Main Dialog,,0000,0000,0000,,Aichi, you showed me plenty of your strength.
+Dialogue: 0,0:18:06.94,0:18:11.68,Main Dialog,,0000,0000,0000,,In exchange, I'll show you the power \Nof Link Joker that I was given!
+Dialogue: 0,0:18:16.42,0:18:19.22,Main Dialog,,0000,0000,0000,,Beast of war that's come from another world,
+Dialogue: 0,0:18:19.93,0:18:22.70,Main Dialog,,0000,0000,0000,,seal the power of the entire army!
+Dialogue: 0,0:18:24.17,0:18:25.99,Main Dialog,,0000,0000,0000,,Break ride!
+Dialogue: 0,0:18:26.71,0:18:30.15,Main Dialog,,0000,0000,0000,,Star-vader, Infinite Zero Dragon!
+Dialogue: 0,0:18:34.15,0:18:36.14,Main Dialog,,0000,0000,0000,,Lock the rear-guards!
+Dialogue: 0,0:18:43.38,0:18:46.94,Main Dialog,,0000,0000,0000,,Infinite Zero gets +10000 power.
+Dialogue: 0,0:18:49.26,0:18:52.80,Main Dialog,,0000,0000,0000,,By locking units from the front \Nand back of different lines,
+Dialogue: 0,0:18:52.80,0:18:55.47,Main Dialog,,0000,0000,0000,,he protects against boosted \Nattacks and intercepts!
+Dialogue: 0,0:18:56.10,0:18:57.68,Main Dialog,,0000,0000,0000,,Neon moves.
+Dialogue: 0,0:18:58.60,0:19:01.72,Main Dialog,,0000,0000,0000,,I call Demon Claw Star-vader, Lanthanum
+Dialogue: 0,0:19:01.98,0:19:04.00,Main Dialog,,0000,0000,0000,,and Star-vader, Colony Maker!
+Dialogue: 0,0:19:04.58,0:19:06.99,Main Dialog,,0000,0000,0000,,Colony Maker's Counterblast!
+Dialogue: 0,0:19:08.99,0:19:13.01,Main Dialog,,0000,0000,0000,,I call one Star-vader unit of \Ngrade 1 or lower from my deck.
+Dialogue: 0,0:19:13.89,0:19:15.01,Main Dialog,,0000,0000,0000,,Lanthanum!
+Dialogue: 0,0:19:16.46,0:19:20.33,Main Dialog,,0000,0000,0000,,Infinite Zero attacks with \Na boost from Lanthanum!
+Dialogue: 0,0:19:23.75,0:19:25.78,Main Dialog,,0000,0000,0000,,Check the drive trigger.
+Dialogue: 0,0:19:26.75,0:19:29.13,Main Dialog,,0000,0000,0000,,I got a draw trigger.
+Dialogue: 0,0:19:29.13,0:19:32.95,Main Dialog,,0000,0000,0000,,I give the power to Colony Maker and draw.
+Dialogue: 0,0:19:34.03,0:19:35.74,Main Dialog,,0000,0000,0000,,Second check.
+Dialogue: 0,0:19:37.40,0:19:39.37,Main Dialog,,0000,0000,0000,,I got a critical trigger.
+Dialogue: 0,0:19:40.73,0:19:41.96,Main Dialog,,0000,0000,0000,,Double trigger!
+Dialogue: 0,0:19:42.22,0:19:44.03,Main Dialog,,0000,0000,0000,,Th-That's...
+Dialogue: 0,0:19:44.25,0:19:46.16,Main Dialog,,0000,0000,0000,,...Toshiki Kai.
+Dialogue: 0,0:19:47.68,0:19:50.51,Main Dialog,,0000,0000,0000,,I add +5000 to the power of Krypton
+Dialogue: 0,0:19:50.51,0:19:53.60,Main Dialog,,0000,0000,0000,,and give the extra critical to Infinite Zero.
+Dialogue: 0,0:20:03.66,0:20:06.28,Main Dialog,,0000,0000,0000,,He's strong... But that's Kai for you!
+Dialogue: 0,0:20:06.99,0:20:09.81,Main Dialog,,0000,0000,0000,,Shoot! Now Aichi is the one on the ropes!
+Dialogue: 0,0:20:10.26,0:20:11.91,Main Dialog,,0000,0000,0000,,Neon boosts.
+Dialogue: 0,0:20:12.69,0:20:14.94,Main Dialog,,0000,0000,0000,,Colony Maker attacks!
+Dialogue: 0,0:20:15.43,0:20:16.30,Main Dialog,,0000,0000,0000,,Oh no, you don't!
+Dialogue: 0,0:20:17.18,0:20:17.70,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:20:22.73,0:20:24.93,Main Dialog,,0000,0000,0000,,He just has to block one more time!
+Dialogue: 0,0:20:25.55,0:20:28.87,Main Dialog,,0000,0000,0000,,Krypton attacks with a boost from Lanthanum!
+Dialogue: 0,0:20:33.52,0:20:35.73,Main Dialog,,0000,0000,0000,,I'm going to win!
+Dialogue: 0,0:20:40.04,0:20:43.41,Main Dialog,,0000,0000,0000,,Come, irreplaceable soul brothers!
+Dialogue: 0,0:20:43.99,0:20:45.62,Main Dialog,,0000,0000,0000,,Respond to my voice!
+Dialogue: 0,0:20:47.36,0:20:50.12,Main Dialog,,0000,0000,0000,,Sword Formation Liberator, Igraine!
+Dialogue: 0,0:20:50.61,0:20:52.43,Main Dialog,,0000,0000,0000,,Quintet Wall!
+Dialogue: 0,0:21:15.00,0:21:16.44,Main Dialog,,0000,0000,0000,,Turn end...
+Dialogue: 0,0:21:17.11,0:21:20.91,Main Dialog,,0000,0000,0000,,Yeah! He blocked it! \NNow only 1 more damage!
+Dialogue: 0,0:21:20.91,0:21:23.27,Main Dialog,,0000,0000,0000,,Aich's gonna win this, \Nno doubt about it!
+Dialogue: 0,0:21:23.27,0:21:28.20,Main Dialog,,0000,0000,0000,,But... Sendou can only attack \Nfrom two columns.
+Dialogue: 0,0:21:28.20,0:21:32.00,Main Dialog,,0000,0000,0000,,What the heck, Granny Glasses?! \NThat ain't what you were sayin' before!
+Dialogue: 0,0:21:32.00,0:21:34.50,Main Dialog,,0000,0000,0000,,I-I'm just saying the truth!
+Dialogue: 0,0:21:34.50,0:21:35.55,Main Dialog,,0000,0000,0000,,Nope!
+Dialogue: 0,0:21:36.71,0:21:39.18,Main Dialog,,0000,0000,0000,,Knowing Brother Aichi, I'm sure he'll do it!
+Dialogue: 0,0:21:46.60,0:21:48.91,Main Dialog,,0000,0000,0000,,I'm going to win this turn.
+Dialogue: 0,0:21:48.91,0:21:51.38,Main Dialog,,0000,0000,0000,,I'm going to release Kai from that darkness!
+Dialogue: 0,0:21:51.38,0:21:53.19,Main Dialog,,0000,0000,0000,,It's impossible.
+Dialogue: 0,0:21:53.19,0:21:56.22,Main Dialog,,0000,0000,0000,,Your attacks won't get through.
+Dialogue: 0,0:21:56.22,0:21:59.72,Main Dialog,,0000,0000,0000,,It looks like I've surpassed you!
+Dialogue: 0,0:22:04.41,0:22:08.92,Main Dialog,,0000,0000,0000,,Aichi, the darkness is \Ngoing to swallow you up!
+Dialogue: 0,0:23:58.10,0:24:02.00,Main Dialog,,0000,0000,0000,,Aichi, your full power has reached me.
+Dialogue: 0,0:24:02.00,0:24:02.75,Main Dialog,,0000,0000,0000,,Kai...
+Dialogue: 0,0:24:02.75,0:24:04.96,Main Dialog,,0000,0000,0000,,And I can say that I've surpassed you.
+Dialogue: 0,0:24:04.96,0:24:10.67,Main Dialog,,0000,0000,0000,,I won't lose! I'll win this fight\Nand return the Reversed Kai to normal!
+Dialogue: 0,0:24:10.67,0:24:12.48,Main Dialog,,0000,0000,0000,,Next time: Beyond the Bond!
+Dialogue: 0,0:24:11.13,0:24:24.97,Signs,,0000,0000,0000,,Beyond the Bond
+Dialogue: 0,0:24:12.82,0:24:15.13,Main Dialog,,0000,0000,0000,,I'm shouldering everyone's feelings!
+Dialogue: 0,0:24:15.13,0:24:19.95,Main Dialog,,0000,0000,0000,,Right now, I've attained a height \Nfar greater than you even think.
+Dialogue: 0,0:24:19.95,0:24:23.72,Main Dialog,,0000,0000,0000,,And what's waiting for \Nyou is chaotic darkness.

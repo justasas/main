@@ -1,0 +1,761 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: X-Men The Last Stand (2006) 1080p
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:11.98,0:01:16.78,Default,,0,0,0,,I still don't know why l'm here.\NCouldn't you just make them say yes?
+Dialogue: 0,0:01:16.95,0:01:19.28,Default,,0,0,0,,Yes, l could, but it's not my way.
+Dialogue: 0,0:01:19.45,0:01:21.41,Default,,0,0,0,,And l would expect you, of all people,
+Dialogue: 0,0:01:21.58,0:01:24.16,Default,,0,0,0,,would understand\Nmy feelings on misuse of power.
+Dialogue: 0,0:01:24.33,0:01:28.33,Default,,0,0,0,,Ah, power corrupts and all that.\NYes, l know, Charles.
+Dialogue: 0,0:01:28.50,0:01:32.00,Default,,0,0,0,,- When are you going to stop lecturing me?\N- When you start listening.
+Dialogue: 0,0:01:32.17,0:01:34.51,Default,,0,0,0,,You're here because I need you.
+Dialogue: 0,0:01:34.67,0:01:37.30,Default,,0,0,0,,We don't have to meet\Nevery one of them in person?
+Dialogue: 0,0:01:37.47,0:01:41.18,Default,,0,0,0,,No. This one's special.
+Dialogue: 0,0:01:42.68,0:01:45.35,Default,,0,0,0,,What a beautiful campus.\NJohn, don't you think?
+Dialogue: 0,0:01:45.52,0:01:48.02,Default,,0,0,0,,Yeah, the brochure is great.
+Dialogue: 0,0:01:48.19,0:01:52.02,Default,,0,0,0,,But what about Jean?\NWhat about her illness?
+Dialogue: 0,0:01:52.19,0:01:54.53,Default,,0,0,0,,- Illness?\N- John.
+Dialogue: 0,0:01:54.69,0:01:56.86,Default,,0,0,0,,You think your daughter is sick, mr grey?
+Dialogue: 0,0:01:57.03,0:02:00.74,Default,,0,0,0,,Perhaps it would be best\Nif we were to speak to her. Alone.
+Dialogue: 0,0:02:00.91,0:02:03.24,Default,,0,0,0,,Of course.
+Dialogue: 0,0:02:03.41,0:02:05.99,Default,,0,0,0,,Jean, can you come down, dear?
+Dialogue: 0,0:02:16.97,0:02:19.05,Default,,0,0,0,,We'll leave you, then.
+Dialogue: 0,0:02:27.27,0:02:33.06,Default,,0,0,0,,It's very rude to read my thoughts,\Nor mr lensherr's, without our permission.
+Dialogue: 0,0:02:33.23,0:02:36.78,Default,,0,0,0,,Did you think you were\Nthe only one of your kind, young lady?
+Dialogue: 0,0:02:36.94,0:02:40.24,Default,,0,0,0,,We're mutants, Jean. We're like you.
+Dialogue: 0,0:02:41.41,0:02:44.37,Default,,0,0,0,,Really? L doubt that.
+Dialogue: 0,0:03:01.05,0:03:03.09,Default,,0,0,0,,Oh, Charles.
+Dialogue: 0,0:03:03.76,0:03:06.26,Default,,0,0,0,,I like this one.
+Dialogue: 0,0:03:06.43,0:03:08.89,Default,,0,0,0,,You have more power\Nthan you can imagine, Jean.
+Dialogue: 0,0:03:09.06,0:03:12.81,Default,,0,0,0,,The question is,\Nwill you control that power?
+Dialogue: 0,0:03:15.52,0:03:17.77,Default,,0,0,0,,Or let it control you?
+Dialogue: 0,0:03:38.17,0:03:41.55,Default,,0,0,0,,Warren? Son, is everything all right?
+Dialogue: 0,0:03:43.55,0:03:46.14,Default,,0,0,0,,- What's going on?\N- Nothing. L'll be right out.
+Dialogue: 0,0:03:46.30,0:03:49.81,Default,,0,0,0,,Come on.\NYou've been in there for over an hour.
+Dialogue: 0,0:03:50.68,0:03:53.02,Default,,0,0,0,,Open the door. Warren.
+Dialogue: 0,0:03:53.19,0:03:55.31,Default,,0,0,0,,One second!
+Dialogue: 0,0:03:57.36,0:03:59.65,Default,,0,0,0,,Open this door.
+Dialogue: 0,0:03:59.82,0:04:01.44,Default,,0,0,0,,Warren.
+Dialogue: 0,0:04:02.49,0:04:06.32,Default,,0,0,0,,Let me in there right now. Open the door.
+Dialogue: 0,0:04:21.01,0:04:23.47,Default,,0,0,0,,Oh, god.
+Dialogue: 0,0:04:23.63,0:04:26.97,Default,,0,0,0,,- Not you.\N- Dad, l'm sorry.
+Dialogue: 0,0:05:54.18,0:05:57.85,Default,,0,0,0,,The whole world's going to hell and\Nyou're just going to sit there? Let's go.
+Dialogue: 0,0:06:09.61,0:06:11.28,Default,,0,0,0,,Bobby!
+Dialogue: 0,0:06:17.75,0:06:20.21,Default,,0,0,0,,Thanks, kitty.
+Dialogue: 0,0:06:25.51,0:06:31.30,Default,,0,0,0,,- We're getting killed out here.\N- Yeah, I know. They're not ready, storm.
+Dialogue: 0,0:06:31.47,0:06:35.64,Default,,0,0,0,,- Logan.\N- Oh, don't get your panties in a bunch.
+Dialogue: 0,0:06:39.31,0:06:41.14,Default,,0,0,0,,That was my last cigar.
+Dialogue: 0,0:06:41.31,0:06:42.98,Default,,0,0,0,,Logan.
+Dialogue: 0,0:06:44.32,0:06:48.49,Default,,0,0,0,,- It's getting closer.\N- Come on. Let's keep moving.
+Dialogue: 0,0:06:48.65,0:06:51.20,Default,,0,0,0,,Hey, tin man. Come here.
+Dialogue: 0,0:06:51.36,0:06:55.03,Default,,0,0,0,,- How's your throwing arm?\N- Logan, we work as a team.
+Dialogue: 0,0:06:55.20,0:06:58.20,Default,,0,0,0,,Yeah. Good luck with that.\NThrow me. Now.
+Dialogue: 0,0:06:58.37,0:07:01.67,Default,,0,0,0,,Dammit, Logan, don't do this.
+Dialogue: 0,0:07:18.52,0:07:21.18,Default,,0,0,0,,Class dismissed.
+Dialogue: 0,0:07:24.02,0:07:26.52,Default,,0,0,0,,Hey, colossus. Nice throw.
+Dialogue: 0,0:07:29.36,0:07:31.78,Default,,0,0,0,,Simulation complete.
+Dialogue: 0,0:07:36.20,0:07:38.37,Default,,0,0,0,,- What was that?\N- Danger room session.
+Dialogue: 0,0:07:38.54,0:07:40.29,Default,,0,0,0,,- You know what l mean.\N- Lighten up.
+Dialogue: 0,0:07:40.46,0:07:43.54,Default,,0,0,0,,You can't change the rules.\NI'm trying to teach 'em something.
+Dialogue: 0,0:07:43.71,0:07:46.71,Default,,0,0,0,,- I taught 'em something.\N- It was a defensive exercise.
+Dialogue: 0,0:07:46.88,0:07:50.67,Default,,0,0,0,,Yeah, best defense is a good offense.\NOr is it the other way round?
+Dialogue: 0,0:07:50.84,0:07:54.80,Default,,0,0,0,,- This isn't a game, Logan.\N- Well, you sure fooled me.
+Dialogue: 0,0:07:54.97,0:07:59.35,Default,,0,0,0,,Hey, I'm just a sub.\NYou got a problem, talk to Scott.
+Dialogue: 0,0:08:16.20,0:08:18.45,Default,,0,0,0,,- Scott!\N- Jean.
+Dialogue: 0,0:08:18.62,0:08:20.95,Default,,0,0,0,,Scott. Scott.
+Dialogue: 0,0:08:21.12,0:08:25.54,Default,,0,0,0,,Scott.
+Dialogue: 0,0:08:26.42,0:08:28.71,Default,,0,0,0,,- Are you ok?\N- I'm fine.
+Dialogue: 0,0:08:30.42,0:08:33.30,Default,,0,0,0,,You seem like you're avoiding me.\NSomething's wrong.
+Dialogue: 0,0:08:33.47,0:08:37.59,Default,,0,0,0,,I can't touch my boyfriend without\Nkilling him. Other than that I'm wonderful.
+Dialogue: 0,0:08:37.76,0:08:41.10,Default,,0,0,0,,Hey. I don't think that's fair.\NHave l ever put any pressure on you?
+Dialogue: 0,0:08:41.27,0:08:45.85,Default,,0,0,0,,You're a guy, Bobby.\NYour mind's only on one thing.
+Dialogue: 0,0:08:48.23,0:08:50.61,Default,,0,0,0,,They were looking for you.\NYou didn't show.
+Dialogue: 0,0:08:50.78,0:08:51.78,Default,,0,0,0,,What do you care?
+Dialogue: 0,0:08:51.94,0:08:55.03,Default,,0,0,0,,- For starters, l had to cover your ass.\N- I didn't ask you to.
+Dialogue: 0,0:08:55.20,0:08:57.24,Default,,0,0,0,,No, you didn't. The professor did.
+Dialogue: 0,0:08:57.41,0:09:00.87,Default,,0,0,0,,- I was just passing through.\N- So pass through, Logan.
+Dialogue: 0,0:09:01.04,0:09:03.12,Default,,0,0,0,,Hey, look.
+Dialogue: 0,0:09:04.37,0:09:08.21,Default,,0,0,0,,- I know how you feel. When Jean died...\N- Don't.
+Dialogue: 0,0:09:10.46,0:09:13.30,Default,,0,0,0,,Maybe it's time for us to move on.
+Dialogue: 0,0:09:16.63,0:09:20.26,Default,,0,0,0,,Not everybody heals as fast as you, Logan.
+Dialogue: 0,0:09:42.16,0:09:44.62,Default,,0,0,0,,- Mr secretary.\N- Yes.
+Dialogue: 0,0:09:46.16,0:09:50.17,Default,,0,0,0,,- The meeting's begun, sir.\N- Thank you.
+Dialogue: 0,0:09:55.42,0:09:57.30,Default,,0,0,0,,Mr president.
+Dialogue: 0,0:09:57.47,0:09:59.51,Default,,0,0,0,,Have a seat, Hank.
+Dialogue: 0,0:10:00.97,0:10:04.01,Default,,0,0,0,,Homeland security was tracking Magneto.
+Dialogue: 0,0:10:04.18,0:10:07.68,Default,,0,0,0,,We got hits in Lisbon, Geneva, Montreal.
+Dialogue: 0,0:10:07.85,0:10:12.86,Default,,0,0,0,,Navsat lost him crossing the border,\Nbut we did get a consolation prize.
+Dialogue: 0,0:10:13.02,0:10:15.69,Default,,0,0,0,,We picked her up breaking into the fda.
+Dialogue: 0,0:10:15.86,0:10:19.24,Default,,0,0,0,,You know who she's been imitating?\NSecretary trask here.
+Dialogue: 0,0:10:19.41,0:10:22.41,Default,,0,0,0,,Yes, sir. She can do that.
+Dialogue: 0,0:10:22.58,0:10:26.58,Default,,0,0,0,,- Not any more, she can't. We got her.\N- You think your prisons can hold her?
+Dialogue: 0,0:10:26.75,0:10:30.37,Default,,0,0,0,,We have some new prisons.\NWe'll keep them mobile. Be a step ahead.
+Dialogue: 0,0:10:30.54,0:10:32.71,Default,,0,0,0,,Where is Magneto?
+Dialogue: 0,0:10:33.50,0:10:35.38,Default,,0,0,0,,Raven?
+Dialogue: 0,0:10:35.55,0:10:40.09,Default,,0,0,0,,- Raven, l asked you a question.\N- I don't answer to my slave name.
+Dialogue: 0,0:10:40.26,0:10:43.35,Default,,0,0,0,,Raven darkholme.\NThat's your real name, isn't it?
+Dialogue: 0,0:10:43.51,0:10:46.89,Default,,0,0,0,,Or has he convinced you\Nyou don't have a family any more?
+Dialogue: 0,0:10:47.06,0:10:51.06,Default,,0,0,0,,My family tried to kill me,\Nyou pathetic meat sack.
+Dialogue: 0,0:10:51.98,0:10:55.07,Default,,0,0,0,,Ok, then. Mystique - where is he?
+Dialogue: 0,0:10:58.86,0:11:00.90,Default,,0,0,0,,In here with us.
+Dialogue: 0,0:11:01.74,0:11:04.99,Default,,0,0,0,,I don't want to play games with you.\NI want answers.
+Dialogue: 0,0:11:05.16,0:11:07.62,Default,,0,0,0,,You don't want to play games with me?
+Dialogue: 0,0:11:07.79,0:11:12.37,Default,,0,0,0,,You are going to stop this.\NTell me, where is Magneto?
+Dialogue: 0,0:11:13.42,0:11:15.71,Default,,0,0,0,,You wanna know where he is?
+Dialogue: 0,0:11:23.76,0:11:25.72,Default,,0,0,0,,Homo sapien.
+Dialogue: 0,0:11:31.77,0:11:34.31,Default,,0,0,0,,You know, her capture\Nwill only provoke Magneto,
+Dialogue: 0,0:11:34.48,0:11:37.44,Default,,0,0,0,,but having her does give us\Nsome diplomatic leverage.
+Dialogue: 0,0:11:37.61,0:11:41.44,Default,,0,0,0,,On principle, I can't negotiate\Nwith these people.
+Dialogue: 0,0:11:41.61,0:11:45.95,Default,,0,0,0,,- I thought that's why you appointed me, sir.\N- Yes, it is.
+Dialogue: 0,0:11:46.12,0:11:49.62,Default,,0,0,0,,- But that's not why you called me here.\N- No. This is.
+Dialogue: 0,0:11:49.79,0:11:52.58,Default,,0,0,0,,It's what she stole from the fda.
+Dialogue: 0,0:11:58.59,0:12:00.63,Default,,0,0,0,,Dear lord.
+Dialogue: 0,0:12:02.26,0:12:05.05,Default,,0,0,0,,- Is it viable?\N- We believe it is.
+Dialogue: 0,0:12:07.76,0:12:10.68,Default,,0,0,0,,You realize the impact\Nthis'll have on the mutant community?
+Dialogue: 0,0:12:10.85,0:12:16.65,Default,,0,0,0,,Yes. L do. That's precisely why\Nwe need some of your diplomacy now.
+Dialogue: 0,0:12:20.36,0:12:23.24,Default,,0,0,0,,When an individual acquires great power,
+Dialogue: 0,0:12:23.40,0:12:27.20,Default,,0,0,0,,the use or misuse of that power\Nis everything.
+Dialogue: 0,0:12:27.37,0:12:34.00,Default,,0,0,0,,Will it be for the greater good or will it be\Nused for personal or for destructive ends?
+Dialogue: 0,0:12:34.17,0:12:36.83,Default,,0,0,0,,Now, this is a question\Nwe must all ask ourselves.
+Dialogue: 0,0:12:37.00,0:12:39.67,Default,,0,0,0,,Why? Because we are mutants.
+Dialogue: 0,0:12:39.84,0:12:42.55,Default,,0,0,0,,For psychics,\Nthis presents a particular problem.
+Dialogue: 0,0:12:42.72,0:12:47.18,Default,,0,0,0,,When is it acceptable to use our power\Nand when do we cross that invisible line
+Dialogue: 0,0:12:47.34,0:12:49.97,Default,,0,0,0,,that turns us into tyrants\Nover our fellow man?
+Dialogue: 0,0:12:50.14,0:12:53.98,Default,,0,0,0,,But Einstein said that ethics\Nare an exclusive human concern
+Dialogue: 0,0:12:54.14,0:12:56.39,Default,,0,0,0,,without any superhuman authority behind it.
+Dialogue: 0,0:12:56.56,0:13:00.11,Default,,0,0,0,,Einstein wasn't a mutant\Nso far as we know.
+Dialogue: 0,0:13:02.53,0:13:07.28,Default,,0,0,0,,This case study was sent to me\Nby a colleague, dr moira mctaggert. Jones.
+Dialogue: 0,0:13:07.45,0:13:11.28,Default,,0,0,0,,The man you see here was born\Nwith no higher-level brain functions.
+Dialogue: 0,0:13:11.45,0:13:16.21,Default,,0,0,0,,His organs and nervous system work,\Nbut he has no consciousness to speak of.
+Dialogue: 0,0:13:16.37,0:13:20.04,Default,,0,0,0,,What if we were to transfer\Nthe consciousness of one person,
+Dialogue: 0,0:13:20.21,0:13:23.30,Default,,0,0,0,,say a father of four with terminal cancer,
+Dialogue: 0,0:13:23.46,0:13:25.88,Default,,0,0,0,,into the body of this man?
+Dialogue: 0,0:13:26.05,0:13:31.85,Default,,0,0,0,,How are we to decide what falls within\Nthe range of ethical behavior and what...
+Dialogue: 0,0:13:44.40,0:13:46.44,Default,,0,0,0,,Professor?
+Dialogue: 0,0:13:48.36,0:13:52.58,Default,,0,0,0,,We'll continue this tomorrow.\NClass dismissed.
+Dialogue: 0,0:13:59.75,0:14:02.21,Default,,0,0,0,,The forecast was for sunny skies.
+Dialogue: 0,0:14:03.92,0:14:05.96,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:14:14.93,0:14:18.98,Default,,0,0,0,,I don't have to be psychic\Nto see that something's bothering you.
+Dialogue: 0,0:14:20.60,0:14:22.86,Default,,0,0,0,,I don't understand. Magneto's a fugitive,
+Dialogue: 0,0:14:23.02,0:14:26.99,Default,,0,0,0,,we've a mutant in the cabinet,\Na president who understands us - why hide?
+Dialogue: 0,0:14:27.15,0:14:31.95,Default,,0,0,0,,We're not hiding. But we still have enemies.\NI must protect my students. You know that.
+Dialogue: 0,0:14:32.12,0:14:35.16,Default,,0,0,0,,Yes, but we can't be students forever.
+Dialogue: 0,0:14:35.33,0:14:38.37,Default,,0,0,0,,Storm, I haven't thought of you\Nas my student for years.
+Dialogue: 0,0:14:38.54,0:14:44.00,Default,,0,0,0,,In fact, l thought that perhaps\Nyou might take my place some day.
+Dialogue: 0,0:14:47.42,0:14:50.34,Default,,0,0,0,,- But Scott's...\N- Scott's a changed man.
+Dialogue: 0,0:14:50.51,0:14:53.09,Default,,0,0,0,,He took Jean's death so hard.
+Dialogue: 0,0:14:53.26,0:14:55.31,Default,,0,0,0,,Yes, things are better out there,
+Dialogue: 0,0:14:55.47,0:14:59.48,Default,,0,0,0,,but you, of all people,\Nknow how fast the weather can change.
+Dialogue: 0,0:14:59.64,0:15:03.23,Default,,0,0,0,,There's something you're not telling us.
+Dialogue: 0,0:15:12.11,0:15:13.99,Default,,0,0,0,,Hank?
+Dialogue: 0,0:15:14.16,0:15:16.24,Default,,0,0,0,,Ororo. Charles.
+Dialogue: 0,0:15:19.75,0:15:21.75,Default,,0,0,0,,I love what you've done with your hair.
+Dialogue: 0,0:15:21.92,0:15:25.67,Default,,0,0,0,,You too. Thank you for seeing me\Non such short notice.
+Dialogue: 0,0:15:25.84,0:15:29.42,Default,,0,0,0,,Henry, you are always welcome here.\NYou're a part of this place.
+Dialogue: 0,0:15:29.59,0:15:31.76,Default,,0,0,0,,- I have news.\N- Is it Eric?
+Dialogue: 0,0:15:31.93,0:15:35.01,Default,,0,0,0,,No. Though we have been making\Nsome progress on that front.
+Dialogue: 0,0:15:35.18,0:15:39.68,Default,,0,0,0,,- Mystique was recently apprehended.\N- Who's the fur ball?
+Dialogue: 0,0:15:39.85,0:15:42.23,Default,,0,0,0,,Hank McCoy. Secretary of mutant affairs.
+Dialogue: 0,0:15:42.39,0:15:45.15,Default,,0,0,0,,Right, right. The secretary. Nice suit.
+Dialogue: 0,0:15:45.31,0:15:47.90,Default,,0,0,0,,- Henry, this is Logan. He's...\N- Wolverine.
+Dialogue: 0,0:15:48.07,0:15:51.36,Default,,0,0,0,,- I hear you're quite an animal.\N- Look who's talking.
+Dialogue: 0,0:15:51.53,0:15:53.53,Default,,0,0,0,,Magneto's gonna come get mystique.
+Dialogue: 0,0:15:53.70,0:15:57.45,Default,,0,0,0,,Magneto's not the problem.\NAt least not our most pressing one.
+Dialogue: 0,0:15:57.62,0:16:01.08,Default,,0,0,0,,A major pharmaceutical company\Nhas developed a mutant antibody.
+Dialogue: 0,0:16:01.25,0:16:04.04,Default,,0,0,0,,A way to suppress the mutant x gene.
+Dialogue: 0,0:16:04.21,0:16:07.25,Default,,0,0,0,,- Suppress?\N- Permanently.
+Dialogue: 0,0:16:07.42,0:16:10.05,Default,,0,0,0,,They're calling it a cure.
+Dialogue: 0,0:16:13.38,0:16:16.30,Default,,0,0,0,,That's ridiculous.\NYou can't cure being a mutant.
+Dialogue: 0,0:16:16.47,0:16:19.68,Default,,0,0,0,,- Scientifically speaking...\N- When did we become a disease?
+Dialogue: 0,0:16:19.85,0:16:21.89,Default,,0,0,0,,Storm.
+Dialogue: 0,0:16:22.06,0:16:24.39,Default,,0,0,0,,They're announcing it now.
+Dialogue: 0,0:16:29.11,0:16:32.90,Default,,0,0,0,,These so-called mutants\Nare people just like us.
+Dialogue: 0,0:16:33.07,0:16:36.07,Default,,0,0,0,,Their affliction is nothing more\Nthan a disease,
+Dialogue: 0,0:16:36.24,0:16:39.24,Default,,0,0,0,,a corruption of healthy cellular activity.
+Dialogue: 0,0:16:39.41,0:16:42.70,Default,,0,0,0,,But l stand here today\Nto tell you that there's hope.
+Dialogue: 0,0:16:42.87,0:16:46.00,Default,,0,0,0,,This site, once the world's\Nmost famous prison,
+Dialogue: 0,0:16:46.17,0:16:50.09,Default,,0,0,0,,will now be the source of freedom\Nfor all mutants who choose it.
+Dialogue: 0,0:16:50.25,0:16:52.42,Default,,0,0,0,,Ladies and gentlemen...
+Dialogue: 0,0:16:53.26,0:16:56.72,Default,,0,0,0,,I proudly present the answer to mutation.
+Dialogue: 0,0:16:56.89,0:17:00.18,Default,,0,0,0,,Finally, we have a cure.
+Dialogue: 0,0:17:03.89,0:17:08.48,Default,,0,0,0,,Who would want this cure? L mean, what kind\Nof coward would take it just to fit in?
+Dialogue: 0,0:17:08.65,0:17:12.98,Default,,0,0,0,,Is it cowardice to save oneself\Nfrom persecution?
+Dialogue: 0,0:17:13.15,0:17:15.15,Default,,0,0,0,,Not all of us can fit in so easily.
+Dialogue: 0,0:17:15.32,0:17:20.16,Default,,0,0,0,,- You don't shed on the furniture.\N- The government probably cooked this up.
+Dialogue: 0,0:17:20.33,0:17:23.75,Default,,0,0,0,,- The government had nothing to do with it.\N- I've heard that before.
+Dialogue: 0,0:17:23.91,0:17:28.62,Default,,0,0,0,,My boy, I have been fighting for mutant\Nrights since before you had claws.
+Dialogue: 0,0:17:28.79,0:17:32.92,Default,,0,0,0,,- Did he just call me boy?\N- Is it true? They can cure us?
+Dialogue: 0,0:17:34.01,0:17:36.30,Default,,0,0,0,,Yes, rogue. It appears to be true.
+Dialogue: 0,0:17:38.93,0:17:41.01,Default,,0,0,0,,No. Professor.
+Dialogue: 0,0:17:41.18,0:17:43.26,Default,,0,0,0,,They can't cure us.
+Dialogue: 0,0:17:44.93,0:17:49.35,Default,,0,0,0,,You wanna know why? Because there's\Nnothing to cure. Nothing's wrong with you.
+Dialogue: 0,0:17:49.52,0:17:51.98,Default,,0,0,0,,Or any of us, for that matter.
+Dialogue: 0,0:17:53.61,0:17:57.86,Default,,0,0,0,,How should we, as mutants, respond?\NHere's what l think.
+Dialogue: 0,0:17:58.03,0:18:03.16,Default,,0,0,0,,This is about getting organized. Bringing\Nour complaints to the right people.
+Dialogue: 0,0:18:03.33,0:18:07.83,Default,,0,0,0,,We need to put together a committee\Nand talk to the government.
+Dialogue: 0,0:18:08.87,0:18:13.00,Default,,0,0,0,,They don't understand. They don't know\Nwhat it means to be a mutant.
+Dialogue: 0,0:18:13.17,0:18:19.01,Default,,0,0,0,,We need to show them, educate them,\Nlet them know that we're here to stay.
+Dialogue: 0,0:18:20.72,0:18:25.01,Default,,0,0,0,,People, you must listen.\NThey won't take us seriously...
+Dialogue: 0,0:18:25.18,0:18:28.68,Default,,0,0,0,,- They wanna exterminate us.\N- This cure is voluntary.
+Dialogue: 0,0:18:28.85,0:18:31.31,Default,,0,0,0,,Nobody is talking about extermination.
+Dialogue: 0,0:18:31.48,0:18:34.11,Default,,0,0,0,,No one ever talks about it.
+Dialogue: 0,0:18:35.69,0:18:38.19,Default,,0,0,0,,They just do it.
+Dialogue: 0,0:18:38.36,0:18:44.45,Default,,0,0,0,,And you'll go on with your lives\Nignoring the signs all around you.
+Dialogue: 0,0:18:44.62,0:18:50.33,Default,,0,0,0,,And then one day, when the air is still and\Nthe night has fallen, they come for you.
+Dialogue: 0,0:18:50.50,0:18:54.25,Default,,0,0,0,,Then you realize, while you're talking\Nabout organizing and committees,
+Dialogue: 0,0:18:54.42,0:18:56.55,Default,,0,0,0,,the extermination has already begun.
+Dialogue: 0,0:18:56.71,0:19:01.26,Default,,0,0,0,,Make no mistake, my brothers.\NThey will draw first blood.
+Dialogue: 0,0:19:01.43,0:19:04.39,Default,,0,0,0,,They will force their cure upon us.
+Dialogue: 0,0:19:05.68,0:19:10.10,Default,,0,0,0,,The only question is,\Nwill you join my brotherhood and fight?
+Dialogue: 0,0:19:10.27,0:19:13.44,Default,,0,0,0,,Or wait for the inevitable genocide?
+Dialogue: 0,0:19:13.61,0:19:16.73,Default,,0,0,0,,Who will you stand with? The humans?
+Dialogue: 0,0:19:18.28,0:19:20.40,Default,,0,0,0,,Or us?
+Dialogue: 0,0:19:28.58,0:19:32.42,Default,,0,0,0,,You talk pretty tough for a guy in a cape.
+Dialogue: 0,0:19:32.58,0:19:34.67,Default,,0,0,0,,Back off.
+Dialogue: 0,0:19:34.84,0:19:39.01,Default,,0,0,0,,If you're so proud of being a mutant,\Nwhere's your mark?
+Dialogue: 0,0:19:40.55,0:19:43.68,Default,,0,0,0,,I have been marked once, my dear.\NLet me assure you.
+Dialogue: 0,0:19:43.84,0:19:46.76,Default,,0,0,0,,No needle shall ever touch my skin again.
+Dialogue: 0,0:19:46.93,0:19:49.64,Default,,0,0,0,,You know who you're talking to?
+Dialogue: 0,0:19:49.81,0:19:51.89,Default,,0,0,0,,Do you?
+Dialogue: 0,0:19:53.44,0:19:56.61,Default,,0,0,0,,And what can you do?
+Dialogue: 0,0:19:57.61,0:19:59.94,Default,,0,0,0,,So you have talents?
+Dialogue: 0,0:20:00.11,0:20:03.11,Default,,0,0,0,,That and more. I know you control metal.
+Dialogue: 0,0:20:03.28,0:20:07.28,Default,,0,0,0,,And l know there's 87 mutants in here,\Nnone above a class three.
+Dialogue: 0,0:20:07.45,0:20:09.54,Default,,0,0,0,,Other than you two.
+Dialogue: 0,0:20:11.04,0:20:15.29,Default,,0,0,0,,You can sense other mutants\Nand their powers?
+Dialogue: 0,0:20:17.04,0:20:19.42,Default,,0,0,0,,Could you locate one for me?
+Dialogue: 0,0:20:37.65,0:20:42.44,Default,,0,0,0,,Let me out of here.\NI demand that you release me.
+Dialogue: 0,0:20:42.61,0:20:46.16,Default,,0,0,0,,Do you know who l am?\NI'm the President of the United States.
+Dialogue: 0,0:20:46.32,0:20:48.03,Default,,0,0,0,,Oh, mr president.
+Dialogue: 0,0:20:48.20,0:20:50.28,Default,,0,0,0,,Shut up.
+Dialogue: 0,0:20:51.66,0:20:58.17,Default,,0,0,0,,Why are you doing this to me? Let me down.\NI'll be a good girl. Please let me go.
+Dialogue: 0,0:20:58.34,0:20:59.88,Default,,0,0,0,,Please.
+Dialogue: 0,0:21:00.05,0:21:03.84,Default,,0,0,0,,Keep it up. L'll spray\Nyou in the face, bitch.
+Dialogue: 0,0:21:05.01,0:21:09.76,Default,,0,0,0,,When I get out of here,\NI'm going to kill you myself.
+Dialogue: 0,0:21:09.93,0:21:12.01,Default,,0,0,0,,Yeah, right.
+Dialogue: 0,0:21:40.42,0:21:43.38,Default,,0,0,0,,Secretary McCoy,\Nwelcome to worthington labs.
+Dialogue: 0,0:21:43.55,0:21:45.80,Default,,0,0,0,,Thank you, dr rao.\NNot an easy place to get to.
+Dialogue: 0,0:21:45.97,0:21:50.64,Default,,0,0,0,,It's the safest location we could find. That's\Nwhy we keep the source of the cure here.
+Dialogue: 0,0:21:51.39,0:21:54.22,Default,,0,0,0,,He is a mutant.\NYou understand our concern.
+Dialogue: 0,0:21:54.39,0:21:58.89,Default,,0,0,0,,- We are in compliance with your policy.\N- How long will you keep the boy here?
+Dialogue: 0,0:21:59.06,0:22:02.90,Default,,0,0,0,,Until we can fully map his DNA. We can\Nreplicate it, but we can't generate it.
+Dialogue: 0,0:22:03.07,0:22:05.40,Default,,0,0,0,,And his power? What is its range?
+Dialogue: 0,0:22:05.57,0:22:07.65,Default,,0,0,0,,You'll see.
+Dialogue: 0,0:22:11.45,0:22:13.24,Default,,0,0,0,,Jimmy.
+Dialogue: 0,0:22:13.41,0:22:16.91,Default,,0,0,0,,There's someone I would like you to meet.
+Dialogue: 0,0:22:17.08,0:22:19.00,Default,,0,0,0,,Hello there, son.
+Dialogue: 0,0:22:19.75,0:22:22.08,Default,,0,0,0,,- Hi.\N- My name is Hank McCoy.
+Dialogue: 0,0:22:29.38,0:22:31.22,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:22:32.10,0:22:34.22,Default,,0,0,0,,It's ok.
+Dialogue: 0,0:22:43.11,0:22:47.11,Default,,0,0,0,,You have an amazing gift.\NThank you, Jimmy.
+Dialogue: 0,0:22:56.95,0:22:59.25,Default,,0,0,0,,Extraordinary, isn't he?
+Dialogue: 0,0:23:00.33,0:23:02.46,Default,,0,0,0,,Yes, he is.
+Dialogue: 0,0:23:39.00,0:23:47.00,Default,,0,0,0,,Scott.
+Dialogue: 0,0:23:55.55,0:23:59.64,Default,,0,0,0,,- Can you hear me? L'm still here. Scott.\N- Stop.
+Dialogue: 0,0:23:59.81,0:24:02.18,Default,,0,0,0,,- I'm here. Scott. Scott.\N- Stop it.
+Dialogue: 0,0:24:02.35,0:24:05.02,Default,,0,0,0,,- Scott. Scott.\N- Stop it.
+Dialogue: 0,0:24:05.19,0:24:07.52,Default,,0,0,0,,I need you, Scott. Scott. Scott.
+Dialogue: 0,0:24:07.69,0:24:10.44,Default,,0,0,0,,Stop!
+Dialogue: 0,0:25:07.33,0:25:08.83,Default,,0,0,0,,Jean?
+Dialogue: 0,0:25:10.25,0:25:11.55,Default,,0,0,0,,Scott.
+Dialogue: 0,0:25:14.63,0:25:16.05,Default,,0,0,0,,How?
+Dialogue: 0,0:25:20.97,0:25:22.93,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:25:37.78,0:25:39.87,Default,,0,0,0,,I wanna see your eyes.
+Dialogue: 0,0:25:41.99,0:25:44.12,Default,,0,0,0,,- Take these off.\N- No.
+Dialogue: 0,0:25:46.12,0:25:48.04,Default,,0,0,0,,No.
+Dialogue: 0,0:25:48.21,0:25:50.92,Default,,0,0,0,,Trust me. L can control it now.
+Dialogue: 0,0:25:58.97,0:26:01.76,Default,,0,0,0,,Open them. You can't hurt me.
+Dialogue: 0,0:26:37.55,0:26:40.38,Default,,0,0,0,,- What happened?\N- No clue.
+Dialogue: 0,0:26:40.55,0:26:44.14,Default,,0,0,0,,- Professor, are you ok?\N- Get to alkali lake.
+Dialogue: 0,0:27:12.58,0:27:15.96,Default,,0,0,0,,- You don't want to be here.\N- Do you?
+Dialogue: 0,0:27:39.07,0:27:41.40,Default,,0,0,0,,I can't see a damn thing.
+Dialogue: 0,0:27:41.57,0:27:43.91,Default,,0,0,0,,I can take care of that.
+Dialogue: 0,0:28:00.22,0:28:02.26,Default,,0,0,0,,What the...
+Dialogue: 0,0:28:36.46,0:28:38.75,Default,,0,0,0,,Logan!
+Dialogue: 0,0:28:44.13,0:28:46.30,Default,,0,0,0,,She's alive.
+Dialogue: 0,0:28:50.47,0:28:52.02,Default,,0,0,0,,Jean.
+Dialogue: 0,0:28:55.44,0:29:00.73,Default,,0,0,0,,The sheer mass of water that collapsed\Non top of Jean should have obliterated her.
+Dialogue: 0,0:29:00.90,0:29:03.07,Default,,0,0,0,,The only explanation of Jean's survival
+Dialogue: 0,0:29:03.24,0:29:08.32,Default,,0,0,0,,is that her powers wrapped her\Nin a cocoon of telekinetic energy.
+Dialogue: 0,0:29:10.33,0:29:11.83,Default,,0,0,0,,Is she gonna be ok?
+Dialogue: 0,0:29:12.00,0:29:17.58,Default,,0,0,0,,Jean grey is the only class five mutant I've\Never encountered, her potential limitless.
+Dialogue: 0,0:29:17.75,0:29:22.46,Default,,0,0,0,,Her mutation is seated in the unconscious\Npart of her mind and therein lay the danger.
+Dialogue: 0,0:29:22.63,0:29:27.01,Default,,0,0,0,,When she was a girl,\Ni created a series of psychic barriers
+Dialogue: 0,0:29:27.18,0:29:29.68,Default,,0,0,0,,to isolate her powers\Nfrom her conscious mind.
+Dialogue: 0,0:29:29.85,0:29:35.85,Default,,0,0,0,,- Jean developed a dual personality.\N- What?
+Dialogue: 0,0:29:36.02,0:29:41.90,Default,,0,0,0,,The conscious Jean, whose powers were always\Nin her control, and the dormant side.
+Dialogue: 0,0:29:42.07,0:29:48.03,Default,,0,0,0,,A personality that, in our sessions,\Ncame to call itself the Phoenix.
+Dialogue: 0,0:29:48.66,0:29:54.45,Default,,0,0,0,,A purely instinctual creature,\Nall desire and joy and rage.
+Dialogue: 0,0:29:55.91,0:29:59.88,Default,,0,0,0,,- She knew all this?\N- It's unclear how much she knew.
+Dialogue: 0,0:30:00.04,0:30:05.21,Default,,0,0,0,,Far more critical is whether the woman\Nin front of us is the Jean grey we know,
+Dialogue: 0,0:30:05.38,0:30:08.76,Default,,0,0,0,,or the Phoenix furiously struggling\Nto be free.
+Dialogue: 0,0:30:08.93,0:30:11.80,Default,,0,0,0,,- She looks peaceful to me.\N- I'm keeping her that way.
+Dialogue: 0,0:30:11.97,0:30:17.43,Default,,0,0,0,,I'm trying to restore the psychic blocks\Nand cage the beast again.
+Dialogue: 0,0:30:17.60,0:30:19.90,Default,,0,0,0,,What have you done to her?
+Dialogue: 0,0:30:20.06,0:30:23.57,Default,,0,0,0,,- You have to understand...\N- You're talking about a person's mind.
+Dialogue: 0,0:30:23.73,0:30:26.65,Default,,0,0,0,,- She has to be controlled.\N- Controlled?
+Dialogue: 0,0:30:26.82,0:30:30.24,Default,,0,0,0,,Sometimes, when you cage the beast,\Nthe beast gets angry.
+Dialogue: 0,0:30:30.41,0:30:34.54,Default,,0,0,0,,You have no idea.\NYou have no idea of what she is capable.
+Dialogue: 0,0:30:34.70,0:30:37.58,Default,,0,0,0,,No, professor.\NI had no idea what you were capable of.
+Dialogue: 0,0:30:37.75,0:30:41.25,Default,,0,0,0,,I had a terrible choice to make.\NI chose the lesser of two evils.
+Dialogue: 0,0:30:41.63,0:30:45.42,Default,,0,0,0,,It sounds to me like Jean\Nhad no choice at all.
+Dialogue: 0,0:30:45.59,0:30:49.97,Default,,0,0,0,,I don't have to explain myself,\Nleast of all to you.
+Dialogue: 0,0:30:57.93,0:31:00.60,Default,,0,0,0,,History will be made here today.\NFor the first time,
+Dialogue: 0,0:31:00.77,0:31:04.11,Default,,0,0,0,,the so-called mutant cure\Nwill be available to the public.
+Dialogue: 0,0:31:04.27,0:31:07.48,Default,,0,0,0,,Reaction has run the gamut\Nwith mutants on both sides of the line.
+Dialogue: 0,0:31:07.65,0:31:13.91,Default,,0,0,0,,Some are desperate for this cure while\Nothers are offended by the very idea of it.
+Dialogue: 0,0:31:27.13,0:31:29.17,Default,,0,0,0,,Will secretary McCoy be a problem?
+Dialogue: 0,0:31:29.34,0:31:34.51,Default,,0,0,0,,Hard to say. His political views seem\Nsomewhat at odds with his personal issues.
+Dialogue: 0,0:31:34.68,0:31:37.64,Default,,0,0,0,,Excuse me, sir. Your son's arrived.
+Dialogue: 0,0:31:38.47,0:31:40.31,Default,,0,0,0,,Good. Bring him in.
+Dialogue: 0,0:31:40.48,0:31:42.64,Default,,0,0,0,,Are you sure you want to start with him?
+Dialogue: 0,0:31:42.81,0:31:45.27,Default,,0,0,0,,I think it's important. Yes.
+Dialogue: 0,0:31:46.94,0:31:49.15,Default,,0,0,0,,- Hello, Warren.\N- How are you, son?
+Dialogue: 0,0:31:49.32,0:31:51.70,Default,,0,0,0,,- Did you sleep well?\N- Yeah.
+Dialogue: 0,0:31:51.86,0:31:54.66,Default,,0,0,0,,You know, I'm proud of you for doing this.
+Dialogue: 0,0:31:54.82,0:31:58.33,Default,,0,0,0,,Everything's gonna be fine. L promise.
+Dialogue: 0,0:32:00.83,0:32:02.87,Default,,0,0,0,,You ready?
+Dialogue: 0,0:32:31.32,0:32:35.16,Default,,0,0,0,,The transformation can be a little jarring.
+Dialogue: 0,0:32:39.20,0:32:42.87,Default,,0,0,0,,- Dad, can we talk about this for a second?\N- We've talked about it, son.
+Dialogue: 0,0:32:43.04,0:32:44.83,Default,,0,0,0,,It'll all be over soon.
+Dialogue: 0,0:32:46.21,0:32:51.88,Default,,0,0,0,,- Everything's going to be fine.\N- Wait. L can't do this.
+Dialogue: 0,0:32:52.05,0:32:53.88,Default,,0,0,0,,Warren, calm down.
+Dialogue: 0,0:32:54.05,0:32:56.09,Default,,0,0,0,,- I can't do this.\N- Yes, you can.
+Dialogue: 0,0:32:56.26,0:32:59.30,Default,,0,0,0,,- I can't do this.\N- Just relax, son. Take it easy. Calm down.
+Dialogue: 0,0:32:59.47,0:33:03.31,Default,,0,0,0,,- I promise you it will be fine. Warren, relax.\N- Dad.
+Dialogue: 0,0:33:11.36,0:33:13.32,Default,,0,0,0,,Warren, it's a better life.
+Dialogue: 0,0:33:14.53,0:33:17.11,Default,,0,0,0,,- It's what we all want.\N- No.
+Dialogue: 0,0:33:18.24,0:33:20.53,Default,,0,0,0,,It's what you want.
+Dialogue: 0,0:33:22.54,0:33:25.08,Default,,0,0,0,,Warren, no!
+Dialogue: 0,0:34:38.91,0:34:40.91,Default,,0,0,0,,Told you so.
+Dialogue: 0,0:34:56.34,0:34:58.01,Default,,0,0,0,,About time.
+Dialogue: 0,0:34:58.17,0:35:01.59,Default,,0,0,0,,I've been busy.\NDid you find what you were looking for?
+Dialogue: 0,0:35:01.76,0:35:05.51,Default,,0,0,0,,The source of the cure is a mutant.\NA child at worthington labs.
+Dialogue: 0,0:35:05.68,0:35:08.35,Default,,0,0,0,,Without him, they have nothing.
+Dialogue: 0,0:35:08.52,0:35:10.52,Default,,0,0,0,,Read off the guest list.
+Dialogue: 0,0:35:11.73,0:35:15.86,Default,,0,0,0,,"Cell 41 205. James madrox."
+Dialogue: 0,0:35:16.03,0:35:18.03,Default,,0,0,0,,This one robbed seven banks.
+Dialogue: 0,0:35:24.03,0:35:28.04,Default,,0,0,0,,- At the same time.\N- I could use a man of your talents.
+Dialogue: 0,0:35:29.21,0:35:31.83,Default,,0,0,0,,- I'm in.\N- Welcome to the brotherhood.
+Dialogue: 0,0:35:35.21,0:35:39.55,Default,,0,0,0,,- Careful with this one.\N- "Cain Marko. Solitary confinement."
+Dialogue: 0,0:35:39.72,0:35:43.64,Default,,0,0,0,,Check this out.\N"Prisoner must be confined at all times."
+Dialogue: 0,0:35:43.80,0:35:47.22,Default,,0,0,0,,"If he builds any momentum,\Nno object can stop him."
+Dialogue: 0,0:35:47.39,0:35:49.89,Default,,0,0,0,,How fascinating.
+Dialogue: 0,0:35:51.35,0:35:54.23,Default,,0,0,0,,- What do they call you?\N- Juggernaut.
+Dialogue: 0,0:35:54.40,0:35:58.40,Default,,0,0,0,,- I can't imagine why.\N- Are you going to let me out? L need a pee.
+Dialogue: 0,0:36:10.79,0:36:13.42,Default,,0,0,0,,- Nice helmet.\N- Keeps my face pretty.
+Dialogue: 0,0:36:14.88,0:36:18.75,Default,,0,0,0,,I think he'll make a fine addition\Nto our army.
+Dialogue: 0,0:36:18.92,0:36:20.92,Default,,0,0,0,,No!
+Dialogue: 0,0:36:45.78,0:36:48.28,Default,,0,0,0,,You saved me.
+Dialogue: 0,0:36:52.08,0:36:53.79,Default,,0,0,0,,Eric.
+Dialogue: 0,0:36:56.17,0:36:58.96,Default,,0,0,0,,I'm sorry, my dear.
+Dialogue: 0,0:36:59.13,0:37:01.59,Default,,0,0,0,,You're not one of us any more.
+Dialogue: 0,0:37:07.30,0:37:10.31,Default,,0,0,0,,Such a shame. She was so beautiful.
+Dialogue: 0,0:37:16.48,0:37:20.32,Default,,0,0,0,,Think resigning will make a difference?\NThat's no way to influence policy.
+Dialogue: 0,0:37:20.48,0:37:23.07,Default,,0,0,0,,Policy is being made without me,\Nmr president.
+Dialogue: 0,0:37:23.24,0:37:26.32,Default,,0,0,0,,The decision to turn the cure into a weapon\Nwas made without me.
+Dialogue: 0,0:37:26.49,0:37:30.16,Default,,0,0,0,,What happened on that convoy\Nwas inexcusable. But your actions...
+Dialogue: 0,0:37:30.33,0:37:32.04,Default,,0,0,0,,That was an isolated incident.
+Dialogue: 0,0:37:32.20,0:37:35.50,Default,,0,0,0,,You have to understand\Nthose mutants were a real threat.
+Dialogue: 0,0:37:35.67,0:37:39.88,Default,,0,0,0,,Have you even begun to think\Nwhat a slippery slope you're on?
+Dialogue: 0,0:37:40.04,0:37:42.21,Default,,0,0,0,,I have.
+Dialogue: 0,0:37:43.84,0:37:46.13,Default,,0,0,0,,And l worry about how democracy survives
+Dialogue: 0,0:37:46.30,0:37:48.84,Default,,0,0,0,,when one man can move cities\Nwith his mind.
+Dialogue: 0,0:37:49.01,0:37:51.01,Default,,0,0,0,,As do l.
+Dialogue: 0,0:37:54.35,0:37:56.98,Default,,0,0,0,,You and I know\Nthat it's only going to get worse.
+Dialogue: 0,0:37:57.14,0:38:01.36,Default,,0,0,0,,All the more reason\Nwhy l need to be where l belong.
+Dialogue: 0,0:38:29.14,0:38:30.80,Default,,0,0,0,,Jean.
+Dialogue: 0,0:38:35.22,0:38:38.14,Default,,0,0,0,,- Hi, Logan.\N- Welcome back.
+Dialogue: 0,0:38:41.15,0:38:46.90,Default,,0,0,0,,Back where we first met. Only l was\Nin your place and you were in mine.
+Dialogue: 0,0:38:47.74,0:38:49.86,Default,,0,0,0,,Are you ok?
+Dialogue: 0,0:38:51.57,0:38:53.66,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:38:55.79,0:38:57.91,Default,,0,0,0,,More than ok.
+Dialogue: 0,0:39:10.05,0:39:12.76,Default,,0,0,0,,Logan, you're making me blush.
+Dialogue: 0,0:39:14.18,0:39:17.27,Default,,0,0,0,,- You're reading my thoughts?\N- I don't have to.
+Dialogue: 0,0:39:20.94,0:39:28.94,Default,,0,0,0,,It's ok.
+Dialogue: 0,0:40:17.99,0:40:20.58,Default,,0,0,0,,- Wait.\N- No.
+Dialogue: 0,0:40:26.04,0:40:27.67,Default,,0,0,0,,Jean.
+Dialogue: 0,0:40:27.84,0:40:30.84,Default,,0,0,0,,- This isn't you.\N- Yes, it is me.
+Dialogue: 0,0:40:31.01,0:40:34.01,Default,,0,0,0,,No. Maybe you ought to take it easy.
+Dialogue: 0,0:40:35.34,0:40:40.18,Default,,0,0,0,,The professor said you might be different.
+Dialogue: 0,0:40:42.14,0:40:44.52,Default,,0,0,0,,He would know, wouldn't he?
+Dialogue: 0,0:40:44.69,0:40:48.36,Default,,0,0,0,,What? You think he's not in your head too?
+Dialogue: 0,0:40:48.52,0:40:52.94,Default,,0,0,0,,Look at you, Logan. He's tamed you.
+Dialogue: 0,0:40:57.41,0:40:59.53,Default,,0,0,0,,Where's Scott?
+Dialogue: 0,0:41:02.87,0:41:05.00,Default,,0,0,0,,Jean?
+Dialogue: 0,0:41:05.92,0:41:09.21,Default,,0,0,0,,- Where am I?\N- You're in the mansion.
+Dialogue: 0,0:41:10.38,0:41:13.30,Default,,0,0,0,,You need to tell me\Nwhat happened to Scott.
+Dialogue: 0,0:41:16.89,0:41:19.39,Default,,0,0,0,,Jean, tell me what happened to him.
+Dialogue: 0,0:41:31.40,0:41:32.90,Default,,0,0,0,,Oh, god.
+Dialogue: 0,0:41:40.74,0:41:43.24,Default,,0,0,0,,Look at me.
+Dialogue: 0,0:41:45.83,0:41:49.13,Default,,0,0,0,,Stay with me. Talk to me.
+Dialogue: 0,0:41:49.29,0:41:51.09,Default,,0,0,0,,- Look at me. Look at me.\N- No.
+Dialogue: 0,0:41:51.25,0:41:53.05,Default,,0,0,0,,Focus. Focus, Jean.
+Dialogue: 0,0:41:54.88,0:41:57.59,Default,,0,0,0,,Kill me.
+Dialogue: 0,0:41:57.76,0:42:00.43,Default,,0,0,0,,- What?\N- Kill me before l kill someone else.
+Dialogue: 0,0:42:00.60,0:42:02.14,Default,,0,0,0,,- Don't say that.\N- Please.
+Dialogue: 0,0:42:02.31,0:42:04.77,Default,,0,0,0,,- Stop it.\N- Kill me.
+Dialogue: 0,0:42:07.06,0:42:09.27,Default,,0,0,0,,Stop it. Look at me. Look at me. Jean.
+Dialogue: 0,0:42:09.44,0:42:12.07,Default,,0,0,0,,It'll be all right. We can help you.
+Dialogue: 0,0:42:12.73,0:42:15.65,Default,,0,0,0,,Hey. The professor can help. He can fix it.
+Dialogue: 0,0:42:15.82,0:42:17.74,Default,,0,0,0,,I don't want to fix it.
+Dialogue: 0,0:42:29.00,0:42:32.79,Default,,0,0,0,,Voluntary? They put the cure in a gun.
+Dialogue: 0,0:42:34.30,0:42:36.38,Default,,0,0,0,,I told you they would draw first blood.
+Dialogue: 0,0:42:36.55,0:42:39.05,Default,,0,0,0,,- So what do we do?\N- What do we do?
+Dialogue: 0,0:42:39.22,0:42:45.14,Default,,0,0,0,,We use this weapon as a lightning rod\Nto bring countless more to our cause.
+Dialogue: 0,0:42:45.81,0:42:48.39,Default,,0,0,0,,Come. We have an army to build.
+Dialogue: 0,0:42:51.65,0:42:53.65,Default,,0,0,0,,I picked something up.
+Dialogue: 0,0:42:53.82,0:42:56.99,Default,,0,0,0,,An electromagnetic force. Lt's massive.
+Dialogue: 0,0:42:57.15,0:42:59.53,Default,,0,0,0,,It's a mutant.
+Dialogue: 0,0:42:59.70,0:43:03.78,Default,,0,0,0,,Class five.\NMore powerful than anything I've ever felt.
+Dialogue: 0,0:43:03.95,0:43:06.16,Default,,0,0,0,,More powerful than you.
+Dialogue: 0,0:43:09.33,0:43:11.12,Default,,0,0,0,,Where is she?
+Dialogue: 0,0:43:13.84,0:43:16.21,Default,,0,0,0,,Logan.
+Dialogue: 0,0:43:16.38,0:43:18.42,Default,,0,0,0,,- Jean. Jean.\N- What happened?
+Dialogue: 0,0:43:18.59,0:43:20.68,Default,,0,0,0,,What have you done?
+Dialogue: 0,0:43:25.18,0:43:28.06,Default,,0,0,0,,- I think she killed Scott.\N- What?
+Dialogue: 0,0:43:29.98,0:43:33.19,Default,,0,0,0,,- That's not possible.\N- I warned you.
+Dialogue: 0,0:43:38.69,0:43:44.95,Default,,0,0,0,,She's left the mansion, but she's trying\Nto block my thoughts. She's so strong.
+Dialogue: 0,0:43:46.20,0:43:48.04,Default,,0,0,0,,It may be too late.
+Dialogue: 0,0:43:52.88,0:43:54.58,Default,,0,0,0,,- Wait for me here.\N- What?
+Dialogue: 0,0:43:54.75,0:43:56.84,Default,,0,0,0,,I need to see Jean alone.
+Dialogue: 0,0:43:57.55,0:43:59.71,Default,,0,0,0,,You were right, Charles.
+Dialogue: 0,0:43:59.88,0:44:03.22,Default,,0,0,0,,- This one is special.\N- What the hell are you doing here?
+Dialogue: 0,0:44:03.39,0:44:06.26,Default,,0,0,0,,Same as the professor.\NVisiting an old friend.
+Dialogue: 0,0:44:06.43,0:44:08.60,Default,,0,0,0,,- I don't want trouble here.\N- Nor do l.
+Dialogue: 0,0:44:08.77,0:44:10.85,Default,,0,0,0,,So, shall we go inside?
+Dialogue: 0,0:44:13.23,0:44:15.61,Default,,0,0,0,,I came to bring Jean home. Don't interfere.
+Dialogue: 0,0:44:15.77,0:44:20.86,Default,,0,0,0,,- Just like old times, eh?\N- She needs help. Jean is not well.
+Dialogue: 0,0:44:21.03,0:44:24.74,Default,,0,0,0,,Funny, you sound just like her parents.
+Dialogue: 0,0:44:24.91,0:44:26.91,Default,,0,0,0,,Nobody gets inside.
+Dialogue: 0,0:45:13.12,0:45:17.21,Default,,0,0,0,,- I knew you'd come.\N- Of course. I've come to bring you home.
+Dialogue: 0,0:45:17.38,0:45:19.46,Default,,0,0,0,,- L have no home.\N- Yes, you do.
+Dialogue: 0,0:45:19.63,0:45:21.13,Default,,0,0,0,,You have a home and a family.
+Dialogue: 0,0:45:21.30,0:45:24.80,Default,,0,0,0,,You know he thinks your power\Nis too great for you to control.
+Dialogue: 0,0:45:24.97,0:45:28.85,Default,,0,0,0,,I don't believe your mind games\Nare going to work any more, Charles.
+Dialogue: 0,0:45:29.01,0:45:31.81,Default,,0,0,0,,- So you want to control me?\N- He does.
+Dialogue: 0,0:45:31.97,0:45:33.98,Default,,0,0,0,,No. I want to help you.
+Dialogue: 0,0:45:34.77,0:45:38.31,Default,,0,0,0,,Help me? What's wrong with me?
+Dialogue: 0,0:45:38.48,0:45:40.31,Default,,0,0,0,,- Absolutely nothing.\N- Eric, stop.
+Dialogue: 0,0:45:40.48,0:45:43.44,Default,,0,0,0,,No, Charles, not this time.\NYou've always held her back.
+Dialogue: 0,0:45:43.61,0:45:46.15,Default,,0,0,0,,For your own good, Jean.
+Dialogue: 0,0:45:46.78,0:45:49.12,Default,,0,0,0,,Stay out of my head.
+Dialogue: 0,0:45:52.16,0:45:55.83,Default,,0,0,0,,- I'm going in.\N- The professor said he'd handle this.
+Dialogue: 0,0:46:02.13,0:46:06.05,Default,,0,0,0,,Look at me, Jean. L can help you.\NLook at me.
+Dialogue: 0,0:46:06.22,0:46:08.13,Default,,0,0,0,,Get out of my head.
+Dialogue: 0,0:46:09.89,0:46:14.72,Default,,0,0,0,,- Perhaps you should listen to her, Charles.\N- Trust me. You're a danger to everyone.
+Dialogue: 0,0:46:14.89,0:46:18.19,Default,,0,0,0,,- But l can help you.\N- I think you want to give her the cure.
+Dialogue: 0,0:46:18.35,0:46:22.52,Default,,0,0,0,,Look at Scott. You killed the man you loved\Nbecause you couldn't control your power.
+Dialogue: 0,0:46:22.69,0:46:24.98,Default,,0,0,0,,No! Stop it!
+Dialogue: 0,0:46:27.49,0:46:29.70,Default,,0,0,0,,That's it.
+Dialogue: 0,0:47:11.70,0:47:14.16,Default,,0,0,0,,Jean, let me in.
+Dialogue: 0,0:48:16.81,0:48:18.51,Default,,0,0,0,,No, Jean.
+Dialogue: 0,0:48:18.68,0:48:20.77,Default,,0,0,0,,Jean!
+Dialogue: 0,0:49:19.53,0:49:21.87,Default,,0,0,0,,Don't let it control you.
+Dialogue: 0,0:49:30.92,0:49:32.63,Default,,0,0,0,,Charles.
+Dialogue: 0,0:49:59.41,0:50:02.37,Default,,0,0,0,,My dear. Come with me.
+Dialogue: 0,0:50:16.97,0:50:19.09,Default,,0,0,0,,No.
+Dialogue: 0,0:50:22.26,0:50:23.76,Default,,0,0,0,,God!
+Dialogue: 0,0:50:58.93,0:51:01.97,Default,,0,0,0,,We live in an age of darkness.
+Dialogue: 0,0:51:02.14,0:51:06.81,Default,,0,0,0,,A world full of fear, hate and intolerance.
+Dialogue: 0,0:51:07.68,0:51:11.98,Default,,0,0,0,,But in every age,\Nthere are those who fight against it.
+Dialogue: 0,0:51:12.15,0:51:15.82,Default,,0,0,0,,Charles Xavier was born to a world divided.
+Dialogue: 0,0:51:17.32,0:51:19.82,Default,,0,0,0,,A world he tried to heal.
+Dialogue: 0,0:51:20.82,0:51:23.62,Default,,0,0,0,,A mission he never saw accomplished.
+Dialogue: 0,0:51:24.33,0:51:29.50,Default,,0,0,0,,It seems the destiny of great men\Nto see their goals unfulfilled.
+Dialogue: 0,0:51:29.66,0:51:34.84,Default,,0,0,0,,Charles was more than a leader,\Nmore than a teacher. He was a friend.
+Dialogue: 0,0:51:35.67,0:51:38.51,Default,,0,0,0,,When we were afraid, he gave us strength.
+Dialogue: 0,0:51:39.17,0:51:42.51,Default,,0,0,0,,And when we were alone,\Nhe gave us a family.
+Dialogue: 0,0:51:43.72,0:51:50.81,Default,,0,0,0,,He may be gone, but his teachings\Nlive on through us, his students.
+Dialogue: 0,0:51:50.98,0:51:54.36,Default,,0,0,0,,Wherever we may go,\Nwe must carry on his vision.
+Dialogue: 0,0:51:54.52,0:51:58.48,Default,,0,0,0,,And that's a vision of a world united.
+Dialogue: 0,0:52:22.68,0:52:24.55,Default,,0,0,0,,Kitty.
+Dialogue: 0,0:52:25.55,0:52:27.60,Default,,0,0,0,,Bobby.
+Dialogue: 0,0:52:30.52,0:52:32.56,Default,,0,0,0,,- You ok?\N- Yeah.
+Dialogue: 0,0:52:36.69,0:52:40.73,Default,,0,0,0,,It's just... Xavier came to my house.
+Dialogue: 0,0:52:42.24,0:52:44.95,Default,,0,0,0,,He was the one that convinced me\Nto come here.
+Dialogue: 0,0:52:45.12,0:52:47.12,Default,,0,0,0,,Yeah, me too.
+Dialogue: 0,0:52:47.28,0:52:51.41,Default,,0,0,0,,- We're all feeling the same way, you know.\N- No, Bobby, we're not.
+Dialogue: 0,0:52:51.58,0:52:53.66,Default,,0,0,0,,You have rogue and l have...
+Dialogue: 0,0:52:55.54,0:52:57.79,Default,,0,0,0,,You know, I just miss home.
+Dialogue: 0,0:52:59.42,0:53:01.76,Default,,0,0,0,,The first snow and all that.
+Dialogue: 0,0:53:04.26,0:53:07.60,Default,,0,0,0,,- Kitty, get up. Come with me.\N- Storm told us to stay in our rooms.
+Dialogue: 0,0:53:07.76,0:53:10.14,Default,,0,0,0,,Don't worry. We won't get caught.
+Dialogue: 0,0:53:10.31,0:53:12.93,Default,,0,0,0,,I mean, you can\Nwalk through walls, you know.
+Dialogue: 0,0:53:13.10,0:53:14.69,Default,,0,0,0,,Come on.
+Dialogue: 0,0:53:26.78,0:53:29.12,Default,,0,0,0,,This place can be home too.
+Dialogue: 0,0:54:08.37,0:54:11.33,Default,,0,0,0,,Thank you for this, Bobby.
+Dialogue: 0,0:54:27.68,0:54:29.76,Default,,0,0,0,,You need a lift, kid?
+Dialogue: 0,0:54:29.93,0:54:32.01,Default,,0,0,0,,No.
+Dialogue: 0,0:54:34.02,0:54:36.10,Default,,0,0,0,,Where are you going?
+Dialogue: 0,0:54:37.60,0:54:40.19,Default,,0,0,0,,You don't know what it's like\Nto be afraid of your powers,
+Dialogue: 0,0:54:40.36,0:54:42.23,Default,,0,0,0,,afraid to get close to anybody.
+Dialogue: 0,0:54:42.40,0:54:44.69,Default,,0,0,0,,Yeah, l do.
+Dialogue: 0,0:54:45.90,0:54:49.53,Default,,0,0,0,,I want to be able to touch people, Logan.
+Dialogue: 0,0:54:49.70,0:54:53.12,Default,,0,0,0,,A hug. A handshake.
+Dialogue: 0,0:54:53.29,0:54:55.20,Default,,0,0,0,,A kiss.
+Dialogue: 0,0:54:55.37,0:54:58.87,Default,,0,0,0,,I hope you're not doing this for some boy.
+Dialogue: 0,0:55:00.54,0:55:03.04,Default,,0,0,0,,Look, if you wanna go, then go.
+Dialogue: 0,0:55:03.88,0:55:06.63,Default,,0,0,0,,Just be sure it's what you want.
+Dialogue: 0,0:55:08.05,0:55:10.72,Default,,0,0,0,,Shouldn't you be telling me to stay?
+Dialogue: 0,0:55:10.89,0:55:12.93,Default,,0,0,0,,To go upstairs and unpack?
+Dialogue: 0,0:55:13.10,0:55:16.27,Default,,0,0,0,,I'm not your father. L'm your friend.
+Dialogue: 0,0:55:18.52,0:55:21.40,Default,,0,0,0,,Just think about what l said, rogue.
+Dialogue: 0,0:55:21.56,0:55:26.48,Default,,0,0,0,,Marie.
+Dialogue: 0,0:56:04.44,0:56:10.78,Default,,0,0,0,,Remember when we first met? Do you know\Nwhat I saw when l looked at you?
+Dialogue: 0,0:56:10.95,0:56:16.95,Default,,0,0,0,,I saw the next stage in evolution\Nboth Charles and l dreamt of finding.
+Dialogue: 0,0:56:18.45,0:56:21.12,Default,,0,0,0,,And l thought to myself,\N"why would Charles
+Dialogue: 0,0:56:21.29,0:56:24.92,Default,,0,0,0,,want to turn this goddess into a mortal?"
+Dialogue: 0,0:56:29.30,0:56:33.13,Default,,0,0,0,,I can manipulate the metal in this,
+Dialogue: 0,0:56:33.30,0:56:36.80,Default,,0,0,0,,but you, you can do anything.
+Dialogue: 0,0:56:36.97,0:56:39.22,Default,,0,0,0,,Anything you can think of.
+Dialogue: 0,0:56:49.82,0:56:51.86,Default,,0,0,0,,Jean.
+Dialogue: 0,0:56:52.03,0:56:57.53,Default,,0,0,0,,Enough.
+Dialogue: 0,0:56:59.87,0:57:02.12,Default,,0,0,0,,You sound just like him.
+Dialogue: 0,0:57:02.29,0:57:05.17,Default,,0,0,0,,Jean, he wanted to hold you back.
+Dialogue: 0,0:57:05.33,0:57:09.34,Default,,0,0,0,,- What do you want?\N- I want you to be what you are.
+Dialogue: 0,0:57:10.26,0:57:12.34,Default,,0,0,0,,As nature intended.
+Dialogue: 0,0:57:14.26,0:57:20.35,Default,,0,0,0,,That cure is meant for all of us.\NIf we want freedom, we must fight for it.
+Dialogue: 0,0:57:21.68,0:57:23.98,Default,,0,0,0,,And that fight begins now.
+Dialogue: 0,0:57:32.57,0:57:35.28,Default,,0,0,0,,She shouldn't be here with us.
+Dialogue: 0,0:57:35.45,0:57:39.20,Default,,0,0,0,,- Her power is completely unstable.\N- Only in the wrong hands.
+Dialogue: 0,0:57:39.37,0:57:42.74,Default,,0,0,0,,- And you trust her? She's one of them.\N- So were you once.
+Dialogue: 0,0:57:42.91,0:57:48.71,Default,,0,0,0,,I stuck with you. Would have killed\Nthe professor if you'd given me the chance.
+Dialogue: 0,0:57:48.88,0:57:52.88,Default,,0,0,0,,Charles Xavier did more for mutants\Nthan you'll ever know.
+Dialogue: 0,0:57:53.05,0:57:58.89,Default,,0,0,0,,My single greatest regret is that he\Nhad to die for our dream to live.
+Dialogue: 0,0:58:14.74,0:58:17.70,Default,,0,0,0,,So what now? What do we do?
+Dialogue: 0,0:58:17.86,0:58:21.33,Default,,0,0,0,,Xavier started this school.\NPerhaps it's best that it end with him.
+Dialogue: 0,0:58:21.49,0:58:27.33,Default,,0,0,0,,- We'll tell the students they're going home.\N- Most of us don't have anywhere to go.
+Dialogue: 0,0:58:27.50,0:58:33.25,Default,,0,0,0,,I can't believe this. L can't believe\Nwe're not going to fight for this school.
+Dialogue: 0,0:58:38.34,0:58:40.93,Default,,0,0,0,,I'm sorry. I know this is a bad time.
+Dialogue: 0,0:58:41.10,0:58:45.43,Default,,0,0,0,,I was told that this was\Na safe place for mutants.
+Dialogue: 0,0:58:45.60,0:58:47.60,Default,,0,0,0,,It was, son.
+Dialogue: 0,0:58:51.27,0:58:55.44,Default,,0,0,0,,And it still is. We'll find you a room.
+Dialogue: 0,0:58:55.61,0:58:59.45,Default,,0,0,0,,Hank, tell all the students\Nthe school stays open.
+Dialogue: 0,0:59:13.59,0:59:15.63,Default,,0,0,0,,Rogue.
+Dialogue: 0,0:59:16.59,0:59:18.63,Default,,0,0,0,,Hey, rogue.
+Dialogue: 0,0:59:27.77,0:59:32.15,Default,,0,0,0,,- Hey, Pete. Have you seen rogue?\N- Yeah, she took off.
+Dialogue: 0,0:59:45.45,0:59:49.33,Default,,0,0,0,,Logan.
+Dialogue: 0,0:59:49.50,0:59:51.16,Default,,0,0,0,,- Logan.\N- Jean?
+Dialogue: 0,0:59:51.92,0:59:54.17,Default,,0,0,0,,Logan. Where am l? Logan.
+Dialogue: 0,0:59:54.34,0:59:56.17,Default,,0,0,0,,Logan. Logan.
+Dialogue: 0,0:59:56.34,0:59:58.59,Default,,0,0,0,,- Logan.\N- Stop.
+Dialogue: 0,0:59:58.76,1:00:01.05,Default,,0,0,0,,Logan. Logan. Logan.
+Dialogue: 0,1:00:21.95,1:00:24.57,Default,,0,0,0,,- Where are you going?\N- Where do you think?
+Dialogue: 0,1:00:24.74,1:00:28.54,Default,,0,0,0,,- She's gone, Logan. She's not coming back.\N- You don't know that.
+Dialogue: 0,1:00:28.70,1:00:31.08,Default,,0,0,0,,She killed the professor.
+Dialogue: 0,1:00:31.25,1:00:34.54,Default,,0,0,0,,It wasn't Jean.\NThe Jean I know is still in there.
+Dialogue: 0,1:00:36.46,1:00:38.88,Default,,0,0,0,,Listen, why can't you see the truth?
+Dialogue: 0,1:00:39.05,1:00:42.72,Default,,0,0,0,,Why can't you just let her go?
+Dialogue: 0,1:00:42.88,1:00:44.89,Default,,0,0,0,,Because you love her.
+Dialogue: 0,1:00:54.73,1:00:57.44,Default,,0,0,0,,She made her choice.\NNow it's time we make ours.
+Dialogue: 0,1:00:57.61,1:01:00.78,Default,,0,0,0,,So if you're with us, then be with us.
+Dialogue: 0,1:01:14.08,1:01:22.08,Default,,0,0,0,,We don't need a cure!\NWe don't need a cure!
+Dialogue: 0,1:01:28.89,1:01:34.43,Default,,0,0,0,,Getting the cure so you can go back home\Nto mommy and daddy?
+Dialogue: 0,1:01:34.60,1:01:37.23,Default,,0,0,0,,I'm looking for someone.
+Dialogue: 0,1:01:38.44,1:01:41.57,Default,,0,0,0,,Oh, l get it. Your girlfriend.
+Dialogue: 0,1:01:42.90,1:01:46.95,Default,,0,0,0,,I figured she'd want the cure.\NShe's pathetic.
+Dialogue: 0,1:01:51.08,1:01:53.12,Default,,0,0,0,,Come on, lceman.
+Dialogue: 0,1:01:54.87,1:01:56.92,Default,,0,0,0,,Make a move.
+Dialogue: 0,1:02:02.26,1:02:05.97,Default,,0,0,0,,Same old Bobby. Still afraid of a fight.
+Dialogue: 0,1:02:18.27,1:02:21.48,Default,,0,0,0,,Today's attack was only our first salvo.
+Dialogue: 0,1:02:21.65,1:02:25.49,Default,,0,0,0,,So long as the cure exists,\Nour war will rage.
+Dialogue: 0,1:02:25.65,1:02:31.99,Default,,0,0,0,,Your cities will not be safe. Your streets\Nwill not be safe. You will not be safe.
+Dialogue: 0,1:02:32.16,1:02:36.00,Default,,0,0,0,,And to my fellow mutants,\Ni make you this offer...
+Dialogue: 0,1:02:36.16,1:02:38.83,Default,,0,0,0,,Join us or stay out of our way.
+Dialogue: 0,1:02:39.00,1:02:43.00,Default,,0,0,0,,Enough mutant blood\Nhas been spilled already.
+Dialogue: 0,1:02:44.34,1:02:47.26,Default,,0,0,0,,We're trying to track them, sir.\NWe're working hard.
+Dialogue: 0,1:02:49.97,1:02:53.89,Default,,0,0,0,,- We cannot let him do this.\N- You know l agree, sir.
+Dialogue: 0,1:02:54.06,1:02:58.19,Default,,0,0,0,,This is now a national security matter.\NSeize and secure worthington labs.
+Dialogue: 0,1:02:58.35,1:03:01.86,Default,,0,0,0,,I want troops armed with cure weapons\Ndeployed immediately.
+Dialogue: 0,1:03:02.02,1:03:08.20,Default,,0,0,0,,And trask, you have to find Magneto\Nand stop him by any means necessary.
+Dialogue: 0,1:03:08.36,1:03:11.53,Default,,0,0,0,,Magneto wants a war. We'll give him one.
+Dialogue: 0,1:03:11.70,1:03:14.28,Default,,0,0,0,,Let's go. Keep it moving.
+Dialogue: 0,1:03:14.45,1:03:18.04,Default,,0,0,0,,Turn in your old weapon. Turn in all metal.
+Dialogue: 0,1:03:18.21,1:03:21.71,Default,,0,0,0,,Bayonets, magazines, dog tags.
+Dialogue: 0,1:03:21.88,1:03:26.00,Default,,0,0,0,,Pick up your plastic weapons.\NPick up your cure cartridge.
+Dialogue: 0,1:03:26.17,1:03:28.13,Default,,0,0,0,,Absolutely no metal.
+Dialogue: 0,1:03:38.35,1:03:46.35,Default,,0,0,0,,We don't need a cure!\NWe don't need a cure!
+Dialogue: 0,1:06:12.09,1:06:17.38,Default,,0,0,0,,They wish to cure us.\NBut l say to you we are the cure.
+Dialogue: 0,1:06:20.55,1:06:25.68,Default,,0,0,0,,The cure for that infirm, imperfect\Ncondition called homo sapiens.
+Dialogue: 0,1:06:27.85,1:06:29.94,Default,,0,0,0,,They have their weapons.
+Dialogue: 0,1:06:30.90,1:06:33.02,Default,,0,0,0,,We have ours.
+Dialogue: 0,1:06:35.07,1:06:41.41,Default,,0,0,0,,We will strike with a vengeance and a fury\Nthat this world has never witnessed.
+Dialogue: 0,1:06:42.70,1:06:49.08,Default,,0,0,0,,And if any mutants stand in our way,\Nwe will use this poison against them.
+Dialogue: 0,1:06:49.88,1:06:52.50,Default,,0,0,0,,We shall go to Alcatraz lsland,
+Dialogue: 0,1:06:52.67,1:06:54.80,Default,,0,0,0,,take control of the cure,
+Dialogue: 0,1:06:54.96,1:06:57.30,Default,,0,0,0,,and destroy its source.
+Dialogue: 0,1:06:57.47,1:07:01.14,Default,,0,0,0,,And then nothing can stop us.
+Dialogue: 0,1:07:16.36,1:07:18.15,Default,,0,0,0,,Jean.
+Dialogue: 0,1:07:30.67,1:07:33.84,Default,,0,0,0,,I know the smell of your adamantium\Nfrom a mile away.
+Dialogue: 0,1:07:34.00,1:07:36.88,Default,,0,0,0,,- I didn't come here to fight you.\N- Smart boy.
+Dialogue: 0,1:07:37.05,1:07:41.59,Default,,0,0,0,,- I came for Jean.\N- You think I'm keeping her against her will?
+Dialogue: 0,1:07:51.31,1:07:55.15,Default,,0,0,0,,- She's here because she wants to be.\N- You don't know what you're dealing with.
+Dialogue: 0,1:07:55.32,1:07:58.90,Default,,0,0,0,,I know full well.\NI saw what she did to Charles.
+Dialogue: 0,1:07:59.07,1:08:02.49,Default,,0,0,0,,And you stood there and let him die?
+Dialogue: 0,1:08:02.66,1:08:06.16,Default,,0,0,0,,- I'm not leaving here without her.\N- Yes, you are.
+Dialogue: 0,1:08:19.67,1:08:21.80,Default,,0,0,0,,Ok.
+Dialogue: 0,1:08:22.68,1:08:26.51,Default,,0,0,0,,Two minutes till rendezvous, mr president.
+Dialogue: 0,1:08:27.56,1:08:32.56,Default,,0,0,0,,We have a satellite feed\Nof Magneto's base of operations.
+Dialogue: 0,1:08:34.52,1:08:39.19,Default,,0,0,0,,- How did we find it?\N- She gave us everything we wanted.
+Dialogue: 0,1:08:40.32,1:08:43.53,Default,,0,0,0,,Hell hath no fury like a woman scorned.
+Dialogue: 0,1:09:18.57,1:09:20.98,Default,,0,0,0,,Approaching target dead ahead.
+Dialogue: 0,1:09:22.53,1:09:24.90,Default,,0,0,0,,Set for 360-degree incursion.
+Dialogue: 0,1:09:37.38,1:09:41.00,Default,,0,0,0,,This is team leader to bravo one.\NWe are green to go.
+Dialogue: 0,1:09:45.59,1:09:47.76,Default,,0,0,0,,Ok, send them in.
+Dialogue: 0,1:09:47.93,1:09:49.01,Default,,0,0,0,,Ok.
+Dialogue: 0,1:09:49.18,1:09:53.60,Default,,0,0,0,,Freeze, mutants! Get your hands in the air!\NHands in the air!
+Dialogue: 0,1:10:08.07,1:10:10.78,Default,,0,0,0,,Ok. I give up.
+Dialogue: 0,1:10:11.79,1:10:14.04,Default,,0,0,0,,Sorry, mr secretary, it was a decoy.
+Dialogue: 0,1:10:14.21,1:10:17.08,Default,,0,0,0,,If he's not there, then\Nwhere the hell is he?
+Dialogue: 0,1:10:25.34,1:10:29.51,Default,,0,0,0,,Worthington labs. Lt ends where it began.
+Dialogue: 0,1:10:29.68,1:10:32.97,Default,,0,0,0,,- Are you sure the boy is still inside?\N- 1 00%.
+Dialogue: 0,1:10:33.14,1:10:36.77,Default,,0,0,0,,So how are we supposed to get there?\NCos l don't swim.
+Dialogue: 0,1:10:37.48,1:10:39.56,Default,,0,0,0,,Leave that to me.
+Dialogue: 0,1:10:44.61,1:10:47.74,Default,,0,0,0,,Storm. Storm.
+Dialogue: 0,1:10:47.91,1:10:50.66,Default,,0,0,0,,What are you doing back here?
+Dialogue: 0,1:10:50.82,1:10:52.74,Default,,0,0,0,,I need help.
+Dialogue: 0,1:10:52.91,1:10:55.66,Default,,0,0,0,,- You found her.\N- Yeah. She's with Magneto.
+Dialogue: 0,1:10:55.83,1:10:58.67,Default,,0,0,0,,- Where are they?\N- On the move. I know where they're going.
+Dialogue: 0,1:10:58.83,1:11:01.50,Default,,0,0,0,,- You're saying you saw Magneto?\N- We gotta go.
+Dialogue: 0,1:11:01.67,1:11:04.00,Default,,0,0,0,,They're gonna attack Alcatraz.
+Dialogue: 0,1:11:04.17,1:11:07.59,Default,,0,0,0,,- There are troops stationed on that island.\N- Not enough to stop him.
+Dialogue: 0,1:11:07.76,1:11:09.84,Default,,0,0,0,,Let's suit up.
+Dialogue: 0,1:11:13.97,1:11:15.60,Default,,0,0,0,,Hard to believe this once fit me.
+Dialogue: 0,1:11:15.77,1:11:18.06,Default,,0,0,0,,If Magneto gets that cure,\Nwe can't stop him.
+Dialogue: 0,1:11:18.23,1:11:21.19,Default,,0,0,0,,- Can you estimate how many he has?\N- An army. And Jean.
+Dialogue: 0,1:11:21.36,1:11:27.03,Default,,0,0,0,,- His powers have limits, hers do not.\N- There's only six of us, Logan.
+Dialogue: 0,1:11:28.61,1:11:31.03,Default,,0,0,0,,Yeah. We're outnumbered.
+Dialogue: 0,1:11:31.20,1:11:33.70,Default,,0,0,0,,I'm not gonna lie to you.
+Dialogue: 0,1:11:33.87,1:11:36.12,Default,,0,0,0,,But we lost Scott.
+Dialogue: 0,1:11:36.29,1:11:38.37,Default,,0,0,0,,We lost the professor.
+Dialogue: 0,1:11:38.54,1:11:43.38,Default,,0,0,0,,If we don't fight now, everything\Nthey stood for will die with them.
+Dialogue: 0,1:11:44.17,1:11:46.38,Default,,0,0,0,,I'm not gonna let that happen.
+Dialogue: 0,1:11:46.55,1:11:48.55,Default,,0,0,0,,Are you?
+Dialogue: 0,1:11:49.72,1:11:51.76,Default,,0,0,0,,Then we stand together.
+Dialogue: 0,1:11:53.05,1:11:55.39,Default,,0,0,0,,X-Men.
+Dialogue: 0,1:11:55.56,1:11:57.64,Default,,0,0,0,,All of us.
+Dialogue: 0,1:12:04.19,1:12:06.52,Default,,0,0,0,,We're in.
+Dialogue: 0,1:12:06.69,1:12:08.74,Default,,0,0,0,,Let's go.
+Dialogue: 0,1:12:12.74,1:12:15.70,Default,,0,0,0,,- They're ready.\N- Yeah, I know.
+Dialogue: 0,1:12:16.79,1:12:22.04,Default,,0,0,0,,But are you ready to do what\Nyou need to do when the time comes?
+Dialogue: 0,1:13:49.13,1:13:51.63,Default,,0,0,0,,Dad, what's going on?
+Dialogue: 0,1:13:52.92,1:13:55.01,Default,,0,0,0,,It's an earthquake.
+Dialogue: 0,1:13:58.47,1:14:00.97,Default,,0,0,0,,We're trapped.
+Dialogue: 0,1:16:04.30,1:16:08.10,Default,,0,0,0,,Charles always wanted to build Bridges.
+Dialogue: 0,1:16:22.82,1:16:25.41,Default,,0,0,0,,My god.
+Dialogue: 0,1:16:50.06,1:16:53.52,Default,,0,0,0,,Fall back! Take cover! Fall back!
+Dialogue: 0,1:17:08.87,1:17:12.87,Default,,0,0,0,,The boy's in the southeast corner\Nof the building.
+Dialogue: 0,1:17:13.04,1:17:16.38,Default,,0,0,0,,- Well, then.\N- Let's take it down!
+Dialogue: 0,1:17:33.19,1:17:35.98,Default,,0,0,0,,In chess, the pawns go first.
+Dialogue: 0,1:17:38.69,1:17:41.15,Default,,0,0,0,,Humans and their guns.
+Dialogue: 0,1:17:50.12,1:17:52.91,Default,,0,0,0,,Plastic. They've learned.
+Dialogue: 0,1:17:59.13,1:18:01.88,Default,,0,0,0,,That's why the pawns go first.
+Dialogue: 0,1:18:11.56,1:18:14.27,Default,,0,0,0,,Target the bridge.
+Dialogue: 0,1:18:20.77,1:18:22.57,Default,,0,0,0,,Fire!
+Dialogue: 0,1:18:29.45,1:18:34.25,Default,,0,0,0,,Arclight, use your shockwaves.\NTarget those weapons.
+Dialogue: 0,1:18:53.97,1:18:58.14,Default,,0,0,0,,- Oh, my stars and garters.\N- Go into stealth mode.
+Dialogue: 0,1:19:00.61,1:19:04.65,Default,,0,0,0,,- What about jets? Tanks?\N- Against Magneto? He'll turn them inside out.
+Dialogue: 0,1:19:04.82,1:19:08.61,Default,,0,0,0,,- Where are our ground troops?\N- 30 minutes away.
+Dialogue: 0,1:19:09.49,1:19:11.45,Default,,0,0,0,,Then god help us.
+Dialogue: 0,1:19:21.29,1:19:23.34,Default,,0,0,0,,They're coming for him.
+Dialogue: 0,1:19:57.25,1:19:59.04,Default,,0,0,0,,Don't ever do that again.
+Dialogue: 0,1:20:06.17,1:20:08.30,Default,,0,0,0,,You men cover the doors!
+Dialogue: 0,1:20:08.47,1:20:11.63,Default,,0,0,0,,Everybody get together! And hold this line!
+Dialogue: 0,1:20:27.44,1:20:30.15,Default,,0,0,0,,Traitors to their own cause.
+Dialogue: 0,1:20:36.41,1:20:38.99,Default,,0,0,0,,Finish them!
+Dialogue: 0,1:21:14.28,1:21:15.87,Default,,0,0,0,,Not yet.
+Dialogue: 0,1:21:30.71,1:21:33.38,Default,,0,0,0,,Go inside and get the boy. And kill him.
+Dialogue: 0,1:21:33.55,1:21:35.63,Default,,0,0,0,,With pleasure.
+Dialogue: 0,1:21:41.43,1:21:44.14,Default,,0,0,0,,Hold it!
+Dialogue: 0,1:21:45.98,1:21:47.98,Default,,0,0,0,,He's going for the boy!
+Dialogue: 0,1:21:48.15,1:21:50.32,Default,,0,0,0,,Not if l get there first.
+Dialogue: 0,1:21:50.48,1:21:52.53,Default,,0,0,0,,Kitty!
+Dialogue: 0,1:22:02.83,1:22:04.96,Default,,0,0,0,,Come on.
+Dialogue: 0,1:22:08.04,1:22:10.00,Default,,0,0,0,,Grow those back.
+Dialogue: 0,1:22:20.68,1:22:22.77,Default,,0,0,0,,Don't you know who I am?
+Dialogue: 0,1:22:23.68,1:22:26.35,Default,,0,0,0,,I'm the juggernaut, bitch.
+Dialogue: 0,1:22:58.22,1:22:59.89,Default,,0,0,0,,Going somewhere?
+Dialogue: 0,1:23:03.81,1:23:06.39,Default,,0,0,0,,You're the guy that invented the cure,\Nright?
+Dialogue: 0,1:23:06.56,1:23:08.56,Default,,0,0,0,,Yes, l am.
+Dialogue: 0,1:23:09.40,1:23:11.11,Default,,0,0,0,,Girls.
+Dialogue: 0,1:23:11.27,1:23:13.57,Default,,0,0,0,,No. Don't. Don't hurt him.
+Dialogue: 0,1:23:13.73,1:23:16.90,Default,,0,0,0,,- No. Don't hurt him.\N- Let go of me. L didn't do anything.
+Dialogue: 0,1:23:17.07,1:23:19.24,Default,,0,0,0,,Calm down. Calm down.
+Dialogue: 0,1:23:19.41,1:23:21.62,Default,,0,0,0,,Everything's gonna be ok.
+Dialogue: 0,1:23:39.59,1:23:44.39,Default,,0,0,0,,- I thought you were a diplomat.\N- As Churchill said, "there comes a time..."
+Dialogue: 0,1:23:45.77,1:23:48.27,Default,,0,0,0,,Oh, you get the point.
+Dialogue: 0,1:23:48.44,1:23:51.48,Default,,0,0,0,,Oh, no. Please, no, no, don't.
+Dialogue: 0,1:23:51.65,1:23:52.94,Default,,0,0,0,,No.
+Dialogue: 0,1:23:59.07,1:24:03.87,Default,,0,0,0,,No, don't worry. L'm here to help you.\NI'm going to get you out of here.
+Dialogue: 0,1:24:05.29,1:24:07.49,Default,,0,0,0,,This way.
+Dialogue: 0,1:24:07.66,1:24:12.46,Default,,0,0,0,,- Oh, my god. What's going on?\N- Your powers won't work with me.
+Dialogue: 0,1:24:16.30,1:24:18.55,Default,,0,0,0,,- Stay close, all right?\N- Ok.
+Dialogue: 0,1:24:22.09,1:24:24.30,Default,,0,0,0,,I'm the wrong guy\Nto play hide-and-seek with.
+Dialogue: 0,1:24:24.47,1:24:26.81,Default,,0,0,0,,Who's hiding, dickhead?
+Dialogue: 0,1:24:38.40,1:24:40.32,Default,,0,0,0,,Don't. No.
+Dialogue: 0,1:24:41.15,1:24:42.86,Default,,0,0,0,,Don't.
+Dialogue: 0,1:24:43.03,1:24:46.83,Default,,0,0,0,,Please, don't do this.\NI only wanted to help you people.
+Dialogue: 0,1:24:47.66,1:24:50.00,Default,,0,0,0,,Do we look like we need your help?
+Dialogue: 0,1:25:20.03,1:25:22.19,Default,,0,0,0,,It's time to end this war.
+Dialogue: 0,1:25:32.96,1:25:35.96,Default,,0,0,0,,Take cover.
+Dialogue: 0,1:25:37.34,1:25:39.25,Default,,0,0,0,,Get out of the way.
+Dialogue: 0,1:25:50.47,1:25:54.10,Default,,0,0,0,,- Let's go, let's go.\N- Move.
+Dialogue: 0,1:25:54.27,1:25:55.73,Default,,0,0,0,,Go! Go! Go!
+Dialogue: 0,1:26:44.44,1:26:46.11,Default,,0,0,0,,We work as a team.
+Dialogue: 0,1:26:47.49,1:26:50.41,Default,,0,0,0,,Best defense is a good offense.
+Dialogue: 0,1:26:56.25,1:26:58.92,Default,,0,0,0,,Bobby, think you can take out\Nyour old friend?
+Dialogue: 0,1:27:12.47,1:27:14.60,Default,,0,0,0,,Go ahead.
+Dialogue: 0,1:27:15.81,1:27:18.31,Default,,0,0,0,,Storm, we're gonna need some cover.
+Dialogue: 0,1:27:18.48,1:27:20.48,Default,,0,0,0,,Right.
+Dialogue: 0,1:28:09.03,1:28:12.07,Default,,0,0,0,,You're in over your head, Bobby.
+Dialogue: 0,1:28:12.24,1:28:15.20,Default,,0,0,0,,Maybe you should go back to school.
+Dialogue: 0,1:28:26.05,1:28:28.21,Default,,0,0,0,,You never should have left.
+Dialogue: 0,1:28:29.55,1:28:31.72,Default,,0,0,0,,This is it.
+Dialogue: 0,1:28:31.88,1:28:33.80,Default,,0,0,0,,Hey.
+Dialogue: 0,1:28:33.97,1:28:36.89,Default,,0,0,0,,Make it a strike.
+Dialogue: 0,1:28:47.57,1:28:50.07,Default,,0,0,0,,You never learn, do you?
+Dialogue: 0,1:28:51.70,1:28:55.24,Default,,0,0,0,,Actually, I do.
+Dialogue: 0,1:29:08.71,1:29:10.84,Default,,0,0,0,,I'm...
+Dialogue: 0,1:29:11.01,1:29:13.72,Default,,0,0,0,,One of them?
+Dialogue: 0,1:29:23.77,1:29:27.11,Default,,0,0,0,,This is what they want for all of us.
+Dialogue: 0,1:29:48.13,1:29:49.92,Default,,0,0,0,,It's over, Jean.
+Dialogue: 0,1:29:52.47,1:29:54.59,Default,,0,0,0,,It's over.
+Dialogue: 0,1:29:57.76,1:29:59.64,Default,,0,0,0,,No! Don't shoot!
+Dialogue: 0,1:30:13.24,1:30:14.32,Default,,0,0,0,,No!
+Dialogue: 0,1:30:31.67,1:30:34.63,Default,,0,0,0,,Everybody get out of there!
+Dialogue: 0,1:30:43.27,1:30:45.35,Default,,0,0,0,,Bobby!
+Dialogue: 0,1:30:55.40,1:30:57.53,Default,,0,0,0,,What have l done?
+Dialogue: 0,1:31:08.29,1:31:12.59,Default,,0,0,0,,I'm the only one who can stop her.\NGet everyone to safety.
+Dialogue: 0,1:31:12.75,1:31:15.13,Default,,0,0,0,,Go.
+Dialogue: 0,1:31:18.80,1:31:26.80,Default,,0,0,0,,Jean!
+Dialogue: 0,1:32:07.93,1:32:10.27,Default,,0,0,0,,I know you're still there!
+Dialogue: 0,1:32:56.82,1:32:59.44,Default,,0,0,0,,You would die for them?
+Dialogue: 0,1:33:00.61,1:33:02.61,Default,,0,0,0,,No, not for them.
+Dialogue: 0,1:33:03.91,1:33:10.00,Default,,0,0,0,,For you.
+Dialogue: 0,1:33:14.96,1:33:17.00,Default,,0,0,0,,Save me.
+Dialogue: 0,1:33:18.84,1:33:20.09,Default,,0,0,0,,I love you.
+Dialogue: 0,1:34:59.90,1:35:02.44,Default,,0,0,0,,You're back.
+Dialogue: 0,1:35:08.82,1:35:11.32,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,1:35:11.49,1:35:13.54,Default,,0,0,0,,I had to.
+Dialogue: 0,1:35:14.33,1:35:17.41,Default,,0,0,0,,- This isn't what I wanted.\N- I know.
+Dialogue: 0,1:35:18.46,1:35:20.96,Default,,0,0,0,,It's what I want.
+Dialogue: 0,1:35:33.18,1:35:34.85,Default,,0,0,0,,Hey.
+Dialogue: 0,1:35:35.81,1:35:38.02,Default,,0,0,0,,Good to see you, buddy.
+Dialogue: 0,1:35:38.19,1:35:40.81,Default,,0,0,0,,With the thanks of a grateful nation
+Dialogue: 0,1:35:40.98,1:35:44.15,Default,,0,0,0,,I introduce our new ambassador\Nto the united nations,
+Dialogue: 0,1:35:44.32,1:35:48.45,Default,,0,0,0,,and the representative to the world\Nfor all United States citizens,
+Dialogue: 0,1:35:48.61,1:35:51.36,Default,,0,0,0,,human and mutant alike,
+Dialogue: 0,1:35:51.53,1:35:53.62,Default,,0,0,0,,dr Hank McCoy.
+Dialogue: 0,1:35:56.70,1:35:58.91,Default,,0,0,0,,Way to go, fur ball.
+Dialogue: 0,1:43:47.59,1:43:49.63,Default,,0,0,0,,Morning.
+Dialogue: 0,1:43:53.97,1:43:56.81,Default,,0,0,0,,Hello, moira.

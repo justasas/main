@@ -1,0 +1,202 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:14.56,0:00:16.03,Main Dialog,Spoken,0000,0000,0000,,What the...?!
+Dialogue: 0,0:00:24.96,0:00:27.59,Main Dialog,Spoken,0000,0000,0000,,A Link Joker unit?!
+Dialogue: 0,0:03:08.25,0:03:09.89,Main Dialog,Spoken,0000,0000,0000,,Kamui! Are you okay?!
+Dialogue: 0,0:03:09.89,0:03:10.92,Main Dialog,Spoken,0000,0000,0000,,Y-Yeah!
+Dialogue: 0,0:03:16.17,0:03:19.55,Main Dialog,Spoken,0000,0000,0000,,Does that steal your \Nlifeforce if it hits you?
+Dialogue: 0,0:03:28.49,0:03:29.22,Main Dialog,Spoken,0000,0000,0000,,Ali!
+Dialogue: 0,0:03:47.08,0:03:50.96,Main Dialog,Spoken,0000,0000,0000,,The complete opening of the gate is at hand.
+Dialogue: 0,0:03:50.96,0:03:56.90,Main Dialog,Spoken,0000,0000,0000,,This kind of scene is happening \Nto fighters all over the world.
+Dialogue: 0,0:04:03.72,0:04:08.72,Signs,Sign,0000,0000,0000,,World End
+Dialogue: 0,0:04:15.45,0:04:21.49,Main Dialog,Spoken,0000,0000,0000,,You're trying to take away the \Nhappiness of so many people.
+Dialogue: 0,0:04:23.75,0:04:29.30,Main Dialog,Spoken,0000,0000,0000,,By being Reversed, they've become \Nstronger than ever before.
+Dialogue: 0,0:04:30.09,0:04:35.12,Main Dialog,Spoken,0000,0000,0000,,As a fighter, do you think there's \Nanything more pleasing than that?
+Dialogue: 0,0:04:35.72,0:04:41.38,Main Dialog,Spoken,0000,0000,0000,,Completely cold-hearted is \Nwhat you are, Aichi Sendou.
+Dialogue: 0,0:04:42.48,0:04:45.63,Main Dialog,Spoken,0000,0000,0000,,I'm... cold-hearted?
+Dialogue: 0,0:05:04.68,0:05:07.03,Main Dialog,Spoken,0000,0000,0000,,It affects Kourin, too.
+Dialogue: 0,0:05:08.06,0:05:12.93,Main Dialog,Spoken,0000,0000,0000,,How long have you known Kourin now?
+Dialogue: 0,0:05:12.93,0:05:16.67,Main Dialog,Spoken,0000,0000,0000,,A year... No, two?
+Dialogue: 0,0:05:16.67,0:05:23.09,Main Dialog,Spoken,0000,0000,0000,,You're trying to crush \Neverything she holds dear.
+Dialogue: 0,0:05:23.58,0:05:26.93,Main Dialog,Spoken,0000,0000,0000,,But I... I'm not...
+Dialogue: 0,0:05:35.13,0:05:39.44,Main Dialog,Spoken,0000,0000,0000,,I'm trying to crush what she holds dear?
+Dialogue: 0,0:05:58.93,0:05:59.63,Main Dialog,Spoken,0000,0000,0000,,It's not over!
+Dialogue: 0,0:06:04.96,0:06:08.13,Main Dialog,Spoken,0000,0000,0000,,I'm not ready to give up yet!
+Dialogue: 0,0:06:10.99,0:06:13.40,Main Dialog,Spoken,0000,0000,0000,,Even if we've got only a little time left,
+Dialogue: 0,0:06:13.40,0:06:15.28,Main Dialog,Spoken,0000,0000,0000,,we have to fight to the very end!
+Dialogue: 0,0:06:19.88,0:06:22.11,Main Dialog,Spoken,0000,0000,0000,,I won't let Link Joker take over!
+Dialogue: 0,0:06:22.43,0:06:27.90,Main Dialog,Spoken,0000,0000,0000,,Darn it! I don't care what those \Nthings are! I ain't givin' in!
+Dialogue: 0,0:06:34.80,0:06:40.12,Main Dialog,Spoken,0000,0000,0000,,Anyway, I can start by beatin' these guys!
+Dialogue: 0,0:06:40.65,0:06:44.21,Main Dialog,Spoken,0000,0000,0000,,W-Well said, juvenile delinquent.
+Dialogue: 0,0:06:44.21,0:06:49.38,Main Dialog,Spoken,0000,0000,0000,,All right! That's what we gotta do right now!
+Dialogue: 0,0:06:50.57,0:06:53.51,Main Dialog,Spoken,0000,0000,0000,,Okay! We've gotta hold out a little longer!
+Dialogue: 0,0:06:54.02,0:06:55.04,Main Dialog,Spoken,0000,0000,0000,,Let's go!
+Dialogue: 0,0:06:55.04,0:06:56.03,Main Dialog,Spoken,0000,0000,0000,,Of course!
+Dialogue: 0,0:07:01.51,0:07:07.18,Main Dialog,Spoken,0000,0000,0000,,The fools. All of their resistance is futile.
+Dialogue: 0,0:07:08.69,0:07:10.28,Main Dialog,Spoken,0000,0000,0000,,No, it isn't!
+Dialogue: 0,0:07:21.25,0:07:22.53,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:07:31.64,0:07:36.03,Main Dialog,Spoken,0000,0000,0000,,So you want to be punished even more?
+Dialogue: 0,0:07:41.66,0:07:42.81,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:07:45.52,0:07:48.50,Main Dialog,Spoken,0000,0000,0000,,After seeing everyone, I understand.
+Dialogue: 0,0:07:48.50,0:07:51.07,Main Dialog,Spoken,0000,0000,0000,,What you're saying is all wrong!
+Dialogue: 0,0:07:55.87,0:08:01.02,Main Dialog,Spoken,0000,0000,0000,,Reversed fighters have become strong \Nwith the power of Link Joker.
+Dialogue: 0,0:08:01.92,0:08:05.08,Main Dialog,Spoken,0000,0000,0000,,But that's not their true power!
+Dialogue: 0,0:08:08.15,0:08:12.09,Main Dialog,Spoken,0000,0000,0000,,Even if it is my fault \Nthat they lose that power...
+Dialogue: 0,0:08:12.46,0:08:13.81,Main Dialog,Spoken,0000,0000,0000,,Goooo!
+Dialogue: 0,0:08:16.46,0:08:20.72,Main Dialog,Spoken,0000,0000,0000,,...if they continue to Cardfight, they'll \Neventually become that strong on their own!
+Dialogue: 0,0:08:20.72,0:08:23.35,Main Dialog,Spoken,0000,0000,0000,,They'll be able to have that \Nstrength again, or even greater!
+Dialogue: 0,0:08:23.91,0:08:25.65,Main Dialog,Spoken,0000,0000,0000,,Open your eyes!
+Dialogue: 0,0:08:26.03,0:08:27.40,Main Dialog,Spoken,0000,0000,0000,,You guys...
+Dialogue: 0,0:08:27.99,0:08:30.19,Main Dialog,Spoken,0000,0000,0000,,...are Vanguard fighters, too!
+Dialogue: 0,0:08:30.70,0:08:32.36,Main Dialog,Spoken,0000,0000,0000,,We're all on the same side!
+Dialogue: 0,0:08:32.83,0:08:34.74,Main Dialog,Spoken,0000,0000,0000,,Don't give in to Reverse!
+Dialogue: 0,0:08:35.01,0:08:39.24,Main Dialog,Spoken,0000,0000,0000,,Just like my friends, who are \Nfighting out there right now!
+Dialogue: 0,0:08:41.55,0:08:43.08,Main Dialog,Spoken,0000,0000,0000,,Cold Death Dragon.
+Dialogue: 0,0:08:46.39,0:08:48.63,Main Dialog,Spoken,0000,0000,0000,,As for Kourin and the others...
+Dialogue: 0,0:08:51.96,0:08:57.31,Main Dialog,Spoken,0000,0000,0000,,If they lose their memories with us, \NI'll be terribly sad.
+Dialogue: 0,0:08:58.64,0:09:05.52,Main Dialog,Spoken,0000,0000,0000,,But... someday, somewhere, in the \Nnot-too-distant future, Kourin and I will...
+Dialogue: 0,0:09:15.20,0:09:18.95,Main Dialog,Spoken,0000,0000,0000,,I'm sure we'll meet again!
+Dialogue: 0,0:09:24.56,0:09:25.70,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:09:27.45,0:09:34.63,Main Dialog,Spoken,0000,0000,0000,,I'm going to protect this world, \Nso that we can all meet each other again!
+Dialogue: 0,0:09:40.80,0:09:42.49,Main Dialog,Spoken,0000,0000,0000,,How dull.
+Dialogue: 0,0:09:43.11,0:09:48.45,Main Dialog,Spoken,0000,0000,0000,,That's your response, even after I've shown \Nyou what's happening to the world?
+Dialogue: 0,0:09:53.28,0:09:55.74,Main Dialog,Spoken,0000,0000,0000,,It looks like he held out somehow.
+Dialogue: 0,0:09:56.23,0:10:00.99,Main Dialog,Spoken,0000,0000,0000,,But the conditions required \Nfor "World End" are all met.
+Dialogue: 0,0:10:13.95,0:10:20.34,Main Dialog,Spoken,0000,0000,0000,,Your rear-guards can't help, and it'll be \Nimpossible for your Vanguard to break through alone.
+Dialogue: 0,0:10:23.84,0:10:28.69,Main Dialog,Spoken,0000,0000,0000,,Struggle as you might, there's \Nno escape from "World End."
+Dialogue: 0,0:10:31.68,0:10:35.69,Main Dialog,Spoken,0000,0000,0000,,I'm telling you, I will break through.
+Dialogue: 0,0:10:37.43,0:10:42.07,Main Dialog,Spoken,0000,0000,0000,,And then I'll set the whole world free!
+Dialogue: 0,0:10:42.74,0:10:45.58,Main Dialog,Spoken,0000,0000,0000,,To set free those who are \Nheld captive by a spell,
+Dialogue: 0,0:10:46.00,0:10:49.16,Main Dialog,Spoken,0000,0000,0000,,now more than ever, enter the \Nfray, king of all knights!
+Dialogue: 0,0:10:49.71,0:10:50.53,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:10:52.39,0:10:56.84,Main Dialog,Spoken,0000,0000,0000,,Liberator of the Round Table, Alfred!
+Dialogue: 0,0:11:00.36,0:11:01.89,Main Dialog,Spoken,0000,0000,0000,,Alfred...?
+Dialogue: 0,0:11:14.36,0:11:16.65,Main Dialog,Spoken,0000,0000,0000,,I'm going to protect this world.
+Dialogue: 0,0:11:19.20,0:11:20.57,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:11:26.28,0:11:29.17,Main Dialog,Spoken,0000,0000,0000,,I remember that skill!
+Dialogue: 0,0:11:29.91,0:11:36.88,Main Dialog,Spoken,0000,0000,0000,,You move rear-guards to your deck \Nand call forth five new units.
+Dialogue: 0,0:11:39.39,0:11:40.98,Main Dialog,Spoken,0000,0000,0000,,However...
+Dialogue: 0,0:11:45.50,0:11:50.38,Main Dialog,Spoken,0000,0000,0000,,...since they're locked, \Nthey can't do a thing!
+Dialogue: 0,0:11:51.52,0:11:53.31,Main Dialog,Spoken,0000,0000,0000,,That's not true!
+Dialogue: 0,0:11:53.73,0:11:54.69,Main Dialog,Spoken,0000,0000,0000,,What?
+Dialogue: 0,0:11:55.65,0:11:57.69,Main Dialog,Spoken,0000,0000,0000,,Liberate the lock!
+Dialogue: 0,0:12:04.44,0:12:06.70,Main Dialog,Spoken,0000,0000,0000,,What's that light?!
+Dialogue: 0,0:12:21.87,0:12:23.17,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:12:23.17,0:12:24.93,Main Dialog,Spoken,0000,0000,0000,,W-What...
+Dialogue: 0,0:12:32.58,0:12:34.35,Main Dialog,Spoken,0000,0000,0000,,...is this?!
+Dialogue: 0,0:12:38.48,0:12:41.49,Main Dialog,Spoken,0000,0000,0000,,What's happening?!
+Dialogue: 0,0:13:04.89,0:13:10.51,Main Dialog,Spoken,0000,0000,0000,,With the skill of this Limit Break, \NI can move locked cards to my deck!
+Dialogue: 0,0:13:11.25,0:13:12.89,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:13:13.21,0:13:14.52,Main Dialog,Spoken,0000,0000,0000,,And now...
+Dialogue: 0,0:13:17.12,0:13:20.11,Main Dialog,Spoken,0000,0000,0000,,Five comrades, gather on the battlefield!
+Dialogue: 0,0:13:25.19,0:13:27.99,Main Dialog,Spoken,0000,0000,0000,,My comrades were \Nset free from the lock!
+Dialogue: 0,0:13:40.49,0:13:44.39,Main Dialog,Spoken,0000,0000,0000,,The other Takuto gave me this Alfred.
+Dialogue: 0,0:13:44.39,0:13:47.38,Main Dialog,Spoken,0000,0000,0000,,This is... "Liberate the Lock"!
+Dialogue: 0,0:13:57.94,0:14:02.40,Main Dialog,Spoken,0000,0000,0000,,If you overcome this trial,
+Dialogue: 0,0:14:03.35,0:14:07.34,Main Dialog,Spoken,0000,0000,0000,,I'm sure this card will give you power.
+Dialogue: 0,0:14:19.90,0:14:22.67,Main Dialog,Spoken,0000,0000,0000,,The way he broke through the lock...
+Dialogue: 0,0:14:23.20,0:14:25.57,Main Dialog,Spoken,0000,0000,0000,,It's very Gold Paladin-like.
+Dialogue: 0,0:14:25.57,0:14:27.75,Main Dialog,Spoken,0000,0000,0000,,It's very Aichi-like.
+Dialogue: 0,0:14:30.33,0:14:34.26,Main Dialog,Spoken,0000,0000,0000,,On top of that, the rear-guards \Nthat were locked are gone!
+Dialogue: 0,0:14:34.26,0:14:37.93,Main Dialog,Spoken,0000,0000,0000,,Now that the condition of having five \Nor more cards locked isn't satisfied,
+Dialogue: 0,0:14:38.77,0:14:41.98,Main Dialog,Spoken,0000,0000,0000,,he can't bring about "World End"!
+Dialogue: 0,0:14:43.49,0:14:45.82,Main Dialog,Spoken,0000,0000,0000,,Even Takuto couldn't stop it.
+Dialogue: 0,0:14:46.29,0:14:47.80,Main Dialog,Spoken,0000,0000,0000,,But he...
+Dialogue: 0,0:14:48.83,0:14:52.20,Main Dialog,Spoken,0000,0000,0000,,Sendou, who fought even though \Nit meant putting his life in danger...
+Dialogue: 0,0:14:52.20,0:14:56.52,Main Dialog,Spoken,0000,0000,0000,,He was able to do this precisely \Nbecause he overcame that trial.
+Dialogue: 0,0:14:57.47,0:15:04.26,Main Dialog,Spoken,0000,0000,0000,,You've been locking units, \NReversing fighters, capturing hearts...
+Dialogue: 0,0:15:05.65,0:15:09.70,Main Dialog,Spoken,0000,0000,0000,,...and now you're trying to put \Nthe whole world under your spell.
+Dialogue: 0,0:15:11.90,0:15:14.85,Main Dialog,Spoken,0000,0000,0000,,But I won't let you get your way anymore!
+Dialogue: 0,0:15:15.26,0:15:16.10,Main Dialog,Spoken,0000,0000,0000,,All you knights!
+Dialogue: 0,0:15:16.81,0:15:18.49,Main Dialog,Spoken,0000,0000,0000,,Give power to Alfred!
+Dialogue: 0,0:15:29.52,0:15:30.86,Main Dialog,Spoken,0000,0000,0000,,Alfred!
+Dialogue: 0,0:15:34.26,0:15:35.33,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:15:40.00,0:15:43.06,Main Dialog,Spoken,0000,0000,0000,,For the sake of everyone who is dear to me...
+Dialogue: 0,0:15:52.11,0:15:55.80,Main Dialog,Spoken,0000,0000,0000,,For the sake of this world that I love...
+Dialogue: 0,0:15:59.36,0:16:02.94,Main Dialog,Spoken,0000,0000,0000,,...I'm going to beat you!
+Dialogue: 0,0:16:05.66,0:16:08.19,Main Dialog,Spoken,0000,0000,0000,,Sendou!
+Dialogue: 0,0:16:08.80,0:16:10.16,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:16:31.00,0:16:32.38,Main Dialog,Spoken,0000,0000,0000,,I-It can't be...
+Dialogue: 0,0:17:05.56,0:17:06.92,Main Dialog,Spoken,0000,0000,0000,,This is...
+Dialogue: 0,0:17:25.14,0:17:26.06,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:17:36.19,0:17:38.24,Main Dialog,Spoken,0000,0000,0000,,What's happening here?
+Dialogue: 0,0:17:38.24,0:17:40.43,Main Dialog,Spoken,0000,0000,0000,,Look! Sis! Koutei!
+Dialogue: 0,0:17:44.08,0:17:47.47,Main Dialog,Spoken,0000,0000,0000,,The ring is starting to break!
+Dialogue: 0,0:17:48.96,0:17:50.09,Main Dialog,Spoken,0000,0000,0000,,I see...
+Dialogue: 0,0:17:53.85,0:17:57.09,Main Dialog,Spoken,0000,0000,0000,,Aichi did it!
+Dialogue: 0,0:18:01.00,0:18:02.19,Main Dialog,Spoken,0000,0000,0000,,Aichi!
+Dialogue: 0,0:18:06.31,0:18:08.00,Main Dialog,Spoken,0000,0000,0000,,Sendou is okay!
+Dialogue: 0,0:18:09.04,0:18:11.36,Main Dialog,Spoken,0000,0000,0000,,That jerk did it!
+Dialogue: 0,0:18:15.78,0:18:18.21,Main Dialog,Spoken,0000,0000,0000,,Sendou...
+Dialogue: 0,0:18:24.84,0:18:25.50,Main Dialog,Spoken,0000,0000,0000,,Aichi!
+Dialogue: 0,0:18:25.50,0:18:26.75,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:18:31.42,0:18:33.38,Main Dialog,Spoken,0000,0000,0000,,Ta...kuto...!
+Dialogue: 0,0:18:33.50,0:18:37.36,Main Dialog,Spoken,0000,0000,0000,,You ruined everything...
+Dialogue: 0,0:18:44.33,0:18:47.52,Main Dialog,Spoken,0000,0000,0000,,You're coming with me!
+Dialogue: 0,0:18:55.04,0:18:56.87,Main Dialog,Spoken,0000,0000,0000,,It's you!
+Dialogue: 0,0:18:57.62,0:19:02.41,Main Dialog,Spoken,0000,0000,0000,,You've stared to come apart, \Nso I can finally return to normal.
+Dialogue: 0,0:19:02.41,0:19:03.92,Main Dialog,Spoken,0000,0000,0000,,Let go of me!
+Dialogue: 0,0:19:09.24,0:19:10.17,Main Dialog,Spoken,0000,0000,0000,,Takuto...
+Dialogue: 0,0:19:11.05,0:19:13.17,Main Dialog,Spoken,0000,0000,0000,,Thank you, Aichi.
+Dialogue: 0,0:19:14.77,0:19:15.42,Main Dialog,Spoken,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:15.88,0:19:18.71,Main Dialog,Spoken,0000,0000,0000,,And all fighters...
+Dialogue: 0,0:19:18.71,0:19:19.92,Main Dialog,Spoken,0000,0000,0000,,What's that voice?
+Dialogue: 0,0:19:20.74,0:19:24.97,Main Dialog,Spoken,0000,0000,0000,,This world was protected because of you.
+Dialogue: 0,0:19:25.90,0:19:28.60,Main Dialog,Spoken,0000,0000,0000,,Our world, Cray, as well...
+Dialogue: 0,0:19:31.56,0:19:34.23,Main Dialog,Spoken,0000,0000,0000,,Link Joker's ambition has failed.
+Dialogue: 0,0:19:34.77,0:19:38.12,Main Dialog,Spoken,0000,0000,0000,,I'm sure there will be \Npeace for the time being.
+Dialogue: 0,0:19:38.80,0:19:41.55,Main Dialog,Spoken,0000,0000,0000,,I'm profoundly grateful to you all.
+Dialogue: 0,0:19:41.55,0:19:43.24,Main Dialog,Spoken,0000,0000,0000,,You...
+Dialogue: 0,0:19:43.76,0:19:45.20,Main Dialog,Spoken,0000,0000,0000,,Takuto!
+Dialogue: 0,0:19:45.66,0:19:47.64,Main Dialog,Spoken,0000,0000,0000,,And finally...
+Dialogue: 0,0:19:47.64,0:19:48.24,Main Dialog,Spoken,0000,0000,0000,,Suiko.
+Dialogue: 0,0:19:49.97,0:19:50.92,Main Dialog,Spoken,0000,0000,0000,,Rekka.
+Dialogue: 0,0:19:50.92,0:19:52.00,Main Dialog,Spoken,0000,0000,0000,,Y-Yes?!
+Dialogue: 0,0:19:52.76,0:19:54.04,Main Dialog,Spoken,0000,0000,0000,,Kourin.
+Dialogue: 0,0:19:54.68,0:19:55.50,Main Dialog,Spoken,0000,0000,0000,,Yes?
+Dialogue: 0,0:19:56.42,0:19:59.88,Main Dialog,Spoken,0000,0000,0000,,I have to leave this world.
+Dialogue: 0,0:20:00.56,0:20:03.89,Main Dialog,Spoken,0000,0000,0000,,And so, you three will be set free.
+Dialogue: 0,0:20:04.80,0:20:10.14,Main Dialog,Spoken,0000,0000,0000,,I can't express in words \Nthe gratitude I feel for you.
+Dialogue: 0,0:20:11.72,0:20:15.27,Main Dialog,Spoken,0000,0000,0000,,I've had such a good time \Nbeing with you three.
+Dialogue: 0,0:20:17.19,0:20:18.90,Main Dialog,Spoken,0000,0000,0000,,We have, too...
+Dialogue: 0,0:20:19.72,0:20:20.62,Main Dialog,Spoken,0000,0000,0000,,And...
+Dialogue: 0,0:20:22.82,0:20:24.34,Main Dialog,Spoken,0000,0000,0000,,...I'm sorry.
+Dialogue: 0,0:20:27.12,0:20:28.08,Main Dialog,Spoken,0000,0000,0000,,Takuto...
+Dialogue: 0,0:20:28.93,0:20:31.11,Main Dialog,Spoken,0000,0000,0000,,The time has come for us to part.
+Dialogue: 0,0:20:31.84,0:20:32.91,Main Dialog,Spoken,0000,0000,0000,,Let me go!
+Dialogue: 0,0:20:33.31,0:20:34.96,Main Dialog,Spoken,0000,0000,0000,,I won't let go.
+Dialogue: 0,0:20:35.91,0:20:37.30,Main Dialog,Spoken,0000,0000,0000,,We're going together.
+Dialogue: 0,0:20:41.17,0:20:46.44,Main Dialog,Spoken,0000,0000,0000,,No!!
+Dialogue: 0,0:21:15.59,0:21:19.39,Main Dialog,Spoken,0000,0000,0000,,And so... I guess it's all over?
+Dialogue: 0,0:21:20.79,0:21:22.22,Main Dialog,Spoken,0000,0000,0000,,I think so...
+Dialogue: 0,0:21:35.09,0:21:36.26,Main Dialog,Spoken,0000,0000,0000,,It's over...
+Dialogue: 0,0:21:45.68,0:21:50.48,Main Dialog,Spoken,0000,0000,0000,,To think that the opponent I was \Nreally seeking was right here...
+Dialogue: 0,0:21:51.92,0:21:53.05,Main Dialog,Spoken,0000,0000,0000,,Kai...
+Dialogue: 0,0:23:56.72,0:23:57.81,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:23:57.81,0:23:58.62,Main Dialog,Spoken,0000,0000,0000,,Kai...
+Dialogue: 0,0:23:58.87,0:24:01.50,Main Dialog,Spoken,0000,0000,0000,,Link Joker's mentor has left.
+Dialogue: 0,0:24:01.50,0:24:05.25,Main Dialog,Spoken,0000,0000,0000,,Kai... And yet we still must fight.
+Dialogue: 0,0:24:05.25,0:24:07.25,Main Dialog,Spoken,0000,0000,0000,,That's your fate...
+Dialogue: 0,0:24:07.25,0:24:10.17,Main Dialog,Spoken,0000,0000,0000,,Or maybe it's my fate.
+Dialogue: 0,0:24:10.17,0:24:11.33,Main Dialog,Spoken,0000,0000,0000,,A Vanguard fight...
+Dialogue: 0,0:24:11.33,0:24:14.51,Main Dialog,Spoken,0000,0000,0000,,That's the only way you and I\N can understand each other.
+Dialogue: 0,0:24:14.51,0:24:16.61,Main Dialog,Spoken,0000,0000,0000,,Next time: The Intersecting Path!
+Dialogue: 0,0:24:15.05,0:24:24.98,Signs,Sign,0000,0000,0000,,The Intersecting Path
+Dialogue: 0,0:24:16.61,0:24:19.34,Main Dialog,Spoken,0000,0000,0000,,I'll fight, putting everything on the line!
+Dialogue: 0,0:24:19.34,0:24:21.68,Main Dialog,Spoken,0000,0000,0000,,The fight I was searching for is right here!
+Dialogue: 0,0:24:21.68,0:24:23.69,Main Dialog,Spoken,0000,0000,0000,,And I'm... going to win!

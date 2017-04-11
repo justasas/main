@@ -1,0 +1,286 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:07.88,0:00:08.88,Main Dialog,Spoken,0000,0000,0000,,This is...
+Dialogue: 0,0:00:08.88,0:00:10.03,Main Dialog,Spoken,0000,0000,0000,,Be careful, everyone!
+Dialogue: 0,0:00:10.03,0:00:12.64,Main Dialog,Spoken,0000,0000,0000,,That's not so easy!
+Dialogue: 0,0:00:14.49,0:00:15.53,Main Dialog,Spoken,0000,0000,0000,,S-Sendou?
+Dialogue: 0,0:00:15.95,0:00:17.67,Main Dialog,Spoken,0000,0000,0000,,Sendou!
+Dialogue: 0,0:00:17.67,0:00:19.54,Main Dialog,Spoken,0000,0000,0000,,Where did you go?!
+Dialogue: 0,0:00:19.78,0:00:20.84,Main Dialog,Spoken,0000,0000,0000,,Aichi!
+Dialogue: 0,0:00:20.84,0:00:22.02,Main Dialog,Spoken,0000,0000,0000,,Brother!
+Dialogue: 0,0:00:22.02,0:00:23.90,Main Dialog,Spoken,0000,0000,0000,,Where did you go, Aichi?!
+Dialogue: 0,0:00:23.90,0:00:25.80,Main Dialog,Spoken,0000,0000,0000,,Aichi!
+Dialogue: 0,0:00:43.17,0:00:44.30,Main Dialog,Spoken,0000,0000,0000,,Takuto...
+Dialogue: 0,0:00:45.00,0:00:47.94,Main Dialog,Spoken,0000,0000,0000,,No... Fake Takuto!
+Dialogue: 0,0:00:48.43,0:00:49.77,Main Dialog,Spoken,0000,0000,0000,,What?
+Dialogue: 0,0:02:41.33,0:02:43.69,Main Dialog,Spoken,0000,0000,0000,,I won't let you get away with it...
+Dialogue: 0,0:02:45.47,0:02:48.46,Main Dialog,Spoken,0000,0000,0000,,You, who did this to Earth...
+Dialogue: 0,0:02:49.19,0:02:51.65,Main Dialog,Spoken,0000,0000,0000,,You, who Reversed everyone...
+Dialogue: 0,0:02:53.54,0:02:58.03,Main Dialog,Spoken,0000,0000,0000,,And you, who gave that power to Kai!
+Dialogue: 0,0:02:59.34,0:03:02.03,Main Dialog,Spoken,0000,0000,0000,,And what is it that you think \Nyou're going to do?
+Dialogue: 0,0:03:03.28,0:03:04.66,Main Dialog,Spoken,0000,0000,0000,,Beat you!
+Dialogue: 0,0:03:05.14,0:03:06.67,Main Dialog,Spoken,0000,0000,0000,,Why did you come?!
+Dialogue: 0,0:03:06.67,0:03:09.54,Main Dialog,Spoken,0000,0000,0000,,If you fight now, you'll...
+Dialogue: 0,0:03:11.54,0:03:15.04,Main Dialog,Spoken,0000,0000,0000,,Good grief. One right after another...
+Dialogue: 0,0:03:15.74,0:03:22.05,Main Dialog,Spoken,0000,0000,0000,,I feel like I keep getting \Nasked to dance at a ball.
+Dialogue: 0,0:03:22.55,0:03:24.80,Main Dialog,Spoken,0000,0000,0000,,I could take you up on it...
+Dialogue: 0,0:03:25.33,0:03:28.67,Main Dialog,Spoken,0000,0000,0000,,...but there's something else \Nthat I need to focus on.
+Dialogue: 0,0:03:29.83,0:03:33.56,Main Dialog,Spoken,0000,0000,0000,,So instead, your perfect match is right here.
+Dialogue: 0,0:03:34.02,0:03:37.35,Main Dialog,Spoken,0000,0000,0000,,She would love to dance with you.
+Dialogue: 0,0:03:37.35,0:03:39.32,Main Dialog,Spoken,0000,0000,0000,,I'll introduce you.
+Dialogue: 0,0:03:39.32,0:03:42.82,Main Dialog,Spoken,0000,0000,0000,,This is a daughter of the Tatsunagi family.
+Dialogue: 0,0:03:43.41,0:03:45.20,Main Dialog,Spoken,0000,0000,0000,,Kourin!
+Dialogue: 0,0:03:48.20,0:03:53.21,Signs,Sign,0000,0000,0000,,Kourin
+Dialogue: 0,0:04:00.25,0:04:04.22,Main Dialog,Spoken,0000,0000,0000,,With the blade of intellect, \Nfight off destiny and lead me!
+Dialogue: 0,0:04:04.22,0:04:06.47,Main Dialog,Spoken,0000,0000,0000,,Minerva, attack!
+Dialogue: 0,0:04:12.15,0:04:13.79,Main Dialog,Spoken,0000,0000,0000,,I make it look like I'm \Nrunning away, and then...
+Dialogue: 0,0:04:13.79,0:04:15.23,Main Dialog,Spoken,0000,0000,0000,,Magatsu Storm!
+Dialogue: 0,0:04:17.48,0:04:19.64,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:04:23.18,0:04:24.61,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:04:25.18,0:04:26.59,Main Dialog,Spoken,0000,0000,0000,,Go!
+Dialogue: 0,0:04:26.59,0:04:27.67,Main Dialog,Spoken,0000,0000,0000,,Miwa...
+Dialogue: 0,0:04:27.67,0:04:30.51,Main Dialog,Spoken,0000,0000,0000,,You're worried about him, aren't you?
+Dialogue: 0,0:04:30.51,0:04:33.12,Main Dialog,Spoken,0000,0000,0000,,We can handle the situation here.
+Dialogue: 0,0:04:33.12,0:04:35.76,Main Dialog,Spoken,0000,0000,0000,,More importantly, hurry up and stop Brother!
+Dialogue: 0,0:04:35.76,0:04:38.76,Main Dialog,Spoken,0000,0000,0000,,If he fights again, he'll...
+Dialogue: 0,0:04:42.39,0:04:44.29,Main Dialog,Spoken,0000,0000,0000,,I'm countin' on you, Kamui!
+Dialogue: 0,0:04:44.29,0:04:46.26,Main Dialog,Spoken,0000,0000,0000,,Yeah! Leave it to me!
+Dialogue: 0,0:04:46.93,0:04:48.92,Main Dialog,Spoken,0000,0000,0000,,Coiling Duckbill!
+Dialogue: 0,0:04:48.92,0:04:51.27,Main Dialog,Spoken,0000,0000,0000,,Dragon Monk, Gojo!
+Dialogue: 0,0:04:51.99,0:04:54.22,Main Dialog,Spoken,0000,0000,0000,,Tempest Bolt Dragon!
+Dialogue: 0,0:04:57.38,0:04:59.57,Main Dialog,Spoken,0000,0000,0000,,Storm Rider, Diamantes!
+Dialogue: 0,0:04:59.57,0:05:02.03,Main Dialog,Spoken,0000,0000,0000,,Same! Storm Rider, Basil!
+Dialogue: 0,0:05:15.37,0:05:16.83,Main Dialog,Spoken,0000,0000,0000,,Kourin...
+Dialogue: 0,0:05:17.69,0:05:19.71,Main Dialog,Spoken,0000,0000,0000,,Save your breath, Aichi.
+Dialogue: 0,0:05:19.71,0:05:25.34,Main Dialog,Spoken,0000,0000,0000,,Win or lose. Those are \Nour only two dance steps.
+Dialogue: 0,0:05:26.30,0:05:29.60,Main Dialog,Spoken,0000,0000,0000,,In that case, I'll win!
+Dialogue: 0,0:05:30.34,0:05:34.98,Main Dialog,Spoken,0000,0000,0000,,Then I'll take a break for a little while.
+Dialogue: 0,0:05:43.96,0:05:49.05,Main Dialog,Spoken,0000,0000,0000,,How...? He was so exhausted \Nthat he couldn't stand up.
+Dialogue: 0,0:05:51.28,0:05:52.75,Main Dialog,Spoken,0000,0000,0000,,Spirit...
+Dialogue: 0,0:05:52.75,0:05:56.26,Main Dialog,Spoken,0000,0000,0000,,He's standing on that alone?!
+Dialogue: 0,0:06:00.47,0:06:01.60,Main Dialog,Spoken,0000,0000,0000,,That's...
+Dialogue: 0,0:06:04.77,0:06:08.88,Main Dialog,Spoken,0000,0000,0000,,I'm definitely going to \Nbring back your old self.
+Dialogue: 0,0:06:09.63,0:06:10.72,Main Dialog,Spoken,0000,0000,0000,,Kourin...
+Dialogue: 0,0:06:12.26,0:06:16.94,Main Dialog,Spoken,0000,0000,0000,,You're going to fight to \Nregain the bond of friendship.
+Dialogue: 0,0:06:17.89,0:06:23.52,Main Dialog,Spoken,0000,0000,0000,,But... if you win, that bond will...
+Dialogue: 0,0:06:25.29,0:06:26.79,Main Dialog,Spoken,0000,0000,0000,,I can't lose.
+Dialogue: 0,0:06:27.70,0:06:30.14,Main Dialog,Spoken,0000,0000,0000,,I'll win this fight...
+Dialogue: 0,0:06:30.14,0:06:31.61,Main Dialog,Spoken,0000,0000,0000,,...against you.
+Dialogue: 0,0:06:34.41,0:06:35.46,Main Dialog,Spoken,0000,0000,0000,,Aichi!
+Dialogue: 0,0:06:36.55,0:06:38.79,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:06:44.55,0:06:47.34,Main Dialog,Spoken,0000,0000,0000,,Liberator, Cheer Up Trumpeter!
+Dialogue: 0,0:06:47.72,0:06:50.09,Main Dialog,Spoken,0000,0000,0000,,Desire Jewel Knight, Heloise!
+Dialogue: 0,0:06:50.59,0:06:52.44,Main Dialog,Spoken,0000,0000,0000,,I ride Marron!
+Dialogue: 0,0:06:52.44,0:06:54.35,Main Dialog,Spoken,0000,0000,0000,,Prizmy attacks!
+Dialogue: 0,0:07:00.77,0:07:03.77,Main Dialog,Spoken,0000,0000,0000,,Stand up, my avatar!
+Dialogue: 0,0:07:03.77,0:07:04.31,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:07:06.18,0:07:08.71,Main Dialog,Spoken,0000,0000,0000,,...Blaster Blade Liberator!
+Dialogue: 0,0:07:10.61,0:07:11.41,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:07:13.62,0:07:17.16,Main Dialog,Spoken,0000,0000,0000,,Banding Jewel Knight, Miranda attacks!
+Dialogue: 0,0:07:27.75,0:07:28.84,Main Dialog,Spoken,0000,0000,0000,,Aichi!
+Dialogue: 0,0:07:29.20,0:07:30.97,Main Dialog,Spoken,0000,0000,0000,,Misaki Tokura! Wait!
+Dialogue: 0,0:07:32.04,0:07:33.53,Main Dialog,Spoken,0000,0000,0000,,Leon?!
+Dialogue: 0,0:07:33.53,0:07:34.58,Main Dialog,Spoken,0000,0000,0000,,Look!
+Dialogue: 0,0:07:36.20,0:07:37.43,Main Dialog,Spoken,0000,0000,0000,,I'm not done yet!
+Dialogue: 0,0:07:38.47,0:07:41.60,Main Dialog,Spoken,0000,0000,0000,,To release those who are \Nin the grip of a spell,
+Dialogue: 0,0:07:41.60,0:07:45.56,Main Dialog,Spoken,0000,0000,0000,,come forth, king of all knights!
+Dialogue: 0,0:07:45.56,0:07:46.23,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:07:47.61,0:07:51.20,Main Dialog,Spoken,0000,0000,0000,,Liberator Black Sanctuary, Alfred!
+Dialogue: 0,0:07:53.66,0:07:55.22,Main Dialog,Spoken,0000,0000,0000,,What is that unit?!
+Dialogue: 0,0:07:56.01,0:07:59.12,Main Dialog,Spoken,0000,0000,0000,,That's the new Alfred.
+Dialogue: 0,0:08:04.47,0:08:05.71,Main Dialog,Spoken,0000,0000,0000,,Thank you...
+Dialogue: 0,0:08:06.86,0:08:10.83,Main Dialog,Spoken,0000,0000,0000,,...for helping me encounter new comrades.
+Dialogue: 0,0:08:16.20,0:08:18.39,Main Dialog,Spoken,0000,0000,0000,,Hmph. That guy...
+Dialogue: 0,0:08:18.92,0:08:22.39,Main Dialog,Spoken,0000,0000,0000,,He still had a final trump card.
+Dialogue: 0,0:08:23.31,0:08:24.90,Main Dialog,Spoken,0000,0000,0000,,That Alfred...
+Dialogue: 0,0:08:27.37,0:08:29.90,Main Dialog,Spoken,0000,0000,0000,,...is supporting Sendou's spirit.
+Dialogue: 0,0:08:37.47,0:08:42.04,Main Dialog,Spoken,0000,0000,0000,,There are things that I have to protect.
+Dialogue: 0,0:08:45.15,0:08:48.18,Main Dialog,Spoken,0000,0000,0000,,The world that I know...
+Dialogue: 0,0:08:48.18,0:08:50.99,Main Dialog,Spoken,0000,0000,0000,,The people that I know...
+Dialogue: 0,0:08:50.99,0:08:54.30,Main Dialog,Spoken,0000,0000,0000,,I swear I'll save them!
+Dialogue: 0,0:09:01.40,0:09:03.14,Main Dialog,Spoken,0000,0000,0000,,It's my turn.
+Dialogue: 0,0:09:03.14,0:09:06.06,Main Dialog,Spoken,0000,0000,0000,,I'm going to defeat you here...
+Dialogue: 0,0:09:06.06,0:09:08.69,Main Dialog,Spoken,0000,0000,0000,,...to protect my world!
+Dialogue: 0,0:09:12.30,0:09:16.07,Main Dialog,Spoken,0000,0000,0000,,Blanket the light, evil darkness!
+Dialogue: 0,0:09:16.07,0:09:16.82,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:09:19.12,0:09:23.47,Main Dialog,Spoken,0000,0000,0000,,...Broken Heart Jewel Knight, \NAshlei "Reverse"!
+Dialogue: 0,0:09:26.61,0:09:27.96,Main Dialog,Spoken,0000,0000,0000,,Tilda's skill.
+Dialogue: 0,0:09:28.46,0:09:29.96,Main Dialog,Spoken,0000,0000,0000,,Superior call!
+Dialogue: 0,0:09:30.64,0:09:32.09,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:09:32.54,0:09:34.72,Main Dialog,Spoken,0000,0000,0000,,Jewel Sword, Noir!
+Dialogue: 0,0:09:35.60,0:09:36.72,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:09:37.97,0:09:40.19,Main Dialog,Spoken,0000,0000,0000,,I command you by this jewelled sword!
+Dialogue: 0,0:09:40.89,0:09:43.35,Main Dialog,Spoken,0000,0000,0000,,Escrad, leave the battlefield!
+Dialogue: 0,0:09:47.82,0:09:50.16,Main Dialog,Spoken,0000,0000,0000,,By this jewelled sword, come forth...
+Dialogue: 0,0:09:50.16,0:09:51.78,Main Dialog,Spoken,0000,0000,0000,,...my new knight!
+Dialogue: 0,0:09:56.43,0:09:59.57,Main Dialog,Spoken,0000,0000,0000,,I sense more determination in her than ever!
+Dialogue: 0,0:09:59.57,0:10:02.75,Main Dialog,Spoken,0000,0000,0000,,But right now, Kourin is...
+Dialogue: 0,0:10:04.03,0:10:05.66,Main Dialog,Spoken,0000,0000,0000,,She's lonely.
+Dialogue: 0,0:10:06.50,0:10:11.72,Main Dialog,Spoken,0000,0000,0000,,It's no wonder. \NShe's burdened with a sad fate.
+Dialogue: 0,0:10:11.72,0:10:13.38,Main Dialog,Spoken,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:10:13.89,0:10:20.05,Main Dialog,Spoken,0000,0000,0000,,I'm definitely going to win this \Nfight and protect it to the end!
+Dialogue: 0,0:10:23.42,0:10:24.60,Main Dialog,Spoken,0000,0000,0000,,Protect my world!
+Dialogue: 0,0:10:27.10,0:10:30.65,Main Dialog,Spoken,0000,0000,0000,,And also my memories!
+Dialogue: 0,0:10:34.55,0:10:36.73,Main Dialog,Spoken,0000,0000,0000,,Is that true?
+Dialogue: 0,0:10:36.73,0:10:40.61,Main Dialog,Spoken,0000,0000,0000,,On the way here, Takuto told me...
+Dialogue: 0,0:10:41.25,0:10:45.54,Main Dialog,Spoken,0000,0000,0000,,Kourin doesn't have any old memories?
+Dialogue: 0,0:10:51.57,0:10:54.00,Main Dialog,Spoken,0000,0000,0000,,Where am I?
+Dialogue: 0,0:10:59.22,0:11:00.76,Main Dialog,Spoken,0000,0000,0000,,Ow...
+Dialogue: 0,0:11:01.57,0:11:03.68,Main Dialog,Spoken,0000,0000,0000,,Who are you?
+Dialogue: 0,0:11:03.68,0:11:06.50,Main Dialog,Spoken,0000,0000,0000,,Me? I'm...
+Dialogue: 0,0:11:06.50,0:11:08.77,Main Dialog,Spoken,0000,0000,0000,,You wouldn't know.
+Dialogue: 0,0:11:11.60,0:11:16.15,Main Dialog,Spoken,0000,0000,0000,,I'm taking good care of your memories.
+Dialogue: 0,0:11:17.97,0:11:22.81,Main Dialog,Spoken,0000,0000,0000,,No one must know of my activities henceforth.
+Dialogue: 0,0:11:22.81,0:11:25.28,Main Dialog,Spoken,0000,0000,0000,,What activities?
+Dialogue: 0,0:11:25.88,0:11:28.77,Main Dialog,Spoken,0000,0000,0000,,Protecting this planet, Cray...
+Dialogue: 0,0:11:28.77,0:11:34.67,Main Dialog,Spoken,0000,0000,0000,,Furthermore, that's connected to \Nprotecting your own world.
+Dialogue: 0,0:11:34.67,0:11:37.43,Main Dialog,Spoken,0000,0000,0000,,Our world...
+Dialogue: 0,0:11:37.43,0:11:41.51,Main Dialog,Spoken,0000,0000,0000,,And I can't do it alone.
+Dialogue: 0,0:11:42.52,0:11:44.74,Main Dialog,Spoken,0000,0000,0000,,My name is Takuto.
+Dialogue: 0,0:11:44.74,0:11:49.27,Main Dialog,Spoken,0000,0000,0000,,From now on, you three are \Ngoing to be my allies.
+Dialogue: 0,0:11:52.45,0:11:55.77,Main Dialog,Spoken,0000,0000,0000,,That's... That's not fair!
+Dialogue: 0,0:11:56.36,0:12:01.36,Main Dialog,Spoken,0000,0000,0000,,Back then, he saw them as no more than pawns.
+Dialogue: 0,0:12:02.16,0:12:04.70,Main Dialog,Spoken,0000,0000,0000,,But even if things are different now...
+Dialogue: 0,0:12:05.65,0:12:08.92,Main Dialog,Spoken,0000,0000,0000,,...they were absolutely necessary then.
+Dialogue: 0,0:12:08.92,0:12:11.20,Main Dialog,Spoken,0000,0000,0000,,Allies of this world...
+Dialogue: 0,0:12:28.32,0:12:30.35,Main Dialog,Spoken,0000,0000,0000,,Alfred attacks!
+Dialogue: 0,0:12:30.93,0:12:32.10,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:12:35.51,0:12:38.95,Main Dialog,Spoken,0000,0000,0000,,Aichi's really gotten strong.
+Dialogue: 0,0:12:38.95,0:12:41.31,Main Dialog,Spoken,0000,0000,0000,,To think he would come this far...
+Dialogue: 0,0:12:42.56,0:12:45.92,Main Dialog,Spoken,0000,0000,0000,,Back then, I could never \Nhave imagined it.
+Dialogue: 0,0:12:47.39,0:12:50.02,Main Dialog,Spoken,0000,0000,0000,,I didn't believe it at first.
+Dialogue: 0,0:12:50.02,0:12:52.06,Main Dialog,Spoken,0000,0000,0000,,{\i1}He{\i0} was a leader?
+Dialogue: 0,0:12:54.75,0:12:57.75,Main Dialog,Spoken,0000,0000,0000,,But his skill kept growing more and more.
+Dialogue: 0,0:13:00.68,0:13:03.05,Main Dialog,Spoken,0000,0000,0000,,I kept watching that...
+Dialogue: 0,0:13:03.05,0:13:06.55,Main Dialog,Spoken,0000,0000,0000,,...and somewhere along the line, \NI couldn't take my eyes off of him.
+Dialogue: 0,0:13:06.55,0:13:11.68,Main Dialog,Spoken,0000,0000,0000,,Then I met the people \Naround Aichi, his friends.
+Dialogue: 0,0:13:12.56,0:13:14.94,Main Dialog,Spoken,0000,0000,0000,,To me, someone without a past,
+Dialogue: 0,0:13:15.53,0:13:20.82,Main Dialog,Spoken,0000,0000,0000,,all of those memories were just... \Nwere just too bright...
+Dialogue: 0,0:13:25.24,0:13:29.75,Main Dialog,Spoken,0000,0000,0000,,If Takuto is beaten, what'll \Nhappen to Kourin and the others?
+Dialogue: 0,0:13:29.75,0:13:33.00,Main Dialog,Spoken,0000,0000,0000,,The other Takuto was absorbed.
+Dialogue: 0,0:13:33.00,0:13:38.08,Main Dialog,Spoken,0000,0000,0000,,If the current Takuto is defeated, \NI'm sure both of them will disappear.
+Dialogue: 0,0:13:38.08,0:13:43.55,Main Dialog,Spoken,0000,0000,0000,,And then her role as an ally will be over.
+Dialogue: 0,0:13:44.13,0:13:46.88,Main Dialog,Spoken,0000,0000,0000,,Her memories of this time...
+Dialogue: 0,0:13:46.88,0:13:48.02,Main Dialog,Spoken,0000,0000,0000,,...will vanish.
+Dialogue: 0,0:13:48.76,0:13:53.75,Main Dialog,Spoken,0000,0000,0000,,To her, the idea of having her current \Nmemories erased must be worse than death.
+Dialogue: 0,0:13:54.72,0:13:59.19,Main Dialog,Spoken,0000,0000,0000,,That really would be losing her world.
+Dialogue: 0,0:13:59.74,0:14:01.65,Main Dialog,Spoken,0000,0000,0000,,Jewel Sword, Noir!
+Dialogue: 0,0:14:03.30,0:14:06.12,Main Dialog,Spoken,0000,0000,0000,,Phallon, leave the battlefield!
+Dialogue: 0,0:14:07.65,0:14:13.41,Main Dialog,Spoken,0000,0000,0000,,So to protect that, she can't \Nlet Takuto be defeated.
+Dialogue: 0,0:14:21.02,0:14:28.17,Main Dialog,Spoken,0000,0000,0000,,That's why Kourin is trying \Nto beat Aichi here.
+Dialogue: 0,0:14:38.35,0:14:41.48,Main Dialog,Spoken,0000,0000,0000,,Ashlei "Reverse," attack!
+Dialogue: 0,0:14:41.87,0:14:42.93,Main Dialog,Spoken,0000,0000,0000,,Check.
+Dialogue: 0,0:14:44.46,0:14:45.61,Main Dialog,Spoken,0000,0000,0000,,Critical trigger.
+Dialogue: 0,0:14:46.29,0:14:50.60,Main Dialog,Spoken,0000,0000,0000,,I give the power to Miranda and the \Nextra critical to Ashlei "Reverse"!
+Dialogue: 0,0:15:07.84,0:15:10.43,Main Dialog,Spoken,0000,0000,0000,,W-What is this?
+Dialogue: 0,0:15:11.19,0:15:12.43,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:15:17.53,0:15:20.19,Main Dialog,Spoken,0000,0000,0000,,You'll be Reversed soon.
+Dialogue: 0,0:15:23.28,0:15:26.19,Main Dialog,Spoken,0000,0000,0000,,You may change,
+Dialogue: 0,0:15:26.88,0:15:30.20,Main Dialog,Spoken,0000,0000,0000,,but it's better than losing you!
+Dialogue: 0,0:15:30.80,0:15:32.32,Main Dialog,Spoken,0000,0000,0000,,Kourin, don't!
+Dialogue: 0,0:15:32.71,0:15:33.49,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:15:35.02,0:15:35.99,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:15:36.37,0:15:37.91,Main Dialog,Spoken,0000,0000,0000,,I'm going to end it with this!
+Dialogue: 0,0:15:38.45,0:15:39.66,Main Dialog,Spoken,0000,0000,0000,,I won't let you!
+Dialogue: 0,0:15:41.84,0:15:43.92,Main Dialog,Spoken,0000,0000,0000,,Wha...?! Aichi!
+Dialogue: 0,0:15:44.52,0:15:46.92,Main Dialog,Spoken,0000,0000,0000,,Here I come, Kourin!
+Dialogue: 0,0:15:48.98,0:15:53.68,Main Dialog,Spoken,0000,0000,0000,,Cheer Up Trumpeter gives its power to Alfred!
+Dialogue: 0,0:15:54.16,0:15:57.43,Main Dialog,Spoken,0000,0000,0000,,And then Alfred's Limit Break!
+Dialogue: 0,0:16:03.36,0:16:05.94,Main Dialog,Spoken,0000,0000,0000,,I send all of your rear-guards to your deck!
+Dialogue: 0,0:16:07.50,0:16:11.44,Main Dialog,Spoken,0000,0000,0000,,And then, five allies \Ngather on the battlefield!
+Dialogue: 0,0:16:14.66,0:16:17.70,Main Dialog,Spoken,0000,0000,0000,,He filled up the entire rear-guard circle!
+Dialogue: 0,0:16:18.26,0:16:20.16,Main Dialog,Spoken,0000,0000,0000,,Bruno's skill!
+Dialogue: 0,0:16:20.16,0:16:25.96,Main Dialog,Spoken,0000,0000,0000,,It gets +3000 power for every rear-guard \Nunit that appeared from the deck!
+Dialogue: 0,0:16:26.84,0:16:29.46,Main Dialog,Spoken,0000,0000,0000,,This Bruno's skill is activated too!
+Dialogue: 0,0:16:33.24,0:16:35.84,Main Dialog,Spoken,0000,0000,0000,,Cheer Up Trumpeter's skill!
+Dialogue: 0,0:16:35.84,0:16:39.97,Main Dialog,Spoken,0000,0000,0000,,Alfred gets +3000 power for every \Nrear-guard unit that appeared from the deck!
+Dialogue: 0,0:16:44.59,0:16:49.86,Main Dialog,Spoken,0000,0000,0000,,On top of that, Alfred gets +1000 \Npower for every rear-guard unit!
+Dialogue: 0,0:16:53.35,0:16:57.83,Main Dialog,Spoken,0000,0000,0000,,With this rear-guard combo \Ncentered around Alfred,
+Dialogue: 0,0:16:57.83,0:17:00.55,Main Dialog,Spoken,0000,0000,0000,,my attacking power \Nincreases dramatically.
+Dialogue: 0,0:17:00.55,0:17:05.00,Main Dialog,Spoken,0000,0000,0000,,This is the new Alfred's \Npower of the bond!
+Dialogue: 0,0:17:07.61,0:17:08.70,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:17:14.55,0:17:16.26,Main Dialog,Spoken,0000,0000,0000,,No! Aichi!
+Dialogue: 0,0:17:16.74,0:17:17.93,Main Dialog,Spoken,0000,0000,0000,,Tokura!
+Dialogue: 0,0:17:18.46,0:17:21.68,Main Dialog,Spoken,0000,0000,0000,,I'm sure Sendou has a firm resolve.
+Dialogue: 0,0:17:22.32,0:17:27.01,Main Dialog,Spoken,0000,0000,0000,,Stopping him now would only steal his spirit.
+Dialogue: 0,0:17:27.97,0:17:29.19,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:17:29.98,0:17:32.07,Main Dialog,Spoken,0000,0000,0000,,Alfred, attack!
+Dialogue: 0,0:17:32.40,0:17:33.57,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:17:33.91,0:17:35.32,Main Dialog,Spoken,0000,0000,0000,,Quintet Wall!
+Dialogue: 0,0:17:36.48,0:17:38.32,Main Dialog,Spoken,0000,0000,0000,,I guard even more!
+Dialogue: 0,0:17:38.92,0:17:40.83,Main Dialog,Spoken,0000,0000,0000,,I can't afford to be defeated here!
+Dialogue: 0,0:17:46.10,0:17:47.33,Main Dialog,Spoken,0000,0000,0000,,Twin drive...
+Dialogue: 0,0:17:49.40,0:17:50.84,Main Dialog,Spoken,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:17:51.48,0:17:53.84,Main Dialog,Spoken,0000,0000,0000,,I give all of the effects to Gancelot!
+Dialogue: 0,0:17:57.12,0:17:58.72,Main Dialog,Spoken,0000,0000,0000,,I attack Miranda!
+Dialogue: 0,0:18:02.31,0:18:03.90,Main Dialog,Spoken,0000,0000,0000,,My intercept...
+Dialogue: 0,0:18:06.10,0:18:09.94,Main Dialog,Spoken,0000,0000,0000,,There are friends that \NI want to protect.
+Dialogue: 0,0:18:10.75,0:18:14.44,Main Dialog,Spoken,0000,0000,0000,,Kourin, you're one of them!
+Dialogue: 0,0:18:17.30,0:18:21.14,Main Dialog,Spoken,0000,0000,0000,,That's why, even if I put \Nmy life on the line...
+Dialogue: 0,0:18:23.22,0:18:26.96,Main Dialog,Spoken,0000,0000,0000,,...I {\i1}will{\i0} save you!
+Dialogue: 0,0:18:29.58,0:18:32.09,Main Dialog,Spoken,0000,0000,0000,,Kourin... Aichi...
+Dialogue: 0,0:18:38.07,0:18:40.86,Main Dialog,Spoken,0000,0000,0000,,Darn it! There's no end to them!
+Dialogue: 0,0:18:40.86,0:18:43.28,Main Dialog,Spoken,0000,0000,0000,,Don't lose heart, senior!
+Dialogue: 0,0:18:43.28,0:18:45.81,Main Dialog,Spoken,0000,0000,0000,,Leave it to me, junior!
+Dialogue: 0,0:18:46.91,0:18:49.55,Main Dialog,Spoken,0000,0000,0000,,You take the ones in back, Shingo!
+Dialogue: 0,0:18:49.55,0:18:53.15,Main Dialog,Spoken,0000,0000,0000,,Roger! You'd better not \Nlet me down, Ishida!
+Dialogue: 0,0:18:55.90,0:18:57.62,Main Dialog,Spoken,0000,0000,0000,,Several of them are going inside!
+Dialogue: 0,0:18:59.02,0:19:00.65,Main Dialog,Spoken,0000,0000,0000,,How dare you do that to Jillian?!
+Dialogue: 0,0:19:04.65,0:19:06.04,Main Dialog,Spoken,0000,0000,0000,,More of 'em?
+Dialogue: 0,0:19:06.04,0:19:10.37,Main Dialog,Spoken,0000,0000,0000,,Darn it! I'll fight all of them together!
+Dialogue: 0,0:19:20.20,0:19:22.67,Main Dialog,Spoken,0000,0000,0000,,Kourin, I don't want to...
+Dialogue: 0,0:19:24.01,0:19:26.46,Main Dialog,Spoken,0000,0000,0000,,Aichi, I don't want to...
+Dialogue: 0,0:19:27.99,0:19:29.49,Main Dialog,Spoken,0000,0000,0000,,...lose you!
+Dialogue: 0,0:19:33.45,0:19:34.65,Main Dialog,Spoken,0000,0000,0000,,Gancelot!
+Dialogue: 0,0:19:35.86,0:19:37.40,Main Dialog,Spoken,0000,0000,0000,,Quintet Wall!
+Dialogue: 0,0:19:50.27,0:19:52.01,Main Dialog,Spoken,0000,0000,0000,,The shield...
+Dialogue: 0,0:19:52.01,0:19:53.17,Main Dialog,Spoken,0000,0000,0000,,It's not enough!
+Dialogue: 0,0:20:34.24,0:20:36.91,Main Dialog,Spoken,0000,0000,0000,,You're strong, Aichi.
+Dialogue: 0,0:20:38.69,0:20:43.72,Main Dialog,Spoken,0000,0000,0000,,But this is my...
+Dialogue: 0,0:20:49.65,0:20:50.76,Main Dialog,Spoken,0000,0000,0000,,It's over.
+Dialogue: 0,0:21:00.35,0:21:01.44,Main Dialog,Spoken,0000,0000,0000,,Kourin!
+Dialogue: 0,0:21:02.11,0:21:03.29,Main Dialog,Spoken,0000,0000,0000,,Kourin!
+Dialogue: 0,0:21:06.28,0:21:09.45,Main Dialog,Spoken,0000,0000,0000,,Both of you are fools!
+Dialogue: 0,0:21:10.65,0:21:13.72,Main Dialog,Spoken,0000,0000,0000,,Aichi, why did you push yourself this far?!
+Dialogue: 0,0:21:13.72,0:21:16.74,Main Dialog,Spoken,0000,0000,0000,,Just fighting puts your life in danger.
+Dialogue: 0,0:21:16.74,0:21:18.52,Main Dialog,Spoken,0000,0000,0000,,And yet, you...
+Dialogue: 0,0:21:21.21,0:21:24.22,Main Dialog,Spoken,0000,0000,0000,,I'm... fine...
+Dialogue: 0,0:21:24.76,0:21:26.11,Main Dialog,Spoken,0000,0000,0000,,But...
+Dialogue: 0,0:21:26.11,0:21:27.30,Main Dialog,Spoken,0000,0000,0000,,Aichi.
+Dialogue: 0,0:21:29.07,0:21:31.85,Main Dialog,Spoken,0000,0000,0000,,You're always this way...
+Dialogue: 0,0:21:31.85,0:21:34.53,Main Dialog,Spoken,0000,0000,0000,,Giving no thought to yourself...
+Dialogue: 0,0:21:34.53,0:21:36.31,Main Dialog,Spoken,0000,0000,0000,,...as you help other people...
+Dialogue: 0,0:21:43.26,0:21:46.39,Main Dialog,Spoken,0000,0000,0000,,Thank you for your trouble, Kourin.
+Dialogue: 0,0:21:46.39,0:21:49.62,Main Dialog,Spoken,0000,0000,0000,,You bought me the time I needed.
+Dialogue: 0,0:21:53.42,0:21:57.05,Main Dialog,Spoken,0000,0000,0000,,Misaki, please take care of Kourin.
+Dialogue: 0,0:21:58.51,0:21:59.63,Main Dialog,Spoken,0000,0000,0000,,Aichi?
+Dialogue: 0,0:22:00.39,0:22:05.10,Main Dialog,Spoken,0000,0000,0000,,There's still something that I have to do.
+Dialogue: 0,0:23:56.41,0:23:56.94,Main Dialog,Spoken,0000,0000,0000,,Kourin...
+Dialogue: 0,0:23:57.22,0:23:58.77,Main Dialog,Spoken,0000,0000,0000,,I'm sorry, Kourin.
+Dialogue: 0,0:23:58.77,0:24:00.96,Main Dialog,Spoken,0000,0000,0000,,If only I'd noticed earlier...
+Dialogue: 0,0:24:00.96,0:24:02.46,Main Dialog,Spoken,0000,0000,0000,,And not only you.
+Dialogue: 0,0:24:02.46,0:24:06.00,Main Dialog,Spoken,0000,0000,0000,,Kai, too, and everyone \Nelse who's been Reversed.
+Dialogue: 0,0:24:06.00,0:24:07.30,Main Dialog,Spoken,0000,0000,0000,,You can't do this, Aichi.
+Dialogue: 0,0:24:07.30,0:24:10.22,Main Dialog,Spoken,0000,0000,0000,,You can barely stand up. Besides...
+Dialogue: 0,0:24:10.22,0:24:13.72,Main Dialog,Spoken,0000,0000,0000,,Misaki, this is my responsibility!
+Dialogue: 0,0:24:13.72,0:24:15.80,Main Dialog,Spoken,0000,0000,0000,,Next time: Ren's Wish!
+Dialogue: 0,0:24:14.18,0:24:24.94,Signs,Sign,0000,0000,0000,,Ren's Wish
+Dialogue: 0,0:24:15.80,0:24:17.78,Main Dialog,Spoken,0000,0000,0000,,The Reversed fighters have even come here?!
+Dialogue: 0,0:24:17.78,0:24:19.93,Main Dialog,Spoken,0000,0000,0000,,Neither Aichi nor Leon are \Nin any shape to fight!
+Dialogue: 0,0:24:20.32,0:24:21.68,Main Dialog,Spoken,0000,0000,0000,,I'll handle this!
+Dialogue: 0,0:24:21.68,0:24:23.93,Main Dialog,Spoken,0000,0000,0000,,Huh? You people are...!

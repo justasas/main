@@ -21,7 +21,7 @@ public class SubtitlesUtils {
 
 	private static boolean parseMilliSeconds = true;
 
-	public static List<Subtitle> parseSubtitles(BufferedReader reader) throws IOException {
+	public static List<Subtitle> parseSubtitles(BufferedReader reader) throws Exception {
 
 		List<Subtitle> subtitles = new ArrayList<>();
 		String[] startEnd = null;
@@ -150,7 +150,7 @@ public class SubtitlesUtils {
 
 	public static SubtitleFile findMostSimiliarSubs(Set<SubtitleFile> subtitlesFileList, List<Subtitle> ySubs) {
 
-        int similarSubsCount = 0;
+        int similarSubsCount = 5;
         SubtitleFile ret = null;
 //        int i = 0;
 
@@ -323,7 +323,7 @@ public class SubtitlesUtils {
 
 		List<TwoSimiliarSubtitle> ret = new ArrayList<TwoSimiliarSubtitle>();
 
-		final int SUBS_INDEXES_DISTANCE = 100;
+		final int SUBS_INDEXES_DISTANCE = 50;
 		System.out.println("i: " + subs.size());
 		System.out.println("y: " + ySubs.size());
 

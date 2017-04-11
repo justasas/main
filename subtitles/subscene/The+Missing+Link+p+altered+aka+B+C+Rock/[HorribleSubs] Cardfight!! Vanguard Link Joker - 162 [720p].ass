@@ -1,0 +1,262 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:12.94,0:00:15.98,Main Dialog,Spoken,0000,0000,0000,,Link Joker's ambition has failed.
+Dialogue: 0,0:00:15.98,0:00:20.00,Main Dialog,Spoken,0000,0000,0000,,I'm sure there will be \Npeace for the time being.
+Dialogue: 0,0:00:20.00,0:00:22.90,Main Dialog,Spoken,0000,0000,0000,,I'm profoundly grateful to you all.
+Dialogue: 0,0:00:22.90,0:00:24.62,Main Dialog,Spoken,0000,0000,0000,,You...
+Dialogue: 0,0:00:25.05,0:00:26.38,Main Dialog,Spoken,0000,0000,0000,,Takuto!
+Dialogue: 0,0:00:27.12,0:00:29.04,Main Dialog,Spoken,0000,0000,0000,,The time has come for us to part.
+Dialogue: 0,0:00:29.93,0:00:31.60,Main Dialog,Spoken,0000,0000,0000,,Let me go!
+Dialogue: 0,0:00:31.60,0:00:33.09,Main Dialog,Spoken,0000,0000,0000,,I won't let go.
+Dialogue: 0,0:00:34.00,0:00:35.47,Main Dialog,Spoken,0000,0000,0000,,We're going together.
+Dialogue: 0,0:00:37.18,0:00:42.77,Main Dialog,Spoken,0000,0000,0000,,No!!
+Dialogue: 0,0:00:48.08,0:00:49.41,Main Dialog,Spoken,0000,0000,0000,,It's over...
+Dialogue: 0,0:00:55.39,0:01:00.28,Main Dialog,Spoken,0000,0000,0000,,To think that the opponent I was \Nreally seeking was right here...
+Dialogue: 0,0:01:01.60,0:01:03.22,Main Dialog,Spoken,0000,0000,0000,,Kai...
+Dialogue: 0,0:03:01.20,0:03:02.92,Main Dialog,Spoken,0000,0000,0000,,Kai and Aichi...
+Dialogue: 0,0:03:02.92,0:03:04.40,Main Dialog,Spoken,0000,0000,0000,,Just those two...
+Dialogue: 0,0:03:04.87,0:03:09.08,Main Dialog,Spoken,0000,0000,0000,,I see... Aichi must've beaten Takuto.
+Dialogue: 0,0:03:10.88,0:03:14.84,Main Dialog,Spoken,0000,0000,0000,,And that set me free from Reverse...
+Dialogue: 0,0:03:41.45,0:03:44.86,Main Dialog,Spoken,0000,0000,0000,,Well, I guess I can't butt in on this fight.
+Dialogue: 0,0:03:50.90,0:03:52.37,Main Dialog,Spoken,0000,0000,0000,,Ren!
+Dialogue: 0,0:03:56.18,0:03:58.87,Main Dialog,Spoken,0000,0000,0000,,Uh oh! This building is dangerous to be in!
+Dialogue: 0,0:03:58.87,0:04:00.80,Main Dialog,Spoken,0000,0000,0000,,Everyone, get outside!
+Dialogue: 0,0:04:01.21,0:04:04.05,Main Dialog,Spoken,0000,0000,0000,,Hurry up! Everybody, withdraw!
+Dialogue: 0,0:04:04.87,0:04:07.05,Main Dialog,Spoken,0000,0000,0000,,Don't leave anyone behind!
+Dialogue: 0,0:04:07.05,0:04:08.56,Main Dialog,Spoken,0000,0000,0000,,Hurry!
+Dialogue: 0,0:04:12.56,0:04:17.56,Signs,Title,0000,0000,0000,,The Intersecting Path
+Dialogue: 0,0:04:27.53,0:04:29.49,Main Dialog,Spoken,0000,0000,0000,,Kourin! Leon!
+Dialogue: 0,0:04:29.49,0:04:30.83,Main Dialog,Spoken,0000,0000,0000,,And Misaki too!
+Dialogue: 0,0:04:35.16,0:04:36.77,Main Dialog,Spoken,0000,0000,0000,,What's happening?
+Dialogue: 0,0:04:36.77,0:04:39.81,Main Dialog,Spoken,0000,0000,0000,,Takuto disappeared from this world.
+Dialogue: 0,0:04:41.62,0:04:45.97,Main Dialog,Spoken,0000,0000,0000,,Link Joker's power had spread \Nacross the entire Earth.
+Dialogue: 0,0:04:46.97,0:04:49.22,Main Dialog,Spoken,0000,0000,0000,,He's trying to erase it forever.
+Dialogue: 0,0:04:53.12,0:04:54.98,Main Dialog,Spoken,0000,0000,0000,,He's gone...
+Dialogue: 0,0:04:55.48,0:04:58.98,Main Dialog,Spoken,0000,0000,0000,,Then our memories will vanish too, soon...
+Dialogue: 0,0:04:59.55,0:05:02.05,Main Dialog,Spoken,0000,0000,0000,,...along with that ring.
+Dialogue: 0,0:05:06.90,0:05:09.66,Main Dialog,Spoken,0000,0000,0000,,Hey! Brother and Kai ain't here!
+Dialogue: 0,0:05:12.79,0:05:18.17,Main Dialog,Spoken,0000,0000,0000,,Those two... are still up there.
+Dialogue: 0,0:05:21.38,0:05:23.16,Main Dialog,Spoken,0000,0000,0000,,They're going to fight.
+Dialogue: 0,0:05:25.21,0:05:28.50,Main Dialog,Spoken,0000,0000,0000,,You were freed from being Reversed
+Dialogue: 0,0:05:28.50,0:05:30.99,Main Dialog,Spoken,0000,0000,0000,,after Link Joker's power \Ndisappeared from Earth, right?
+Dialogue: 0,0:05:30.99,0:05:35.02,Main Dialog,Spoken,0000,0000,0000,,Don't tell me Kai is the only one \Nwhose Reverse hasn't been nullified?!
+Dialogue: 0,0:05:35.02,0:05:37.27,Main Dialog,Spoken,0000,0000,0000,,Kai's Reverse is also undone.
+Dialogue: 0,0:05:37.27,0:05:41.65,Main Dialog,Spoken,0000,0000,0000,,Or, to be more precise, it's {\i1}being{\i0} undone.
+Dialogue: 0,0:05:42.09,0:05:44.33,Main Dialog,Spoken,0000,0000,0000,,Then why...?
+Dialogue: 0,0:05:44.33,0:05:46.35,Main Dialog,Spoken,0000,0000,0000,,It's not totally undone yet.
+Dialogue: 0,0:05:47.47,0:05:50.08,Main Dialog,Spoken,0000,0000,0000,,As someone who sought to be the strongest,
+Dialogue: 0,0:05:50.08,0:05:54.23,Main Dialog,Spoken,0000,0000,0000,,Kai couldn't bear not \Nchallenging Aichi to a fight.
+Dialogue: 0,0:05:55.35,0:05:59.58,Main Dialog,Spoken,0000,0000,0000,,Before his power disappears, \NKai wants to test it out.
+Dialogue: 0,0:06:01.53,0:06:06.11,Main Dialog,Spoken,0000,0000,0000,,To see whether the path he chose to becoming \Nthe strongest was the real thing or not.
+Dialogue: 0,0:06:08.11,0:06:09.93,Main Dialog,Spoken,0000,0000,0000,,Picture it.
+Dialogue: 0,0:06:09.93,0:06:12.61,Main Dialog,Spoken,0000,0000,0000,,The path you walked on to get here!
+Dialogue: 0,0:06:21.75,0:06:23.77,Main Dialog,Spoken,0000,0000,0000,,After meeting with you again,
+Dialogue: 0,0:06:23.77,0:06:26.16,Main Dialog,Spoken,0000,0000,0000,,I aimed to become the best fighter in Japan.
+Dialogue: 0,0:06:39.12,0:06:43.17,Main Dialog,Spoken,0000,0000,0000,,After splitting away from you, I sought to \Nbecome the strongest fighter in the world.
+Dialogue: 0,0:06:54.00,0:06:58.56,Main Dialog,Spoken,0000,0000,0000,,For the sake of my own strength, \NI set foot into the darkness.
+Dialogue: 0,0:07:00.93,0:07:03.84,Main Dialog,Spoken,0000,0000,0000,,I obtained the power of Link Joker.
+Dialogue: 0,0:07:09.12,0:07:11.53,Main Dialog,Spoken,0000,0000,0000,,But you overcame the fear of death
+Dialogue: 0,0:07:11.53,0:07:17.41,Main Dialog,Spoken,0000,0000,0000,,and became stronger, strong enough to defeat \Nthe false Takuto, who I intended to beat.
+Dialogue: 0,0:07:24.71,0:07:30.55,Main Dialog,Spoken,0000,0000,0000,,The two separate paths that we've believed in \Nto progress have now intersected.
+Dialogue: 0,0:07:31.27,0:07:33.68,Main Dialog,Spoken,0000,0000,0000,,The time to fight has come.
+Dialogue: 0,0:07:36.51,0:07:39.64,Main Dialog,Spoken,0000,0000,0000,,Link Joker is vanishing within me.
+Dialogue: 0,0:07:40.36,0:07:42.39,Main Dialog,Spoken,0000,0000,0000,,So this deck will vanish soon.
+Dialogue: 0,0:07:45.65,0:07:49.77,Main Dialog,Spoken,0000,0000,0000,,If I don't fight you now, \Nwhen you're the strongest,
+Dialogue: 0,0:07:49.77,0:07:52.65,Main Dialog,Spoken,0000,0000,0000,,accepting this power \Nwill have been for nothing.
+Dialogue: 0,0:07:54.39,0:07:56.11,Main Dialog,Spoken,0000,0000,0000,,Kai...
+Dialogue: 0,0:07:56.11,0:07:59.91,Main Dialog,Spoken,0000,0000,0000,,You said you intended to beat Takuto, right?
+Dialogue: 0,0:08:00.80,0:08:06.43,Main Dialog,Spoken,0000,0000,0000,,Yeah. I never let Link Joker's \Nreach extend as far as my heart.
+Dialogue: 0,0:08:06.43,0:08:08.42,Main Dialog,Spoken,0000,0000,0000,,I was always myself.
+Dialogue: 0,0:08:10.07,0:08:12.79,Main Dialog,Spoken,0000,0000,0000,,Then you fought me and everyone...
+Dialogue: 0,0:08:12.79,0:08:16.55,Main Dialog,Spoken,0000,0000,0000,,...beat and Reversed us... \Nof your own free will?!
+Dialogue: 0,0:08:18.11,0:08:18.97,Main Dialog,Spoken,0000,0000,0000,,That's right.
+Dialogue: 0,0:08:26.29,0:08:28.80,Main Dialog,Spoken,0000,0000,0000,,Reversing everyone...
+Dialogue: 0,0:08:30.03,0:08:32.36,Main Dialog,Spoken,0000,0000,0000,,That was absolutely the wrong thing to do!
+Dialogue: 0,0:08:40.20,0:08:42.18,Main Dialog,Spoken,0000,0000,0000,,I'm aware of that.
+Dialogue: 0,0:08:42.18,0:08:45.02,Main Dialog,Spoken,0000,0000,0000,,What I did was unforgivable.
+Dialogue: 0,0:08:45.78,0:08:48.13,Main Dialog,Spoken,0000,0000,0000,,I'll bear the burden of this sin \Nfor the rest of my life.
+Dialogue: 0,0:08:48.13,0:08:52.46,Main Dialog,Spoken,0000,0000,0000,,Why did you accept Link Joker \Nin the first place?!
+Dialogue: 0,0:08:52.46,0:08:54.99,Main Dialog,Spoken,0000,0000,0000,,You weren't even being controlled...
+Dialogue: 0,0:08:54.99,0:08:55.88,Main Dialog,Spoken,0000,0000,0000,,Why?!
+Dialogue: 0,0:08:56.89,0:09:01.90,Main Dialog,Spoken,0000,0000,0000,,I was seduced by the prospect of becoming \Nstrong... of becoming the strongest...
+Dialogue: 0,0:09:01.90,0:09:06.27,Main Dialog,Spoken,0000,0000,0000,,That's my weakness. My sin.
+Dialogue: 0,0:09:07.84,0:09:11.01,Main Dialog,Spoken,0000,0000,0000,,I sold my soul to Link Joker.
+Dialogue: 0,0:09:12.03,0:09:17.84,Main Dialog,Spoken,0000,0000,0000,,Even as I sensed that it was an evil \Nentity, I gave in to temptation.
+Dialogue: 0,0:09:18.96,0:09:24.11,Main Dialog,Spoken,0000,0000,0000,,The experience I gained \Nfighting became my own power.
+Dialogue: 0,0:09:24.79,0:09:31.42,Main Dialog,Spoken,0000,0000,0000,,In order to get stronger, \NI didn't care who got Reversed.
+Dialogue: 0,0:09:31.42,0:09:34.15,Main Dialog,Spoken,0000,0000,0000,,Even if they were my former comrades...
+Dialogue: 0,0:09:35.12,0:09:36.87,Main Dialog,Spoken,0000,0000,0000,,Even you...
+Dialogue: 0,0:09:41.97,0:09:46.78,Main Dialog,Spoken,0000,0000,0000,,So in that sense, I was being controlled.
+Dialogue: 0,0:09:46.78,0:09:49.23,Main Dialog,Spoken,0000,0000,0000,,Controlled by my own desire, strength...
+Dialogue: 0,0:09:49.23,0:09:50.61,Main Dialog,Spoken,0000,0000,0000,,Kai!
+Dialogue: 0,0:09:50.99,0:09:52.70,Main Dialog,Spoken,0000,0000,0000,,I know.
+Dialogue: 0,0:09:52.70,0:09:57.36,Main Dialog,Spoken,0000,0000,0000,,Even though Earth has been saved, \Nmy sin hasn't disappeared.
+Dialogue: 0,0:09:58.32,0:10:01.68,Main Dialog,Spoken,0000,0000,0000,,A demon inhabits my heart.
+Dialogue: 0,0:10:01.68,0:10:05.98,Main Dialog,Spoken,0000,0000,0000,,If another such opportunity \Nhappened to come my way,
+Dialogue: 0,0:10:05.98,0:10:09.12,Main Dialog,Spoken,0000,0000,0000,,I'm sure I would \Nchoose the same path.
+Dialogue: 0,0:10:11.74,0:10:17.62,Main Dialog,Spoken,0000,0000,0000,,Even if it hurt you guys \Nand endangered Earth again...
+Dialogue: 0,0:10:19.26,0:10:22.09,Main Dialog,Spoken,0000,0000,0000,,...I'm pretty sure I would...
+Dialogue: 0,0:10:23.87,0:10:27.23,Main Dialog,Spoken,0000,0000,0000,,Getting stronger, no matter what...
+Dialogue: 0,0:10:27.23,0:10:30.45,Main Dialog,Spoken,0000,0000,0000,,That's the nature of a Vanguard fighter.
+Dialogue: 0,0:10:31.77,0:10:34.34,Main Dialog,Spoken,0000,0000,0000,,The only thing that I can't stop...
+Dialogue: 0,0:10:34.34,0:10:35.94,Main Dialog,Spoken,0000,0000,0000,,...is this desire.
+Dialogue: 0,0:10:38.15,0:10:41.12,Main Dialog,Spoken,0000,0000,0000,,I'll bear the burden of this sin \Nfor the rest of my life.
+Dialogue: 0,0:10:41.12,0:10:43.91,Main Dialog,Spoken,0000,0000,0000,,I have to punish myself.
+Dialogue: 0,0:10:44.57,0:10:48.91,Main Dialog,Spoken,0000,0000,0000,,To seek strength, one must become isolated.
+Dialogue: 0,0:10:49.71,0:10:54.31,Main Dialog,Spoken,0000,0000,0000,,Only one person can stand \Nat the pinnacle of victory.
+Dialogue: 0,0:10:54.31,0:10:59.68,Main Dialog,Spoken,0000,0000,0000,,To arrive at that point, I have to \Nbeat everyone, no matter who they are.
+Dialogue: 0,0:11:00.44,0:11:04.06,Main Dialog,Spoken,0000,0000,0000,,I will beat everyone around me.
+Dialogue: 0,0:11:04.59,0:11:11.41,Main Dialog,Spoken,0000,0000,0000,,That's the only path that will take me \Nto what I seek: being the strongest.
+Dialogue: 0,0:11:13.02,0:11:16.44,Main Dialog,Spoken,0000,0000,0000,,My presence would only hurt you more.
+Dialogue: 0,0:11:17.26,0:11:19.05,Main Dialog,Spoken,0000,0000,0000,,I'm going to disappear...
+Dialogue: 0,0:11:19.05,0:11:20.70,Main Dialog,Spoken,0000,0000,0000,,...from your lives...
+Dialogue: 0,0:11:21.28,0:11:22.45,Main Dialog,Spoken,0000,0000,0000,,...forever.
+Dialogue: 0,0:11:27.16,0:11:28.83,Main Dialog,Spoken,0000,0000,0000,,Disappear?!
+Dialogue: 0,0:11:28.83,0:11:33.46,Main Dialog,Spoken,0000,0000,0000,,So you mean for this fight to be our last?
+Dialogue: 0,0:11:48.72,0:11:55.07,Main Dialog,Spoken,0000,0000,0000,,Only a fighter can understand \Nanother fighter.
+Dialogue: 0,0:12:05.43,0:12:06.22,Main Dialog,Spoken,0000,0000,0000,,Stand up...
+Dialogue: 0,0:12:06.22,0:12:06.95,Main Dialog,Spoken,0000,0000,0000,,...the...
+Dialogue: 0,0:12:06.95,0:12:08.02,Main Dialog,Spoken,0000,0000,0000,,...Vanguard!
+Dialogue: 0,0:12:27.65,0:12:29.39,Main Dialog,Spoken,0000,0000,0000,,It's started...
+Dialogue: 0,0:12:30.06,0:12:32.64,Main Dialog,Spoken,0000,0000,0000,,The fight in which their very \Nexistences are on the line.
+Dialogue: 0,0:12:44.58,0:12:46.43,Main Dialog,Spoken,0000,0000,0000,,Red Pulse Dracokid.
+Dialogue: 0,0:12:47.49,0:12:50.62,Main Dialog,Spoken,0000,0000,0000,,Liberator, Cheer Up Trumpeter!
+Dialogue: 0,0:12:53.44,0:12:56.54,Main Dialog,Spoken,0000,0000,0000,,The Gold Paladin deck that beat Takuto...
+Dialogue: 0,0:12:58.26,0:13:01.99,Main Dialog,Spoken,0000,0000,0000,,The Kagero Reverse deck that defeated me...
+Dialogue: 0,0:13:02.66,0:13:05.38,Main Dialog,Spoken,0000,0000,0000,,A clash between the two strongest decks...
+Dialogue: 0,0:13:12.18,0:13:13.02,Main Dialog,Spoken,0000,0000,0000,,Here I go!
+Dialogue: 0,0:13:13.57,0:13:14.64,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:13:15.07,0:13:17.51,Main Dialog,Spoken,0000,0000,0000,,...Dragon Monk, Gojo!
+Dialogue: 0,0:13:19.35,0:13:20.52,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:13:20.93,0:13:23.44,Main Dialog,Spoken,0000,0000,0000,,...Little Liberator, Marron!
+Dialogue: 0,0:13:25.59,0:13:28.73,Main Dialog,Spoken,0000,0000,0000,,I call May Rain Liberator, Bruno!
+Dialogue: 0,0:13:30.96,0:13:31.78,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:13:39.60,0:13:40.61,Main Dialog,Spoken,0000,0000,0000,,Turn end!
+Dialogue: 0,0:13:46.71,0:13:47.80,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:13:48.64,0:13:50.01,Main Dialog,Spoken,0000,0000,0000,,...Dragon Knight, Nehalem!
+Dialogue: 0,0:13:53.38,0:13:54.05,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:13:55.60,0:13:59.52,Main Dialog,Spoken,0000,0000,0000,,Burning Horn Dragon and Dragonic Burnout!
+Dialogue: 0,0:14:00.29,0:14:02.27,Main Dialog,Spoken,0000,0000,0000,,Burnout's Soulblast.
+Dialogue: 0,0:14:05.53,0:14:07.58,Main Dialog,Spoken,0000,0000,0000,,Bruno, retire!
+Dialogue: 0,0:14:09.68,0:14:10.66,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:14:18.72,0:14:20.21,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:14:25.14,0:14:28.96,Main Dialog,Spoken,0000,0000,0000,,Kai, you're my idol.
+Dialogue: 0,0:14:29.44,0:14:33.13,Main Dialog,Spoken,0000,0000,0000,,Your strength never wavers.
+Dialogue: 0,0:14:33.13,0:14:38.07,Main Dialog,Spoken,0000,0000,0000,,It's because you pushed your way down \Nthe path that you believe in...
+Dialogue: 0,0:14:38.07,0:14:41.97,Main Dialog,Spoken,0000,0000,0000,,That you carved it out for yourself, without \Ntaking it easy, even in the face of adversity.
+Dialogue: 0,0:14:44.15,0:14:46.36,Main Dialog,Spoken,0000,0000,0000,,In order to become strong...
+Dialogue: 0,0:14:46.87,0:14:50.74,Main Dialog,Spoken,0000,0000,0000,,If I hadn't met you, \NI wouldn't be what I am today!
+Dialogue: 0,0:14:51.62,0:14:58.62,Main Dialog,Spoken,0000,0000,0000,,My world expanded because you \Nintroduced me to Vanguard.
+Dialogue: 0,0:15:03.83,0:15:08.24,Main Dialog,Spoken,0000,0000,0000,,Through Vanguard, I've been \Nable to meet many people.
+Dialogue: 0,0:15:08.88,0:15:12.86,Main Dialog,Spoken,0000,0000,0000,,For the first time, I made friends \NI can also call comrades.
+Dialogue: 0,0:15:17.05,0:15:21.39,Main Dialog,Spoken,0000,0000,0000,,You taught us how to picture things \Nand go beyond our limits.
+Dialogue: 0,0:15:23.10,0:15:26.40,Main Dialog,Spoken,0000,0000,0000,,I was able to change myself...
+Dialogue: 0,0:15:27.02,0:15:28.88,Main Dialog,Spoken,0000,0000,0000,,...because you were there!
+Dialogue: 0,0:15:29.40,0:15:32.70,Main Dialog,Spoken,0000,0000,0000,,I was able to become strong!
+Dialogue: 0,0:15:35.33,0:15:38.16,Main Dialog,Spoken,0000,0000,0000,,The bond that ties us together...
+Dialogue: 0,0:15:39.10,0:15:41.84,Main Dialog,Spoken,0000,0000,0000,,It all started here.
+Dialogue: 0,0:15:41.84,0:15:43.42,Main Dialog,Spoken,0000,0000,0000,,And so it will continue...
+Dialogue: 0,0:15:44.44,0:15:47.17,Main Dialog,Spoken,0000,0000,0000,,Stand up, my avatar!
+Dialogue: 0,0:15:48.31,0:15:49.30,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:15:50.97,0:15:52.65,Main Dialog,Spoken,0000,0000,0000,,...Blaster Blade!
+Dialogue: 0,0:15:55.00,0:15:56.39,Main Dialog,Spoken,0000,0000,0000,,Counterblast!
+Dialogue: 0,0:16:03.89,0:16:05.41,Main Dialog,Spoken,0000,0000,0000,,Blaster Blade...
+Dialogue: 0,0:16:06.19,0:16:08.55,Main Dialog,Spoken,0000,0000,0000,,Truly, your avatar...
+Dialogue: 0,0:16:08.55,0:16:13.25,Main Dialog,Spoken,0000,0000,0000,,Or the unrivaled existence \Nthat one could say {\i1}is{\i0} you.
+Dialogue: 0,0:16:14.65,0:16:17.91,Main Dialog,Spoken,0000,0000,0000,,Blaster Blade attacks Nehalem.
+Dialogue: 0,0:16:18.69,0:16:19.66,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:16:21.46,0:16:23.29,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check.
+Dialogue: 0,0:16:24.22,0:16:25.67,Main Dialog,Spoken,0000,0000,0000,,Heal trigger!
+Dialogue: 0,0:16:26.21,0:16:30.80,Main Dialog,Spoken,0000,0000,0000,,I give +5000 power to Phallon \Nand heal 1 damage point.
+Dialogue: 0,0:16:31.80,0:16:34.05,Main Dialog,Spoken,0000,0000,0000,,Phallon attacks with a boost from Zolon!
+Dialogue: 0,0:16:37.76,0:16:43.14,Main Dialog,Spoken,0000,0000,0000,,That's right. Without you, \Nthe current me wouldn't exist, Kai.
+Dialogue: 0,0:16:43.14,0:16:47.63,Main Dialog,Spoken,0000,0000,0000,,Kai, you're the one person I idolize, \Nwant to catch up to, and want to surpass!
+Dialogue: 0,0:16:47.63,0:16:49.32,Main Dialog,Spoken,0000,0000,0000,,You're the one!
+Dialogue: 0,0:16:54.13,0:16:59.98,Main Dialog,Spoken,0000,0000,0000,,I'm a fool who was seduced by strength \Nand couldn't help but pursue it.
+Dialogue: 0,0:16:59.98,0:17:02.83,Main Dialog,Spoken,0000,0000,0000,,I don't deserve to be idolized by you.
+Dialogue: 0,0:17:05.79,0:17:12.34,Main Dialog,Spoken,0000,0000,0000,,When I saw you and Ren fight, I wanted \Nto become strong enough to fight you.
+Dialogue: 0,0:17:12.80,0:17:15.72,Main Dialog,Spoken,0000,0000,0000,,And then Link Joker appeared...
+Dialogue: 0,0:17:16.22,0:17:22.32,Main Dialog,Spoken,0000,0000,0000,,I sensed that it was evil, \Nbut that feeling was drowned out
+Dialogue: 0,0:17:22.32,0:17:25.35,Main Dialog,Spoken,0000,0000,0000,,by thoughts of wanting to beat you \Nand become the strongest.
+Dialogue: 0,0:17:27.56,0:17:32.61,Main Dialog,Spoken,0000,0000,0000,,This fight is my farewell to you.
+Dialogue: 0,0:17:34.10,0:17:37.61,Main Dialog,Spoken,0000,0000,0000,,This is my true form!
+Dialogue: 0,0:17:39.26,0:17:43.12,Main Dialog,Spoken,0000,0000,0000,,The apocalyptic flames that reduce \Neverything in this world to ashes!
+Dialogue: 0,0:17:44.78,0:17:46.92,Main Dialog,Spoken,0000,0000,0000,,Ride the Vanguard!
+Dialogue: 0,0:17:50.53,0:17:52.71,Main Dialog,Spoken,0000,0000,0000,,Dragonic Overlord!
+Dialogue: 0,0:18:00.36,0:18:03.01,Main Dialog,Spoken,0000,0000,0000,,Phallon attacks your Vanguard!
+Dialogue: 0,0:18:03.48,0:18:04.52,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:18:04.97,0:18:07.02,Main Dialog,Spoken,0000,0000,0000,,Overlord attacks!
+Dialogue: 0,0:18:09.97,0:18:11.99,Main Dialog,Spoken,0000,0000,0000,,I check the drive trigger!
+Dialogue: 0,0:18:14.00,0:18:16.40,Main Dialog,Spoken,0000,0000,0000,,I got a critical trigger.
+Dialogue: 0,0:18:17.02,0:18:21.66,Main Dialog,Spoken,0000,0000,0000,,I give +5000 power to Nehalem and \Nthe extra critical to Overlord.
+Dialogue: 0,0:18:27.77,0:18:30.17,Main Dialog,Spoken,0000,0000,0000,,Damage trigger check!
+Dialogue: 0,0:18:33.18,0:18:34.42,Main Dialog,Spoken,0000,0000,0000,,Heal trigger!
+Dialogue: 0,0:18:35.11,0:18:40.68,Main Dialog,Spoken,0000,0000,0000,,I give +5000 power to Blaster Blade \Nand heal 1 damage point!
+Dialogue: 0,0:18:41.37,0:18:43.05,Main Dialog,Spoken,0000,0000,0000,,Nehalem attacks!
+Dialogue: 0,0:18:43.62,0:18:44.56,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:18:48.85,0:18:50.13,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:18:58.01,0:19:02.53,Main Dialog,Spoken,0000,0000,0000,,Overlord, eh? Kai's serious!
+Dialogue: 0,0:19:03.20,0:19:04.20,Main Dialog,Spoken,0000,0000,0000,,Indeed.
+Dialogue: 0,0:19:05.31,0:19:10.17,Main Dialog,Spoken,0000,0000,0000,,Although I've never seen \NKai anything other than serious...
+Dialogue: 0,0:19:10.96,0:19:16.30,Main Dialog,Spoken,0000,0000,0000,,I can't see it from here, but I \Nsuspect Aichi is using Blaster Blade.
+Dialogue: 0,0:19:17.03,0:19:18.52,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:19:19.94,0:19:21.08,Main Dialog,Spoken,0000,0000,0000,,Kourin...
+Dialogue: 0,0:19:26.32,0:19:32.06,Main Dialog,Spoken,0000,0000,0000,,Darn it! I hate to say it, \Nbut I wanna see that fight up close!
+Dialogue: 0,0:19:32.42,0:19:34.24,Main Dialog,Spoken,0000,0000,0000,,Agreed.
+Dialogue: 0,0:19:34.24,0:19:38.69,Main Dialog,Spoken,0000,0000,0000,,Were it not for these circumstances, \Nit would be a perfect opportunity.
+Dialogue: 0,0:19:39.89,0:19:41.14,Main Dialog,Spoken,0000,0000,0000,,It's unfortunate.
+Dialogue: 0,0:19:52.15,0:19:54.40,Main Dialog,Spoken,0000,0000,0000,,Are you going to hurt me?
+Dialogue: 0,0:19:54.40,0:19:55.96,Main Dialog,Spoken,0000,0000,0000,,Is that why you're going to disappear?
+Dialogue: 0,0:20:18.72,0:20:19.73,Main Dialog,Spoken,0000,0000,0000,,That's...
+Dialogue: 0,0:20:20.22,0:20:21.86,Main Dialog,Spoken,0000,0000,0000,,That's a mistake!
+Dialogue: 0,0:20:23.79,0:20:28.39,Main Dialog,Spoken,0000,0000,0000,,I'm not fighting you to say goodbye, Kai.
+Dialogue: 0,0:20:28.39,0:20:32.62,Main Dialog,Spoken,0000,0000,0000,,I want you to understand \Nthat you're not alone!
+Dialogue: 0,0:20:34.76,0:20:39.00,Main Dialog,Spoken,0000,0000,0000,,May your noble power rain down \Nand become the world's bond!
+Dialogue: 0,0:20:39.98,0:20:40.88,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:20:42.17,0:20:45.55,Main Dialog,Spoken,0000,0000,0000,,...Liberator of Bonds, Gancelot Zenith!
+Dialogue: 0,0:20:48.78,0:20:54.14,Main Dialog,Spoken,0000,0000,0000,,I swear by this sword that \NI'll prove it to you!
+Dialogue: 0,0:20:57.61,0:20:58.63,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:21:00.29,0:21:02.28,Main Dialog,Spoken,0000,0000,0000,,Marron attacks your Vanguard!
+Dialogue: 0,0:21:03.60,0:21:04.41,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:21:09.44,0:21:11.04,Main Dialog,Spoken,0000,0000,0000,,Gancelot attacks!
+Dialogue: 0,0:21:13.28,0:21:16.00,Main Dialog,Spoken,0000,0000,0000,,Phallon attacks with a boost from Zoron!
+Dialogue: 0,0:21:17.60,0:21:18.71,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:21:21.46,0:21:22.62,Main Dialog,Spoken,0000,0000,0000,,Turn end!
+Dialogue: 0,0:21:26.31,0:21:27.21,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:21:30.69,0:21:33.43,Main Dialog,Spoken,0000,0000,0000,,This is my last ride!
+Dialogue: 0,0:21:35.39,0:21:41.27,Main Dialog,Spoken,0000,0000,0000,,Be resurrected in the flames of purgatory \Nthat reduce everything to ashes!
+Dialogue: 0,0:21:42.44,0:21:43.61,Main Dialog,Spoken,0000,0000,0000,,Be reborn!
+Dialogue: 0,0:21:44.34,0:21:46.36,Main Dialog,Spoken,0000,0000,0000,,Strongest dark dragon of fire!
+Dialogue: 0,0:21:46.73,0:21:49.28,Main Dialog,Spoken,0000,0000,0000,,Crossbreak ride!
+Dialogue: 0,0:21:55.48,0:22:00.84,Main Dialog,Spoken,0000,0000,0000,,Dragonic Overlord the "Reverse"!
+Dialogue: 0,0:22:02.72,0:22:06.49,Main Dialog,Spoken,0000,0000,0000,,This will bring everything to an end.
+Dialogue: 0,0:22:06.49,0:22:10.07,Main Dialog,Spoken,0000,0000,0000,,Our relationship... and everything else...
+Dialogue: 0,0:22:13.44,0:22:14.48,Main Dialog,Spoken,0000,0000,0000,,Kai...
+Dialogue: 0,0:23:56.27,0:23:57.74,Main Dialog,Spoken,0000,0000,0000,,Just watch, Aichi!
+Dialogue: 0,0:23:57.74,0:24:00.12,Main Dialog,Spoken,0000,0000,0000,,The power I was searching for is here!
+Dialogue: 0,0:24:00.12,0:24:01.89,Main Dialog,Spoken,0000,0000,0000,,Overlord "Reverse"...
+Dialogue: 0,0:24:01.89,0:24:04.27,Main Dialog,Spoken,0000,0000,0000,,The embodiment of sinister power...
+Dialogue: 0,0:24:04.27,0:24:07.13,Main Dialog,Spoken,0000,0000,0000,,A unit like that is your avatar, Kai?!
+Dialogue: 0,0:24:07.13,0:24:09.77,Main Dialog,Spoken,0000,0000,0000,,I've gone beyond what's right...
+Dialogue: 0,0:24:09.77,0:24:11.22,Main Dialog,Spoken,0000,0000,0000,,...in order to defeat you!
+Dialogue: 0,0:24:11.22,0:24:13.22,Main Dialog,Spoken,0000,0000,0000,,I understand, Kai.
+Dialogue: 0,0:24:13.22,0:24:16.60,Main Dialog,Spoken,0000,0000,0000,,But I don't accept the end of everything!
+Dialogue: 0,0:24:16.60,0:24:18.81,Main Dialog,Spoken,0000,0000,0000,,Next time: The Connected!
+Dialogue: 0,0:24:17.35,0:24:24.94,Signs,Sign,0000,0000,0000,,The Connected
+Dialogue: 0,0:24:18.81,0:24:21.98,Main Dialog,Spoken,0000,0000,0000,,I'm going to bring you back \Nto the right path!
+Dialogue: 0,0:24:21.98,0:24:24.08,Main Dialog,Spoken,0000,0000,0000,,Farewell, Aichi!

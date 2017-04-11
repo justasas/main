@@ -1,0 +1,249 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.64,0:00:06.31,Main Dialog,Spoken,0000,0000,0000,,My presence would only hurt you more.
+Dialogue: 0,0:00:06.94,0:00:08.72,Main Dialog,Spoken,0000,0000,0000,,I'm going to disappear...
+Dialogue: 0,0:00:08.72,0:00:10.57,Main Dialog,Spoken,0000,0000,0000,,...from your lives...
+Dialogue: 0,0:00:10.57,0:00:12.32,Main Dialog,Spoken,0000,0000,0000,,...forever.
+Dialogue: 0,0:00:12.72,0:00:13.70,Main Dialog,Spoken,0000,0000,0000,,That's...
+Dialogue: 0,0:00:14.08,0:00:15.82,Main Dialog,Spoken,0000,0000,0000,,That's a mistake!
+Dialogue: 0,0:00:16.29,0:00:19.08,Main Dialog,Spoken,0000,0000,0000,,This is my last ride!
+Dialogue: 0,0:00:20.69,0:00:23.97,Main Dialog,Spoken,0000,0000,0000,,This will bring everything to an end.
+Dialogue: 0,0:00:24.55,0:00:28.03,Main Dialog,Spoken,0000,0000,0000,,Our relationship... and everything else...
+Dialogue: 0,0:00:31.40,0:00:32.71,Main Dialog,Spoken,0000,0000,0000,,Kai...
+Dialogue: 0,0:02:33.20,0:02:36.79,Main Dialog,Spoken,0000,0000,0000,,Please help Kai, Aichi.
+Dialogue: 0,0:02:38.56,0:02:44.72,Main Dialog,Spoken,0000,0000,0000,,Aichi... Your strong feelings \Nhave changed everything.
+Dialogue: 0,0:02:44.72,0:02:46.41,Main Dialog,Spoken,0000,0000,0000,,Believe in yourself.
+Dialogue: 0,0:02:48.00,0:02:51.81,Main Dialog,Spoken,0000,0000,0000,,She's more worried about Aichi \Nthan of losing her memories.
+Dialogue: 0,0:03:08.86,0:03:11.08,Main Dialog,Spoken,0000,0000,0000,,Kai! Don't disappear!
+Dialogue: 0,0:03:12.00,0:03:15.09,Main Dialog,Spoken,0000,0000,0000,,I've already made up my mind, Aichi.
+Dialogue: 0,0:03:15.09,0:03:18.84,Main Dialog,Spoken,0000,0000,0000,,I don't accept that!
+Dialogue: 0,0:03:19.84,0:03:22.34,Main Dialog,Spoken,0000,0000,0000,,It's the only way.
+Dialogue: 0,0:03:25.35,0:03:30.35,Signs,Sign,0000,0000,0000,,The Connected
+Dialogue: 0,0:03:31.08,0:03:36.11,Main Dialog,Spoken,0000,0000,0000,,With this break ride, \NI give +10000 power to Overlord.
+Dialogue: 0,0:03:36.48,0:03:37.73,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:03:38.24,0:03:40.44,Main Dialog,Spoken,0000,0000,0000,,Dragon of explosive fire...
+Dialogue: 0,0:03:40.44,0:03:44.57,Main Dialog,Spoken,0000,0000,0000,,...that has come again, burn down \Nall order with your scarlet roar!
+Dialogue: 0,0:03:45.86,0:03:50.25,Main Dialog,Spoken,0000,0000,0000,,Overlord "The Re-birth" Limit Break!
+Dialogue: 0,0:03:50.85,0:03:53.25,Main Dialog,Spoken,0000,0000,0000,,I lock all rear-guards!
+Dialogue: 0,0:03:55.87,0:03:59.78,Main Dialog,Spoken,0000,0000,0000,,With five units locked, it gains +10000 power!
+Dialogue: 0,0:04:02.01,0:04:05.64,Main Dialog,Spoken,0000,0000,0000,,Break ride and a Limit Break?
+Dialogue: 0,0:04:06.17,0:04:09.14,Main Dialog,Spoken,0000,0000,0000,,Burn for eternity, roaring flames!
+Dialogue: 0,0:04:09.75,0:04:12.64,Main Dialog,Spoken,0000,0000,0000,,Eternal Flame Re-birth!
+Dialogue: 0,0:04:15.55,0:04:16.90,Main Dialog,Spoken,0000,0000,0000,,No guard!
+Dialogue: 0,0:04:17.68,0:04:19.65,Main Dialog,Spoken,0000,0000,0000,,Check the drive trigger!
+Dialogue: 0,0:04:22.15,0:04:24.41,Main Dialog,Spoken,0000,0000,0000,,I got a draw trigger!
+Dialogue: 0,0:04:25.12,0:04:29.41,Main Dialog,Spoken,0000,0000,0000,,I give the power to Overlord and draw.
+Dialogue: 0,0:04:35.96,0:04:39.29,Main Dialog,Spoken,0000,0000,0000,,The flames of purgatory never extinguish.
+Dialogue: 0,0:04:40.32,0:04:43.22,Main Dialog,Spoken,0000,0000,0000,,Come back from the dead, Overlord!
+Dialogue: 0,0:04:43.93,0:04:49.72,Main Dialog,Spoken,0000,0000,0000,,Stand... and he still has a twin drive!
+Dialogue: 0,0:04:50.19,0:04:53.60,Main Dialog,Spoken,0000,0000,0000,,My next attack! Overlord!
+Dialogue: 0,0:04:54.11,0:04:55.23,Main Dialog,Spoken,0000,0000,0000,,No guard!
+Dialogue: 0,0:04:56.01,0:04:58.23,Main Dialog,Spoken,0000,0000,0000,,Check the drive trigger.
+Dialogue: 0,0:05:01.17,0:05:03.53,Main Dialog,Spoken,0000,0000,0000,,I got a critical trigger.
+Dialogue: 0,0:05:04.01,0:05:06.49,Main Dialog,Spoken,0000,0000,0000,,I give all of the effects to Overlord!
+Dialogue: 0,0:05:12.47,0:05:15.00,Main Dialog,Spoken,0000,0000,0000,,Damage trigger check!
+Dialogue: 0,0:05:16.25,0:05:18.21,Main Dialog,Spoken,0000,0000,0000,,I got a draw trigger.
+Dialogue: 0,0:05:18.96,0:05:23.34,Main Dialog,Spoken,0000,0000,0000,,I give the power to Gancelot... and draw!
+Dialogue: 0,0:05:24.65,0:05:26.50,Main Dialog,Spoken,0000,0000,0000,,You have 5 damage.
+Dialogue: 0,0:05:35.04,0:05:39.23,Main Dialog,Spoken,0000,0000,0000,,Flames feed on flames. \NHellfire keeps burning.
+Dialogue: 0,0:05:39.23,0:05:43.71,Main Dialog,Spoken,0000,0000,0000,,Come back from the dead a third time, \NOverlord "The Re-birth"!
+Dialogue: 0,0:05:46.05,0:05:49.27,Main Dialog,Spoken,0000,0000,0000,,No matter how many times it \Ncomes back, I'll ride it out!
+Dialogue: 0,0:05:50.11,0:05:53.11,Main Dialog,Spoken,0000,0000,0000,,For the sake of correcting your mistake!
+Dialogue: 0,0:05:55.52,0:05:57.62,Main Dialog,Spoken,0000,0000,0000,,Just 1 more damage...
+Dialogue: 0,0:05:57.98,0:05:59.63,Main Dialog,Spoken,0000,0000,0000,,It ends here!
+Dialogue: 0,0:06:00.07,0:06:00.88,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:06:02.00,0:06:03.38,Main Dialog,Spoken,0000,0000,0000,,Perfect guard!
+Dialogue: 0,0:06:12.43,0:06:14.01,Main Dialog,Spoken,0000,0000,0000,,Turn end...
+Dialogue: 0,0:06:21.77,0:06:24.78,Main Dialog,Spoken,0000,0000,0000,,Disappearing isn't atonement!
+Dialogue: 0,0:06:26.15,0:06:31.76,Main Dialog,Spoken,0000,0000,0000,,What's lost in a Vanguard fight can \Nonly be regained in a Vanguard fight!
+Dialogue: 0,0:06:31.76,0:06:32.95,Main Dialog,Spoken,0000,0000,0000,,That's...
+Dialogue: 0,0:06:32.95,0:06:36.29,Main Dialog,Spoken,0000,0000,0000,,That's right. What you told me.
+Dialogue: 0,0:06:36.94,0:06:40.64,Main Dialog,Spoken,0000,0000,0000,,Your sins can only be redeemed \Nin Vanguard fights.
+Dialogue: 0,0:06:41.79,0:06:45.55,Main Dialog,Spoken,0000,0000,0000,,You should atone through fighting!
+Dialogue: 0,0:06:47.40,0:06:52.68,Main Dialog,Spoken,0000,0000,0000,,Even if I lost to temptation \Nagain and hurt you?
+Dialogue: 0,0:06:53.31,0:07:00.69,Main Dialog,Spoken,0000,0000,0000,,Yeah. No matter what happens, \NI'll always be with you!
+Dialogue: 0,0:07:05.25,0:07:06.17,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:07:07.20,0:07:09.32,Main Dialog,Spoken,0000,0000,0000,,Star Rain Trumpeter!
+Dialogue: 0,0:07:10.01,0:07:11.53,Main Dialog,Spoken,0000,0000,0000,,Star Rain's skill!
+Dialogue: 0,0:07:12.13,0:07:15.99,Main Dialog,Spoken,0000,0000,0000,,Blaster Blade Liberator in \Nmy Soul returns to the deck.
+Dialogue: 0,0:07:19.53,0:07:21.29,Main Dialog,Spoken,0000,0000,0000,,Blaster Blade...
+Dialogue: 0,0:07:21.98,0:07:25.54,Main Dialog,Spoken,0000,0000,0000,,I superior call one Gold Paladin unit...
+Dialogue: 0,0:07:26.24,0:07:27.36,Main Dialog,Spoken,0000,0000,0000,,Epona!
+Dialogue: 0,0:07:29.35,0:07:33.30,Main Dialog,Spoken,0000,0000,0000,,When you make a mistake, I'll stop you!
+Dialogue: 0,0:07:43.93,0:07:47.32,Main Dialog,Spoken,0000,0000,0000,,I'll put everything I have on the line! \NNo matter how many times!
+Dialogue: 0,0:07:50.46,0:07:55.07,Main Dialog,Spoken,0000,0000,0000,,Fighting together, hurting each other, \Nencouraging each other,
+Dialogue: 0,0:07:55.07,0:07:58.70,Main Dialog,Spoken,0000,0000,0000,,competing, building a bond of friendship!
+Dialogue: 0,0:07:59.55,0:08:01.86,Main Dialog,Spoken,0000,0000,0000,,We should join forces now more than ever!
+Dialogue: 0,0:08:02.46,0:08:04.46,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:08:09.76,0:08:10.72,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:08:11.75,0:08:13.84,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check!
+Dialogue: 0,0:08:16.39,0:08:18.60,Main Dialog,Spoken,0000,0000,0000,,I got a draw trigger!
+Dialogue: 0,0:08:19.35,0:08:22.73,Main Dialog,Spoken,0000,0000,0000,,I give the power to Bruno, and then draw!
+Dialogue: 0,0:08:30.59,0:08:36.53,Main Dialog,Spoken,0000,0000,0000,,Because you're my idol, \Nmy friend, and my rival!
+Dialogue: 0,0:08:38.76,0:08:39.87,Main Dialog,Spoken,0000,0000,0000,,No guard.
+Dialogue: 0,0:08:47.06,0:08:51.34,Main Dialog,Spoken,0000,0000,0000,,Because you mean so much to me! \NI can't afford to lose you!
+Dialogue: 0,0:08:56.53,0:08:57.80,Main Dialog,Spoken,0000,0000,0000,,Intercept!
+Dialogue: 0,0:08:59.10,0:09:00.35,Main Dialog,Spoken,0000,0000,0000,,Turn end!
+Dialogue: 0,0:09:02.80,0:09:07.06,Main Dialog,Spoken,0000,0000,0000,,Kai, there's no need for you to disappear!
+Dialogue: 0,0:09:09.96,0:09:11.32,Main Dialog,Spoken,0000,0000,0000,,Picture it!
+Dialogue: 0,0:09:13.98,0:09:18.95,Main Dialog,Spoken,0000,0000,0000,,I'm... I'm with you!
+Dialogue: 0,0:09:24.04,0:09:29.21,Main Dialog,Spoken,0000,0000,0000,,Your friend who always thinks \Nabout you is right here!
+Dialogue: 0,0:09:42.51,0:09:43.52,Signs,Sign,0000,0000,0000,,Th...
+Dialogue: 0,0:09:43.52,0:09:44.27,Signs,Sign,0000,0000,0000,,...an...
+Dialogue: 0,0:09:44.27,0:09:45.27,Signs,Sign,0000,0000,0000,,...k...
+Dialogue: 0,0:09:45.27,0:09:47.23,Signs,Sign,0000,0000,0000,,...you!
+Dialogue: 0,0:09:51.74,0:09:55.92,Main Dialog,Spoken,0000,0000,0000,,Kai... Just like you were once my leader...
+Dialogue: 0,0:09:57.40,0:10:01.33,Main Dialog,Spoken,0000,0000,0000,,This time, I'll become {\i1}your{\i0} leader!
+Dialogue: 0,0:10:04.88,0:10:10.83,Main Dialog,Spoken,0000,0000,0000,,I see... You've always been there for me.
+Dialogue: 0,0:10:13.71,0:10:17.47,Main Dialog,Spoken,0000,0000,0000,,Always with me, spurring me on...
+Dialogue: 0,0:10:19.22,0:10:22.72,Main Dialog,Spoken,0000,0000,0000,,You've been the driving \Nforce that made me stronger.
+Dialogue: 0,0:10:30.72,0:10:33.61,Main Dialog,Spoken,0000,0000,0000,,I'm no match for you.
+Dialogue: 0,0:10:36.00,0:10:37.07,Main Dialog,Spoken,0000,0000,0000,,Kai!
+Dialogue: 0,0:10:40.05,0:10:43.18,Main Dialog,Spoken,0000,0000,0000,,But this fight alone is different.
+Dialogue: 0,0:10:43.18,0:10:49.24,Main Dialog,Spoken,0000,0000,0000,,From here on out, I'm going to \Nbeat you as a fighter, Aichi!
+Dialogue: 0,0:10:49.24,0:10:53.42,Main Dialog,Spoken,0000,0000,0000,,The same for me! \NI'm going to beat you, Kai!
+Dialogue: 0,0:11:29.15,0:11:31.06,Main Dialog,Spoken,0000,0000,0000,,I feel it...
+Dialogue: 0,0:11:31.06,0:11:39.21,Main Dialog,Spoken,0000,0000,0000,,As the ring breaks up, the effects of \NReverse inside of me are vanishing.
+Dialogue: 0,0:11:41.71,0:11:49.24,Main Dialog,Spoken,0000,0000,0000,,Along the same lines, Kai's strongest form \Nis disappearing, along with his deck.
+Dialogue: 0,0:11:50.28,0:11:52.72,Main Dialog,Spoken,0000,0000,0000,,I'll never be able to fight him again.
+Dialogue: 0,0:11:56.14,0:12:00.30,Main Dialog,Spoken,0000,0000,0000,,I want to test how far I can get against him!
+Dialogue: 0,0:12:03.68,0:12:07.01,Main Dialog,Spoken,0000,0000,0000,,Again, I'm going to use \Nall my might to beat you!
+Dialogue: 0,0:12:08.19,0:12:10.83,Main Dialog,Spoken,0000,0000,0000,,Me too, Kai!
+Dialogue: 0,0:12:13.11,0:12:15.33,Main Dialog,Spoken,0000,0000,0000,,The damage is 5 to 5.
+Dialogue: 0,0:12:15.33,0:12:17.35,Main Dialog,Spoken,0000,0000,0000,,This will end it.
+Dialogue: 0,0:12:17.84,0:12:19.30,Main Dialog,Spoken,0000,0000,0000,,Final Turn!
+Dialogue: 0,0:12:22.76,0:12:24.05,Main Dialog,Spoken,0000,0000,0000,,Kimnara's skill!
+Dialogue: 0,0:12:24.73,0:12:26.43,Main Dialog,Spoken,0000,0000,0000,,I Counterblast...
+Dialogue: 0,0:12:27.03,0:12:28.64,Main Dialog,Spoken,0000,0000,0000,,Zorron retires!
+Dialogue: 0,0:12:29.16,0:12:30.14,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:12:31.58,0:12:33.94,Main Dialog,Spoken,0000,0000,0000,,Burnout's Soulblast!
+Dialogue: 0,0:12:36.53,0:12:38.82,Main Dialog,Spoken,0000,0000,0000,,Star Rain retires!
+Dialogue: 0,0:12:44.51,0:12:45.95,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:12:51.26,0:12:54.22,Main Dialog,Spoken,0000,0000,0000,,By locking five units, it gets +10000 power.
+Dialogue: 0,0:12:54.86,0:12:58.08,Main Dialog,Spoken,0000,0000,0000,,Eternal Flame Re-birth!
+Dialogue: 0,0:12:58.50,0:12:59.41,Main Dialog,Spoken,0000,0000,0000,,Perfect guard!
+Dialogue: 0,0:13:02.48,0:13:04.35,Main Dialog,Spoken,0000,0000,0000,,Check the drive trigger.
+Dialogue: 0,0:13:05.23,0:13:07.41,Main Dialog,Spoken,0000,0000,0000,,I got a critical trigger.
+Dialogue: 0,0:13:08.08,0:13:09.81,Main Dialog,Spoken,0000,0000,0000,,I give all the effects to my Vanguard.
+Dialogue: 0,0:13:13.11,0:13:14.25,Main Dialog,Spoken,0000,0000,0000,,Second check.
+Dialogue: 0,0:13:14.80,0:13:15.56,Main Dialog,Spoken,0000,0000,0000,,I got one!
+Dialogue: 0,0:13:16.28,0:13:18.80,Main Dialog,Spoken,0000,0000,0000,,That's even more power and an extra critical.
+Dialogue: 0,0:13:24.07,0:13:25.82,Main Dialog,Spoken,0000,0000,0000,,I'm not done yet.
+Dialogue: 0,0:13:28.49,0:13:32.71,Main Dialog,Spoken,0000,0000,0000,,Flames feed on flames. \NHellfire keeps burning.
+Dialogue: 0,0:13:33.32,0:13:37.83,Main Dialog,Spoken,0000,0000,0000,,Rise from the dead, Overlord "The Re-birth"!
+Dialogue: 0,0:13:41.44,0:13:42.75,Main Dialog,Spoken,0000,0000,0000,,Here I go!
+Dialogue: 0,0:13:45.06,0:13:46.76,Main Dialog,Spoken,0000,0000,0000,,This is the end.
+Dialogue: 0,0:13:47.44,0:13:48.41,Main Dialog,Spoken,0000,0000,0000,,Take this.
+Dialogue: 0,0:13:49.09,0:13:53.01,Main Dialog,Spoken,0000,0000,0000,,The apocalyptic flames that \Nreduce everything to ashes!
+Dialogue: 0,0:13:56.06,0:13:57.77,Main Dialog,Spoken,0000,0000,0000,,Perfect guard!
+Dialogue: 0,0:14:00.33,0:14:01.90,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:14:02.72,0:14:04.85,Main Dialog,Spoken,0000,0000,0000,,That's the stuff, Aichi.
+Dialogue: 0,0:14:06.79,0:14:12.32,Main Dialog,Spoken,0000,0000,0000,,But no matter how much you try to \Ndefend yourself, you can't escape.
+Dialogue: 0,0:14:15.52,0:14:17.17,Main Dialog,Spoken,0000,0000,0000,,I'm going to surpass you, Kai.
+Dialogue: 0,0:14:17.98,0:14:19.42,Main Dialog,Spoken,0000,0000,0000,,You'll see!
+Dialogue: 0,0:14:20.12,0:14:25.54,Main Dialog,Spoken,0000,0000,0000,,If I become stronger, \Nyou'll become stronger, too!
+Dialogue: 0,0:14:28.76,0:14:32.51,Main Dialog,Spoken,0000,0000,0000,,That's right. This fight is a new beginning.
+Dialogue: 0,0:14:33.47,0:14:38.03,Main Dialog,Spoken,0000,0000,0000,,It's the start of a new day, \Nin which we compete with each other!
+Dialogue: 0,0:14:40.88,0:14:41.81,Main Dialog,Spoken,0000,0000,0000,,Draw!
+Dialogue: 0,0:14:44.85,0:14:48.32,Main Dialog,Spoken,0000,0000,0000,,To release those who are \Nin the grip of a spell,
+Dialogue: 0,0:14:48.57,0:14:52.70,Main Dialog,Spoken,0000,0000,0000,,come forth, king of all knights!
+Dialogue: 0,0:14:52.89,0:14:53.58,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:14:55.65,0:15:00.44,Main Dialog,Spoken,0000,0000,0000,,Liberator, Monarch Sanctuary Alfred!
+Dialogue: 0,0:15:02.80,0:15:04.21,Main Dialog,Spoken,0000,0000,0000,,Cheer Up's skill!
+Dialogue: 0,0:15:04.78,0:15:06.39,Main Dialog,Spoken,0000,0000,0000,,Give power to Alfred!
+Dialogue: 0,0:15:08.26,0:15:11.22,Main Dialog,Spoken,0000,0000,0000,,Alfred's Limit Break!
+Dialogue: 0,0:15:12.07,0:15:18.80,Main Dialog,Spoken,0000,0000,0000,,Use your sacred soul to release everything \Nfrom what is cursed and evil!
+Dialogue: 0,0:15:19.73,0:15:21.52,Main Dialog,Spoken,0000,0000,0000,,Liberate the lock!
+Dialogue: 0,0:15:24.25,0:15:26.98,Main Dialog,Spoken,0000,0000,0000,,Soothe wounds with your holy light.
+Dialogue: 0,0:15:29.25,0:15:32.43,Main Dialog,Spoken,0000,0000,0000,,Five comrades, gather on the battlefield!
+Dialogue: 0,0:15:33.76,0:15:38.37,Main Dialog,Spoken,0000,0000,0000,,Bruno, Epona, Arum, Gancelot!
+Dialogue: 0,0:15:39.15,0:15:40.25,Main Dialog,Spoken,0000,0000,0000,,And then...
+Dialogue: 0,0:15:43.73,0:15:45.50,Main Dialog,Spoken,0000,0000,0000,,...stand up, my...
+Dialogue: 0,0:15:46.38,0:15:47.94,Main Dialog,Spoken,0000,0000,0000,,...{\i1}our{\i0} avatar!
+Dialogue: 0,0:15:49.87,0:15:51.65,Main Dialog,Spoken,0000,0000,0000,,Blaster Blade!
+Dialogue: 0,0:16:00.27,0:16:03.87,Main Dialog,Spoken,0000,0000,0000,,Bruno has 19000 power with its skill.
+Dialogue: 0,0:16:04.89,0:16:10.35,Main Dialog,Spoken,0000,0000,0000,,With Cheer Up Trumpeter's skill, \NAlfred has 31000 power!
+Dialogue: 0,0:16:13.69,0:16:14.53,Main Dialog,Spoken,0000,0000,0000,,On top of that...
+Dialogue: 0,0:16:16.43,0:16:18.29,Main Dialog,Spoken,0000,0000,0000,,...Ultimate Break!
+Dialogue: 0,0:16:21.59,0:16:27.73,Main Dialog,Spoken,0000,0000,0000,,With this, Alfred gets +10000 power \Nand an extra critical!
+Dialogue: 0,0:16:29.51,0:16:33.93,Main Dialog,Spoken,0000,0000,0000,,Kai! This is my soul's Ultimate Break!
+Dialogue: 0,0:16:35.28,0:16:38.93,Main Dialog,Spoken,0000,0000,0000,,His soul's... Ultimate Break...
+Dialogue: 0,0:16:39.60,0:16:42.56,Main Dialog,Spoken,0000,0000,0000,,That one attack crushes everything!
+Dialogue: 0,0:16:43.52,0:16:45.44,Main Dialog,Spoken,0000,0000,0000,,Return to your rightful form!
+Dialogue: 0,0:16:46.24,0:16:47.94,Main Dialog,Spoken,0000,0000,0000,,Sacred light, shine bright!
+Dialogue: 0,0:16:47.94,0:16:49.82,Main Dialog,Spoken,0000,0000,0000,,The sparkle of hope!
+Dialogue: 0,0:16:50.59,0:16:52.82,Main Dialog,Spoken,0000,0000,0000,,Sacred Sparkle!
+Dialogue: 0,0:16:55.69,0:16:57.03,Main Dialog,Spoken,0000,0000,0000,,Perfect guard!
+Dialogue: 0,0:16:58.00,0:17:00.08,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check!
+Dialogue: 0,0:17:01.11,0:17:02.17,Main Dialog,Spoken,0000,0000,0000,,Second check!
+Dialogue: 0,0:17:04.25,0:17:05.66,Main Dialog,Spoken,0000,0000,0000,,Heal trigger!
+Dialogue: 0,0:17:05.66,0:17:09.42,Main Dialog,Spoken,0000,0000,0000,,I give the power to Gancelot, \Nand heal 1 damage point.
+Dialogue: 0,0:17:11.11,0:17:14.17,Main Dialog,Spoken,0000,0000,0000,,The best opponent, fitting for the end...
+Dialogue: 0,0:17:14.88,0:17:17.73,Main Dialog,Spoken,0000,0000,0000,,Aichi... I'm glad it was you.
+Dialogue: 0,0:17:18.92,0:17:19.93,Main Dialog,Spoken,0000,0000,0000,,Gancelot!
+Dialogue: 0,0:17:20.40,0:17:21.31,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:17:22.64,0:17:25.06,Main Dialog,Spoken,0000,0000,0000,,Here I come, Kai!
+Dialogue: 0,0:17:28.80,0:17:33.07,Main Dialog,Spoken,0000,0000,0000,,The Blaster Blade that you gave me... attacks!
+Dialogue: 0,0:17:33.95,0:17:35.94,Main Dialog,Spoken,0000,0000,0000,,Anger! Love!
+Dialogue: 0,0:17:36.48,0:17:38.88,Main Dialog,Spoken,0000,0000,0000,,Hatred! Adoration!
+Dialogue: 0,0:17:39.60,0:17:42.83,Main Dialog,Spoken,0000,0000,0000,,Go through all of it, my avatar!
+Dialogue: 0,0:18:01.85,0:18:05.04,Main Dialog,Spoken,0000,0000,0000,,You win, Aichi.
+Dialogue: 0,0:18:06.31,0:18:07.35,Main Dialog,Spoken,0000,0000,0000,,Kai...
+Dialogue: 0,0:18:17.82,0:18:18.93,Main Dialog,Spoken,0000,0000,0000,,I see.
+Dialogue: 0,0:18:19.49,0:18:21.62,Main Dialog,Spoken,0000,0000,0000,,Alfred called on comrades.
+Dialogue: 0,0:18:22.29,0:18:25.68,Main Dialog,Spoken,0000,0000,0000,,Overload "Re-birth" fought alone.
+Dialogue: 0,0:18:26.84,0:18:30.80,Main Dialog,Spoken,0000,0000,0000,,That difference was the \Ndifference between you and me.
+Dialogue: 0,0:18:45.18,0:18:47.06,Main Dialog,Spoken,0000,0000,0000,,Brother Aichi...
+Dialogue: 0,0:18:49.93,0:18:51.93,Main Dialog,Spoken,0000,0000,0000,,It seems he's all right.
+Dialogue: 0,0:19:03.55,0:19:04.44,Main Dialog,Spoken,0000,0000,0000,,Aichi!
+Dialogue: 0,0:19:10.87,0:19:11.96,Main Dialog,Spoken,0000,0000,0000,,Kai!
+Dialogue: 0,0:19:23.60,0:19:26.36,Main Dialog,Spoken,0000,0000,0000,,I was able to win with Blaster Blade
+Dialogue: 0,0:19:27.16,0:19:31.60,Main Dialog,Spoken,0000,0000,0000,,because you introduced me to it, Kai.
+Dialogue: 0,0:19:35.41,0:19:39.72,Main Dialog,Spoken,0000,0000,0000,,I must have sensed something about you then.
+Dialogue: 0,0:19:39.72,0:19:41.68,Main Dialog,Spoken,0000,0000,0000,,Your inner strength...
+Dialogue: 0,0:19:43.32,0:19:45.22,Main Dialog,Spoken,0000,0000,0000,,Your potential...
+Dialogue: 0,0:19:46.34,0:19:48.24,Main Dialog,Spoken,0000,0000,0000,,Your power to believe...
+Dialogue: 0,0:19:50.04,0:19:52.25,Main Dialog,Spoken,0000,0000,0000,,That was a wonderful fight.
+Dialogue: 0,0:19:52.89,0:19:54.99,Main Dialog,Spoken,0000,0000,0000,,The strongest Aichi...
+Dialogue: 0,0:19:55.60,0:19:59.44,Main Dialog,Spoken,0000,0000,0000,,I was able to fight \Nthe strongest Kai...
+Dialogue: 0,0:20:01.88,0:20:04.26,Main Dialog,Spoken,0000,0000,0000,,I won't forget today's fight.
+Dialogue: 0,0:20:04.72,0:20:07.51,Main Dialog,Spoken,0000,0000,0000,,It's a new start with you.
+Dialogue: 0,0:20:08.17,0:20:10.77,Main Dialog,Spoken,0000,0000,0000,,As friends, as rivals...
+Dialogue: 0,0:20:11.79,0:20:16.24,Main Dialog,Spoken,0000,0000,0000,,Competing with each other, \Nstriving for the top...
+Dialogue: 0,0:20:17.68,0:20:20.03,Main Dialog,Spoken,0000,0000,0000,,From now on and evermore...
+Dialogue: 0,0:21:05.55,0:21:11.32,Main Dialog,Spoken,0000,0000,0000,,The ring above the city vanished, \Nand normal life resumed.
+Dialogue: 0,0:21:13.40,0:21:18.84,Main Dialog,Spoken,0000,0000,0000,,The number of card game players across the world\Nsurged to hundreds of millions of people.
+Dialogue: 0,0:21:18.84,0:21:22.71,Main Dialog,Spoken,0000,0000,0000,,From children to adults, it became a part \Nof their lives that was taken for granted.
+Dialogue: 0,0:21:25.83,0:21:27.47,Main Dialog,Spoken,0000,0000,0000,,But even after recent events,
+Dialogue: 0,0:21:27.95,0:21:30.96,Main Dialog,Spoken,0000,0000,0000,,the card game that attracts the \Nmost attention remains the same...
+Dialogue: 0,0:21:30.96,0:21:32.52,Main Dialog,Spoken,0000,0000,0000,,...Vanguard.
+Dialogue: 0,0:21:36.65,0:21:38.24,Main Dialog,Spoken,0000,0000,0000,,Don't cry.
+Dialogue: 0,0:21:38.85,0:21:40.72,Main Dialog,Spoken,0000,0000,0000,,Don't cry just because you lost.
+Dialogue: 0,0:21:41.21,0:21:42.72,Main Dialog,Spoken,0000,0000,0000,,But...
+Dialogue: 0,0:21:42.72,0:21:44.12,Main Dialog,Spoken,0000,0000,0000,,I'll give you this.
+Dialogue: 0,0:21:44.12,0:21:44.78,Main Dialog,Spoken,0000,0000,0000,,This is...
+Dialogue: 0,0:21:45.22,0:21:46.71,Main Dialog,Spoken,0000,0000,0000,,You can have it.
+Dialogue: 0,0:21:46.71,0:21:48.91,Main Dialog,Spoken,0000,0000,0000,,Use it to put everybody to shame.
+Dialogue: 0,0:21:48.91,0:21:50.72,Main Dialog,Spoken,0000,0000,0000,,Bro!
+Dialogue: 0,0:21:52.84,0:21:55.36,Main Dialog,Spoken,0000,0000,0000,,And now, what you've been waiting for!
+Dialogue: 0,0:21:55.36,0:21:57.61,Main Dialog,Spoken,0000,0000,0000,,Of course they're going to sing...
+Dialogue: 0,0:21:57.61,0:21:59.29,Main Dialog,Spoken,0000,0000,0000,,Ultra-rare!
+Dialogue: 0,0:22:04.30,0:22:06.43,Main Dialog,Spoken,0000,0000,0000,,Right now, I'm going to fight the person
+Dialogue: 0,0:22:06.43,0:22:10.36,Main Dialog,Spoken,0000,0000,0000,,who freed me from being \NReversed and saved the world.
+Dialogue: 0,0:22:10.36,0:22:11.77,Main Dialog,Spoken,0000,0000,0000,,The strongest fighter...
+Dialogue: 0,0:22:13.99,0:22:16.29,Main Dialog,Spoken,0000,0000,0000,,My best friend.

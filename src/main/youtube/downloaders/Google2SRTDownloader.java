@@ -63,7 +63,7 @@ public class Google2SRTDownloader implements YoutubeSubsDownloader {
         // return SubtitlesUtils.parseSubtitles(in);
     }
 
-    public List<Subtitle> getSubtitlesOld() throws MalformedURLException, IOException {
+    public List<Subtitle> getSubtitlesOld() throws Exception {
 
         String page = null;
         Pattern p = Pattern.compile("<textarea name= 'srt'(.+\n+)+");

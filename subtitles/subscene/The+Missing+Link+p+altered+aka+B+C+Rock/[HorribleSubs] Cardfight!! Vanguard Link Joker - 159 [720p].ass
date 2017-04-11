@@ -1,0 +1,291 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.55,0:00:03.77,Main Dialog,Spoken,0000,0000,0000,,Swoop down from beyond illusion,
+Dialogue: 0,0:00:04.60,0:00:06.15,Main Dialog,Spoken,0000,0000,0000,,cruel blade!
+Dialogue: 0,0:00:06.67,0:00:08.36,Main Dialog,Spoken,0000,0000,0000,,Transient dreams!
+Dialogue: 0,0:00:08.36,0:00:09.22,Main Dialog,Spoken,0000,0000,0000,,Break ride!
+Dialogue: 0,0:00:12.47,0:00:16.53,Main Dialog,Spoken,0000,0000,0000,,Illusionary Revenger, Mordred Phantom!
+Dialogue: 0,0:00:16.90,0:00:21.62,Main Dialog,Spoken,0000,0000,0000,,Kai, show me your ultimate power.
+Dialogue: 0,0:00:21.62,0:00:25.04,Main Dialog,Spoken,0000,0000,0000,,But I'll show you that I'm even higher.
+Dialogue: 0,0:00:26.05,0:00:29.43,Main Dialog,Spoken,0000,0000,0000,,In that case, I'll meet your expectations.
+Dialogue: 0,0:00:30.25,0:00:34.01,Main Dialog,Spoken,0000,0000,0000,,But when you see my power...
+Dialogue: 0,0:00:34.01,0:00:37.01,Main Dialog,Spoken,0000,0000,0000,,Ren, it'll be the end of you!
+Dialogue: 0,0:02:19.14,0:02:20.61,Main Dialog,Spoken,0000,0000,0000,,I feel it.
+Dialogue: 0,0:02:22.08,0:02:26.95,Main Dialog,Spoken,0000,0000,0000,,Even as we do this, the \Ntime limit is drawing near.
+Dialogue: 0,0:02:27.56,0:02:32.96,Main Dialog,Spoken,0000,0000,0000,,When the gate opens, the world will \Nbe swallowed up by Link Joker.
+Dialogue: 0,0:02:33.68,0:02:39.46,Main Dialog,Spoken,0000,0000,0000,,And when that happens, \Neverything that exists on Earth
+Dialogue: 0,0:02:39.46,0:02:43.47,Main Dialog,Spoken,0000,0000,0000,,will be Reversed and fall \Nunder Link Joker's control.
+Dialogue: 0,0:02:43.47,0:02:45.59,Main Dialog,Spoken,0000,0000,0000,,I won't let that happen!
+Dialogue: 0,0:02:45.59,0:02:49.37,Main Dialog,Spoken,0000,0000,0000,,If Ren beats Kai, you'll be all that's left.
+Dialogue: 0,0:02:50.82,0:02:53.56,Main Dialog,Spoken,0000,0000,0000,,Haven't you realized?
+Dialogue: 0,0:02:54.98,0:02:59.11,Main Dialog,Spoken,0000,0000,0000,,What Toshiki Kai hasn't played yet...
+Dialogue: 0,0:03:00.72,0:03:02.12,Main Dialog,Spoken,0000,0000,0000,,You mean...
+Dialogue: 0,0:03:02.12,0:03:05.02,Main Dialog,Spoken,0000,0000,0000,,I'm looking forward to what transpires next.
+Dialogue: 0,0:03:06.99,0:03:12.00,Signs,Sign,0000,0000,0000,,Resurrection of the Dragon
+Dialogue: 0,0:03:13.20,0:03:16.46,Main Dialog,Spoken,0000,0000,0000,,2 more damage and I win.
+Dialogue: 0,0:03:16.46,0:03:23.19,Main Dialog,Spoken,0000,0000,0000,,So, Kai, show me your ultimate power.
+Dialogue: 0,0:03:23.19,0:03:27.01,Main Dialog,Spoken,0000,0000,0000,,Then I'll KO you from \Nmy position above yours. {smp: shel, when doing bushi revision, i suggest that this could be "from my higher ground"}
+Dialogue: 0,0:03:30.73,0:03:34.02,Main Dialog,Spoken,0000,0000,0000,,Bring it on, Kai.
+Dialogue: 0,0:03:38.23,0:03:39.78,Main Dialog,Spoken,0000,0000,0000,,I call Nehalem.
+Dialogue: 0,0:03:41.02,0:03:43.66,Main Dialog,Spoken,0000,0000,0000,,Nullity, Masquerade attacks!
+Dialogue: 0,0:03:45.62,0:03:46.91,Main Dialog,Spoken,0000,0000,0000,,Intercept!
+Dialogue: 0,0:03:47.39,0:03:51.91,Main Dialog,Spoken,0000,0000,0000,,Overlord attacks with a \Nboost from Calamity Tower!
+Dialogue: 0,0:03:52.70,0:03:54.72,Main Dialog,Spoken,0000,0000,0000,,Check the drive trigger.
+Dialogue: 0,0:03:56.31,0:03:58.55,Main Dialog,Spoken,0000,0000,0000,,I got a critical trigger.
+Dialogue: 0,0:03:58.85,0:04:02.93,Main Dialog,Spoken,0000,0000,0000,,I give the power to Nehalem and \Nthe extra critical to Overlord.
+Dialogue: 0,0:04:10.07,0:04:12.06,Main Dialog,Spoken,0000,0000,0000,,I got a heal trigger.
+Dialogue: 0,0:04:12.89,0:04:16.44,Main Dialog,Spoken,0000,0000,0000,,I give the power to Mordred \Nand heal 1 damage point.
+Dialogue: 0,0:04:16.95,0:04:19.94,Main Dialog,Spoken,0000,0000,0000,,Nehalem attacks with a boost from Griffin!
+Dialogue: 0,0:04:20.34,0:04:21.30,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:04:22.38,0:04:23.64,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:04:25.39,0:04:28.20,Main Dialog,Spoken,0000,0000,0000,,He hasn't brought out a Reverse unit yet.
+Dialogue: 0,0:04:28.67,0:04:33.21,Main Dialog,Spoken,0000,0000,0000,,You're making this fun, Toshiki Kai.
+Dialogue: 0,0:04:38.05,0:04:42.45,Main Dialog,Spoken,0000,0000,0000,,Reverse units deal out fatal blows.
+Dialogue: 0,0:04:42.45,0:04:45.91,Main Dialog,Spoken,0000,0000,0000,,I'm sure the best opportunity \Nfor that is coming soon...
+Dialogue: 0,0:04:46.60,0:04:51.96,Main Dialog,Spoken,0000,0000,0000,,...since I'm fighting the \Nstrongest man I know.
+Dialogue: 0,0:04:53.06,0:04:57.37,Main Dialog,Spoken,0000,0000,0000,,Ren... just as you can read my thoughts,
+Dialogue: 0,0:04:57.37,0:05:00.45,Main Dialog,Spoken,0000,0000,0000,,I know what you're thinking, too.
+Dialogue: 0,0:05:01.14,0:05:06.05,Main Dialog,Spoken,0000,0000,0000,,This tension, as if we're crossing swords \Nwithout protective equipment...
+Dialogue: 0,0:05:06.05,0:05:08.59,Main Dialog,Spoken,0000,0000,0000,,The last time I felt it was...
+Dialogue: 0,0:05:09.87,0:05:14.66,Main Dialog,Spoken,0000,0000,0000,,When you were running amuck under \NPsyqualia's spell and we fought a vicious battle.
+Dialogue: 0,0:05:15.18,0:05:18.71,Main Dialog,Spoken,0000,0000,0000,,Since then, I've wanted to have \Nanother fight like that with you.
+Dialogue: 0,0:05:18.71,0:05:21.16,Main Dialog,Spoken,0000,0000,0000,,But your and Aichi's fights...
+Dialogue: 0,0:05:21.16,0:05:24.42,Main Dialog,Spoken,0000,0000,0000,,Both of your power had eclipsed mine.
+Dialogue: 0,0:05:26.60,0:05:29.85,Main Dialog,Spoken,0000,0000,0000,,You both became strong, \Nso I wanted to beat you.
+Dialogue: 0,0:05:29.85,0:05:33.33,Main Dialog,Spoken,0000,0000,0000,,That fervent desire grew within me.
+Dialogue: 0,0:05:35.29,0:05:40.36,Main Dialog,Spoken,0000,0000,0000,,I threw away everything, \Nand gained Link Joker's power.
+Dialogue: 0,0:05:41.39,0:05:45.01,Main Dialog,Spoken,0000,0000,0000,,You're one of the two people \Nwho have shaken my soul.
+Dialogue: 0,0:05:45.01,0:05:47.03,Main Dialog,Spoken,0000,0000,0000,,And now that I've beaten Aichi...
+Dialogue: 0,0:05:48.49,0:05:54.16,Main Dialog,Spoken,0000,0000,0000,,Ren, defeating you will be proof that \NI've become the strongest of all!
+Dialogue: 0,0:05:55.63,0:05:57.41,Main Dialog,Spoken,0000,0000,0000,,I'll be the one who wins!
+Dialogue: 0,0:05:58.15,0:05:59.29,Main Dialog,Spoken,0000,0000,0000,,I will!
+Dialogue: 0,0:06:03.96,0:06:06.59,Main Dialog,Spoken,0000,0000,0000,,Kai... Ren...
+Dialogue: 0,0:06:07.01,0:06:10.87,Main Dialog,Spoken,0000,0000,0000,,Strongest enemies... supreme rivals...
+Dialogue: 0,0:06:10.87,0:06:12.93,Main Dialog,Spoken,0000,0000,0000,,I couldn't ask for anything more.
+Dialogue: 0,0:06:14.91,0:06:17.16,Main Dialog,Spoken,0000,0000,0000,,But the fight is going to end here.
+Dialogue: 0,0:06:18.88,0:06:20.60,Main Dialog,Spoken,0000,0000,0000,,Final Turn!
+Dialogue: 0,0:06:21.20,0:06:23.61,Main Dialog,Spoken,0000,0000,0000,,Come on then, Ren!
+Dialogue: 0,0:06:24.50,0:06:27.45,Main Dialog,Spoken,0000,0000,0000,,Mythical beast that appears from beyond!
+Dialogue: 0,0:06:27.45,0:06:31.37,Main Dialog,Spoken,0000,0000,0000,,Confuse his heart and crush his soul!
+Dialogue: 0,0:06:31.37,0:06:32.74,Main Dialog,Spoken,0000,0000,0000,,Crossbreak ride!
+Dialogue: 0,0:06:36.03,0:06:39.26,Main Dialog,Spoken,0000,0000,0000,,Revenger, Drag Ruler Phantom!
+Dialogue: 0,0:06:41.92,0:06:43.13,Main Dialog,Spoken,0000,0000,0000,,Counterblast!
+Dialogue: 0,0:06:43.92,0:06:45.88,Main Dialog,Spoken,0000,0000,0000,,+10000 power!
+Dialogue: 0,0:06:46.52,0:06:47.46,Main Dialog,Spoken,0000,0000,0000,,Superior call!
+Dialogue: 0,0:06:48.38,0:06:50.18,Main Dialog,Spoken,0000,0000,0000,,Nullity, Masquerade!
+Dialogue: 0,0:06:52.91,0:06:55.47,Main Dialog,Spoken,0000,0000,0000,,On top of that, Limit Break!
+Dialogue: 0,0:06:57.80,0:07:01.73,Main Dialog,Spoken,0000,0000,0000,,By retiring two Dorint units, \Nit gains +10000 power!
+Dialogue: 0,0:07:02.36,0:07:06.48,Main Dialog,Spoken,0000,0000,0000,,And then my opponent's \NVanguard takes 1 damage.
+Dialogue: 0,0:07:07.16,0:07:10.24,Main Dialog,Spoken,0000,0000,0000,,1 damage without even attacking?!
+Dialogue: 0,0:07:15.28,0:07:21.50,Main Dialog,Spoken,0000,0000,0000,,This is Drag Ruler Phantom's Mirage Strike!
+Dialogue: 0,0:07:22.20,0:07:24.19,Main Dialog,Spoken,0000,0000,0000,,Mirage Strike...
+Dialogue: 0,0:07:24.94,0:07:27.13,Main Dialog,Spoken,0000,0000,0000,,I didn't know that skill existed!
+Dialogue: 0,0:07:29.56,0:07:32.05,Main Dialog,Spoken,0000,0000,0000,,I got a critical trigger.
+Dialogue: 0,0:07:32.56,0:07:37.56,Main Dialog,Spoken,0000,0000,0000,,I give the +5000 power and \Nextra critical to Overlord!
+Dialogue: 0,0:07:38.49,0:07:41.26,Main Dialog,Spoken,0000,0000,0000,,Kai got another trigger, too.
+Dialogue: 0,0:07:41.26,0:07:45.81,Main Dialog,Spoken,0000,0000,0000,,But he has 5 damage, \Nand Ren is about to attack...
+Dialogue: 0,0:07:46.58,0:07:48.82,Main Dialog,Spoken,0000,0000,0000,,It's a little too early to attack.
+Dialogue: 0,0:07:51.64,0:07:52.46,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:07:55.80,0:07:58.44,Main Dialog,Spoken,0000,0000,0000,,He's gathered five rear-guards...
+Dialogue: 0,0:07:58.44,0:08:00.33,Main Dialog,Spoken,0000,0000,0000,,...and has Kai in a tight corner.
+Dialogue: 0,0:08:00.86,0:08:04.49,Main Dialog,Spoken,0000,0000,0000,,Are you ready for this, Kai?
+Dialogue: 0,0:08:08.60,0:08:12.47,Main Dialog,Spoken,0000,0000,0000,,Beast that feeds on illusions \Nand generates even more of them!
+Dialogue: 0,0:08:12.93,0:08:14.86,Main Dialog,Spoken,0000,0000,0000,,Destroy chaos...
+Dialogue: 0,0:08:14.86,0:08:17.35,Main Dialog,Spoken,0000,0000,0000,,...and lure it into a world of illusions!
+Dialogue: 0,0:08:17.80,0:08:19.32,Main Dialog,Spoken,0000,0000,0000,,Fanatic Illusion!
+Dialogue: 0,0:08:22.45,0:08:25.98,Main Dialog,Spoken,0000,0000,0000,,If this hits, Ren wins.
+Dialogue: 0,0:08:42.02,0:08:43.45,Main Dialog,Spoken,0000,0000,0000,,Fanatic Illusion!
+Dialogue: 0,0:08:46.68,0:08:50.25,Main Dialog,Spoken,0000,0000,0000,,If this hits, Ren wins.
+Dialogue: 0,0:08:57.50,0:08:59.42,Main Dialog,Spoken,0000,0000,0000,,Listen to your master's voice!
+Dialogue: 0,0:08:59.42,0:09:01.97,Main Dialog,Spoken,0000,0000,0000,,Assemble for the sake of victory!
+Dialogue: 0,0:09:01.97,0:09:03.71,Main Dialog,Spoken,0000,0000,0000,,Dragon Knight, Gimel!
+Dialogue: 0,0:09:05.65,0:09:07.19,Main Dialog,Spoken,0000,0000,0000,,Quintet Wall!
+Dialogue: 0,0:09:16.45,0:09:19.91,Main Dialog,Spoken,0000,0000,0000,,A +30000 shield Quintet Wall?!
+Dialogue: 0,0:09:26.82,0:09:29.92,Main Dialog,Spoken,0000,0000,0000,,A skill that wasn't in a Link Joker deck...
+Dialogue: 0,0:09:30.85,0:09:35.88,Main Dialog,Spoken,0000,0000,0000,,Kai continues to grow stronger, \Neven now, at this very instant!
+Dialogue: 0,0:09:37.86,0:09:39.43,Main Dialog,Spoken,0000,0000,0000,,Check the drive trigger.
+Dialogue: 0,0:09:42.98,0:09:45.18,Main Dialog,Spoken,0000,0000,0000,,I got a critical trigger!
+Dialogue: 0,0:09:46.23,0:09:49.19,Main Dialog,Spoken,0000,0000,0000,,I give all of the effects \Nto Nullity, Masquerade!
+Dialogue: 0,0:09:50.11,0:09:52.58,Main Dialog,Spoken,0000,0000,0000,,Quintet Wall...
+Dialogue: 0,0:09:52.58,0:09:57.07,Main Dialog,Spoken,0000,0000,0000,,But I've got two attacks left.
+Dialogue: 0,0:10:00.31,0:10:01.58,Main Dialog,Spoken,0000,0000,0000,,Intercept.
+Dialogue: 0,0:10:02.27,0:10:03.72,Main Dialog,Spoken,0000,0000,0000,,Final Attack!
+Dialogue: 0,0:10:04.56,0:10:07.33,Main Dialog,Spoken,0000,0000,0000,,Nullity, Masquerade boosted by Dorint!
+Dialogue: 0,0:10:08.20,0:10:09.08,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:10:12.43,0:10:16.83,Main Dialog,Spoken,0000,0000,0000,,I put my heart and soul into those \Nattacks, but he blocked them all!
+Dialogue: 0,0:10:17.75,0:10:19.69,Main Dialog,Spoken,0000,0000,0000,,That's you all over, Kai.
+Dialogue: 0,0:10:19.69,0:10:24.10,Main Dialog,Spoken,0000,0000,0000,,That's why I want to beat you, \Nmy strongest opponent.
+Dialogue: 0,0:10:27.76,0:10:29.35,Main Dialog,Spoken,0000,0000,0000,,Turn end!
+Dialogue: 0,0:10:29.88,0:10:33.86,Main Dialog,Spoken,0000,0000,0000,,No way! He blocked \Nall of Ren's best attacks?
+Dialogue: 0,0:10:34.64,0:10:39.27,Main Dialog,Spoken,0000,0000,0000,,He even held out against \Na break ride and Limit Break...
+Dialogue: 0,0:10:40.04,0:10:43.61,Main Dialog,Spoken,0000,0000,0000,,Kai... just how strong \Nhave you gotten?!
+Dialogue: 0,0:10:44.89,0:10:50.87,Main Dialog,Spoken,0000,0000,0000,,That's exactly why Link Joker \Nchose Toshiki Kai.
+Dialogue: 0,0:10:51.54,0:10:55.30,Main Dialog,Spoken,0000,0000,0000,,But the fight isn't over yet.
+Dialogue: 0,0:10:55.94,0:11:00.05,Main Dialog,Spoken,0000,0000,0000,,Now it's my turn to block your attacks.
+Dialogue: 0,0:11:00.82,0:11:03.73,Main Dialog,Spoken,0000,0000,0000,,Those were awesome attacks.
+Dialogue: 0,0:11:03.73,0:11:07.98,Main Dialog,Spoken,0000,0000,0000,,But that's Ren... the man I want to defeat.
+Dialogue: 0,0:11:10.19,0:11:14.36,Main Dialog,Spoken,0000,0000,0000,,Compared to me, looking to get \Nstronger by having fight after fight,
+Dialogue: 0,0:11:14.36,0:11:16.56,Main Dialog,Spoken,0000,0000,0000,,you see through to the essence of a deck,
+Dialogue: 0,0:11:16.56,0:11:19.57,Main Dialog,Spoken,0000,0000,0000,,using intuition to grasp \Nits special properties.
+Dialogue: 0,0:11:22.54,0:11:28.19,Main Dialog,Spoken,0000,0000,0000,,Capricious and delicate, as if you \Nmight break, but with a strong heart.
+Dialogue: 0,0:11:28.19,0:11:30.00,Main Dialog,Spoken,0000,0000,0000,,Totally different from me.
+Dialogue: 0,0:11:30.97,0:11:33.18,Main Dialog,Spoken,0000,0000,0000,,That's why I want to beat you.
+Dialogue: 0,0:11:33.18,0:11:36.00,Main Dialog,Spoken,0000,0000,0000,,The opponent who's always \Nbeen worth beating...
+Dialogue: 0,0:11:39.66,0:11:41.76,Main Dialog,Spoken,0000,0000,0000,,I think I get it.
+Dialogue: 0,0:11:42.01,0:11:49.73,Main Dialog,Spoken,0000,0000,0000,,We're both opponents who want to beat the other \Nso badly that he'd sell his soul to the devil for it.
+Dialogue: 0,0:11:50.32,0:11:56.43,Main Dialog,Spoken,0000,0000,0000,,That being the case, I'm going to use this power \Ngiven to me by the devil known as Link Joker.
+Dialogue: 0,0:11:56.43,0:11:59.53,Main Dialog,Spoken,0000,0000,0000,,Ren... I'm going to defeat you!
+Dialogue: 0,0:12:05.56,0:12:07.03,Main Dialog,Spoken,0000,0000,0000,,Final Turn!
+Dialogue: 0,0:12:09.89,0:12:11.91,Main Dialog,Spoken,0000,0000,0000,,But of course.
+Dialogue: 0,0:12:15.53,0:12:21.38,Main Dialog,Spoken,0000,0000,0000,,Amid the flames of purgatory that reduce \Neverything to ashes, rise from the dead again!
+Dialogue: 0,0:12:22.18,0:12:23.41,Main Dialog,Spoken,0000,0000,0000,,Resurrection!
+Dialogue: 0,0:12:24.24,0:12:26.34,Main Dialog,Spoken,0000,0000,0000,,Strongest fiery dragon!
+Dialogue: 0,0:12:26.59,0:12:28.60,Main Dialog,Spoken,0000,0000,0000,,Crossbreak ride!
+Dialogue: 0,0:12:29.50,0:12:33.39,Main Dialog,Spoken,0000,0000,0000,,Dragonic Overlord the Reverse!
+Dialogue: 0,0:12:35.00,0:12:38.70,Main Dialog,Spoken,0000,0000,0000,,Because of the break ride, \Nit gains +10000 power.
+Dialogue: 0,0:12:42.92,0:12:45.66,Main Dialog,Spoken,0000,0000,0000,,Overlord the Reverse?!
+Dialogue: 0,0:12:45.66,0:12:51.75,Main Dialog,Spoken,0000,0000,0000,,What is this? I didn't know \Nabout that Reverse unit!
+Dialogue: 0,0:12:51.75,0:12:52.69,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:12:54.61,0:12:57.20,Main Dialog,Spoken,0000,0000,0000,,Second coming of dragon of explosive flames,
+Dialogue: 0,0:12:57.20,0:13:01.13,Main Dialog,Spoken,0000,0000,0000,,use your fiery roar to \Nreduce all order to ash!
+Dialogue: 0,0:13:01.66,0:13:03.26,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:13:03.60,0:13:05.88,Main Dialog,Spoken,0000,0000,0000,,I lock all rear-guards!
+Dialogue: 0,0:13:13.97,0:13:16.97,Main Dialog,Spoken,0000,0000,0000,,He locked all of his own rear-guards?!
+Dialogue: 0,0:13:18.22,0:13:23.65,Main Dialog,Spoken,0000,0000,0000,,By locking five units, Overlord \Nthe Reverse gains +10000 power.
+Dialogue: 0,0:13:26.72,0:13:31.91,Main Dialog,Spoken,0000,0000,0000,,With the break ride and that Limit Break, \Nhe now has 33000 power!
+Dialogue: 0,0:13:32.30,0:13:34.58,Main Dialog,Spoken,0000,0000,0000,,Let me show you...
+Dialogue: 0,0:13:34.58,0:13:40.17,Main Dialog,Spoken,0000,0000,0000,,...a reborn Overlord the Reverse's true power!
+Dialogue: 0,0:13:40.95,0:13:42.92,Main Dialog,Spoken,0000,0000,0000,,True power...
+Dialogue: 0,0:13:43.67,0:13:48.24,Main Dialog,Spoken,0000,0000,0000,,Overlord the Reverse attacks \NNullity, Masquerade!
+Dialogue: 0,0:13:49.91,0:13:51.30,Main Dialog,Spoken,0000,0000,0000,,No guard!
+Dialogue: 0,0:13:51.80,0:13:53.89,Main Dialog,Spoken,0000,0000,0000,,Check the drive trigger.
+Dialogue: 0,0:14:02.47,0:14:05.49,Main Dialog,Spoken,0000,0000,0000,,The flames of purgatory never extinguish.
+Dialogue: 0,0:14:06.25,0:14:08.45,Main Dialog,Spoken,0000,0000,0000,,Break ride skill activated!
+Dialogue: 0,0:14:09.13,0:14:13.03,Main Dialog,Spoken,0000,0000,0000,,Rise from the dead, Overlord the Reverse!
+Dialogue: 0,0:14:16.56,0:14:18.90,Main Dialog,Spoken,0000,0000,0000,,Overlord stood!
+Dialogue: 0,0:14:18.90,0:14:20.54,Main Dialog,Spoken,0000,0000,0000,,This is that...!
+Dialogue: 0,0:14:20.54,0:14:22.96,Main Dialog,Spoken,0000,0000,0000,,Next attack.
+Dialogue: 0,0:14:22.96,0:14:25.05,Main Dialog,Spoken,0000,0000,0000,,Overlord the Reverse!
+Dialogue: 0,0:14:26.16,0:14:27.42,Main Dialog,Spoken,0000,0000,0000,,No guard!
+Dialogue: 0,0:14:27.91,0:14:30.05,Main Dialog,Spoken,0000,0000,0000,,Check the drive trigger.
+Dialogue: 0,0:14:30.59,0:14:32.30,Main Dialog,Spoken,0000,0000,0000,,Second check!
+Dialogue: 0,0:14:33.24,0:14:37.18,Main Dialog,Spoken,0000,0000,0000,,Even when it stands, \Nit doesn't lose twin drive?!
+Dialogue: 0,0:14:46.06,0:14:48.53,Main Dialog,Spoken,0000,0000,0000,,Ren has 5 damage, too...
+Dialogue: 0,0:14:49.37,0:14:53.59,Main Dialog,Spoken,0000,0000,0000,,Flames feed on flames. \NHellfire keeps burning.
+Dialogue: 0,0:14:54.45,0:14:57.04,Main Dialog,Spoken,0000,0000,0000,,Reverse Limit Break activated!
+Dialogue: 0,0:14:57.48,0:15:02.00,Main Dialog,Spoken,0000,0000,0000,,Come back from the dead a third \Ntime, Overlord the Reverse!
+Dialogue: 0,0:15:02.00,0:15:04.34,Main Dialog,Spoken,0000,0000,0000,,Again?! It stood!
+Dialogue: 0,0:15:05.38,0:15:08.78,Main Dialog,Spoken,0000,0000,0000,,If going toward the opposite \Ndirection means "reverse,"
+Dialogue: 0,0:15:09.34,0:15:12.11,Main Dialog,Spoken,0000,0000,0000,,then being born again is also a "reverse."
+Dialogue: 0,0:15:13.16,0:15:17.93,Main Dialog,Spoken,0000,0000,0000,,That's right. This is Eternal Flame Reverse!
+Dialogue: 0,0:15:19.28,0:15:21.69,Main Dialog,Spoken,0000,0000,0000,,Eternal Flame Reverse...
+Dialogue: 0,0:15:22.32,0:15:24.78,Main Dialog,Spoken,0000,0000,0000,,Combined with a break ride,
+Dialogue: 0,0:15:24.78,0:15:28.94,Main Dialog,Spoken,0000,0000,0000,,it's even more powerful than \NEternal Flame before...
+Dialogue: 0,0:15:29.60,0:15:32.88,Main Dialog,Spoken,0000,0000,0000,,This is Eternal Flame Reverse!
+Dialogue: 0,0:15:37.45,0:15:39.76,Main Dialog,Spoken,0000,0000,0000,,Are you ready, Ren?
+Dialogue: 0,0:15:41.40,0:15:42.82,Main Dialog,Spoken,0000,0000,0000,,Final Attack!
+Dialogue: 0,0:15:43.87,0:15:46.03,Main Dialog,Spoken,0000,0000,0000,,Overlord the Reverse!
+Dialogue: 0,0:15:47.02,0:15:49.34,Main Dialog,Spoken,0000,0000,0000,,Guard! Intercept!
+Dialogue: 0,0:15:49.79,0:15:52.06,Main Dialog,Spoken,0000,0000,0000,,The power tops 10000!
+Dialogue: 0,0:15:52.06,0:15:53.23,Main Dialog,Spoken,0000,0000,0000,,In that case...
+Dialogue: 0,0:15:56.95,0:15:58.28,Main Dialog,Spoken,0000,0000,0000,,Kai...
+Dialogue: 0,0:15:58.28,0:16:00.85,Main Dialog,Spoken,0000,0000,0000,,He really does mean to win it here.
+Dialogue: 0,0:16:01.48,0:16:03.85,Main Dialog,Spoken,0000,0000,0000,,Check the drive trigger.
+Dialogue: 0,0:16:05.28,0:16:07.61,Main Dialog,Spoken,0000,0000,0000,,I got a critical trigger.
+Dialogue: 0,0:16:08.24,0:16:11.36,Main Dialog,Spoken,0000,0000,0000,,I give all the effects \Nto Overlord the Reverse!
+Dialogue: 0,0:16:14.18,0:16:15.42,Main Dialog,Spoken,0000,0000,0000,,Second check.
+Dialogue: 0,0:16:16.73,0:16:19.38,Main Dialog,Spoken,0000,0000,0000,,I got a critical trigger!
+Dialogue: 0,0:16:19.38,0:16:23.51,Main Dialog,Spoken,0000,0000,0000,,I give the power and the extra \Ncritical to Overlord the Reverse!
+Dialogue: 0,0:16:24.30,0:16:26.63,Main Dialog,Spoken,0000,0000,0000,,Double critical trigger?!
+Dialogue: 0,0:16:34.55,0:16:37.00,Main Dialog,Spoken,0000,0000,0000,,Kai's attack went through!
+Dialogue: 0,0:16:37.00,0:16:40.59,Main Dialog,Spoken,0000,0000,0000,,Ren had 5 damage, so with a critical of 3,
+Dialogue: 0,0:16:40.59,0:16:45.90,Main Dialog,Spoken,0000,0000,0000,,Ren will have to draw three heal \Ntriggers in a row, or he'll lose!
+Dialogue: 0,0:16:48.46,0:16:49.65,Main Dialog,Spoken,0000,0000,0000,,You're strong...
+Dialogue: 0,0:16:51.16,0:16:52.88,Main Dialog,Spoken,0000,0000,0000,,You're really strong.
+Dialogue: 0,0:16:53.61,0:17:00.00,Main Dialog,Spoken,0000,0000,0000,,This trembling is excitement at having this strength \Nyou've finally reached right before my eyes.
+Dialogue: 0,0:17:00.00,0:17:03.81,Main Dialog,Spoken,0000,0000,0000,,It's the intense desire to beat you!
+Dialogue: 0,0:17:08.90,0:17:13.31,Main Dialog,Spoken,0000,0000,0000,,It would be a crying \Nshame to let it end here.
+Dialogue: 0,0:17:20.65,0:17:22.97,Main Dialog,Spoken,0000,0000,0000,,Ren isn't giving up.
+Dialogue: 0,0:17:27.41,0:17:28.73,Main Dialog,Spoken,0000,0000,0000,,Bring it.
+Dialogue: 0,0:17:29.88,0:17:32.73,Main Dialog,Spoken,0000,0000,0000,,Damage trigger check...
+Dialogue: 0,0:17:33.64,0:17:36.84,Main Dialog,Spoken,0000,0000,0000,,If it's not a heal trigger, Ren will...
+Dialogue: 0,0:17:40.27,0:17:42.99,Main Dialog,Spoken,0000,0000,0000,,Heal trigger! I heal 1 damage point.
+Dialogue: 0,0:17:42.99,0:17:44.25,Main Dialog,Spoken,0000,0000,0000,,There it is!
+Dialogue: 0,0:17:44.85,0:17:46.87,Main Dialog,Spoken,0000,0000,0000,,But he needs two more...
+Dialogue: 0,0:17:50.98,0:17:52.38,Main Dialog,Spoken,0000,0000,0000,,Second check.
+Dialogue: 0,0:17:53.70,0:17:56.38,Main Dialog,Spoken,0000,0000,0000,,Heal trigger! I heal 1 damage point.
+Dialogue: 0,0:17:56.84,0:17:58.63,Main Dialog,Spoken,0000,0000,0000,,Double heal trigger?!
+Dialogue: 0,0:17:58.63,0:17:59.82,Main Dialog,Spoken,0000,0000,0000,,Wow!
+Dialogue: 0,0:18:00.84,0:18:02.76,Main Dialog,Spoken,0000,0000,0000,,If he can draw just one more...
+Dialogue: 0,0:18:15.75,0:18:17.40,Main Dialog,Spoken,0000,0000,0000,,I win.
+Dialogue: 0,0:18:19.05,0:18:20.66,Main Dialog,Spoken,0000,0000,0000,,I know.
+Dialogue: 0,0:18:22.99,0:18:26.67,Main Dialog,Spoken,0000,0000,0000,,Haven't you noticed, Aichi Sendou?
+Dialogue: 0,0:18:27.36,0:18:29.44,Main Dialog,Spoken,0000,0000,0000,,Look carefully at the field.
+Dialogue: 0,0:18:35.02,0:18:38.84,Main Dialog,Spoken,0000,0000,0000,,There are already four heal triggers out...
+Dialogue: 0,0:18:38.84,0:18:41.93,Main Dialog,Spoken,0000,0000,0000,,Both of them know it, but he's \Nstill doing a trigger check?!
+Dialogue: 0,0:18:42.53,0:18:46.43,Main Dialog,Spoken,0000,0000,0000,,I don't understand it at all myself.
+Dialogue: 0,0:18:57.96,0:18:59.68,Main Dialog,Spoken,0000,0000,0000,,You're strong.
+Dialogue: 0,0:18:59.68,0:19:01.85,Main Dialog,Spoken,0000,0000,0000,,Exactly what I expect you to be, Kai.
+Dialogue: 0,0:19:07.50,0:19:08.45,Main Dialog,Spoken,0000,0000,0000,,Ren!
+Dialogue: 0,0:19:10.54,0:19:11.87,Main Dialog,Spoken,0000,0000,0000,,That's right.
+Dialogue: 0,0:19:12.73,0:19:18.37,Main Dialog,Spoken,0000,0000,0000,,This is the kind of fight I've wanted to \Nhave with you for the longest time...
+Dialogue: 0,0:19:26.68,0:19:27.98,Main Dialog,Spoken,0000,0000,0000,,Ren!
+Dialogue: 0,0:19:29.88,0:19:31.31,Main Dialog,Spoken,0000,0000,0000,,Ren...
+Dialogue: 0,0:19:41.58,0:19:43.44,Main Dialog,Spoken,0000,0000,0000,,I knew it, Ren...
+Dialogue: 0,0:19:44.27,0:19:47.89,Main Dialog,Spoken,0000,0000,0000,,You were the perfect opponent \Nfor my final fight.
+Dialogue: 0,0:19:50.42,0:19:51.97,Main Dialog,Spoken,0000,0000,0000,,Toshiki Kai...
+Dialogue: 0,0:19:52.94,0:19:59.22,Main Dialog,Spoken,0000,0000,0000,,You're definitely still under my control.
+Dialogue: 0,0:20:01.62,0:20:06.96,Main Dialog,Spoken,0000,0000,0000,,This is what you'll be in \Nthe future, Aichi Sendou.
+Dialogue: 0,0:20:08.02,0:20:16.49,Main Dialog,Spoken,0000,0000,0000,,Or rather, in your case, instead of being \NReversed, it's death that waits for you.
+Dialogue: 0,0:20:18.91,0:20:23.66,Main Dialog,Spoken,0000,0000,0000,,Ren Suzugamori has fallen. \NYou're the last one left.
+Dialogue: 0,0:20:24.25,0:20:29.05,Main Dialog,Spoken,0000,0000,0000,,If you lose, the world \Nwill belong to Link Joker.
+Dialogue: 0,0:20:31.30,0:20:33.92,Main Dialog,Spoken,0000,0000,0000,,Scary, isn't it?
+Dialogue: 0,0:20:33.92,0:20:38.21,Main Dialog,Spoken,0000,0000,0000,,But even if you say you want \Nout now, I won't allow it.
+Dialogue: 0,0:20:40.56,0:20:45.09,Main Dialog,Spoken,0000,0000,0000,,If I can bring the world... \Nbring everyone back to normal,
+Dialogue: 0,0:20:45.09,0:20:47.34,Main Dialog,Spoken,0000,0000,0000,,I don't care what happens to me.
+Dialogue: 0,0:20:48.09,0:20:49.06,Main Dialog,Spoken,0000,0000,0000,,I'll fight!
+Dialogue: 0,0:20:49.54,0:20:55.29,Main Dialog,Spoken,0000,0000,0000,,Dear, dear. The people of this \Nworld just don't know when to quit.
+Dialogue: 0,0:20:56.05,0:20:57.19,Main Dialog,Spoken,0000,0000,0000,,Toshiki Kai!
+Dialogue: 0,0:21:00.00,0:21:03.54,Main Dialog,Spoken,0000,0000,0000,,Please defeat Aichi Sendou now.
+Dialogue: 0,0:21:05.30,0:21:06.45,Main Dialog,Spoken,0000,0000,0000,,I refuse.
+Dialogue: 0,0:21:07.88,0:21:10.58,Main Dialog,Spoken,0000,0000,0000,,I already beat Aichi.
+Dialogue: 0,0:21:10.58,0:21:11.59,Main Dialog,Spoken,0000,0000,0000,,Wha...?
+Dialogue: 0,0:21:12.27,0:21:13.33,Main Dialog,Spoken,0000,0000,0000,,Kai?
+Dialogue: 0,0:21:30.19,0:21:31.60,Main Dialog,Spoken,0000,0000,0000,,All right, fine.
+Dialogue: 0,0:21:32.11,0:21:34.17,Main Dialog,Spoken,0000,0000,0000,,It can't be helped.
+Dialogue: 0,0:21:34.17,0:21:38.35,Main Dialog,Spoken,0000,0000,0000,,I'll teach you who's in charge later on.
+Dialogue: 0,0:21:39.74,0:21:43.36,Main Dialog,Spoken,0000,0000,0000,,Okay, Aichi Sendou. This way...
+Dialogue: 0,0:21:45.82,0:21:48.43,Main Dialog,Spoken,0000,0000,0000,,You should feel honored.
+Dialogue: 0,0:21:48.43,0:21:51.37,Main Dialog,Spoken,0000,0000,0000,,I'm going to settle this myself.
+Dialogue: 0,0:21:55.79,0:21:58.07,Main Dialog,Spoken,0000,0000,0000,,I will say this.
+Dialogue: 0,0:21:58.07,0:22:02.76,Main Dialog,Spoken,0000,0000,0000,,Aichi Sendou, you won't beat me.
+Dialogue: 0,0:22:02.76,0:22:04.13,Main Dialog,Spoken,0000,0000,0000,,Not a chance.
+Dialogue: 0,0:22:09.22,0:22:12.69,Main Dialog,Spoken,0000,0000,0000,,That's right. Nothing will change.
+Dialogue: 0,0:22:12.69,0:22:15.27,Main Dialog,Spoken,0000,0000,0000,,You can't change anything.
+Dialogue: 0,0:22:15.27,0:22:19.42,Main Dialog,Spoken,0000,0000,0000,,This world is already finished.
+Dialogue: 0,0:23:56.57,0:23:59.05,Main Dialog,Spoken,0000,0000,0000,,Ren... Even though the fight was over...
+Dialogue: 0,0:23:59.05,0:24:01.45,Main Dialog,Spoken,0000,0000,0000,,Good grief. Talk about useless strugglng...
+Dialogue: 0,0:24:01.45,0:24:05.82,Main Dialog,Spoken,0000,0000,0000,,That's right, Takuto Tatsunagi. \NYou never will understand.
+Dialogue: 0,0:24:05.82,0:24:07.30,Main Dialog,Spoken,0000,0000,0000,,Toshiki Kai...
+Dialogue: 0,0:24:07.30,0:24:08.71,Main Dialog,Spoken,0000,0000,0000,,I understand.
+Dialogue: 0,0:24:08.71,0:24:12.62,Main Dialog,Spoken,0000,0000,0000,,Ren wanted to enjoy the fight \Nwith Kai for as long as possible.
+Dialogue: 0,0:24:12.62,0:24:15.10,Main Dialog,Spoken,0000,0000,0000,,Next time: Perfect Black Ring!
+Dialogue: 0,0:24:13.30,0:24:24.90,Signs,Sign,0000,0000,0000,,Perfect Black Ring
+Dialogue: 0,0:24:15.10,0:24:18.68,Main Dialog,Spoken,0000,0000,0000,,But right now, I can't enjoy fighting!
+Dialogue: 0,0:24:18.68,0:24:21.27,Main Dialog,Spoken,0000,0000,0000,,Show me a fight that surpasses Ren's!
+Dialogue: 0,0:24:21.27,0:24:23.44,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!

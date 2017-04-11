@@ -65,9 +65,14 @@ public class SubsceneSubsParser {
 					BufferedReader reader = new BufferedReader(
 							new FileReader(movieSubtitlesFolder + srtFiles[srtIndex]));
 
-					SubtitleFile subtitles = new SubtitleFile(SubtitlesUtils.parseSubtitles(reader),
-							srtFiles[srtIndex]);
-
+					SubtitleFile subtitles;
+					try {
+						subtitles = new SubtitleFile(SubtitlesUtils.parseSubtitles(reader),
+								srtFiles[srtIndex], movieSubtitlesFolder + srtFiles[srtIndex]);
+					} catch (Exception e)
+					{
+						continue;
+					}
 					ret.add(subtitles);
 				}
 
@@ -139,7 +144,7 @@ public class SubsceneSubsParser {
 
 		connect.request().headers().putAll(m);
 		connect.request().cookie("LanguageFilter", "13");
-		String html = connect.get().html();
+		String html = connect.timeout(10000).get().html();
 		return html;
 	}
 
@@ -154,10 +159,16 @@ public class SubsceneSubsParser {
 			String url = m.group(1);
 			String titleAndYear = m.group(2);
 			String year = titleAndYear.substring(titleAndYear.length() - 5, titleAndYear.length() - 1);
-			if (year != null && year.matches("[0-9]+") && year.equals(releaseyear)) {
+			if (year != null && year.matches("[0-9]+")) {
 				urls.add(url);
 			} else {
 				System.out.println("cant parse movie release year from string: " + titleAndYear);
+			}
+
+			if (year != null && year.equals(releaseyear)) {
+				urls.add(url);
+			} else {
+				System.out.println("movie release year does not match: " + titleAndYear);
 			}
 		}
 
@@ -246,11 +257,13 @@ public class SubsceneSubsParser {
 		File dir = new File(folder);
 		if (dir.isDirectory() == false) {
 			System.out.println("Directory does not exists : " + folder);
-			return null;
+			return new String[0];
 		}
 
 		GenericExtFilter filter = new GenericExtFilter(extension);
 		String[] list = dir.list(filter);
+		if(list == null)
+			return new String[0];
 		return list;
 	}
 

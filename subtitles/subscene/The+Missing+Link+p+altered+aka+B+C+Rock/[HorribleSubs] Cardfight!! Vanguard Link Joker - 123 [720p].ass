@@ -1,0 +1,326 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.77,0:00:02.79,Main Dialog,Spoken,0000,0000,0000,,If you can do the impossible, \Nlogic goes by the wayside!
+Dialogue: 0,0:00:03.52,0:00:05.72,Main Dialog,Spoken,0000,0000,0000,,If you can get past pride, \Nthe limit backs off!
+Dialogue: 0,0:00:06.72,0:00:08.55,Main Dialog,Spoken,0000,0000,0000,,That's the way a man lives!
+Dialogue: 0,0:00:09.03,0:00:13.40,Main Dialog,Spoken,0000,0000,0000,,Armor Break Dragon! And \Nwhat I'm doin' right now...
+Dialogue: 0,0:00:13.69,0:00:15.84,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:00:22.54,0:00:25.04,Main Dialog,Spoken,0000,0000,0000,,He really is an interesting boy.
+Dialogue: 0,0:00:25.46,0:00:28.54,Main Dialog,Spoken,0000,0000,0000,,The winner of the first match, \Nfrom Miyaji Academy, Naoki Ishida!
+Dialogue: 0,0:00:29.61,0:00:31.33,Main Dialog,Spoken,0000,0000,0000,,I did it...
+Dialogue: 0,0:00:31.33,0:00:34.08,Main Dialog,Spoken,0000,0000,0000,,I did it!
+Dialogue: 0,0:00:34.08,0:00:36.40,Main Dialog,Spoken,0000,0000,0000,,I was able to contribute to the team!
+Dialogue: 0,0:02:06.98,0:02:09.23,Signs,Sign,0000,0000,0000,,Fukuhara High School   Miyaji Academy
+Dialogue: 0,0:02:10.26,0:02:14.13,Main Dialog,Spoken,0000,0000,0000,,It's the final round of the VF High \NSchool Championship, Kanto Block 3.
+Dialogue: 0,0:02:14.13,0:02:16.49,Main Dialog,Spoken,0000,0000,0000,,In the showdown between Fukuhara \NHigh School and Miyaji Academy,
+Dialogue: 0,0:02:16.49,0:02:22.32,Main Dialog,Spoken,0000,0000,0000,,Naoki Ishida had a brilliant win against \NSuiko Tatsunagi in the first match.
+Dialogue: 0,0:02:22.32,0:02:26.00,Main Dialog,Spoken,0000,0000,0000,,With this one win, Miyaji Academy \Nhas taken a step toward victory.
+Dialogue: 0,0:02:26.00,0:02:30.00,Main Dialog,Spoken,0000,0000,0000,,Meanwhile, the pressure is \Non Fukuhara High School.
+Dialogue: 0,0:02:30.41,0:02:33.00,Main Dialog,Spoken,0000,0000,0000,,Continuing to the second \Nround, from Miyaji Academy,
+Dialogue: 0,0:02:33.00,0:02:37.51,Main Dialog,Spoken,0000,0000,0000,,we have Vanguard idol and member \Nof Ultra-rare, Kourin Tatsunagi,
+Dialogue: 0,0:02:37.96,0:02:42.76,Main Dialog,Spoken,0000,0000,0000,,and her opponent from Fukuhara High \NSchool, the Beautiful Assassin of AL4,
+Dialogue: 0,0:02:42.76,0:02:47.27,Main Dialog,Spoken,0000,0000,0000,,the former top team of Team \NAsteroid, Asaka Narumi!
+Dialogue: 0,0:02:48.41,0:02:51.09,Main Dialog,Spoken,0000,0000,0000,,Who will win?!
+Dialogue: 0,0:02:51.72,0:02:53.60,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:03:00.62,0:03:03.00,Main Dialog,Spoken,0000,0000,0000,,Dreaming Jewel Knight, Tiffany!
+Dialogue: 0,0:03:03.66,0:03:05.45,Main Dialog,Spoken,0000,0000,0000,,Journeying Tone, Willy!
+Dialogue: 0,0:03:05.45,0:03:16.09,Signs,Sign,0000,0000,0000,,Kourin Love
+Dialogue: 0,0:03:05.94,0:03:07.74,Main Dialog,Spoken,0000,0000,0000,,Do your best, Kourin!
+Dialogue: 0,0:03:07.74,0:03:10.17,Main Dialog,Spoken,0000,0000,0000,,With my support...
+Dialogue: 0,0:03:10.17,0:03:13.61,Main Dialog,Spoken,0000,0000,0000,,...your victory is a trillion \Npercent guaranteed!
+Dialogue: 0,0:03:13.61,0:03:16.09,Main Dialog,Spoken,0000,0000,0000,,Where do you get that confidence from?
+Dialogue: 0,0:03:16.64,0:03:19.54,Main Dialog,Spoken,0000,0000,0000,,Royal Paladin vs. Pale Moon, huh?
+Dialogue: 0,0:03:19.54,0:03:22.59,Main Dialog,Spoken,0000,0000,0000,,With two strong fighters, \Nthe deciding factor...
+Dialogue: 0,0:03:23.06,0:03:26.00,Main Dialog,Spoken,0000,0000,0000,,...might be the strength of \Ntheir feelings for the fight.
+Dialogue: 0,0:03:29.85,0:03:34.86,Signs,Sign,0000,0000,0000,,Feelings About Victory
+Dialogue: 0,0:03:36.81,0:03:38.80,Main Dialog,Spoken,0000,0000,0000,,I ride Jewel Knight, Prizmy!
+Dialogue: 0,0:03:45.69,0:03:46.81,Main Dialog,Spoken,0000,0000,0000,,Turn end!
+Dialogue: 0,0:03:50.62,0:03:53.42,Main Dialog,Spoken,0000,0000,0000,,I ride Jumping Glenn!
+Dialogue: 0,0:03:58.60,0:03:59.92,Main Dialog,Spoken,0000,0000,0000,,Willy moves back.
+Dialogue: 0,0:04:00.20,0:04:01.05,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:04:05.37,0:04:06.40,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:04:08.89,0:04:12.14,Main Dialog,Spoken,0000,0000,0000,,I ride Dogmatize Jewel Knight, Sybill!
+Dialogue: 0,0:04:17.57,0:04:19.53,Main Dialog,Spoken,0000,0000,0000,,Sybill's Counterblast!
+Dialogue: 0,0:04:19.98,0:04:23.46,Main Dialog,Spoken,0000,0000,0000,,I superior call Stinging \NJewel Knight, Shellie!
+Dialogue: 0,0:04:26.88,0:04:28.33,Main Dialog,Spoken,0000,0000,0000,,I also call Tracie!
+Dialogue: 0,0:04:30.17,0:04:31.50,Main Dialog,Spoken,0000,0000,0000,,I attack Glenn!
+Dialogue: 0,0:04:37.85,0:04:40.67,Main Dialog,Spoken,0000,0000,0000,,2 to 2. Tied up in the \Nfirst part of the fight...
+Dialogue: 0,0:04:41.61,0:04:46.09,Main Dialog,Spoken,0000,0000,0000,,Ren... I swear that I'll win this for you.
+Dialogue: 0,0:04:46.48,0:04:48.30,Main Dialog,Spoken,0000,0000,0000,,Good luck, Asaka!
+Dialogue: 0,0:04:51.38,0:04:54.18,Main Dialog,Spoken,0000,0000,0000,,I won't let anyone else have \Nthe honor of serving Ren!
+Dialogue: 0,0:04:54.82,0:04:57.05,Main Dialog,Spoken,0000,0000,0000,,Asaka certainly is fired up, isn't she?
+Dialogue: 0,0:04:58.81,0:05:03.40,Main Dialog,Spoken,0000,0000,0000,,Your greatest misfortune \Nis having to face me.
+Dialogue: 0,0:05:06.06,0:05:07.16,Main Dialog,Spoken,0000,0000,0000,,Draw.
+Dialogue: 0,0:05:08.45,0:05:11.08,Main Dialog,Spoken,0000,0000,0000,,I ride Nitro Juggler!
+Dialogue: 0,0:05:16.46,0:05:19.46,Main Dialog,Spoken,0000,0000,0000,,Nitro Juggler's skill. Soulcharge...
+Dialogue: 0,0:05:20.46,0:05:22.34,Main Dialog,Spoken,0000,0000,0000,,Dark Metal Bicorn moves back.
+Dialogue: 0,0:05:23.00,0:05:26.34,Main Dialog,Spoken,0000,0000,0000,,I call Mirror Demon and Barking Cerberus.
+Dialogue: 0,0:05:26.97,0:05:28.54,Main Dialog,Spoken,0000,0000,0000,,Cerberus attacks!
+Dialogue: 0,0:05:30.21,0:05:31.14,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:05:32.89,0:05:36.23,Main Dialog,Spoken,0000,0000,0000,,Nitro Juggler attacks \Nwith a boost from Willy!
+Dialogue: 0,0:05:36.88,0:05:38.30,Main Dialog,Spoken,0000,0000,0000,,No guard!
+Dialogue: 0,0:05:38.30,0:05:39.66,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check.
+Dialogue: 0,0:05:40.72,0:05:41.86,Main Dialog,Spoken,0000,0000,0000,,Heal trigger.
+Dialogue: 0,0:05:45.97,0:05:48.74,Main Dialog,Spoken,0000,0000,0000,,Mirror Demon attacks with \Na boost from Bicorn.
+Dialogue: 0,0:05:51.33,0:05:52.50,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:05:53.54,0:05:57.09,Main Dialog,Spoken,0000,0000,0000,,4 to 1! How strong is Asaka Narumi?!
+Dialogue: 0,0:05:57.09,0:06:01.40,Main Dialog,Spoken,0000,0000,0000,,There's no way my Kourin \Ncould be this far behind!
+Dialogue: 0,0:06:01.40,0:06:05.63,Main Dialog,Spoken,0000,0000,0000,,It must be a dream! An \Nillusion! A hallucination!
+Dialogue: 0,0:06:07.14,0:06:08.26,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:06:08.81,0:06:09.89,Main Dialog,Spoken,0000,0000,0000,,It'll be okay.
+Dialogue: 0,0:06:11.37,0:06:12.26,Main Dialog,Spoken,0000,0000,0000,,Look.
+Dialogue: 0,0:06:18.49,0:06:20.86,Main Dialog,Spoken,0000,0000,0000,,Are those the eyes of someone who's given up?
+Dialogue: 0,0:06:22.08,0:06:23.96,Main Dialog,Spoken,0000,0000,0000,,Let's have faith and cheer her on.
+Dialogue: 0,0:06:23.96,0:06:24.78,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:06:29.09,0:06:31.37,Main Dialog,Spoken,0000,0000,0000,,Cut through the darkness, \Nlight of shining stone!
+Dialogue: 0,0:06:31.89,0:06:35.24,Main Dialog,Spoken,0000,0000,0000,,I ride Pure Heart Jewel Knight, Ashlei!
+Dialogue: 0,0:06:41.84,0:06:42.80,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:06:44.26,0:06:47.84,Main Dialog,Spoken,0000,0000,0000,,My boosted rear-guard Ashlei \Nattacks Mirror Demon!
+Dialogue: 0,0:06:52.36,0:06:54.97,Main Dialog,Spoken,0000,0000,0000,,My boosted Vanguard Ashlei attacks!
+Dialogue: 0,0:06:55.44,0:06:56.98,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check!
+Dialogue: 0,0:06:58.02,0:06:59.23,Main Dialog,Spoken,0000,0000,0000,,Heal trigger!
+Dialogue: 0,0:06:59.72,0:07:01.61,Main Dialog,Spoken,0000,0000,0000,,She heals 1 damage!
+Dialogue: 0,0:07:01.61,0:07:02.73,Main Dialog,Spoken,0000,0000,0000,,That's what I'm talking about!
+Dialogue: 0,0:07:04.76,0:07:08.24,Main Dialog,Spoken,0000,0000,0000,,Tracie attacks with a boost from Toypugal!
+Dialogue: 0,0:07:10.61,0:07:11.99,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:07:12.30,0:07:14.78,Main Dialog,Spoken,0000,0000,0000,,It's 3 to 3! She caught up!
+Dialogue: 0,0:07:14.78,0:07:15.99,Main Dialog,Spoken,0000,0000,0000,,That's the way, Kourin!
+Dialogue: 0,0:07:19.08,0:07:20.62,Main Dialog,Spoken,0000,0000,0000,,She's getting into it...
+Dialogue: 0,0:07:22.92,0:07:26.32,Main Dialog,Spoken,0000,0000,0000,,Heh... I haven't seen \NKourin like this before...
+Dialogue: 0,0:07:27.62,0:07:32.14,Main Dialog,Spoken,0000,0000,0000,,Strange for me to want to win this badly...
+Dialogue: 0,0:07:34.20,0:07:37.01,Main Dialog,Spoken,0000,0000,0000,,I only started my high school \Nlife at Takuto's urging.
+Dialogue: 0,0:07:38.27,0:07:40.18,Main Dialog,Spoken,0000,0000,0000,,I wasn't really interested.
+Dialogue: 0,0:07:40.81,0:07:45.12,Main Dialog,Spoken,0000,0000,0000,,Even with the Cardfight Club, I only \Ncooperated because Aichi wanted to form it.
+Dialogue: 0,0:07:45.53,0:07:47.16,Main Dialog,Spoken,0000,0000,0000,,Even though that's all there was to it...
+Dialogue: 0,0:07:52.41,0:07:56.22,Main Dialog,Spoken,0000,0000,0000,,...Aichi got me interested \Nin fighting all over again.
+Dialogue: 0,0:07:57.22,0:07:59.40,Main Dialog,Spoken,0000,0000,0000,,Misaki trusted me to win...
+Dialogue: 0,0:08:00.14,0:08:03.38,Main Dialog,Spoken,0000,0000,0000,,And Naoki, Shingo...
+Dialogue: 0,0:08:03.93,0:08:09.48,Main Dialog,Spoken,0000,0000,0000,,I don't know what a true home is, so I \Nmight get laughed at if I called it "home,"
+Dialogue: 0,0:08:10.40,0:08:16.90,Main Dialog,Spoken,0000,0000,0000,,but this place, where I can be \Nmyself, this is where I want to be.
+Dialogue: 0,0:08:18.62,0:08:22.60,Main Dialog,Spoken,0000,0000,0000,,That's why I can't afford to lose this fight!
+Dialogue: 0,0:08:26.94,0:08:28.53,Main Dialog,Spoken,0000,0000,0000,,That spirit...
+Dialogue: 0,0:08:28.53,0:08:31.10,Main Dialog,Spoken,0000,0000,0000,,You have something you can't give up on.
+Dialogue: 0,0:08:31.10,0:08:36.20,Main Dialog,Spoken,0000,0000,0000,,But I'm the same way. And I'm \Ngoing to win... for Ren's sake!
+Dialogue: 0,0:08:38.10,0:08:43.56,Main Dialog,Spoken,0000,0000,0000,,You dance the dance of \Ncorruption and immorality!
+Dialogue: 0,0:08:47.89,0:08:49.92,Main Dialog,Spoken,0000,0000,0000,,I ride Miracle Pop, Ava!
+Dialogue: 0,0:08:52.74,0:08:56.18,Main Dialog,Spoken,0000,0000,0000,,Call! And then Cerberus attacks!
+Dialogue: 0,0:08:56.81,0:08:57.90,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:08:58.30,0:08:59.82,Main Dialog,Spoken,0000,0000,0000,,In that case, how about this?
+Dialogue: 0,0:09:00.56,0:09:02.96,Main Dialog,Spoken,0000,0000,0000,,Ava attacks with a boost from Willy!
+Dialogue: 0,0:09:04.02,0:09:05.62,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check!
+Dialogue: 0,0:09:07.00,0:09:08.31,Main Dialog,Spoken,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:09:09.01,0:09:12.69,Main Dialog,Spoken,0000,0000,0000,,I give +5000 power to my Cerberus \Nthat hasn't attacked yet
+Dialogue: 0,0:09:13.01,0:09:15.21,Main Dialog,Spoken,0000,0000,0000,,and give the extra critical to Ava!
+Dialogue: 0,0:09:21.93,0:09:23.83,Main Dialog,Spoken,0000,0000,0000,,I still have 5 damage...
+Dialogue: 0,0:09:24.56,0:09:26.58,Main Dialog,Spoken,0000,0000,0000,,Willy's skill. He moves to the Soul.
+Dialogue: 0,0:09:27.21,0:09:29.08,Main Dialog,Spoken,0000,0000,0000,,And then I draw one card.
+Dialogue: 0,0:09:31.65,0:09:35.69,Main Dialog,Spoken,0000,0000,0000,,Cerberus attacks your Vanguard with \Na boost from Dark Metal Bicorn!
+Dialogue: 0,0:09:38.02,0:09:39.09,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:09:43.45,0:09:44.76,Main Dialog,Spoken,0000,0000,0000,,She got through it!
+Dialogue: 0,0:09:44.76,0:09:47.27,Main Dialog,Spoken,0000,0000,0000,,Yeah! Now she gets to strike back!
+Dialogue: 0,0:09:47.68,0:09:50.52,Main Dialog,Spoken,0000,0000,0000,,I'm not going to let you win!
+Dialogue: 0,0:09:53.94,0:09:58.74,Main Dialog,Spoken,0000,0000,0000,,Lead me with the steadfast, \Nunchanging light of determination
+Dialogue: 0,0:09:58.74,0:10:00.57,Main Dialog,Spoken,0000,0000,0000,,that lasts longer than infinity!
+Dialogue: 0,0:10:01.16,0:10:02.49,Main Dialog,Spoken,0000,0000,0000,,Break ride!
+Dialogue: 0,0:10:06.26,0:10:08.41,Main Dialog,Spoken,0000,0000,0000,,Leading Jewel Knight, Salome!
+Dialogue: 0,0:10:11.28,0:10:15.42,Main Dialog,Spoken,0000,0000,0000,,Salome gets +10000 power \Nand an extra critical!
+Dialogue: 0,0:10:15.70,0:10:17.93,Main Dialog,Spoken,0000,0000,0000,,There it is! Break time!
+Dialogue: 0,0:10:17.93,0:10:19.43,Main Dialog,Spoken,0000,0000,0000,,It's a break ride!
+Dialogue: 0,0:10:20.24,0:10:23.18,Main Dialog,Spoken,0000,0000,0000,,For the Cardfight Club... For everyone...
+Dialogue: 0,0:10:26.10,0:10:28.02,Main Dialog,Spoken,0000,0000,0000,,I'm going to win it right here!
+Dialogue: 0,0:10:43.78,0:10:46.16,Main Dialog,Spoken,0000,0000,0000,,Tiffany's skill. She moves to the Soul,
+Dialogue: 0,0:10:46.54,0:10:50.92,Main Dialog,Spoken,0000,0000,0000,,and I give +3000 power to two rear-guard \Nunits... Ashlei and Shellie!
+Dialogue: 0,0:10:50.92,0:10:52.92,Main Dialog,Spoken,0000,0000,0000,,Salome's Especial Counterblast!
+Dialogue: 0,0:10:53.41,0:10:57.67,Main Dialog,Spoken,0000,0000,0000,,I take one Jewel Knight from \Nmy deck and superior call!
+Dialogue: 0,0:10:58.45,0:10:59.17,Main Dialog,Spoken,0000,0000,0000,,Shellie!
+Dialogue: 0,0:10:59.90,0:11:02.72,Main Dialog,Spoken,0000,0000,0000,,Salome attacks with a boost from Shellie!
+Dialogue: 0,0:11:03.74,0:11:07.18,Main Dialog,Spoken,0000,0000,0000,,Glittering more than gold, \Nsparkling more than the sun,
+Dialogue: 0,0:11:07.18,0:11:10.06,Main Dialog,Spoken,0000,0000,0000,,silent torrent of fierce light,
+Dialogue: 0,0:11:10.06,0:11:11.65,Main Dialog,Spoken,0000,0000,0000,,now is the time to be unleashed!
+Dialogue: 0,0:11:11.65,0:11:13.02,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:11:16.18,0:11:19.02,Main Dialog,Spoken,0000,0000,0000,,When there are four or more \NJewel Knight rear-guards,
+Dialogue: 0,0:11:19.02,0:11:22.45,Main Dialog,Spoken,0000,0000,0000,,Salome gets +2000 power \Nand an extra critical!
+Dialogue: 0,0:11:22.81,0:11:25.66,Main Dialog,Spoken,0000,0000,0000,,A break ride, followed by a Limit Break!
+Dialogue: 0,0:11:25.66,0:11:27.70,Main Dialog,Spoken,0000,0000,0000,,Now Kourin will have a great victory!
+Dialogue: 0,0:11:28.25,0:11:32.96,Main Dialog,Spoken,0000,0000,0000,,I guard with Barking Dragon and \NSilver Thorn Juggler, Nadia!
+Dialogue: 0,0:11:33.64,0:11:36.18,Main Dialog,Spoken,0000,0000,0000,,Plus, I intercept with two Cerberus units!
+Dialogue: 0,0:11:37.22,0:11:39.02,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check!
+Dialogue: 0,0:11:40.08,0:11:41.47,Main Dialog,Spoken,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:11:42.08,0:11:45.72,Main Dialog,Spoken,0000,0000,0000,,I give +5000 power and the \Nextra critical to Ashlei!
+Dialogue: 0,0:11:52.80,0:11:57.32,Main Dialog,Spoken,0000,0000,0000,,She didn't just guard from her \Nhand...she also used both intercepts!
+Dialogue: 0,0:11:57.32,0:11:59.16,Main Dialog,Spoken,0000,0000,0000,,Still, this is a chance!
+Dialogue: 0,0:11:59.16,0:12:01.61,Main Dialog,Spoken,0000,0000,0000,,There's still Ashlei with 2 criticals!
+Dialogue: 0,0:12:02.12,0:12:04.87,Main Dialog,Spoken,0000,0000,0000,,Ashlei attacks with a boost from Shellie!
+Dialogue: 0,0:12:07.68,0:12:08.87,Main Dialog,Spoken,0000,0000,0000,,No guard.
+Dialogue: 0,0:12:10.28,0:12:11.87,Main Dialog,Spoken,0000,0000,0000,,It's decided.
+Dialogue: 0,0:12:16.33,0:12:18.52,Main Dialog,Spoken,0000,0000,0000,,5 damage! She's got her on the ropes!
+Dialogue: 0,0:12:18.52,0:12:20.01,Main Dialog,Spoken,0000,0000,0000,,Finish her off, Kourin!
+Dialogue: 0,0:12:21.74,0:12:24.01,Main Dialog,Spoken,0000,0000,0000,,I'm going to put everything \Ninto this one attack.
+Dialogue: 0,0:12:24.64,0:12:27.26,Main Dialog,Spoken,0000,0000,0000,,Tracie attacks with a boost from Toypugal!
+Dialogue: 0,0:12:27.90,0:12:29.01,Main Dialog,Spoken,0000,0000,0000,,Tracie's skill!
+Dialogue: 0,0:12:29.44,0:12:33.68,Main Dialog,Spoken,0000,0000,0000,,When she attacks, if there are three or more \Nrear-guards with "Jewel Knight" in the name,
+Dialogue: 0,0:12:33.68,0:12:35.27,Main Dialog,Spoken,0000,0000,0000,,she gets +3000 power!
+Dialogue: 0,0:12:39.27,0:12:40.65,Main Dialog,Spoken,0000,0000,0000,,I guard with Nadia and Glenn!
+Dialogue: 0,0:12:45.01,0:12:46.26,Main Dialog,Spoken,0000,0000,0000,,Turn end!
+Dialogue: 0,0:12:47.93,0:12:49.14,Main Dialog,Spoken,0000,0000,0000,,So close!
+Dialogue: 0,0:12:49.14,0:12:51.38,Main Dialog,Spoken,0000,0000,0000,,But her opponent doesn't have \Nany front-row rear-guards...
+Dialogue: 0,0:12:51.38,0:12:52.58,Main Dialog,Spoken,0000,0000,0000,,And only two cards in her hand...
+Dialogue: 0,0:12:52.58,0:12:54.69,Main Dialog,Spoken,0000,0000,0000,,Yeah. Then next turn...
+Dialogue: 0,0:12:54.69,0:12:56.82,Main Dialog,Spoken,0000,0000,0000,,She may be able to protect herself this turn!
+Dialogue: 0,0:12:56.82,0:12:57.54,Main Dialog,Spoken,0000,0000,0000,,Let's hope!
+Dialogue: 0,0:12:58.17,0:12:59.26,Main Dialog,Spoken,0000,0000,0000,,Kourin...
+Dialogue: 0,0:13:02.34,0:13:05.55,Main Dialog,Spoken,0000,0000,0000,,I'm definitely going to \Ndeliver victory to everyone.
+Dialogue: 0,0:13:09.78,0:13:12.92,Main Dialog,Spoken,0000,0000,0000,,Oh, dear. Do you still think you're winning?
+Dialogue: 0,0:13:12.92,0:13:16.69,Main Dialog,Spoken,0000,0000,0000,,How naive. Your loss is already a done deal.
+Dialogue: 0,0:13:18.90,0:13:19.96,Main Dialog,Spoken,0000,0000,0000,,Draw.
+Dialogue: 0,0:13:20.89,0:13:22.78,Main Dialog,Spoken,0000,0000,0000,,Okay, I'll show you...
+Dialogue: 0,0:13:22.78,0:13:24.93,Main Dialog,Spoken,0000,0000,0000,,...the final act with these two cards.
+Dialogue: 0,0:13:28.08,0:13:31.17,Main Dialog,Spoken,0000,0000,0000,,No matter how hard you struggle, it's \Na dream from which you can't wake up.
+Dialogue: 0,0:13:31.17,0:13:33.49,Main Dialog,Spoken,0000,0000,0000,,It's a dance of death that \Ncontinues for eternity.
+Dialogue: 0,0:13:34.54,0:13:36.75,Main Dialog,Spoken,0000,0000,0000,,Cry tears of blood and perish in obscurity!
+Dialogue: 0,0:13:36.75,0:13:38.10,Main Dialog,Spoken,0000,0000,0000,,Break ride!
+Dialogue: 0,0:13:40.18,0:13:42.28,Main Dialog,Spoken,0000,0000,0000,,Nightmare Doll, Chelsea!
+Dialogue: 0,0:13:44.58,0:13:48.09,Main Dialog,Spoken,0000,0000,0000,,+10000 is added to Chelsea's \Npower, and she gets a skill!
+Dialogue: 0,0:13:51.60,0:13:54.09,Main Dialog,Spoken,0000,0000,0000,,Break ride! But...
+Dialogue: 0,0:13:55.02,0:13:57.84,Main Dialog,Spoken,0000,0000,0000,,I call Silver Thorn Barking Dragon!
+Dialogue: 0,0:14:00.21,0:14:01.28,Main Dialog,Spoken,0000,0000,0000,,Here I go.
+Dialogue: 0,0:14:02.61,0:14:04.69,Main Dialog,Spoken,0000,0000,0000,,I'm going to protect myself, no matter what!
+Dialogue: 0,0:14:05.34,0:14:10.03,Main Dialog,Spoken,0000,0000,0000,,Barking Dragon attacks Tracie \Nwith a boost from Bicorn!
+Dialogue: 0,0:14:12.98,0:14:14.41,Main Dialog,Spoken,0000,0000,0000,,Chelsea attacks!
+Dialogue: 0,0:14:14.90,0:14:16.09,Main Dialog,Spoken,0000,0000,0000,,Break ride skill.
+Dialogue: 0,0:14:17.28,0:14:19.26,Main Dialog,Spoken,0000,0000,0000,,I put two rear-guards into the Soul.
+Dialogue: 0,0:14:19.26,0:14:22.67,Main Dialog,Spoken,0000,0000,0000,,Then I superior call two cards from \Nthe Soul, Nitro Juggler and Bicorn!
+Dialogue: 0,0:14:23.17,0:14:28.08,Main Dialog,Spoken,0000,0000,0000,,By switching with units that have already \Nattacked, she increases the number of attacks!
+Dialogue: 0,0:14:29.41,0:14:33.31,Main Dialog,Spoken,0000,0000,0000,,Perfect guard with Flashing \NJewel Knight, Iseult!
+Dialogue: 0,0:14:39.49,0:14:43.98,Main Dialog,Spoken,0000,0000,0000,,No trigger. If she can just protect \Nagainst the next attack...
+Dialogue: 0,0:14:44.52,0:14:46.21,Main Dialog,Spoken,0000,0000,0000,,Our victory...
+Dialogue: 0,0:14:46.94,0:14:49.58,Main Dialog,Spoken,0000,0000,0000,,It's fun watching you struggle in vain.
+Dialogue: 0,0:14:51.62,0:14:54.95,Main Dialog,Spoken,0000,0000,0000,,When you learn the true face behind the \Nmask, it's the time of destruction!
+Dialogue: 0,0:14:54.95,0:14:57.62,Main Dialog,Spoken,0000,0000,0000,,You should watch this, the last illusion!
+Dialogue: 0,0:14:58.12,0:14:59.70,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:15:00.41,0:15:01.46,Main Dialog,Spoken,0000,0000,0000,,Persona blast!
+Dialogue: 0,0:15:02.34,0:15:04.96,Main Dialog,Spoken,0000,0000,0000,,I superior call two Pale \NMoon units from the Soul.
+Dialogue: 0,0:15:05.38,0:15:07.09,Main Dialog,Spoken,0000,0000,0000,,Ava! Glenn!
+Dialogue: 0,0:15:07.64,0:15:10.84,Main Dialog,Spoken,0000,0000,0000,,On top of that, Glenn's skill! +3000 power!
+Dialogue: 0,0:15:12.13,0:15:13.08,Main Dialog,Spoken,0000,0000,0000,,The finale...
+Dialogue: 0,0:15:13.90,0:15:17.72,Main Dialog,Spoken,0000,0000,0000,,Her empty right line has been \Nfilled up with one stroke!
+Dialogue: 0,0:15:20.24,0:15:21.61,Main Dialog,Spoken,0000,0000,0000,,Those two units...
+Dialogue: 0,0:15:22.58,0:15:26.69,Main Dialog,Spoken,0000,0000,0000,,That's right. I held on to \Nthese units in order to win.
+Dialogue: 0,0:15:26.69,0:15:29.49,Main Dialog,Spoken,0000,0000,0000,,The star performers always appear at the end.
+Dialogue: 0,0:15:32.50,0:15:34.74,Main Dialog,Spoken,0000,0000,0000,,Ava attacks with a boost from Glenn.
+Dialogue: 0,0:15:37.17,0:15:38.38,Main Dialog,Spoken,0000,0000,0000,,I don't have enough...
+Dialogue: 0,0:15:39.42,0:15:40.50,Main Dialog,Spoken,0000,0000,0000,,No guard!
+Dialogue: 0,0:15:43.44,0:15:46.50,Main Dialog,Spoken,0000,0000,0000,,I'm not giving up! I can't afford to give up!
+Dialogue: 0,0:15:49.84,0:15:54.28,Main Dialog,Spoken,0000,0000,0000,,For the sake of my teammates, \Nwho believe in my victory...
+Dialogue: 0,0:16:01.17,0:16:02.71,Main Dialog,Spoken,0000,0000,0000,,Everything is riding on...
+Dialogue: 0,0:16:04.07,0:16:05.14,Main Dialog,Spoken,0000,0000,0000,,...this trigger!
+Dialogue: 0,0:16:14.22,0:16:15.62,Main Dialog,Spoken,0000,0000,0000,,The curtain drops.
+Dialogue: 0,0:16:16.84,0:16:18.74,Main Dialog,Spoken,0000,0000,0000,,Please come again.
+Dialogue: 0,0:16:29.96,0:16:35.01,Main Dialog,Spoken,0000,0000,0000,,This victory is proof \Nof my allegiance to Ren.
+Dialogue: 0,0:16:36.10,0:16:39.51,Main Dialog,Spoken,0000,0000,0000,,Fukuhara High School has \Nwon the second match!
+Dialogue: 0,0:16:40.18,0:16:43.09,Main Dialog,Spoken,0000,0000,0000,,And so, the final round of the VF High \NSchool Championship, Kanto Block 3,
+Dialogue: 0,0:16:43.09,0:16:47.02,Main Dialog,Spoken,0000,0000,0000,,will be decided by a third match!
+Dialogue: 0,0:16:47.50,0:16:49.89,Main Dialog,Spoken,0000,0000,0000,,I'm sorry, Kourin!
+Dialogue: 0,0:16:49.89,0:16:53.01,Main Dialog,Spoken,0000,0000,0000,,My cheering wasn't powerful enough...
+Dialogue: 0,0:16:55.70,0:16:59.53,Main Dialog,Spoken,0000,0000,0000,,Kourin, thank you for moving me!
+Dialogue: 0,0:17:03.45,0:17:05.76,Main Dialog,Spoken,0000,0000,0000,,You've changed, Kourin...
+Dialogue: 0,0:17:06.70,0:17:10.48,Main Dialog,Spoken,0000,0000,0000,,Ren, I won, as promised.
+Dialogue: 0,0:17:18.80,0:17:19.93,Main Dialog,Spoken,0000,0000,0000,,Ren!
+Dialogue: 0,0:17:23.72,0:17:27.49,Main Dialog,Spoken,0000,0000,0000,,I thought she would win. Right, Ren?
+Dialogue: 0,0:17:27.49,0:17:28.69,Main Dialog,Spoken,0000,0000,0000,,Yep.
+Dialogue: 0,0:17:32.64,0:17:34.16,Main Dialog,Spoken,0000,0000,0000,,Thank you, Asaka.
+Dialogue: 0,0:17:43.57,0:17:45.54,Main Dialog,Spoken,0000,0000,0000,,I'm sorry, everyone...
+Dialogue: 0,0:17:46.25,0:17:48.26,Main Dialog,Spoken,0000,0000,0000,,Don't act like such a stiff.
+Dialogue: 0,0:17:49.21,0:17:51.97,Main Dialog,Spoken,0000,0000,0000,,All you did was lose once!
+Dialogue: 0,0:17:51.97,0:17:54.67,Main Dialog,Spoken,0000,0000,0000,,We're all fighting together \Nhere. It's a team competition.
+Dialogue: 0,0:17:55.10,0:17:57.36,Main Dialog,Spoken,0000,0000,0000,,So we'll win it back \Ntogether in the next match.
+Dialogue: 0,0:17:58.02,0:17:58.93,Main Dialog,Spoken,0000,0000,0000,,Besides...
+Dialogue: 0,0:17:59.37,0:18:00.82,Main Dialog,Spoken,0000,0000,0000,,...it was a good fight.
+Dialogue: 0,0:18:00.82,0:18:02.82,Main Dialog,Spoken,0000,0000,0000,,Your feelings came through.
+Dialogue: 0,0:18:02.82,0:18:06.68,Main Dialog,Spoken,0000,0000,0000,,If anyone criticized you for a fight \Nlike that, they'd have to answer to me!
+Dialogue: 0,0:18:07.08,0:18:09.19,Main Dialog,Spoken,0000,0000,0000,,Scary... Th-That's right!
+Dialogue: 0,0:18:12.82,0:18:14.19,Main Dialog,Spoken,0000,0000,0000,,I'll win it.
+Dialogue: 0,0:18:14.57,0:18:15.74,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:18:18.62,0:18:21.70,Main Dialog,Spoken,0000,0000,0000,,With the feelings that Naoki, Kourin...
+Dialogue: 0,0:18:22.14,0:18:26.20,Main Dialog,Spoken,0000,0000,0000,,...Misaki and Shingo have passed on...
+Dialogue: 0,0:18:26.96,0:18:28.22,Main Dialog,Spoken,0000,0000,0000,,...I'm going to win!
+Dialogue: 0,0:18:28.22,0:18:30.38,Main Dialog,Spoken,0000,0000,0000,,Let's go to the High School Championship.
+Dialogue: 0,0:18:30.38,0:18:33.21,Main Dialog,Spoken,0000,0000,0000,,We're going to fight together.
+Dialogue: 0,0:18:33.64,0:18:34.80,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:18:36.10,0:18:38.17,Main Dialog,Spoken,0000,0000,0000,,I'm countin' on you, Aichi!
+Dialogue: 0,0:18:38.17,0:18:39.16,Main Dialog,Spoken,0000,0000,0000,,Aichi!
+Dialogue: 0,0:18:39.16,0:18:40.22,Main Dialog,Spoken,0000,0000,0000,,Sendou!
+Dialogue: 0,0:18:46.47,0:18:49.98,Signs,Sign,0000,0000,0000,,Kanto Block 3\NFinal Round
+Dialogue: 0,0:18:50.36,0:18:52.98,Main Dialog,Spoken,0000,0000,0000,,All right, the fateful third match!
+Dialogue: 0,0:18:53.42,0:18:57.84,Main Dialog,Spoken,0000,0000,0000,,From Miyaji Academy, a member of Team Q4,
+Dialogue: 0,0:18:57.84,0:19:01.80,Main Dialog,Spoken,0000,0000,0000,,which won the previous national Vanguard \Ntournament as well as the Asia Circuit...
+Dialogue: 0,0:19:01.80,0:19:03.53,Main Dialog,Spoken,0000,0000,0000,,Aichi Sendou!
+Dialogue: 0,0:19:04.45,0:19:06.53,Main Dialog,Spoken,0000,0000,0000,,And his opponent, from Fukuhara High School,
+Dialogue: 0,0:19:06.53,0:19:10.44,Main Dialog,Spoken,0000,0000,0000,,the man who led AL4, the \Npinnacle of Team Asteroid,
+Dialogue: 0,0:19:10.44,0:19:15.42,Main Dialog,Spoken,0000,0000,0000,,to two national tournament victories \Nin a row, Ren Suzugamori!
+Dialogue: 0,0:19:16.09,0:19:17.84,Main Dialog,Spoken,0000,0000,0000,,Both of them have triumphed \Nat the national tournament,
+Dialogue: 0,0:19:17.84,0:19:20.21,Main Dialog,Spoken,0000,0000,0000,,and now they clash here at \Nthe local elimination round!
+Dialogue: 0,0:19:20.21,0:19:22.65,Main Dialog,Spoken,0000,0000,0000,,It's not an overstatement to \Ncall this a duel that'll decide
+Dialogue: 0,0:19:22.65,0:19:25.49,Main Dialog,Spoken,0000,0000,0000,,who the strongest fighter is!
+Dialogue: 0,0:19:26.13,0:19:27.48,Main Dialog,Spoken,0000,0000,0000,,I'm going to win.
+Dialogue: 0,0:19:27.48,0:19:29.93,Main Dialog,Spoken,0000,0000,0000,,And then we'll all go to the High \NSchool Championship together.
+Dialogue: 0,0:19:40.44,0:19:42.36,Main Dialog,Spoken,0000,0000,0000,,What power...
+Dialogue: 0,0:19:43.14,0:19:46.93,Main Dialog,Spoken,0000,0000,0000,,Only we know Ren when he's in that mode.
+Dialogue: 0,0:19:46.93,0:19:50.20,Main Dialog,Spoken,0000,0000,0000,,With apologies to the excited \NAichi and his teammates,
+Dialogue: 0,0:19:50.20,0:19:52.12,Main Dialog,Spoken,0000,0000,0000,,they don't have a chance against him today.
+Dialogue: 0,0:19:52.98,0:19:55.38,Main Dialog,Spoken,0000,0000,0000,,They'll find out about \Nthe true Ren soon enough.
+Dialogue: 0,0:19:57.69,0:20:00.51,Main Dialog,Spoken,0000,0000,0000,,But... I can't lose!
+Dialogue: 0,0:20:03.74,0:20:07.13,Main Dialog,Spoken,0000,0000,0000,,I'm totally tense! I'm even trembling!
+Dialogue: 0,0:20:08.20,0:20:11.18,Main Dialog,Spoken,0000,0000,0000,,But I wanted to see you standing there.
+Dialogue: 0,0:20:15.30,0:20:18.00,Main Dialog,Spoken,0000,0000,0000,,Here it is! Brother Aichi's turn!
+Dialogue: 0,0:20:18.00,0:20:20.65,Main Dialog,Spoken,0000,0000,0000,,Please win, Brother!
+Dialogue: 0,0:20:26.46,0:20:27.90,Main Dialog,Spoken,0000,0000,0000,,Like it or not, this is the final showdown,
+Dialogue: 0,0:20:27.90,0:20:32.12,Main Dialog,Spoken,0000,0000,0000,,and only the winning side gets to \Ngo to the High School Championship!
+Dialogue: 0,0:20:32.90,0:20:35.46,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:20:32.90,0:20:35.46,Main Dialog,Spoken,0000,0000,0000,,Stand up the Vanguard!
+Dialogue: 0,0:20:38.96,0:20:40.58,Main Dialog,Spoken,0000,0000,0000,,Wingal Liberator!
+Dialogue: 0,0:20:41.93,0:20:44.30,Main Dialog,Spoken,0000,0000,0000,,Harbinger Revenger, Claudus!
+Dialogue: 0,0:20:47.82,0:20:48.55,Main Dialog,Spoken,0000,0000,0000,,Draw!
+Dialogue: 0,0:20:50.18,0:20:53.35,Main Dialog,Spoken,0000,0000,0000,,I ride Little Liberator, Marron!
+Dialogue: 0,0:20:57.00,0:20:58.36,Main Dialog,Spoken,0000,0000,0000,,Wingal moves back!
+Dialogue: 0,0:20:58.84,0:21:02.49,Main Dialog,Spoken,0000,0000,0000,,I ride Sacrilege Revenger, Berith!
+Dialogue: 0,0:21:04.46,0:21:05.99,Main Dialog,Spoken,0000,0000,0000,,Claudus moves!
+Dialogue: 0,0:21:08.86,0:21:12.91,Main Dialog,Spoken,0000,0000,0000,,We formed this club together from nothing.
+Dialogue: 0,0:21:11.58,0:21:12.91,Signs,Sign,0000,0000,0000,,Cardfight Club
+Dialogue: 0,0:21:13.22,0:21:15.75,Main Dialog,Spoken,0000,0000,0000,,They all helped me, too.
+Dialogue: 0,0:21:15.75,0:21:20.30,Main Dialog,Spoken,0000,0000,0000,,Kourin... Naoki... Misaki... Shingo...
+Dialogue: 0,0:21:21.26,0:21:25.36,Main Dialog,Spoken,0000,0000,0000,,The way I can express my \Ngratitude is by winning here.
+Dialogue: 0,0:21:26.45,0:21:31.64,Main Dialog,Spoken,0000,0000,0000,,I started the Cardfight Club, and now \NI have to take responsibility and win!
+Dialogue: 0,0:21:33.02,0:21:36.46,Main Dialog,Spoken,0000,0000,0000,,Stand up, my... no, {\i1}our{\i0} avatar!
+Dialogue: 0,0:21:36.98,0:21:40.23,Main Dialog,Spoken,0000,0000,0000,,I ride Blaster Blade Liberator!
+Dialogue: 0,0:21:48.80,0:21:55.56,Main Dialog,Spoken,0000,0000,0000,,Aichi, you get stronger at a speed \Nthat stuns everyone around you.
+Dialogue: 0,0:21:55.56,0:21:59.97,Main Dialog,Spoken,0000,0000,0000,,That's exactly why I wanted \Nto fight seriously with you.
+Dialogue: 0,0:22:00.48,0:22:03.50,Main Dialog,Spoken,0000,0000,0000,,And... I'm going to win!
+Dialogue: 0,0:22:05.37,0:22:07.09,Main Dialog,Spoken,0000,0000,0000,,Envelop everything in darkness, my avatar!
+Dialogue: 0,0:22:07.55,0:22:10.26,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:22:13.77,0:22:16.27,Main Dialog,Spoken,0000,0000,0000,,...Blaster Dark Revenger!
+Dialogue: 0,0:23:56.29,0:23:57.95,Main Dialog,Spoken,0000,0000,0000,,It's too bad that Kourin didn't win...
+Dialogue: 0,0:23:58.22,0:24:01.48,Main Dialog,,0000,0000,0000,,Their ability is about the same. After \Nthat, it's just luck of the draw.
+Dialogue: 0,0:24:01.48,0:24:03.88,Main Dialog,Spoken,0000,0000,0000,,That's right! Let's put it behind us and...
+Dialogue: 0,0:24:03.88,0:24:06.30,Main Dialog,Spoken,0000,0000,0000,,Sendou, do your best!
+Dialogue: 0,0:24:06.30,0:24:08.48,Main Dialog,,0000,0000,0000,,Ren has Shadow Paladin.
+Dialogue: 0,0:24:08.48,0:24:10.76,Main Dialog,,0000,0000,0000,,I've got to be more careful \Nthan ever before...
+Dialogue: 0,0:24:11.28,0:24:13.89,Main Dialog,Spoken,0000,0000,0000,,Next time: Showdown at the Summit!
+Dialogue: 0,0:24:13.89,0:24:16.89,Main Dialog,,0000,0000,0000,,I'm going to aim for victory, for the \Nsake of the friends that fight beside me!
+Dialogue: 0,0:24:16.89,0:24:20.36,Main Dialog,,0000,0000,0000,,It wouldn't be strange if this fight was the \Nfinal one at the High School Championship!
+Dialogue: 0,0:24:20.36,0:24:24.09,Main Dialog,,0000,0000,0000,,Yeah. Talk about being \Non the edge of your seat!

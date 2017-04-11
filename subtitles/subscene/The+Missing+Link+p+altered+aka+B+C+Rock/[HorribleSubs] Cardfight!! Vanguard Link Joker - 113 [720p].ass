@@ -1,0 +1,375 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.18,0:00:04.65,Signs,Sign,0000,0000,0000,,Physics Prep Room\NCardfight Club {\s1}(tentative){\s0}
+Dialogue: 0,0:00:02.33,0:00:04.65,Main Dialog,Spoken,0000,0000,0000,,Starting today, we're an official club!
+Dialogue: 0,0:00:06.92,0:00:09.73,Main Dialog,Spoken,0000,0000,0000,,The Vanguard club I've always dreamed of!
+Dialogue: 0,0:00:09.73,0:00:14.41,Main Dialog,Spoken,0000,0000,0000,,My high school life is smooth \Nsailing! Spring in full bloom!
+Dialogue: 0,0:00:14.77,0:00:19.58,Main Dialog,Spoken,0000,0000,0000,,You're seein' the world through rose-colored \Nglasses! Although I feel the same way...
+Dialogue: 0,0:00:19.58,0:00:23.37,Main Dialog,Spoken,0000,0000,0000,,No, no! Someone with a twisted personality \Nlike you can't say stuff like that, Ishida.
+Dialogue: 0,0:00:24.57,0:00:27.98,Main Dialog,Spoken,0000,0000,0000,,Have you ever heard the expression \N"Inscrutable are the ways of heaven"?
+Dialogue: 0,0:00:27.98,0:00:31.97,Main Dialog,Spoken,0000,0000,0000,,Don't make like I'm an idiot! It means you \Nnever know what life's gonna throw at you, right?
+Dialogue: 0,0:00:31.97,0:00:36.28,Main Dialog,Spoken,0000,0000,0000,,For you Ishida, it'd be more appropriate to say,\N "Lights are usually followed by shadows."
+Dialogue: 0,0:00:36.28,0:00:39.64,Main Dialog,Spoken,0000,0000,0000,,What's that?! What are \Nyou tryin' to say, jerk?!
+Dialogue: 0,0:00:39.98,0:00:42.78,Main Dialog,Spoken,0000,0000,0000,,Huh? I'm here last...
+Dialogue: 0,0:00:40.22,0:00:42.78,Main Dialog,Spoken,0000,0000,0000,,Didn't you hear me?
+Dialogue: 0,0:00:42.78,0:00:46.97,Main Dialog,Spoken,0000,0000,0000,,Um... well, shall we begin club activities?
+Dialogue: 0,0:00:46.97,0:00:47.56,Main Dialog,Spoken,0000,0000,0000,,Yes!
+Dialogue: 0,0:00:48.17,0:00:49.70,Main Dialog,Spoken,0000,0000,0000,,I'm totally ready!
+Dialogue: 0,0:00:49.70,0:00:51.32,Main Dialog,Spoken,0000,0000,0000,,I'm thoroughly prepared!
+Dialogue: 0,0:00:51.80,0:00:55.76,Main Dialog,Spoken,0000,0000,0000,,Um, actually...
+Dialogue: 0,0:00:55.76,0:00:58.82,Main Dialog,Spoken,0000,0000,0000,,Before you play cards, there's \Nsomething I'd like to do...
+Dialogue: 0,0:01:00.08,0:01:01.33,Main Dialog,Spoken,0000,0000,0000,,What is it?
+Dialogue: 0,0:01:01.68,0:01:06.08,Main Dialog,Spoken,0000,0000,0000,,The Student Council told me to have you \Ndecide your club's captain and vice-captain.
+Dialogue: 0,0:01:06.42,0:01:09.28,Main Dialog,Spoken,0000,0000,0000,,So let's talk about that today.
+Dialogue: 0,0:02:44.01,0:02:48.52,Signs,Sign,0000,0000,0000,,Who should be the captain and \Nvice-captain of the Cardfight Club?
+Dialogue: 0,0:02:49.01,0:02:49.88,Main Dialog,Spoken,0000,0000,0000,,Captain...
+Dialogue: 0,0:02:49.88,0:02:51.01,Main Dialog,Spoken,0000,0000,0000,,Vice-captain...
+Dialogue: 0,0:02:51.16,0:02:53.40,Main Dialog,Spoken,0000,0000,0000,,I see... I guess it is necessary, huh?
+Dialogue: 0,0:02:54.46,0:02:57.40,Main Dialog,Spoken,0000,0000,0000,,What the hey? Aren't we gonna fight?
+Dialogue: 0,0:02:57.82,0:03:03.16,Main Dialog,Spoken,0000,0000,0000,,Well, there need to be two people \Npresent at Student Council meetings,
+Dialogue: 0,0:03:03.61,0:03:07.41,Main Dialog,Spoken,0000,0000,0000,,and there are a lot of other things that needs to be done by two people ...
+Dialogue: 0,0:03:08.02,0:03:10.80,Main Dialog,Spoken,0000,0000,0000,,This club only has five \Nmembers at the moment,
+Dialogue: 0,0:03:10.80,0:03:16.40,Main Dialog,Spoken,0000,0000,0000,,so voting for two of you wouldn't \Nbe too complicated, I think...
+Dialogue: 0,0:03:17.61,0:03:20.80,Main Dialog,Spoken,0000,0000,0000,,Um, okay... Sendou...
+Dialogue: 0,0:03:21.44,0:03:22.29,Main Dialog,Spoken,0000,0000,0000,,Yes?
+Dialogue: 0,0:03:23.13,0:03:29.06,Main Dialog,Spoken,0000,0000,0000,,You formed this club, so why \Ndon't you become the captain?
+Dialogue: 0,0:03:30.37,0:03:32.94,Main Dialog,Spoken,0000,0000,0000,,M-Me, be captain?!
+Dialogue: 0,0:03:32.94,0:03:36.89,Main Dialog,Spoken,0000,0000,0000,,But, see, I've never been a captain before...
+Dialogue: 0,0:03:37.36,0:03:41.57,Main Dialog,Spoken,0000,0000,0000,,And I don't have any experience as a class \Nrepresentative or as a leader in anything either...
+Dialogue: 0,0:03:41.85,0:03:42.82,Main Dialog,Spoken,0000,0000,0000,,So I can't do it!
+Dialogue: 0,0:03:43.25,0:03:45.32,Main Dialog,Spoken,0000,0000,0000,,What are you talking about, Sendou?
+Dialogue: 0,0:03:45.68,0:03:48.58,Main Dialog,Spoken,0000,0000,0000,,That's right! You're the one who led Q4.
+Dialogue: 0,0:03:48.98,0:03:49.95,Main Dialog,Spoken,0000,0000,0000,,But...
+Dialogue: 0,0:03:50.22,0:03:52.96,Main Dialog,Spoken,0000,0000,0000,,Quit going on and on and just do it!
+Dialogue: 0,0:03:54.12,0:03:55.85,Main Dialog,Spoken,0000,0000,0000,,Exactly. Do it!
+Dialogue: 0,0:03:55.85,0:03:57.46,Main Dialog,Spoken,0000,0000,0000,,Um...
+Dialogue: 0,0:04:01.38,0:04:05.01,Main Dialog,Spoken,0000,0000,0000,,A-All right. I'll be the captain.
+Dialogue: 0,0:04:05.01,0:04:06.72,Main Dialog,Spoken,0000,0000,0000,,I'm looking forward to working with you!
+Dialogue: 0,0:04:13.23,0:04:18.23,Signs,Sign,0000,0000,0000,,Who's the Vice-Captain?!
+Dialogue: 0,0:04:19.45,0:04:21.74,Main Dialog,Spoken,0000,0000,0000,,So about the vice-captain...
+Dialogue: 0,0:04:22.20,0:04:24.49,Main Dialog,Spoken,0000,0000,0000,,Does anyone want to do it?
+Dialogue: 0,0:04:24.78,0:04:27.37,Main Dialog,Spoken,0000,0000,0000,,Yes! I want to do it!
+Dialogue: 0,0:04:27.72,0:04:30.62,Main Dialog,Spoken,0000,0000,0000,,Um, Shingo Komoi...
+Dialogue: 0,0:04:31.20,0:04:33.62,Main Dialog,Spoken,0000,0000,0000,,If I become the vice-captain, \NI'll get started right away
+Dialogue: 0,0:04:34.16,0:04:38.02,Main Dialog,Spoken,0000,0000,0000,,on making the Cardfight Club \NMiyaji Academy's shining star.
+Dialogue: 0,0:04:38.02,0:04:40.30,Main Dialog,Spoken,0000,0000,0000,,First, I'll build up the \Nnumber of club members,
+Dialogue: 0,0:04:40.30,0:04:42.30,Main Dialog,Spoken,0000,0000,0000,,with this month's target being one hundred!
+Dialogue: 0,0:04:42.30,0:04:46.01,Main Dialog,Spoken,0000,0000,0000,,Then I'll establish Cardfight Clubs in the \Nmiddle school and elementary divisions,
+Dialogue: 0,0:04:46.01,0:04:48.39,Main Dialog,Spoken,0000,0000,0000,,to raise Miyaji's future fighters.
+Dialogue: 0,0:04:48.89,0:04:52.65,Main Dialog,Spoken,0000,0000,0000,,Further, we will spread beyond Miyaji \Ninto community-based club activities,
+Dialogue: 0,0:04:52.65,0:04:55.53,Main Dialog,Spoken,0000,0000,0000,,accepting locals into our club, and \Neventually people from all over the country!
+Dialogue: 0,0:04:55.53,0:05:01.40,Main Dialog,Spoken,0000,0000,0000,,Ultimately, the Miyaji Academy Cardfight \NClub will have links worldwide,
+Dialogue: 0,0:05:01.85,0:05:06.16,Main Dialog,Spoken,0000,0000,0000,,and make every effort \Nto bring about world peace!
+Dialogue: 0,0:05:06.30,0:05:07.37,Main Dialog,Spoken,0000,0000,0000,,That's all!
+Dialogue: 0,0:05:09.80,0:05:12.24,Main Dialog,Spoken,0000,0000,0000,,I-Is anyone else interested?
+Dialogue: 0,0:05:12.92,0:05:15.75,Main Dialog,Spoken,0000,0000,0000,,I got no interest in bein' \Nvice-captain or whatever...
+Dialogue: 0,0:05:16.18,0:05:19.16,Main Dialog,Spoken,0000,0000,0000,,Why not let the person \Nwho wants to do it do it?
+Dialogue: 0,0:05:19.16,0:05:19.88,Main Dialog,Spoken,0000,0000,0000,,Agreed.
+Dialogue: 0,0:05:20.72,0:05:21.48,Main Dialog,Spoken,0000,0000,0000,,Yes!
+Dialogue: 0,0:05:23.30,0:05:28.49,Main Dialog,Spoken,0000,0000,0000,,I don't know... Why don't we \Nall sleep on it overnight?
+Dialogue: 0,0:05:28.49,0:05:31.14,Main Dialog,Spoken,0000,0000,0000,,We'll decide tomorrow.
+Dialogue: 0,0:05:32.60,0:05:33.45,Main Dialog,Spoken,0000,0000,0000,,Whatever...
+Dialogue: 0,0:05:34.25,0:05:35.70,Main Dialog,Spoken,0000,0000,0000,,Guess it can't be helped...
+Dialogue: 0,0:05:35.70,0:05:36.52,Main Dialog,Spoken,0000,0000,0000,,Guess not.
+Dialogue: 0,0:05:43.00,0:05:45.74,Main Dialog,Spoken,0000,0000,0000,,Magatsu Storm attacks!
+Dialogue: 0,0:05:46.88,0:05:49.11,Main Dialog,Spoken,0000,0000,0000,,I guard with these two!
+Dialogue: 0,0:05:49.68,0:05:53.46,Main Dialog,Spoken,0000,0000,0000,,Can you successfully guard \Nwith 18000 against 20000?
+Dialogue: 0,0:05:54.18,0:05:57.38,Main Dialog,Spoken,0000,0000,0000,,Shoot! All this hassle \Nabout the vice-captain...
+Dialogue: 0,0:05:57.38,0:05:59.63,Main Dialog,Spoken,0000,0000,0000,,He should've just decided on you!
+Dialogue: 0,0:05:59.88,0:06:01.26,Main Dialog,Spoken,0000,0000,0000,,Tell me about it!
+Dialogue: 0,0:06:01.26,0:06:04.64,Main Dialog,Spoken,0000,0000,0000,,Do you know how long I've dreamed \Nof being in a Vanguard club?
+Dialogue: 0,0:06:04.64,0:06:08.32,Main Dialog,Spoken,0000,0000,0000,,No one wants to improve \Nthis club more than me,
+Dialogue: 0,0:06:08.32,0:06:11.52,Main Dialog,Spoken,0000,0000,0000,,and if it's left to me, \Neverything will go well!
+Dialogue: 0,0:06:11.52,0:06:14.39,Main Dialog,Spoken,0000,0000,0000,,So I'm going to announce \Nmy candidacy tomorrow, too!
+Dialogue: 0,0:06:15.02,0:06:17.84,Main Dialog,Spoken,0000,0000,0000,,Y-Yeah. Good luck.
+Dialogue: 0,0:06:18.77,0:06:21.73,Signs,Sign,0000,0000,0000,,Miyaji Academy, High School Division
+Dialogue: 0,0:06:22.40,0:06:24.48,Main Dialog,Spoken,0000,0000,0000,,Sorry, Misaki!
+Dialogue: 0,0:06:24.84,0:06:26.50,Main Dialog,Spoken,0000,0000,0000,,I was on duty and it looked like \NI was almost finished with work,
+Dialogue: 0,0:06:26.50,0:06:28.58,Main Dialog,Spoken,0000,0000,0000,,but then more and more came up...
+Dialogue: 0,0:06:29.73,0:06:30.97,Main Dialog,Spoken,0000,0000,0000,,Good job.
+Dialogue: 0,0:06:31.58,0:06:33.37,Main Dialog,Spoken,0000,0000,0000,,Didn't you have your club today?
+Dialogue: 0,0:06:33.89,0:06:37.04,Main Dialog,Spoken,0000,0000,0000,,All we did was talk about deciding \Non the captain and vice-captain.
+Dialogue: 0,0:06:37.04,0:06:40.57,Main Dialog,Spoken,0000,0000,0000,,Huh... Maybe you're the captain, Misaki?
+Dialogue: 0,0:06:40.57,0:06:43.35,Main Dialog,Spoken,0000,0000,0000,,Yeah, right! Aichi's the captain.
+Dialogue: 0,0:06:43.96,0:06:47.45,Main Dialog,Spoken,0000,0000,0000,,Oh, yeah. He is the one \Nthat formed the club, huh?
+Dialogue: 0,0:06:47.45,0:06:49.76,Main Dialog,Spoken,0000,0000,0000,,Then you're the vice-captain, right?
+Dialogue: 0,0:06:50.22,0:06:51.01,Main Dialog,Spoken,0000,0000,0000,,Why?
+Dialogue: 0,0:06:51.01,0:06:55.08,Main Dialog,Spoken,0000,0000,0000,,You're an upperclassman, so you don't want\Na first-year student running the show.
+Dialogue: 0,0:06:55.08,0:06:56.27,Main Dialog,Spoken,0000,0000,0000,,Oh, I don't care...
+Dialogue: 0,0:06:56.65,0:07:01.32,Main Dialog,Spoken,0000,0000,0000,,Well, you should! Besides, the captain \Nand vice-captain are both leaders,
+Dialogue: 0,0:07:01.32,0:07:03.27,Main Dialog,Spoken,0000,0000,0000,,so you'd share a special feeling, you know?
+Dialogue: 0,0:07:03.82,0:07:05.01,Main Dialog,Spoken,0000,0000,0000,,With those two in charge,
+Dialogue: 0,0:07:05.01,0:07:08.28,Main Dialog,Spoken,0000,0000,0000,,even if you shared your opinion, they'd \Ntreat you like you were a pain in the neck!
+Dialogue: 0,0:07:08.56,0:07:09.99,Main Dialog,Spoken,0000,0000,0000,,Scary!
+Dialogue: 0,0:07:10.30,0:07:12.49,Main Dialog,Spoken,0000,0000,0000,,So to keep that from happening, too, get it?!
+Dialogue: 0,0:07:13.12,0:07:14.72,Main Dialog,Spoken,0000,0000,0000,,You worry too much...
+Dialogue: 0,0:07:16.42,0:07:18.81,Main Dialog,Spoken,0000,0000,0000,,Oh, Akari, welcome!
+Dialogue: 0,0:07:18.81,0:07:22.32,Main Dialog,Spoken,0000,0000,0000,,Hello! You're carrying \Naround big old boxes again.
+Dialogue: 0,0:07:22.32,0:07:23.38,Main Dialog,Spoken,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:07:24.08,0:07:28.38,Main Dialog,Spoken,0000,0000,0000,,I can handle this much, but \NI appreciate your concern.
+Dialogue: 0,0:07:29.02,0:07:32.26,Main Dialog,Spoken,0000,0000,0000,,I think you're overdoing it, \Nespecially for somebody your age...
+Dialogue: 0,0:07:32.76,0:07:36.39,Signs,Sign,0000,0000,0000,,{\pos(54,70)}not young
+Dialogue: 0,0:07:32.76,0:07:36.39,Signs,Sign,0000,0000,0000,,{\pos(571,231)}pops
+Dialogue: 0,0:07:33.37,0:07:36.39,Signs,Sign,0000,0000,0000,,{\pos(142,298)}old man
+Dialogue: 0,0:07:33.37,0:07:36.39,Signs,Sign,0000,0000,0000,,{\pos(499,32)}geezer
+Dialogue: 0,0:07:33.54,0:07:35.90,Main Dialog,Spoken,0000,0000,0000,,What did you just say?!
+Dialogue: 0,0:07:34.44,0:07:36.39,Signs,Sign,0000,0000,0000,,{\pos(472,305)}old man
+Dialogue: 0,0:07:35.22,0:07:36.39,Signs,Sign,0000,0000,0000,,{\pos(183,48)}your age
+Dialogue: 0,0:07:39.05,0:07:40.64,Main Dialog,Spoken,0000,0000,0000,,Manager!
+Dialogue: 0,0:07:40.89,0:07:42.16,Main Dialog,Spoken,0000,0000,0000,,How have you been?
+Dialogue: 0,0:07:42.93,0:07:44.32,Main Dialog,Spoken,0000,0000,0000,,Cute!
+Dialogue: 0,0:07:47.52,0:07:49.44,Main Dialog,Spoken,0000,0000,0000,,That tickles!
+Dialogue: 0,0:07:50.56,0:07:51.61,Main Dialog,Spoken,0000,0000,0000,,What's with him?
+Dialogue: 0,0:07:51.93,0:07:52.94,Main Dialog,Spoken,0000,0000,0000,,You got me.
+Dialogue: 0,0:07:52.94,0:07:55.52,Main Dialog,Spoken,0000,0000,0000,,I wonder what's wrong with Shin...
+Dialogue: 0,0:07:56.56,0:08:00.04,Main Dialog,Spoken,0000,0000,0000,,Misaki, think about what I said before.
+Dialogue: 0,0:08:00.04,0:08:01.16,Main Dialog,Spoken,0000,0000,0000,,Yeah, yeah...
+Dialogue: 0,0:08:08.40,0:08:09.46,Main Dialog,Spoken,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:08:11.28,0:08:14.84,Main Dialog,Spoken,0000,0000,0000,,I've counted twenty sighs \Ncoming from you today.
+Dialogue: 0,0:08:15.42,0:08:16.50,Main Dialog,Spoken,0000,0000,0000,,You haven't changed out of your uniform
+Dialogue: 0,0:08:16.50,0:08:18.70,Main Dialog,Spoken,0000,0000,0000,,and you've been on the same page \Nof that magazine forever...
+Dialogue: 0,0:08:20.84,0:08:22.85,Main Dialog,Spoken,0000,0000,0000,,Did something happen at school?
+Dialogue: 0,0:08:23.68,0:08:25.61,Main Dialog,Spoken,0000,0000,0000,,Just at the club...
+Dialogue: 0,0:08:28.94,0:08:31.18,Main Dialog,Spoken,0000,0000,0000,,That makes twenty-one.
+Dialogue: 0,0:08:32.89,0:08:34.74,Main Dialog,Spoken,0000,0000,0000,,So what happened at your club?
+Dialogue: 0,0:08:35.73,0:08:38.84,Main Dialog,Spoken,0000,0000,0000,,Our faculty advisor said we're \Ngoing to decide on the vice-captain,
+Dialogue: 0,0:08:38.84,0:08:41.98,Main Dialog,Spoken,0000,0000,0000,,so tonight, he wants us to think over \Nwhether we want to do it or not.
+Dialogue: 0,0:08:41.98,0:08:44.76,Main Dialog,Spoken,0000,0000,0000,,Aichi's been chosen as the captain...
+Dialogue: 0,0:08:44.76,0:08:48.25,Main Dialog,Spoken,0000,0000,0000,,...but to be honest, I have no idea \Nwhat a vice-captain even does...
+Dialogue: 0,0:08:50.21,0:08:52.51,Main Dialog,Spoken,0000,0000,0000,,Then why don't you give it a try?
+Dialogue: 0,0:08:53.89,0:08:58.46,Main Dialog,Spoken,0000,0000,0000,,You've never done it before, so of course \Nyou don't know what it entails.
+Dialogue: 0,0:08:58.46,0:09:00.06,Main Dialog,Spoken,0000,0000,0000,,That's why you should give it a shot.
+Dialogue: 0,0:09:00.66,0:09:04.81,Main Dialog,Spoken,0000,0000,0000,,Besides, it would let you spend more \Ntime with Aichi, and that'd be fun!
+Dialogue: 0,0:09:06.20,0:09:07.56,Main Dialog,Spoken,0000,0000,0000,,That last part was uncalled-for!
+Dialogue: 0,0:09:08.04,0:09:08.81,Main Dialog,Spoken,0000,0000,0000,,I'm going to bed.
+Dialogue: 0,0:09:26.26,0:09:27.20,Main Dialog,Spoken,0000,0000,0000,,Alright!
+Dialogue: 0,0:09:31.10,0:09:32.63,Main Dialog,Spoken,0000,0000,0000,,Mornin'!
+Dialogue: 0,0:09:33.13,0:09:34.88,Main Dialog,Spoken,0000,0000,0000,,Morning, Naoki!
+Dialogue: 0,0:09:35.64,0:09:39.14,Main Dialog,Spoken,0000,0000,0000,,Yeah, mornin'! Let's make \Nit another great day!
+Dialogue: 0,0:09:39.14,0:09:42.89,Main Dialog,Spoken,0000,0000,0000,,If you try, you can make it happen. \NIf you don't try, nothin' happens, am I right?
+Dialogue: 0,0:09:43.33,0:09:45.02,Main Dialog,Spoken,0000,0000,0000,,Uh... Yeah...
+Dialogue: 0,0:09:48.65,0:09:52.90,Signs,Sign,0000,0000,0000,,Physics Prep Room\NCardfight Club {\s1}(tentative){\s0}
+Dialogue: 0,0:09:49.82,0:09:52.90,Main Dialog,Spoken,0000,0000,0000,,Well, everyone, did you give it some thought?
+Dialogue: 0,0:09:59.96,0:10:03.04,Main Dialog,Spoken,0000,0000,0000,,So who would like to be the vice-captain?
+Dialogue: 0,0:10:13.89,0:10:15.60,Main Dialog,Spoken,0000,0000,0000,,Wonderful!
+Dialogue: 0,0:10:15.60,0:10:17.05,Main Dialog,Spoken,0000,0000,0000,,Everyone... Thank you!
+Dialogue: 0,0:10:19.29,0:10:23.60,Main Dialog,Spoken,0000,0000,0000,,Unfortunately, not everyone can do it...
+Dialogue: 0,0:10:23.60,0:10:25.18,Main Dialog,Spoken,0000,0000,0000,,What should we do here?
+Dialogue: 0,0:10:25.18,0:10:26.26,Main Dialog,Spoken,0000,0000,0000,,Um...
+Dialogue: 0,0:10:26.26,0:10:28.82,Main Dialog,Spoken,0000,0000,0000,,Is there someone you would \Nespecially like to do it with?
+Dialogue: 0,0:10:28.82,0:10:31.56,Main Dialog,Spoken,0000,0000,0000,,Oh, no... I can't decide something like that!
+Dialogue: 0,0:10:31.56,0:10:33.50,Main Dialog,Spoken,0000,0000,0000,,Let me see then...
+Dialogue: 0,0:10:33.88,0:10:35.82,Main Dialog,Spoken,0000,0000,0000,,I've got it! Look over here!
+Dialogue: 0,0:10:36.22,0:10:39.07,Main Dialog,Spoken,0000,0000,0000,,At a time like this, ain't \Nthat the reason we got these?
+Dialogue: 0,0:10:39.84,0:10:41.10,Main Dialog,Spoken,0000,0000,0000,,A fight! The four of us!
+Dialogue: 0,0:10:41.86,0:10:42.60,Main Dialog,Spoken,0000,0000,0000,,Whoever wins...
+Dialogue: 0,0:10:43.44,0:10:44.83,Main Dialog,Spoken,0000,0000,0000,,...becomes the vice-captain.
+Dialogue: 0,0:10:45.16,0:10:49.50,Main Dialog,Spoken,0000,0000,0000,,I see! So you play Vanguard \Nat a time like this!
+Dialogue: 0,0:10:49.50,0:10:51.53,Main Dialog,Spoken,0000,0000,0000,,I guess...
+Dialogue: 0,0:10:51.58,0:10:52.83,Signs,Sign,0000,0000,0000,,Tokura\NKourin\NIshida\NKomoi
+Dialogue: 0,0:10:54.46,0:10:57.34,Signs,Sign,0000,0000,0000,,First Match\NSecond Match
+Dialogue: 0,0:10:57.82,0:10:59.22,Main Dialog,Spoken,0000,0000,0000,,Okay, the first match.
+Dialogue: 0,0:10:59.82,0:11:03.02,Main Dialog,Spoken,0000,0000,0000,,Misaki versus Shingo, please.
+Dialogue: 0,0:11:03.48,0:11:04.69,Main Dialog,Spoken,0000,0000,0000,,I'm going to play seriously!
+Dialogue: 0,0:11:04.69,0:11:06.36,Main Dialog,Spoken,0000,0000,0000,,Naturally.
+Dialogue: 0,0:11:07.66,0:11:09.73,Main Dialog,Spoken,0000,0000,0000,,All right... Begin!
+Dialogue: 0,0:11:10.62,0:11:12.82,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:11:27.33,0:11:28.48,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:11:31.80,0:11:34.01,Main Dialog,Spoken,0000,0000,0000,,I still have only 4 damage...
+Dialogue: 0,0:11:36.41,0:11:38.67,Main Dialog,Spoken,0000,0000,0000,,If I protect myself the next turn...
+Dialogue: 0,0:11:39.33,0:11:40.30,Main Dialog,Spoken,0000,0000,0000,,Draw.
+Dialogue: 0,0:11:40.30,0:11:43.93,Main Dialog,Spoken,0000,0000,0000,,Sorry, but if you think you can protect \Nyourself, you're sorely mistaken.
+Dialogue: 0,0:11:44.41,0:11:47.88,Main Dialog,Spoken,0000,0000,0000,,I ride Eternal Goddess, Iwanagahime!
+Dialogue: 0,0:11:50.72,0:11:52.06,Main Dialog,Spoken,0000,0000,0000,,Th-That card...
+Dialogue: 0,0:11:53.44,0:11:54.31,Main Dialog,Spoken,0000,0000,0000,,Call.
+Dialogue: 0,0:11:57.02,0:11:58.98,Main Dialog,Spoken,0000,0000,0000,,Iwanagahime's Limit Break!
+Dialogue: 0,0:11:59.32,0:12:02.74,Main Dialog,Spoken,0000,0000,0000,,I'm retiring your front row rear-guards!
+Dialogue: 0,0:12:07.33,0:12:10.00,Main Dialog,Spoken,0000,0000,0000,,Saffron attacks with a boost from Cumin!
+Dialogue: 0,0:12:10.56,0:12:13.00,Main Dialog,Spoken,0000,0000,0000,,Tatsutahime boosts Iwanagahime!
+Dialogue: 0,0:12:18.58,0:12:20.30,Main Dialog,Spoken,0000,0000,0000,,I-I lost...
+Dialogue: 0,0:12:24.80,0:12:28.73,Main Dialog,Spoken,0000,0000,0000,,Alright! Time to fight, Kourin! \NAnd I'm definitely gonna win!
+Dialogue: 0,0:12:28.73,0:12:30.49,Main Dialog,Spoken,0000,0000,0000,,The challenged is going \Nto beat the challenger!
+Dialogue: 0,0:12:31.70,0:12:34.60,Main Dialog,Spoken,0000,0000,0000,,Okay, please go ahead with the second match.
+Dialogue: 0,0:12:38.97,0:12:40.11,Main Dialog,Spoken,0000,0000,0000,,How disappointing...
+Dialogue: 0,0:12:40.56,0:12:43.11,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:12:43.90,0:12:46.01,Main Dialog,Spoken,0000,0000,0000,,I go first. Draw!
+Dialogue: 0,0:12:48.66,0:12:52.37,Main Dialog,Spoken,0000,0000,0000,,Vice-captain... It's my dream post...
+Dialogue: 0,0:12:52.90,0:12:58.34,Main Dialog,Spoken,0000,0000,0000,,If I became vice-captain, I'd beat that \Nviolent, rude noob Ishida so badly,
+Dialogue: 0,0:12:58.34,0:13:02.04,Main Dialog,Spoken,0000,0000,0000,,he wouldn't be able to get back on his feet!
+Dialogue: 0,0:13:07.88,0:13:10.70,Main Dialog,Spoken,0000,0000,0000,,I'm not sure if that's \Nthe vice-captain's job...
+Dialogue: 0,0:13:11.77,0:13:13.60,Main Dialog,Spoken,0000,0000,0000,,Prizmy attacks!
+Dialogue: 0,0:13:14.16,0:13:16.35,Main Dialog,Spoken,0000,0000,0000,,Spark Rain Dragon attacks!
+Dialogue: 0,0:13:17.04,0:13:18.44,Main Dialog,Spoken,0000,0000,0000,,Tracie attacks!
+Dialogue: 0,0:13:19.02,0:13:20.48,Main Dialog,Spoken,0000,0000,0000,,Vowing Sword Dragon!
+Dialogue: 0,0:13:20.77,0:13:22.40,Main Dialog,Spoken,0000,0000,0000,,Ashley attacks!
+Dialogue: 0,0:13:26.01,0:13:29.53,Main Dialog,Spoken,0000,0000,0000,,It's impressive how fired \Nup both of them are.
+Dialogue: 0,0:13:35.89,0:13:40.75,Main Dialog,Spoken,0000,0000,0000,,She is strong... but today, I'll \Nshow her what my will power can do!
+Dialogue: 0,0:13:41.37,0:13:43.00,Main Dialog,Spoken,0000,0000,0000,,I stand and draw!
+Dialogue: 0,0:13:45.94,0:13:48.26,Main Dialog,Spoken,0000,0000,0000,,From here on out, it's my break time!
+Dialogue: 0,0:13:50.70,0:13:54.72,Main Dialog,Spoken,0000,0000,0000,,Watch this! My invincible... \Nsurefire... miraculous...
+Dialogue: 0,0:13:54.72,0:13:58.27,Main Dialog,Spoken,0000,0000,0000,,Gauntlet Buster Dragon and Vowing Sword Dragon...
+Dialogue: 0,0:13:58.27,0:14:00.02,Main Dialog,Spoken,0000,0000,0000,,Break Ride!
+Dialogue: 0,0:14:04.26,0:14:05.65,Main Dialog,Spoken,0000,0000,0000,,I retire Tracie!
+Dialogue: 0,0:14:11.25,0:14:11.89,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:14:17.50,0:14:20.00,Main Dialog,Spoken,0000,0000,0000,,I'm gonna retire another of your cards!
+Dialogue: 0,0:14:23.12,0:14:27.22,Main Dialog,Spoken,0000,0000,0000,,Now Gauntlet Buster has 27000 \Npower and three criticals!
+Dialogue: 0,0:14:27.90,0:14:29.38,Main Dialog,Spoken,0000,0000,0000,,I'm gonna drive you into \Na corner all at once!
+Dialogue: 0,0:14:31.54,0:14:33.14,Main Dialog,Spoken,0000,0000,0000,,Vowing Sword attacks!
+Dialogue: 0,0:14:33.90,0:14:35.39,Main Dialog,Spoken,0000,0000,0000,,I guard with Polli!
+Dialogue: 0,0:14:35.92,0:14:40.57,Main Dialog,Spoken,0000,0000,0000,,Gauntlet Buster attacks with \Na boost from Red River!
+Dialogue: 0,0:14:42.54,0:14:43.52,Main Dialog,Spoken,0000,0000,0000,,I'll take it!
+Dialogue: 0,0:14:53.50,0:14:55.09,Main Dialog,Spoken,0000,0000,0000,,Now I'll finish you off!
+Dialogue: 0,0:14:55.09,0:14:59.29,Main Dialog,Spoken,0000,0000,0000,,Vowing Sword Dragon's final attack!
+Dialogue: 0,0:15:00.93,0:15:01.58,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:15:02.16,0:15:02.83,Main Dialog,Spoken,0000,0000,0000,,Wha...?!
+Dialogue: 0,0:15:03.13,0:15:05.09,Main Dialog,Spoken,0000,0000,0000,,And intercept!
+Dialogue: 0,0:15:05.72,0:15:06.49,Main Dialog,Spoken,0000,0000,0000,,Wha...?!
+Dialogue: 0,0:15:08.90,0:15:11.47,Main Dialog,Spoken,0000,0000,0000,,Everything's going according \Nto plan... so far...
+Dialogue: 0,0:15:12.10,0:15:14.72,Main Dialog,Spoken,0000,0000,0000,,Shoot! You totally blocked it!
+Dialogue: 0,0:15:15.70,0:15:18.30,Main Dialog,Spoken,0000,0000,0000,,I sensed your enthusiasm plenty.
+Dialogue: 0,0:15:18.30,0:15:22.85,Main Dialog,Spoken,0000,0000,0000,,But don't think you're the \Nonly one who can break ride.
+Dialogue: 0,0:15:25.25,0:15:29.61,Main Dialog,Spoken,0000,0000,0000,,I break ride with Leading \NJewel Knight, Salome!
+Dialogue: 0,0:15:35.29,0:15:36.91,Main Dialog,Spoken,0000,0000,0000,,Salome's skill activates!
+Dialogue: 0,0:15:38.05,0:15:40.66,Main Dialog,Spoken,0000,0000,0000,,Another Salome unit, superior call!
+Dialogue: 0,0:15:41.18,0:15:42.93,Main Dialog,Spoken,0000,0000,0000,,And then I call Shellie!
+Dialogue: 0,0:15:42.93,0:15:43.58,Main Dialog,Spoken,0000,0000,0000,,Wha...?!
+Dialogue: 0,0:15:44.38,0:15:47.28,Main Dialog,Spoken,0000,0000,0000,,When there are four or more \NJewel Knight rear-guard units,
+Dialogue: 0,0:15:47.28,0:15:50.67,Main Dialog,Spoken,0000,0000,0000,,Salome gets +2000 power \Nand an extra critical!
+Dialogue: 0,0:15:51.68,0:15:53.05,Main Dialog,Spoken,0000,0000,0000,,That's 22000 power...
+Dialogue: 0,0:15:53.56,0:15:55.52,Main Dialog,Spoken,0000,0000,0000,,And three criticals!
+Dialogue: 0,0:15:55.52,0:15:58.13,Main Dialog,Spoken,0000,0000,0000,,This is the real final attack!
+Dialogue: 0,0:15:58.64,0:16:01.69,Main Dialog,Spoken,0000,0000,0000,,Salome attacks with a boost from Shellie!
+Dialogue: 0,0:16:04.46,0:16:06.52,Main Dialog,Spoken,0000,0000,0000,,Shoot! I don't have enough!
+Dialogue: 0,0:16:19.89,0:16:21.12,Main Dialog,Spoken,0000,0000,0000,,I lost!
+Dialogue: 0,0:16:22.97,0:16:26.73,Main Dialog,Spoken,0000,0000,0000,,Kourin, Naoki, nice fight.
+Dialogue: 0,0:16:27.13,0:16:28.92,Signs,Sign,0000,0000,0000,,Tokura\NKourin\NIshida\NKomoi
+Dialogue: 0,0:16:29.36,0:16:31.38,Main Dialog,Spoken,0000,0000,0000,,Now we just have the deciding match, right?
+Dialogue: 0,0:16:31.94,0:16:32.62,Main Dialog,Spoken,0000,0000,0000,,Right!
+Dialogue: 0,0:16:37.52,0:16:42.13,Main Dialog,Spoken,0000,0000,0000,,That's incredible spirit! \NWe lost the mental battle.
+Dialogue: 0,0:16:42.13,0:16:44.06,Main Dialog,Spoken,0000,0000,0000,,Don't you think so, Ishida?
+Dialogue: 0,0:16:44.77,0:16:45.25,Main Dialog,Spoken,0000,0000,0000,,Pathetic...
+Dialogue: 0,0:16:45.25,0:16:45.90,Main Dialog,Spoken,0000,0000,0000,,Ishida?
+Dialogue: 0,0:16:46.37,0:16:49.08,Main Dialog,Spoken,0000,0000,0000,,Pathetic... Pathetic!
+Dialogue: 0,0:16:49.08,0:16:52.05,Main Dialog,Spoken,0000,0000,0000,,What's that? I can't hear you.
+Dialogue: 0,0:16:52.05,0:16:53.40,Main Dialog,Spoken,0000,0000,0000,,Pathetic!
+Dialogue: 0,0:16:54.54,0:16:57.66,Main Dialog,Spoken,0000,0000,0000,,Sendou! Ishida's acting weird!
+Dialogue: 0,0:16:59.80,0:17:01.81,Main Dialog,Spoken,0000,0000,0000,,Naoki! Are you okay?!
+Dialogue: 0,0:17:02.46,0:17:03.66,Main Dialog,Spoken,0000,0000,0000,,Do you feel sick or something?
+Dialogue: 0,0:17:04.08,0:17:06.94,Main Dialog,Spoken,0000,0000,0000,,Ishida! Get a hold of yourself!
+Dialogue: 0,0:17:06.94,0:17:08.18,Main Dialog,Spoken,0000,0000,0000,,Pathetic!
+Dialogue: 0,0:17:08.18,0:17:09.42,Main Dialog,Spoken,0000,0000,0000,,Ishida...
+Dialogue: 0,0:17:10.64,0:17:13.78,Main Dialog,Spoken,0000,0000,0000,,I'm just pathetic...
+Dialogue: 0,0:17:16.36,0:17:19.68,Main Dialog,Spoken,0000,0000,0000,,Even though I finally found somethin' \Nto be passionate about...
+Dialogue: 0,0:17:20.34,0:17:25.20,Main Dialog,Spoken,0000,0000,0000,,...I'm just... just pathetic!
+Dialogue: 0,0:17:26.93,0:17:28.18,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:17:28.18,0:17:32.30,Main Dialog,Spoken,0000,0000,0000,,When we were talkin' about \Nthe vice-captain yesterday,
+Dialogue: 0,0:17:32.30,0:17:34.68,Main Dialog,Spoken,0000,0000,0000,,I thought it sounded like a real pain.
+Dialogue: 0,0:17:35.41,0:17:40.45,Main Dialog,Spoken,0000,0000,0000,,I joined this club to get passionate about \Nsomething and here I'm thinkin' it's a pain...
+Dialogue: 0,0:17:46.30,0:17:51.46,Main Dialog,Spoken,0000,0000,0000,,But after I thought about it last night, I \Nrealized I really did wanna be vice-captain...
+Dialogue: 0,0:17:52.22,0:17:55.72,Main Dialog,Spoken,0000,0000,0000,,I realized I wanna do somethin' \Nfor the sake of this club!
+Dialogue: 0,0:17:56.08,0:18:00.73,Main Dialog,Spoken,0000,0000,0000,,And yet, I lost! That's doubly pathetic!
+Dialogue: 0,0:18:02.86,0:18:07.25,Main Dialog,Spoken,0000,0000,0000,,I mean, I know actin' like \Nthis is pathetic, too...
+Dialogue: 0,0:18:07.89,0:18:10.23,Main Dialog,Spoken,0000,0000,0000,,I know I lost, so I gotta \Ngive up on the idea...
+Dialogue: 0,0:18:11.14,0:18:15.56,Main Dialog,Spoken,0000,0000,0000,,Besides, just like me, it didn't look \Nlike Kourin or Boss Lady had any interest
+Dialogue: 0,0:18:15.56,0:18:17.88,Main Dialog,Spoken,0000,0000,0000,,in bein' vice-captain either, \Nbut today, they volunteered.
+Dialogue: 0,0:18:17.88,0:18:22.18,Main Dialog,Spoken,0000,0000,0000,,No matter what anyone says, this \Nclub is full of people with passion!
+Dialogue: 0,0:18:27.34,0:18:29.65,Main Dialog,Spoken,0000,0000,0000,,My bad for interferin' with your fight!
+Dialogue: 0,0:18:29.65,0:18:31.25,Main Dialog,Spoken,0000,0000,0000,,Go ahead and decide who's \Nvice-captain with your match!
+Dialogue: 0,0:18:32.89,0:18:34.04,Main Dialog,Spoken,0000,0000,0000,,Um...
+Dialogue: 0,0:18:35.45,0:18:40.08,Main Dialog,Spoken,0000,0000,0000,,I just felt obliged to do it \Nafter Takuto egged me on...
+Dialogue: 0,0:18:41.56,0:18:45.82,Main Dialog,Spoken,0000,0000,0000,,I just raised my hand because \Nof what Akari said...
+Dialogue: 0,0:18:47.04,0:18:49.18,Main Dialog,Spoken,0000,0000,0000,,Um... This fight...
+Dialogue: 0,0:18:49.18,0:18:51.89,Main Dialog,Spoken,0000,0000,0000,,I agree with your idea.
+Dialogue: 0,0:18:51.89,0:18:53.14,Main Dialog,Spoken,0000,0000,0000,,We're on the same wavelength.
+Dialogue: 0,0:18:53.14,0:18:54.22,Main Dialog,Spoken,0000,0000,0000,,That's right.
+Dialogue: 0,0:18:54.22,0:18:57.40,Main Dialog,Spoken,0000,0000,0000,,Um... Why don't you be the vice-captain?
+Dialogue: 0,0:19:00.77,0:19:02.91,Main Dialog,Spoken,0000,0000,0000,,I'm saying we're leaving it to you!
+Dialogue: 0,0:19:03.36,0:19:05.91,Main Dialog,Spoken,0000,0000,0000,,But... I lost...
+Dialogue: 0,0:19:06.25,0:19:11.17,Main Dialog,Spoken,0000,0000,0000,,Listen. You have pure, passionate \Nfeelings. And that's great.
+Dialogue: 0,0:19:11.76,0:19:12.75,Main Dialog,Spoken,0000,0000,0000,,Boss Lady...
+Dialogue: 0,0:19:14.04,0:19:15.76,Main Dialog,Spoken,0000,0000,0000,,W-What is this development?
+Dialogue: 0,0:19:15.76,0:19:18.92,Main Dialog,Spoken,0000,0000,0000,,Even though the club would be \Nmuch better off if I did it...
+Dialogue: 0,0:19:19.25,0:19:21.16,Main Dialog,Spoken,0000,0000,0000,,What's that, Shingo?
+Dialogue: 0,0:19:21.16,0:19:22.61,Main Dialog,Spoken,0000,0000,0000,,You don't have any complaints, do you?
+Dialogue: 0,0:19:24.41,0:19:27.01,Main Dialog,Spoken,0000,0000,0000,,W-What the heck? It looks \Nlike you're motivated...
+Dialogue: 0,0:19:27.01,0:19:31.06,Main Dialog,Spoken,0000,0000,0000,,It's okay with me if you \Nbecome vice-captain, Ishida.
+Dialogue: 0,0:19:31.06,0:19:33.00,Main Dialog,Spoken,0000,0000,0000,,Really?! You don't mind if I...
+Dialogue: 0,0:19:33.00,0:19:35.93,Main Dialog,Spoken,0000,0000,0000,,I don't mind! I'm fine with it!
+Dialogue: 0,0:19:35.93,0:19:37.97,Main Dialog,Spoken,0000,0000,0000,,But in return, do a good job!
+Dialogue: 0,0:19:37.97,0:19:41.45,Main Dialog,Spoken,0000,0000,0000,,If you do anything weird, I'll \Nfile a censure vote right away!
+Dialogue: 0,0:19:42.65,0:19:45.40,Main Dialog,Spoken,0000,0000,0000,,I think this was resolved very nicely.
+Dialogue: 0,0:19:46.24,0:19:48.81,Main Dialog,Spoken,0000,0000,0000,,Right! It'll be good \Nworking with you, Naoki.
+Dialogue: 0,0:19:48.81,0:19:50.81,Main Dialog,Spoken,0000,0000,0000,,Together, let's put this club on its feet!
+Dialogue: 0,0:19:50.81,0:19:52.74,Main Dialog,Spoken,0000,0000,0000,,Yeah! I'll do my best!
+Dialogue: 0,0:19:52.74,0:19:53.61,Main Dialog,Spoken,0000,0000,0000,,Right!
+Dialogue: 0,0:20:03.57,0:20:07.80,Main Dialog,Spoken,0000,0000,0000,,Look at that. That bright red setting \Nsun is the same as our hot blood!
+Dialogue: 0,0:20:07.80,0:20:09.77,Main Dialog,Spoken,0000,0000,0000,,Well, the setting sun is red.
+Dialogue: 0,0:20:09.77,0:20:11.45,Main Dialog,Spoken,0000,0000,0000,,Or rather, because of the \Nwavelength of the light,
+Dialogue: 0,0:20:11.45,0:20:14.44,Main Dialog,Spoken,0000,0000,0000,,the sun just looks red from \Nall this distance away.
+Dialogue: 0,0:20:16.01,0:20:19.53,Main Dialog,Spoken,0000,0000,0000,,W-What are you doing? You run off \Nwhen someone's talking to you?
+Dialogue: 0,0:20:19.53,0:20:22.78,Main Dialog,Spoken,0000,0000,0000,,You're so rude, Ishida! Listen to me, Ishida!
+Dialogue: 0,0:20:22.78,0:20:25.45,Main Dialog,Spoken,0000,0000,0000,,Naoki! Shingo!
+Dialogue: 0,0:20:30.33,0:20:32.30,Main Dialog,Spoken,0000,0000,0000,,Wait up, Ishida!
+Dialogue: 0,0:20:32.30,0:20:34.54,Main Dialog,Spoken,0000,0000,0000,,I-I can't stop!
+Dialogue: 0,0:20:37.04,0:20:37.67,Main Dialog,Spoken,0000,0000,0000,,Hey!
+Dialogue: 0,0:20:41.41,0:20:46.18,Main Dialog,Spoken,0000,0000,0000,,Listen, from today, I'm vice-captain \Nand you're just a basic member!
+Dialogue: 0,0:20:47.90,0:20:51.38,Main Dialog,Spoken,0000,0000,0000,,You volunteered just so that you \Ncould bully me around, didn't you?!
+Dialogue: 0,0:20:51.38,0:20:54.30,Main Dialog,Spoken,0000,0000,0000,,I should never have agreed to let you do it!
+Dialogue: 0,0:20:54.30,0:20:56.25,Main Dialog,Spoken,0000,0000,0000,,Let go! Let go of me!
+Dialogue: 0,0:20:58.68,0:21:00.44,Main Dialog,Spoken,0000,0000,0000,,You told me to let go!
+Dialogue: 0,0:21:02.28,0:21:04.76,Main Dialog,Spoken,0000,0000,0000,,There's no need for old gags like that!
+Dialogue: 0,0:21:04.76,0:21:06.10,Main Dialog,Spoken,0000,0000,0000,,But back to what I was saying!
+Dialogue: 0,0:21:06.10,0:21:07.70,Main Dialog,Spoken,0000,0000,0000,,You became vice-captain just because \Nyou want to lord it over us?!
+Dialogue: 0,0:21:08.10,0:21:11.45,Main Dialog,Spoken,0000,0000,0000,,Ha! You're the only one I'm gonna lord it over.
+Dialogue: 0,0:21:11.45,0:21:13.20,Main Dialog,Spoken,0000,0000,0000,,Aichi's the captain, see?
+Dialogue: 0,0:21:13.49,0:21:18.46,Main Dialog,Spoken,0000,0000,0000,,Why, you...! Even though you're a noob, \Nyou were thinking the same thing I was?!
+Dialogue: 0,0:21:19.69,0:21:22.71,Main Dialog,Spoken,0000,0000,0000,,What was that?! What'd you just say?
+Dialogue: 0,0:21:24.14,0:21:28.47,Main Dialog,Spoken,0000,0000,0000,,Sendou, please drive this jerk like \Na horse! Run him into the ground!
+Dialogue: 0,0:21:33.61,0:21:34.65,Main Dialog,Spoken,0000,0000,0000,,{\a6}What the heck do you think you're doin'?!
+Dialogue: 0,0:21:34.65,0:21:36.00,Main Dialog,Spoken,0000,0000,0000,,{\a6}You started it!
+Dialogue: 0,0:21:36.34,0:21:38.48,Main Dialog,Spoken,0000,0000,0000,,Yeesh... Men...
+Dialogue: 0,0:21:38.48,0:21:39.69,Main Dialog,Spoken,0000,0000,0000,,They're children...
+Dialogue: 0,0:21:39.69,0:21:40.56,Main Dialog,Spoken,0000,0000,0000,,But...
+Dialogue: 0,0:21:40.56,0:21:42.96,Main Dialog,Spoken,0000,0000,0000,,I feel like I lost in more ways than one...
+Dialogue: 0,0:21:42.96,0:21:48.12,Main Dialog,Spoken,0000,0000,0000,,I, Naoki Ishida, vice-captain of the \NMiyaji Academy Cardfight Club,
+Dialogue: 0,0:21:48.12,0:21:55.24,Main Dialog,Spoken,0000,0000,0000,,will fight for the development of the club \Nand for fun, passionate Vanguard fights!
+Dialogue: 0,0:21:55.24,0:21:57.00,Main Dialog,Spoken,0000,0000,0000,,I-I'm not gonna lose to you!
+Dialogue: 0,0:22:00.57,0:22:02.85,Main Dialog,Spoken,0000,0000,0000,,Naoki... Shingo...
+Dialogue: 0,0:22:00.98,0:22:01.96,Main Dialog,Spoken,0000,0000,0000,,{\a6}That was a yell?
+Dialogue: 0,0:22:01.96,0:22:03.57,Main Dialog,Spoken,0000,0000,0000,,{\a6}That was the wailing of my soul.
+Dialogue: 0,0:22:03.57,0:22:05.13,Main Dialog,Spoken,0000,0000,0000,,{\a6}What the heck is that?
+Dialogue: 0,0:22:08.20,0:22:09.74,Main Dialog,Spoken,0000,0000,0000,,Let's make this a good club.
+Dialogue: 0,0:22:09.74,0:22:10.70,Main Dialog,Spoken,0000,0000,0000,,Yes.
+Dialogue: 0,0:22:10.70,0:22:12.98,Main Dialog,Spoken,0000,0000,0000,,Come on, Aichi, you yell, too!
+Dialogue: 0,0:22:13.62,0:22:16.20,Main Dialog,Spoken,0000,0000,0000,,For some reason, yelling \Nmakes you feel refreshed.
+Dialogue: 0,0:22:16.20,0:22:17.38,Main Dialog,Spoken,0000,0000,0000,,All right...
+Dialogue: 0,0:22:17.38,0:22:19.04,Main Dialog,Spoken,0000,0000,0000,,1... 2...
+Dialogue: 0,0:23:54.99,0:23:56.99,Signs,Sign,0000,0000,0000,,Cardfight Circle
+Dialogue: 0,0:23:56.24,0:23:59.13,Main Dialog,Spoken,0000,0000,0000,,Ishida, a total noob, is the vice-captain?!
+Dialogue: 0,0:23:59.13,0:24:02.20,Main Dialog,Spoken,0000,0000,0000,,Since I became vice-captain, I'm \Ngonna go like gangbusters!
+Dialogue: 0,0:24:02.20,0:24:03.46,Main Dialog,Spoken,0000,0000,0000,,You better follow me, too!
+Dialogue: 0,0:24:03.46,0:24:05.06,Main Dialog,Spoken,0000,0000,0000,,Acting all high and mighty!
+Dialogue: 0,0:24:05.06,0:24:07.42,Main Dialog,Spoken,0000,0000,0000,,Back in the day, you used to always \Nbe behind me, going, "Shingo! Shingo!"
+Dialogue: 0,0:24:07.42,0:24:09.24,Main Dialog,Spoken,0000,0000,0000,,You followed me around like a little puppy!
+Dialogue: 0,0:24:09.24,0:24:12.56,Main Dialog,Spoken,0000,0000,0000,,Naoki, Shingo, that's the \Nmiddle school division.
+Dialogue: 0,0:24:12.56,0:24:14.18,Main Dialog,Spoken,0000,0000,0000,,You're making a raid?!
+Dialogue: 0,0:24:14.18,0:24:16.43,Main Dialog,Spoken,0000,0000,0000,,I don't think we can get away with that...
+Dialogue: 0,0:24:16.97,0:24:18.76,Main Dialog,Next time,0000,0000,0000,,Next time: Miyaji Academy, \NMiddle School Division!
+Dialogue: 0,0:24:17.76,0:24:24.98,Signs,,0000,0000,0000,,Miyaji Academy, Middle School Division!
+Dialogue: 0,0:24:19.06,0:24:21.04,Main Dialog,Next time,0000,0000,0000,,Standing by to form the Komui army!
+Dialogue: 0,0:24:21.04,0:24:23.46,Main Dialog,Next time,0000,0000,0000,,Forget it, that army's lame! I'm goin' in.

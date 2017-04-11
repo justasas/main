@@ -1,0 +1,409 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.30,0:00:06.21,Main Dialog,,0000,0000,0000,,Attack, Battler of the \NTwin Brush, Polaris!
+Dialogue: 0,0:00:15.40,0:00:17.89,Main Dialog,,0000,0000,0000,,He withstood that attack?!
+Dialogue: 0,0:00:18.64,0:00:20.21,Main Dialog,,0000,0000,0000,,Now it's my turn!
+Dialogue: 0,0:00:20.21,0:00:23.94,Main Dialog,,0000,0000,0000,,Repel the darkness with the \Nbrilliance of your proud soul!
+Dialogue: 0,0:00:24.47,0:00:25.34,Main Dialog,,0000,0000,0000,,Crossride!
+Dialogue: 0,0:00:26.98,0:00:30.69,Main Dialog,,0000,0000,0000,,Blazing Lion, Platina Ezel!
+Dialogue: 0,0:00:34.48,0:00:36.72,Main Dialog,,0000,0000,0000,,And then, Ultimate Break!
+Dialogue: 0,0:00:37.52,0:00:41.10,Main Dialog,,0000,0000,0000,,Let your souls soar! Spirit Unite Platinum!
+Dialogue: 0,0:00:45.94,0:00:49.36,Main Dialog,,0000,0000,0000,,The VF Circuit final \Nstage has come to an end!
+Dialogue: 0,0:00:49.70,0:00:54.01,Main Dialog,,0000,0000,0000,,With Aichi Sendou's victory, \NTeam Q4 becomes the champions!
+Dialogue: 0,0:00:55.29,0:00:57.10,Main Dialog,,0000,0000,0000,,You did it, Brother!
+Dialogue: 0,0:00:57.10,0:00:59.04,Main Dialog,,0000,0000,0000,,That was great, Aichi!
+Dialogue: 0,0:01:00.09,0:01:01.41,Main Dialog,,0000,0000,0000,,{\i1}Oh{\i0}, it was brilliant!
+Dialogue: 0,0:01:01.41,0:01:05.29,Main Dialog,,0000,0000,0000,,Q4 won against these formidable opponents.
+Dialogue: 0,0:01:05.29,0:01:08.04,Main Dialog,,0000,0000,0000,,And their ace is Aichi Sendou!
+Dialogue: 0,0:01:08.52,0:01:11.30,Main Dialog,,0000,0000,0000,,It was {\i1}so{\i0} very exciting!
+Dialogue: 0,0:01:11.93,0:01:13.30,Main Dialog,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:02:55.08,0:02:57.33,Main Dialog,,0000,0000,0000,,There are now hundreds of millions of people
+Dialogue: 0,0:02:57.33,0:02:59.28,Main Dialog,,0000,0000,0000,,playing card games all over the world.
+Dialogue: 0,0:02:59.28,0:03:03.29,Main Dialog,,0000,0000,0000,,They've become a normal \Npart of our daily lives.
+Dialogue: 0,0:03:04.37,0:03:06.87,Main Dialog,,0000,0000,0000,,Cardfight! Vanguard.
+Dialogue: 0,0:03:06.87,0:03:11.53,Main Dialog,,0000,0000,0000,,That's the card game that's receiving \Nthe most attention right now.
+Dialogue: 0,0:03:13.69,0:03:18.44,Main Dialog,,0000,0000,0000,,Some months after winning the VF Asia Circuit, \Nan international Vanguard tournament,
+Dialogue: 0,0:03:19.08,0:03:20.93,Main Dialog,,0000,0000,0000,,I became a high school student...
+Dialogue: 0,0:03:21.60,0:03:23.70,Main Dialog,,0000,0000,0000,,...at Miyaji Academy.
+Dialogue: 0,0:03:28.77,0:03:30.02,Main Dialog,,0000,0000,0000,,Morning, Aichi.
+Dialogue: 0,0:03:31.18,0:03:32.97,Main Dialog,,0000,0000,0000,,Good morning, Misaki.
+Dialogue: 0,0:03:33.30,0:03:35.01,Main Dialog,,0000,0000,0000,,Are you getting used to the school?
+Dialogue: 0,0:03:35.52,0:03:38.64,Main Dialog,,0000,0000,0000,,No... I mean, yes, kind of...
+Dialogue: 0,0:03:40.09,0:03:43.50,Main Dialog,,0000,0000,0000,,In other words, what happens in \Nvarious locations around the world
+Dialogue: 0,0:03:43.50,0:03:46.05,Main Dialog,,0000,0000,0000,,is no longer just confined to those areas,
+Dialogue: 0,0:03:46.05,0:03:49.25,Main Dialog,,0000,0000,0000,,but is becoming connected on a global scale.
+Dialogue: 0,0:03:49.56,0:03:52.90,Main Dialog,,0000,0000,0000,,This is what we call the \Nage of globalization.
+Dialogue: 0,0:03:54.21,0:03:58.96,Main Dialog,,0000,0000,0000,,In this age of globalization, what used \Nto be common knowledge no longer applies.
+Dialogue: 0,0:03:58.96,0:04:02.76,Main Dialog,,0000,0000,0000,,Um... How will you survive, Aichi Sendou?!
+Dialogue: 0,0:04:04.69,0:04:05.51,Main Dialog,,0000,0000,0000,,Yes?
+Dialogue: 0,0:04:05.84,0:04:10.39,Main Dialog,,0000,0000,0000,,Sendou, as a young man living in this age of \Nglobalization, how would you like to get by?
+Dialogue: 0,0:04:10.82,0:04:12.88,Main Dialog,,0000,0000,0000,,U-Um...
+Dialogue: 0,0:04:12.88,0:04:13.98,Main Dialog,,0000,0000,0000,,Uh...
+Dialogue: 0,0:04:14.72,0:04:16.42,Main Dialog,,0000,0000,0000,,What's he so nervous about?
+Dialogue: 0,0:04:16.42,0:04:18.02,Main Dialog,,0000,0000,0000,,It's probably just an act.
+Dialogue: 0,0:04:18.36,0:04:22.40,Main Dialog,,0000,0000,0000,,I think this is the first time he's spoken \Nsince transferring to this high school.
+Dialogue: 0,0:04:23.22,0:04:24.91,Main Dialog,,0000,0000,0000,,What's the problem, Sendou?
+Dialogue: 0,0:04:25.32,0:04:27.58,Main Dialog,,0000,0000,0000,,I... I, uh...
+Dialogue: 0,0:04:28.16,0:04:30.66,Main Dialog,,0000,0000,0000,,I guess I'd like to take \Ngood care of my hobby.
+Dialogue: 0,0:04:30.92,0:04:32.79,Main Dialog,,0000,0000,0000,,Hobby? What is it?
+Dialogue: 0,0:04:37.70,0:04:39.98,Main Dialog,,0000,0000,0000,,Um... it's, uh...
+Dialogue: 0,0:04:39.98,0:04:42.05,Main Dialog,,0000,0000,0000,,Cardfight, for example...
+Dialogue: 0,0:04:42.34,0:04:43.81,Main Dialog,,0000,0000,0000,,Cardfights?
+Dialogue: 0,0:04:44.22,0:04:46.30,Main Dialog,,0000,0000,0000,,And that's how you live your life?
+Dialogue: 0,0:04:46.66,0:04:49.18,Main Dialog,,0000,0000,0000,,No, n-never mind.
+Dialogue: 0,0:04:49.34,0:04:51.16,Main Dialog,,0000,0000,0000,,Cardfighting is his hobby?
+Dialogue: 0,0:04:51.16,0:04:54.81,Main Dialog,,0000,0000,0000,,Does he think that'll help him \Nsurvive the age of globalization?
+Dialogue: 0,0:04:55.12,0:04:58.20,Main Dialog,,0000,0000,0000,,Jeez, he already looks like a little \Nkid. He doesn't have to act like one!
+Dialogue: 0,0:04:58.20,0:05:00.57,Main Dialog,,0000,0000,0000,,You could say he's pathetic \Non a global level!
+Dialogue: 0,0:05:00.89,0:05:02.01,Main Dialog,,0000,0000,0000,,Quiet!
+Dialogue: 0,0:05:02.38,0:05:04.45,Main Dialog,,0000,0000,0000,,Our goal here at Miyaji Academy
+Dialogue: 0,0:05:04.45,0:05:08.45,Main Dialog,,0000,0000,0000,,is to cultivate young people so that \Nthey thrive in the age of globalization.
+Dialogue: 0,0:05:08.84,0:05:12.33,Main Dialog,,0000,0000,0000,,Certainly, the object of your devotion \Nseems to be popular these days,
+Dialogue: 0,0:05:12.61,0:05:17.58,Main Dialog,,0000,0000,0000,,but don't you think focusing on academics \Nwould be a better use of your time, Sendou?
+Dialogue: 0,0:05:17.93,0:05:19.88,Main Dialog,,0000,0000,0000,,S-Sorry...
+Dialogue: 0,0:05:22.12,0:05:24.22,Main Dialog,,0000,0000,0000,,Th-That didn't go well...
+Dialogue: 0,0:05:28.66,0:05:31.04,Main Dialog,,0000,0000,0000,,Boring dude...
+Dialogue: 0,0:05:31.35,0:05:36.35,Signs,,0000,0000,0000,,Stand Up the High School!
+Dialogue: 0,0:05:40.10,0:05:44.26,Main Dialog,,0000,0000,0000,,Sendou, you haven't decided what club \Nyou're going to join yet, have you?
+Dialogue: 0,0:05:44.26,0:05:47.11,Main Dialog,,0000,0000,0000,,You have heard that it's mandatory for \Nall students here to be in a club, right?
+Dialogue: 0,0:05:47.44,0:05:49.20,Main Dialog,,0000,0000,0000,,Ah... yes... uh...
+Dialogue: 0,0:05:49.70,0:05:52.01,Main Dialog,,0000,0000,0000,,Is there something that you like to do?
+Dialogue: 0,0:05:52.01,0:05:53.01,Main Dialog,,0000,0000,0000,,My hobby is...
+Dialogue: 0,0:05:53.01,0:05:54.84,Main Dialog,,0000,0000,0000,,Ah! That's right, you said before.
+Dialogue: 0,0:05:54.84,0:05:57.62,Main Dialog,,0000,0000,0000,,"Cardfight," I think? What is that?
+Dialogue: 0,0:05:58.12,0:05:59.48,Main Dialog,,0000,0000,0000,,Um, well...
+Dialogue: 0,0:05:59.48,0:06:01.88,Main Dialog,,0000,0000,0000,,It's a game where you fight \Neach other with cards.
+Dialogue: 0,0:06:01.88,0:06:03.13,Main Dialog,,0000,0000,0000,,If you'd like...
+Dialogue: 0,0:06:04.80,0:06:08.01,Main Dialog,,0000,0000,0000,,We don't have a Cardfight club...
+Dialogue: 0,0:06:08.27,0:06:10.74,Main Dialog,,0000,0000,0000,,Ah, I-I see...
+Dialogue: 0,0:06:11.29,0:06:12.74,Main Dialog,,0000,0000,0000,,I'm going home.
+Dialogue: 0,0:06:13.52,0:06:16.76,Main Dialog,,0000,0000,0000,,Make sure you decide on your \Nclub this week, Sendou!
+Dialogue: 0,0:06:18.98,0:06:20.37,Main Dialog,,0000,0000,0000,,Oh, Ishida?
+Dialogue: 0,0:06:20.37,0:06:23.24,Main Dialog,,0000,0000,0000,,I haven't gotten your club application.
+Dialogue: 0,0:06:23.24,0:06:25.08,Main Dialog,,0000,0000,0000,,Oh, leave me alone...
+Dialogue: 0,0:06:27.84,0:06:30.10,Main Dialog,,0000,0000,0000,,Hey! You should listen when \Nsomeone's talking to you!
+Dialogue: 0,0:06:30.10,0:06:31.53,Main Dialog,,0000,0000,0000,,Sheesh...
+Dialogue: 0,0:06:34.53,0:06:35.26,Main Dialog,,0000,0000,0000,,Jeez...
+Dialogue: 0,0:06:35.73,0:06:38.29,Main Dialog,,0000,0000,0000,,Everything's as boring as always!
+Dialogue: 0,0:06:39.04,0:06:42.74,Main Dialog,,0000,0000,0000,,And everybody here is so darn serious...
+Dialogue: 0,0:06:45.61,0:06:49.79,Main Dialog,,0000,0000,0000,,It's like, there isn't anything you \Ncan really be passionate about here...
+Dialogue: 0,0:06:51.93,0:06:53.93,Main Dialog,,0000,0000,0000,,What was his name... Aichi Sendou?
+Dialogue: 0,0:06:54.20,0:06:55.24,Main Dialog,,0000,0000,0000,,That guy...
+Dialogue: 0,0:06:55.24,0:06:58.10,Main Dialog,,0000,0000,0000,,I bet that kid never has any fun...
+Dialogue: 0,0:07:06.20,0:07:07.56,Main Dialog,,0000,0000,0000,,What's with him?
+Dialogue: 0,0:07:12.38,0:07:16.08,Main Dialog,,0000,0000,0000,,It's like, the second school let \Nout, his whole demeanor changed.
+Dialogue: 0,0:07:16.70,0:07:17.95,Main Dialog,,0000,0000,0000,,Has he got somethin' going?
+Dialogue: 0,0:07:18.96,0:07:21.85,Main Dialog,,0000,0000,0000,,Maybe he's actually an elite \Nathlete with some sports club...
+Dialogue: 0,0:07:23.02,0:07:25.61,Main Dialog,,0000,0000,0000,,Or maybe outside of school, \Nhe's a gang leader...
+Dialogue: 0,0:07:27.69,0:07:28.80,Main Dialog,,0000,0000,0000,,Yeah, right...
+Dialogue: 0,0:07:28.80,0:07:29.58,Main Dialog,,0000,0000,0000,,Hello!
+Dialogue: 0,0:07:36.97,0:07:39.68,Main Dialog,,0000,0000,0000,,Card Capital? What is this?
+Dialogue: 0,0:07:44.49,0:07:45.56,Main Dialog,,0000,0000,0000,,Welcome!
+Dialogue: 0,0:07:46.84,0:07:48.53,Main Dialog,,0000,0000,0000,,What is this shop?!
+Dialogue: 0,0:07:52.65,0:07:53.45,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:07:57.61,0:07:58.97,Main Dialog,,0000,0000,0000,,This is...
+Dialogue: 0,0:07:59.41,0:08:02.33,Main Dialog,,0000,0000,0000,,This is a trading card game shop.
+Dialogue: 0,0:08:03.20,0:08:04.66,Main Dialog,,0000,0000,0000,,Trading card?
+Dialogue: 0,0:08:05.66,0:08:09.76,Main Dialog,,0000,0000,0000,,Um... it's, uh... Cardfight, for example...
+Dialogue: 0,0:08:12.73,0:08:13.72,Main Dialog,,0000,0000,0000,,There he is!
+Dialogue: 0,0:08:14.18,0:08:15.97,Main Dialog,,0000,0000,0000,,It's really been a long time!
+Dialogue: 0,0:08:16.90,0:08:18.97,Main Dialog,,0000,0000,0000,,He's talkin' to little kids?!
+Dialogue: 0,0:08:19.46,0:08:23.46,Main Dialog,,0000,0000,0000,,Yeah. We've come to research the card-playing population in Japan,
+Dialogue: 0,0:08:23.46,0:08:27.11,Main Dialog,,0000,0000,0000,,since Japan still has the \Nmost Vanguard fighters.
+Dialogue: 0,0:08:27.50,0:08:28.69,Main Dialog,,0000,0000,0000,,You might be right.
+Dialogue: 0,0:08:28.69,0:08:30.61,Main Dialog,,0000,0000,0000,,So, how's Mitsusada doing?
+Dialogue: 0,0:08:30.96,0:08:32.37,Main Dialog,,0000,0000,0000,,He's doing well!
+Dialogue: 0,0:08:32.37,0:08:34.40,Main Dialog,,0000,0000,0000,,He's making awesome strides.
+Dialogue: 0,0:08:34.40,0:08:37.02,Main Dialog,,0000,0000,0000,,Well, not like us, though...
+Dialogue: 0,0:08:37.02,0:08:39.54,Main Dialog,,0000,0000,0000,,Oh? Remind me, who lost to him last time?
+Dialogue: 0,0:08:40.21,0:08:44.40,Main Dialog,,0000,0000,0000,,More importantly, I wanna meet \Na Japanese maid while I'm here!
+Dialogue: 0,0:08:45.52,0:08:47.03,Main Dialog,,0000,0000,0000,,{\a6}There you go again with that!
+Dialogue: 0,0:08:45.52,0:08:49.06,Main Dialog,,0000,0000,0000,,Wow! That's Singapore's Team Genius!
+Dialogue: 0,0:08:47.37,0:08:50.63,Main Dialog,,0000,0000,0000,,{\a6}What's the problem? Everybody \Nlooks forward to their own thing.
+Dialogue: 0,0:08:49.06,0:08:50.63,Main Dialog,,0000,0000,0000,,They're Aichi's rivals!
+Dialogue: 0,0:08:51.18,0:08:52.90,Main Dialog,,0000,0000,0000,,W-What the heck?!
+Dialogue: 0,0:08:52.90,0:08:54.85,Main Dialog,,0000,0000,0000,,Those guys aren't Japanese!
+Dialogue: 0,0:08:58.18,0:08:59.86,Main Dialog,,0000,0000,0000,,What's up, Sendou?
+Dialogue: 0,0:08:59.86,0:09:02.52,Main Dialog,,0000,0000,0000,,You're like a totally different \Nperson here than at school!
+Dialogue: 0,0:09:02.96,0:09:06.27,Main Dialog,,0000,0000,0000,,And you're buddies with some \Nguys from another country?
+Dialogue: 0,0:09:06.73,0:09:09.12,Main Dialog,,0000,0000,0000,,Talk about global!
+Dialogue: 0,0:09:09.12,0:09:11.65,Main Dialog,,0000,0000,0000,,Anyway, how'd you get like this?
+Dialogue: 0,0:09:12.08,0:09:14.78,Main Dialog,,0000,0000,0000,,U-Um, here...
+Dialogue: 0,0:09:15.72,0:09:16.84,Main Dialog,,0000,0000,0000,,What is this?
+Dialogue: 0,0:09:19.28,0:09:20.78,Main Dialog,,0000,0000,0000,,Cardfight.
+Dialogue: 0,0:09:20.78,0:09:22.46,Main Dialog,,0000,0000,0000,,Cardfight?
+Dialogue: 0,0:09:22.46,0:09:23.64,Main Dialog,,0000,0000,0000,,It's Vanguard.
+Dialogue: 0,0:09:24.04,0:09:26.06,Main Dialog,,0000,0000,0000,,Don't tell me you've never heard of it?
+Dialogue: 0,0:09:26.06,0:09:27.71,Main Dialog,,0000,0000,0000,,You fight each other with cards.
+Dialogue: 0,0:09:27.71,0:09:30.01,Main Dialog,,0000,0000,0000,,It's a card game that's \Nreally popular worldwide.
+Dialogue: 0,0:09:30.01,0:09:31.52,Main Dialog,,0000,0000,0000,,Vanguard?
+Dialogue: 0,0:09:31.52,0:09:32.30,Main Dialog,,0000,0000,0000,,Worldwide?
+Dialogue: 0,0:09:32.30,0:09:33.68,Main Dialog,,0000,0000,0000,,That's right.
+Dialogue: 0,0:09:33.98,0:09:37.52,Main Dialog,,0000,0000,0000,,A lot of countries hold \Ninternational tournaments, too.
+Dialogue: 0,0:09:37.52,0:09:39.37,Main Dialog,,0000,0000,0000,,You really don't know about it?
+Dialogue: 0,0:09:40.26,0:09:41.56,Main Dialog,,0000,0000,0000,,It's common knowledge!
+Dialogue: 0,0:09:42.18,0:09:43.68,Main Dialog,,0000,0000,0000,,Common knowledge, you say?
+Dialogue: 0,0:09:44.42,0:09:46.26,Main Dialog,,0000,0000,0000,,Oh, boy, you're a goner.
+Dialogue: 0,0:09:46.26,0:09:48.44,Main Dialog,,0000,0000,0000,,Girls aren't gonna go for \Na know-nothing like you.
+Dialogue: 0,0:09:49.80,0:09:51.06,Main Dialog,,0000,0000,0000,,What was that?!
+Dialogue: 0,0:09:52.43,0:09:53.41,Main Dialog,,0000,0000,0000,,M-Me?!
+Dialogue: 0,0:09:53.41,0:09:55.42,Main Dialog,,0000,0000,0000,,So this is Vanguard?
+Dialogue: 0,0:09:55.42,0:09:58.81,Main Dialog,,0000,0000,0000,,Uh huh. You use this deck to battle.
+Dialogue: 0,0:09:58.81,0:10:00.41,Main Dialog,,0000,0000,0000,,Um... Do you want to try it?
+Dialogue: 0,0:10:02.91,0:10:06.09,Main Dialog,,0000,0000,0000,,F-Fine. I'll play along once.
+Dialogue: 0,0:10:07.22,0:10:09.61,Main Dialog,,0000,0000,0000,,This is a new trial deck.
+Dialogue: 0,0:10:09.61,0:10:10.82,Main Dialog,,0000,0000,0000,,Would you like to try it out?
+Dialogue: 0,0:10:10.82,0:10:12.09,Main Dialog,,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:10:13.05,0:10:15.81,Main Dialog,,0000,0000,0000,,The VF Circuit champion has a challenger!
+Dialogue: 0,0:10:15.81,0:10:17.55,Main Dialog,,0000,0000,0000,,This guy's a tough opponent!
+Dialogue: 0,0:10:21.21,0:10:22.76,Main Dialog,,0000,0000,0000,,Have you finished reading the rulebook?
+Dialogue: 0,0:10:22.76,0:10:24.22,Main Dialog,,0000,0000,0000,,Yeah. I can do this.
+Dialogue: 0,0:10:24.61,0:10:27.97,Main Dialog,,0000,0000,0000,,Then I'll explain the rules as we go along.
+Dialogue: 0,0:10:27.97,0:10:29.60,Main Dialog,,0000,0000,0000,,Can I go first?
+Dialogue: 0,0:10:30.41,0:10:31.93,Main Dialog,,0000,0000,0000,,Yeah, sure...
+Dialogue: 0,0:10:32.17,0:10:34.48,Main Dialog,,0000,0000,0000,,This guy is nothing like he is at school!
+Dialogue: 0,0:10:35.08,0:10:39.09,Main Dialog,,0000,0000,0000,,I put a grade 0 card facedown \Nin the Vanguard circle
+Dialogue: 0,0:10:39.09,0:10:40.49,Main Dialog,,0000,0000,0000,,and the deck goes here.
+Dialogue: 0,0:10:40.82,0:10:42.05,Main Dialog,,0000,0000,0000,,Got it.
+Dialogue: 0,0:10:43.54,0:10:46.14,Main Dialog,,0000,0000,0000,,I draw five cards from my deck.
+Dialogue: 0,0:10:52.32,0:10:56.96,Main Dialog,,0000,0000,0000,,If there are any cards in your hand you \Ndon't like, you can redraw them once.
+Dialogue: 0,0:10:57.57,0:11:01.98,Main Dialog,,0000,0000,0000,,You should try to have a lineup of \Ngrade 1, 2, and 3 cards in your hand.
+Dialogue: 0,0:11:02.65,0:11:03.98,Main Dialog,,0000,0000,0000,,How's your hand, Ishida?
+Dialogue: 0,0:11:04.73,0:11:06.09,Main Dialog,,0000,0000,0000,,No prob.
+Dialogue: 0,0:11:06.09,0:11:07.60,Main Dialog,,0000,0000,0000,,Then let's get started.
+Dialogue: 0,0:11:07.60,0:11:09.48,Main Dialog,,0000,0000,0000,,Try to picture it...
+Dialogue: 0,0:11:09.74,0:11:10.69,Main Dialog,,0000,0000,0000,,Picture it?
+Dialogue: 0,0:11:10.69,0:11:15.63,Main Dialog,,0000,0000,0000,,Right now, we're weak astral bodies \Nthat have appeared on the planet Cray,
+Dialogue: 0,0:11:15.63,0:11:17.34,Main Dialog,,0000,0000,0000,,a world much like our own.
+Dialogue: 0,0:11:17.34,0:11:19.61,Main Dialog,,0000,0000,0000,,You say this is the planet Cray?
+Dialogue: 0,0:11:20.24,0:11:23.87,Main Dialog,,0000,0000,0000,,On this world, we've been given two powers.
+Dialogue: 0,0:11:24.20,0:11:28.83,Main Dialog,,0000,0000,0000,,The first is the ability to summon units, \Nthe creatures that live on this planet.
+Dialogue: 0,0:11:29.28,0:11:30.21,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:11:33.82,0:11:35.80,Main Dialog,,0000,0000,0000,,You summon units
+Dialogue: 0,0:11:35.80,0:11:37.96,Main Dialog,,0000,0000,0000,,from the five cards that \Nyou drew from the deck.
+Dialogue: 0,0:11:38.57,0:11:42.22,Main Dialog,,0000,0000,0000,,Each card has a grade and \Nan ability score on it.
+Dialogue: 0,0:11:43.08,0:11:46.42,Main Dialog,,0000,0000,0000,,And the other ability is riding,
+Dialogue: 0,0:11:46.42,0:11:48.97,Main Dialog,,0000,0000,0000,,where your astral body possesses a unit.
+Dialogue: 0,0:11:49.66,0:11:53.53,Main Dialog,,0000,0000,0000,,The unit that we ride is called a Vanguard.
+Dialogue: 0,0:11:53.53,0:11:54.48,Main Dialog,,0000,0000,0000,,Vanguard?
+Dialogue: 0,0:11:54.73,0:12:00.24,Main Dialog,,0000,0000,0000,,So the game starts with us as Vanguards, \Nstanding on the planet Cray.
+Dialogue: 0,0:12:01.05,0:12:02.99,Main Dialog,,0000,0000,0000,,We turn over the facedown \Ncard at the same time,
+Dialogue: 0,0:12:03.28,0:12:05.49,Main Dialog,,0000,0000,0000,,and say "Stand up, Vanguard!"
+Dialogue: 0,0:12:07.68,0:12:10.22,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:12:21.62,0:12:23.29,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:12:24.22,0:12:25.59,Main Dialog,,0000,0000,0000,,Angelic Liberator!
+Dialogue: 0,0:12:28.94,0:12:30.77,Main Dialog,,0000,0000,0000,,Stone Bullet Eradicator, Houki!
+Dialogue: 0,0:12:34.56,0:12:38.40,Main Dialog,,0000,0000,0000,,So we're both standing on the \Nplanet Cray as Vanguards.
+Dialogue: 0,0:12:38.76,0:12:41.53,Main Dialog,,0000,0000,0000,,I'm starting, so I get to move first.
+Dialogue: 0,0:12:41.53,0:12:43.65,Main Dialog,,0000,0000,0000,,First, I draw from the deck.
+Dialogue: 0,0:12:43.92,0:12:48.16,Main Dialog,,0000,0000,0000,,Then, if I have a card in my hand that's \None grade higher, I can ride it.
+Dialogue: 0,0:12:49.13,0:12:51.77,Main Dialog,,0000,0000,0000,,I ride Little Liberator, Marron!
+Dialogue: 0,0:12:52.36,0:12:55.04,Main Dialog,,0000,0000,0000,,And then I call Future Liberator, Llew!
+Dialogue: 0,0:12:55.66,0:12:59.04,Main Dialog,,0000,0000,0000,,The person who goes first can't \Nattack, so that's it for me.
+Dialogue: 0,0:12:59.40,0:13:00.73,Main Dialog,,0000,0000,0000,,I see.
+Dialogue: 0,0:13:01.20,0:13:01.80,Main Dialog,,0000,0000,0000,,All right.
+Dialogue: 0,0:13:02.46,0:13:04.55,Main Dialog,,0000,0000,0000,,I ride Red River Dragoon.
+Dialogue: 0,0:13:05.24,0:13:07.16,Main Dialog,,0000,0000,0000,,Like I did before,
+Dialogue: 0,0:13:07.16,0:13:09.93,Main Dialog,,0000,0000,0000,,you can summon a unit from \Nyour hand as an ally,
+Dialogue: 0,0:13:09.93,0:13:13.31,Main Dialog,,0000,0000,0000,,if it's the same grade \Nas your Vanguard or less.
+Dialogue: 0,0:13:14.02,0:13:15.66,Main Dialog,,0000,0000,0000,,The units that you summon
+Dialogue: 0,0:13:15.66,0:13:19.11,Main Dialog,,0000,0000,0000,,are your allies and can fight along with your Vanguard.
+Dialogue: 0,0:13:19.64,0:13:21.11,Main Dialog,,0000,0000,0000,,That's what "call" is.
+Dialogue: 0,0:13:21.38,0:13:22.13,Main Dialog,,0000,0000,0000,,All right.
+Dialogue: 0,0:13:22.13,0:13:25.11,Main Dialog,,0000,0000,0000,,I call Dust Storm Eradicator, Toko.
+Dialogue: 0,0:13:25.96,0:13:28.11,Main Dialog,,0000,0000,0000,,The player who goes second \Ncan attack from the start.
+Dialogue: 0,0:13:28.73,0:13:31.56,Main Dialog,,0000,0000,0000,,You rest a front row unit \Nby putting it on its side
+Dialogue: 0,0:13:31.56,0:13:33.25,Main Dialog,,0000,0000,0000,,and then announce your attack.
+Dialogue: 0,0:13:33.73,0:13:35.25,Main Dialog,,0000,0000,0000,,Okay, like this, right?
+Dialogue: 0,0:13:35.94,0:13:38.38,Main Dialog,,0000,0000,0000,,Red River attacks Marron!
+Dialogue: 0,0:13:39.60,0:13:41.30,Main Dialog,,0000,0000,0000,,When the Vanguard attacks,
+Dialogue: 0,0:13:41.30,0:13:43.26,Main Dialog,,0000,0000,0000,,you can turn over a card from your deck.
+Dialogue: 0,0:13:43.44,0:13:45.28,Main Dialog,,0000,0000,0000,,That's called a "drive check."
+Dialogue: 0,0:13:47.36,0:13:48.76,Main Dialog,,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:13:48.76,0:13:50.33,Main Dialog,,0000,0000,0000,,Critical... trigger?
+Dialogue: 0,0:13:50.33,0:13:52.64,Main Dialog,,0000,0000,0000,,Yup. Look at the top right mark.
+Dialogue: 0,0:13:53.29,0:13:54.97,Main Dialog,,0000,0000,0000,,See, there are four kinds of triggers.
+Dialogue: 0,0:13:54.97,0:13:56.39,Main Dialog,,0000,0000,0000,,This is a critical trigger.
+Dialogue: 0,0:13:56.84,0:14:00.34,Main Dialog,,0000,0000,0000,,You get an extra critical, which \Nincreases your opponent's damage,
+Dialogue: 0,0:14:00.34,0:14:02.54,Main Dialog,,0000,0000,0000,,and gives you +5000 power.
+Dialogue: 0,0:14:04.40,0:14:06.65,Main Dialog,,0000,0000,0000,,For example, if you give \Nthe critical to Red River
+Dialogue: 0,0:14:06.97,0:14:08.65,Main Dialog,,0000,0000,0000,,and the power to Toko...
+Dialogue: 0,0:14:09.24,0:14:10.41,Main Dialog,,0000,0000,0000,,That's what I'll do!
+Dialogue: 0,0:14:12.90,0:14:14.54,Main Dialog,,0000,0000,0000,,I took 2 damage.
+Dialogue: 0,0:14:14.54,0:14:17.92,Main Dialog,,0000,0000,0000,,So I turn over two cards for a damage check.
+Dialogue: 0,0:14:19.65,0:14:23.56,Main Dialog,,0000,0000,0000,,I didn't get any triggers, so I put \Nboth cards into the Damage Zone.
+Dialogue: 0,0:14:24.61,0:14:29.69,Main Dialog,,0000,0000,0000,,Whoever gets six damage in this \Nspace first loses the fight.
+Dialogue: 0,0:14:29.69,0:14:31.90,Main Dialog,,0000,0000,0000,,Now, you can attack once more.
+Dialogue: 0,0:14:31.90,0:14:35.06,Main Dialog,,0000,0000,0000,,R-Right. Toko attacks Marron.
+Dialogue: 0,0:14:35.80,0:14:39.17,Main Dialog,,0000,0000,0000,,Of course, you don't just have to sit \Nback and take your opponent's attacks.
+Dialogue: 0,0:14:39.17,0:14:44.44,Main Dialog,,0000,0000,0000,,I can call cards from my \Nhand to guard against them.
+Dialogue: 0,0:14:44.92,0:14:46.69,Main Dialog,,0000,0000,0000,,I guard with Fortune Liberator!
+Dialogue: 0,0:14:47.05,0:14:50.95,Main Dialog,,0000,0000,0000,,You calculate your guarding power \Nwith this number on the side.
+Dialogue: 0,0:14:54.16,0:14:58.65,Main Dialog,,0000,0000,0000,,I used this unit as a guardian, so \Nafterwards, I put it in the Drop Zone.
+Dialogue: 0,0:14:58.65,0:15:00.04,Main Dialog,,0000,0000,0000,,Good job.
+Dialogue: 0,0:15:00.04,0:15:02.08,Main Dialog,,0000,0000,0000,,Now it's my turn.
+Dialogue: 0,0:15:02.08,0:15:03.34,Main Dialog,,0000,0000,0000,,Draw!
+Dialogue: 0,0:15:06.22,0:15:09.65,Main Dialog,,0000,0000,0000,,If I have a grade 2 card, I \Ncan ride it as the Vanguard.
+Dialogue: 0,0:15:10.06,0:15:10.84,Main Dialog,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:15:12.33,0:15:15.22,Main Dialog,,0000,0000,0000,,Stand up, my avatar! I ride...
+Dialogue: 0,0:15:15.66,0:15:17.93,Main Dialog,,0000,0000,0000,,...Blaster Blade Liberator!
+Dialogue: 0,0:15:25.78,0:15:28.62,Main Dialog,,0000,0000,0000,,Who would've figured, a Gold \NPaladin Blaster Blade, y'know?
+Dialogue: 0,0:15:28.62,0:15:30.90,Main Dialog,,0000,0000,0000,,So this is Sendou's new deck...
+Dialogue: 0,0:15:31.18,0:15:33.44,Main Dialog,,0000,0000,0000,,I have a feeling it's \Ngonna be really popular.
+Dialogue: 0,0:15:33.44,0:15:34.45,Main Dialog,,0000,0000,0000,,Is this guy...
+Dialogue: 0,0:15:34.45,0:15:36.97,Main Dialog,,0000,0000,0000,,...really the same Aichi Sendou?
+Dialogue: 0,0:15:38.17,0:15:41.16,Main Dialog,,0000,0000,0000,,I call Gallatin and Zoom Down Eagle!
+Dialogue: 0,0:15:41.81,0:15:43.54,Main Dialog,,0000,0000,0000,,And now I attack!
+Dialogue: 0,0:15:43.93,0:15:44.79,Main Dialog,,0000,0000,0000,,Attack!
+Dialogue: 0,0:15:47.14,0:15:52.13,Main Dialog,,0000,0000,0000,,When you attack, you can have a \Nunit that was called to the back
+Dialogue: 0,0:15:52.13,0:15:53.84,Main Dialog,,0000,0000,0000,,boost the unit in front \Nof it to give it power.
+Dialogue: 0,0:15:54.60,0:15:57.00,Main Dialog,,0000,0000,0000,,I boost with Future Liberator, Llew
+Dialogue: 0,0:15:57.00,0:15:58.47,Main Dialog,,0000,0000,0000,,and attack with Blaster Blade!
+Dialogue: 0,0:15:59.86,0:16:01.23,Main Dialog,,0000,0000,0000,,Drive check.
+Dialogue: 0,0:16:09.50,0:16:11.24,Main Dialog,,0000,0000,0000,,Um... Is something wrong?
+Dialogue: 0,0:16:13.44,0:16:16.90,Main Dialog,,0000,0000,0000,,D-Darn it! I refuse to \Nbuy into these images!
+Dialogue: 0,0:16:17.26,0:16:21.49,Main Dialog,,0000,0000,0000,,This is ridiculous... For a second \Nthere, I thought this guy was cool!
+Dialogue: 0,0:16:22.00,0:16:23.87,Main Dialog,,0000,0000,0000,,Nothin's wrong! You gonna \Nattack again or what?!
+Dialogue: 0,0:16:28.21,0:16:30.38,Main Dialog,,0000,0000,0000,,It's my turn! Um...
+Dialogue: 0,0:16:30.38,0:16:31.38,Main Dialog,,0000,0000,0000,,Stand...
+Dialogue: 0,0:16:31.38,0:16:32.13,Main Dialog,,0000,0000,0000,,...and...
+Dialogue: 0,0:16:32.13,0:16:32.76,Main Dialog,,0000,0000,0000,,...draw.
+Dialogue: 0,0:16:33.49,0:16:35.01,Main Dialog,,0000,0000,0000,,Y-Yeah, that!
+Dialogue: 0,0:16:35.01,0:16:36.70,Main Dialog,,0000,0000,0000,,Stand and draw!
+Dialogue: 0,0:16:37.13,0:16:39.39,Main Dialog,,0000,0000,0000,,All right... stand up, my...
+Dialogue: 0,0:16:39.86,0:16:40.89,Main Dialog,,0000,0000,0000,,"My..."?
+Dialogue: 0,0:16:41.29,0:16:44.27,Main Dialog,,0000,0000,0000,,M-My mistake! One more time!
+Dialogue: 0,0:16:44.53,0:16:46.77,Main Dialog,,0000,0000,0000,,Strike, my avatar! I ride...
+Dialogue: 0,0:16:47.44,0:16:49.73,Main Dialog,,0000,0000,0000,,...Eradicator, Thunder Boom Dragon!
+Dialogue: 0,0:16:56.62,0:16:58.28,Main Dialog,,0000,0000,0000,,How's my ride?!
+Dialogue: 0,0:16:59.13,0:17:01.29,Main Dialog,,0000,0000,0000,,Y-Yeah. It's great!
+Dialogue: 0,0:17:01.46,0:17:03.64,Main Dialog,,0000,0000,0000,,Yeah, right?! Okay!
+Dialogue: 0,0:17:03.64,0:17:05.92,Main Dialog,,0000,0000,0000,,Now I'm gonna show you my power!
+Dialogue: 0,0:17:05.92,0:17:06.74,Main Dialog,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:17:06.74,0:17:08.29,Main Dialog,,0000,0000,0000,,Call! Call!
+Dialogue: 0,0:17:08.62,0:17:12.30,Main Dialog,,0000,0000,0000,,Uh... Toko goes to the back \Nand I call all the rest!
+Dialogue: 0,0:17:13.16,0:17:15.05,Main Dialog,,0000,0000,0000,,Thunder Boom Dragon attacks!
+Dialogue: 0,0:17:15.62,0:17:16.96,Main Dialog,,0000,0000,0000,,Next, Jeem!
+Dialogue: 0,0:17:16.96,0:17:19.43,Main Dialog,,0000,0000,0000,,Thunder Boom Dragon!
+Dialogue: 0,0:17:19.90,0:17:22.43,Main Dialog,,0000,0000,0000,,I ride Dignified Gold Dragon!
+Dialogue: 0,0:17:27.06,0:17:28.52,Main Dialog,,0000,0000,0000,,Strike, my avatar!
+Dialogue: 0,0:17:29.11,0:17:31.92,Main Dialog,,0000,0000,0000,,I ride Discharging Dragon!
+Dialogue: 0,0:17:44.85,0:17:49.46,Main Dialog,,0000,0000,0000,,With a boost from Llew, Dignified \Nattacks Discharging Dragon!
+Dialogue: 0,0:17:52.42,0:17:54.92,Main Dialog,,0000,0000,0000,,Shoot! I can't guard!
+Dialogue: 0,0:17:59.05,0:18:00.69,Main Dialog,,0000,0000,0000,,6 damage...
+Dialogue: 0,0:18:01.65,0:18:03.16,Main Dialog,,0000,0000,0000,,So the game's over.
+Dialogue: 0,0:18:03.86,0:18:05.98,Main Dialog,,0000,0000,0000,,U-Um, Ishida...?
+Dialogue: 0,0:18:07.29,0:18:07.98,Main Dialog,,0000,0000,0000,,I'm outta here!
+Dialogue: 0,0:18:07.98,0:18:08.98,Main Dialog,,0000,0000,0000,,U-Um...
+Dialogue: 0,0:18:09.21,0:18:11.37,Main Dialog,,0000,0000,0000,,Old man! I'm buyin' this.
+Dialogue: 0,0:18:11.37,0:18:12.23,Main Dialog,,0000,0000,0000,,O-Old man...?
+Dialogue: 0,0:18:18.64,0:18:19.49,Main Dialog,,0000,0000,0000,,Ishida...
+Dialogue: 0,0:18:20.80,0:18:22.36,Main Dialog,,0000,0000,0000,,I wonder if I made him mad...
+Dialogue: 0,0:18:22.36,0:18:23.40,Main Dialog,,0000,0000,0000,,Hey, Aichi.
+Dialogue: 0,0:18:24.64,0:18:26.50,Main Dialog,,0000,0000,0000,,Kai! Guys!
+Dialogue: 0,0:18:29.52,0:18:32.57,Main Dialog,,0000,0000,0000,,Darn it! Darn it! Darn it!
+Dialogue: 0,0:18:37.77,0:18:39.57,Main Dialog,,0000,0000,0000,,Who is that guy?! Darn it!
+Dialogue: 0,0:18:39.57,0:18:41.02,Main Dialog,,0000,0000,0000,,He's actually cool!
+Dialogue: 0,0:18:41.54,0:18:43.81,Main Dialog,,0000,0000,0000,,What is that Vanguard?! Darn it!
+Dialogue: 0,0:18:44.29,0:18:47.68,Main Dialog,,0000,0000,0000,,Feels like my body's heatin' \Nup from deep inside!
+Dialogue: 0,0:18:55.30,0:18:59.07,Main Dialog,,0000,0000,0000,,So you had your first Cardfight with \Nsomeone from the same high school...
+Dialogue: 0,0:18:59.57,0:19:02.32,Main Dialog,,0000,0000,0000,,But I got caught up in it and won...
+Dialogue: 0,0:19:02.64,0:19:07.09,Main Dialog,,0000,0000,0000,,Nah, you went plenty easy on \Nthat hot-blooded kid, Aichi.
+Dialogue: 0,0:19:07.09,0:19:09.42,Main Dialog,,0000,0000,0000,,'Cause no matter how many times you told him,
+Dialogue: 0,0:19:09.42,0:19:12.56,Main Dialog,,0000,0000,0000,,he kept calling all of his cards, even \Nthe ones he could've used for guarding.
+Dialogue: 0,0:19:12.56,0:19:13.46,Main Dialog,,0000,0000,0000,,What're you lookin' at?!
+Dialogue: 0,0:19:13.72,0:19:16.98,Main Dialog,,0000,0000,0000,,Beginners have the tendency to \Ndevote themselves to attacking.
+Dialogue: 0,0:19:16.98,0:19:18.59,Main Dialog,,0000,0000,0000,,That type's not popular with the ladies...
+Dialogue: 0,0:19:19.59,0:19:22.84,Main Dialog,,0000,0000,0000,,As if you're the popular one...
+Dialogue: 0,0:19:23.93,0:19:27.22,Main Dialog,,0000,0000,0000,,Huh, don't you know how many girlfriends I have?
+Dialogue: 0,0:19:27.22,0:19:27.89,Main Dialog,,0000,0000,0000,,...What?
+Dialogue: 0,0:19:27.89,0:19:29.72,Main Dialog,,0000,0000,0000,,No, I didn't know!
+Dialogue: 0,0:19:29.72,0:19:31.30,Main Dialog,,0000,0000,0000,,You laughin' at me, you little brat?!
+Dialogue: 0,0:19:31.30,0:19:33.86,Main Dialog,,0000,0000,0000,,You can't find a fellow Vanguard player...
+Dialogue: 0,0:19:34.08,0:19:36.82,Main Dialog,,0000,0000,0000,,...in a good school like Miyaji Academy?
+Dialogue: 0,0:19:36.82,0:19:40.56,Main Dialog,,0000,0000,0000,,Nope. It's a school that focuses \Non preparing for college.
+Dialogue: 0,0:19:40.58,0:19:42.74,Main Dialog,,0000,0000,0000,,Besides, there aren't any \Nkids who are interested...
+Dialogue: 0,0:19:42.98,0:19:44.41,Main Dialog,,0000,0000,0000,,I see...
+Dialogue: 0,0:19:44.41,0:19:47.44,Main Dialog,,0000,0000,0000,,We've got a Vanguard boom at our school.
+Dialogue: 0,0:19:47.44,0:19:49.00,Main Dialog,,0000,0000,0000,,Wanna transfer over?
+Dialogue: 0,0:19:49.30,0:19:50.44,Main Dialog,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:19:50.44,0:19:51.52,Main Dialog,,0000,0000,0000,,But...
+Dialogue: 0,0:19:52.12,0:19:53.00,Main Dialog,,0000,0000,0000,,Kai?
+Dialogue: 0,0:19:53.64,0:19:55.66,Main Dialog,,0000,0000,0000,,If he bought a deck on his way out,
+Dialogue: 0,0:19:55.66,0:19:58.63,Main Dialog,,0000,0000,0000,,that means he's interested in Vanguard.
+Dialogue: 0,0:20:00.56,0:20:01.77,Main Dialog,,0000,0000,0000,,I see...
+Dialogue: 0,0:20:01.77,0:20:04.89,Main Dialog,,0000,0000,0000,,Get your act together. \NYou're a leader, remember?
+Dialogue: 0,0:20:04.89,0:20:06.25,Main Dialog,,0000,0000,0000,,Oh, that's...
+Dialogue: 0,0:20:06.96,0:20:07.94,Main Dialog,,0000,0000,0000,,But...
+Dialogue: 0,0:20:07.94,0:20:11.26,Main Dialog,,0000,0000,0000,,If Ishida is interested in Vanguard,
+Dialogue: 0,0:20:11.73,0:20:13.93,Main Dialog,,0000,0000,0000,,I've got to reach out to him.
+Dialogue: 0,0:20:14.45,0:20:15.65,Main Dialog,,0000,0000,0000,,Thank you, Kai!
+Dialogue: 0,0:20:15.65,0:20:16.56,Main Dialog,,0000,0000,0000,,Jeez...
+Dialogue: 0,0:20:17.10,0:20:19.28,Main Dialog,,0000,0000,0000,,You're a different person \Nfrom when you fight...
+Dialogue: 0,0:20:19.28,0:20:21.28,Main Dialog,,0000,0000,0000,,{\a6}I see. That's right!
+Dialogue: 0,0:20:19.97,0:20:21.28,Main Dialog,,0000,0000,0000,,You're a nice guy, Kai.
+Dialogue: 0,0:20:21.93,0:20:22.88,Main Dialog,,0000,0000,0000,,{\a6}Exactly!
+Dialogue: 0,0:20:22.88,0:20:25.69,Main Dialog,,0000,0000,0000,,{\a6}I just don't understand \Nthe feelings of men...
+Dialogue: 0,0:20:23.04,0:20:25.17,Main Dialog,,0000,0000,0000,,He would've realized it even \Nif I hadn't said anything.
+Dialogue: 0,0:20:25.70,0:20:27.28,Main Dialog,,0000,0000,0000,,But you felt the need to say it?
+Dialogue: 0,0:20:27.61,0:20:29.04,Main Dialog,,0000,0000,0000,,That's not it.
+Dialogue: 0,0:20:29.04,0:20:29.82,Main Dialog,,0000,0000,0000,,It's just...
+Dialogue: 0,0:20:30.22,0:20:33.04,Main Dialog,,0000,0000,0000,,Seeing him sitting there \Nat a loss, it slipped out.
+Dialogue: 0,0:20:35.16,0:20:37.81,Main Dialog,,0000,0000,0000,,Even though he's already plenty strong...
+Dialogue: 0,0:20:38.34,0:20:39.97,Main Dialog,,0000,0000,0000,,Come on, seriously, switch to our school!
+Dialogue: 0,0:20:39.97,0:20:41.06,Main Dialog,,0000,0000,0000,,Yeah, it's a great idea!
+Dialogue: 0,0:20:41.06,0:20:42.86,Main Dialog,,0000,0000,0000,,I'll intro you to everybody \Nas my number one disciple!
+Dialogue: 0,0:20:42.86,0:20:44.65,Main Dialog,,0000,0000,0000,,Never mind that, but it'd be fun!
+Dialogue: 0,0:20:48.58,0:20:52.13,Main Dialog,,0000,0000,0000,,Aichi, you still haven't made \Nany friends at that school?
+Dialogue: 0,0:20:53.12,0:20:53.73,Main Dialog,,0000,0000,0000,,Nope...
+Dialogue: 0,0:20:53.73,0:20:55.89,Main Dialog,,0000,0000,0000,,Boy, you're helpless.
+Dialogue: 0,0:20:55.89,0:20:57.03,Main Dialog,,0000,0000,0000,,But if you insisted,
+Dialogue: 0,0:20:57.03,0:21:01.41,Main Dialog,,0000,0000,0000,,you could always come over to the \Nmiddle school during your lunch hour
+Dialogue: 0,0:21:01.41,0:21:05.52,Main Dialog,,0000,0000,0000,,and play Vanguard with Mai and me.
+Dialogue: 0,0:21:05.52,0:21:06.66,Main Dialog,,0000,0000,0000,,Thanks for breakfast!
+Dialogue: 0,0:21:06.94,0:21:08.20,Main Dialog,,0000,0000,0000,,Aichi...
+Dialogue: 0,0:21:14.73,0:21:15.85,Main Dialog,,0000,0000,0000,,Morning!
+Dialogue: 0,0:21:17.49,0:21:19.42,Main Dialog,,0000,0000,0000,,He's not here yet...
+Dialogue: 0,0:21:34.72,0:21:35.31,Main Dialog,,0000,0000,0000,,Rise!
+Dialogue: 0,0:21:36.49,0:21:37.06,Main Dialog,,0000,0000,0000,,Bow!
+Dialogue: 0,0:21:38.84,0:21:39.86,Main Dialog,,0000,0000,0000,,Take your seats!
+Dialogue: 0,0:21:41.04,0:21:42.22,Main Dialog,,0000,0000,0000,,Morning.
+Dialogue: 0,0:21:42.22,0:21:46.13,Main Dialog,,0000,0000,0000,,Starting today, we've got \Na new student in our class.
+Dialogue: 0,0:21:46.13,0:21:47.33,Main Dialog,,0000,0000,0000,,Come in.
+Dialogue: 0,0:21:53.56,0:21:54.70,Main Dialog,,0000,0000,0000,,She's an idol!
+Dialogue: 0,0:21:54.70,0:21:56.10,Main Dialog,,0000,0000,0000,,I've seen her before somewhere, too!
+Dialogue: 0,0:21:56.10,0:21:57.83,Main Dialog,,0000,0000,0000,,Idiot! You don't know who she is?!
+Dialogue: 0,0:21:57.83,0:21:59.06,Main Dialog,,0000,0000,0000,,She's so cute!
+Dialogue: 0,0:22:02.61,0:22:04.46,Main Dialog,,0000,0000,0000,,Kourin...?
+Dialogue: 0,0:22:04.46,0:22:05.68,Signs,,0000,0000,0000,,Kourin
+Dialogue: 0,0:22:05.97,0:22:08.10,Main Dialog,,0000,0000,0000,,I'm Kourin Tatsunagi.
+Dialogue: 0,0:22:08.10,0:22:11.06,Main Dialog,,0000,0000,0000,,This is my first day at Miyaji Academy.
+Dialogue: 0,0:22:14.02,0:22:16.45,Signs,,0000,0000,0000,,Kourin Tatsunagi
+Dialogue: 0,0:22:14.49,0:22:16.48,Main Dialog,,0000,0000,0000,,It's a pleasure to meet everyone.
+Dialogue: 0,0:22:19.77,0:22:22.05,Main Dialog,,0000,0000,0000,,E-Ehhh?!
+Dialogue: 0,0:23:56.10,0:23:59.45,Main Dialog,,0000,0000,0000,,I'm Aichi Sendou, a first-year high school \Nstudent in Class A at Miyaji Academy.
+Dialogue: 0,0:23:59.45,0:24:01.76,Main Dialog,,0000,0000,0000,,I'm enjoying my life as a \NVanguard fighter to the full!
+Dialogue: 0,0:24:01.76,0:24:04.84,Main Dialog,,0000,0000,0000,,Sounds like you're leading a \Nfun, positive high school life.
+Dialogue: 0,0:24:04.84,0:24:05.93,Main Dialog,,0000,0000,0000,,Kourin!
+Dialogue: 0,0:24:06.52,0:24:08.75,Main Dialog,,0000,0000,0000,,That's my dream, anyway...
+Dialogue: 0,0:24:08.97,0:24:11.60,Main Dialog,,0000,0000,0000,,So you're starting your new life \Nwith a heart filled with dreams...
+Dialogue: 0,0:24:11.60,0:24:13.66,Main Dialog,,0000,0000,0000,,Then your dreams will be destroyed \Nand you'll be grief-stricken.
+Dialogue: 0,0:24:13.66,0:24:15.25,Main Dialog,,0000,0000,0000,,Please stop that!
+Dialogue: 0,0:24:15.25,0:24:17.57,Main Dialog,,0000,0000,0000,,It's important to have hopes and dreams!
+Dialogue: 0,0:24:17.57,0:24:19.47,Main Dialog,,0000,0000,0000,,Next time: Catching a Break!
+Dialogue: 0,0:24:19.77,0:24:23.20,Main Dialog,,0000,0000,0000,,No matter what happens, I'm \Ngoing to break the limit and keep moving forward!

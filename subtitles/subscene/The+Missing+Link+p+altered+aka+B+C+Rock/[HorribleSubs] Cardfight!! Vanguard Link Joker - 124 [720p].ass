@@ -1,0 +1,307 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.46,0:00:07.06,Main Dialog,Spoken,0000,0000,0000,,The way I can express my \Ngratitude is by winning here.
+Dialogue: 0,0:00:08.69,0:00:13.86,Main Dialog,Spoken,0000,0000,0000,,I started the Cardfight Club, and now \NI have to take responsibility and win!
+Dialogue: 0,0:00:15.06,0:00:19.20,Main Dialog,Spoken,0000,0000,0000,,Stand up, my... \Nno, {\i1}our{\i0} avatar!
+Dialogue: 0,0:00:19.20,0:00:22.46,Main Dialog,Spoken,0000,0000,0000,,I ride Blaster Blade Liberator!
+Dialogue: 0,0:00:29.01,0:00:30.97,Main Dialog,Spoken,0000,0000,0000,,Blaster Blade Liberator...
+Dialogue: 0,0:00:32.61,0:00:36.26,Main Dialog,Spoken,0000,0000,0000,,That's your avatar, the one that \Nwas captured by Void, isn't it?
+Dialogue: 0,0:00:36.26,0:00:37.22,Main Dialog,Spoken,0000,0000,0000,,Yes.
+Dialogue: 0,0:00:38.06,0:00:44.44,Main Dialog,Spoken,0000,0000,0000,,So you got your avatar back and plan on \Nchallenging me with all of your power?
+Dialogue: 0,0:00:45.52,0:00:46.68,Main Dialog,Spoken,0000,0000,0000,,Exactly.
+Dialogue: 0,0:00:46.68,0:00:50.18,Main Dialog,Spoken,0000,0000,0000,,Because I can't afford to lose this fight.
+Dialogue: 0,0:00:50.18,0:00:51.23,Main Dialog,Spoken,0000,0000,0000,,Good to hear.
+Dialogue: 0,0:00:53.49,0:00:59.87,Main Dialog,Spoken,0000,0000,0000,,But you're not the only one who \Ngot his avatar back, Aichi.
+Dialogue: 0,0:01:07.17,0:01:11.50,Main Dialog,Spoken,0000,0000,0000,,Envelop everything in darkness, my avatar!
+Dialogue: 0,0:01:12.30,0:01:13.26,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:01:15.82,0:01:19.72,Main Dialog,Spoken,0000,0000,0000,,Blaster Dark Revenger!
+Dialogue: 0,0:01:37.74,0:01:43.01,Main Dialog,Spoken,0000,0000,0000,,The fight between them \Nis showing me this image?
+Dialogue: 0,0:03:17.64,0:03:22.82,Main Dialog,Spoken,0000,0000,0000,,All right, it's the final round of the VF \NHigh School Championship, Kanto Block 3!
+Dialogue: 0,0:03:22.82,0:03:26.97,Main Dialog,Spoken,0000,0000,0000,,The third match is heating up, too!
+Dialogue: 0,0:03:26.97,0:03:29.23,Main Dialog,Spoken,0000,0000,0000,,It's picking up steam!
+Dialogue: 0,0:03:29.56,0:03:35.23,Main Dialog,Spoken,0000,0000,0000,,And small wonder! The combatants are \NAichi Sendou and Ren Suzugamori!
+Dialogue: 0,0:03:35.58,0:03:40.24,Main Dialog,Spoken,0000,0000,0000,,Both of them had great success at the Asia \NCircuit and are among Japan's best fighters!
+Dialogue: 0,0:03:40.61,0:03:43.34,Main Dialog,Spoken,0000,0000,0000,,A match-up between these two \Nwouldn't be out of place
+Dialogue: 0,0:03:43.34,0:03:46.09,Main Dialog,Spoken,0000,0000,0000,,during the final round of the VF \NHigh School Championship proper!
+Dialogue: 0,0:03:46.09,0:03:48.60,Main Dialog,Spoken,0000,0000,0000,,When all is said and done... \Nwhich one of them will win this fight
+Dialogue: 0,0:03:48.60,0:03:53.00,Main Dialog,Spoken,0000,0000,0000,,and go on to the VF High \NSchool Championship?!
+Dialogue: 0,0:03:53.00,0:03:58.00,Signs,Sign,0000,0000,0000,,Showdown at the Summit
+Dialogue: 0,0:03:58.72,0:04:01.38,Main Dialog,Spoken,0000,0000,0000,,Blaster Dark attacks Blaster Blade!
+Dialogue: 0,0:04:12.28,0:04:13.69,Main Dialog,Spoken,0000,0000,0000,,The attack succeeded!
+Dialogue: 0,0:04:14.08,0:04:17.44,Main Dialog,Spoken,0000,0000,0000,,That makes 3 damage for Sendou!
+Dialogue: 0,0:04:18.48,0:04:20.19,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:04:20.81,0:04:21.69,Main Dialog,Spoken,0000,0000,0000,,He's strong...
+Dialogue: 0,0:04:22.53,0:04:26.20,Main Dialog,Spoken,0000,0000,0000,,Now that Ren has Blaster \NDark back, this is his...
+Dialogue: 0,0:04:27.85,0:04:31.20,Main Dialog,Spoken,0000,0000,0000,,This is Shadow Paladin's true power!
+Dialogue: 0,0:04:32.80,0:04:36.10,Main Dialog,Spoken,0000,0000,0000,,Ren is even more powerful than before...
+Dialogue: 0,0:04:38.24,0:04:41.63,Main Dialog,Spoken,0000,0000,0000,,He's improved so much, I can't even \Ncompare it to the way he was back then.
+Dialogue: 0,0:04:43.18,0:04:46.06,Main Dialog,Spoken,0000,0000,0000,,It's like he's a different person...
+Dialogue: 0,0:04:49.36,0:04:50.24,Main Dialog,Spoken,0000,0000,0000,,Or, no...
+Dialogue: 0,0:04:51.89,0:04:53.54,Main Dialog,Spoken,0000,0000,0000,,He {\i1}hasn't{\i0} changed...
+Dialogue: 0,0:04:58.48,0:05:00.82,Main Dialog,Spoken,0000,0000,0000,,I haven't felt this way in a long time.
+Dialogue: 0,0:05:01.98,0:05:05.78,Main Dialog,Spoken,0000,0000,0000,,Yes. The last time we fought \Neach other was in Seoul.
+Dialogue: 0,0:05:06.28,0:05:09.53,Main Dialog,Spoken,0000,0000,0000,,A lot has happened between us, hasn't it?
+Dialogue: 0,0:05:10.02,0:05:15.41,Main Dialog,Spoken,0000,0000,0000,,Well, some of it has been a hassle, \Nbut overall, it's been fun.
+Dialogue: 0,0:05:15.77,0:05:19.48,Main Dialog,Spoken,0000,0000,0000,,To be honest, it was kind of hard on me.
+Dialogue: 0,0:05:19.48,0:05:21.45,Main Dialog,Spoken,0000,0000,0000,,But you've become stronger, right?
+Dialogue: 0,0:05:21.45,0:05:23.43,Main Dialog,Spoken,0000,0000,0000,,And so have you, Ren.
+Dialogue: 0,0:05:24.62,0:05:25.65,Main Dialog,Spoken,0000,0000,0000,,I like this.
+Dialogue: 0,0:05:26.81,0:05:31.82,Main Dialog,Spoken,0000,0000,0000,,I knew that putting our fight off 'til \Nwe got here was the right thing to do.
+Dialogue: 0,0:05:32.41,0:05:36.62,Main Dialog,Spoken,0000,0000,0000,,Yes. And it's a fight that \NI absolutely have to win.
+Dialogue: 0,0:05:40.81,0:05:45.06,Main Dialog,Spoken,0000,0000,0000,,For the sake of the Cardfight Club \Nthat we all built together...
+Dialogue: 0,0:05:45.06,0:05:49.16,Main Dialog,Spoken,0000,0000,0000,,And more than anything, for their \Nsake, since they helped me!
+Dialogue: 0,0:05:49.80,0:05:52.62,Main Dialog,Spoken,0000,0000,0000,,So you're doing your best for your friends?
+Dialogue: 0,0:05:53.26,0:05:54.72,Main Dialog,Spoken,0000,0000,0000,,That's very you.
+Dialogue: 0,0:05:55.42,0:05:56.04,Main Dialog,Spoken,0000,0000,0000,,But...
+Dialogue: 0,0:05:59.28,0:06:03.17,Main Dialog,Spoken,0000,0000,0000,,...if we're talking friends, \NI've got them, too.
+Dialogue: 0,0:06:07.02,0:06:09.80,Main Dialog,Spoken,0000,0000,0000,,So I have no intention of losing, either.
+Dialogue: 0,0:06:10.50,0:06:12.46,Main Dialog,Spoken,0000,0000,0000,,Now, it's your turn.
+Dialogue: 0,0:06:12.46,0:06:16.36,Main Dialog,Spoken,0000,0000,0000,,Show me how you and your army \Nof knights have developed.
+Dialogue: 0,0:06:16.36,0:06:19.12,Main Dialog,Spoken,0000,0000,0000,,Although whatever you do \Nwon't work on me, of course.
+Dialogue: 0,0:06:19.66,0:06:22.31,Main Dialog,Spoken,0000,0000,0000,,We'll see whether it works on you or not.
+Dialogue: 0,0:06:30.08,0:06:33.93,Main Dialog,Spoken,0000,0000,0000,,I ride Solitary Liberator, Gancelot!
+Dialogue: 0,0:06:37.05,0:06:38.58,Main Dialog,Spoken,0000,0000,0000,,Escrad! Phallon!
+Dialogue: 0,0:06:39.10,0:06:40.32,Main Dialog,Spoken,0000,0000,0000,,Escrad attacks!
+Dialogue: 0,0:06:43.08,0:06:43.98,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:07:00.92,0:07:03.12,Main Dialog,Spoken,0000,0000,0000,,What fierce spirit!
+Dialogue: 0,0:07:03.12,0:07:05.22,Main Dialog,Spoken,0000,0000,0000,,And yet, they're still...
+Dialogue: 0,0:07:05.22,0:07:06.32,Main Dialog,Spoken,0000,0000,0000,,Looks like they're having fun, huh?
+Dialogue: 0,0:07:08.10,0:07:09.97,Main Dialog,Spoken,0000,0000,0000,,I'm talking about those two.
+Dialogue: 0,0:07:09.97,0:07:11.06,Main Dialog,Spoken,0000,0000,0000,,Yeah.
+Dialogue: 0,0:07:11.06,0:07:14.22,Main Dialog,Spoken,0000,0000,0000,,This is the hottest match at the \NVF High School Championship.
+Dialogue: 0,0:07:14.22,0:07:18.46,Main Dialog,Spoken,0000,0000,0000,,That's probably why it's such a \Npassionate, not to mention fun, fight.
+Dialogue: 0,0:07:20.46,0:07:21.37,Main Dialog,Spoken,0000,0000,0000,,Why...?
+Dialogue: 0,0:07:22.48,0:07:24.48,Main Dialog,Spoken,0000,0000,0000,,Why was I transported over there...?
+Dialogue: 0,0:07:26.05,0:07:27.61,Main Dialog,Spoken,0000,0000,0000,,Gancelot moves out!
+Dialogue: 0,0:07:30.93,0:07:31.93,Main Dialog,Spoken,0000,0000,0000,,No guard.
+Dialogue: 0,0:07:32.36,0:07:33.53,Main Dialog,Spoken,0000,0000,0000,,Twin drive, check!
+Dialogue: 0,0:07:35.88,0:07:36.81,Main Dialog,Spoken,0000,0000,0000,,Yeah!
+Dialogue: 0,0:07:36.81,0:07:38.60,Main Dialog,Spoken,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:07:48.98,0:07:50.12,Main Dialog,Spoken,0000,0000,0000,,Heal trigger.
+Dialogue: 0,0:07:50.76,0:07:55.12,Main Dialog,Spoken,0000,0000,0000,,I heal 1 damage point and give \Nthe power to Blaster Dark.
+Dialogue: 0,0:07:56.81,0:07:59.32,Main Dialog,Spoken,0000,0000,0000,,He pulled a heal trigger \Nat just the right time.
+Dialogue: 0,0:07:59.32,0:08:00.79,Main Dialog,Spoken,0000,0000,0000,,That's my Ren!
+Dialogue: 0,0:08:01.33,0:08:03.26,Main Dialog,Spoken,0000,0000,0000,,Phallon! Attack Rugos!
+Dialogue: 0,0:08:10.42,0:08:12.64,Main Dialog,Spoken,0000,0000,0000,,Turn... end...
+Dialogue: 0,0:08:15.26,0:08:17.05,Main Dialog,Spoken,0000,0000,0000,,Stand and draw.
+Dialogue: 0,0:08:19.45,0:08:20.93,Main Dialog,Spoken,0000,0000,0000,,Despair!
+Dialogue: 0,0:08:20.93,0:08:25.69,Main Dialog,Spoken,0000,0000,0000,,Then fall to your knees and sip bitter water!
+Dialogue: 0,0:08:25.69,0:08:26.62,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:08:27.62,0:08:31.10,Main Dialog,Spoken,0000,0000,0000,,Illusionary Revenger, Mordred Phantom!
+Dialogue: 0,0:08:32.85,0:08:33.36,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:08:41.18,0:08:44.54,Main Dialog,Spoken,0000,0000,0000,,Here I go. Venomous Breath attacks!
+Dialogue: 0,0:08:48.48,0:08:49.42,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:08:50.05,0:08:51.17,Main Dialog,Spoken,0000,0000,0000,,Mordred!
+Dialogue: 0,0:08:54.22,0:08:55.09,Main Dialog,Spoken,0000,0000,0000,,No guard!
+Dialogue: 0,0:08:55.40,0:08:56.47,Main Dialog,Spoken,0000,0000,0000,,Twin drive.
+Dialogue: 0,0:09:01.17,0:09:04.43,Main Dialog,Spoken,0000,0000,0000,,Grim Revenger. Critical trigger.
+Dialogue: 0,0:09:05.37,0:09:09.30,Main Dialog,Spoken,0000,0000,0000,,I give the power to Rugos \Nand the critical to Mordred.
+Dialogue: 0,0:09:21.73,0:09:24.12,Main Dialog,Spoken,0000,0000,0000,,Suddenly, he's up to 5 damage!
+Dialogue: 0,0:09:24.60,0:09:26.87,Main Dialog,Spoken,0000,0000,0000,,Charon boosts. Rugos...
+Dialogue: 0,0:09:27.72,0:09:29.41,Main Dialog,Spoken,0000,0000,0000,,...attacks Phallon.
+Dialogue: 0,0:09:37.01,0:09:37.93,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:09:40.76,0:09:42.09,Main Dialog,Spoken,0000,0000,0000,,5 damage...
+Dialogue: 0,0:09:43.57,0:09:45.52,Main Dialog,Spoken,0000,0000,0000,,Ren only has 3 damage...
+Dialogue: 0,0:09:45.52,0:09:48.88,Main Dialog,Spoken,0000,0000,0000,,The fight will be decided... this turn!
+Dialogue: 0,0:09:51.52,0:09:52.69,Main Dialog,Spoken,0000,0000,0000,,Stand and draw.
+Dialogue: 0,0:09:54.22,0:09:59.20,Main Dialog,Spoken,0000,0000,0000,,From your solitary summit, \Nwhere you see everything,
+Dialogue: 0,0:09:59.74,0:10:01.87,Main Dialog,Spoken,0000,0000,0000,,set free those who have \Nbeen captured by evil!
+Dialogue: 0,0:10:02.29,0:10:07.10,Main Dialog,Spoken,0000,0000,0000,,I break ride Solitary Liberator, Gancelot!
+Dialogue: 0,0:10:10.32,0:10:12.75,Main Dialog,Spoken,0000,0000,0000,,Gancelot on top of Gancelot...
+Dialogue: 0,0:10:18.44,0:10:19.52,Main Dialog,Spoken,0000,0000,0000,,Huh...
+Dialogue: 0,0:10:20.54,0:10:24.22,Main Dialog,Spoken,0000,0000,0000,,With the break ride, \NGancelot gets +10000 power!
+Dialogue: 0,0:10:24.65,0:10:27.77,Main Dialog,Spoken,0000,0000,0000,,Escrad and Wingal also receive +5000 power!
+Dialogue: 0,0:10:28.42,0:10:29.60,Main Dialog,Spoken,0000,0000,0000,,I call Marron!
+Dialogue: 0,0:10:30.50,0:10:34.36,Main Dialog,Spoken,0000,0000,0000,,Gancelot attacks with a boost from Wingal!
+Dialogue: 0,0:10:38.14,0:10:39.36,Main Dialog,Spoken,0000,0000,0000,,No guard.
+Dialogue: 0,0:10:39.89,0:10:41.44,Main Dialog,Spoken,0000,0000,0000,,Twin drive!
+Dialogue: 0,0:10:44.08,0:10:45.56,Main Dialog,Spoken,0000,0000,0000,,I give the power to Escrad...
+Dialogue: 0,0:10:47.12,0:10:48.74,Main Dialog,Spoken,0000,0000,0000,,...and the critical to Gancelot!
+Dialogue: 0,0:10:55.42,0:11:01.39,Signs,Sign,0000,0000,0000,,Love {Headbands}
+Dialogue: 0,0:10:55.42,0:11:01.39,Signs,Sign,0000,0000,0000,,Kourin Love {Lapels}
+Dialogue: 0,0:10:55.68,0:10:58.08,Main Dialog,Spoken,0000,0000,0000,,Yes! Ren has 5 damage!
+Dialogue: 0,0:10:58.08,0:11:01.34,Main Dialog,Spoken,0000,0000,0000,,Aichi! Let's go to the \NHigh School Championship!
+Dialogue: 0,0:11:01.34,0:11:03.43,Main Dialog,Spoken,0000,0000,0000,,Go, Brother!
+Dialogue: 0,0:11:03.94,0:11:07.56,Main Dialog,Spoken,0000,0000,0000,,With that attack, a boost \Nfrom Wingal means...
+Dialogue: 0,0:11:08.12,0:11:08.93,Main Dialog,Spoken,0000,0000,0000,,Yeah...
+Dialogue: 0,0:11:09.56,0:11:10.69,Main Dialog,Spoken,0000,0000,0000,,Skill activated!
+Dialogue: 0,0:11:11.09,0:11:12.69,Main Dialog,Spoken,0000,0000,0000,,Wingal moves to the Soul.
+Dialogue: 0,0:11:13.62,0:11:16.19,Main Dialog,Spoken,0000,0000,0000,,Stand up again, my avatar.
+Dialogue: 0,0:11:16.65,0:11:20.86,Main Dialog,Spoken,0000,0000,0000,,Superior call! Blaster Blade Liberator!
+Dialogue: 0,0:11:26.08,0:11:29.61,Main Dialog,Spoken,0000,0000,0000,,Blaster Blade keeps on standing...
+Dialogue: 0,0:11:31.71,0:11:32.94,Main Dialog,Spoken,0000,0000,0000,,That Aichi...
+Dialogue: 0,0:11:33.45,0:11:36.29,Main Dialog,Spoken,0000,0000,0000,,That Blaster Blade...
+Dialogue: 0,0:11:38.10,0:11:41.14,Main Dialog,Spoken,0000,0000,0000,,I can't believe how far away they are...
+Dialogue: 0,0:11:45.34,0:11:46.61,Main Dialog,Spoken,0000,0000,0000,,Counterblast!
+Dialogue: 0,0:11:47.68,0:11:50.60,Main Dialog,Spoken,0000,0000,0000,,I retire your Darkness Revenger, Rugos!
+Dialogue: 0,0:11:56.50,0:11:57.23,Main Dialog,Spoken,0000,0000,0000,,Escrad!
+Dialogue: 0,0:11:57.72,0:11:58.98,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:12:01.20,0:12:02.74,Main Dialog,Spoken,0000,0000,0000,,Just 1 more damage...
+Dialogue: 0,0:12:04.06,0:12:07.86,Main Dialog,Spoken,0000,0000,0000,,With 1 damage, I can go with everyone...
+Dialogue: 0,0:12:08.76,0:12:10.54,Main Dialog,Spoken,0000,0000,0000,,...to the VF High School Championship.
+Dialogue: 0,0:12:11.41,0:12:12.44,Main Dialog,Spoken,0000,0000,0000,,That's why...
+Dialogue: 0,0:12:29.61,0:12:32.18,Main Dialog,Spoken,0000,0000,0000,,I'm putting it all in your hands...
+Dialogue: 0,0:12:33.10,0:12:34.73,Main Dialog,Spoken,0000,0000,0000,,...Blaster Blade!
+Dialogue: 0,0:12:35.13,0:12:38.98,Main Dialog,Spoken,0000,0000,0000,,Go, my avatar! Attack Mordred!
+Dialogue: 0,0:12:40.94,0:12:41.90,Main Dialog,Spoken,0000,0000,0000,,Guard.
+Dialogue: 0,0:12:51.48,0:12:53.74,Main Dialog,Spoken,0000,0000,0000,,I have a shield of 21000.
+Dialogue: 0,0:12:54.60,0:12:57.81,Main Dialog,Spoken,0000,0000,0000,,Blaster Blade's power is 16000.
+Dialogue: 0,0:12:58.49,0:13:00.25,Main Dialog,Spoken,0000,0000,0000,,Your attack fails, huh?
+Dialogue: 0,0:13:02.78,0:13:06.66,Main Dialog,Spoken,0000,0000,0000,,Wow! He withstood that attack?
+Dialogue: 0,0:13:06.66,0:13:09.22,Main Dialog,Spoken,0000,0000,0000,,That's Ren Suzugamori, all right.
+Dialogue: 0,0:13:09.22,0:13:11.26,Main Dialog,Spoken,0000,0000,0000,,He's so strong, you can't help but hate him.
+Dialogue: 0,0:13:14.38,0:13:18.78,Main Dialog,Spoken,0000,0000,0000,,He even blocked Blaster Blade's attack?!
+Dialogue: 0,0:13:22.60,0:13:25.84,Main Dialog,Spoken,0000,0000,0000,,Just a little more... \NI was only one step away...
+Dialogue: 0,0:13:33.13,0:13:34.80,Main Dialog,Spoken,0000,0000,0000,,That was close.
+Dialogue: 0,0:13:35.50,0:13:37.34,Main Dialog,Spoken,0000,0000,0000,,But that's Aichi for you...
+Dialogue: 0,0:13:38.04,0:13:40.08,Main Dialog,Spoken,0000,0000,0000,,Still, that too is over.
+Dialogue: 0,0:13:41.17,0:13:44.53,Main Dialog,Spoken,0000,0000,0000,,I'm going to crush you with all of my might.
+Dialogue: 0,0:13:45.18,0:13:48.09,Main Dialog,Spoken,0000,0000,0000,,Using the true power of Shadow Paladin...
+Dialogue: 0,0:13:51.69,0:13:57.89,Main Dialog,Spoken,0000,0000,0000,,You're the only one who \Ncan take all of my power.
+Dialogue: 0,0:14:00.89,0:14:03.98,Main Dialog,Spoken,0000,0000,0000,,It seems the fight is decided, Leon.
+Dialogue: 0,0:14:03.98,0:14:07.33,Main Dialog,Spoken,0000,0000,0000,,So Fukuhara High School will be going \Nto the High School Championship...
+Dialogue: 0,0:14:07.33,0:14:08.25,Main Dialog,Spoken,0000,0000,0000,,Not so fast.
+Dialogue: 0,0:14:09.10,0:14:11.16,Main Dialog,Spoken,0000,0000,0000,,The fight isn't over yet.
+Dialogue: 0,0:14:11.90,0:14:15.90,Main Dialog,Spoken,0000,0000,0000,,Make the wind rise up, Aichi Sendou.
+Dialogue: 0,0:14:17.30,0:14:20.13,Main Dialog,Spoken,0000,0000,0000,,That's right! I'm not going to lose...
+Dialogue: 0,0:14:20.13,0:14:22.81,Main Dialog,Spoken,0000,0000,0000,,I'm going to the VF High School \NChampionship with everyone!
+Dialogue: 0,0:14:23.32,0:14:26.17,Main Dialog,Spoken,0000,0000,0000,,And to do that, I have to win!
+Dialogue: 0,0:14:26.82,0:14:29.29,Main Dialog,Spoken,0000,0000,0000,,At last, the fight is in the home stretch!
+Dialogue: 0,0:14:29.29,0:14:31.18,Main Dialog,Spoken,0000,0000,0000,,Both of them have 5 damage.
+Dialogue: 0,0:14:31.66,0:14:35.24,Main Dialog,Spoken,0000,0000,0000,,Will Suzugamori win it this turn?
+Dialogue: 0,0:14:35.24,0:14:39.44,Main Dialog,Spoken,0000,0000,0000,,Or will Sendou hold out and \Nfind his way to victory?!
+Dialogue: 0,0:14:40.04,0:14:42.06,Main Dialog,Spoken,0000,0000,0000,,It's s-{\i1}o{\i0} exciting!
+Dialogue: 0,0:14:42.06,0:14:43.32,Main Dialog,Spoken,0000,0000,0000,,You are s-{\i1}o{\i0} right!
+Dialogue: 0,0:14:44.09,0:14:45.32,Main Dialog,Spoken,0000,0000,0000,,Break ride!
+Dialogue: 0,0:14:46.36,0:14:47.86,Main Dialog,Spoken,0000,0000,0000,,Mordred Phantom!
+Dialogue: 0,0:14:49.90,0:14:52.76,Main Dialog,Spoken,0000,0000,0000,,Mordred gets +10000 power!
+Dialogue: 0,0:14:55.26,0:14:57.62,Main Dialog,Spoken,0000,0000,0000,,And then, from my deck...
+Dialogue: 0,0:15:02.10,0:15:03.79,Main Dialog,Spoken,0000,0000,0000,,Enshroud everything in darkness...
+Dialogue: 0,0:15:04.32,0:15:08.55,Main Dialog,Spoken,0000,0000,0000,,The eternal darkness that even \Nthe light of hope cannot reach!
+Dialogue: 0,0:15:09.26,0:15:10.55,Main Dialog,Spoken,0000,0000,0000,,My avatar!
+Dialogue: 0,0:15:13.90,0:15:16.14,Main Dialog,Spoken,0000,0000,0000,,Blaster Dark Revenger!
+Dialogue: 0,0:15:22.44,0:15:24.19,Main Dialog,Spoken,0000,0000,0000,,Blaster Dark!
+Dialogue: 0,0:15:27.74,0:15:29.46,Main Dialog,Spoken,0000,0000,0000,,Counterblast!
+Dialogue: 0,0:15:38.98,0:15:40.83,Main Dialog,Spoken,0000,0000,0000,,The emissary of terror...
+Dialogue: 0,0:15:41.46,0:15:43.96,Main Dialog,Spoken,0000,0000,0000,,...appears from out of pitch \Ndarkness and takes his victim
+Dialogue: 0,0:15:43.96,0:15:46.65,Main Dialog,Spoken,0000,0000,0000,,to the realm of the dead \Nwithout making a sound.
+Dialogue: 0,0:15:49.52,0:15:53.33,Main Dialog,Spoken,0000,0000,0000,,Go to Hades, Blaster Blade!
+Dialogue: 0,0:16:07.04,0:16:10.78,Main Dialog,Spoken,0000,0000,0000,,Now Sendou can't use any intercepts...
+Dialogue: 0,0:16:12.00,0:16:13.80,Main Dialog,Spoken,0000,0000,0000,,So the wind won't blow?
+Dialogue: 0,0:16:19.16,0:16:21.55,Main Dialog,Spoken,0000,0000,0000,,Destroy him, my avatar.
+Dialogue: 0,0:16:22.40,0:16:24.17,Main Dialog,Spoken,0000,0000,0000,,Attack Gancelot!
+Dialogue: 0,0:16:50.64,0:16:52.36,Main Dialog,Spoken,0000,0000,0000,,I lost...
+Dialogue: 0,0:16:54.49,0:16:56.72,Main Dialog,Spoken,0000,0000,0000,,This fierce fight is over at last!
+Dialogue: 0,0:16:58.20,0:17:00.82,Main Dialog,Spoken,0000,0000,0000,,The winner is Ren Suzugamori!
+Dialogue: 0,0:17:00.82,0:17:05.12,Main Dialog,Spoken,0000,0000,0000,,Fukuhara High School has \Nconquered Kanto Block 3,
+Dialogue: 0,0:17:05.80,0:17:08.24,Main Dialog,Spoken,0000,0000,0000,,and will go on to the VF \NHigh School Championship!
+Dialogue: 0,0:17:09.13,0:17:13.01,Signs,Sign,0000,0000,0000,,VF High School Championship\NKanto Block 3
+Dialogue: 0,0:17:10.40,0:17:13.01,Main Dialog,Spoken,0000,0000,0000,,Ren!
+Dialogue: 0,0:17:19.40,0:17:22.02,Main Dialog,Spoken,0000,0000,0000,,Aichi! You did great, too!
+Dialogue: 0,0:17:23.54,0:17:24.98,Main Dialog,Spoken,0000,0000,0000,,It was so close!
+Dialogue: 0,0:17:24.98,0:17:26.50,Main Dialog,Spoken,0000,0000,0000,,HL, yo!
+Dialogue: 0,0:17:26.50,0:17:28.25,Main Dialog,Spoken,0000,0000,0000,,He lost...
+Dialogue: 0,0:17:28.25,0:17:30.77,Main Dialog,Spoken,0000,0000,0000,,Still, Brother was really cool out there...
+Dialogue: 0,0:17:30.77,0:17:34.26,Main Dialog,Spoken,0000,0000,0000,,It was a duel between \NBlasters there at the end...
+Dialogue: 0,0:17:34.26,0:17:36.69,Main Dialog,Spoken,0000,0000,0000,,What an incredible fight.
+Dialogue: 0,0:17:37.28,0:17:43.29,Main Dialog,Spoken,0000,0000,0000,,It's too bad that Aichi lost, but \Nman, that was exciting, right, Kai?
+Dialogue: 0,0:17:43.77,0:17:45.16,Main Dialog,Spoken,0000,0000,0000,,Kai?
+Dialogue: 0,0:17:45.58,0:17:47.30,Main Dialog,Spoken,0000,0000,0000,,I knew you would win, Ren!
+Dialogue: 0,0:17:47.30,0:17:48.92,Main Dialog,Spoken,0000,0000,0000,,You were really cool.
+Dialogue: 0,0:17:48.92,0:17:49.67,Main Dialog,Spoken,0000,0000,0000,,Aw, shucks...
+Dialogue: 0,0:17:50.09,0:17:52.74,Main Dialog,Spoken,0000,0000,0000,,And now we can participate in \Nthe VF High School Tournament.
+Dialogue: 0,0:17:53.22,0:17:55.17,Main Dialog,Spoken,0000,0000,0000,,I guess I'll say you did well.
+Dialogue: 0,0:17:55.17,0:18:00.32,Main Dialog,Spoken,0000,0000,0000,,Eh...? I think you could dish out a little \Nmore praise than that without tempting fate...
+Dialogue: 0,0:18:00.32,0:18:03.31,Main Dialog,Spoken,0000,0000,0000,,I'll save the real praise for when \Nwe win the High School Championship.
+Dialogue: 0,0:18:03.72,0:18:05.44,Main Dialog,Spoken,0000,0000,0000,,You're stingy, Tetsu...
+Dialogue: 0,0:18:06.12,0:18:09.16,Main Dialog,Spoken,0000,0000,0000,,Still, are there fighters at the \NHigh School Championship proper
+Dialogue: 0,0:18:09.16,0:18:11.82,Main Dialog,Spoken,0000,0000,0000,,who are at the same level as Aichi?
+Dialogue: 0,0:18:12.90,0:18:16.36,Main Dialog,Spoken,0000,0000,0000,,Good question. I suppose \None possibility might be...
+Dialogue: 0,0:18:17.64,0:18:21.45,Main Dialog,Spoken,0000,0000,0000,,Even with Sendou's wind, \Nit didn't reach far enough.
+Dialogue: 0,0:18:21.96,0:18:24.73,Main Dialog,Spoken,0000,0000,0000,,Ren Suzugamori is to be feared...
+Dialogue: 0,0:18:24.73,0:18:28.30,Main Dialog,Spoken,0000,0000,0000,,But perhaps because of that, \Nthere is a reason to fight him.
+Dialogue: 0,0:18:28.30,0:18:33.96,Main Dialog,Spoken,0000,0000,0000,,He lost, but Aichi Sendou... no, all of \NMiyaji Academy... was pretty impressive!
+Dialogue: 0,0:18:34.84,0:18:38.06,Main Dialog,Spoken,0000,0000,0000,,Like they say, after a storm \Ncomes... whatever it is.
+Dialogue: 0,0:18:38.06,0:18:39.97,Main Dialog,Spoken,0000,0000,0000,,"Fair weather."
+Dialogue: 0,0:18:40.50,0:18:42.53,Main Dialog,Spoken,0000,0000,0000,,I'm sorry, everyone...
+Dialogue: 0,0:18:42.53,0:18:45.04,Main Dialog,Spoken,0000,0000,0000,,We can't go to the VF High \NSchool Championship together...
+Dialogue: 0,0:18:45.04,0:18:47.33,Main Dialog,Spoken,0000,0000,0000,,Is it necessary to apologize?
+Dialogue: 0,0:18:48.26,0:18:51.17,Main Dialog,Spoken,0000,0000,0000,,Sendou, you gave it your all.
+Dialogue: 0,0:18:51.17,0:18:52.23,Main Dialog,Spoken,0000,0000,0000,,Am I wrong?
+Dialogue: 0,0:18:52.65,0:18:54.26,Main Dialog,Spoken,0000,0000,0000,,No, of course not!
+Dialogue: 0,0:18:54.26,0:18:55.73,Main Dialog,Spoken,0000,0000,0000,,In that case...
+Dialogue: 0,0:18:56.48,0:18:58.80,Main Dialog,Spoken,0000,0000,0000,,...we have no complaints.
+Dialogue: 0,0:18:58.80,0:18:59.99,Main Dialog,Spoken,0000,0000,0000,,What she said.
+Dialogue: 0,0:19:00.74,0:19:01.86,Main Dialog,Spoken,0000,0000,0000,,Everyone...
+Dialogue: 0,0:19:02.57,0:19:08.97,Main Dialog,Spoken,0000,0000,0000,,In the first place, if you hadn't formed the \NCardfight Club, we never would've been here.
+Dialogue: 0,0:19:09.34,0:19:11.98,Main Dialog,Spoken,0000,0000,0000,,Same goes for this passionate feelin'...
+Dialogue: 0,0:19:11.98,0:19:13.96,Main Dialog,Spoken,0000,0000,0000,,You're the same way, right?
+Dialogue: 0,0:19:15.00,0:19:19.69,Main Dialog,Spoken,0000,0000,0000,,While you were fightin' that guy, \Nyou got all fired up, didn't ya?
+Dialogue: 0,0:19:19.69,0:19:22.33,Main Dialog,Spoken,0000,0000,0000,,Yeah. I was incredibly fired up.
+Dialogue: 0,0:19:22.33,0:19:25.76,Main Dialog,Spoken,0000,0000,0000,,As if all the blood in my body was boiling...
+Dialogue: 0,0:19:26.16,0:19:29.12,Main Dialog,Spoken,0000,0000,0000,,Then that's good enough, ain't it?
+Dialogue: 0,0:19:29.12,0:19:30.17,Main Dialog,Spoken,0000,0000,0000,,Right?!
+Dialogue: 0,0:19:32.70,0:19:35.76,Main Dialog,Spoken,0000,0000,0000,,Yeah. You're right. Thank you, everyone.
+Dialogue: 0,0:19:35.76,0:19:37.49,Main Dialog,Spoken,0000,0000,0000,,Thank you, Naoki.
+Dialogue: 0,0:19:39.00,0:19:41.57,Main Dialog,Spoken,0000,0000,0000,,Looks like the awards \Nceremony is gonna start.
+Dialogue: 0,0:19:41.57,0:19:43.16,Main Dialog,Spoken,0000,0000,0000,,Let's go, guys.
+Dialogue: 0,0:20:03.24,0:20:08.78,Main Dialog,Spoken,0000,0000,0000,,If it had been me standing there...\N what would've happened?
+Dialogue: 0,0:20:10.02,0:20:15.82,Main Dialog,Spoken,0000,0000,0000,,Facing Ren after he regained \NShadow Paladin, would I...?
+Dialogue: 0,0:20:18.06,0:20:21.36,Main Dialog,Spoken,0000,0000,0000,,There you are. What's up \Nwith you all of a sudden?
+Dialogue: 0,0:20:23.90,0:20:25.89,Main Dialog,Spoken,0000,0000,0000,,Miwa... I...
+Dialogue: 0,0:20:31.00,0:20:33.28,Main Dialog,Spoken,0000,0000,0000,,Right now, they're too far away from me.
+Dialogue: 0,0:20:34.10,0:20:36.63,Main Dialog,Spoken,0000,0000,0000,,Ren and Aichi both.
+Dialogue: 0,0:20:41.21,0:20:42.32,Main Dialog,Spoken,0000,0000,0000,,Kai...
+Dialogue: 0,0:20:53.36,0:20:55.65,Main Dialog,Spoken,0000,0000,0000,,It really is over, huh?
+Dialogue: 0,0:20:55.96,0:20:58.72,Main Dialog,Spoken,0000,0000,0000,,Our challenge against the VF \NHigh School Championship...
+Dialogue: 0,0:20:58.72,0:21:03.62,Main Dialog,Spoken,0000,0000,0000,,Quit your whimperin'! \NThere's always next year!
+Dialogue: 0,0:21:03.62,0:21:05.66,Main Dialog,Spoken,0000,0000,0000,,I know that, but...
+Dialogue: 0,0:21:06.25,0:21:09.25,Main Dialog,Spoken,0000,0000,0000,,Besides, it's not like the \NVF High School Championship
+Dialogue: 0,0:21:09.25,0:21:10.66,Main Dialog,Spoken,0000,0000,0000,,is the be-all-end-all for Vanguard.
+Dialogue: 0,0:21:11.54,0:21:14.36,Main Dialog,Spoken,0000,0000,0000,,That's right. We can always \Nfight at the club,
+Dialogue: 0,0:21:14.36,0:21:16.40,Main Dialog,Spoken,0000,0000,0000,,and have intramural matches \Nwith other schools.
+Dialogue: 0,0:21:16.40,0:21:18.45,Main Dialog,Spoken,0000,0000,0000,,Plus there are other tournaments.
+Dialogue: 0,0:21:18.45,0:21:21.24,Main Dialog,Spoken,0000,0000,0000,,If you want to fight, there \Nare plenty of opportunities.
+Dialogue: 0,0:21:21.24,0:21:23.96,Main Dialog,Spoken,0000,0000,0000,,And drop by the shop once in a while.
+Dialogue: 0,0:21:23.96,0:21:25.55,Main Dialog,Spoken,0000,0000,0000,,You'd make Shin really happy.
+Dialogue: 0,0:21:26.02,0:21:28.25,Main Dialog,Spoken,0000,0000,0000,,I see... You're right!
+Dialogue: 0,0:21:28.25,0:21:31.84,Main Dialog,Spoken,0000,0000,0000,,All right! Then let's get \Nback to the club and fight!
+Dialogue: 0,0:21:31.84,0:21:35.31,Main Dialog,Spoken,0000,0000,0000,,Good idea! I'll train you hard!
+Dialogue: 0,0:21:35.78,0:21:40.01,Main Dialog,Spoken,0000,0000,0000,,So don't you drag us down again \Nnext year, Porcupine Head!
+Dialogue: 0,0:21:40.01,0:21:42.62,Main Dialog,Spoken,0000,0000,0000,,What's that, Granny Glasses?!
+Dialogue: 0,0:21:42.62,0:21:45.65,Main Dialog,Spoken,0000,0000,0000,,Excuse me?! You got a problem?!
+Dialogue: 0,0:21:45.65,0:21:47.85,Main Dialog,Spoken,0000,0000,0000,,Y-You two...
+Dialogue: 0,0:21:47.85,0:21:48.81,Main Dialog,Spoken,0000,0000,0000,,Leave them be.
+Dialogue: 0,0:21:48.81,0:21:49.89,Main Dialog,Spoken,0000,0000,0000,,Yeah.
+Dialogue: 0,0:21:52.10,0:21:56.49,Main Dialog,Spoken,0000,0000,0000,,So, what?! I'll appreciate \Nyour help from now on!
+Dialogue: 0,0:21:56.49,0:22:00.08,Main Dialog,Spoken,0000,0000,0000,,I know you will! And I'm gonna \Ncrack the whip on you!
+Dialogue: 0,0:22:00.08,0:22:02.33,Main Dialog,Spoken,0000,0000,0000,,I can take whatever you dish out!
+Dialogue: 0,0:22:02.33,0:22:03.69,Main Dialog,Spoken,0000,0000,0000,,You better steel yourself!
+Dialogue: 0,0:22:05.04,0:22:08.21,Main Dialog,Spoken,0000,0000,0000,,That's enough, you two!
+Dialogue: 0,0:22:10.68,0:22:13.80,Main Dialog,Spoken,0000,0000,0000,,So they're starting again, with \Ntheir sights set on next year?
+Dialogue: 0,0:22:14.24,0:22:18.31,Main Dialog,Spoken,0000,0000,0000,,That's if they still have \Na club by next year...
+Dialogue: 0,0:23:56.45,0:23:58.38,Main Dialog,Spoken,0000,0000,0000,,Miyaji Academy Cardfight Club,
+Dialogue: 0,0:23:58.38,0:24:00.96,Main Dialog,Spoken,0000,0000,0000,,defeated in the finals of the VF High \NSchool Championship preliminaries!
+Dialogue: 0,0:24:00.96,0:24:03.88,Main Dialog,Spoken,0000,0000,0000,,It's too bad, but I think I did a good job!
+Dialogue: 0,0:24:03.88,0:24:05.46,Main Dialog,Spoken,0000,0000,0000,,It is a little frustrating,
+Dialogue: 0,0:24:05.58,0:24:09.84,Main Dialog,Spoken,0000,0000,0000,,but I'm really happy that I got to \Nfight alongside such good friends.
+Dialogue: 0,0:24:10.20,0:24:13.30,Main Dialog,Spoken,0000,0000,0000,,Huh? Have lunch together?
+Dialogue: 0,0:24:13.30,0:24:15.58,Main Dialog,Spoken,0000,0000,0000,,Next time: A Windy Day!
+Dialogue: 0,0:24:15.58,0:24:18.66,Main Dialog,Spoken,0000,0000,0000,,Kourin, Misaki, those lunches are amazing!
+Dialogue: 0,0:24:18.66,0:24:20.26,Main Dialog,Spoken,0000,0000,0000,,Homemade idol cooking!
+Dialogue: 0,0:24:20.26,0:24:23.41,Main Dialog,Spoken,0000,0000,0000,,Awesome! Is that your \Nhomemade cooking, Boss Lady?

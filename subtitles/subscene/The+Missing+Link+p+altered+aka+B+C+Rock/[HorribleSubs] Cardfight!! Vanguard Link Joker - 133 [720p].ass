@@ -1,0 +1,327 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.57,0:00:04.66,Main Dialog,Spoken,0000,0000,0000,,Tetsu!
+Dialogue: 0,0:00:05.08,0:00:06.52,Main Dialog,Spoken,0000,0000,0000,,Nobody's here...
+Dialogue: 0,0:00:11.21,0:00:12.22,Main Dialog,Spoken,0000,0000,0000,,I see.
+Dialogue: 0,0:00:12.81,0:00:16.89,Main Dialog,Spoken,0000,0000,0000,,The last boss is waiting in a place \Nthat's more appropriate for him.
+Dialogue: 0,0:00:16.89,0:00:18.18,Main Dialog,Spoken,0000,0000,0000,,That's fine.
+Dialogue: 0,0:00:38.44,0:00:40.81,Main Dialog,Spoken,0000,0000,0000,,Sorry to keep you waiting, Tetsu.
+Dialogue: 0,0:00:45.82,0:00:49.29,Main Dialog,Spoken,0000,0000,0000,,A villainous role actually suits you.
+Dialogue: 0,0:00:49.29,0:00:50.69,Main Dialog,Spoken,0000,0000,0000,,This is a new discovery.
+Dialogue: 0,0:00:51.58,0:00:55.08,Main Dialog,Spoken,0000,0000,0000,,As expected, you made it \Nthis far, Ren Suzugamori.
+Dialogue: 0,0:00:55.08,0:00:59.70,Main Dialog,Spoken,0000,0000,0000,,The top fighter of Team Asteroid, \Nmy king, is a perfect match for me.
+Dialogue: 0,0:01:00.13,0:01:02.83,Main Dialog,Spoken,0000,0000,0000,,"King," you say?
+Dialogue: 0,0:01:03.32,0:01:05.60,Main Dialog,Spoken,0000,0000,0000,,You never have been good at making jokes.
+Dialogue: 0,0:01:05.60,0:01:09.73,Main Dialog,Spoken,0000,0000,0000,,You're not even satisfied with the way I \Nperform as captain of the Vanguard team.
+Dialogue: 0,0:01:10.73,0:01:14.22,Main Dialog,Spoken,0000,0000,0000,,How long do you intend to \Nengage in this buffoonery?
+Dialogue: 0,0:01:14.69,0:01:18.97,Main Dialog,Spoken,0000,0000,0000,,Dunno. It's very amusing \Nto me, in its own way.
+Dialogue: 0,0:01:19.60,0:01:21.63,Main Dialog,Spoken,0000,0000,0000,,Amusing...?
+Dialogue: 0,0:01:22.45,0:01:24.94,Main Dialog,Spoken,0000,0000,0000,,That's what you always say.
+Dialogue: 0,0:01:25.68,0:01:28.23,Main Dialog,Spoken,0000,0000,0000,,But... that too shall end.
+Dialogue: 0,0:01:29.17,0:01:31.53,Main Dialog,Spoken,0000,0000,0000,,I suppose we really have to do this, huh?
+Dialogue: 0,0:01:31.53,0:01:33.73,Main Dialog,Spoken,0000,0000,0000,,Isn't that why you've come?
+Dialogue: 0,0:01:34.40,0:01:36.36,Main Dialog,Spoken,0000,0000,0000,,I suppose it is.
+Dialogue: 0,0:01:48.38,0:01:51.59,Main Dialog,Spoken,0000,0000,0000,,Stand up the Vanguard!
+Dialogue: 0,0:01:48.38,0:01:51.59,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:01:51.98,0:01:54.84,Main Dialog,Spoken,0000,0000,0000,,Frontline Revenger, Claudas!
+Dialogue: 0,0:01:55.39,0:01:58.09,Main Dialog,Spoken,0000,0000,0000,,Amon's Follower, Fate Collector!
+Dialogue: 0,0:03:34.65,0:03:37.32,Main Dialog,Spoken,0000,0000,0000,,I had no idea a contraption \Nlike this was in the building.
+Dialogue: 0,0:03:37.84,0:03:40.32,Main Dialog,Spoken,0000,0000,0000,,Isn't there a way to get to the roof?
+Dialogue: 0,0:03:41.00,0:03:47.08,Main Dialog,Spoken,0000,0000,0000,,Ren has a private elevator in the back, \Nbut it won't work with my ID card.
+Dialogue: 0,0:03:48.45,0:03:49.70,Main Dialog,Spoken,0000,0000,0000,,Any other way?
+Dialogue: 0,0:03:50.26,0:03:53.83,Main Dialog,Spoken,0000,0000,0000,,Come to think of it, there's the \Nmaintenance emergency staircase.
+Dialogue: 0,0:04:01.41,0:04:03.38,Main Dialog,Spoken,0000,0000,0000,,Why won't it open?
+Dialogue: 0,0:04:06.43,0:04:11.43,Signs,Sign,0000,0000,0000,,The Traitor General
+Dialogue: 0,0:04:15.86,0:04:20.07,Main Dialog,Spoken,0000,0000,0000,,I ride Revenger, Dark Bond Trumpeter.
+Dialogue: 0,0:04:24.84,0:04:27.49,Main Dialog,Spoken,0000,0000,0000,,Can I ask you one thing?
+Dialogue: 0,0:04:28.11,0:04:30.49,Main Dialog,Spoken,0000,0000,0000,,You're going to ask even \Nif I refuse, aren't you?
+Dialogue: 0,0:04:31.07,0:04:36.25,Main Dialog,Spoken,0000,0000,0000,,Yes. Who Reversed you?
+Dialogue: 0,0:04:36.98,0:04:40.63,Main Dialog,Spoken,0000,0000,0000,,Do you really think I'm going to answer that?
+Dialogue: 0,0:04:41.24,0:04:44.93,Main Dialog,Spoken,0000,0000,0000,,No. I figured you wouldn't.
+Dialogue: 0,0:04:44.93,0:04:47.01,Main Dialog,Spoken,0000,0000,0000,,After all, you're stingy.
+Dialogue: 0,0:04:47.62,0:04:50.26,Main Dialog,Spoken,0000,0000,0000,,If you knew that, then don't \Nask in the first place!
+Dialogue: 0,0:04:51.14,0:04:54.89,Main Dialog,Spoken,0000,0000,0000,,I ride Amon's Follower, Phu Geenlin!
+Dialogue: 0,0:04:59.71,0:05:02.93,Main Dialog,Spoken,0000,0000,0000,,I call Amon's Follower, Hell's Deal!
+Dialogue: 0,0:05:04.22,0:05:05.53,Main Dialog,Spoken,0000,0000,0000,,Soulcharge!
+Dialogue: 0,0:05:05.97,0:05:07.93,Main Dialog,Spoken,0000,0000,0000,,Go! Hell's Deal!
+Dialogue: 0,0:05:13.98,0:05:19.65,Main Dialog,Spoken,0000,0000,0000,,There aren't many fighters out\N there who could beat Tetsu...
+Dialogue: 0,0:05:19.65,0:05:21.26,Main Dialog,Spoken,0000,0000,0000,,...so who could it have been?
+Dialogue: 0,0:05:21.26,0:05:22.78,Main Dialog,Spoken,0000,0000,0000,,Stop it.
+Dialogue: 0,0:05:22.78,0:05:24.01,Main Dialog,Spoken,0000,0000,0000,,What are you referring to?
+Dialogue: 0,0:05:24.42,0:05:27.21,Main Dialog,Spoken,0000,0000,0000,,I'm not the kind of opponent \Nthat you can defeat
+Dialogue: 0,0:05:27.21,0:05:29.51,Main Dialog,Spoken,0000,0000,0000,,while distracted by other thoughts.
+Dialogue: 0,0:05:30.11,0:05:31.76,Main Dialog,Spoken,0000,0000,0000,,Phu Geenlin attacks!
+Dialogue: 0,0:05:42.52,0:05:44.81,Main Dialog,Spoken,0000,0000,0000,,Very true, Tetsu.
+Dialogue: 0,0:05:44.81,0:05:48.40,Main Dialog,Spoken,0000,0000,0000,,Against you, I have to fight seriously.
+Dialogue: 0,0:05:52.64,0:05:57.37,Main Dialog,Spoken,0000,0000,0000,,Annihilate him! I ride my \Navatar, Blaster Dark Revenger!
+Dialogue: 0,0:06:05.78,0:06:09.14,Main Dialog,Spoken,0000,0000,0000,,Then I call Blaster Dark and Dorint.
+Dialogue: 0,0:06:09.50,0:06:12.99,Main Dialog,Spoken,0000,0000,0000,,Go, Blaster Dark. Destroy Phu Geenlin!
+Dialogue: 0,0:06:15.04,0:06:17.30,Main Dialog,Spoken,0000,0000,0000,,Ren! Ren!
+Dialogue: 0,0:06:17.30,0:06:18.69,Main Dialog,Spoken,0000,0000,0000,,Ren!
+Dialogue: 0,0:06:21.21,0:06:22.69,Main Dialog,Spoken,0000,0000,0000,,What's the code to unlock it?
+Dialogue: 0,0:06:23.42,0:06:24.94,Main Dialog,Spoken,0000,0000,0000,,I don't know.
+Dialogue: 0,0:06:25.76,0:06:31.07,Main Dialog,Spoken,0000,0000,0000,,Only Ren and Tetsu can access \Nthis building's security system.
+Dialogue: 0,0:06:31.63,0:06:32.84,Main Dialog,Spoken,0000,0000,0000,,I see...
+Dialogue: 0,0:06:35.54,0:06:37.20,Main Dialog,Spoken,0000,0000,0000,,I'll try to hack it.
+Dialogue: 0,0:06:37.74,0:06:40.21,Main Dialog,Spoken,0000,0000,0000,,You can do that?
+Dialogue: 0,0:06:40.21,0:06:41.64,Main Dialog,Spoken,0000,0000,0000,,I don't know.
+Dialogue: 0,0:06:41.64,0:06:45.09,Main Dialog,Spoken,0000,0000,0000,,But trying this is a lot better \Nthan standing around doing nothing.
+Dialogue: 0,0:06:48.09,0:06:51.98,Main Dialog,Spoken,0000,0000,0000,,Ren Suzugamori. As expected, you are strong.
+Dialogue: 0,0:06:52.96,0:06:54.60,Main Dialog,Spoken,0000,0000,0000,,But then, why...
+Dialogue: 0,0:06:55.08,0:06:59.48,Main Dialog,Spoken,0000,0000,0000,,Why aren't you using that ability \Nin an appropriate manner?
+Dialogue: 0,0:07:00.40,0:07:05.23,Main Dialog,Spoken,0000,0000,0000,,I'm not? It may not look \Nlike it, but I am trying.
+Dialogue: 0,0:07:05.64,0:07:07.99,Main Dialog,Spoken,0000,0000,0000,,Annihilate him, Blaster Dark.
+Dialogue: 0,0:07:11.88,0:07:14.00,Main Dialog,Spoken,0000,0000,0000,,It's the same way with Team Asteroid.
+Dialogue: 0,0:07:14.38,0:07:17.21,Main Dialog,Spoken,0000,0000,0000,,Even though you formed the team,
+Dialogue: 0,0:07:17.21,0:07:20.05,Main Dialog,Spoken,0000,0000,0000,,I was actually the one who pulled \Ntogether the organization.
+Dialogue: 0,0:07:20.67,0:07:23.46,Main Dialog,Spoken,0000,0000,0000,,Yes. I couldn't have done it without you.
+Dialogue: 0,0:07:25.36,0:07:27.34,Main Dialog,Spoken,0000,0000,0000,,A man like you...
+Dialogue: 0,0:07:28.11,0:07:33.45,Main Dialog,Spoken,0000,0000,0000,,What's the problem? Everyone has things \Nthey're suited and ill-suited for.
+Dialogue: 0,0:07:33.45,0:07:34.72,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:07:35.54,0:07:37.72,Main Dialog,Spoken,0000,0000,0000,,Stand and draw!
+Dialogue: 0,0:07:38.19,0:07:40.44,Main Dialog,Spoken,0000,0000,0000,,Certainly, that's true.
+Dialogue: 0,0:07:40.44,0:07:44.28,Main Dialog,Spoken,0000,0000,0000,,You can leave the running of \Nthe entire operation to me.
+Dialogue: 0,0:07:44.28,0:07:47.41,Main Dialog,Spoken,0000,0000,0000,,But you're the one who stands at the top!
+Dialogue: 0,0:07:47.41,0:07:49.23,Main Dialog,Spoken,0000,0000,0000,,It has to be you!
+Dialogue: 0,0:07:49.70,0:07:52.57,Main Dialog,Spoken,0000,0000,0000,,Ride! Gwynn the Ripper!
+Dialogue: 0,0:07:56.53,0:07:58.49,Main Dialog,Spoken,0000,0000,0000,,I retire Dorint.
+Dialogue: 0,0:08:07.00,0:08:09.84,Main Dialog,Spoken,0000,0000,0000,,Why does it have to be me in particular?
+Dialogue: 0,0:08:10.25,0:08:14.76,Main Dialog,Spoken,0000,0000,0000,,Because you're the one fighter \Nin the world that I acknowledge.
+Dialogue: 0,0:08:15.13,0:08:19.10,Main Dialog,Spoken,0000,0000,0000,,Gwynn attacks your Vanguard \Nwith a boost from Fate!
+Dialogue: 0,0:08:20.26,0:08:21.48,Main Dialog,Spoken,0000,0000,0000,,No guard.
+Dialogue: 0,0:08:21.92,0:08:23.73,Main Dialog,Spoken,0000,0000,0000,,Drive trigger check.
+Dialogue: 0,0:08:29.39,0:08:34.13,Main Dialog,Spoken,0000,0000,0000,,The one fighter in the \Nworld that you acknowledge?
+Dialogue: 0,0:08:35.20,0:08:36.99,Main Dialog,Spoken,0000,0000,0000,,That disappoints me, Tetsu.
+Dialogue: 0,0:08:37.53,0:08:38.37,Main Dialog,Spoken,0000,0000,0000,,What?
+Dialogue: 0,0:08:38.92,0:08:43.37,Main Dialog,Spoken,0000,0000,0000,,When did you become the kind \Nof man that says such trite things?
+Dialogue: 0,0:08:43.80,0:08:46.75,Main Dialog,Spoken,0000,0000,0000,,What are you talking about? I've always...
+Dialogue: 0,0:08:47.12,0:08:51.42,Main Dialog,Spoken,0000,0000,0000,,No! The Tetsu I knew long ago \Nwas completely different.
+Dialogue: 0,0:08:51.42,0:08:56.09,Main Dialog,Spoken,0000,0000,0000,,I was nothing to you then. Remember \Nhow coldly you treated me?
+Dialogue: 0,0:08:56.42,0:09:00.60,Main Dialog,Spoken,0000,0000,0000,,Long ago? You mean when we first met?
+Dialogue: 0,0:09:00.97,0:09:02.17,Main Dialog,Spoken,0000,0000,0000,,Yes!
+Dialogue: 0,0:09:02.92,0:09:06.94,Main Dialog,Spoken,0000,0000,0000,,You were really interesting back then.
+Dialogue: 0,0:09:18.05,0:09:20.69,Main Dialog,Spoken,0000,0000,0000,,Um... Would you get out of the way?
+Dialogue: 0,0:09:22.16,0:09:25.16,Main Dialog,Spoken,0000,0000,0000,,You see, I can't get by if you won't move.
+Dialogue: 0,0:09:25.16,0:09:26.37,Main Dialog,Spoken,0000,0000,0000,,Am I wrong?
+Dialogue: 0,0:09:26.93,0:09:29.46,Main Dialog,Spoken,0000,0000,0000,,Just take a detour!
+Dialogue: 0,0:09:29.46,0:09:31.50,Main Dialog,Spoken,0000,0000,0000,,Everybody's walkin' over there!
+Dialogue: 0,0:09:32.19,0:09:33.44,Main Dialog,Spoken,0000,0000,0000,,I refuse!
+Dialogue: 0,0:09:33.44,0:09:34.38,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:09:35.24,0:09:37.77,Main Dialog,Spoken,0000,0000,0000,,I want to walk under the cherry blossoms.
+Dialogue: 0,0:09:37.77,0:09:40.18,Main Dialog,Spoken,0000,0000,0000,,You got some guts, punk.
+Dialogue: 0,0:09:40.18,0:09:42.26,Main Dialog,Spoken,0000,0000,0000,,Lend me an ear for a minute.
+Dialogue: 0,0:09:42.26,0:09:44.25,Main Dialog,Spoken,0000,0000,0000,,Will you return it?
+Dialogue: 0,0:09:45.66,0:09:47.40,Main Dialog,Spoken,0000,0000,0000,,Just come with me!
+Dialogue: 0,0:09:49.63,0:09:51.58,Main Dialog,Spoken,0000,0000,0000,,It won't come off!
+Dialogue: 0,0:09:51.58,0:09:52.86,Main Dialog,Spoken,0000,0000,0000,,Of course not!
+Dialogue: 0,0:09:52.86,0:09:55.82,Signs,Sign,0000,0000,0000,,Watch your head.
+Dialogue: 0,0:09:52.86,0:09:55.82,Signs,Sign,0000,0000,0000,,Safety is number one.
+Dialogue: 0,0:09:56.73,0:09:58.07,Main Dialog,Spoken,0000,0000,0000,,Hey! Over here!
+Dialogue: 0,0:09:59.80,0:10:01.83,Main Dialog,Spoken,0000,0000,0000,,Um... What's this place?
+Dialogue: 0,0:10:02.41,0:10:03.95,Main Dialog,Spoken,0000,0000,0000,,Who the heck is this guy?
+Dialogue: 0,0:10:04.51,0:10:06.74,Main Dialog,Spoken,0000,0000,0000,,Seems to be a freshman at our school.
+Dialogue: 0,0:10:06.74,0:10:10.11,Main Dialog,Spoken,0000,0000,0000,,But he don't know his place, so I \Nthought I'd teach 'im a lesson.
+Dialogue: 0,0:10:11.48,0:10:13.95,Main Dialog,Spoken,0000,0000,0000,,Don't go overboard.
+Dialogue: 0,0:10:22.53,0:10:23.88,Main Dialog,Spoken,0000,0000,0000,,Hey, look at this.
+Dialogue: 0,0:10:23.88,0:10:26.35,Main Dialog,Spoken,0000,0000,0000,,See what this guy's got.
+Dialogue: 0,0:10:28.96,0:10:30.56,Main Dialog,Spoken,0000,0000,0000,,What the heck is it?
+Dialogue: 0,0:10:30.56,0:10:32.22,Main Dialog,Spoken,0000,0000,0000,,It's Vanguard.
+Dialogue: 0,0:10:32.22,0:10:34.23,Main Dialog,Spoken,0000,0000,0000,,Van... what?
+Dialogue: 0,0:10:34.81,0:10:36.23,Main Dialog,Spoken,0000,0000,0000,,It's a card game.
+Dialogue: 0,0:10:39.18,0:10:43.45,Main Dialog,Spoken,0000,0000,0000,,A card game, huh? Like playing cards?
+Dialogue: 0,0:10:46.80,0:10:48.02,Main Dialog,Spoken,0000,0000,0000,,What the...?!
+Dialogue: 0,0:10:48.02,0:10:49.61,Main Dialog,Spoken,0000,0000,0000,,Get back here!
+Dialogue: 0,0:10:51.64,0:10:52.71,Main Dialog,Spoken,0000,0000,0000,,W-What?!
+Dialogue: 0,0:10:53.70,0:10:56.46,Main Dialog,Spoken,0000,0000,0000,,You! Please fight me!
+Dialogue: 0,0:10:59.48,0:11:01.26,Main Dialog,Spoken,0000,0000,0000,,I can picture it.
+Dialogue: 0,0:11:01.26,0:11:04.47,Main Dialog,Spoken,0000,0000,0000,,I'm sure you could give \Nme an interesting fight!
+Dialogue: 0,0:11:05.07,0:11:06.96,Main Dialog,Spoken,0000,0000,0000,,No doubt about it!
+Dialogue: 0,0:11:21.62,0:11:25.05,Main Dialog,Spoken,0000,0000,0000,,Picture it? What are you talking about?
+Dialogue: 0,0:11:25.05,0:11:29.12,Main Dialog,Spoken,0000,0000,0000,,And this "fight" you wanna have, \NI don't even know the rules.
+Dialogue: 0,0:11:29.58,0:11:33.00,Main Dialog,Spoken,0000,0000,0000,,Even so, I can tell! After all...
+Dialogue: 0,0:11:33.72,0:11:35.63,Main Dialog,Spoken,0000,0000,0000,,...the cards are glowing!
+Dialogue: 0,0:11:37.25,0:11:39.76,Main Dialog,Spoken,0000,0000,0000,,Hey, do something with this guy.
+Dialogue: 0,0:11:42.48,0:11:44.09,Main Dialog,Spoken,0000,0000,0000,,Yeesh.
+Dialogue: 0,0:11:46.08,0:11:47.00,Main Dialog,Spoken,0000,0000,0000,,Here.
+Dialogue: 0,0:11:48.27,0:11:50.14,Main Dialog,Spoken,0000,0000,0000,,You spoiled my mood...
+Dialogue: 0,0:11:51.49,0:11:52.89,Main Dialog,Spoken,0000,0000,0000,,What about fighting me?!
+Dialogue: 0,0:11:53.82,0:11:55.27,Main Dialog,Spoken,0000,0000,0000,,When it comes to fighting...
+Dialogue: 0,0:11:59.77,0:12:01.93,Main Dialog,Spoken,0000,0000,0000,,...this is the only kind I need.
+Dialogue: 0,0:12:11.10,0:12:12.60,Main Dialog,Spoken,0000,0000,0000,,Boring...
+Dialogue: 0,0:12:14.08,0:12:17.52,Main Dialog,Spoken,0000,0000,0000,,Nothin' interesting around here...
+Dialogue: 0,0:12:18.56,0:12:19.50,Main Dialog,Spoken,0000,0000,0000,,Hi!
+Dialogue: 0,0:12:20.24,0:12:22.26,Main Dialog,Spoken,0000,0000,0000,,You... The guy from the other day...
+Dialogue: 0,0:12:22.99,0:12:25.71,Main Dialog,Spoken,0000,0000,0000,,What are you doin' here?
+Dialogue: 0,0:12:25.71,0:12:28.19,Main Dialog,Spoken,0000,0000,0000,,Shouldn't you be in class?
+Dialogue: 0,0:12:28.80,0:12:31.64,Main Dialog,Spoken,0000,0000,0000,,I could say the same to you, Tetsu.
+Dialogue: 0,0:12:32.18,0:12:34.35,Main Dialog,Spoken,0000,0000,0000,,Yeah, you got a point...
+Dialogue: 0,0:12:34.35,0:12:37.01,Main Dialog,Spoken,0000,0000,0000,,Wait... how'd you know my name?!
+Dialogue: 0,0:12:37.01,0:12:40.40,Main Dialog,Spoken,0000,0000,0000,,And a freshman oughta treat \Nme with more respect!
+Dialogue: 0,0:12:40.40,0:12:44.15,Main Dialog,Spoken,0000,0000,0000,,Okay, okay. More importantly, let's fight!
+Dialogue: 0,0:12:44.15,0:12:46.41,Main Dialog,Spoken,0000,0000,0000,,You don't know when to quit.
+Dialogue: 0,0:12:47.05,0:12:50.66,Main Dialog,Spoken,0000,0000,0000,,I'm not interested in \Nyour make-believe fights.
+Dialogue: 0,0:12:52.52,0:12:54.54,Main Dialog,Spoken,0000,0000,0000,,It isn't make-believe.
+Dialogue: 0,0:12:57.44,0:13:01.67,Main Dialog,Spoken,0000,0000,0000,,True, it doesn't involve \Nphysically hitting or kicking...
+Dialogue: 0,0:13:02.38,0:13:06.62,Main Dialog,Spoken,0000,0000,0000,,...but the fight takes \Nplace on the fight field is a genuine one.
+Dialogue: 0,0:13:07.31,0:13:10.31,Main Dialog,Spoken,0000,0000,0000,,It's a battle worthy of risking your life.
+Dialogue: 0,0:13:13.77,0:13:17.06,Main Dialog,Spoken,0000,0000,0000,,Like I'm gonna fall for \Nthat? It's just silly.
+Dialogue: 0,0:13:21.89,0:13:24.82,Main Dialog,Spoken,0000,0000,0000,,I was trying to be persuasive...
+Dialogue: 0,0:13:25.29,0:13:27.52,Main Dialog,Spoken,0000,0000,0000,,Still, I'm not giving up!
+Dialogue: 0,0:13:34.77,0:13:37.37,Main Dialog,Spoken,0000,0000,0000,,Tetsu, you're havin' tempura again?
+Dialogue: 0,0:13:37.37,0:13:39.79,Main Dialog,Spoken,0000,0000,0000,,Yeah. 'Cause I can wolf it down fast.
+Dialogue: 0,0:13:40.09,0:13:44.02,Main Dialog,Spoken,0000,0000,0000,,True that. If you don't hurry up an' eat, \Nyou won't have enough time to fight.
+Dialogue: 0,0:13:44.02,0:13:44.80,Main Dialog,Spoken,0000,0000,0000,,Yeah, yeah.
+Dialogue: 0,0:13:48.35,0:13:49.80,Main Dialog,Spoken,0000,0000,0000,,What the heck is this?!
+Dialogue: 0,0:14:04.13,0:14:08.95,Main Dialog,Spoken,0000,0000,0000,,Your pushiness back then \Nannoyed me to no end.
+Dialogue: 0,0:14:09.79,0:14:12.70,Main Dialog,Spoken,0000,0000,0000,,That's because you refused to fight.
+Dialogue: 0,0:14:13.08,0:14:19.96,Main Dialog,Spoken,0000,0000,0000,,But ultimately, you wore me down and initiated \Nme into Cardfighting, so I commend you.
+Dialogue: 0,0:14:20.48,0:14:23.52,Main Dialog,Spoken,0000,0000,0000,,Huh? Is that how it was?
+Dialogue: 0,0:14:23.52,0:14:27.56,Main Dialog,Spoken,0000,0000,0000,,Aren't you maybe whitewashing the past \Na little to make yourself look better?
+Dialogue: 0,0:14:27.56,0:14:30.84,Main Dialog,Spoken,0000,0000,0000,,Come to think of it, that \Nwas also on a roof...
+Dialogue: 0,0:14:38.68,0:14:39.96,Main Dialog,Spoken,0000,0000,0000,,Darn it...
+Dialogue: 0,0:14:41.74,0:14:43.36,Main Dialog,Spoken,0000,0000,0000,,That looks painful.
+Dialogue: 0,0:14:43.62,0:14:45.31,Main Dialog,Spoken,0000,0000,0000,,You again...
+Dialogue: 0,0:14:45.31,0:14:49.06,Main Dialog,Spoken,0000,0000,0000,,When you were walking down the street, \Ndid a kitten suddenly jump out,
+Dialogue: 0,0:14:49.06,0:14:53.38,Main Dialog,Spoken,0000,0000,0000,,so you tripped on a rock and fell \Nwhile trying to avoid it?
+Dialogue: 0,0:14:53.38,0:14:54.87,Main Dialog,Spoken,0000,0000,0000,,What's with that?
+Dialogue: 0,0:14:57.82,0:14:59.37,Main Dialog,Spoken,0000,0000,0000,,How many were you fighting?
+Dialogue: 0,0:15:01.49,0:15:02.96,Main Dialog,Spoken,0000,0000,0000,,Eight.
+Dialogue: 0,0:15:02.96,0:15:05.15,Main Dialog,Spoken,0000,0000,0000,,That's a lot.
+Dialogue: 0,0:15:05.15,0:15:08.40,Main Dialog,Spoken,0000,0000,0000,,Up to five was a piece of cake...
+Dialogue: 0,0:15:08.40,0:15:09.76,Main Dialog,Spoken,0000,0000,0000,,Really?
+Dialogue: 0,0:15:10.27,0:15:12.35,Main Dialog,Spoken,0000,0000,0000,,You're strong, Tetsu.
+Dialogue: 0,0:15:13.05,0:15:16.18,Main Dialog,Spoken,0000,0000,0000,,But that kind of fight \Nisn't really much fun, is it?
+Dialogue: 0,0:15:18.86,0:15:19.77,Main Dialog,Spoken,0000,0000,0000,,That's why I say...
+Dialogue: 0,0:15:21.06,0:15:22.27,Main Dialog,Spoken,0000,0000,0000,,Rumble with me.
+Dialogue: 0,0:15:22.78,0:15:27.18,Main Dialog,Spoken,0000,0000,0000,,That is, fight me. I'm strong.
+Dialogue: 0,0:15:30.84,0:15:33.66,Main Dialog,Spoken,0000,0000,0000,,Crimson Butterfly, Brigitte attacks!
+Dialogue: 0,0:15:33.89,0:15:37.26,Main Dialog,Spoken,0000,0000,0000,,Um... I don't think I can guard...
+Dialogue: 0,0:15:37.26,0:15:39.41,Main Dialog,Spoken,0000,0000,0000,,Hey, what happens in this situation?
+Dialogue: 0,0:15:40.02,0:15:44.16,Main Dialog,Spoken,0000,0000,0000,,My attack succeeds. Please do a damage check.
+Dialogue: 0,0:15:44.16,0:15:45.18,Main Dialog,Spoken,0000,0000,0000,,Check...
+Dialogue: 0,0:15:46.12,0:15:47.42,Main Dialog,Spoken,0000,0000,0000,,No trigger.
+Dialogue: 0,0:15:47.79,0:15:53.43,Main Dialog,Spoken,0000,0000,0000,,Then that makes 6 damage, \Nso I win this fight.
+Dialogue: 0,0:15:53.98,0:15:56.68,Main Dialog,Spoken,0000,0000,0000,,I see. I lost, huh?
+Dialogue: 0,0:15:57.16,0:16:00.64,Main Dialog,Spoken,0000,0000,0000,,Don't be too disappointed.
+Dialogue: 0,0:16:00.64,0:16:03.14,Main Dialog,Spoken,0000,0000,0000,,That was your first fight.
+Dialogue: 0,0:16:04.88,0:16:07.44,Main Dialog,Spoken,0000,0000,0000,,I lost a fight...
+Dialogue: 0,0:16:08.86,0:16:10.34,Main Dialog,Spoken,0000,0000,0000,,One more time!
+Dialogue: 0,0:16:11.32,0:16:14.70,Main Dialog,Spoken,0000,0000,0000,,No... ten more times, or a hundred times!
+Dialogue: 0,0:16:14.70,0:16:16.91,Main Dialog,Spoken,0000,0000,0000,,However many times it takes to beat you!
+Dialogue: 0,0:16:17.46,0:16:19.20,Main Dialog,Spoken,0000,0000,0000,,I {\i1}win{\i0} fights!
+Dialogue: 0,0:16:19.20,0:16:22.66,Main Dialog,Spoken,0000,0000,0000,,Whether my opponent is a boxer \Nor a martial artist, I win!
+Dialogue: 0,0:16:22.66,0:16:24.12,Main Dialog,Spoken,0000,0000,0000,,I fight until I win!
+Dialogue: 0,0:16:24.59,0:16:27.17,Main Dialog,Spoken,0000,0000,0000,,Even if that makes me look \Nuncool, it's who I am!
+Dialogue: 0,0:16:28.48,0:16:30.38,Main Dialog,Spoken,0000,0000,0000,,I don't think you're...
+Dialogue: 0,0:16:31.23,0:16:32.42,Main Dialog,Spoken,0000,0000,0000,,Anyway, let's fight!
+Dialogue: 0,0:16:34.26,0:16:34.96,Main Dialog,Spoken,0000,0000,0000,,Tetsu...
+Dialogue: 0,0:16:36.24,0:16:37.64,Main Dialog,Spoken,0000,0000,0000,,Never mind.
+Dialogue: 0,0:16:41.82,0:16:44.04,Main Dialog,Spoken,0000,0000,0000,,But I'm not going to lose!
+Dialogue: 0,0:16:44.89,0:16:48.06,Main Dialog,Spoken,0000,0000,0000,,You'll see. Don't underestimate Tetsu Shinjo.
+Dialogue: 0,0:16:48.68,0:16:51.24,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:16:59.44,0:17:02.22,Main Dialog,Spoken,0000,0000,0000,,Demon World Marquis, Amon attacks!
+Dialogue: 0,0:17:02.22,0:17:03.58,Main Dialog,Spoken,0000,0000,0000,,Damage check.
+Dialogue: 0,0:17:05.71,0:17:09.46,Main Dialog,Spoken,0000,0000,0000,,No trigger. That makes 6 damage.
+Dialogue: 0,0:17:10.35,0:17:11.46,Main Dialog,Spoken,0000,0000,0000,,You beat me.
+Dialogue: 0,0:17:12.13,0:17:14.92,Main Dialog,Spoken,0000,0000,0000,,I... won?
+Dialogue: 0,0:17:14.92,0:17:17.46,Main Dialog,Spoken,0000,0000,0000,,Yes. Congratulations.
+Dialogue: 0,0:17:19.72,0:17:21.35,Main Dialog,Spoken,0000,0000,0000,,Is something wrong?
+Dialogue: 0,0:17:26.02,0:17:27.98,Main Dialog,Spoken,0000,0000,0000,,This is Cardfight.
+Dialogue: 0,0:17:28.65,0:17:30.57,Main Dialog,Spoken,0000,0000,0000,,This is Vanguard...
+Dialogue: 0,0:17:30.98,0:17:33.86,Main Dialog,Spoken,0000,0000,0000,,What do you think? Interesting, right?
+Dialogue: 0,0:17:34.26,0:17:38.87,Main Dialog,Spoken,0000,0000,0000,,Yeah. Now that I know it's like this, \NI wish I'd fought you earlier.
+Dialogue: 0,0:17:39.53,0:17:41.93,Main Dialog,Spoken,0000,0000,0000,,Well, I kept asking you, didn't I?
+Dialogue: 0,0:17:41.93,0:17:43.87,Main Dialog,Spoken,0000,0000,0000,,Yeah, you did.
+Dialogue: 0,0:17:45.48,0:17:47.50,Main Dialog,Spoken,0000,0000,0000,,You're a foo fighter.
+Dialogue: 0,0:17:48.01,0:17:49.63,Main Dialog,Spoken,0000,0000,0000,,What's that?
+Dialogue: 0,0:17:50.26,0:17:54.60,Main Dialog,Spoken,0000,0000,0000,,A mysterious, unidentified fighter.
+Dialogue: 0,0:17:54.60,0:17:56.13,Main Dialog,Spoken,0000,0000,0000,,Foo fighter...
+Dialogue: 0,0:17:58.43,0:17:59.89,Main Dialog,Spoken,0000,0000,0000,,I like that.
+Dialogue: 0,0:18:00.38,0:18:03.26,Main Dialog,Spoken,0000,0000,0000,,Starting today, we'll be Team Foo Fighter!
+Dialogue: 0,0:18:03.60,0:18:05.52,Main Dialog,Spoken,0000,0000,0000,,We...?
+Dialogue: 0,0:18:05.90,0:18:09.12,Main Dialog,Spoken,0000,0000,0000,,Yes. A team of just you and me.
+Dialogue: 0,0:18:10.00,0:18:12.54,Main Dialog,Spoken,0000,0000,0000,,Team Foo Fighter...
+Dialogue: 0,0:18:14.91,0:18:17.07,Main Dialog,Spoken,0000,0000,0000,,That brings back memories, doesn't it?
+Dialogue: 0,0:18:17.54,0:18:21.20,Main Dialog,Spoken,0000,0000,0000,,Yeah. Then {\i1}he{\i0} transferred in.
+Dialogue: 0,0:18:22.69,0:18:26.79,Main Dialog,Spoken,0000,0000,0000,,You interrupted my nap because you've \Ngot business with {\i1}this{\i0}, right?
+Dialogue: 0,0:18:27.55,0:18:30.50,Main Dialog,Spoken,0000,0000,0000,,Huh! You catch on quick.
+Dialogue: 0,0:18:30.81,0:18:33.46,Main Dialog,Spoken,0000,0000,0000,,Go, Dragonic Overlord!
+Dialogue: 0,0:18:33.46,0:18:36.51,Main Dialog,Spoken,0000,0000,0000,,Burn everything to ashes \Nwith your white hot flames!
+Dialogue: 0,0:18:40.10,0:18:42.05,Main Dialog,Spoken,0000,0000,0000,,He was strong.
+Dialogue: 0,0:18:42.05,0:18:44.89,Main Dialog,Spoken,0000,0000,0000,,And you were drawn to that strength.
+Dialogue: 0,0:18:48.88,0:18:53.90,Main Dialog,Spoken,0000,0000,0000,,Despair! Then fall to your \Nknees and sip bitter water!
+Dialogue: 0,0:18:54.37,0:18:55.08,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:18:57.12,0:19:00.59,Main Dialog,Spoken,0000,0000,0000,,Illusionary Revenger, Mordred Phantom!
+Dialogue: 0,0:19:01.87,0:19:02.82,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:19:04.36,0:19:09.54,Main Dialog,Spoken,0000,0000,0000,,That's why you brought him into our team.
+Dialogue: 0,0:19:09.92,0:19:13.33,Main Dialog,Spoken,0000,0000,0000,,How about it? Would you \Nlike to join Foo Fighter?
+Dialogue: 0,0:19:13.72,0:19:15.25,Main Dialog,Spoken,0000,0000,0000,,Foo Fighter?
+Dialogue: 0,0:19:15.72,0:19:17.63,Main Dialog,Spoken,0000,0000,0000,,That's our team.
+Dialogue: 0,0:19:17.63,0:19:21.05,Main Dialog,Spoken,0000,0000,0000,,Although at the moment, it \Nonly consists of me and Ren.
+Dialogue: 0,0:19:21.90,0:19:24.21,Main Dialog,Spoken,0000,0000,0000,,That was when I decided.
+Dialogue: 0,0:19:24.21,0:19:27.09,Main Dialog,Spoken,0000,0000,0000,,If you were going to increase \Nthe number of our comrades,
+Dialogue: 0,0:19:27.09,0:19:31.65,Main Dialog,Spoken,0000,0000,0000,,and emerge on the national, and \Neventually international, stage,
+Dialogue: 0,0:19:31.65,0:19:36.36,Main Dialog,Spoken,0000,0000,0000,,I would do everything in \Nmy power to support you.
+Dialogue: 0,0:19:36.61,0:19:39.26,Main Dialog,Spoken,0000,0000,0000,,So even when you became corrupted by power...
+Dialogue: 0,0:19:40.20,0:19:47.33,Main Dialog,Spoken,0000,0000,0000,,Look at yourself, helpless and beaten \Nbefore my overwhelming might!
+Dialogue: 0,0:19:50.30,0:19:51.54,Main Dialog,Spoken,0000,0000,0000,,Even then...
+Dialogue: 0,0:19:54.12,0:19:55.31,Main Dialog,Spoken,0000,0000,0000,,You're leaving.
+Dialogue: 0,0:19:56.17,0:19:58.13,Main Dialog,Spoken,0000,0000,0000,,And you're staying, huh?
+Dialogue: 0,0:19:58.59,0:20:01.28,Main Dialog,Spoken,0000,0000,0000,,I can't desert Ren.
+Dialogue: 0,0:20:02.03,0:20:03.34,Main Dialog,Spoken,0000,0000,0000,,I see...
+Dialogue: 0,0:20:06.66,0:20:09.13,Main Dialog,Spoken,0000,0000,0000,,I returned to you.
+Dialogue: 0,0:20:09.82,0:20:17.58,Main Dialog,Spoken,0000,0000,0000,,You led me into this world, so if you \Nwanted power, I would give it to you.
+Dialogue: 0,0:20:18.77,0:20:23.45,Main Dialog,Spoken,0000,0000,0000,,If it were your wish, I would even \Naccompany you to the deepest pit of hell!
+Dialogue: 0,0:20:28.05,0:20:29.84,Main Dialog,Spoken,0000,0000,0000,,That's what I thought.
+Dialogue: 0,0:20:30.35,0:20:32.32,Main Dialog,Spoken,0000,0000,0000,,However, Ren Suzugamori...
+Dialogue: 0,0:20:32.32,0:20:34.42,Main Dialog,Spoken,0000,0000,0000,,You've fallen!
+Dialogue: 0,0:20:37.08,0:20:39.93,Main Dialog,Spoken,0000,0000,0000,,Now that I'm Reversed, it's all so clear.
+Dialogue: 0,0:20:39.93,0:20:41.93,Main Dialog,Spoken,0000,0000,0000,,Power is justice!
+Dialogue: 0,0:20:41.93,0:20:43.54,Main Dialog,Spoken,0000,0000,0000,,Power is the law!
+Dialogue: 0,0:20:43.95,0:20:47.80,Main Dialog,Spoken,0000,0000,0000,,Affected by nothing, it is \Nthe single, absolute existence...
+Dialogue: 0,0:20:47.80,0:20:52.31,Main Dialog,Spoken,0000,0000,0000,,...that is, yes, even equal to a god!
+Dialogue: 0,0:20:56.17,0:21:01.07,Main Dialog,Spoken,0000,0000,0000,,Ren! Picture it! And look for the power!
+Dialogue: 0,0:21:01.50,0:21:06.82,Main Dialog,Spoken,0000,0000,0000,,Your goal is at hand! The time has \Ncome to create a world ruled by force!
+Dialogue: 0,0:21:09.42,0:21:14.83,Main Dialog,Spoken,0000,0000,0000,,Open your eyes! You have the power! \NNow become the king of Team Asteroid!
+Dialogue: 0,0:21:15.09,0:21:18.08,Main Dialog,Spoken,0000,0000,0000,,Become the king of the world!
+Dialogue: 0,0:21:19.92,0:21:22.34,Main Dialog,Spoken,0000,0000,0000,,No thank you, Tetsu.
+Dialogue: 0,0:21:22.68,0:21:23.97,Main Dialog,Spoken,0000,0000,0000,,Why?!
+Dialogue: 0,0:21:24.41,0:21:28.34,Main Dialog,Spoken,0000,0000,0000,,Why won't you make a grab \Nfor glory once more?!
+Dialogue: 0,0:21:29.21,0:21:32.06,Main Dialog,Spoken,0000,0000,0000,,Tetsu, haven't you noticed?
+Dialogue: 0,0:21:33.31,0:21:35.31,Main Dialog,Spoken,0000,0000,0000,,The cards you're holding now...
+Dialogue: 0,0:21:35.94,0:21:37.73,Main Dialog,Spoken,0000,0000,0000,,...aren't glowing!
+Dialogue: 0,0:21:39.44,0:21:43.23,Main Dialog,Spoken,0000,0000,0000,,I see. In that case, there's \Nnothing left to say.
+Dialogue: 0,0:21:43.77,0:21:49.49,Main Dialog,Spoken,0000,0000,0000,,As long as we're Cardfighters, a demand \Nwill be made when one wins over the other!
+Dialogue: 0,0:21:51.14,0:21:56.00,Main Dialog,Spoken,0000,0000,0000,,Crawl out of the gates of hell \Nand wield that evil power!
+Dialogue: 0,0:21:56.62,0:21:57.25,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:21:59.41,0:22:01.66,Main Dialog,Spoken,0000,0000,0000,,Demon World Marquis, Amon!
+Dialogue: 0,0:22:06.34,0:22:09.34,Main Dialog,Spoken,0000,0000,0000,,Ren! Surrender to me!
+Dialogue: 0,0:22:09.68,0:22:12.35,Main Dialog,Spoken,0000,0000,0000,,This time, I'll lead you!
+Dialogue: 0,0:22:12.73,0:22:18.20,Main Dialog,Spoken,0000,0000,0000,,And then become the king \Nthat I seek, Ren Suzugamori!
+Dialogue: 0,0:23:56.18,0:23:58.29,Main Dialog,Spoken,0000,0000,0000,,Ren, become my king!
+Dialogue: 0,0:23:58.29,0:24:00.45,Main Dialog,Spoken,0000,0000,0000,,Honestly... What nonsense.
+Dialogue: 0,0:24:00.45,0:24:03.21,Main Dialog,Spoken,0000,0000,0000,,You'll get the highest power and glory.
+Dialogue: 0,0:24:03.55,0:24:06.00,Main Dialog,Spoken,0000,0000,0000,,That's not what I want.
+Dialogue: 0,0:24:06.00,0:24:08.14,Main Dialog,Spoken,0000,0000,0000,,Then what {\i1}do{\i0} you want?
+Dialogue: 0,0:24:08.14,0:24:10.78,Main Dialog,Spoken,0000,0000,0000,,That's a secret. Just saying \Nit would be boorish.
+Dialogue: 0,0:24:10.78,0:24:12.97,Main Dialog,Spoken,0000,0000,0000,,The words, "You have friends."
+Dialogue: 0,0:24:12.97,0:24:15.89,Main Dialog,Spoken,0000,0000,0000,,That's Ren's sincere feeling.
+Dialogue: 0,0:24:16.39,0:24:18.52,Main Dialog,Spoken,0000,0000,0000,,Next time: Kingmaker in the Moonlight!
+Dialogue: 0,0:24:16.97,0:24:24.94,Signs,Sign,0000,0000,0000,,Kingmaker in the Moonlight!
+Dialogue: 0,0:24:18.52,0:24:21.81,Main Dialog,Spoken,0000,0000,0000,,Tetsu. I'm going to bring you back.
+Dialogue: 0,0:24:21.81,0:24:23.69,Main Dialog,Spoken,0000,0000,0000,,Even if you don't like it.

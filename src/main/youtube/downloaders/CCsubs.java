@@ -11,6 +11,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLEncoder;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -30,7 +31,7 @@ public class CCsubs implements YoutubeSubsDownloader {
                                     + URLEncoder.encode(movie.getName(), "UTF-8") + "/download?format=srt&lang=en",
                             Main.SUBTITLES_YOUTUBE_FOLDER + videoId);
                     if (downloadSucceed) {
-                        movie.setSubDownloadLocation(Main.SUBTITLES_YOUTUBE_FOLDER + videoId);
+                        movie.setSubsLocations(Arrays.asList(Main.SUBTITLES_YOUTUBE_FOLDER + videoId));
                         ret.add(movie);
                     } else {
                         cacheRepository.insert("noSubsForThisVideo#" + videoId, "y");

@@ -1,0 +1,235 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.94,0:00:04.08,Main Dialog,Spoken,0000,0000,0000,,Set target on Hisen...
+Dialogue: 0,0:00:04.48,0:00:05.65,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:00:22.28,0:00:23.37,Main Dialog,Spoken,0000,0000,0000,,What the...?!
+Dialogue: 0,0:00:30.50,0:00:31.63,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:00:44.12,0:00:47.65,Main Dialog,Spoken,0000,0000,0000,,Two units are locked?!
+Dialogue: 0,0:00:52.37,0:00:55.11,Main Dialog,Spoken,0000,0000,0000,,I'm just getting started.
+Dialogue: 0,0:00:55.69,0:01:04.13,Main Dialog,Spoken,0000,0000,0000,,From here on out, I'm going to subject you \Nto all of Link Joker's strength and terror!
+Dialogue: 0,0:02:55.76,0:03:00.90,Main Dialog,Spoken,0000,0000,0000,,The lock spell seals all \Nof a unit's movements.
+Dialogue: 0,0:03:00.90,0:03:03.24,Main Dialog,Spoken,0000,0000,0000,,I told you that already, right?
+Dialogue: 0,0:03:04.48,0:03:09.25,Main Dialog,Spoken,0000,0000,0000,,So your Zuitan can't intercept either.
+Dialogue: 0,0:03:09.88,0:03:17.13,Main Dialog,Spoken,0000,0000,0000,,The only thing you and your units can \Ndo is stand by helplessly as we attack.
+Dialogue: 0,0:03:20.38,0:03:25.39,Signs,Sign,0000,0000,0000,,Reverse
+Dialogue: 0,0:03:27.25,0:03:29.89,Main Dialog,Spoken,0000,0000,0000,,10000 versus 16000!
+Dialogue: 0,0:03:30.17,0:03:33.65,Main Dialog,Spoken,0000,0000,0000,,The great Kamui guards with \Nall the cards in his hand!
+Dialogue: 0,0:03:33.97,0:03:36.61,Main Dialog,Spoken,0000,0000,0000,,Yes! As long as he doesn't \Ndraw two triggers...
+Dialogue: 0,0:03:36.61,0:03:38.34,Main Dialog,Spoken,0000,0000,0000,,DDT, yo!
+Dialogue: 0,0:03:38.34,0:03:39.36,Main Dialog,Spoken,0000,0000,0000,,Yep.
+Dialogue: 0,0:03:39.36,0:03:41.15,Main Dialog,Spoken,0000,0000,0000,,Twin drive check...
+Dialogue: 0,0:03:42.37,0:03:44.14,Main Dialog,Spoken,0000,0000,0000,,I got a critical trigger.
+Dialogue: 0,0:03:45.05,0:03:46.24,Main Dialog,Spoken,0000,0000,0000,,SC, yo!
+Dialogue: 0,0:03:46.24,0:03:48.82,Main Dialog,Spoken,0000,0000,0000,,Stay cool. He's still just got one trigger.
+Dialogue: 0,0:03:48.82,0:03:49.91,Main Dialog,Spoken,0000,0000,0000,,Got another.
+Dialogue: 0,0:03:51.53,0:03:52.97,Main Dialog,Spoken,0000,0000,0000,,A draw trigger.
+Dialogue: 0,0:03:57.49,0:04:01.17,Main Dialog,Spoken,0000,0000,0000,,Brother, you've got the magic touch.
+Dialogue: 0,0:04:01.70,0:04:03.59,Main Dialog,Spoken,0000,0000,0000,,It's just luck.
+Dialogue: 0,0:04:04.01,0:04:06.49,Main Dialog,Spoken,0000,0000,0000,,"Luck" is the excuse weak players make.
+Dialogue: 0,0:04:06.49,0:04:09.43,Main Dialog,Spoken,0000,0000,0000,,Brother, you've gotten stronger again, huh?
+Dialogue: 0,0:04:09.84,0:04:13.77,Main Dialog,Spoken,0000,0000,0000,,The way you play now, you'd definitely \Nbeat Ren Suzugamori and that jerk Kai...
+Dialogue: 0,0:04:13.77,0:04:15.20,Main Dialog,Spoken,0000,0000,0000,,More respect for Kai!
+Dialogue: 0,0:04:15.20,0:04:17.06,Main Dialog,Spoken,0000,0000,0000,,MR, yo!
+Dialogue: 0,0:04:17.68,0:04:19.20,Main Dialog,Spoken,0000,0000,0000,,What's this about Kai?
+Dialogue: 0,0:04:19.20,0:04:20.32,Main Dialog,Spoken,0000,0000,0000,,What up?!
+Dialogue: 0,0:04:20.32,0:04:21.89,Main Dialog,Spoken,0000,0000,0000,,Hi, guys.
+Dialogue: 0,0:04:21.89,0:04:24.12,Main Dialog,Spoken,0000,0000,0000,,Miwa, Morikawa, Izaki...
+Dialogue: 0,0:04:24.12,0:04:25.33,Main Dialog,Spoken,0000,0000,0000,,They're upperclassmen!
+Dialogue: 0,0:04:25.33,0:04:27.26,Main Dialog,Spoken,0000,0000,0000,,TU, yo!
+Dialogue: 0,0:04:27.82,0:04:29.08,Main Dialog,Spoken,0000,0000,0000,,Kai isn't here?
+Dialogue: 0,0:04:30.24,0:04:31.58,Main Dialog,Spoken,0000,0000,0000,,He isn't with you?
+Dialogue: 0,0:04:32.01,0:04:34.58,Main Dialog,Spoken,0000,0000,0000,,Nope. I haven't seen him today.
+Dialogue: 0,0:04:34.58,0:04:38.46,Main Dialog,Spoken,0000,0000,0000,,Oh, that's right. Is it true \NKourin didn't go to school today?
+Dialogue: 0,0:04:38.80,0:04:43.47,Main Dialog,Spoken,0000,0000,0000,,Yeah. I think she was probably \Nbusy with work, but...
+Dialogue: 0,0:04:43.72,0:04:47.16,Main Dialog,Spoken,0000,0000,0000,,What the heck?! Why didn't \Nshe text me about it?!
+Dialogue: 0,0:04:47.16,0:04:49.29,Main Dialog,Spoken,0000,0000,0000,,Uh, I don't think she'd even \Ncontact you by mistake...
+Dialogue: 0,0:04:49.29,0:04:50.29,Main Dialog,Spoken,0000,0000,0000,,What was that?
+Dialogue: 0,0:05:01.00,0:05:04.56,Main Dialog,Spoken,0000,0000,0000,,Francium! Attack Dragonic Descendant!
+Dialogue: 0,0:05:07.06,0:05:08.99,Main Dialog,Spoken,0000,0000,0000,,Francium's skill!
+Dialogue: 0,0:05:34.38,0:05:38.40,Main Dialog,Spoken,0000,0000,0000,,How does it feel, not being \Nable to do anything right now?
+Dialogue: 0,0:05:41.85,0:05:49.77,Main Dialog,Spoken,0000,0000,0000,,When a unit is spellbound, it's as if the \Nfighter's own hands and legs are tied.
+Dialogue: 0,0:05:50.24,0:05:51.02,Main Dialog,Spoken,0000,0000,0000,,In other words...
+Dialogue: 0,0:05:52.90,0:05:56.29,Main Dialog,Spoken,0000,0000,0000,,"Lock" also has you under its spell.
+Dialogue: 0,0:06:07.93,0:06:12.30,Main Dialog,Spoken,0000,0000,0000,,Twilight Baron! Attack \Nwith a boost from Unicorn!
+Dialogue: 0,0:06:14.92,0:06:21.69,Main Dialog,Spoken,0000,0000,0000,,Toshiki Kai! You're about to get another \Ntaste of pain from Link Joker's spell.
+Dialogue: 0,0:06:22.14,0:06:23.69,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:06:28.45,0:06:31.95,Main Dialog,Spoken,0000,0000,0000,,Perfect guard with Eradicator \NWyvern Guard, Guld!
+Dialogue: 0,0:06:42.34,0:06:45.60,Main Dialog,Spoken,0000,0000,0000,,I sense incredible power \Ncoming from all of his units.
+Dialogue: 0,0:06:46.21,0:06:46.96,Main Dialog,Spoken,0000,0000,0000,,But...
+Dialogue: 0,0:06:47.25,0:06:51.47,Main Dialog,Spoken,0000,0000,0000,,Krypton attacks with a boost from Fermium!
+Dialogue: 0,0:06:52.39,0:06:53.13,Main Dialog,Spoken,0000,0000,0000,,Pollux!
+Dialogue: 0,0:07:43.04,0:07:44.16,Main Dialog,Spoken,0000,0000,0000,,I feel it...
+Dialogue: 0,0:07:44.66,0:07:48.73,Main Dialog,Spoken,0000,0000,0000,,This overwhelming power is coming from there!
+Dialogue: 0,0:08:05.73,0:08:10.38,Main Dialog,Spoken,0000,0000,0000,,You witnessed its strong \Npresence too, didn't you?
+Dialogue: 0,0:08:13.05,0:08:18.25,Main Dialog,Spoken,0000,0000,0000,,Now that you're locked, you're \Nconnected through the spell...
+Dialogue: 0,0:08:18.25,0:08:20.89,Main Dialog,Spoken,0000,0000,0000,,...directly to Link Joker.
+Dialogue: 0,0:08:21.90,0:08:24.58,Main Dialog,Spoken,0000,0000,0000,,Link... Joker...
+Dialogue: 0,0:08:29.77,0:08:35.72,Main Dialog,Spoken,0000,0000,0000,,What you just saw is an image \Nof their universal soul.
+Dialogue: 0,0:08:36.56,0:08:40.16,Main Dialog,Spoken,0000,0000,0000,,And... incredible power is released from there.
+Dialogue: 0,0:08:40.74,0:08:45.00,Main Dialog,Spoken,0000,0000,0000,,Have you ever seen anything so powerful?!
+Dialogue: 0,0:08:45.77,0:08:47.92,Main Dialog,Spoken,0000,0000,0000,,I'm sure you haven't.
+Dialogue: 0,0:08:48.33,0:08:55.42,Main Dialog,Spoken,0000,0000,0000,,What if you could wield \Nsuch unfathomable power?
+Dialogue: 0,0:08:58.23,0:09:05.06,Main Dialog,Spoken,0000,0000,0000,,It can happen, if you use Link Joker.
+Dialogue: 0,0:09:06.94,0:09:09.49,Main Dialog,Spoken,0000,0000,0000,,I know you.
+Dialogue: 0,0:09:10.33,0:09:14.93,Main Dialog,Spoken,0000,0000,0000,,You're a fighter who seeks strength, \Nstrength greater than any other's.
+Dialogue: 0,0:09:16.32,0:09:19.70,Main Dialog,Spoken,0000,0000,0000,,You value nothing but strength.
+Dialogue: 0,0:09:20.38,0:09:24.20,Main Dialog,Spoken,0000,0000,0000,,You wish to engage in battle with a \Nfighter who's even stronger than you.
+Dialogue: 0,0:09:26.68,0:09:29.70,Main Dialog,Spoken,0000,0000,0000,,Before Link Joker's power...
+Dialogue: 0,0:09:29.70,0:09:32.18,Main Dialog,Spoken,0000,0000,0000,,...you must be mesmerized!
+Dialogue: 0,0:09:41.64,0:09:43.10,Main Dialog,Spoken,0000,0000,0000,,Nonsense!
+Dialogue: 0,0:09:45.36,0:09:49.35,Main Dialog,Spoken,0000,0000,0000,,True enough, I've been searching for power \Nand strength that's greater than anyone's.
+Dialogue: 0,0:09:54.33,0:09:57.17,Main Dialog,Spoken,0000,0000,0000,,But you've got one thing wrong!
+Dialogue: 0,0:09:59.89,0:10:03.12,Main Dialog,Spoken,0000,0000,0000,,The kind of power you're \Ntalking about is Link Joker's!
+Dialogue: 0,0:10:03.94,0:10:06.14,Main Dialog,Spoken,0000,0000,0000,,It's not mine!
+Dialogue: 0,0:10:13.46,0:10:15.17,Main Dialog,Spoken,0000,0000,0000,,What I value...
+Dialogue: 0,0:10:18.68,0:10:21.13,Main Dialog,Spoken,0000,0000,0000,,...is the strength that comes from...
+Dialogue: 0,0:10:22.13,0:10:23.01,Main Dialog,Spoken,0000,0000,0000,,...my own power!
+Dialogue: 0,0:10:41.08,0:10:44.12,Main Dialog,Spoken,0000,0000,0000,,I give all of the effects to Twilight Baron.
+Dialogue: 0,0:10:48.62,0:10:51.18,Main Dialog,Spoken,0000,0000,0000,,You already have 5 damage.
+Dialogue: 0,0:10:51.18,0:10:55.25,Main Dialog,Spoken,0000,0000,0000,,With this attack, I'm gonna seal \Nyour and Link Joker's ambitions!
+Dialogue: 0,0:11:05.12,0:11:06.77,Main Dialog,Spoken,0000,0000,0000,,A wasted effort.
+Dialogue: 0,0:11:15.17,0:11:21.16,Main Dialog,Spoken,0000,0000,0000,,You won't be able to obliterate \NLink Joker with that level of power.
+Dialogue: 0,0:11:25.05,0:11:27.16,Main Dialog,Spoken,0000,0000,0000,,I got a critical trigger!
+Dialogue: 0,0:11:27.57,0:11:30.85,Main Dialog,Spoken,0000,0000,0000,,Too bad. You don't have enough power.
+Dialogue: 0,0:11:33.88,0:11:37.50,Main Dialog,Spoken,0000,0000,0000,,I'm not done! Descendant, Limit Break!
+Dialogue: 0,0:11:41.26,0:11:42.68,Main Dialog,Spoken,0000,0000,0000,,Counterblast!
+Dialogue: 0,0:11:43.14,0:11:46.93,Main Dialog,Spoken,0000,0000,0000,,With this, it's possible for \NDescendant to attack again!
+Dialogue: 0,0:12:13.55,0:12:14.42,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:12:20.56,0:12:24.59,Main Dialog,Spoken,0000,0000,0000,,I told you. You're just wasting effort.
+Dialogue: 0,0:12:30.13,0:12:31.96,Main Dialog,Spoken,0000,0000,0000,,Twin drive check!
+Dialogue: 0,0:12:33.52,0:12:35.60,Main Dialog,Spoken,0000,0000,0000,,I got a critical trigger!
+Dialogue: 0,0:12:36.04,0:12:38.38,Main Dialog,Spoken,0000,0000,0000,,I give all the effects to Descendant!
+Dialogue: 0,0:12:40.86,0:12:42.49,Main Dialog,Spoken,0000,0000,0000,,One more...
+Dialogue: 0,0:12:42.49,0:12:44.36,Main Dialog,Spoken,0000,0000,0000,,If I get a trigger...
+Dialogue: 0,0:13:08.16,0:13:11.01,Main Dialog,Spoken,0000,0000,0000,,And so your turn ends.
+Dialogue: 0,0:13:15.33,0:13:22.03,Main Dialog,Spoken,0000,0000,0000,,If only your rear-guard Zuitan \Nor Hisen hadn't been locked,
+Dialogue: 0,0:13:22.57,0:13:25.36,Main Dialog,Spoken,0000,0000,0000,,your total attacking power \Nwould have been much higher.
+Dialogue: 0,0:13:25.81,0:13:29.03,Main Dialog,Spoken,0000,0000,0000,,I might have lost this turn.
+Dialogue: 0,0:13:35.25,0:13:40.48,Main Dialog,Spoken,0000,0000,0000,,In the end, your own power isn't all that.
+Dialogue: 0,0:13:42.92,0:13:49.43,Main Dialog,Spoken,0000,0000,0000,,With what you've got, I doubt you'd fare \Nwell with the kind of fight you're looking for.
+Dialogue: 0,0:13:49.82,0:13:50.39,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:13:51.26,0:13:54.31,Main Dialog,Spoken,0000,0000,0000,,I see everything.
+Dialogue: 0,0:13:54.66,0:13:57.23,Main Dialog,Spoken,0000,0000,0000,,The fight that you desire...
+Dialogue: 0,0:13:58.90,0:14:01.44,Main Dialog,Spoken,0000,0000,0000,,...is one in which you \Ndefeat a strong friend!
+Dialogue: 0,0:14:03.36,0:14:04.53,Main Dialog,Spoken,0000,0000,0000,,For example...
+Dialogue: 0,0:14:05.46,0:14:07.15,Main Dialog,Spoken,0000,0000,0000,,Ren Suzugamori...
+Dialogue: 0,0:14:09.00,0:14:09.63,Main Dialog,Spoken,0000,0000,0000,,Or...
+Dialogue: 0,0:14:11.15,0:14:13.82,Main Dialog,Spoken,0000,0000,0000,,Aichi Sendou...
+Dialogue: 0,0:14:19.70,0:14:20.46,Main Dialog,Spoken,0000,0000,0000,,Shut up!
+Dialogue: 0,0:14:21.41,0:14:24.21,Main Dialog,Spoken,0000,0000,0000,,See? I hit the nail on the head.
+Dialogue: 0,0:14:24.65,0:14:26.34,Main Dialog,Spoken,0000,0000,0000,,Shut up! Shut up!
+Dialogue: 0,0:14:32.60,0:14:33.60,Main Dialog,Spoken,0000,0000,0000,,Ride...
+Dialogue: 0,0:14:48.01,0:14:49.05,Main Dialog,Spoken,0000,0000,0000,,Lock.
+Dialogue: 0,0:15:00.52,0:15:01.54,Main Dialog,Spoken,0000,0000,0000,,Lock.
+Dialogue: 0,0:15:04.74,0:15:05.55,Main Dialog,Spoken,0000,0000,0000,,Lock.
+Dialogue: 0,0:15:07.73,0:15:08.55,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:15:10.81,0:15:12.18,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:15:16.93,0:15:19.94,Main Dialog,Spoken,0000,0000,0000,,All of my rear-guards are locked?!
+Dialogue: 0,0:15:20.70,0:15:25.19,Main Dialog,Spoken,0000,0000,0000,,That's right. This is the \Nlimit of your own power.
+Dialogue: 0,0:15:25.68,0:15:29.16,Main Dialog,Spoken,0000,0000,0000,,I'm sure you've actually \Nknown for some time now
+Dialogue: 0,0:15:29.16,0:15:34.88,Main Dialog,Spoken,0000,0000,0000,,that with your current power, Ren Suzugamori \Nand Aichi Sendou are out of your reach.
+Dialogue: 0,0:15:34.88,0:15:36.34,Main Dialog,Spoken,0000,0000,0000,,Shut your mouth!
+Dialogue: 0,0:15:51.25,0:15:56.64,Main Dialog,Spoken,0000,0000,0000,,Two alternate paths open up for \Nthose who recognize their own limits.
+Dialogue: 0,0:15:56.89,0:16:02.89,Main Dialog,Spoken,0000,0000,0000,,The first path is to do nothing, just \Ncontinuing to lose with your weak power.
+Dialogue: 0,0:16:05.16,0:16:10.53,Main Dialog,Spoken,0000,0000,0000,,The other is... \Novercoming your current self!
+Dialogue: 0,0:16:13.44,0:16:15.03,Main Dialog,Spoken,0000,0000,0000,,Toshiki Kai!
+Dialogue: 0,0:16:18.76,0:16:23.89,Main Dialog,Spoken,0000,0000,0000,,If you acquire this deck, you'll \Nbe able to surpass yourself.
+Dialogue: 0,0:16:24.48,0:16:27.29,Main Dialog,Spoken,0000,0000,0000,,It will be as if you're reborn.
+Dialogue: 0,0:16:27.77,0:16:31.80,Main Dialog,Spoken,0000,0000,0000,,Which path... do you choose?
+Dialogue: 0,0:16:37.33,0:16:38.86,Main Dialog,Spoken,0000,0000,0000,,Picture it!
+Dialogue: 0,0:16:39.81,0:16:46.42,Main Dialog,Spoken,0000,0000,0000,,Picture yourself using Link Joker\N to fight Aichi Sendou!
+Dialogue: 0,0:16:54.61,0:16:55.10,Main Dialog,Spoken,0000,0000,0000,,Kai!
+Dialogue: 0,0:17:02.24,0:17:03.37,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:17:05.62,0:17:06.91,Main Dialog,Spoken,0000,0000,0000,,Link Joker!
+Dialogue: 0,0:17:08.94,0:17:09.98,Main Dialog,Spoken,0000,0000,0000,,This is...
+Dialogue: 0,0:17:10.54,0:17:12.71,Main Dialog,Spoken,0000,0000,0000,,...your last chance!
+Dialogue: 0,0:17:13.21,0:17:15.26,Main Dialog,Spoken,0000,0000,0000,,If you let this opportunity slip away,
+Dialogue: 0,0:17:15.97,0:17:19.92,Main Dialog,Spoken,0000,0000,0000,,you'll never beat Aichi Sendou.
+Dialogue: 0,0:17:20.46,0:17:24.23,Main Dialog,Spoken,0000,0000,0000,,But if you ride that unit,
+Dialogue: 0,0:17:24.58,0:17:26.72,Main Dialog,Spoken,0000,0000,0000,,you'll win!
+Dialogue: 0,0:17:27.86,0:17:28.98,Main Dialog,Spoken,0000,0000,0000,,I know.
+Dialogue: 0,0:17:29.46,0:17:32.86,Main Dialog,Spoken,0000,0000,0000,,If I use this, my body \Nwill be filled with power.
+Dialogue: 0,0:17:33.89,0:17:35.94,Main Dialog,Spoken,0000,0000,0000,,The power to be on equal terms...
+Dialogue: 0,0:17:37.93,0:17:41.89,Main Dialog,Spoken,0000,0000,0000,,The power to beat Ren and Aichi!
+Dialogue: 0,0:17:46.09,0:17:48.73,Main Dialog,Spoken,0000,0000,0000,,Strip off your old vestments \Nand throw them away.
+Dialogue: 0,0:17:48.73,0:17:51.21,Main Dialog,Spoken,0000,0000,0000,,The time to be reborn has come.
+Dialogue: 0,0:17:51.64,0:17:54.21,Main Dialog,Spoken,0000,0000,0000,,To be the one that has surpassed yourself.
+Dialogue: 0,0:17:54.98,0:17:56.72,Main Dialog,Spoken,0000,0000,0000,,Regenerate.
+Dialogue: 0,0:17:56.72,0:17:58.97,Main Dialog,Spoken,0000,0000,0000,,The time to Reverse is here!
+Dialogue: 0,0:18:17.36,0:18:19.26,Main Dialog,Spoken,0000,0000,0000,,This is power.
+Dialogue: 0,0:18:20.44,0:18:22.05,Main Dialog,Spoken,0000,0000,0000,,This is...
+Dialogue: 0,0:18:23.01,0:18:24.17,Main Dialog,Spoken,0000,0000,0000,,Ride!
+Dialogue: 0,0:18:30.52,0:18:31.33,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:18:35.29,0:18:36.67,Main Dialog,Spoken,0000,0000,0000,,Here I go, Aichi!
+Dialogue: 0,0:18:37.98,0:18:39.28,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:18:59.24,0:19:02.17,Main Dialog,Spoken,0000,0000,0000,,D-Don't believe it...
+Dialogue: 0,0:19:04.42,0:19:11.65,Main Dialog,Spoken,0000,0000,0000,,Why did I choose power and \Nstrength... that's not mine?!
+Dialogue: 0,0:19:18.33,0:19:23.52,Main Dialog,Spoken,0000,0000,0000,,The only things of value are \Nyour own power and strength.
+Dialogue: 0,0:19:23.52,0:19:26.33,Main Dialog,Spoken,0000,0000,0000,,You had faith in that, huh?
+Dialogue: 0,0:19:27.64,0:19:33.80,Main Dialog,Spoken,0000,0000,0000,,And just now, you murdered that \Nfaith with your own hands.
+Dialogue: 0,0:19:34.65,0:19:37.19,Main Dialog,Spoken,0000,0000,0000,,But that doesn't mean you've fallen.
+Dialogue: 0,0:19:37.62,0:19:42.16,Main Dialog,Spoken,0000,0000,0000,,You've been reborn anew, into an existence \Nsurpassing the previous one.
+Dialogue: 0,0:19:42.16,0:19:44.93,Main Dialog,Spoken,0000,0000,0000,,So, on the contrary, it's...
+Dialogue: 0,0:19:46.14,0:19:48.70,Main Dialog,Spoken,0000,0000,0000,,...something to be celebrated.
+Dialogue: 0,0:20:13.33,0:20:14.35,Main Dialog,Spoken,0000,0000,0000,,Hello.
+Dialogue: 0,0:20:14.81,0:20:15.80,Main Dialog,Spoken,0000,0000,0000,,Welcome.
+Dialogue: 0,0:20:17.18,0:20:18.12,Main Dialog,Spoken,0000,0000,0000,,Aichi!
+Dialogue: 0,0:20:18.12,0:20:18.81,Main Dialog,Spoken,0000,0000,0000,,Yo!
+Dialogue: 0,0:20:18.81,0:20:22.05,Main Dialog,Spoken,0000,0000,0000,,Aichi, do me a favor and \Nfight Morikawa, willya?
+Dialogue: 0,0:20:22.05,0:20:25.69,Main Dialog,Spoken,0000,0000,0000,,Yeah, this guy hasn't let either \Nof us relax for a minute!
+Dialogue: 0,0:20:25.69,0:20:26.87,Main Dialog,Spoken,0000,0000,0000,,Hey!
+Dialogue: 0,0:20:27.14,0:20:30.62,Main Dialog,Spoken,0000,0000,0000,,Kai hasn't come today either, huh?
+Dialogue: 0,0:20:30.62,0:20:34.33,Main Dialog,Spoken,0000,0000,0000,,Nope. We haven't seen him at school either.
+Dialogue: 0,0:20:34.33,0:20:36.63,Main Dialog,Spoken,0000,0000,0000,,Maybe he's traveling again, \Nto train, or so he claims...
+Dialogue: 0,0:20:36.98,0:20:40.28,Main Dialog,Spoken,0000,0000,0000,,Kai's one thing, but the \Nreal issue here is Kourin!
+Dialogue: 0,0:20:40.28,0:20:42.26,Main Dialog,Spoken,0000,0000,0000,,Has she been back to school since that day?
+Dialogue: 0,0:20:42.64,0:20:45.54,Main Dialog,Spoken,0000,0000,0000,,We got a call from Takuto about her.
+Dialogue: 0,0:20:45.54,0:20:47.74,Main Dialog,Spoken,0000,0000,0000,,He said she's really busy with her idol work,
+Dialogue: 0,0:20:47.74,0:20:50.01,Main Dialog,Spoken,0000,0000,0000,,so she'll be on a leave \Nof absence for a while.
+Dialogue: 0,0:20:50.32,0:20:51.88,Main Dialog,Spoken,0000,0000,0000,,Oh, is that what it is?
+Dialogue: 0,0:20:51.88,0:20:53.89,Main Dialog,Spoken,0000,0000,0000,,It's the same thing with Rekka.
+Dialogue: 0,0:20:53.89,0:20:56.93,Main Dialog,Spoken,0000,0000,0000,,I was worried about her!
+Dialogue: 0,0:20:56.93,0:20:59.40,Main Dialog,Spoken,0000,0000,0000,,That's a relief, huh, Morikawa?
+Dialogue: 0,0:20:59.89,0:21:01.96,Main Dialog,Spoken,0000,0000,0000,,Kourin!
+Dialogue: 0,0:21:01.96,0:21:04.69,Main Dialog,Spoken,0000,0000,0000,,There's nothing to worry about.
+Dialogue: 0,0:21:05.48,0:21:07.18,Main Dialog,Spoken,0000,0000,0000,,I know that...
+Dialogue: 0,0:21:08.68,0:21:12.70,Main Dialog,Spoken,0000,0000,0000,,...but why won't this vague \Nsense of foreboding disappear?
+Dialogue: 0,0:21:15.85,0:21:19.41,Main Dialog,Spoken,0000,0000,0000,,It's unusual for you to visit here.
+Dialogue: 0,0:21:20.52,0:21:22.90,Main Dialog,Spoken,0000,0000,0000,,But your timing's off.
+Dialogue: 0,0:21:22.90,0:21:25.43,Main Dialog,Spoken,0000,0000,0000,,Ren happens to be out at the moment.
+Dialogue: 0,0:21:25.43,0:21:27.36,Main Dialog,Spoken,0000,0000,0000,,Do you want to wait until he comes back?
+Dialogue: 0,0:21:30.01,0:21:32.43,Main Dialog,Spoken,0000,0000,0000,,I came to battle a strong fighter.
+Dialogue: 0,0:21:35.52,0:21:37.69,Main Dialog,Spoken,0000,0000,0000,,Are you strong?
+Dialogue: 0,0:21:38.82,0:21:42.19,Main Dialog,Spoken,0000,0000,0000,,In other words, I'll do as an opponent?
+Dialogue: 0,0:21:47.73,0:21:50.57,Main Dialog,Spoken,0000,0000,0000,,It's been a long time since we've fought.
+Dialogue: 0,0:21:50.57,0:21:53.09,Main Dialog,Spoken,0000,0000,0000,,I've gotten better, you know.
+Dialogue: 0,0:21:53.98,0:21:56.74,Main Dialog,Spoken,0000,0000,0000,,And I've got new power.
+Dialogue: 0,0:21:57.56,0:22:02.10,Main Dialog,Spoken,0000,0000,0000,,Oh? Did you get a new \NNarukami unit or something?
+Dialogue: 0,0:22:03.65,0:22:05.73,Main Dialog,Spoken,0000,0000,0000,,This should be a fun fight.
+Dialogue: 0,0:22:09.61,0:22:10.66,Main Dialog,Spoken,0000,0000,0000,,Ready?
+Dialogue: 0,0:22:11.80,0:22:14.01,Main Dialog,Spoken,0000,0000,0000,,Stand up the Vanguard!
+Dialogue: 0,0:22:11.80,0:22:14.01,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:23:55.88,0:23:59.00,Main Dialog,Spoken,0000,0000,0000,,With this power, I can \Nbeat Ren, and Aichi too?
+Dialogue: 0,0:23:59.00,0:24:04.20,Main Dialog,Spoken,0000,0000,0000,,That's right. You're the only \None who can master Link Joker.
+Dialogue: 0,0:24:04.20,0:24:07.84,Main Dialog,Spoken,0000,0000,0000,,So you're saying this clan \Nappeared so it could meet me?
+Dialogue: 0,0:24:07.84,0:24:12.08,Main Dialog,Spoken,0000,0000,0000,,I had no idea that while we were playing \NCardfight, something terrible was happening.
+Dialogue: 0,0:24:12.08,0:24:14.22,Main Dialog,Spoken,0000,0000,0000,,Next time: The Power of the Black Ring!
+Dialogue: 0,0:24:12.68,0:24:24.98,Signs,Sign,0000,0000,0000,,The Power of the Black Ring!
+Dialogue: 0,0:24:14.22,0:24:19.42,Main Dialog,Spoken,0000,0000,0000,,Link Joker is silently but \Nsurely spreading that power...
+Dialogue: 0,0:24:19.42,0:24:21.86,Main Dialog,Spoken,0000,0000,0000,,I've obtained a mighty power!
+Dialogue: 0,0:24:21.86,0:24:24.66,Main Dialog,Spoken,0000,0000,0000,,Yes. It was inevitable.

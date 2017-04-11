@@ -1,0 +1,7988 @@
+1
+00:00:11,977 --> 00:00:14,345
+        "you are here."         
+
+2
+00:00:14,346 --> 00:00:16,314
+        I'm where?              
+
+3
+00:00:19,351 --> 00:00:20,718
+         <i>(girls scream) </i>        
+
+4
+00:00:20,719 --> 00:00:23,087
+ <i>(boy)</i> freshman!                
+ <i>(boy #2)</i> let's get him!        
+
+5
+00:00:26,791 --> 00:00:28,759
+           <i>(freshman)</i>           
+           help! Help!          
+
+6
+00:00:28,760 --> 00:00:30,261
+            Seniors!            
+
+7
+00:00:30,262 --> 00:00:31,429
+ <i>(girl)</i> freshman.               
+
+8
+00:00:31,430 --> 00:00:33,431
+                   <i>(girl #2)</i>    
+                   hey, freshie!
+
+9
+00:00:33,432 --> 00:00:35,366
+ <i>(girl #3)</i>                      
+ we got another freshman!       
+  Please, put me down! Help!    
+
+10
+00:00:38,170 --> 00:00:41,005
+Please, I'll be late            
+for my first class.             
+
+11
+00:00:41,006 --> 00:00:42,673
+      What do we do with him?   
+    Stuff him in a locker.      
+
+12
+00:00:42,674 --> 00:00:46,644
+No, not the locker.             
+Anything but the locker!        
+
+13
+00:00:46,645 --> 00:00:50,848
+  <i>(%% "did we meet</i>               
+  <i>somewhere before?"</i>            
+  <i>by Paul McCartney and wings)</i>  
+
+14
+00:00:50,849 --> 00:00:53,851
+        Hey.                    
+            Nice game, Tom,     
+            even though we lost.
+
+15
+00:00:53,852 --> 00:00:55,452
+        Oh, yeah. Ha-ha.        
+
+16
+00:00:56,688 --> 00:00:59,090
+              Hey.              
+How you doin'?                  
+
+17
+00:00:59,091 --> 00:01:00,825
+  How's the old arm?            
+
+18
+00:01:00,826 --> 00:01:02,994
+    Well, it's pretty sore.     
+
+19
+00:01:02,995 --> 00:01:05,496
+      <i>%% ...That's happening</i>     
+
+20
+00:01:05,497 --> 00:01:09,033
+         <i>%% to both of us</i>        
+
+21
+00:01:14,673 --> 00:01:17,141
+     <i>%% happening time</i>           
+
+22
+00:01:17,142 --> 00:01:20,745
+     <i>%% and time again</i>           
+
+23
+00:01:20,746 --> 00:01:24,232
+  <i>%% happening over and over...</i>  
+
+24
+00:01:24,233 --> 00:01:25,767
+Hi, Tom.                        
+
+25
+00:01:25,768 --> 00:01:29,120
+ <i>%% will the king's horses</i>       
+
+26
+00:01:29,121 --> 00:01:32,757
+ <i>%% and all the king's men</i>       
+
+27
+00:01:32,758 --> 00:01:35,526
+         <i>%% ever find out</i>        
+
+28
+00:01:35,527 --> 00:01:37,662
+      <i>%% what it's about? %%</i>      
+
+29
+00:01:37,663 --> 00:01:39,647
+         <i>(bell ringing) </i>        
+
+30
+00:01:39,648 --> 00:01:42,149
+      "never before             
+      has the school board      
+
+31
+00:01:42,150 --> 00:01:45,853
+      "seen a student body      
+      such as this.             
+
+32
+00:01:45,854 --> 00:01:50,357
+"but starting today,            
+things will be different.       
+
+33
+00:01:50,358 --> 00:01:53,761
+     "may I present to you      
+     an administrator           
+
+34
+00:01:53,762 --> 00:01:57,031
+    "who has promised           
+    to carry out her duties     
+
+35
+00:01:57,032 --> 00:01:59,033
+      "with an iron hand -      
+
+36
+00:01:59,034 --> 00:02:03,104
+    "the new principal          
+    of Vince Lombardi high -    
+
+37
+00:02:03,105 --> 00:02:05,756
+      Miss Evelyn Togar."       
+
+38
+00:02:07,025 --> 00:02:09,593
+                      Thank you.
+
+39
+00:02:12,764 --> 00:02:15,499
+  Thank you. <i>(clears throat) </i>   
+
+40
+00:02:15,500 --> 00:02:17,001
+     "members of the board,     
+
+41
+00:02:17,002 --> 00:02:20,004
+ "as we stand on the threshold  
+ of a new decade,               
+
+42
+00:02:20,005 --> 00:02:22,340
+  "we must face harsh reality.  
+
+43
+00:02:22,341 --> 00:02:26,460
+ "our educational system        
+ has become far too permissive. 
+
+44
+00:02:26,461 --> 00:02:29,029
+    "as that famous scholar     
+    once said...                
+
+45
+00:02:29,030 --> 00:02:31,064
+      "'my darling Evelyn,      
+
+46
+00:02:31,065 --> 00:02:34,435
+    How I long for the feel     
+    of your luscious thighs     
+    wrapped ar--'"              
+
+47
+00:02:40,258 --> 00:02:44,745
+  "as you all know, I am here   
+  to replace Professor Webb,    
+
+48
+00:02:44,746 --> 00:02:47,482
+     "who is unable             
+     to continue his duties     
+
+49
+00:02:47,483 --> 00:02:49,450
+As the chief administrator      
+of this school."                
+
+50
+00:02:49,451 --> 00:02:52,803
+    And now I would like us     
+    all to rise and salute      
+    professor Webb              
+
+51
+00:02:52,804 --> 00:02:56,207
+    For his wonderful,          
+    gallant effort.             
+
+52
+00:03:04,482 --> 00:03:07,584
+     Ludwig van Beethoven,      
+
+53
+00:03:07,585 --> 00:03:09,620
+      Whom you will be          
+      interested to learn,      
+
+54
+00:03:09,621 --> 00:03:11,688
+  Wrote his greatest symphony   
+
+55
+00:03:11,689 --> 00:03:15,292
+  At a time                     
+  when he was completely deaf,  
+
+56
+00:03:15,293 --> 00:03:18,695
+     A feat which was           
+     practically unheard of     
+
+57
+00:03:18,696 --> 00:03:20,264
+          At the time.          
+
+58
+00:03:20,265 --> 00:03:22,599
+         <i>(wheezy laugh) </i>        
+
+59
+00:03:25,537 --> 00:03:28,573
+    I know that most of you     
+    are used to listening       
+
+60
+00:03:28,574 --> 00:03:30,875
+    To a very different kind    
+    of music,                   
+
+61
+00:03:30,876 --> 00:03:33,727
+    But I hope                  
+    that when you hear          
+
+62
+00:03:33,728 --> 00:03:38,199
+ The immortal strains           
+ of Beethoven’s fifth symphony, 
+
+63
+00:03:38,200 --> 00:03:41,902
+     You will realize           
+     what a work of genius      
+     it really is.              
+
+64
+00:03:44,339 --> 00:03:47,541
+    I seem to have misplaced    
+    the turntable.              
+
+65
+00:03:54,800 --> 00:03:56,900
+         Hi, everybody.         
+
+66
+00:03:56,901 --> 00:04:01,705
+ I'm Riff Randell, and this is  
+ rock-'n'-roll high school!     
+
+67
+00:04:01,706 --> 00:04:03,874
+  <i>(%% "Sheena is a punk rocker"</i>  
+  <i>by the Ramones) </i>              
+
+68
+00:04:06,194 --> 00:04:10,798
+     <i>%% well, the kids</i>           
+     <i>are all hopped up</i>          
+     <i>and ready to go</i>            
+
+69
+00:04:10,799 --> 00:04:13,467
+   <i>%% they're ready to go now,</i>   
+   <i>they got their surfboards</i>    
+
+70
+00:04:13,468 --> 00:04:17,555
+  <i>%% and they're goin'</i>           
+  <i>to the discotheque à go-go...</i> 
+
+71
+00:04:17,556 --> 00:04:19,707
+     <i>(all screaming) </i>           
+
+72
+00:04:19,708 --> 00:04:23,027
+      What are you doing?       
+      Have you gone crazy?      
+
+73
+00:04:23,028 --> 00:04:25,062
+      Stop that! Sit down.      
+
+74
+00:04:25,063 --> 00:04:27,031
+     <i>%% ...Really has it all</i>     
+
+75
+00:04:27,032 --> 00:04:31,401
+      <i>%% oh, yeah, oh, yeah</i>      
+
+76
+00:04:31,402 --> 00:04:33,037
+           <i>%% Sheena is</i>          
+
+77
+00:04:33,038 --> 00:04:35,539
+   <i>%% a punk rocker, Sheena is</i>   
+
+78
+00:04:35,540 --> 00:04:39,343
+     <i>%% a punk rocker,</i>           
+     <i>Sheena is...</i>               
+
+79
+00:04:39,344 --> 00:04:41,345
+Please, these are               
+very dangerous chemicals.       
+
+80
+00:04:41,346 --> 00:04:44,882
+Don't dance near the chemicals. 
+In fact, don't dance at all.    
+
+81
+00:04:44,883 --> 00:04:46,583
+           <i>%% Sheena is</i>          
+
+82
+00:04:46,584 --> 00:04:48,085
+       <i>%% a punk rocker...</i>       
+
+83
+00:04:48,086 --> 00:04:49,270
+          <i>Asseyez vous.</i>         
+
+84
+00:04:49,271 --> 00:04:51,339
+         <i>Asseyez vous.</i>          
+         <i>Asseyez vous.</i>          
+
+85
+00:04:51,340 --> 00:04:52,739
+                 <i>(girl)</i> whoo!   
+
+86
+00:04:52,740 --> 00:04:54,675
+  <i>%% well, she's a punk, punk...</i> 
+
+87
+00:04:54,676 --> 00:04:58,212
+     Please stop-- what?        
+     Get down off my desk.      
+
+88
+00:04:58,213 --> 00:05:00,698
+    Get down off my desk!       
+    Get in your seats.          
+
+89
+00:05:00,699 --> 00:05:01,765
+         <i>%% a punk rocker</i>        
+
+90
+00:05:01,766 --> 00:05:02,933
+         <i>%% punk, punk</i>           
+
+91
+00:05:02,934 --> 00:05:03,934
+         <i>%% a punk rocker</i>        
+
+92
+00:05:07,805 --> 00:05:09,773
+                        Aah!    
+
+93
+00:05:09,774 --> 00:05:13,260
+   <i>%% ...Kids are all hopped up</i>  
+   <i>and ready to go</i>              
+
+94
+00:05:13,261 --> 00:05:16,129
+   <i>%% they're ready to go now,</i>   
+   <i>they got their surfboards</i>    
+
+95
+00:05:16,130 --> 00:05:19,132
+   <i>%% and they're goin'</i>          
+   <i>to the discotheque à go-go</i>   
+
+96
+00:05:20,735 --> 00:05:23,537
+  <i>%% but she just couldn't stay</i>  
+
+97
+00:05:23,538 --> 00:05:26,406
+     <i>%% she had to break away</i>    
+
+98
+00:05:26,407 --> 00:05:29,276
+      <i>%% well, new York city</i>     
+      <i>really has it all</i>         
+
+99
+00:05:29,277 --> 00:05:33,647
+      <i>%% oh, yeah, oh, yeah</i>      
+
+100
+00:05:33,648 --> 00:05:35,516
+           <i>%% Sheena is</i>          
+
+101
+00:05:35,517 --> 00:05:38,352
+   <i>%% a punk rocker, Sheena is</i>   
+
+102
+00:05:38,353 --> 00:05:40,937
+  <i>%% a punk rocker, Sheena is</i>    
+
+103
+00:05:40,938 --> 00:05:44,742
+       <i>%% a punk rocker now</i>      
+
+104
+00:05:44,743 --> 00:05:46,410
+           <i>%% Sheena is</i>          
+
+105
+00:05:46,411 --> 00:05:49,079
+   <i>%% a punk rocker, Sheena is</i>   
+
+106
+00:05:49,080 --> 00:05:51,682
+  <i>%% a punk rocker, Sheena is</i>    
+
+107
+00:05:51,683 --> 00:05:55,085
+       <i>%% a punk rocker now</i>      
+
+108
+00:05:55,086 --> 00:05:57,088
+       <i>%% well, she's a...</i>       
+         %% punk, punk           
+
+109
+00:05:57,089 --> 00:05:58,322
+        %% a punk rocker         
+
+110
+00:05:58,323 --> 00:05:59,973
+          <i>%% punk, punk</i>          
+
+111
+00:05:59,974 --> 00:06:01,659
+         <i>%% a punk rocker</i>        
+
+112
+00:06:01,660 --> 00:06:02,927
+                    Riff.       
+
+113
+00:06:02,928 --> 00:06:04,161
+         <i>%% a punk rocker</i>        
+
+114
+00:06:04,162 --> 00:06:05,496
+          <i>%% punk, punk</i>          
+                         Riff!  
+
+115
+00:06:05,497 --> 00:06:08,599
+         <i>%% a punk rocker</i>        
+
+116
+00:06:08,600 --> 00:06:12,336
+         <i>(music stops) </i>         
+
+117
+00:06:12,337 --> 00:06:14,222
+Hey, Kate,                      
+I'm getting some static.        
+
+118
+00:06:14,223 --> 00:06:16,474
+    Not as much                 
+    as you're going to get.     
+
+119
+00:06:16,475 --> 00:06:19,209
+            So, this is         
+            the type of behavior
+            that I can expect.  
+
+120
+00:06:19,210 --> 00:06:21,845
+          The minute there's not
+          a teacher in the room,
+
+121
+00:06:21,846 --> 00:06:23,981
+        The entire school erupts
+
+122
+00:06:23,982 --> 00:06:27,201
+        Into a shameless display
+        of adolescent abandon.  
+
+123
+00:06:27,202 --> 00:06:30,837
+         If it's discipline     
+         that you students need,
+
+124
+00:06:30,838 --> 00:06:33,974
+  I am the one                  
+  who can provide it for you.   
+
+125
+00:06:33,975 --> 00:06:35,843
+        Well, now,              
+
+126
+00:06:35,844 --> 00:06:39,280
+      I'm not interested        
+      in punishing anyone,      
+
+127
+00:06:39,281 --> 00:06:42,717
+    But I think for the good    
+    of the whole school,        
+
+128
+00:06:42,718 --> 00:06:47,505
+     The person responsible     
+     for this deviation         
+     from the schedule          
+
+129
+00:06:47,506 --> 00:06:49,039
+      Should step forward.      
+
+130
+00:06:51,176 --> 00:06:53,677
+Kate, what are you doing?       
+
+131
+00:06:55,614 --> 00:06:57,981
+              What is your name?
+
+132
+00:06:57,982 --> 00:06:59,350
+Kate Rambeau.                   
+
+133
+00:07:01,586 --> 00:07:03,554
+                And who are you?
+
+134
+00:07:03,555 --> 00:07:06,524
+I'm Riff Randell,               
+rock-'n'-roller.                
+
+135
+00:07:06,525 --> 00:07:08,008
+               <i>(students laugh) </i>
+
+136
+00:07:08,009 --> 00:07:11,211
+Obviously you do not know       
+who I am.                       
+
+137
+00:07:11,212 --> 00:07:12,879
+        I am Miss Togar,        
+
+138
+00:07:12,880 --> 00:07:18,286
+And I am the new principal      
+of this school.                 
+
+139
+00:07:18,287 --> 00:07:20,337
+             <i>(whoop over pa) </i>   
+
+140
+00:07:20,338 --> 00:07:22,857
+    I want you to go            
+    to your classes... Now.     
+
+141
+00:07:31,232 --> 00:07:35,019
+  This incident is going down   
+  on your permanent record,     
+
+142
+00:07:35,020 --> 00:07:37,521
+A record                        
+that's going to follow you      
+
+143
+00:07:37,522 --> 00:07:41,358
+    Throughout                  
+    your entire life.           
+
+144
+00:07:41,359 --> 00:07:44,461
+You have managed                
+to upset the entire school      
+
+145
+00:07:44,462 --> 00:07:46,096
+  With this godforsaken noise.  
+
+146
+00:07:46,097 --> 00:07:48,933
+Noise? That's the Ramones'      
+best album.                     
+
+147
+00:07:48,934 --> 00:07:51,035
+Number one with a bullet.       
+
+148
+00:07:51,036 --> 00:07:54,688
+      Randell, I want           
+      to see both of you        
+      in detention center       
+
+149
+00:07:54,689 --> 00:07:59,960
+     Before the next bell,      
+     or else.                   
+
+150
+00:07:59,961 --> 00:08:01,795
+              Oh, Riff,         
+              detention center? 
+
+151
+00:08:01,796 --> 00:08:03,797
+             I've never served  
+             a detention before.
+
+152
+00:08:03,798 --> 00:08:05,366
+Oh, don't worry.                
+
+153
+00:08:05,367 --> 00:08:08,835
+I've done more detentions than  
+anyone in the school's history. 
+
+154
+00:08:08,836 --> 00:08:10,837
+   <i>(%% "teenage depression"</i>      
+   <i>by Eddie and the hot rods)</i>   
+
+155
+00:08:10,838 --> 00:08:12,839
+        Whoo-hoo! Come on, Kate.
+        Loosen up.              
+
+156
+00:08:12,840 --> 00:08:14,674
+Oh, Riff, not that stuff.       
+
+157
+00:08:14,675 --> 00:08:17,177
+        Oh, come on. It's not   
+        the end of the world.   
+
+158
+00:08:17,178 --> 00:08:21,382
+            Yahoo! Detention.   
+     I can't believe you.       
+
+159
+00:08:21,383 --> 00:08:25,452
+         <i>(laughs)</i>               
+         oh, boy, detention     
+         with my best friend.   
+
+160
+00:08:25,453 --> 00:08:26,821
+     I don't understand it.     
+
+161
+00:08:26,822 --> 00:08:28,922
+    I mean, I'm captain         
+    of the football team...     
+
+162
+00:08:28,923 --> 00:08:31,225
+         <i>(bell ringing)</i>         
+        ...My complexion        
+        has cleared up,         
+
+163
+00:08:31,226 --> 00:08:34,562
+  And soon, I'm gonna be going  
+  to the college of my choice.  
+
+164
+00:08:34,563 --> 00:08:36,897
+Why don't girls go for me?      
+
+165
+00:08:36,898 --> 00:08:37,931
+Hi, Tom.                        
+
+166
+00:08:37,932 --> 00:08:40,634
+            Hey, Cheryl,        
+            how ya doin'? Ah.   
+
+167
+00:08:40,635 --> 00:08:43,771
+                     <i>(sighs) </i>   
+
+168
+00:08:43,772 --> 00:08:46,207
+            Nice weather        
+            we been havin', huh?
+
+169
+00:08:46,208 --> 00:08:48,175
+      Little dry lately, though,
+
+170
+00:08:48,176 --> 00:08:53,314
+         But I hear it's raining
+         cats and dogs in Idaho.
+
+171
+00:08:53,315 --> 00:08:55,649
+Sure, Tom. Be seeing you?       
+
+172
+00:08:55,650 --> 00:08:58,719
+        All right.              
+
+173
+00:08:58,720 --> 00:09:00,821
+        What went wrong?        
+
+174
+00:09:00,822 --> 00:09:03,224
+     Maybe I'm too forward.     
+
+175
+00:09:03,225 --> 00:09:04,758
+Hi, Tom.                        
+
+176
+00:09:04,759 --> 00:09:06,994
+            Hey, Shawn, baby,   
+            how you doin'?      
+
+177
+00:09:06,995 --> 00:09:08,996
+                      <i>¿qué pasa?</i>
+
+178
+00:09:08,997 --> 00:09:11,932
+     Nice weather we been havin''
+     lately, huh?               
+
+179
+00:09:11,933 --> 00:09:14,001
+         It's been a little dry,
+         though.                
+
+180
+00:09:14,002 --> 00:09:17,238
+I hear it's been raining        
+cats and dogs in Idaho.         
+
+181
+00:09:17,239 --> 00:09:18,689
+            Yes!                
+
+182
+00:09:18,690 --> 00:09:20,190
+              See ya later, Tom.
+
+183
+00:09:20,191 --> 00:09:23,327
+      Yes. What happened?       
+
+184
+00:09:23,328 --> 00:09:25,162
+        What went wrong?        
+
+185
+00:09:26,598 --> 00:09:29,366
+O caring football type,         
+captain of the team--           
+
+186
+00:09:29,367 --> 00:09:31,368
+      I gotta                   
+      get myself together.      
+
+187
+00:09:31,369 --> 00:09:33,504
+    I need to improve           
+    my self-image.              
+
+188
+00:09:33,505 --> 00:09:35,639
+    I need to broaden           
+    my horizons!                
+
+189
+00:09:35,640 --> 00:09:38,008
+     <i>(%% "I wanna be sedated"</i>    
+     <i>by the Ramones) </i>           
+
+190
+00:09:38,009 --> 00:09:40,744
+      <i>%% I wanna be sedated</i>      
+
+191
+00:09:40,745 --> 00:09:43,013
+       <i>%% ba ba bamp-ba,</i>         
+       <i>ba-ba ba bamp-ba...</i>      
+
+192
+00:09:43,014 --> 00:09:46,517
+Riff Randell.                   
+
+193
+00:09:46,518 --> 00:09:50,738
+       <i>%% ba ba bamp-ba,</i>         
+       <i>ba-ba ba bamp-ba %%</i>       
+
+194
+00:09:50,739 --> 00:09:53,691
+ <i>(%% "smoking in the boys' room"</i> 
+ <i>by brownsville station) </i>       
+
+195
+00:09:53,692 --> 00:09:57,527
+ <i>%% a-checkin' out the halls,</i>    
+ <i>makin' sure the coast is clear</i> 
+
+196
+00:09:57,528 --> 00:10:00,864
+   <i>%% lookin' in the stalls,</i>     
+   <i>no, there ain't nobody here</i>  
+
+197
+00:10:00,865 --> 00:10:04,902
+         <i>%% my buddy fang</i>        
+         <i>and me and Paul</i>        
+
+198
+00:10:04,903 --> 00:10:08,438
+  <i>%% gettin' caught would surely</i> 
+  <i>be the death of us all</i>        
+
+199
+00:10:08,439 --> 00:10:11,224
+   <i>%% smokin' in the boys' room</i>  
+
+200
+00:10:11,225 --> 00:10:12,292
+             <i>%% yeah</i>             
+
+201
+00:10:12,293 --> 00:10:14,227
+   <i>%% smokin' in the boys' room</i>  
+
+202
+00:10:15,363 --> 00:10:16,497
+     <i>%% now, teacher...</i>          
+
+203
+00:10:16,498 --> 00:10:18,499
+      No, not the urinal!       
+This one.                       
+
+204
+00:10:18,500 --> 00:10:21,969
+    Anything but the urinal!    
+    No! Please!                 
+             Watch it! Watch it!
+
+205
+00:10:21,970 --> 00:10:24,388
+   <i>%% ...Smokin' ain't allowed</i>   
+   <i>in school</i>                    
+
+206
+00:10:24,389 --> 00:10:26,223
+     <i>%% all right... %%</i>           
+
+207
+00:10:26,224 --> 00:10:28,659
+        Hey, man,               
+        where you goin'?        
+
+208
+00:10:28,660 --> 00:10:30,360
+                End of the line!
+
+209
+00:10:30,361 --> 00:10:32,362
+              <i>(boy)</i> ...Just like
+              everybody else.   
+
+210
+00:10:32,363 --> 00:10:34,698
+Hi. Uh, I need                  
+to see Eaglebauer.              
+
+211
+00:10:34,699 --> 00:10:37,268
+              Oh, I'm sorry,    
+              but he's tied up  
+              at the moment.    
+
+212
+00:10:37,269 --> 00:10:40,270
+              Why don't you     
+              just take a number
+              and have a seat?  
+
+213
+00:10:40,271 --> 00:10:42,923
+Miss, you don't understand.     
+See, this is an emergency.      
+
+214
+00:10:42,924 --> 00:10:45,442
+            Animal, vegetable   
+            or mineral?         
+
+215
+00:10:45,443 --> 00:10:47,377
+Um... Sexual.                   
+
+216
+00:10:47,378 --> 00:10:49,362
+                 <i>(boys)</i> whoo!   
+
+217
+00:10:49,363 --> 00:10:52,316
+               It's a code nine!
+ <i>(electronic siren wailing) </i>    
+
+218
+00:10:52,317 --> 00:10:54,518
+He'll see you immediately.      
+
+219
+00:10:57,222 --> 00:10:59,389
+            Ah, my man,         
+            it's good to see ya.
+
+220
+00:10:59,390 --> 00:11:01,825
+            Good to see ya.     
+            How are ya doin'?   
+    Good.                       
+
+221
+00:11:01,826 --> 00:11:04,494
+              Well, have a seat.
+              Have a seat.      
+
+222
+00:11:04,495 --> 00:11:08,632
+        So what'll it be        
+        for the star quarterback
+        of Vince Lombardi high? 
+
+223
+00:11:08,633 --> 00:11:10,734
+         Fake id? Get you liquor
+         in any state.          
+
+224
+00:11:10,735 --> 00:11:11,785
+Uh, no.                         
+
+225
+00:11:11,786 --> 00:11:13,487
+        Hall pass? Test answers?
+
+226
+00:11:13,488 --> 00:11:15,956
+No, no, that's not              
+gonna solve my problem.         
+
+227
+00:11:15,957 --> 00:11:18,992
+      Shoot. It's been like this
+      all morning,              
+
+228
+00:11:18,993 --> 00:11:21,077
+Ever since Togar took office.   
+
+229
+00:11:21,078 --> 00:11:23,614
+         The whole school's     
+         in turmoil! Well, look.
+
+230
+00:11:23,615 --> 00:11:25,382
+              Look at this.     
+
+231
+00:11:25,383 --> 00:11:28,051
+              Fake ids down 50%.
+
+232
+00:11:28,052 --> 00:11:30,354
+          Test answers down 60%.
+
+233
+00:11:30,355 --> 00:11:32,822
+         Hall passes are fallin''
+         off the board.         
+
+234
+00:11:32,823 --> 00:11:34,658
+          Let's get back to you.
+
+235
+00:11:34,659 --> 00:11:37,494
+Tell me exactly what you want   
+out of life.                    
+
+236
+00:11:37,495 --> 00:11:39,830
+I want someone                  
+with huge breasts.              
+
+237
+00:11:39,831 --> 00:11:43,100
+            The sweet stirring  
+            of passionate youth.
+
+238
+00:11:43,101 --> 00:11:45,452
+I wanna get laid                
+before I'm 30.                  
+
+239
+00:11:45,453 --> 00:11:46,820
+            Are you a virgin?   
+
+240
+00:11:46,821 --> 00:11:49,840
+Uh, do you mean technically?    
+
+241
+00:11:49,841 --> 00:11:51,859
+             You've come        
+             to the right place.
+
+242
+00:11:51,860 --> 00:11:56,313
+          Eaglebauer enterprises
+          is a name that stands 
+          for quality.          
+
+243
+00:11:56,314 --> 00:12:00,401
+        I'm gonna get you a date
+        with the most primo lady
+        in this school -        
+
+244
+00:12:00,402 --> 00:12:02,335
+                Kate Rambeau.   
+
+245
+00:12:02,336 --> 00:12:05,489
+          <i>(%% fanfare) </i>          
+   <i>(mouths) </i>                    
+
+246
+00:12:05,490 --> 00:12:08,943
+        Johnny, why don't you   
+        tell Tom how happy      
+        he'll be with Kate?     
+
+247
+00:12:08,944 --> 00:12:10,995
+ <i>(Johnny over pa)</i>               
+ <i>right you are, Mr. Bauer.</i>      
+
+248
+00:12:10,996 --> 00:12:13,497
+  <i>Kate Rambeau, age 17,</i>         
+  <i>attends Vince Lombardi high,</i>  
+
+249
+00:12:13,498 --> 00:12:15,449
+       <i>Where she majors</i>         
+       <i>in nuclear physics.</i>      
+
+250
+00:12:15,450 --> 00:12:17,685
+     <i>This perky</i>                 
+     <i>gal-on-the-go's hobbies</i>    
+
+251
+00:12:17,686 --> 00:12:19,819
+ <i>Include splitting protons</i>      
+ <i>and checkers.</i>                  
+
+252
+00:12:19,820 --> 00:12:21,955
+ <i>Included</i>                       
+ <i>in your night to remember</i>      
+
+253
+00:12:21,956 --> 00:12:24,808
+     <i>Is a matched set</i>           
+     <i>of travelways luggage.</i>     
+         <i>(girls' voices) ooh!</i>   
+
+254
+00:12:24,809 --> 00:12:29,313
+   <i>That's travelways luggage,</i>   
+   <i>the first name in travel</i>     
+   <i>for over five years.</i>         
+
+255
+00:12:29,314 --> 00:12:32,065
+      <i>And now back to you,</i>      
+      <i>Mr. E.</i>                    
+           <i>(applause) </i>          
+
+256
+00:12:32,066 --> 00:12:33,984
+          <i>(%% flourish) </i>         
+
+257
+00:12:33,985 --> 00:12:36,854
+              Thank you, Johnny.
+              There she is, Tom.
+
+258
+00:12:36,855 --> 00:12:38,572
+I had somebody else in mind.    
+
+259
+00:12:38,573 --> 00:12:41,742
+      Oh, Tom, my files indicate
+      she's perfect for you.    
+
+260
+00:12:41,743 --> 00:12:44,177
+I know, I know,                 
+but I was kinda hopin'          
+
+261
+00:12:44,178 --> 00:12:46,580
+That you'd set me up            
+with Riff Randell.              
+
+262
+00:12:46,581 --> 00:12:50,000
+                Riff Randell?   
+
+263
+00:12:50,001 --> 00:12:53,153
+        How about a cheerleader?
+        Nice set of pompoms.    
+
+264
+00:12:53,154 --> 00:12:56,840
+No! The only girl I ever        
+dream about at night is Riff,   
+
+265
+00:12:56,841 --> 00:12:59,910
+But I always keep waking up     
+just before the good part.      
+
+266
+00:12:59,911 --> 00:13:04,731
+        Well, how are you set   
+        for large amounts       
+        of hard cash?           
+
+267
+00:13:04,732 --> 00:13:08,035
+ <i>(snaps fingers) </i>               
+ I have a major credit card.    
+
+268
+00:13:08,036 --> 00:13:11,355
+                Uh, Norma, dear?
+
+269
+00:13:11,356 --> 00:13:13,140
+      Yes, Mr. Eaglebauer.      
+
+270
+00:13:13,141 --> 00:13:15,943
+              Yes, would you    
+              draw up a contract
+              for Tom Roberts   
+
+271
+00:13:15,944 --> 00:13:17,811
+              And Riff Randell? 
+
+272
+00:13:18,946 --> 00:13:21,281
+         <i>(toilet flushes</i>        
+         <i>in background)</i>         
+
+273
+00:13:23,851 --> 00:13:27,954
+   <i>(%% "rock and roll"</i>           
+   <i>by the velvet underground)</i>   
+
+274
+00:13:27,955 --> 00:13:31,158
+  <i>%% you know her life is saved</i>  
+  <i>by rock 'n' roll</i>              
+
+275
+00:13:31,159 --> 00:13:32,659
+   <i>%% yeah, rock 'n' roll... %%</i>   
+
+276
+00:13:32,660 --> 00:13:34,294
+What's that thing               
+in your ear, Randell?           
+
+277
+00:13:34,295 --> 00:13:36,897
+                Um, it's a...   
+      A hearing aid.            
+
+278
+00:13:36,898 --> 00:13:38,398
+    Be careful, Miss Steroid.   
+
+279
+00:13:38,399 --> 00:13:41,067
+          She's very sensitive  
+          about it.             
+
+280
+00:13:41,068 --> 00:13:43,670
+Oh, I'm sorry                   
+to hear that, Randell.          
+
+281
+00:13:43,671 --> 00:13:45,438
+                        What?   
+
+282
+00:13:45,439 --> 00:13:48,942
+Sorry to hear that,             
+Randell!                        
+
+283
+00:13:48,943 --> 00:13:51,511
+              Fine. How are you?
+
+284
+00:13:53,547 --> 00:13:55,849
+Oh, I'm fine, thank you!        
+
+285
+00:13:55,850 --> 00:13:59,152
+         Oh, I'd say            
+         about a quarter to two.
+
+286
+00:13:59,153 --> 00:14:00,887
+         Come on, Riff,         
+         let's go.              
+
+287
+00:14:00,888 --> 00:14:03,690
+        But I just had lunch.   
+
+288
+00:14:05,126 --> 00:14:06,994
+        So young.               
+
+289
+00:14:06,995 --> 00:14:08,995
+                      <i>(giggles) </i>
+
+290
+00:14:08,996 --> 00:14:10,397
+That was close.                 
+
+291
+00:14:10,398 --> 00:14:13,534
+We just got out of trouble.     
+You wanna put us back in?       
+
+292
+00:14:13,535 --> 00:14:16,970
+              Are you kidding?  
+              "what's that thing
+              in your ear?"     
+
+293
+00:14:16,971 --> 00:14:20,174
+        She doesn't even know   
+        the Beatles broke up.   
+
+294
+00:14:20,175 --> 00:14:24,211
+    I know something is going on
+    behind my back.             
+
+295
+00:14:24,212 --> 00:14:26,146
+                     <i>(chuckles) </i>
+
+296
+00:14:26,147 --> 00:14:28,448
+                You two are not 
+                doing your jobs.
+
+297
+00:14:28,449 --> 00:14:31,885
+Look at me                      
+when I'm talking to you.        
+
+298
+00:14:31,886 --> 00:14:37,274
+  You're supposed to be my eyes,
+  my ears, my nose.             
+
+299
+00:14:37,275 --> 00:14:38,942
+         <i>(both)</i> ahchoo!         
+
+300
+00:14:38,943 --> 00:14:40,911
+                      Thank you.
+
+301
+00:14:40,912 --> 00:14:43,914
+        If this school          
+        is going to get back    
+        on the winning track,   
+
+302
+00:14:43,915 --> 00:14:46,483
+  We have to start cracking down
+  immediately...                
+
+303
+00:14:48,737 --> 00:14:54,241
+            And I know          
+            just where to begin.
+
+304
+00:14:57,245 --> 00:15:01,849
+             Ok, you take a note
+             to Mr. Mcgree,     
+
+305
+00:15:01,850 --> 00:15:07,654
+        And I want you          
+        to take the same note   
+        to coach steroid.       
+
+306
+00:15:07,655 --> 00:15:09,523
+          Tell them             
+          to meet me immediately
+
+307
+00:15:09,524 --> 00:15:11,624
+             In the science lab.
+
+308
+00:16:21,546 --> 00:16:25,749
+    The most famous notes in all
+    of the musical literature.  
+
+309
+00:16:25,750 --> 00:16:27,718
+                        Now...  
+          <i>(laughter) </i>           
+
+310
+00:16:30,438 --> 00:16:32,071
+        "earmail."              
+
+311
+00:16:32,072 --> 00:16:34,240
+        Ha-ha-ha.               
+                 <i>(class groans) </i>
+
+312
+00:16:34,241 --> 00:16:37,577
+    Class, I have to go         
+    to Miss Togar’s office.     
+
+313
+00:16:37,578 --> 00:16:40,647
+ I'd like you                   
+ to look over the chapter       
+ on Beethoven’s Fifth Symphony  
+
+314
+00:16:40,648 --> 00:16:42,933
+        While I'm gone.         
+
+315
+00:16:42,934 --> 00:16:45,535
+     Oh, and, class,            
+     as soon as I get back,     
+
+316
+00:16:45,536 --> 00:16:48,504
+      There's going to be       
+      a surprise quiz           
+      on this material.         
+
+317
+00:16:48,505 --> 00:16:50,874
+             <i>(all)</i> aww!         
+
+318
+00:17:01,685 --> 00:17:03,586
+            Come on.            
+
+319
+00:17:03,587 --> 00:17:06,289
+         Nice work, Rambeau.    
+         I knew you could do it.
+
+320
+00:17:06,290 --> 00:17:08,608
+        Ok, now come on down.   
+
+321
+00:17:08,609 --> 00:17:11,411
+        I'm stuck.              
+
+322
+00:17:11,412 --> 00:17:14,447
+          Nonsense.             
+          There's nothing to it.
+
+323
+00:17:14,448 --> 00:17:16,149
+         Just go hand over hand,
+
+324
+00:17:16,150 --> 00:17:19,769
+                  But above all,
+                  do not slide. 
+
+325
+00:17:19,770 --> 00:17:21,371
+       <i>(squealing noise) </i>       
+
+326
+00:17:21,372 --> 00:17:22,372
+                     <i>(all gasp) </i>
+
+327
+00:17:22,373 --> 00:17:24,641
+              Kate,             
+              are you all right?
+
+328
+00:17:24,642 --> 00:17:27,677
+  All right, girls, she's ok.   
+  You're ok, Rambeau.           
+
+329
+00:17:27,678 --> 00:17:29,613
+    Get up and walk it off.     
+
+330
+00:17:29,614 --> 00:17:31,714
+        Come on.                
+        Come on, girls.         
+
+331
+00:17:31,715 --> 00:17:33,216
+                  Let's move it.
+    Hey!                        
+
+332
+00:17:33,217 --> 00:17:35,985
+         You fat creep.         
+
+333
+00:17:35,986 --> 00:17:38,588
+                            Yes?
+    Note.                       
+
+334
+00:17:41,959 --> 00:17:47,197
+         "darling Evelyn,       
+         how I long for the feel
+         your luscious thighs--"
+
+335
+00:17:47,198 --> 00:17:48,832
+Oh, wrong note.                 
+
+336
+00:17:54,405 --> 00:17:58,208
+All right, class...             
+
+337
+00:17:58,209 --> 00:17:59,909
+ <i>(blows whistle)</i>                
+ ...Listen up.                  
+
+338
+00:17:59,910 --> 00:18:02,579
+                Are you ok?     
+I'm going to be gone            
+for a few minutes.              
+
+339
+00:18:02,580 --> 00:18:05,181
+     While I'm away,            
+     I want you to continue     
+
+340
+00:18:05,182 --> 00:18:07,584
+      With your exercises       
+      for the day.              
+
+341
+00:18:07,585 --> 00:18:09,586
+                 <i>(girls)</i> aww!   
+    Ah, none of that.           
+
+342
+00:18:09,587 --> 00:18:11,488
+          <i>(%% piano)</i>             
+      let's have                
+      a little enthusiasm.      
+
+343
+00:18:11,489 --> 00:18:13,990
+    And a... <i>(blows) </i>           
+
+344
+00:18:13,991 --> 00:18:18,195
+...A-one and a-two              
+and a-jumping up and down.      
+
+345
+00:18:18,196 --> 00:18:20,630
+        Come on, girls.         
+        That's right.           
+
+346
+00:18:20,631 --> 00:18:22,332
+             Peppy!             
+
+347
+00:18:22,333 --> 00:18:25,635
+        Keep that up            
+        till I get back.        
+
+348
+00:18:32,810 --> 00:18:36,797
+Well, you're probably wondering 
+why I called you here.          
+
+349
+00:18:36,798 --> 00:18:37,848
+        Me.                     
+              I know, I know.   
+
+350
+00:18:37,849 --> 00:18:39,182
+         Me.                    
+                I know.         
+
+351
+00:18:39,183 --> 00:18:40,467
+            I know, I know.     
+         Me.                    
+
+352
+00:18:40,468 --> 00:18:42,986
+Go and monitor                  
+the halls.                      
+
+353
+00:18:50,661 --> 00:18:52,996
+     Since assuming office      
+     this morning,              
+
+354
+00:18:52,997 --> 00:18:55,332
+     I've noticed a number      
+     of peculiar incidents      
+
+355
+00:18:55,333 --> 00:18:57,533
+      Among the members         
+      of the student body,      
+
+356
+00:18:57,534 --> 00:19:01,171
+    All having to do            
+    with rock-'n'-roll music.   
+
+357
+00:19:01,172 --> 00:19:04,040
+    Miss Togar, I have          
+    no particular love          
+    for rock-'n'-roll,          
+
+358
+00:19:04,041 --> 00:19:06,710
+But it doesn't seem to me       
+that listening to it            
+
+359
+00:19:06,711 --> 00:19:08,678
+         Actually hurts         
+         the students.          
+
+360
+00:19:08,679 --> 00:19:12,048
+             <i>(laughs)</i> but that's
+             where you're wrong,
+             Mr. Mcgree.        
+
+361
+00:19:12,049 --> 00:19:14,150
+    Recently,                   
+    I have been doing a study   
+
+362
+00:19:14,151 --> 00:19:17,320
+         Of mice subjected      
+         to rock-'n'-roll music.
+
+363
+00:19:19,290 --> 00:19:21,891
+     Here we have a picture     
+     of this mouse,             
+
+364
+00:19:21,892 --> 00:19:24,911
+  A typical member              
+  of the genus <i>rattus rodenti,</i>  
+
+365
+00:19:24,912 --> 00:19:28,064
+     As he appeared             
+     before the start           
+     of my investigation -      
+
+366
+00:19:28,065 --> 00:19:30,567
+      Clean, good-natured,      
+
+367
+00:19:30,568 --> 00:19:36,106
+  Content to scamper playfully  
+  about his cage.               
+
+368
+00:19:36,107 --> 00:19:41,778
+      This is a picture         
+      of the same mouse...      
+
+369
+00:19:41,779 --> 00:19:45,415
+One week after the introduction 
+of rock-'n'-roll music.         
+
+370
+00:19:45,416 --> 00:19:46,866
+I never dreamed.                
+
+371
+00:19:46,867 --> 00:19:48,919
+                 Oh, the results
+                 were dramatic. 
+
+372
+00:19:48,920 --> 00:19:51,087
+            He lost all interest
+
+373
+00:19:51,088 --> 00:19:53,290
+                  In keeping    
+                  his cage tidy.
+
+374
+00:19:53,291 --> 00:19:54,757
+        How scientific.         
+
+375
+00:19:54,758 --> 00:19:57,043
+             He played          
+             his electric guitar
+             far into the night,
+
+376
+00:19:57,044 --> 00:19:59,278
+             Keeping the other  
+             test animals awake.
+
+377
+00:19:59,279 --> 00:20:00,580
+He did?                         
+
+378
+00:20:00,581 --> 00:20:02,582
+              And he met        
+              this female mouse,
+
+379
+00:20:02,583 --> 00:20:05,084
+      And they have been sharing
+      a cage together           
+
+380
+00:20:05,085 --> 00:20:06,753
+                 Out of wedlock.
+
+381
+00:20:06,754 --> 00:20:08,972
+That's fascinating,             
+Miss Togar.                     
+
+382
+00:20:08,973 --> 00:20:12,976
+                     Yes, it is.
+
+383
+00:20:12,977 --> 00:20:15,411
+         Is she crazy?          
+
+384
+00:20:15,412 --> 00:20:17,030
+She's a principal.              
+
+385
+00:20:17,031 --> 00:20:19,032
+            Monitor the hall,   
+            monitor the hall.   
+
+386
+00:20:19,033 --> 00:20:21,968
+         I am sick              
+         of monitoring the hall.
+
+387
+00:20:21,969 --> 00:20:24,004
+        Yep.                    
+
+388
+00:20:24,005 --> 00:20:27,374
+                Let's go monitor
+                the freshman.   
+        Good idea.              
+
+389
+00:20:27,375 --> 00:20:28,508
+                        Get him.
+
+390
+00:20:28,509 --> 00:20:30,343
+      All right,                
+      up against the wall.      
+
+391
+00:20:30,344 --> 00:20:32,012
+          Spread 'em.           
+
+392
+00:20:32,013 --> 00:20:34,781
+All right, what the hell        
+do you think you're doing       
+out here?                       
+
+393
+00:20:34,782 --> 00:20:36,616
+I was just getting              
+my books.                       
+
+394
+00:20:36,617 --> 00:20:39,585
+     Listen,                    
+     you have a hall pass?      
+Well, no.                       
+
+395
+00:20:39,586 --> 00:20:42,588
+      <i>(both)</i> no hall pass?      
+            Hit him, hit him.   
+
+396
+00:20:42,589 --> 00:20:46,126
+Guys, I'm allergic to violence. 
+I break out in blood.           
+                 Hit him anyway.
+
+397
+00:20:46,127 --> 00:20:48,561
+     Calm down.                 
+     Let me see some id.        
+     I haven't got all day.     
+
+398
+00:20:48,562 --> 00:20:50,563
+I need it                       
+for the sock hop tonight.       
+
+399
+00:20:50,564 --> 00:20:53,533
+        The sock hop.           
+        Who'd dance with you?   
+
+400
+00:20:53,534 --> 00:20:57,137
+    All you have is a buck?     
+                 I'll have that.
+
+401
+00:20:57,138 --> 00:21:00,073
+         Is this you?           
+Well, I take                    
+a bad picture.                  
+
+402
+00:21:00,074 --> 00:21:02,442
+    Tell me about it.           
+             <i>(both)</i> ugh.        
+
+403
+00:21:02,443 --> 00:21:06,046
+Listen, I'm gonna give you      
+a demerit.                      
+What's a demerit?               
+
+404
+00:21:06,047 --> 00:21:09,515
+     If you get enough of 'em,  
+     you wind up in Miss Togar's
+     office.                    
+
+405
+00:21:09,516 --> 00:21:12,185
+     <i>(both)</i> %% demerit, demerit  
+well, what for?                 
+
+406
+00:21:12,186 --> 00:21:15,055
+                      Because...
+       <i>(both)</i> ...You're ugly.   
+
+407
+00:21:15,056 --> 00:21:17,057
+            Hit him now.        
+            Hit him. Hit him.   
+
+408
+00:21:17,058 --> 00:21:19,326
+      I have a great idea.      
+      Let's go monitor          
+      the girls' gym.           
+
+409
+00:21:19,327 --> 00:21:20,827
+                      All right.
+              Ok?               
+
+410
+00:21:20,828 --> 00:21:23,063
+      <i>(muffled speech) </i>         
+
+411
+00:21:25,099 --> 00:21:27,867
+           <i>(%% piano) </i>           
+
+412
+00:21:33,641 --> 00:21:34,874
+ <i>(turns music off)</i>              
+    what are you doing, Riff?   
+
+413
+00:21:34,875 --> 00:21:37,644
+Gym class called                
+on account of boredom.          
+
+414
+00:21:37,645 --> 00:21:39,712
+Got some of my homework         
+instead.                        
+
+415
+00:21:39,713 --> 00:21:42,515
+                    Homework?   
+Yeah, for Mr. Mcgree's          
+songwriting class.              
+
+416
+00:21:42,516 --> 00:21:44,551
+I've written a song             
+for the Ramones.                
+
+417
+00:21:44,552 --> 00:21:47,019
+           <i>(%% rock)</i>             
+wait till you hear this.        
+
+418
+00:21:47,020 --> 00:21:49,021
+          <i>(girls)</i> whoo!         
+
+419
+00:21:54,879 --> 00:21:59,815
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+420
+00:21:59,816 --> 00:22:02,685
+      %% well, I don't care      
+      about history             
+
+421
+00:22:02,686 --> 00:22:04,988
+%% rock, rock,                   
+rock 'n' roll high school       
+
+422
+00:22:04,989 --> 00:22:08,024
+      %% 'cause that's not       
+      where I wanna be          
+
+423
+00:22:08,025 --> 00:22:10,360
+%% rock, rock,                   
+rock 'n' roll high school       
+
+424
+00:22:10,361 --> 00:22:13,062
+ %% I just wanna have some kicks 
+
+425
+00:22:13,063 --> 00:22:15,631
+        %% I just wanna          
+        get some chicks         
+
+426
+00:22:15,632 --> 00:22:18,618
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+427
+00:22:18,619 --> 00:22:20,220
+          <i>(girls)</i> whoo!         
+
+428
+00:22:20,221 --> 00:22:23,156
+  %% well, the girls out there   
+  knock me out, you know        
+
+429
+00:22:23,157 --> 00:22:25,308
+%% rock, rock,                   
+rock 'n' roll high school       
+
+430
+00:22:25,309 --> 00:22:28,344
+  %% cruisin' around in my GTO   
+
+431
+00:22:28,345 --> 00:22:30,647
+%% rock, rock,                   
+rock 'n' roll high school       
+
+432
+00:22:30,648 --> 00:22:33,083
+ %% well, I don't like           
+ the teachers and the principal 
+
+433
+00:22:33,084 --> 00:22:35,518
+    %% don't wanna be taught     
+    to be no fool               
+
+434
+00:22:35,519 --> 00:22:38,271
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+435
+00:22:38,272 --> 00:22:41,675
+    %% rock, rock, rock, rock,   
+    rock 'n' roll high school   
+
+436
+00:22:43,711 --> 00:22:46,680
+  %% fun, fun,                   
+  rock 'n' roll high school...  
+
+437
+00:22:46,681 --> 00:22:49,199
+         <i>(both giggle) </i>         
+
+438
+00:22:49,200 --> 00:22:51,501
+%% fun, fun,                     
+rock 'n' roll high school       
+
+439
+00:22:51,502 --> 00:22:52,785
+        %% fun, fun              
+
+440
+00:22:52,786 --> 00:22:54,086
+        %% oh, baby              
+
+441
+00:22:54,087 --> 00:22:55,454
+        %% fun, fun              
+
+442
+00:22:55,455 --> 00:22:56,723
+        %% oh, baby              
+
+443
+00:22:56,724 --> 00:22:59,258
+          %% fun, fun,           
+          fun, fun              
+
+444
+00:22:59,259 --> 00:23:02,028
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+445
+00:23:02,029 --> 00:23:04,864
+    %% rock, rock, rock, rock,   
+    rock 'n' roll high school   
+
+446
+00:23:04,865 --> 00:23:07,317
+  %% rock, rock, rock, rock,     
+  rock 'n' roll high school...  
+
+447
+00:23:07,318 --> 00:23:11,487
+  Next I investigated reports   
+  of loss of hearing            
+  by individuals                
+
+448
+00:23:11,488 --> 00:23:13,957
+ Due to the high decibel level  
+ involved                       
+
+449
+00:23:13,958 --> 00:23:17,293
+      In playing                
+      rock-'n'-roll music.      
+
+450
+00:23:17,294 --> 00:23:19,929
+    Put on these                
+    ear protective devices,     
+
+451
+00:23:19,930 --> 00:23:21,998
+    As I am going to -          
+    Mr. Mcgree -                
+
+452
+00:23:21,999 --> 00:23:24,267
+Play a song by the Ramones      
+
+453
+00:23:24,268 --> 00:23:26,870
+At the decibel level            
+consistent with that used       
+
+454
+00:23:26,871 --> 00:23:29,706
+    In your average concert.    
+
+455
+00:23:29,707 --> 00:23:31,808
+      Your standard mouse       
+
+456
+00:23:31,809 --> 00:23:33,810
+  And your standard speakers.   
+
+457
+00:23:33,811 --> 00:23:35,712
+        Now, back, back.        
+
+458
+00:23:37,581 --> 00:23:39,983
+            This is             
+            the rock-o-meter.   
+          Gee.                  
+
+459
+00:23:39,984 --> 00:23:45,105
+    It is used to measure       
+    comparative rock-'n'-roll   
+    intensity levels.           
+
+460
+00:23:45,106 --> 00:23:47,941
+             Watch the mouse    
+             while I turn it on.
+
+461
+00:23:47,942 --> 00:23:49,876
+      <i>(%% "teenage lobotomy"</i>     
+      <i>by the Ramones) </i>          
+
+462
+00:23:49,877 --> 00:23:51,961
+                 <i>(squeaking) </i>   
+
+463
+00:23:51,962 --> 00:23:53,879
+           <i>%% lobotomy</i>           
+
+464
+00:23:53,880 --> 00:23:55,848
+         <i>%% lobotomy</i>             
+
+465
+00:23:55,849 --> 00:23:57,367
+           <i>%% lobotomy</i>           
+
+466
+00:23:57,368 --> 00:23:59,636
+         <i>%% lobotomy</i>             
+
+467
+00:24:08,445 --> 00:24:10,729
+      <i>%% DDT did a job on me</i>     
+
+468
+00:24:10,730 --> 00:24:13,633
+ <i>%% now I am a real sickie</i>       
+
+469
+00:24:13,634 --> 00:24:16,235
+     <i>%% I guess I'll have to</i>     
+     <i>break the news</i>             
+
+470
+00:24:16,236 --> 00:24:18,404
+  <i>%% that I got no mind to lose</i>  
+
+471
+00:24:18,405 --> 00:24:21,741
+     <i>%% all the girls</i>            
+     <i>are in love with me-- %%</i>    
+
+472
+00:24:24,361 --> 00:24:25,578
+Notice the loss of hearing.     
+
+473
+00:24:25,579 --> 00:24:27,347
+                The gym!        
+    Girls!                      
+
+474
+00:24:27,348 --> 00:24:29,182
+                Music!          
+    Legs!                       
+
+475
+00:24:29,183 --> 00:24:30,250
+                Dancing!        
+    Boobs!                      
+
+476
+00:24:30,251 --> 00:24:31,417
+                Randell...      
+    Sex...                      
+
+477
+00:24:31,418 --> 00:24:33,803
+I think they're trying          
+to tell us something.           
+
+478
+00:24:33,804 --> 00:24:35,104
+                    Ok.         
+
+479
+00:24:35,105 --> 00:24:38,608
+ <i>(panting)</i> come on,             
+ come on, come on, come on.     
+
+480
+00:24:40,878 --> 00:24:44,047
+      %% well, I don't care      
+      about history             
+
+481
+00:24:44,048 --> 00:24:45,748
+%% rock, rock,                   
+rock 'n' roll high school       
+
+482
+00:24:45,749 --> 00:24:49,151
+      %% 'cause that's not       
+      where I wanna be          
+
+483
+00:24:49,152 --> 00:24:51,454
+%% rock, rock,                   
+rock 'n' roll high school       
+
+484
+00:24:51,455 --> 00:24:54,023
+ %% I just wanna have some kicks 
+
+485
+00:24:54,024 --> 00:24:56,092
+        %% I just wanna          
+        get some chicks         
+
+486
+00:24:56,093 --> 00:24:58,728
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+487
+00:24:58,729 --> 00:25:01,931
+    %% rock, rock, rock, rock,   
+    rock 'n' roll high school   
+
+488
+00:25:05,002 --> 00:25:07,620
+%% fun, fun                      
+        %% rock 'n' roll         
+        high school             
+
+489
+00:25:07,621 --> 00:25:10,222
+ %% fun, fun                     
+         %% rock 'n' roll        
+         high school            
+
+490
+00:25:10,223 --> 00:25:12,842
+%% fun, fun                      
+        %% rock 'n' roll         
+        high school             
+
+491
+00:25:12,843 --> 00:25:15,411
+ %% fun, fun                     
+          %% oh, baby            
+
+492
+00:25:15,412 --> 00:25:17,680
+%% fun, fun                      
+            %% oh, baby          
+
+493
+00:25:17,681 --> 00:25:20,349
+ %% fun, fun                     
+          %% fun, fun            
+
+494
+00:25:20,350 --> 00:25:22,919
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+495
+00:25:22,920 --> 00:25:25,454
+    %% rock, rock, rock, rock,   
+    rock 'n' roll high school   
+
+496
+00:25:25,455 --> 00:25:28,091
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+497
+00:25:28,092 --> 00:25:33,963
+  %% rock, rock, rock, rock,     
+  rock 'n' roll high school %%   
+
+498
+00:25:33,964 --> 00:25:35,514
+          <i>(%% piano) </i>            
+                 <i>(Kate)</i> ...3, 4.
+
+499
+00:25:35,515 --> 00:25:38,017
+         <i>(Riff)</i> 1, 2...         
+                          3, 4. 
+
+500
+00:25:38,018 --> 00:25:40,286
+            1, 2...             
+                         3, 4.  
+
+501
+00:25:40,287 --> 00:25:42,922
+             1, 2...            
+                          3, 4. 
+
+502
+00:25:42,923 --> 00:25:45,124
+            1, 2...             
+                         3, 4.  
+
+503
+00:25:45,125 --> 00:25:46,125
+        1, 2...                 
+
+504
+00:25:46,126 --> 00:25:47,694
+3, 4.                           
+
+505
+00:25:47,695 --> 00:25:49,829
+                        1, 2... 
+ 3, 4.                          
+
+506
+00:25:49,830 --> 00:25:51,998
+            1, 2...             
+                          3, 4. 
+
+507
+00:25:51,999 --> 00:25:54,600
+             1, 2...            
+                        3, 4.   
+
+508
+00:25:54,601 --> 00:25:57,170
+            1, 2...             
+                          3, 4. 
+
+509
+00:25:57,171 --> 00:25:59,271
+             1, 2...            
+                        3, 4.   
+
+510
+00:25:59,272 --> 00:26:01,307
+            1, 2...             
+                          3, 4. 
+
+511
+00:26:01,308 --> 00:26:03,475
+             1, 2...            
+                        3, 4.   
+
+512
+00:26:03,476 --> 00:26:06,212
+            1, 2...             
+    3, 4.                       
+
+513
+00:26:06,213 --> 00:26:08,014
+             1, 2...            
+                        3, 4.   
+
+514
+00:26:08,015 --> 00:26:09,281
+            1, 2...             
+
+515
+00:26:09,282 --> 00:26:10,917
+                They're dancing.
+
+516
+00:26:10,918 --> 00:26:13,485
+Oh, no, Miss Togar,             
+it's calisthenics.              
+
+517
+00:26:13,486 --> 00:26:15,755
+     Where are their books?     
+
+518
+00:26:16,890 --> 00:26:18,524
+      This is a gym class.      
+
+519
+00:26:18,525 --> 00:26:21,894
+    They're exercising          
+    their bodies.               
+
+520
+00:26:21,895 --> 00:26:23,529
+                         1, 2...
+
+521
+00:26:23,530 --> 00:26:27,534
+     What these girls need      
+     is to exercise their minds.
+
+522
+00:26:27,535 --> 00:26:29,769
+            1, 2...             
+                        3, 4.   
+
+523
+00:26:29,770 --> 00:26:30,970
+            1, 2...             
+
+524
+00:26:30,971 --> 00:26:33,706
+                 I told you -   
+                 she's crazy.   
+
+525
+00:26:33,707 --> 00:26:34,707
+...3, 4.                        
+
+526
+00:26:34,708 --> 00:26:36,042
+              <i>(blows whistle) </i>  
+
+527
+00:26:36,043 --> 00:26:38,545
+              All right, girls, 
+              hit the showers!  
+
+528
+00:26:38,546 --> 00:26:40,547
+             1, 2...            
+3, 4.                           
+
+529
+00:26:40,548 --> 00:26:43,282
+              1, 2...           
+ <i>(blows) </i>                       
+
+530
+00:26:43,283 --> 00:26:45,585
+            1, 2...             
+                        3, 4.   
+
+531
+00:26:45,586 --> 00:26:47,153
+        1, 2...                 
+                          3, 4. 
+
+532
+00:26:47,154 --> 00:26:49,188
+              All right, girls. 
+              Come on, let's go.
+
+533
+00:26:49,189 --> 00:26:51,591
+         <i>(all)</i> whoo!            
+               <i>(blowing weakly) </i>
+
+534
+00:27:04,004 --> 00:27:09,709
+        Uh, Cheryl, do you think
+        Tom Roberts is cute?    
+
+535
+00:27:09,710 --> 00:27:12,011
+Yeah,                           
+but he's such a dork.           
+
+536
+00:27:12,012 --> 00:27:14,980
+            No, he's not.       
+            I think he's a fox. 
+
+537
+00:27:14,981 --> 00:27:16,382
+                          A fox?
+
+538
+00:27:16,383 --> 00:27:20,052
+Tom Roberts is so boring,       
+his brother is an only child.   
+
+539
+00:27:20,053 --> 00:27:22,555
+            He's not half as hot
+            as Joey Ramone.     
+
+540
+00:27:22,556 --> 00:27:23,889
+Who's Joey Ramone?              
+
+541
+00:27:23,890 --> 00:27:25,991
+        Where have you been -   
+        Mars?                   
+
+542
+00:27:25,992 --> 00:27:27,927
+      Earth calling Kate.       
+
+543
+00:27:27,928 --> 00:27:31,197
+     He just happens            
+     to be the lead singer      
+     of the Ramones.            
+
+544
+00:27:31,198 --> 00:27:34,200
+          I wish we could       
+          see them this Thursday
+          at their concert.     
+
+545
+00:27:34,201 --> 00:27:35,702
+    So what's stopping you?     
+
+546
+00:27:35,703 --> 00:27:38,538
+We can't cut classes            
+to stand in line                
+for tickets.                    
+
+547
+00:27:38,539 --> 00:27:40,540
+                That's right.   
+         Oh, please.            
+
+548
+00:27:40,541 --> 00:27:43,042
+      Ten years from now,       
+      no one will care          
+
+549
+00:27:43,043 --> 00:27:46,145
+If you've ever been             
+to high school, much less       
+skipped a few classes.          
+
+550
+00:27:46,146 --> 00:27:48,981
+You all act                     
+as if everything's              
+so important around here.       
+
+551
+00:27:48,982 --> 00:27:51,317
+      Just because Togar        
+      is stuck in the '50s      
+
+552
+00:27:51,318 --> 00:27:53,886
+    Doesn't mean                
+    there isn't life            
+    after high school.          
+
+553
+00:27:53,887 --> 00:27:56,356
+     I've got my own future     
+     to think about.            
+
+554
+00:27:56,357 --> 00:27:58,391
+    I know I can write          
+    for the Ramones.            
+
+555
+00:27:58,392 --> 00:28:01,193
+    All I've gotta do           
+    is get my songs to them.    
+
+556
+00:28:01,194 --> 00:28:03,262
+     They won't be in town      
+     for another year,          
+
+557
+00:28:03,263 --> 00:28:05,264
+         So I've got to         
+         see them now.          
+
+558
+00:28:05,265 --> 00:28:07,266
+Hey, we wanna go                
+as much as you,                 
+
+559
+00:28:07,267 --> 00:28:09,268
+But we can't all                
+cut classes.                    
+
+560
+00:28:09,269 --> 00:28:11,270
+      Well, I guess             
+      it's up to me, then,      
+
+561
+00:28:11,271 --> 00:28:13,272
+      But you'll have to        
+      cover for me, Kate.       
+
+562
+00:28:13,273 --> 00:28:15,808
+    I'm gonna take              
+    a three-day leave           
+    from Camp Lombardi          
+
+563
+00:28:15,809 --> 00:28:17,243
+     And be first in line.      
+
+564
+00:28:17,244 --> 00:28:20,079
+If anyone wants to join me      
+at front-row center,            
+
+565
+00:28:20,080 --> 00:28:21,914
+Why, you just let me know.      
+
+566
+00:28:21,915 --> 00:28:23,215
+ <i>(girl)</i> ok.                     
+                 <i>(girl #2)</i> yeah.
+
+567
+00:28:23,216 --> 00:28:24,950
+        All right!              
+
+568
+00:28:24,951 --> 00:28:27,704
+     <i>(%% "school days"</i>           
+     <i>by chuck berry) </i>           
+
+569
+00:28:40,350 --> 00:28:43,952
+       <i>%% drop the coin</i>          
+       <i>right into the slot</i>      
+
+570
+00:28:43,953 --> 00:28:47,556
+  <i>%% you've gotta hear something</i> 
+  <i>that's really hot</i>             
+
+571
+00:28:47,557 --> 00:28:51,394
+ <i>%% with the one you love,</i>       
+ <i>you're makin' romance</i>          
+
+572
+00:28:51,395 --> 00:28:55,030
+ <i>%% all day long</i>                 
+ <i>you been wantin' to dance</i>      
+
+573
+00:28:55,031 --> 00:28:58,734
+       <i>%% feelin' the music</i>      
+       <i>from head to toe</i>         
+
+574
+00:28:58,735 --> 00:29:01,320
+     <i>%% round and round</i>          
+     <i>and round you go</i>           
+
+575
+00:29:02,706 --> 00:29:05,141
+          <i>%% hail, hail,</i>         
+          <i>rock 'n' roll</i>         
+
+576
+00:29:06,543 --> 00:29:08,444
+      <i>%% deliver me</i>              
+      <i>from the days of old</i>      
+
+577
+00:29:10,163 --> 00:29:13,616
+ <i>%% long live rock 'n' roll</i>      
+
+578
+00:29:13,617 --> 00:29:17,070
+     <i>%% the beat of the drum</i>     
+     <i>is loud and bold</i>           
+
+579
+00:29:17,071 --> 00:29:19,656
+   <i>%% rock, rock, rock 'n' roll</i>  
+
+580
+00:29:21,075 --> 00:29:23,442
+     <i>%% the feelin' is there,</i>    
+     <i>body and soul %%</i>            
+
+581
+00:30:00,196 --> 00:30:02,331
+                   <i>(buzzes) </i>    
+
+582
+00:30:02,332 --> 00:30:04,567
+              <i>(yawns) </i>          
+
+583
+00:30:04,568 --> 00:30:07,436
+ <i>(%% "c'mon let's go"</i>            
+ <i>by the Paley Brothers)</i>         
+       <i>(man imitating war chant)</i>
+
+584
+00:30:07,437 --> 00:30:10,239
+   <i>%% come on,</i>                   
+   <i>we'll always be together...</i>  
+
+585
+00:30:10,240 --> 00:30:13,475
+Hey, keep away                  
+with that thing.                
+I don't want any.               
+
+586
+00:30:13,476 --> 00:30:14,944
+                        Scalper.
+
+587
+00:30:14,945 --> 00:30:18,281
+       <i>%% come on, come on,</i>      
+       <i>little darlin'</i>           
+
+588
+00:30:18,282 --> 00:30:20,766
+     <i>%% come on, come on,</i>        
+     <i>little darlin'</i>             
+
+589
+00:30:20,767 --> 00:30:23,535
+       <i>%% come on, come on,</i>      
+       <i>little darlin'</i>           
+
+590
+00:30:23,536 --> 00:30:26,105
+      <i>%% and again and again</i>     
+      <i>and again</i>                 
+
+591
+00:30:26,106 --> 00:30:27,940
+     <i>%% and again and again %%</i>    
+
+592
+00:30:28,908 --> 00:30:30,576
+      <i>(Miss Togar over pa) </i>     
+      <i>Miss Kissel,</i>              
+
+593
+00:30:30,577 --> 00:30:33,346
+   <i>Please report</i>                
+   <i>to the principal's office.</i>   
+
+594
+00:30:33,347 --> 00:30:36,014
+       <i>All your classes</i>         
+       <i>have been canceled.</i>      
+
+595
+00:30:36,015 --> 00:30:38,250
+                   <i>(boy)</i> a girl!
+ <i>(boy #2)</i> everyone, hide!       
+
+596
+00:30:38,251 --> 00:30:40,953
+ <i>Don't forget the sock hop</i>      
+ <i>this evening.</i>                  
+
+597
+00:30:40,954 --> 00:30:44,123
+     <i>Tonight's guest speaker</i>    
+     <i>will be Dr. Schulz.</i>        
+
+598
+00:30:44,124 --> 00:30:45,758
+ <i>(typewriter clacking) </i>         
+
+599
+00:30:45,759 --> 00:30:47,660
+                         Ooh.   
+
+600
+00:30:50,464 --> 00:30:53,466
+                      Red alert.
+ <i>(bell clanging/</i>                
+ <i>electronic siren wailing) </i>     
+
+601
+00:30:53,467 --> 00:30:55,934
+ <i>(knocks) </i>                      
+
+602
+00:30:55,935 --> 00:30:58,371
+     <i>(Eaglebauer)</i> who is it?    
+Kate Rambeau.                   
+
+603
+00:30:58,372 --> 00:30:59,472
+                     Kate, yeah.
+                     Come on in.
+
+604
+00:30:59,473 --> 00:31:01,574
+Hello, Mr. Eaglebauer.          
+
+605
+00:31:01,575 --> 00:31:03,576
+              How are you doing?
+Great, thank you.               
+
+606
+00:31:03,577 --> 00:31:06,045
+            Please, sit down,   
+            sit down.           
+
+607
+00:31:06,046 --> 00:31:09,348
+                  What can I do 
+                  for you, Kate?
+
+608
+00:31:09,349 --> 00:31:11,417
+Well, I wanna go out            
+on a date.                      
+
+609
+00:31:11,418 --> 00:31:15,387
+          Say no more.          
+          Eaglebauer enterprises
+          has a man for you.    
+
+610
+00:31:15,388 --> 00:31:19,642
+      Tell me, have you had     
+      much experience with boys?
+
+611
+00:31:19,643 --> 00:31:24,163
+Well... Once I played nurse     
+with a boy next door            
+
+612
+00:31:24,164 --> 00:31:27,216
+And got sued                    
+for malpractice.                
+
+613
+00:31:28,685 --> 00:31:31,670
+I wish part of Riff             
+would rub off on me.            
+
+614
+00:31:31,671 --> 00:31:34,489
+Everything's so easy for her.   
+
+615
+00:31:34,490 --> 00:31:37,460
+    Did you have                
+    any one particular person   
+    in mind?                    
+
+616
+00:31:37,461 --> 00:31:40,596
+Well, I was kind of hoping      
+
+617
+00:31:40,597 --> 00:31:43,199
+That you might fix me up        
+with...                         
+
+618
+00:31:43,200 --> 00:31:45,217
+With Tom Roberts.               
+
+619
+00:31:45,218 --> 00:31:48,554
+                    Tom Roberts?
+        Yeah.                   
+
+620
+00:31:48,555 --> 00:31:50,739
+            I love him.         
+            He's a great guy.   
+            I love him.         
+
+621
+00:31:50,740 --> 00:31:52,591
+Well, can you do it?            
+
+622
+00:31:52,592 --> 00:31:54,142
+This will never work.           
+
+623
+00:31:54,143 --> 00:31:57,379
+Tom will never like me.         
+I don't know who I'm kidding.   
+
+624
+00:31:57,380 --> 00:31:59,381
+What possible reason            
+could there be                  
+
+625
+00:31:59,382 --> 00:32:01,851
+To put myself                   
+through all this?               
+
+626
+00:32:01,852 --> 00:32:03,853
+  Sex.                          
+
+627
+00:32:03,854 --> 00:32:06,388
+I must admit,                   
+as far as reasons go,           
+
+628
+00:32:06,389 --> 00:32:08,423
+It must be one of the best.     
+
+629
+00:32:08,424 --> 00:32:10,960
+Kate, I've known Tom            
+ever since he was a freshman,   
+
+630
+00:32:10,961 --> 00:32:12,929
+            When I sold him     
+            his first touchdown.
+
+631
+00:32:12,930 --> 00:32:15,832
+Believe me, you're just         
+the type of girl he goes for.   
+
+632
+00:32:15,833 --> 00:32:20,369
+       <i>(%% "did we meet</i>          
+       <i>somewhere before?")</i>      
+
+633
+00:32:23,207 --> 00:32:26,342
+                    Tom, my man.
+
+634
+00:32:26,343 --> 00:32:29,545
+How's my would-be Romeo?        
+         Eaglebauer, what are we
+         doing up here?         
+
+635
+00:32:29,546 --> 00:32:31,680
+         I thought we were gonna
+         start training today.  
+
+636
+00:32:31,681 --> 00:32:33,766
+This is the perfect spot        
+for it.                         
+
+637
+00:32:33,767 --> 00:32:36,201
+Most romantic setting           
+in the city.                    
+
+638
+00:32:36,202 --> 00:32:40,356
+Just you, the skyline           
+and your training partner.      
+
+639
+00:32:40,357 --> 00:32:43,559
+            Training partner?   
+
+640
+00:32:43,560 --> 00:32:45,261
+            Hi, Tom.            
+
+641
+00:32:45,262 --> 00:32:48,380
+         I was kind of expecting
+         Riff Randell.          
+
+642
+00:32:48,381 --> 00:32:51,400
+Eaglebauer, I don't know        
+whether I can go through        
+with this.                      
+
+643
+00:32:51,401 --> 00:32:53,502
+Couldn't I just practice        
+with myself?                    
+
+644
+00:32:53,503 --> 00:32:56,421
+    You done too much of that   
+    already.                    
+ Yeah.                          
+
+645
+00:32:56,422 --> 00:33:00,359
+ Now, for the next three days,  
+
+646
+00:33:00,360 --> 00:33:04,063
+     You two are gonna have     
+     nothing but fun.           
+
+647
+00:33:04,064 --> 00:33:07,633
+    Now, the first lesson -     
+    necking.                    
+
+648
+00:33:07,634 --> 00:33:12,271
+The place - lovers' Lane.       
+
+649
+00:33:14,074 --> 00:33:16,709
+      <i>(turns on tape deck/</i>      
+      <i>crickets chirping) </i>       
+
+650
+00:33:16,710 --> 00:33:18,160
+          The reason -          
+
+651
+00:33:18,161 --> 00:33:19,745
+      Well, you're young.       
+
+652
+00:33:23,316 --> 00:33:26,585
+  Now, what's the first thing   
+  you guys do?                  
+
+653
+00:33:28,488 --> 00:33:30,623
+      Aw, no, no, no, no.       
+
+654
+00:33:36,163 --> 00:33:39,798
+                     <i>(yawns) </i>   
+
+655
+00:33:51,344 --> 00:33:53,879
+                     <i>(yawns) </i>   
+
+656
+00:34:28,966 --> 00:34:31,867
+    Now, this next step         
+    can either make or break    
+    a successful date.          
+
+657
+00:34:31,868 --> 00:34:34,186
+      One-handed approach       
+      to strap unfastening      
+
+658
+00:34:34,187 --> 00:34:36,621
+     Is a basic skill           
+     that must be mastered.     
+
+659
+00:34:36,622 --> 00:34:39,725
+    Now watch closely           
+    as I demonstrate.           
+
+660
+00:34:39,726 --> 00:34:43,412
+    There's the hook.           
+
+661
+00:34:43,413 --> 00:34:46,515
+         The snap.              
+
+662
+00:34:46,516 --> 00:34:48,917
+There is the double hook.       
+
+663
+00:34:48,918 --> 00:34:51,220
+     There is                   
+     the dreaded minihooks.     
+
+664
+00:34:53,356 --> 00:34:56,575
+    And, if you play            
+    your cards right,           
+
+665
+00:34:56,576 --> 00:34:58,461
+ The easy-open frontal assault. 
+
+666
+00:35:22,369 --> 00:35:26,454
+      Isn't it sad when a family
+      has to suffer so much?    
+
+667
+00:35:26,455 --> 00:35:28,523
+Isn't it.                       
+
+668
+00:35:33,030 --> 00:35:34,396
+         <i>(buzzes) </i>              
+
+669
+00:35:39,369 --> 00:35:42,104
+      Good morning, Joey.       
+
+670
+00:35:46,042 --> 00:35:48,377
+        Excuse me,              
+        but I think it's obvious
+
+671
+00:35:48,378 --> 00:35:50,379
+         I'm first in line.     
+
+672
+00:35:50,380 --> 00:35:51,747
+Not anymore.                    
+
+673
+00:35:51,748 --> 00:35:54,983
+             Hey, look,         
+             I been waiting here
+             for two days.      
+
+674
+00:35:54,984 --> 00:35:56,252
+             I'm first in line. 
+
+675
+00:35:56,253 --> 00:35:59,054
+So you wanna be                 
+ahead of me, huh?               
+
+676
+00:35:59,055 --> 00:36:01,373
+         I don't wanna be. I am.
+
+677
+00:36:01,374 --> 00:36:04,210
+Apparently you don't know       
+who I am.                       
+                         No.    
+
+678
+00:36:04,211 --> 00:36:06,045
+I'm Angel.                      
+
+679
+00:36:06,963 --> 00:36:11,650
+Angel dust, the Ramones'        
+number one fan?                 
+
+680
+00:36:11,651 --> 00:36:14,854
+I followed 'em                  
+on every stop of their tour     
+from Cleveland to Pittsburgh    
+
+681
+00:36:14,855 --> 00:36:18,506
+To Tucson to Charlotte...       
+          Ohh, you're a groupie.
+
+682
+00:36:18,507 --> 00:36:21,509
+            Yeah, well, I happen
+            to be a songwriter--
+
+683
+00:36:21,510 --> 00:36:22,544
+Honey, you're not               
+a songwriter,                   
+
+684
+00:36:22,545 --> 00:36:24,546
+You're a cheerleader.           
+
+685
+00:36:24,547 --> 00:36:27,232
+             I am first in line.
+I'm first in line.              
+
+686
+00:36:27,233 --> 00:36:30,336
+             <i>I'm</i> first in line. 
+Hey, what do you think          
+I am - filth?                   
+
+687
+00:36:30,337 --> 00:36:33,405
+You think I'm just spit         
+on the sidewalk for you         
+to walk on,                     
+
+688
+00:36:33,406 --> 00:36:35,207
+Scum under your feet?           
+
+689
+00:36:35,208 --> 00:36:38,176
+      I don't know what you are,
+      but I am first in line.   
+
+690
+00:36:38,177 --> 00:36:39,678
+I am first in line.             
+             I am first in line.
+
+691
+00:36:39,679 --> 00:36:42,731
+I'm first in line,              
+and if you don't like it,       
+
+692
+00:36:42,732 --> 00:36:47,019
+You can put it                  
+where the monkey puts the nuts. 
+
+693
+00:36:47,020 --> 00:36:49,204
+               <i>(mouths/writing) </i>
+
+694
+00:36:49,205 --> 00:36:53,275
+By the way,                     
+who do you like?                
+
+695
+00:36:53,276 --> 00:36:55,377
+              Oh, I think Joey's
+              kinda cute.       
+
+696
+00:36:55,378 --> 00:36:58,347
+ <i>(%% "I just wanna have something</i>
+ <i>to do" by the Ramones)</i>         
+
+697
+00:37:02,319 --> 00:37:06,155
+        %% hangin' out           
+        on second avenue        
+
+698
+00:37:06,156 --> 00:37:08,890
+%% eatin' chicken vindaloo       
+
+699
+00:37:08,891 --> 00:37:12,494
+  %% I just want to be with you  
+
+700
+00:37:12,495 --> 00:37:16,981
+ %% I just wanna have something  
+ to do tonight                  
+
+701
+00:37:16,982 --> 00:37:20,686
+    %% tonight, tonight          
+
+702
+00:37:20,687 --> 00:37:22,721
+ <i>(man)</i> hey,                     
+ it's the Ramonemobile!         
+
+703
+00:37:22,722 --> 00:37:25,574
+    %% tonight, tonight          
+
+704
+00:37:25,575 --> 00:37:29,095
+    %% well, all right           
+ <i>(screaming) </i>                   
+
+705
+00:37:29,096 --> 00:37:31,013
+        %% tonight               
+
+706
+00:37:31,014 --> 00:37:33,315
+            %% tonight           
+
+707
+00:37:33,316 --> 00:37:36,218
+        %% tonight               
+
+708
+00:37:36,219 --> 00:37:38,387
+            %% tonight           
+come on! Come on!               
+
+709
+00:37:38,388 --> 00:37:39,754
+        %% tonight               
+
+710
+00:37:39,755 --> 00:37:41,490
+            %% tonight           
+
+711
+00:37:41,491 --> 00:37:43,425
+             %% wait             
+
+712
+00:37:43,426 --> 00:37:45,260
+             %% now              
+
+713
+00:37:45,261 --> 00:37:47,262
+             %% wait             
+
+714
+00:37:47,263 --> 00:37:49,898
+            %% now...            
+I love you!                     
+It's me!                        
+
+715
+00:37:49,899 --> 00:37:51,082
+          %% ...Myself           
+
+716
+00:37:51,083 --> 00:37:54,486
+    %% I don't wanna be          
+    with anybody else           
+
+717
+00:37:54,487 --> 00:37:57,389
+  %% I just want to be with you  
+
+718
+00:37:57,390 --> 00:38:02,994
+ %% I just wanna have something  
+ to do tonight                  
+
+719
+00:38:02,995 --> 00:38:04,797
+        %% tonight               
+
+720
+00:38:04,798 --> 00:38:06,248
+            %% tonight           
+
+721
+00:38:07,951 --> 00:38:09,718
+        %% tonight               
+
+722
+00:38:09,719 --> 00:38:11,453
+            %% tonight           
+
+723
+00:38:11,454 --> 00:38:13,738
+    %% well, all right           
+ <i>(man)</i> all right!               
+
+724
+00:38:13,739 --> 00:38:16,408
+        %% tonight               
+
+725
+00:38:16,409 --> 00:38:18,577
+            %% tonight           
+
+726
+00:38:18,578 --> 00:38:21,012
+        %% tonight               
+
+727
+00:38:21,013 --> 00:38:22,113
+ <i>(man)</i> all night!               
+ All night!                     
+
+728
+00:38:22,114 --> 00:38:23,715
+        %% tonight               
+
+729
+00:38:23,716 --> 00:38:25,684
+            %% tonight           
+
+730
+00:38:25,685 --> 00:38:27,753
+        %% tonight               
+
+731
+00:38:27,754 --> 00:38:29,387
+             %% wait             
+
+732
+00:38:29,388 --> 00:38:30,955
+             %% now              
+
+733
+00:38:30,956 --> 00:38:32,957
+             %% wait             
+
+734
+00:38:32,958 --> 00:38:34,225
+             %% now              
+
+735
+00:38:34,226 --> 00:38:36,561
+             %% wait             
+
+736
+00:38:36,562 --> 00:38:37,863
+             %% now              
+
+737
+00:38:37,864 --> 00:38:39,832
+             %% wait             
+
+738
+00:38:39,833 --> 00:38:41,099
+             %% now              
+
+739
+00:38:41,100 --> 00:38:43,935
+  %% hangin' out all by myself   
+
+740
+00:38:43,936 --> 00:38:47,373
+    %% I don't wanna be          
+    with anybody else           
+
+741
+00:38:47,374 --> 00:38:50,309
+  %% I just want to be with you  
+
+742
+00:38:50,310 --> 00:38:55,898
+ %% I just wanna have something  
+ to do tonight                  
+
+743
+00:38:55,899 --> 00:38:57,132
+        %% tonight               
+
+744
+00:38:57,133 --> 00:39:00,418
+          %% tonight...          
+
+745
+00:39:00,419 --> 00:39:03,022
+Joey! Cut it out.               
+
+746
+00:39:03,023 --> 00:39:04,540
+        %% tonight               
+
+747
+00:39:04,541 --> 00:39:06,107
+      %% well, all right...      
+
+748
+00:39:06,108 --> 00:39:10,746
+              Joey! Joey!       
+              Here's songs!     
+
+749
+00:39:10,747 --> 00:39:12,815
+      %% ...Night, tonight       
+
+750
+00:39:15,017 --> 00:39:17,285
+        %% tonight               
+
+751
+00:39:17,286 --> 00:39:18,754
+            %% tonight           
+
+752
+00:39:18,755 --> 00:39:22,324
+        %% tonight               
+
+753
+00:39:22,325 --> 00:39:24,125
+            %% tonight           
+
+754
+00:39:24,126 --> 00:39:25,727
+        %% tonight               
+
+755
+00:39:25,728 --> 00:39:27,061
+            %% tonight           
+
+756
+00:39:29,232 --> 00:39:31,100
+        %% tonight               
+
+757
+00:39:31,101 --> 00:39:33,134
+            %% tonight           
+
+758
+00:39:33,135 --> 00:39:34,670
+          %% tonight %%           
+
+759
+00:39:34,671 --> 00:39:37,005
+                     <i>(cheering) </i>
+
+760
+00:39:38,975 --> 00:39:41,477
+          I love you.           
+          I love you.           
+
+761
+00:39:41,478 --> 00:39:43,479
+                 Angel, baby,   
+                 good to see ya.
+
+762
+00:39:43,480 --> 00:39:45,481
+         I got a little surprise
+         for you.               
+
+763
+00:39:45,482 --> 00:39:47,816
+             The boys would love
+             to see ya. Come on.
+             This way.          
+
+764
+00:39:47,817 --> 00:39:49,818
+              Yeah, this way.   
+              Come on, let's go.
+
+765
+00:39:49,819 --> 00:39:52,387
+     Goodbye, cheerleader.      
+
+766
+00:39:52,388 --> 00:39:54,490
+          <i>(man)</i> Ramones forever!
+
+767
+00:39:54,491 --> 00:39:56,625
+         Quit shoving, you guys.
+         Come on.               
+
+768
+00:39:56,626 --> 00:39:59,260
+      <i>(man #2)</i> stop cutting     
+      in line!                  
+
+769
+00:40:19,448 --> 00:40:21,399
+                  Well, you know
+                  what they say.
+
+770
+00:40:21,400 --> 00:40:24,219
+      These things always happen
+      in threes.                
+
+771
+00:40:24,220 --> 00:40:27,439
+Oh, really?                     
+
+772
+00:40:27,440 --> 00:40:30,976
+    I want 100 of your best     
+    Ramone tickets, please.     
+
+773
+00:40:30,977 --> 00:40:32,711
+                         $1,000.
+
+774
+00:40:34,414 --> 00:40:40,168
+     <i>(%% "you're the best"</i>       
+     <i>by the Paley brothers)</i>     
+
+775
+00:40:40,169 --> 00:40:42,437
+      Here they are -           
+      the Ramones tickets.      
+
+776
+00:40:42,438 --> 00:40:45,073
+There's many more of them.      
+You'll get one.                 
+
+777
+00:40:45,074 --> 00:40:46,074
+There you go.                   
+
+778
+00:40:46,075 --> 00:40:49,261
+All right,                      
+I know you want one, too.       
+
+779
+00:40:49,262 --> 00:40:50,979
+                 What's all     
+                 this commotion?
+
+780
+00:40:50,980 --> 00:40:53,882
+     There you go.              
+        Excuse me.              
+        What's going on here?   
+
+781
+00:40:53,883 --> 00:40:56,384
+Here you go.                    
+I'm giving out tickets          
+to the concert.                 
+
+782
+00:40:56,385 --> 00:40:57,820
+                    The concert?
+Yeah.                           
+
+783
+00:40:57,821 --> 00:41:00,655
+    I had no idea the students  
+    were so interested in music.
+
+784
+00:41:00,656 --> 00:41:02,324
+Wanna go?                       
+Complimentary ticket?           
+
+785
+00:41:02,325 --> 00:41:04,326
+                Why, thank you. 
+                I love concerts.
+
+786
+00:41:04,327 --> 00:41:06,494
+                But, uh, who are
+                the "Ramoneys"? 
+      <i>(freshman wheezing) </i>      
+
+787
+00:41:06,495 --> 00:41:07,863
+ The Ramones.                   
+
+788
+00:41:07,864 --> 00:41:10,966
+They're the best group          
+in the world...                 
+          ...Oxygen.            
+
+789
+00:41:14,738 --> 00:41:17,806
+    So, three members           
+    of your family are dead?    
+
+790
+00:41:17,807 --> 00:41:20,525
+     Oh, we know for a fact     
+     that you are lying.        
+
+791
+00:41:20,526 --> 00:41:22,711
+Go and show her the proof.      
+
+792
+00:41:22,712 --> 00:41:27,049
+      What do you have          
+      to say for yourself?      
+
+793
+00:41:27,050 --> 00:41:29,300
+                Hey, got better.
+      Got better nothing.       
+
+794
+00:41:30,903 --> 00:41:33,171
+I suppose that her parents      
+are still alive, too.           
+
+795
+00:41:33,172 --> 00:41:36,975
+        Should I check on it,   
+        ma'am?                  
+         No talking.            
+
+796
+00:41:36,976 --> 00:41:41,780
+  Kate, I am really surprised   
+  at you.                       
+
+797
+00:41:41,781 --> 00:41:45,233
+  I thought                     
+  you would serve as a model    
+  for the rest of the school,   
+
+798
+00:41:45,234 --> 00:41:47,819
+      Not as an accomplice      
+      to delinquency.           
+
+799
+00:41:47,820 --> 00:41:49,721
+Well, she's my friend.          
+
+800
+00:41:49,722 --> 00:41:53,508
+  A friend that will lead you   
+  down the road to expulsion.   
+
+801
+00:41:53,509 --> 00:41:55,977
+         I'm a teenage lobotomy.
+
+802
+00:41:55,978 --> 00:41:58,947
+I have made a full report.      
+
+803
+00:42:02,985 --> 00:42:07,105
+        Oh, Mr. Monitor, sir,   
+        it's the breathing.     
+        It's the...             
+
+804
+00:42:07,106 --> 00:42:09,774
+ "you two girls                 
+ have done nothing but defy me, 
+
+805
+00:42:09,775 --> 00:42:14,696
+    You have turned             
+    the entire student body     
+    against me..."              
+
+806
+00:42:14,697 --> 00:42:17,533
+                     <i>(gasps)</i>    
+Miss Randell, just what is      
+your problem?                   
+
+807
+00:42:18,668 --> 00:42:19,802
+                     <i>(gulps) </i>   
+
+808
+00:42:19,803 --> 00:42:22,754
+All right, who else has tickets 
+to this concert?                
+
+809
+00:42:22,755 --> 00:42:24,690
+                    Uh, just us.
+
+810
+00:42:24,691 --> 00:42:27,375
+            We're the only ones.
+
+811
+00:42:27,376 --> 00:42:30,612
+     Miss Togar, perhaps we're  
+     taking this a bit too far. 
+
+812
+00:42:30,613 --> 00:42:33,815
+    After all, the concert is on
+    their own time, and it's--  
+
+813
+00:42:33,816 --> 00:42:36,852
+Nonsense! They should           
+be made an example              
+for the whole school.           
+
+814
+00:42:36,853 --> 00:42:40,222
+All right,                      
+give me your tickets.           
+I will give them to Charity.    
+
+815
+00:42:40,223 --> 00:42:42,057
+                         No way!
+    Very well.                  
+
+816
+00:42:42,058 --> 00:42:45,877
+I'll have my hall monitors      
+take them from you.             
+
+817
+00:42:45,878 --> 00:42:48,413
+       <i>(both)</i> body search!      
+
+818
+00:42:51,316 --> 00:42:53,084
+Hey, Riff,                      
+thank you.                      
+
+819
+00:42:53,085 --> 00:42:55,420
+         Thanks for the tickets,
+         Riff.                  
+
+820
+00:43:03,195 --> 00:43:05,864
+          Hey, Riff,            
+          thanks for the ticket.
+
+821
+00:43:05,865 --> 00:43:08,367
+        Yeah, we couldn't       
+        have gone without you,  
+
+822
+00:43:08,368 --> 00:43:10,369
+         And everybody's        
+         gonna be there.        
+
+823
+00:43:10,370 --> 00:43:12,371
+             Yeah, we'll see you
+             there. Goodbye.    
+
+824
+00:43:12,372 --> 00:43:14,239
+    Thanks.                     
+    Have a good time.           
+
+825
+00:43:14,240 --> 00:43:15,840
+        We won't.               
+
+826
+00:43:17,543 --> 00:43:20,412
+%% yeah, rock, rock, rock %%      
+
+827
+00:43:20,413 --> 00:43:23,181
+     <i>(mumbles/sighs) </i>           
+
+828
+00:43:24,701 --> 00:43:27,735
+Can't go to the concert...      
+
+829
+00:43:27,736 --> 00:43:30,355
+          Oh, great...          
+
+830
+00:43:30,356 --> 00:43:32,357
+        Great day.              
+
+831
+00:44:01,170 --> 00:44:03,788
+      <i>(%% "I want you around</i>     
+      <i>by the Ramones")</i>          
+
+832
+00:44:09,228 --> 00:44:12,914
+             %% I want you around
+
+833
+00:44:12,915 --> 00:44:17,469
+            %% I want you around 
+
+834
+00:44:17,470 --> 00:44:21,023
+            %% they're tellin' us
+
+835
+00:44:21,024 --> 00:44:25,127
+                 %% they're gonna
+                 make a fuss    
+
+836
+00:44:25,128 --> 00:44:29,464
+        %% about the two of us   
+
+837
+00:44:29,465 --> 00:44:32,935
+             %% I want you around
+
+838
+00:44:32,936 --> 00:44:37,305
+            %% I want you around 
+
+839
+00:44:37,306 --> 00:44:40,976
+        %% I know what           
+        you're thinkin' about   
+
+840
+00:44:40,977 --> 00:44:45,080
+                %% that you      
+                have some doubts
+
+841
+00:44:45,081 --> 00:44:47,549
+            %% I know            
+            what you're thinkin''
+
+842
+00:44:47,550 --> 00:44:54,973
+              %% when ya find out
+              I want you around 
+
+843
+00:44:57,009 --> 00:45:01,279
+     %% you know if it comes true
+
+844
+00:45:01,280 --> 00:45:04,866
+        %% I'll be so good to you
+
+845
+00:45:04,867 --> 00:45:08,720
+    %% I'll never treat you cruel
+
+846
+00:45:08,721 --> 00:45:12,006
+             %% as long as       
+             I've got you around
+
+847
+00:45:13,625 --> 00:45:17,996
+             %% I want you around
+
+848
+00:45:17,997 --> 00:45:21,582
+            %% I want you around 
+
+849
+00:45:21,583 --> 00:45:25,520
+                %% you heard     
+                that I'm no good
+
+850
+00:45:25,521 --> 00:45:29,574
+    %% yeah, yeah, I'm no good   
+
+851
+00:45:29,575 --> 00:45:33,378
+            %% but I'll treat you
+            like I should       
+
+852
+00:45:33,379 --> 00:45:37,215
+             %% I want you around
+
+853
+00:45:37,216 --> 00:45:40,752
+            %% I want you around 
+
+854
+00:46:01,874 --> 00:46:05,844
+%% you know if it comes true     
+
+855
+00:46:05,845 --> 00:46:09,981
+%% I'll be so good to you        
+
+856
+00:46:09,982 --> 00:46:13,284
+ %% I'll never treat you cruel   
+
+857
+00:46:13,285 --> 00:46:17,188
+%% as long as I've got you       
+around                          
+
+858
+00:46:18,508 --> 00:46:22,377
+      %% I want you around       
+
+859
+00:46:22,378 --> 00:46:26,080
+     %% I want you around        
+
+860
+00:46:26,081 --> 00:46:30,251
+      %% they're tellin' us      
+
+861
+00:46:30,252 --> 00:46:34,622
+  %% they're gonna make a fuss   
+
+862
+00:46:34,623 --> 00:46:38,025
+     %% about the two of us      
+
+863
+00:46:38,026 --> 00:46:41,947
+      %% I want you around       
+
+864
+00:46:41,948 --> 00:46:46,901
+     %% I want you around        
+
+865
+00:46:46,902 --> 00:46:49,738
+      %% I want you around       
+
+866
+00:46:49,739 --> 00:46:54,242
+     %% I want you around %%      
+
+867
+00:46:56,278 --> 00:46:58,947
+                  <i>(sighs) </i>      
+
+868
+00:47:23,171 --> 00:47:26,140
+It may have taken me            
+two million lawns to mow,       
+
+869
+00:47:26,141 --> 00:47:28,209
+      But it was worth it.      
+
+870
+00:47:28,210 --> 00:47:29,577
+         <i>(knocks) </i>              
+
+871
+00:47:32,014 --> 00:47:33,782
+                    Hoo-hoo-hoo.
+
+872
+00:47:33,783 --> 00:47:35,850
+         Look at all this stuff!
+
+873
+00:47:35,851 --> 00:47:39,955
+              Color TV, stereo, 
+              wet bar, waterbed!
+
+874
+00:47:39,956 --> 00:47:42,624
+    I'll tell ya,               
+    I never knew gettin' laid   
+    was so expensive.           
+
+875
+00:47:42,625 --> 00:47:45,460
+    Ok, I hope I can remember   
+    everything you taught me,   
+    though.                     
+
+876
+00:47:45,461 --> 00:47:46,962
+Tom, you're nervous.            
+
+877
+00:47:46,963 --> 00:47:50,364
+Here, have a drink.             
+It'll calm you down.            
+
+878
+00:47:50,365 --> 00:47:51,833
+                         Thanks.
+
+879
+00:47:51,834 --> 00:47:54,436
+Hey, and whatever you do,       
+don't worry.                    
+
+880
+00:47:54,437 --> 00:47:56,938
+Since Riff lost her tickets     
+to the concert,                 
+
+881
+00:47:56,939 --> 00:47:58,923
+You can move right in.          
+
+882
+00:47:58,924 --> 00:48:00,825
+She'll be a pushover.           
+
+883
+00:48:00,826 --> 00:48:04,162
+Besides, look how far           
+you've come in three days.      
+
+884
+00:48:04,163 --> 00:48:07,165
+    Yeah, but the question is   
+    how far will she go tonight?
+
+885
+00:48:07,166 --> 00:48:12,503
+"if the unknown is 'y'          
+and the binomial is 'x,'        
+
+886
+00:48:12,504 --> 00:48:16,992
+What is the function            
+of the equation 'z'?"           
+
+887
+00:48:18,711 --> 00:48:20,462
+    Riff.                       
+
+888
+00:48:20,463 --> 00:48:22,547
+      Riff.                     
+
+889
+00:48:22,548 --> 00:48:25,083
+     Riff!                      
+              Huh? Uh...        
+
+890
+00:48:25,084 --> 00:48:27,052
+              Oh, uh, the, uh,  
+
+891
+00:48:27,053 --> 00:48:30,789
+        The, uh, major export   
+        of Ecuador is kapok.    
+
+892
+00:48:30,790 --> 00:48:34,158
+Very good, but that's geography,
+and this is calculus.           
+
+893
+00:48:34,159 --> 00:48:35,326
+                     Ooh, sorry.
+
+894
+00:48:35,327 --> 00:48:37,962
+Look at your math book.         
+It looks brand new.             
+
+895
+00:48:37,963 --> 00:48:40,081
+I bet you've never              
+even opened it.                 
+
+896
+00:48:40,082 --> 00:48:43,184
+        I only use it           
+        on special equations.   
+
+897
+00:48:43,185 --> 00:48:44,552
+                      <i>(giggles) </i>
+
+898
+00:48:44,553 --> 00:48:47,622
+        Oh, I don't feel like   
+        studying tonight.       
+
+899
+00:48:47,623 --> 00:48:49,874
+Yeah, I've gotta                
+get home, anyway.               
+
+900
+00:48:49,875 --> 00:48:52,544
+I'm expecting Tom               
+to call me tonight.             
+
+901
+00:48:52,545 --> 00:48:54,813
+            You really like him,
+            don't you?          
+
+902
+00:48:54,814 --> 00:48:57,549
+Mm-hmm. I've been seeing        
+a lot of him lately.            
+
+903
+00:48:57,550 --> 00:48:58,817
+                    You have?   
+ Mm-hmm.                        
+
+904
+00:48:58,818 --> 00:49:00,819
+Eaglebauer says we were made    
+for one another.                
+
+905
+00:49:00,820 --> 00:49:02,086
+                     Oh, he did?
+
+906
+00:49:02,087 --> 00:49:05,122
+I think tonight                 
+could be pretty special.        
+
+907
+00:49:05,123 --> 00:49:07,926
+ <i>(phone rings) </i>                 
+
+908
+00:49:07,927 --> 00:49:09,060
+                          Hello.
+
+909
+00:49:09,061 --> 00:49:10,261
+    She's on the line.          
+
+910
+00:49:10,262 --> 00:49:12,096
+            Great. Just remember
+            what I told you.    
+
+911
+00:49:12,097 --> 00:49:15,967
+Yeah. Hello. Hello, Riff?       
+
+912
+00:49:15,968 --> 00:49:18,736
+         Hi. It's Tom.          
+
+913
+00:49:18,737 --> 00:49:22,090
+                        Tom?    
+       <i>Yeah, Tom Roberts.</i>       
+       <i>Football player?</i>         
+
+914
+00:49:22,091 --> 00:49:23,241
+                         No.    
+
+915
+00:49:23,242 --> 00:49:25,376
+    I talk about                
+    the weather a lot.          
+
+916
+00:49:25,377 --> 00:49:29,430
+  Oh, yeah. Hey, Kate,          
+  it's Tom Roberts on the phone.
+
+917
+00:49:29,431 --> 00:49:31,566
+Tom? Why would he               
+call me here?                   
+
+918
+00:49:31,567 --> 00:49:33,068
+            So how's it been?   
+
+919
+00:49:33,069 --> 00:49:34,519
+              Oh.               
+
+920
+00:49:34,520 --> 00:49:36,320
+       <i>Little dry lately.</i>       
+
+921
+00:49:36,321 --> 00:49:40,024
+         Yeah,                  
+         but I hear it's raining
+         cats and dogs in Idaho.
+
+922
+00:49:40,025 --> 00:49:44,728
+    Yes. Yes! Oh, man,          
+    it's goin' great.           
+
+923
+00:49:44,729 --> 00:49:46,764
+            Great. <i>(mutters) </i>   
+
+924
+00:49:46,765 --> 00:49:49,934
+  Listen, I'm just lying here   
+  in my new van,                
+
+925
+00:49:49,935 --> 00:49:52,120
+On my beautiful waterbed,       
+
+926
+00:49:52,121 --> 00:49:54,856
+Listening to the Ramones'       
+brand-new album                 
+
+927
+00:49:54,857 --> 00:49:57,658
+     On this fantastically      
+     expensive stereo           
+
+928
+00:49:57,659 --> 00:50:01,763
+Wondering if you'd like to maybe
+go out tonight and get drunk?   
+
+929
+00:50:01,764 --> 00:50:03,598
+                      All right.
+
+930
+00:50:03,599 --> 00:50:06,317
+    Listen, I really wish       
+    you'd reconsider-- what?    
+
+931
+00:50:06,318 --> 00:50:08,519
+            Sure, I'll go out   
+            with you tonight.   
+
+932
+00:50:08,520 --> 00:50:11,189
+You can't do that.              
+He's mine.                      
+
+933
+00:50:11,190 --> 00:50:12,440
+        You will?               
+
+934
+00:50:12,441 --> 00:50:15,377
+             <i>Just find a date</i>   
+             <i>for Kate, ok?</i>      
+
+935
+00:50:15,378 --> 00:50:20,815
+     Great, I will. Listen,     
+     I'll pick you both up      
+     in about an hour.          
+
+936
+00:50:20,816 --> 00:50:22,517
+        We got it!              
+
+937
+00:50:22,518 --> 00:50:24,685
+Riff, how can you               
+go out with him?                
+
+938
+00:50:24,686 --> 00:50:28,256
+    I never thought about Tom   
+    until you mentioned him.    
+
+939
+00:50:28,257 --> 00:50:29,757
+  What?!                        
+
+940
+00:50:29,758 --> 00:50:31,859
+        It'd be a change for me,
+        don't you think?        
+
+941
+00:50:31,860 --> 00:50:35,964
+            I never went in much
+            for the jock type.  
+Oh, cut it out.                 
+
+942
+00:50:35,965 --> 00:50:38,833
+What about me?                  
+What about tonight?             
+
+943
+00:50:38,834 --> 00:50:41,886
+             Don't worry. You'll
+             be in the back seat
+             with Eaglebauer.   
+
+944
+00:50:41,887 --> 00:50:44,806
+               He's lots of fun.
+               <i>(gags) </i>          
+
+945
+00:50:44,807 --> 00:50:47,242
+I don't wanna have fun.         
+I wanna be with Tom.            
+
+946
+00:50:47,243 --> 00:50:51,412
+         <i>(chuckles)</i> hey,        
+         I'm only kidding, Kate.
+
+947
+00:50:51,413 --> 00:50:55,783
+              I wouldn't do that
+              to you, huh?      
+
+948
+00:50:55,784 --> 00:50:57,785
+I'll take care of Eaglebauer.   
+
+949
+00:50:57,786 --> 00:51:00,622
+                You can have Tom
+                all to yourself.
+
+950
+00:51:00,623 --> 00:51:03,158
+                    Hmm?        
+Shouldn't kid like that,        
+Riff.                           
+
+951
+00:51:03,159 --> 00:51:05,160
+               <i>(mocks)</i> shouldn't
+               kid like that.   
+
+952
+00:51:05,161 --> 00:51:07,928
+You know how hot I am           
+for him.                        
+                         Hot?   
+
+953
+00:51:07,929 --> 00:51:09,997
+Yes, hot.                       
+                      Whoa.     
+
+954
+00:51:09,998 --> 00:51:13,501
+    "hot," off the lips of Kate.
+    My goodness. Ha-ha.         
+
+955
+00:51:13,502 --> 00:51:16,404
+            Ha-ha, we did it!   
+            We did it.          
+
+956
+00:51:16,405 --> 00:51:19,407
+            I got you a date    
+            with Kate. Whoo-hoo.
+
+957
+00:51:19,408 --> 00:51:21,176
+         Hot equals Joey Ramone.
+
+958
+00:51:21,177 --> 00:51:24,078
+No, hot equals Tom.             
+                    Ehh.        
+
+959
+00:51:24,079 --> 00:51:27,982
+         Aw, I can't believe it.
+         I can't believe it was 
+         that easy.             
+
+960
+00:51:27,983 --> 00:51:31,752
+  He looks like a little cherub 
+  or something. Looks like      
+  he's gonna fly away to Heaven.
+
+961
+00:51:31,753 --> 00:51:34,672
+        He's so sweet-looking,  
+        kinda like a cream puff.
+
+962
+00:51:34,673 --> 00:51:36,774
+That's why I like him.          
+
+963
+00:51:36,775 --> 00:51:39,477
+    I like Joey Ramone 'cause   
+    he's tall and handsome.     
+
+964
+00:51:39,478 --> 00:51:43,047
+     He looks like a poem to me.
+A poem?                         
+
+965
+00:51:43,048 --> 00:51:46,601
+          We get them drunk,    
+          we go in the back,    
+          we hit the waterbed...
+
+966
+00:51:46,602 --> 00:51:48,603
+We gotta take turns             
+in the back.                    
+
+967
+00:51:48,604 --> 00:51:51,038
+        All he eats is pizza.   
+
+968
+00:51:51,039 --> 00:51:55,659
+    I just love the way         
+    he holds the pizza          
+    dripping above his mouth.   
+
+969
+00:51:55,660 --> 00:51:58,362
+    He slithers and slides it   
+    into his mouth.             
+
+970
+00:51:58,363 --> 00:52:01,565
+      It's so sexy the way it...
+      <i>(slurps) </i>                 
+
+971
+00:52:01,566 --> 00:52:03,467
+ Gross.                         
+
+972
+00:52:03,468 --> 00:52:05,653
+   <i>(car radio) %% questioningly</i>  
+
+973
+00:52:05,654 --> 00:52:08,706
+   <i>%% her eyes looked at me...</i>   
+
+974
+00:52:08,707 --> 00:52:11,175
+     <i>This is</i>                    
+     <i>screamin' Steve again,</i>     
+
+975
+00:52:11,176 --> 00:52:14,862
+  <i>And I've got two free tickets</i> 
+  <i>to tonight's Ramones concert</i>  
+
+976
+00:52:14,863 --> 00:52:18,199
+ <i>For the person</i>                 
+ <i>who can call and tell me</i>       
+
+977
+00:52:18,200 --> 00:52:20,201
+       <i>What album</i>               
+       <i>this song is on...</i>       
+
+978
+00:52:20,202 --> 00:52:22,970
+             "questioningly."   
+             "questioningingly."
+
+979
+00:52:22,971 --> 00:52:26,274
+                 What album?    
+                 Oh, what album?
+
+980
+00:52:26,275 --> 00:52:29,193
+                 Oh, what is it?
+Is it <i>road to ruin?</i>             
+
+981
+00:52:29,194 --> 00:52:32,247
+    Yes, that's it!             
+    Oh, Kate, how'd you know?   
+
+982
+00:52:32,248 --> 00:52:34,416
+It says it right here           
+on the cassette.                
+
+983
+00:52:34,417 --> 00:52:38,052
+     Quick, where's a phone?    
+     Where's a phone?           
+     We've gotta get to a phone!
+
+984
+00:52:38,053 --> 00:52:39,737
+Right over there.               
+                     Aah!       
+
+985
+00:52:41,574 --> 00:52:45,710
+...Very special. What I'm       
+trying to say is, dear,         
+I'd like to ask--               
+
+986
+00:52:45,711 --> 00:52:47,779
+This is very difficult.         
+Please don't hang up.           
+
+987
+00:52:47,780 --> 00:52:50,815
+I'd like to ask you             
+to-to-to be my wife.            
+
+988
+00:52:50,816 --> 00:52:53,317
+    Sorry, but you're           
+    not my type.                
+
+989
+00:52:53,318 --> 00:52:55,453
+ <i>(dials phone) </i>                 
+
+990
+00:52:55,454 --> 00:52:58,322
+Oh, please, God,                
+don't let it be busy.           
+
+991
+00:52:58,323 --> 00:53:00,825
+          <i>(rings) </i>              
+ it's ringing.                  
+
+992
+00:53:00,826 --> 00:53:05,596
+Hello? Yes, the answer          
+is "road to ruin."              
+
+993
+00:53:05,597 --> 00:53:08,432
+Aah! We won! We won!            
+
+994
+00:53:08,433 --> 00:53:11,669
+What? Yes, it's Riff Randell    
+and Kate Rambeau.               
+
+995
+00:53:11,670 --> 00:53:16,106
+Of course we'll be there.       
+Yes, thank you. Oh, thank you.  
+
+996
+00:53:16,107 --> 00:53:18,643
+        Oh, we're going.        
+
+997
+00:53:18,644 --> 00:53:21,579
+Oh, Kate, we're going,          
+we're going. Oh, we're going.   
+
+998
+00:53:21,580 --> 00:53:23,013
+                        Aah!    
+What about Tom?                 
+
+999
+00:53:23,014 --> 00:53:26,684
+Oh, come on. How often do you   
+get to see the Ramones?         
+
+1000
+00:53:26,685 --> 00:53:29,137
+Oh, but tonight we were gonna be
+meant for each other.           
+
+1001
+00:53:29,138 --> 00:53:32,523
+        This is my big Chance   
+        to get my songs to them.
+        We have to go.          
+
+1002
+00:53:32,524 --> 00:53:34,776
+                You'll have     
+                a great time.   
+
+1003
+00:53:34,777 --> 00:53:37,278
+   <i>(screamin' Steve)</i>            
+   <i>and the super-lucky winners</i>  
+   <i>of the two free tickets</i>      
+
+1004
+00:53:37,279 --> 00:53:39,280
+         <i>For tonight's</i>          
+         <i>Ramones concert</i>        
+
+1005
+00:53:39,281 --> 00:53:41,366
+     <i>Are Riff Randell</i>           
+     <i>and Kate Rambeau.</i>          
+
+1006
+00:53:42,868 --> 00:53:44,885
+         <i>(rings) </i>               
+
+1007
+00:53:44,886 --> 00:53:48,889
+   <i>("questioningly" continues</i>   
+   <i>playing over radio) </i>         
+
+1008
+00:53:48,890 --> 00:53:52,193
+             <i>(ring) </i>            
+
+1009
+00:53:52,194 --> 00:53:54,329
+      Hello?                    
+ <i>Hello? Tom?</i>                    
+
+1010
+00:53:54,330 --> 00:53:57,381
+Kate and I can't                
+make it tonight. We've been in  
+a horrible seven-car accident.  
+
+1011
+00:53:57,382 --> 00:53:59,483
+We've gotta go to               
+the hospital for immediate      
+blood transfusions.             
+
+1012
+00:53:59,484 --> 00:54:01,485
+We'll see you tomorrow          
+in school. Bye.                 
+
+1013
+00:54:01,486 --> 00:54:04,139
+              Aah!              
+
+1014
+00:54:05,541 --> 00:54:08,459
+I think he took it well.        
+Let's go get dressed.           
+
+1015
+00:54:08,460 --> 00:54:11,029
+            But I am dressed.   
+Yeah, but not for the Ramones.  
+
+1016
+00:54:11,030 --> 00:54:13,864
+I got clothes that'll           
+make you fit right in.          
+
+1017
+00:54:14,934 --> 00:54:17,635
+Come on, sexy.                  
+
+1018
+00:54:17,636 --> 00:54:20,822
+  The only thing I'll ever lay  
+  is a carpet.                  
+
+1019
+00:54:20,823 --> 00:54:22,991
+             You can't take this
+             lying down.        
+
+1020
+00:54:22,992 --> 00:54:26,427
+You gotta crash that concert,   
+grab her up into your arms.     
+
+1021
+00:54:26,428 --> 00:54:28,830
+              Love conquers all.
+
+1022
+00:54:28,831 --> 00:54:31,098
+            Besides, I'd have to
+            give ya a refund.   
+
+1023
+00:54:31,099 --> 00:54:33,033
+  <i>(groans) </i>                     
+
+1024
+00:54:35,888 --> 00:54:38,989
+Oh, I think I'm gonna puke.     
+
+1025
+00:54:38,990 --> 00:54:42,944
+         <i>(%% rock) </i>              
+
+1026
+00:54:42,945 --> 00:54:45,612
+          Oh, sorry, Mantovani's
+          down the block.       
+
+1027
+00:54:45,613 --> 00:54:48,015
+I'm hep, daddy-o.               
+I'm into the Ramones.           
+
+1028
+00:54:48,016 --> 00:54:50,151
+                  Sure you are. 
+                  Got any drugs?
+
+1029
+00:54:50,152 --> 00:54:53,487
+    Bottles? Cans? Cameras?     
+    Let me check ya out here.   
+
+1030
+00:54:53,488 --> 00:54:55,356
+ <i>(laughs) </i>                      
+
+1031
+00:54:55,357 --> 00:54:57,391
+   <i>(man)</i> anybody got any glue?  
+
+1032
+00:54:57,392 --> 00:54:59,293
+ <i>(man #2)</i> who's the geek        
+ in the beret?                  
+
+1033
+00:54:59,294 --> 00:55:01,762
+   <i>(man #3)</i> how old's that guy? 
+   Look at the way he's dressed.
+
+1034
+00:55:01,763 --> 00:55:05,149
+     Oh, I'm sorry, we don't let
+     any more mice in here.     
+
+1035
+00:55:05,150 --> 00:55:07,618
+          They've been exploding
+          all over the place.   
+
+1036
+00:55:07,619 --> 00:55:09,953
+         Oh, you got headphones?
+         Great, great.          
+
+1037
+00:55:09,954 --> 00:55:14,425
+         Just don't get         
+         too close to the pa.   
+         Wait, here's your stub.
+
+1038
+00:55:14,426 --> 00:55:16,427
+                 Ok, go on in.  
+                 Enjoy the show.
+
+1039
+00:55:16,428 --> 00:55:19,330
+           <i>(woman)</i> get this guy.
+           Is he chic, or what? 
+
+1040
+00:55:19,331 --> 00:55:21,332
+        Really, have you ever   
+        seen anyone...          
+
+1041
+00:55:21,333 --> 00:55:23,200
+ <i>(man)</i> who's got the carbonas?  
+      <i>(Riff)</i> that's my songs.   
+
+1042
+00:55:23,201 --> 00:55:25,503
+                  Bottles, cans,
+                  cameras on ya?
+
+1043
+00:55:25,504 --> 00:55:28,105
+     No, nothing. Nothing.      
+
+1044
+00:55:28,106 --> 00:55:30,308
+                  Ok, you're in.
+
+1045
+00:55:30,309 --> 00:55:33,511
+         Let's see what you got.
+         Oh, this is nice.      
+
+1046
+00:55:33,512 --> 00:55:36,046
+         That won't hurt anyone,
+         will it?               
+
+1047
+00:55:36,047 --> 00:55:37,748
+        Excuse me.              
+
+1048
+00:55:37,749 --> 00:55:39,950
+     <i>(man)</i> nice ass.            
+
+1049
+00:55:39,951 --> 00:55:41,285
+                Pinched me.     
+
+1050
+00:55:41,286 --> 00:55:43,253
+             <i>(woman)</i> I'm lookin''
+             for 'ludes.        
+
+1051
+00:55:43,254 --> 00:55:45,623
+Feel good?                      
+                     Yeah.      
+
+1052
+00:55:45,624 --> 00:55:49,393
+         Let me see your pupils.
+         You're stoned. This guy
+         doesn't get in.        
+
+1053
+00:55:49,394 --> 00:55:52,797
+     <i>%% what a wife,</i>             
+     <i>she is mine, she is his</i>    
+
+1054
+00:55:52,798 --> 00:55:55,399
+     <i>%% and so it goes,</i>          
+     <i>and so it goes,</i>            
+     <i>and so it goes</i>             
+
+1055
+00:55:55,400 --> 00:55:57,301
+       <i>%% and so it goes...</i>      
+
+1056
+00:55:57,302 --> 00:56:00,304
+Kate, do you realize            
+they're all really brothers?    
+
+1057
+00:56:00,305 --> 00:56:03,641
+Imagine being the only sister   
+in the Ramones' family.         
+
+1058
+00:56:03,642 --> 00:56:06,477
+   <i>(man)</i> we want the Ramones!   
+
+1059
+00:56:06,478 --> 00:56:08,078
+               <i>(man #2)</i>         
+               I'm so lovin' it!
+
+1060
+00:56:08,079 --> 00:56:09,847
+     <i>(woman)</i> come out,          
+     please, Joey!              
+
+1061
+00:56:09,848 --> 00:56:11,849
+ <i>(woman #2)</i>                     
+ we want the Ramones.           
+
+1062
+00:56:11,850 --> 00:56:13,784
+      <i>(cheering/applause) </i>      
+
+1063
+00:56:19,290 --> 00:56:20,691
+        Hi, gang!               
+
+1064
+00:56:22,828 --> 00:56:25,128
+    This is                     
+    screamin' Steve Stevens     
+
+1065
+00:56:25,129 --> 00:56:27,365
+    Steamin' your way           
+    over station 666            
+
+1066
+00:56:27,366 --> 00:56:29,734
+ With                           
+ <i>the screamin' Steve show.</i>      
+
+1067
+00:56:29,735 --> 00:56:32,336
+ <i>(man)</i> oh, wow!                 
+
+1068
+00:56:32,337 --> 00:56:34,172
+     <i>(gunshot sound effect) </i>    
+
+1069
+00:56:34,173 --> 00:56:36,373
+      We're comin' at ya,       
+      alive and kickin',        
+
+1070
+00:56:36,374 --> 00:56:39,911
+With the hottest band this side 
+of the iron curtain -           
+
+1071
+00:56:39,912 --> 00:56:41,162
+          The Ramones!          
+
+1072
+00:56:41,163 --> 00:56:43,631
+ <i>(man)</i> you know it, Steve.      
+
+1073
+00:56:43,632 --> 00:56:46,467
+           <i>(woman)</i>              
+           we love you, Ramones!
+
+1074
+00:56:46,468 --> 00:56:47,435
+            Dig it.             
+
+1075
+00:56:48,870 --> 00:56:52,373
+But first, I'd like to          
+introduce the two winners       
+
+1076
+00:56:52,374 --> 00:56:54,275
+  Of the Charity ticket raffle  
+
+1077
+00:56:54,276 --> 00:56:57,328
+    Donated by the principal    
+    of Vince Lombardi high!     
+
+1078
+00:56:57,329 --> 00:56:59,697
+         <i>(man)</i> Togar eats it!   
+
+1079
+00:56:59,698 --> 00:57:02,100
+ <i>(woman yells) </i>                 
+
+1080
+00:57:02,101 --> 00:57:06,738
+    Sister Maria Teresa         
+    and sister Teresa Maria.    
+
+1081
+00:57:11,810 --> 00:57:12,977
+      <i>(concert over radio)</i>      
+
+1082
+00:57:12,978 --> 00:57:15,863
+Now, that's a step              
+in the right direction.         
+
+1083
+00:57:15,864 --> 00:57:19,100
+And to keep this administration 
+moving forward,                 
+
+1084
+00:57:19,101 --> 00:57:21,803
+I've made a list                
+of new school policy,           
+
+1085
+00:57:21,804 --> 00:57:25,439
+Which I would like              
+instituted immediately.         
+
+1086
+00:57:25,440 --> 00:57:28,009
+Take this down.                 
+
+1087
+00:57:28,010 --> 00:57:31,228
+    Girls - skirts              
+    below their knees           
+
+1088
+00:57:31,229 --> 00:57:35,132
+      And boys' hair            
+      above their collar.       
+
+1089
+00:57:35,133 --> 00:57:39,537
+  And I think it would be tidy  
+  if they wore neckties.        
+
+1090
+00:57:40,606 --> 00:57:42,874
+  And lunch is to be cut down   
+
+1091
+00:57:42,875 --> 00:57:44,375
+        To half an hour         
+
+1092
+00:57:44,376 --> 00:57:48,846
+    Because I am doubling up    
+    on silent study hall.       
+
+1093
+00:57:48,847 --> 00:57:53,301
+Well, I think that              
+should teach them a lesson      
+in deportment.                  
+
+1094
+00:57:53,302 --> 00:57:55,119
+      How do you spell that?    
+
+1095
+00:57:55,120 --> 00:57:58,356
+D-e-portment.                   
+
+1096
+00:57:58,357 --> 00:58:00,123
+     Now I want you to meet     
+     the two winners            
+
+1097
+00:58:00,124 --> 00:58:02,960
+     Of the screamin' Steve     
+     ticket contest -           
+
+1098
+00:58:02,961 --> 00:58:05,796
+    Riff Randell                
+    and Kate Rambeau!           
+
+1099
+00:58:05,797 --> 00:58:06,797
+           <i>(cheering) </i>          
+
+1100
+00:58:06,798 --> 00:58:08,966
+     <i>(all)</i> yay, Riff!           
+
+1101
+00:58:08,967 --> 00:58:10,968
+    You're live                 
+    on the air, girls.          
+
+1102
+00:58:10,969 --> 00:58:14,237
+ Why don't you say a few words  
+ to the folks at home? Go.      
+
+1103
+00:58:14,238 --> 00:58:17,541
+    On behalf of the students   
+    from Vince Lombardi high    
+    who are here tonight,       
+
+1104
+00:58:17,542 --> 00:58:19,810
+      I'd just like to say      
+      one thing -               
+
+1105
+00:58:19,811 --> 00:58:24,064
+    Screw you, principal Togar. 
+    We made it to the concert,  
+    anyway! Yeah!               
+
+1106
+00:58:24,065 --> 00:58:29,487
+Who says today's youth          
+has nothin' to say, huh?        
+
+1107
+00:58:29,488 --> 00:58:32,774
+      <i>(inaudible yelling) </i>      
+
+1108
+00:58:32,775 --> 00:58:35,960
+Those girls have turned         
+the whole school against me.    
+
+1109
+00:58:35,961 --> 00:58:38,312
+Hansel, Gretel.                 
+
+1110
+00:58:38,313 --> 00:58:41,248
+ I want you to crash            
+ that concert.                  
+
+1111
+00:58:41,249 --> 00:58:44,468
+I want Randell and Rambeau      
+brought back here immediately.  
+
+1112
+00:59:14,199 --> 00:59:16,934
+  So you're Kate Rambeau, huh?  
+                          Yeah. 
+
+1113
+00:59:16,935 --> 00:59:20,070
+ I just loved your latest       
+ <i>scientific American.</i>           
+
+1114
+00:59:20,071 --> 00:59:21,772
+                    Thanks.     
+
+1115
+00:59:21,773 --> 00:59:24,174
+    Hey, would you two          
+    lovely ladies               
+
+1116
+00:59:24,175 --> 00:59:26,410
+Like to see                     
+screamin' Steve in action       
+
+1117
+00:59:26,411 --> 00:59:28,695
+        As he interviews        
+        the Ramones?            
+
+1118
+00:59:28,696 --> 00:59:31,832
+Oh, great. I know               
+just the questions to ask.      
+
+1119
+00:59:31,833 --> 00:59:33,834
+That's beautiful, 'cause        
+I can't think of a thing.       
+
+1120
+00:59:33,835 --> 00:59:37,404
+I've waited so long             
+to see them. I know             
+they're gonna love my songs.    
+
+1121
+00:59:37,405 --> 00:59:39,840
+     I can believe it.          
+     Ya ready? Here we go.      
+
+1122
+00:59:41,075 --> 00:59:44,011
+     Hey, you wanna keep it down
+     out here?                  
+
+1123
+00:59:44,012 --> 00:59:46,447
+              They're tuning up.
+How'd you get in there?         
+
+1124
+00:59:46,448 --> 00:59:50,551
+      Professional secret.      
+      What's this stuff?        
+
+1125
+00:59:50,552 --> 00:59:55,372
+Stuff is gonna prove            
+to the Ramones that I can       
+write songs for them,           
+
+1126
+00:59:55,373 --> 00:59:57,374
+So out of my way, dew drop.     
+
+1127
+00:59:57,375 --> 01:00:01,411
+        I'm sorry, but          
+        the Ramones' manager,   
+
+1128
+01:00:01,412 --> 01:00:03,413
+                 A personal     
+                 friend of mine,
+
+1129
+01:00:03,414 --> 01:00:06,149
+        Put me in charge        
+        of keeping everyone out.
+
+1130
+01:00:06,150 --> 01:00:08,986
+    What's all the trouble,     
+    Angel, baby, huh?           
+
+1131
+01:00:08,987 --> 01:00:10,988
+        Screamin'.              
+  Well...                       
+
+1132
+01:00:10,989 --> 01:00:13,724
+            Good to see ya.     
+  Long time, right?             
+
+1133
+01:00:13,725 --> 01:00:16,026
+          Uh, who are these two?
+
+1134
+01:00:16,027 --> 01:00:18,996
+  These are screamin' Steve's   
+  contest winners.              
+
+1135
+01:00:18,997 --> 01:00:22,049
+Oh, uh, sorry, girls,           
+you'll have to wait outside.    
+
+1136
+01:00:22,050 --> 01:00:24,051
+             Oh, man...         
+Can't we just watch?            
+
+1137
+01:00:24,052 --> 01:00:29,640
+    Angel dearest, why don't you
+    see these sweet young things
+    to their seats?             
+
+1138
+01:00:29,641 --> 01:00:33,411
+We'll go ourselves,             
+thanks.                         
+
+1139
+01:00:33,412 --> 01:00:36,013
+    It's gonna be ok. Yeah.     
+
+1140
+01:00:36,014 --> 01:00:39,116
+      Screamin', I was wondering
+      if you could give us      
+      a little more airtime.    
+
+1141
+01:00:39,117 --> 01:00:41,118
+I'm hittin' it                  
+once an hour.                   
+
+1142
+01:00:41,119 --> 01:00:43,053
+                You can do      
+                a little better.
+
+1143
+01:00:51,296 --> 01:00:53,764
+    Hey-ho, let's go!           
+
+1144
+01:00:53,765 --> 01:00:56,567
+      Hey-ho, let's go!         
+
+1145
+01:00:56,568 --> 01:00:59,036
+    Hey-ho, let's go!           
+
+1146
+01:00:59,037 --> 01:01:01,339
+      Hey-ho, let's go!         
+
+1147
+01:01:01,340 --> 01:01:03,574
+    Hey-ho, let's go!           
+
+1148
+01:01:03,575 --> 01:01:05,108
+            Hey-ho--            
+
+1149
+01:01:05,109 --> 01:01:07,978
+  <i>(screamin' Steve)</i>             
+  here they are - the Ramones!  
+
+1150
+01:01:10,482 --> 01:01:11,915
+ <i>(Riff)</i> Joey!                   
+
+1151
+01:01:11,916 --> 01:01:14,151
+                     Dee dee!   
+            1, 2, 3, 4.         
+
+1152
+01:01:33,738 --> 01:01:36,640
+    %% hey-ho, let's go          
+
+1153
+01:01:36,641 --> 01:01:38,609
+      %% hey-ho, let's go        
+
+1154
+01:01:38,610 --> 01:01:41,278
+    %% hey-ho, let's go          
+
+1155
+01:01:41,279 --> 01:01:43,847
+      %% hey-ho, let's go        
+
+1156
+01:01:43,848 --> 01:01:46,017
+    %% they're forming           
+    in a straight line          
+
+1157
+01:01:46,018 --> 01:01:48,386
+    %% they're going through     
+    a tight wind                
+
+1158
+01:01:48,387 --> 01:01:49,853
+     %% the kids                 
+     are losing their minds     
+
+1159
+01:01:49,854 --> 01:01:51,722
+        %% blitzkrieg bop        
+
+1160
+01:01:53,325 --> 01:01:55,559
+        %% they're pilin'        
+        in the backseat         
+
+1161
+01:01:55,560 --> 01:01:58,295
+     %% they're generatin'       
+     steam heat                 
+
+1162
+01:01:58,296 --> 01:01:59,930
+  %% pulsating to the back beat  
+
+1163
+01:01:59,931 --> 01:02:01,331
+        %% blitzkrieg bop        
+
+1164
+01:02:03,001 --> 01:02:08,005
+%% hey-ho, let's go,             
+shoot 'em in the back now       
+
+1165
+01:02:08,006 --> 01:02:10,040
+    %% what they want,           
+    I don't know                
+
+1166
+01:02:10,041 --> 01:02:12,810
+    %% they're all revved up     
+    and ready to go             
+
+1167
+01:02:12,811 --> 01:02:14,544
+    %% they're formin'           
+    in a straight line          
+
+1168
+01:02:14,545 --> 01:02:17,047
+    %% they're going through     
+    a tight wind                
+
+1169
+01:02:17,048 --> 01:02:19,349
+     %% the kids are losing      
+     their minds                
+
+1170
+01:02:19,350 --> 01:02:20,550
+        %% blitzkrieg bop        
+
+1171
+01:02:22,320 --> 01:02:24,822
+        %% they're piling        
+        in the backseat         
+
+1172
+01:02:24,823 --> 01:02:26,890
+    %% generatin' steam heat     
+
+1173
+01:02:26,891 --> 01:02:29,059
+  %% pulsating to the back beat  
+
+1174
+01:02:29,060 --> 01:02:30,027
+        %% blitzkrieg bop        
+
+1175
+01:02:31,596 --> 01:02:36,700
+%% hey-ho, let's go,             
+shoot 'em in the back now       
+
+1176
+01:02:36,701 --> 01:02:39,002
+    %% what they want,           
+    I don't know                
+
+1177
+01:02:39,003 --> 01:02:41,538
+    %% they're all revved up     
+    and ready to go             
+
+1178
+01:02:41,539 --> 01:02:43,607
+    %% they're forming           
+    in a straight line          
+
+1179
+01:02:43,608 --> 01:02:46,694
+    %% they're going through     
+    a tight wind                
+
+1180
+01:02:46,695 --> 01:02:48,229
+     %% the kids                 
+     are losing their minds     
+
+1181
+01:02:48,230 --> 01:02:49,763
+        %% blitzkrieg bop        
+
+1182
+01:02:51,166 --> 01:02:53,667
+        %% they're piling        
+        in the backseat         
+
+1183
+01:02:53,668 --> 01:02:55,886
+    %% generatin' steam heat     
+
+1184
+01:02:55,887 --> 01:02:57,654
+  %% pulsating to the back beat  
+
+1185
+01:02:57,655 --> 01:02:58,822
+        %% blitzkrieg bop        
+
+1186
+01:03:00,825 --> 01:03:03,093
+    %% hey-ho, let's go          
+
+1187
+01:03:03,094 --> 01:03:05,662
+      %% hey-ho, let's go        
+
+1188
+01:03:05,663 --> 01:03:07,864
+    %% hey-ho, let's go          
+
+1189
+01:03:07,865 --> 01:03:11,768
+      %% hey-ho, let's go! %%     
+
+1190
+01:04:23,291 --> 01:04:25,426
+        %% lobotomy              
+
+1191
+01:04:25,427 --> 01:04:27,194
+          %% lobotomy            
+
+1192
+01:04:27,195 --> 01:04:28,528
+        %% lobotomy              
+
+1193
+01:04:28,529 --> 01:04:30,497
+          %% lobotomy            
+
+1194
+01:04:39,440 --> 01:04:42,009
+     %% DDT did a job on me      
+
+1195
+01:04:42,010 --> 01:04:44,377
+    %% now I am a real sickie    
+
+1196
+01:04:44,378 --> 01:04:46,713
+      %% guess I'll have to      
+      spread the news           
+
+1197
+01:04:46,714 --> 01:04:49,216
+  %% that I got no mind to lose  
+
+1198
+01:04:49,217 --> 01:04:51,351
+      %% all the girls           
+      are in love with me       
+
+1199
+01:04:51,352 --> 01:04:53,854
+    %% I'm a teenage lobotomy    
+
+1200
+01:05:05,350 --> 01:05:08,702
+           <i>(cheering) </i>          
+
+1201
+01:05:08,703 --> 01:05:11,738
+That, Mrs. Rambeau,             
+is where your daughter is.      
+
+1202
+01:05:11,739 --> 01:05:13,641
+ <i>My daughter Kate?</i>              
+
+1203
+01:05:13,642 --> 01:05:16,226
+ <i>I thought she was</i>              
+ <i>in the basement</i>                
+ <i>splitting protons.</i>             
+
+1204
+01:05:16,227 --> 01:05:19,246
+     Oh, just as I thought,     
+
+1205
+01:05:19,247 --> 01:05:23,183
+     Which is why I called      
+     a special assembly         
+     together tomorrow          
+
+1206
+01:05:23,184 --> 01:05:25,469
+To deal with this crisis.       
+
+1207
+01:05:25,470 --> 01:05:29,306
+I'm going to need               
+every parent's help, so...      
+
+1208
+01:05:29,307 --> 01:05:31,007
+    Listen carefully.           
+
+1209
+01:05:31,008 --> 01:05:32,759
+        1, 2, 3, 4.             
+
+1210
+01:05:46,073 --> 01:05:48,274
+%% well, I'm going out west      
+where I belong                  
+
+1211
+01:05:50,762 --> 01:05:52,913
+%% where the days are short      
+and the nights are long         
+
+1212
+01:05:54,916 --> 01:05:57,584
+        %% and I'll walk,        
+        and they'll walk        
+
+1213
+01:05:57,585 --> 01:05:59,853
+    %% and I'll twist,           
+    and they'll twist           
+
+1214
+01:05:59,854 --> 01:06:02,356
+      %% and I'll shimmy,        
+      and they'll shimmy...     
+
+1215
+01:06:02,357 --> 01:06:04,624
+                 Kate, she stole
+                 my songs.      
+
+1216
+01:06:04,625 --> 01:06:09,196
+  %% we're out there having fun  
+  in the warm California sun    
+
+1217
+01:06:09,197 --> 01:06:11,265
+  %% well, I'm going out west,   
+  out on the coast...           
+
+1218
+01:06:13,768 --> 01:06:15,786
+    Gimme those back!           
+
+1219
+01:06:18,206 --> 01:06:19,422
+        %% and I'll walk         
+
+1220
+01:06:19,423 --> 01:06:21,892
+%% yeah, and I'll twist...       
+
+1221
+01:06:21,893 --> 01:06:23,193
+        Excuse me.              
+
+1222
+01:06:23,194 --> 01:06:24,595
+    %% and I'll shimmy           
+
+1223
+01:06:24,596 --> 01:06:27,564
+        %% and I'll fly,         
+        and they'll fly         
+
+1224
+01:06:27,565 --> 01:06:32,335
+  %% we're out there having fun  
+  in the warm California sun    
+
+1225
+01:06:33,404 --> 01:06:34,605
+        Hey, Riff!              
+
+1226
+01:06:39,944 --> 01:06:41,845
+      She's got my songs.       
+
+1227
+01:06:41,846 --> 01:06:43,513
+ <i>(both)</i> tackle her!             
+                  Tackle?       
+
+1228
+01:06:50,337 --> 01:06:53,339
+  %% well, the girls are frisky  
+  in old 'Frisco                
+
+1229
+01:06:55,543 --> 01:06:58,344
+    %% a pretty little chick     
+    wherever you go             
+
+1230
+01:06:58,345 --> 01:07:01,347
+      %% oh, and I'll walk       
+
+1231
+01:07:01,348 --> 01:07:04,350
+%% yeah, and I'll twist...       
+
+1232
+01:07:04,351 --> 01:07:06,753
+         You can catch her, Tom!
+
+1233
+01:07:06,754 --> 01:07:09,372
+        %% and I'll fly,         
+        and they'll fly         
+
+1234
+01:07:09,373 --> 01:07:13,693
+  %% we're out there having fun  
+  in the warm California sun    
+
+1235
+01:07:13,694 --> 01:07:16,430
+    %% well, we're out there     
+    having fun                  
+
+1236
+01:07:16,431 --> 01:07:18,765
+        %% in the warm           
+        California sun %%        
+
+1237
+01:07:24,589 --> 01:07:26,890
+ %% gabba gabba, we accept you,  
+ we accept you, one of us       
+
+1238
+01:07:26,891 --> 01:07:29,493
+  %% gabba gabba, we accept you, 
+  we accept you, one of us      
+
+1239
+01:07:34,532 --> 01:07:36,733
+           <i>(mutters) </i>           
+
+1240
+01:07:36,734 --> 01:07:38,985
+        Oh, shit.               
+
+1241
+01:07:38,986 --> 01:07:41,522
+    %% I don't wanna be          
+    a pinhead no more           
+
+1242
+01:07:41,523 --> 01:07:43,990
+      %% I just met a nurse      
+      that I could go for       
+
+1243
+01:07:43,991 --> 01:07:46,860
+    %% I don't wanna be          
+    a pinhead no more           
+
+1244
+01:07:46,861 --> 01:07:49,229
+      %% I just met a nurse      
+      that I could go for       
+
+1245
+01:07:58,005 --> 01:07:58,939
+             Whoa.              
+
+1246
+01:08:01,242 --> 01:08:03,977
+    %% I don't wanna be          
+    a pinhead no more           
+
+1247
+01:08:03,978 --> 01:08:05,979
+      %% I met a nurse           
+      that I could go for       
+
+1248
+01:08:05,980 --> 01:08:08,849
+    %% I don't wanna be          
+    a pinhead no more           
+
+1249
+01:08:08,850 --> 01:08:10,884
+      %% I met a nurse           
+      that I could go for       
+
+1250
+01:08:12,420 --> 01:08:13,454
+              %% oh              
+
+1251
+01:08:16,524 --> 01:08:20,126
+Thank you, Tom. Oh, thank you   
+for saving my songs.            
+
+1252
+01:08:20,127 --> 01:08:22,596
+I always knew you were          
+a terrific football player.     
+
+1253
+01:08:28,803 --> 01:08:30,671
+    %% everyone's accusin' me    
+
+1254
+01:08:33,808 --> 01:08:35,676
+    %% everyone's accusin' me    
+
+1255
+01:08:47,889 --> 01:08:49,790
+              Yay!              
+
+1256
+01:08:49,791 --> 01:08:52,426
+%% I don't wanna be              
+a pinhead no more               
+
+1257
+01:08:52,427 --> 01:08:54,762
+      %% I met a nurse           
+      that I could go for       
+
+1258
+01:08:54,763 --> 01:08:57,598
+    %% I don't wanna be          
+    a pinhead no more           
+
+1259
+01:08:57,599 --> 01:08:59,666
+      %% I met a nurse           
+      that I could go for       
+
+1260
+01:09:01,368 --> 01:09:02,703
+             %% yeah             
+
+1261
+01:09:15,783 --> 01:09:17,984
+    %% gabba gabba, hey          
+
+1262
+01:09:17,985 --> 01:09:19,086
+      %% gabba gabba, hey        
+
+1263
+01:09:19,087 --> 01:09:20,087
+    %% gabba gabba, hey          
+
+1264
+01:09:20,088 --> 01:09:21,588
+      %% gabba gabba, hey        
+
+1265
+01:09:21,589 --> 01:09:22,723
+    %% gabba gabba, hey          
+
+1266
+01:09:22,724 --> 01:09:24,057
+      %% gabba gabba, hey        
+
+1267
+01:09:24,058 --> 01:09:25,092
+    %% gabba gabba, hey          
+
+1268
+01:09:25,093 --> 01:09:26,259
+      %% gabba gabba, yay        
+
+1269
+01:09:26,260 --> 01:09:28,561
+      %% gabba gabba, hey,       
+      gabba gabba, hey          
+
+1270
+01:09:28,562 --> 01:09:29,830
+    %% gabba gabba, hey          
+
+1271
+01:09:29,831 --> 01:09:32,332
+      %% gabba gabba, hey,       
+      gabba gabba, hey          
+
+1272
+01:09:32,333 --> 01:09:34,634
+     %% gabba gabba, hey,        
+     gabba gabba, hey           
+
+1273
+01:09:34,635 --> 01:09:35,802
+     %% gabba gabba, yay! %%      
+
+1274
+01:09:42,543 --> 01:09:46,113
+    Joey, Joey, Joey!           
+
+1275
+01:09:46,114 --> 01:09:50,567
+Tom? Tom. Tom,                  
+are you all right?              
+Speak to me.                    
+
+1276
+01:09:50,568 --> 01:09:53,136
+                  Riff, my head.
+Riff?                           
+
+1277
+01:09:53,137 --> 01:09:56,189
+I've just been handed this note.
+It says, "dear Ramones,         
+
+1278
+01:09:56,190 --> 01:09:59,209
+    "all my friends             
+    from Vince Lombardi high    
+    are here tonight.           
+
+1279
+01:09:59,210 --> 01:10:01,745
+"even though our principal      
+Miss Togar thinks you make      
+nothin' but noise,              
+
+1280
+01:10:01,746 --> 01:10:03,964
+ I think you're the greatest."  
+
+1281
+01:10:03,965 --> 01:10:07,784
+    Do you mean you             
+    signed up with Eaglebauer   
+    to be with me?              
+
+1282
+01:10:07,785 --> 01:10:09,686
+ Yes.                           
+
+1283
+01:10:11,055 --> 01:10:14,424
+                Listen, I'm glad
+                you're not Riff.
+
+1284
+01:10:14,425 --> 01:10:16,893
+    What do you say we become   
+    friends, anyway?            
+
+1285
+01:10:18,445 --> 01:10:21,782
+ "please dedicate your next song
+ to my friends Tom and Kate.    
+
+1286
+01:10:21,783 --> 01:10:24,317
+Love, your number one fan,      
+Riff Randell."                  
+
+1287
+01:10:24,318 --> 01:10:26,537
+ Ok, this is for Tom and Kate,  
+ from our number one fan.       
+
+1288
+01:10:26,538 --> 01:10:27,954
+    Yay!                        
+
+1289
+01:10:27,955 --> 01:10:29,690
+          1, 2, 3, 4.           
+
+1290
+01:10:34,629 --> 01:10:37,063
+  %% yeah, yeah, she's the one   
+
+1291
+01:10:39,334 --> 01:10:41,435
+  %% yeah, yeah, she's the one   
+
+1292
+01:10:44,104 --> 01:10:46,489
+ %% when I see her on the street 
+
+1293
+01:10:46,490 --> 01:10:48,992
+      %% you know she makes      
+      my life complete          
+
+1294
+01:10:48,993 --> 01:10:51,161
+  %% and you know I told you so  
+      aren't they great?        
+
+1295
+01:10:51,162 --> 01:10:53,730
+        %% she's the one,        
+        she's the one           
+
+1296
+01:10:53,731 --> 01:10:56,699
+  %% yeah, yeah, she's my girl   
+
+1297
+01:10:56,700 --> 01:10:58,068
+              That's me.        
+
+1298
+01:10:58,069 --> 01:11:00,670
+  %% yeah, yeah, she's my girl   
+
+1299
+01:11:02,640 --> 01:11:05,242
+      %% and when I see her      
+      on the street             
+
+1300
+01:11:05,243 --> 01:11:07,711
+      %% you know she makes      
+      my life complete          
+
+1301
+01:11:07,712 --> 01:11:11,415
+ %% and you know I told you so,  
+ she's the one, she's the one   
+
+1302
+01:11:11,416 --> 01:11:14,017
+        %% she's the one         
+
+1303
+01:11:14,018 --> 01:11:17,754
+     %% know I'll never find     
+     a girl like you            
+
+1304
+01:11:19,724 --> 01:11:23,510
+      %% but in my heart,        
+      I'll always love you      
+
+1305
+01:11:23,511 --> 01:11:26,913
+  %% yeah, yeah, she's the one   
+
+1306
+01:11:28,566 --> 01:11:31,034
+  %% yeah, yeah, she's the one   
+
+1307
+01:11:33,037 --> 01:11:35,572
+ %% when I see her on the street 
+
+1308
+01:11:35,573 --> 01:11:38,007
+      %% you know she makes      
+      my life complete          
+
+1309
+01:11:38,008 --> 01:11:41,878
+ %% and you know I told her so,  
+ she's the one, she's the one   
+
+1310
+01:11:41,879 --> 01:11:43,112
+        %% she's the one         
+
+1311
+01:11:45,082 --> 01:11:49,586
+    %% I'll never find           
+    a girl like you             
+
+1312
+01:11:49,587 --> 01:11:54,241
+      %% but in my heart,        
+      I'll always be true       
+
+1313
+01:11:54,242 --> 01:11:56,876
+  %% yeah, yeah, she's my girl   
+
+1314
+01:11:58,879 --> 01:12:01,814
+    %% the best girl             
+    in the whole wide world     
+
+1315
+01:12:01,815 --> 01:12:03,717
+          Back, back.           
+
+1316
+01:12:03,718 --> 01:12:06,119
+        %% when I see her        
+        on the streets          
+
+1317
+01:12:06,120 --> 01:12:08,221
+      %% you know she makes      
+      my life complete          
+
+1318
+01:12:08,222 --> 01:12:12,392
+ %% and you know I told you so,  
+ she's the one, she's the one   
+
+1319
+01:12:12,393 --> 01:12:13,893
+        %% the one               
+
+1320
+01:12:13,894 --> 01:12:16,796
+        %% she's the one,        
+        she's the one           
+
+1321
+01:12:16,797 --> 01:12:18,097
+        %% she's the one         
+
+1322
+01:12:19,233 --> 01:12:21,635
+        %% she's the one,        
+        she's the one           
+
+1323
+01:12:21,636 --> 01:12:23,035
+        %% she's the one         
+
+1324
+01:12:24,171 --> 01:12:26,273
+        %% she's the one,        
+        she's the one           
+
+1325
+01:12:26,274 --> 01:12:28,675
+    %% she's the one %%           
+Joey.                           
+
+1326
+01:12:33,281 --> 01:12:35,815
+  Yay, Joey!                    
+
+1327
+01:12:38,586 --> 01:12:40,853
+        I told you              
+        you'd have a great time.
+
+1328
+01:12:40,854 --> 01:12:42,455
+     I am.                      
+
+1329
+01:12:42,456 --> 01:12:45,358
+            Maybe that's them   
+            in there.           
+Oh, boy, we got 'em now.        
+
+1330
+01:12:47,027 --> 01:12:50,713
+Have you seen two young         
+high school girls around?       
+
+1331
+01:12:50,714 --> 01:12:53,816
+     Yeah, I got 'em on me.     
+
+1332
+01:12:53,817 --> 01:12:56,452
+       <i>(both)</i> body search!      
+             Aah!               
+
+1333
+01:13:01,075 --> 01:13:03,209
+        Is he all right?        
+
+1334
+01:13:03,210 --> 01:13:05,712
+Hey, pizza!                     
+          Great.                
+
+1335
+01:13:07,481 --> 01:13:11,384
+What are you doing here?        
+             These are my songs.
+
+1336
+01:13:11,385 --> 01:13:13,987
+    I've been trying to get them
+    to you for the longest time.
+
+1337
+01:13:13,988 --> 01:13:16,055
+Hey, it's Riff Randell,         
+our number one fan.             
+
+1338
+01:13:16,056 --> 01:13:19,058
+         Oh, wow,               
+         you remembered my name.
+
+1339
+01:13:19,059 --> 01:13:22,529
+ This is the big time, girlie.  
+ This is rock-'n'-roll.         
+
+1340
+01:13:22,530 --> 01:13:25,865
+    Yeah, well, this is         
+    "rock 'n' roll high school."
+
+1341
+01:13:25,866 --> 01:13:27,534
+"rock 'n' roll high school"?    
+
+1342
+01:13:27,535 --> 01:13:29,636
+    Yeah, I wrote it for        
+    Mr. Mcgree's music class,   
+
+1343
+01:13:29,637 --> 01:13:32,655
+        But I really wrote it   
+        for you, Joey.          
+
+1344
+01:13:32,656 --> 01:13:35,458
+         Hey, pizza! It's great.
+         Let's dig in.          
+
+1345
+01:13:35,459 --> 01:13:37,861
+Yeah, I want some.              
+                     Oh, thanks.
+
+1346
+01:13:37,862 --> 01:13:41,732
+ How many times                 
+ do I have to tell you?         
+ No pizza for you, Joey.        
+
+1347
+01:13:41,733 --> 01:13:44,300
+ More wheat germ                
+ and riboflavin.                
+
+1348
+01:13:44,301 --> 01:13:46,336
+Yeah, come on, Joey.            
+Eat. Good.                      
+
+1349
+01:13:46,337 --> 01:13:49,055
+I'm gonna eat some myself.      
+Mmm. Mmm.                       
+
+1350
+01:13:49,056 --> 01:13:51,474
+Organic alfalfa sprouts.        
+Come on, Joey.                  
+
+1351
+01:13:51,475 --> 01:13:54,811
+Good. Mmm. Come on, eat, Joey.  
+Good boy. Yeah.                 
+
+1352
+01:13:54,812 --> 01:13:57,847
+Mama'll love ya. You like it,   
+huh? Huh? Good, yeah.           
+
+1353
+01:13:57,848 --> 01:14:00,250
+Iron, niacin, b12.              
+
+1354
+01:14:00,251 --> 01:14:01,684
+Grown from the earth.           
+Good...                         
+
+1355
+01:14:01,685 --> 01:14:04,287
+        I'll cherish this moment
+        forever.                
+
+1356
+01:14:04,288 --> 01:14:06,656
+This is how I like              
+to see you, my son.             
+
+1357
+01:14:06,657 --> 01:14:09,392
+Ok. Ok, girlie, the boys'll     
+take a look at 'em              
+
+1358
+01:14:09,393 --> 01:14:11,194
+And get back to you             
+tomorrow, huh?                  
+
+1359
+01:14:11,195 --> 01:14:13,680
+  Yeah, we're gonna be in town  
+  one more day,                 
+
+1360
+01:14:13,681 --> 01:14:16,366
+    And if we like 'em,         
+    we'll come pay you          
+    and Mr. Mcglibb a visit.    
+
+1361
+01:14:16,367 --> 01:14:18,935
+    Say hi to Vince             
+    for us.                     
+                        Oh, wow.
+
+1362
+01:14:18,936 --> 01:14:22,873
+        This is the happiest day
+        of my life.             
+
+1363
+01:14:25,176 --> 01:14:26,910
+    Gabba gabba, hey.           
+
+1364
+01:14:32,817 --> 01:14:35,085
+     <i>(birds chirping) </i>          
+
+1365
+01:14:35,086 --> 01:14:37,871
+And I say to you parents,       
+
+1366
+01:14:37,872 --> 01:14:41,124
+        This high school        
+        is a failure.           
+
+1367
+01:14:41,125 --> 01:14:44,594
+     The past semester          
+     has been a black Mark      
+
+1368
+01:14:44,595 --> 01:14:48,765
+    On the proud tradition      
+    of Vince Lombardi high.     
+
+1369
+01:14:48,766 --> 01:14:53,670
+Student Riff Randell alone      
+has disrupted classes...        
+
+1370
+01:14:53,671 --> 01:14:56,456
+They can't say I haven't        
+contributed anything.           
+
+1371
+01:14:56,457 --> 01:14:58,692
+...And banded the students      
+against me                      
+
+1372
+01:14:58,693 --> 01:15:02,112
+      To attend a concert       
+      of the Ramones.           
+
+1373
+01:15:02,113 --> 01:15:04,414
+            Hey, yeah!          
+                  That's right. 
+
+1374
+01:15:04,415 --> 01:15:08,451
+      ...That awful             
+      rock and roll music.      
+
+1375
+01:15:08,452 --> 01:15:12,622
+      You see before you        
+      my first major step       
+
+1376
+01:15:12,623 --> 01:15:16,026
+In putting this school          
+back on the winning track.      
+
+1377
+01:15:16,027 --> 01:15:18,445
+         I give you...          
+
+1378
+01:15:18,446 --> 01:15:20,780
+      The final solution.       
+
+1379
+01:15:20,781 --> 01:15:22,165
+     <i>(students gasp) </i>           
+
+1380
+01:15:22,166 --> 01:15:24,166
+ Those are our records.         
+
+1381
+01:15:25,435 --> 01:15:26,670
+            Hey, gimme those.   
+
+1382
+01:15:26,671 --> 01:15:28,955
+         <i>(all complain) </i>        
+
+1383
+01:15:28,956 --> 01:15:33,627
+And this is what we think       
+of the Ramones...               
+
+1384
+01:15:35,162 --> 01:15:37,798
+ <i>(boy)</i> we've gotta stop her!    
+
+1385
+01:15:37,799 --> 01:15:40,100
+    Somebody stop her!          
+    She can't do that!          
+
+1386
+01:15:40,101 --> 01:15:41,334
+                   <i>(boy #2)</i> hey!
+
+1387
+01:15:49,193 --> 01:15:50,610
+          Miss Togar,           
+
+1388
+01:15:50,611 --> 01:15:54,030
+I cannot stand by               
+and allow you to do this.       
+
+1389
+01:15:54,031 --> 01:15:55,816
+            Then stand aside,   
+            Mr. Mcgree.         
+
+1390
+01:15:55,817 --> 01:15:57,767
+        Let me through.         
+
+1391
+01:15:57,768 --> 01:16:00,203
+ <i>(Eaglebauer)</i> she's             
+ burning our records!           
+ We gotta stop her!             
+
+1392
+01:16:00,204 --> 01:16:02,088
+     <i>(Tom)</i> I'll get the hose.   
+
+1393
+01:16:08,546 --> 01:16:10,580
+             Togar!             
+
+1394
+01:16:11,315 --> 01:16:13,467
+That's the last straw, Randell. 
+
+1395
+01:16:13,468 --> 01:16:15,151
+Detention... For life!          
+
+1396
+01:16:15,152 --> 01:16:19,639
+     <i>(%% "school's out"</i>          
+     <i>by Alice Cooper)</i>           
+
+1397
+01:16:22,376 --> 01:16:26,563
+   <i>%% school's out for Summer</i>    
+
+1398
+01:16:26,564 --> 01:16:28,615
+         <i>(all yelling) </i>         
+
+1399
+01:16:30,884 --> 01:16:34,237
+  <i>(Riff)</i> let's take the school. 
+
+1400
+01:16:34,238 --> 01:16:37,857
+        My darling Evelyn,      
+        how I long for the feel 
+        of your luscious thighs.
+
+1401
+01:16:37,858 --> 01:16:41,044
+  See you later, Togar.         
+  It's already fifth period.    
+
+1402
+01:16:42,245 --> 01:16:44,331
+     <i>(boy)</i> she's gonna          
+     call the cops.             
+
+1403
+01:16:44,332 --> 01:16:47,617
+     <i>%% no more pencils</i>          
+
+1404
+01:16:47,618 --> 01:16:49,719
+      <i>%% no more books... %%</i>      
+
+1405
+01:16:49,720 --> 01:16:52,839
+Hey, come on, you guys.         
+Follow me into the school.      
+
+1406
+01:16:52,840 --> 01:16:57,961
+     I regret that I have       
+     only one life to give      
+     for rock-'n'-roll.         
+
+1407
+01:16:57,962 --> 01:17:01,598
+You belong in school with us,   
+Mr. Mcgree. Come on.            
+
+1408
+01:17:01,599 --> 01:17:05,351
+        Things sure have changed
+        since we got kicked out 
+        of high school.         
+
+1409
+01:17:05,352 --> 01:17:08,488
+Oh. Where are you going?        
+          To Mr. Mcgree's class.
+
+1410
+01:17:08,489 --> 01:17:11,024
+Well, I'm happy                 
+to see some students            
+still are interested            
+
+1411
+01:17:11,025 --> 01:17:12,826
+In their studies.               
+
+1412
+01:17:12,827 --> 01:17:14,828
+      We're not students.       
+      We're the Ramones.        
+
+1413
+01:17:14,829 --> 01:17:18,498
+Ramones? You're responsible     
+for making that horrible        
+rock-'n'-roll music?            
+
+1414
+01:17:18,499 --> 01:17:20,967
+You turned the whole school     
+against me.                     
+
+1415
+01:17:20,968 --> 01:17:24,738
+           <i>(cheering) </i>          
+
+1416
+01:17:24,739 --> 01:17:26,940
+            Do your parents know
+            that you're Ramones?
+
+1417
+01:17:26,941 --> 01:17:29,075
+           <i>(cheering) </i>          
+
+1418
+01:17:29,076 --> 01:17:30,210
+                     Come on in.
+
+1419
+01:17:31,712 --> 01:17:33,980
+      <i>(girl)</i> yay, Ramones!      
+
+1420
+01:17:33,981 --> 01:17:35,915
+ <i>(boy)</i> kill the principal!      
+
+1421
+01:17:40,972 --> 01:17:43,990
+Rock-'n'-roll high school       
+is on the air again.            
+
+1422
+01:17:46,360 --> 01:17:49,178
+ <i>(%% "high school" by mc5) </i>      
+
+1423
+01:17:51,231 --> 01:17:53,033
+         <i>%% well, come on</i>        
+
+1424
+01:17:53,034 --> 01:17:56,536
+   <i>%% kids want a little action</i>  
+
+1425
+01:17:56,537 --> 01:17:58,421
+ <i>%% kids want a little fun</i>       
+
+1426
+01:17:58,422 --> 01:18:00,640
+                More exciting   
+                than study hall.
+
+1427
+01:18:00,641 --> 01:18:02,541
+  <i>%% ...Have to get their kicks</i>  
+
+1428
+01:18:02,542 --> 01:18:04,143
+   <i>%% before the evening's done</i>  
+
+1429
+01:18:04,144 --> 01:18:06,479
+     <i>%% 'cause they're</i>           
+     <i>goin' to high school...</i>    
+
+1430
+01:18:06,480 --> 01:18:09,015
+Hoy, hoy, hoy,                  
+hey, hey hey.                   
+
+1431
+01:18:09,016 --> 01:18:11,383
+I'm really groovin', baby.      
+
+1432
+01:18:11,384 --> 01:18:13,936
+         <i>%% high school,</i>         
+         <i>hey, hey, hey</i>          
+
+1433
+01:18:13,937 --> 01:18:17,073
+       <i>%% you better</i>             
+       <i>get out of the way</i>       
+
+1434
+01:18:17,074 --> 01:18:20,009
+        They're going to destroy
+        the school.             
+
+1435
+01:18:20,010 --> 01:18:21,510
+        I can't believe it.     
+
+1436
+01:18:21,511 --> 01:18:22,578
+                      Whoo!     
+
+1437
+01:18:22,579 --> 01:18:23,913
+Ooh...                          
+
+1438
+01:18:23,914 --> 01:18:26,115
+     <i>%% they only wanna</i>          
+     <i>shake it up, baby</i>          
+
+1439
+01:18:26,116 --> 01:18:29,619
+  <i>%% dance to the rockin' bands</i>  
+
+1440
+01:18:29,620 --> 01:18:32,172
+       <i>%% they only want</i>         
+       <i>a little excitement</i>      
+
+1441
+01:18:32,173 --> 01:18:34,640
+     <i>%% they like to get</i>         
+     <i>a little out of hand...</i>    
+
+1442
+01:18:38,595 --> 01:18:41,664
+     <i>(both)</i> oh, students...     
+
+1443
+01:18:41,665 --> 01:18:44,901
+         Oh, students.          
+
+1444
+01:18:49,824 --> 01:18:52,742
+    What the hell...?           
+
+1445
+01:18:52,743 --> 01:18:54,460
+     <i>(girl)</i> we've got ya now.   
+
+1446
+01:18:54,461 --> 01:18:58,230
+    Get down, Mcgree.           
+    Whoo! Whoo-hoo!             
+
+1447
+01:19:01,401 --> 01:19:02,969
+     <i>(both)</i> surf's up.          
+
+1448
+01:19:02,970 --> 01:19:05,638
+Call the national guard.        
+They're causing a riot.         
+These kids are--                
+
+1449
+01:19:05,639 --> 01:19:07,807
+             The national guard?
+
+1450
+01:19:07,808 --> 01:19:09,809
+         But my children        
+         are inside that school.
+
+1451
+01:19:09,810 --> 01:19:10,777
+                    Oh, dear.   
+
+1452
+01:19:13,413 --> 01:19:16,266
+      <i>%% the kids know what</i>      
+      <i>the deal is</i>               
+
+1453
+01:19:16,267 --> 01:19:19,135
+      <i>%% they're gettin'</i>         
+      <i>farther out every day</i>     
+
+1454
+01:19:19,136 --> 01:19:22,238
+ <i>%% we're gonna be taking over...</i>
+
+1455
+01:19:22,239 --> 01:19:24,641
+          Get off, you little...
+          God, you weigh...     
+
+1456
+01:19:24,642 --> 01:19:28,478
+  <i>%% high school, rah, rah, rah</i>  
+
+1457
+01:19:28,479 --> 01:19:29,879
+     <i>%% high school...</i>           
+
+1458
+01:19:34,535 --> 01:19:35,634
+       <i>(static/feedback) </i>       
+
+1459
+01:19:37,854 --> 01:19:40,657
+         <i>%% high school,</i>         
+         <i>rah, rah, rah</i>          
+
+1460
+01:19:40,658 --> 01:19:43,593
+     <i>%% high school,</i>             
+     <i>sis, boom, bah</i>             
+
+1461
+01:19:43,594 --> 01:19:45,527
+     <i>%% high school...</i>           
+
+1462
+01:19:48,549 --> 01:19:50,182
+ <i>(Hansel and Gretel)</i> whoa!      
+
+1463
+01:19:50,183 --> 01:19:52,952
+Hey! Wait!                      
+We're in here!                  
+
+1464
+01:19:52,953 --> 01:19:54,320
+Wait, wait.                     
+
+1465
+01:19:54,321 --> 01:19:56,472
+     You're gonna               
+     get it now, fat boys!      
+
+1466
+01:19:56,473 --> 01:19:58,707
+                Whoo!           
+                Nice garters.   
+
+1467
+01:19:58,708 --> 01:20:00,310
+                      <i>(screams) </i>
+
+1468
+01:20:00,311 --> 01:20:03,779
+                Whoo, sexy legs.
+                Whoo, Mcgree.   
+
+1469
+01:20:03,780 --> 01:20:05,815
+         <i>(all laughing) </i>        
+
+1470
+01:20:10,220 --> 01:20:13,423
+        Firing line...          
+        Apple brown betty.      
+
+1471
+01:20:13,424 --> 01:20:19,379
+     We were only following     
+     the recipes!               
+
+1472
+01:20:19,380 --> 01:20:23,133
+         Firing line...         
+         The Tuesday surprise!  
+
+1473
+01:20:23,134 --> 01:20:26,552
+     No, no, not                
+     the Tuesday surprise.      
+
+1474
+01:20:26,553 --> 01:20:29,673
+ <i>(girl)</i> taste treat.            
+ <i>(girl #2)</i> it's delish.         
+
+1475
+01:20:29,674 --> 01:20:31,323
+    Go get 'em, guys!           
+
+1476
+01:20:31,324 --> 01:20:34,377
+   <i>%% well, come on, let's go,</i>   
+   <i>let's go, little darlin'...</i>  
+
+1477
+01:20:34,378 --> 01:20:37,514
+ <i>(boy)</i> eat it, Vince!           
+
+1478
+01:20:37,515 --> 01:20:40,165
+       <i>%% come on, come on,</i>      
+       <i>let's go, and again</i>      
+
+1479
+01:20:40,166 --> 01:20:43,202
+      <i>%% and again and again</i>     
+      <i>and again</i>                 
+
+1480
+01:20:43,203 --> 01:20:45,805
+           <i>%% well... %%</i>          
+
+1481
+01:20:48,309 --> 01:20:50,726
+        No, no.                 
+        Oh, what the hell...?   
+
+1482
+01:20:50,727 --> 01:20:53,296
+        Oh, my God...           
+
+1483
+01:20:53,297 --> 01:20:55,097
+     <i>(students)</i> yeah!           
+
+1484
+01:20:55,098 --> 01:20:56,332
+    Demerit! Demerit!           
+
+1485
+01:20:56,333 --> 01:20:58,835
+        Demerit! Demerit!       
+
+1486
+01:20:58,836 --> 01:21:03,105
+ <i>(boy)</i> come on up,              
+ and we'll bang your erasers.   
+
+1487
+01:21:03,106 --> 01:21:05,141
+    So what do you think        
+    of my school, guys?         
+
+1488
+01:21:05,142 --> 01:21:07,443
+      Boy, when you have recess,
+      you really go all out.    
+
+1489
+01:21:07,444 --> 01:21:10,779
+Consider yourselves             
+officially enrolled in          
+rock-'n'-roll high school.      
+
+1490
+01:21:10,780 --> 01:21:14,183
+The facilities are yours.       
+Do whatever you want.           
+
+1491
+01:21:15,435 --> 01:21:18,470
+      %% do you wanna dance      
+      and hold my hand?         
+
+1492
+01:21:18,471 --> 01:21:21,073
+    %% tell me, baby,            
+    I'm your lover man          
+
+1493
+01:21:21,074 --> 01:21:26,045
+  %% baby, do you wanna dance?   
+
+1494
+01:21:26,046 --> 01:21:29,348
+      %% do you wanna dance      
+      under the moonlight?      
+
+1495
+01:21:29,349 --> 01:21:31,583
+     %% squeeze me, baby,        
+     all through the night      
+
+1496
+01:21:31,584 --> 01:21:37,207
+      %% oh, baby,               
+      do you wanna dance?       
+
+1497
+01:21:37,208 --> 01:21:39,459
+%% do you, do you, do you,       
+do you wanna dance?             
+
+1498
+01:21:39,460 --> 01:21:42,128
+    %% do you, do you, do you,   
+    do you wanna dance?         
+
+1499
+01:21:42,129 --> 01:21:43,963
+%% do you, do you, do you?       
+
+1500
+01:21:43,964 --> 01:21:47,533
+     %% do you wanna dance?      
+
+1501
+01:21:52,506 --> 01:21:55,808
+      %% do you wanna dance      
+      under the moonlight?      
+
+1502
+01:21:55,809 --> 01:21:58,144
+     %% squeeze me, baby,        
+     all through the night      
+
+1503
+01:21:58,145 --> 01:22:02,982
+      %% oh, baby,               
+      do you wanna dance?       
+
+1504
+01:22:02,983 --> 01:22:06,168
+      %% do you wanna dance      
+      under the moonlight?      
+
+1505
+01:22:06,169 --> 01:22:08,438
+     %% squeeze me, baby,        
+     all through the night      
+
+1506
+01:22:08,439 --> 01:22:14,009
+      %% oh, baby,               
+      do you wanna dance?       
+
+1507
+01:22:14,010 --> 01:22:16,478
+%% do you, do you, do you,       
+do you wanna dance?             
+
+1508
+01:22:16,479 --> 01:22:18,981
+    %% do you, do you, do you,   
+    do you wanna dance?         
+
+1509
+01:22:18,982 --> 01:22:20,516
+%% do you, do you, do you?       
+
+1510
+01:22:20,517 --> 01:22:23,386
+     %% do you wanna dance?      
+
+1511
+01:22:29,877 --> 01:22:32,578
+     Go on, get out there!      
+     Yeah!                      
+
+1512
+01:22:32,579 --> 01:22:34,897
+%% do you, do you, do you,       
+do you wanna dance?             
+
+1513
+01:22:34,898 --> 01:22:36,166
+%% do you, do you, do you?       
+
+1514
+01:22:36,167 --> 01:22:39,652
+     %% do you wanna dance?      
+
+1515
+01:22:39,653 --> 01:22:42,454
+%% do you, do you, do you,       
+do you wanna dance?             
+
+1516
+01:22:42,455 --> 01:22:45,374
+    %% do you, do you, do you,   
+    do you wanna dance?         
+
+1517
+01:22:45,375 --> 01:22:46,910
+%% do you, do you, do you?       
+
+1518
+01:22:46,911 --> 01:22:50,780
+     %% do you wanna dance?      
+
+1519
+01:22:50,781 --> 01:22:53,316
+%% do you, do you, do you,       
+do you wanna dance?             
+
+1520
+01:22:53,317 --> 01:22:56,119
+    %% do you, do you, do you,   
+    do you wanna dance?         
+
+1521
+01:22:56,120 --> 01:22:57,370
+%% do you, do you, do you?       
+
+1522
+01:22:57,371 --> 01:23:01,173
+    %% do you wanna dance? %%     
+
+1523
+01:23:07,047 --> 01:23:09,682
+           <i>(cheering) </i>          
+
+1524
+01:23:18,591 --> 01:23:21,427
+         Attention!             
+         Give it to me.         
+
+1525
+01:23:21,428 --> 01:23:23,195
+      Attention, students.      
+
+1526
+01:23:24,815 --> 01:23:26,149
+ <i>(Togar)</i> attention, students.   
+
+1527
+01:23:26,150 --> 01:23:28,751
+Hey, quiet!                     
+Quiet, everybody! Listen!       
+
+1528
+01:23:28,752 --> 01:23:32,655
+        This is your principal -
+        Miss Evelyn Togar!      
+
+1529
+01:23:32,656 --> 01:23:35,391
+                I wanna speak   
+                to Riff Randell.
+
+1530
+01:23:35,392 --> 01:23:38,728
+        Quiet! Come on.         
+        Into my office.         
+
+1531
+01:23:38,729 --> 01:23:40,763
+             I don't think      
+             it's working.      
+
+1532
+01:23:40,764 --> 01:23:42,966
+I know how to...                
+You don't think it's working?   
+
+1533
+01:23:42,967 --> 01:23:46,602
+     Start talking, Togar.      
+     It's your dime.            
+
+1534
+01:23:46,603 --> 01:23:50,139
+Ok, Randell. I know we've had   
+our differences in the past,    
+
+1535
+01:23:50,140 --> 01:23:52,975
+  But I think it's time we tried
+  to understand one another.    
+
+1536
+01:23:52,976 --> 01:23:55,461
+I think the problem is clear.   
+
+1537
+01:23:55,462 --> 01:23:59,165
+        I am a reasonable,      
+        well-educated, mature   
+        adult member of society,
+
+1538
+01:23:59,166 --> 01:24:04,370
+        And you are a spoiled   
+        heathen punk who has    
+        taken over my school.   
+
+1539
+01:24:04,371 --> 01:24:06,738
+           <i>(applause) </i>          
+
+1540
+01:24:14,047 --> 01:24:16,248
+So let's make a deal.           
+
+1541
+01:24:16,249 --> 01:24:19,585
+I can have you expelled         
+and turned over to the police.  
+
+1542
+01:24:19,586 --> 01:24:22,154
+But I'm gonna                   
+forget about that               
+
+1543
+01:24:22,155 --> 01:24:25,157
+And just put one black Mark     
+on your permanent record        
+
+1544
+01:24:25,158 --> 01:24:27,877
+That will follow you throughout 
+the rest of your life...        
+
+1545
+01:24:27,878 --> 01:24:30,062
+          <i>(all murmur) </i>         
+
+1546
+01:24:30,063 --> 01:24:32,998
+  ...If you'll just             
+  come out of there right now.  
+
+1547
+01:24:32,999 --> 01:24:36,185
+         <i>(all protest) </i>         
+
+1548
+01:24:36,186 --> 01:24:40,756
+I don't think one more          
+black Mark is gonna make        
+too much of a difference.       
+
+1549
+01:24:40,757 --> 01:24:44,827
+Eaglebauer, your partner,       
+comes through again.            
+        All right.              
+
+1550
+01:24:48,298 --> 01:24:50,466
+   <i>(screams) </i>                   
+
+1551
+01:24:50,467 --> 01:24:54,904
+Here's what I think about       
+your school records, Togar!     
+
+1552
+01:24:54,905 --> 01:24:58,941
+     You handled that very well,
+     Miss Togar.                
+
+1553
+01:25:06,717 --> 01:25:09,017
+              What's that?      
+
+1554
+01:25:09,018 --> 01:25:11,587
+I don't know. I...              
+
+1555
+01:25:11,588 --> 01:25:13,522
+          Miss Togar!           
+
+1556
+01:25:13,523 --> 01:25:16,092
+         <i>(both yelling) </i>        
+
+1557
+01:25:24,835 --> 01:25:29,438
+Well, now they've done it.      
+Destroying government property. 
+
+1558
+01:25:29,439 --> 01:25:32,942
+    I think ya failed,          
+    Miss Togar. I think we're   
+    gonna have to do it my way. 
+
+1559
+01:25:32,943 --> 01:25:35,511
+I think you're right.           
+
+1560
+01:25:35,512 --> 01:25:38,514
+Randell, I just talked          
+to the chief of police.         
+
+1561
+01:25:38,515 --> 01:25:41,918
+You're not out in five minutes, 
+he's going to Storm             
+the building.                   
+
+1562
+01:25:41,919 --> 01:25:43,752
+Well, you heard it, folks.      
+
+1563
+01:25:43,753 --> 01:25:46,989
+     Miss Togar has just        
+     given the students         
+     of rock-'n'-roll high      
+
+1564
+01:25:46,990 --> 01:25:48,324
+         An ultimatum.          
+
+1565
+01:25:48,325 --> 01:25:52,394
+A classic confrontation         
+between mindless authority      
+
+1566
+01:25:52,395 --> 01:25:54,730
+    And the rebellious          
+    nature of youth.            
+
+1567
+01:25:54,731 --> 01:25:58,000
+     The moment of truth        
+     is at hand. What will      
+     these kids do next?        
+
+1568
+01:26:20,123 --> 01:26:22,091
+Boy, this sure is               
+rock-'n'-roll high school.      
+
+1569
+01:26:22,092 --> 01:26:24,994
+    Yeah, we liked it so much,  
+    we're gonna play it         
+    on our next album.          
+
+1570
+01:26:24,995 --> 01:26:28,797
+    To show our appreciation,   
+    we're gonna make you        
+    an honorary Ramone.         
+
+1571
+01:26:28,798 --> 01:26:31,417
+      <i>(students cheering) </i>      
+
+1572
+01:26:31,418 --> 01:26:33,219
+          <i>(girl yells) </i>         
+
+1573
+01:26:34,687 --> 01:26:37,623
+    Hey, guys, people say       
+    that your music is loud     
+
+1574
+01:26:37,624 --> 01:26:40,510
+      And destructive           
+      and lethal to mice,       
+
+1575
+01:26:40,511 --> 01:26:43,763
+  But I think you're            
+  the Beethovens of our time.   
+
+1576
+01:26:43,764 --> 01:26:45,731
+            That was a good one,
+            Mr. Mcgree.         
+
+1577
+01:26:56,009 --> 01:26:58,944
+     <i>(timer ticking) </i>           
+
+1578
+01:27:08,488 --> 01:27:10,823
+            Kate, is it a go?   
+         It's a go.             
+
+1579
+01:27:10,824 --> 01:27:13,559
+        All right!              
+        Everybody follow me.    
+        We're gonna evacuate.   
+
+1580
+01:27:13,560 --> 01:27:15,978
+              I guess we should 
+              rush the building.
+
+1581
+01:27:17,814 --> 01:27:19,048
+    Not so fast. Look.          
+
+1582
+01:27:23,486 --> 01:27:24,653
+        They're coming out.     
+
+1583
+01:27:27,257 --> 01:27:28,657
+        It's over.              
+
+1584
+01:27:28,658 --> 01:27:30,459
+            We won.             
+
+1585
+01:27:31,345 --> 01:27:34,146
+     Ladies and gentlemen,      
+     school is out.             
+
+1586
+01:27:34,147 --> 01:27:37,583
+It appears as if the final bell 
+has rung for these students.    
+
+1587
+01:27:37,584 --> 01:27:40,052
+Has Riff Randell given up?      
+
+1588
+01:27:40,053 --> 01:27:42,221
+    Has she and her             
+    fellow classmates           
+
+1589
+01:27:42,222 --> 01:27:45,257
+      Failed Miss Togar’s       
+      final exam?               
+
+1590
+01:27:45,258 --> 01:27:47,993
+     Is this the end            
+     of rock-'n'-roll high?     
+
+1591
+01:27:47,994 --> 01:27:51,397
+    Just what do you            
+    have to say for yourself,   
+    young lady?                 
+
+1592
+01:27:51,398 --> 01:27:54,700
+     I have seen the errors     
+     of my ways.                
+
+1593
+01:27:54,701 --> 01:27:58,837
+I'd just like to say            
+to all students everywhere      
+
+1594
+01:27:58,838 --> 01:28:02,175
+ That you may think the school  
+ is yours for a while,          
+
+1595
+01:28:02,176 --> 01:28:06,245
+    But it's always             
+    run by the principal        
+    and her administration.     
+
+1596
+01:28:06,246 --> 01:28:07,680
+             That's nice.       
+
+1597
+01:28:07,681 --> 01:28:10,249
+Vince Lombardi high is...       
+
+1598
+01:28:10,250 --> 01:28:13,636
+  Is your school, Miss Togar,   
+
+1599
+01:28:13,637 --> 01:28:15,571
+      So you can have it.       
+
+1600
+01:28:15,572 --> 01:28:18,891
+Well, I'm very happy to see     
+that you've come to your senses.
+
+1601
+01:28:18,892 --> 01:28:21,194
+  And what would you have done  
+  with the school, anyway?      
+
+1602
+01:28:21,195 --> 01:28:24,480
+Rock the roof off it.           
+Hit it, Marky!                  
+
+1603
+01:28:26,883 --> 01:28:31,587
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+1604
+01:28:31,588 --> 01:28:34,890
+      %% well, I don't care      
+      about history             
+
+1605
+01:28:34,891 --> 01:28:36,992
+%% rock, rock,                   
+rock 'n' roll high school       
+
+1606
+01:28:36,993 --> 01:28:39,962
+%% 'cause that's not where       
+I wanna be...                   
+
+1607
+01:28:39,963 --> 01:28:42,415
+         It's so loud.          
+
+1608
+01:28:42,416 --> 01:28:44,717
+ %% I just wanna have some kicks 
+
+1609
+01:28:44,718 --> 01:28:47,220
+        %% I just wanna          
+        get some chicks         
+
+1610
+01:28:47,221 --> 01:28:51,290
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+1611
+01:28:51,291 --> 01:28:54,360
+  %% well, the girls out there   
+  knock me out, you know        
+
+1612
+01:28:54,361 --> 01:28:56,729
+%% rock, rock,                   
+rock 'n' roll high school       
+
+1613
+01:28:56,730 --> 01:28:59,432
+  %% cruisin' around in my GTO   
+
+1614
+01:28:59,433 --> 01:29:01,900
+%% rock, rock,                   
+rock 'n' roll high school       
+
+1615
+01:29:01,901 --> 01:29:04,437
+     %% I hate the teachers      
+     and the principal          
+
+1616
+01:29:04,438 --> 01:29:06,905
+    %% don't wanna be taught     
+    to be no fool...            
+
+1617
+01:29:06,906 --> 01:29:09,542
+                 Those Ramones  
+                 are peculiar.  
+      They're ugly...           
+
+1618
+01:29:09,543 --> 01:29:11,661
+    Ugly, ugly people.          
+
+1619
+01:29:14,614 --> 01:29:17,516
+%% fun, fun,                     
+rock 'n' roll high school       
+
+1620
+01:29:17,517 --> 01:29:19,685
+  %% fun, fun,                   
+  rock 'n' roll high school     
+
+1621
+01:29:19,686 --> 01:29:22,187
+%% fun, fun,                     
+rock 'n' roll high school       
+
+1622
+01:29:22,188 --> 01:29:24,790
+      %% fun, fun, oh, baby      
+
+1623
+01:29:24,791 --> 01:29:27,293
+     %% fun, fun, oh, baby       
+
+1624
+01:29:27,294 --> 01:29:29,795
+      %% fun, fun, fun, fun      
+
+1625
+01:29:29,796 --> 01:29:32,197
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+1626
+01:29:32,198 --> 01:29:34,800
+    %% rock, rock, rock, rock,   
+    rock 'n' roll high school   
+
+1627
+01:29:34,801 --> 01:29:37,469
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+1628
+01:29:40,206 --> 01:29:42,675
+      %% well, I don't care      
+      about history             
+
+1629
+01:29:42,676 --> 01:29:44,677
+%% rock, rock,                   
+rock 'n' roll high school       
+
+1630
+01:29:44,678 --> 01:29:47,579
+%% 'cause that's not where       
+I wanna be                      
+
+1631
+01:29:47,580 --> 01:29:50,199
+%% rock, rock,                   
+rock 'n' roll high school       
+
+1632
+01:29:50,200 --> 01:29:52,485
+ %% I just wanna have some kicks 
+
+1633
+01:29:52,486 --> 01:29:54,970
+        %% I just wanna          
+        get some chicks         
+              this is wrong.    
+
+1634
+01:29:54,971 --> 01:29:57,506
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+1635
+01:29:57,507 --> 01:29:59,975
+  %% rock, rock, rock, rock,     
+  rock 'n' roll high school     
+
+1636
+01:30:02,695 --> 01:30:05,297
+%% fun, fun,                     
+rock 'n' roll high school       
+
+1637
+01:30:05,298 --> 01:30:07,966
+  %% fun, fun,                   
+  rock 'n' roll high school     
+hey, my man.                    
+
+1638
+01:30:07,967 --> 01:30:10,269
+What can I do for ya?           
+
+1639
+01:30:10,270 --> 01:30:12,938
+      %% fun, fun, oh, baby      
+
+1640
+01:30:12,939 --> 01:30:15,307
+     %% fun, fun, oh, baby       
+
+1641
+01:30:15,308 --> 01:30:17,510
+      %% fun, fun, fun, fun      
+
+1642
+01:30:17,511 --> 01:30:20,329
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+1643
+01:30:20,330 --> 01:30:22,681
+    %% rock, rock, rock, rock,   
+    rock 'n' roll high school   
+
+1644
+01:30:22,682 --> 01:30:25,351
+%% rock, rock, rock, rock,       
+rock 'n' roll high school       
+
+1645
+01:30:25,352 --> 01:30:28,070
+  %% rock, rock, rock, rock,     
+  rock 'n' roll high school %%   
+
+1646
+01:30:28,071 --> 01:30:29,921
+       <i>(students cheering)</i>      
+
+1647
+01:30:45,338 --> 01:30:47,206
+    Yay!                        
+
+1648
+01:30:47,207 --> 01:30:51,877
+      Detention. Detention.     
+      Detention. Detention.     
+
+1649
+01:30:51,878 --> 01:30:56,515
+  Well, that about wraps it up  
+  here at rock-'n'-roll high.   
+
+1650
+01:30:56,516 --> 01:31:00,685
+  Remember, if your principal   
+  ever gives you trouble        
+
+1651
+01:31:00,686 --> 01:31:04,356
+  And you want this to happen   
+  at your school,               
+
+1652
+01:31:04,357 --> 01:31:07,393
+    You just give old           
+    screamin' Steve a call.     
+
+1653
+01:31:07,394 --> 01:31:11,430
+    I'm in the book             
+    under "screamin'"!          
+
+1654
+01:31:13,866 --> 01:31:16,535
+      <i>%% well, I don't care</i>      
+      <i>about history</i>             
+
+1655
+01:31:16,536 --> 01:31:19,271
+ <i>%% rock, rock,</i>                  
+ <i>rock 'n' roll high school</i>      
+
+1656
+01:31:19,272 --> 01:31:21,806
+ <i>%% 'cause that's not where</i>      
+ <i>I wanna be</i>                     
+
+1657
+01:31:21,807 --> 01:31:24,410
+ <i>%% rock, rock,</i>                  
+ <i>rock 'n' roll high school</i>      
+
+1658
+01:31:24,411 --> 01:31:26,678
+ <i>%% I just wanna have some kicks</i> 
+
+1659
+01:31:26,679 --> 01:31:29,314
+         <i>%% I just wanna</i>         
+         <i>get some chicks</i>        
+
+1660
+01:31:29,315 --> 01:31:33,352
+ <i>%% rock, rock, rock, rock,</i>      
+ <i>rock 'n' roll high school</i>      
+
+1661
+01:31:33,353 --> 01:31:36,422
+   <i>%% well, the girls out there</i>  
+   <i>knock me out, you know</i>       
+
+1662
+01:31:36,423 --> 01:31:38,957
+ <i>%% rock, rock,</i>                  
+ <i>rock 'n' roll high school</i>      
+
+1663
+01:31:38,958 --> 01:31:41,593
+   <i>%% cruisin' around in my GTO</i>  
+
+1664
+01:31:41,594 --> 01:31:43,862
+ <i>%% rock, rock,</i>                  
+ <i>rock 'n' roll high school</i>      
+
+1665
+01:31:43,863 --> 01:31:46,331
+      <i>%% I hate the teachers</i>     
+      <i>and the principal</i>         
+
+1666
+01:31:46,332 --> 01:31:49,134
+     <i>%% don't wanna be taught</i>    
+     <i>to be no fool</i>              
+
+1667
+01:31:49,135 --> 01:31:51,603
+ <i>%% rock, rock, rock, rock,</i>      
+ <i>rock 'n' roll high school</i>      
+
+1668
+01:31:51,604 --> 01:31:54,373
+   <i>%% rock, rock, rock, rock,</i>    
+   <i>rock 'n' roll high school</i>    
+
+1669
+01:31:57,009 --> 01:31:59,311
+ <i>%% fun, fun,</i>                    
+ <i>rock 'n' roll high school</i>      
+
+1670
+01:31:59,312 --> 01:32:01,913
+   <i>%% fun, fun,</i>                  
+   <i>rock 'n' roll high school</i>    
+
+1671
+01:32:01,914 --> 01:32:04,616
+ <i>%% fun, fun,</i>                    
+ <i>rock 'n' roll high school</i>      
+
+1672
+01:32:04,617 --> 01:32:06,851
+      <i>%% fun, fun, oh, baby</i>      
+
+1673
+01:32:06,852 --> 01:32:09,288
+       <i>%% fun, fun, oh, baby</i>     
+
+1674
+01:32:09,289 --> 01:32:11,823
+      <i>%% fun, fun, fun, fun</i>      
+
+1675
+01:32:11,824 --> 01:32:14,326
+ <i>%% rock, rock, rock, rock,</i>      
+ <i>rock 'n' roll high school</i>      
+
+1676
+01:32:14,327 --> 01:32:16,795
+     <i>%% rock, rock, rock, rock,</i>  
+     <i>rock 'n' roll high school</i>  
+
+1677
+01:32:16,796 --> 01:32:19,864
+ <i>%% rock, rock, rock, rock,</i>      
+ <i>rock 'n' roll high school</i>      
+
+1678
+01:32:21,901 --> 01:32:24,636
+         <i>%% I don't care</i>         
+         <i>about history</i>          
+
+1679
+01:32:24,637 --> 01:32:27,072
+ <i>%% rock, rock,</i>                  
+ <i>rock 'n' roll high school</i>      
+
+1680
+01:32:27,073 --> 01:32:29,641
+ <i>%% 'cause that's not where</i>      
+ <i>I wanna be</i>                     
+
+1681
+01:32:29,642 --> 01:32:32,010
+ <i>%% rock, rock,</i>                  
+ <i>rock 'n' roll high school</i>      
+
+1682
+01:32:32,011 --> 01:32:34,580
+ <i>%% I just wanna have some kicks</i> 
+
+1683
+01:32:34,581 --> 01:32:36,948
+         <i>%% I just wanna</i>         
+         <i>get some chicks</i>        
+
+1684
+01:32:36,949 --> 01:32:39,718
+ <i>%% rock, rock, rock, rock,</i>      
+ <i>rock 'n' roll high school</i>      
+
+1685
+01:32:39,719 --> 01:32:42,321
+   <i>%% rock, rock, rock, rock,</i>    
+   <i>rock 'n' roll high school</i>    
+
+1686
+01:32:44,924 --> 01:32:47,392
+ <i>%% fun, fun,</i>                    
+ <i>rock 'n' roll high school</i>      
+
+1687
+01:32:47,393 --> 01:32:49,928
+   <i>%% fun, fun,</i>                  
+   <i>rock 'n' roll high school</i>    
+
+1688
+01:32:49,929 --> 01:32:52,431
+ <i>%% fun, fun,</i>                    
+ <i>rock 'n' roll high school</i>      
+
+1689
+01:32:52,432 --> 01:32:54,933
+      <i>%% fun, fun, oh, baby</i>      
+
+1690
+01:32:54,934 --> 01:32:57,336
+       <i>%% fun, fun, oh, baby</i>     
+
+1691
+01:32:57,337 --> 01:32:59,938
+      <i>%% fun, fun, fun, fun</i>      
+
+1692
+01:32:59,939 --> 01:33:02,374
+ <i>%% rock, rock, rock, rock,</i>      
+ <i>rock 'n' roll high school</i>      
+
+1693
+01:33:02,375 --> 01:33:04,976
+     <i>%% rock, rock, rock, rock,</i>  
+     <i>rock 'n' roll high school</i>  
+
+1694
+01:33:04,977 --> 01:33:07,579
+ <i>%% rock, rock, rock, rock,</i>      
+ <i>rock 'n' roll high school</i>      
+
+1695
+01:33:07,580 --> 01:33:10,115
+   <i>%% rock, rock, rock, rock,</i>    
+   <i>rock 'n' roll high school %%</i>  
+
+1696
+01:33:19,800 --> 01:33:21,115
+---the end---
+

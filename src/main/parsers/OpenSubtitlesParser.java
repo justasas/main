@@ -21,6 +21,7 @@ import java.util.regex.Pattern;
 
 import com.thoughtworks.selenium.Selenium;
 
+import main.Main;
 import main.SubtitleFile;
 import main.SubtitlesUtils;
 import main.Utils;
@@ -34,6 +35,9 @@ public class OpenSubtitlesParser {
 	private final String SUBTITLES_FOLDER = "subtitles/subscene/";
 	private final int MAXIMUM_MOVIES_TO_CHECK = 1;
 	private final int MAXIMUM_SUBTITLES_TO_DOWNLOAD_FOR_A_MOVIE = 3;
+	private Utils utils = new Utils();
+
+	private static org.apache.log4j.Logger logger = org.apache.log4j.Logger.getLogger(OpenSubtitlesParser.class);
 
 	// static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
 	// static final String DB_URL =
@@ -57,12 +61,12 @@ public class OpenSubtitlesParser {
 
 			String movieSubtitlesFolder = SUBTITLES_FOLDER + title + File.separator;
 			String extension = "srt";
-			String[] srtFiles = filterFolderByExtension(movieSubtitlesFolder, extension);
+			String[] srtFiles = utils.filterFolderByExtension(movieSubtitlesFolder, extension);
 
 			for (int srtIndex = 0; srtIndex < srtFiles.length; srtIndex++) {
 				BufferedReader reader = new BufferedReader(new FileReader(movieSubtitlesFolder + srtFiles[srtIndex]));
 
-				SubtitleFile subtitles = new SubtitleFile(SubtitlesUtils.parseSubtitles(reader), srtFiles[srtIndex]);
+				SubtitleFile subtitles = new SubtitleFile(SubtitlesUtils.parseSubtitles(reader), srtFiles[srtIndex], movieSubtitlesFolder + srtFiles[srtIndex]);
 
 				ret.add(subtitles);
 			}
@@ -192,7 +196,15 @@ public class OpenSubtitlesParser {
 						String downloadLink = parseDownloadLink(subtitlesDownloadPage);
 
 						downloadFile(URL + downloadLink, tempSubtitlesFilePath);
+
+						int filesCountBeforeUnzip = utils.filterFolderByExtension(subtitlesFilePath, "srt").length;
 						unzipSourceToDestination(tempSubtitlesFilePath, subtitlesFilePath);
+						int filesCountAfterUnzip = utils.filterFolderByExtension(subtitlesFilePath, "srt").length;
+
+						if((filesCountAfterUnzip - filesCountBeforeUnzip) > 1)
+						{
+							logger.debug("unziped more than one file");
+						}
 					}
 
 				} else
@@ -248,18 +260,6 @@ public class OpenSubtitlesParser {
 
 	}
 
-	private String[] filterFolderByExtension(String folder, String extension) {
-		File dir = new File(folder);
-		if (dir.isDirectory() == false) {
-			System.out.println("Directory does not exists : " + folder);
-			return null;
-		}
-
-		GenericExtFilter filter = new GenericExtFilter(extension);
-		String[] list = dir.list(filter);
-		return list;
-	}
-
 	private void unzipSourceToDestination(String source, String destination) {
 
 		try {
@@ -269,6 +269,7 @@ public class OpenSubtitlesParser {
 			// zipFile.setPassword(password);
 			// }
 			zipFile.extractAll(destination);
+
 		} catch (ZipException e) {
 			e.printStackTrace();
 		}
@@ -288,21 +289,6 @@ public class OpenSubtitlesParser {
 			OutputStreamWriter out = new OutputStreamWriter(httpcon.getOutputStream(), "UTF-8");
 			out.close();
 		} catch (Exception e) {
-		}
-	}
-
-	// inner class, generic extension filter
-	public class GenericExtFilter implements FilenameFilter {
-
-		private String ext;
-
-		public GenericExtFilter(String ext) {
-			this.ext = ext;
-		}
-
-		@Override
-		public boolean accept(File dir, String name) {
-			return (name.endsWith(ext));
 		}
 	}
 

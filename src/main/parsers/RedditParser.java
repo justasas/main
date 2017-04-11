@@ -37,7 +37,7 @@ public class RedditParser {
 
 	public List<Movie> start() {
 		BasicConfigurator.configure();
-		List<Movie> movies = parseAllPages("https://www.reddit.com/r/fullmoviesonyoutube/?count=200&after=t3_5vfcdn");
+		List<Movie> movies = parseAllPages("https://www.reddit.com/r/fullmoviesonyoutube/");
 		Iterator<Movie> iterator = movies.iterator();
 		while (iterator.hasNext()) {
 			if (existingMovies.contains(iterator.next().getYoutubeId()))

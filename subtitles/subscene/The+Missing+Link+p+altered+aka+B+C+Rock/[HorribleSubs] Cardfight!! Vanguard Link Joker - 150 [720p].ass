@@ -1,0 +1,277 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Title,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00A0587F,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,20,65,100,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+Style: Song Subtitles,A-OTF Maru Folk Pro H,26,&H00ECECFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,10,10,5,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.98,0:00:05.59,Main Dialog,,0000,0000,0000,,Break through all bindings and descend!
+Dialogue: 0,0:00:05.59,0:00:07.80,Main Dialog,,0000,0000,0000,,My strongest avatar of savage lightning!
+Dialogue: 0,0:00:08.57,0:00:11.69,Main Dialog,,0000,0000,0000,,Break ride!
+Dialogue: 0,0:00:14.17,0:00:16.68,Main Dialog,,0000,0000,0000,,Eradicator, Tempest Bolt Dragon!
+Dialogue: 0,0:00:20.24,0:00:23.56,Main Dialog,,0000,0000,0000,,As long as I have this deck, I ain't alone.
+Dialogue: 0,0:00:24.83,0:00:25.87,Main Dialog,,0000,0000,0000,,Granny Glasses...
+Dialogue: 0,0:00:26.61,0:00:28.86,Main Dialog,,0000,0000,0000,,The real Shingo and I \Nare gonna fight together!
+Dialogue: 0,0:00:30.94,0:00:34.43,Main Dialog,,0000,0000,0000,,And I'm definitely gonna beat you!
+Dialogue: 0,0:02:14.22,0:02:16.74,Main Dialog,,0000,0000,0000,,Here I go! Break ride skill!
+Dialogue: 0,0:02:22.66,0:02:26.04,Main Dialog,,0000,0000,0000,,On top of that, I'm knockin' two of \Nyour units for a loop with this skill!
+Dialogue: 0,0:02:32.71,0:02:36.42,Main Dialog,,0000,0000,0000,,And then Tempest Bolt Dragon's skill!
+Dialogue: 0,0:02:40.59,0:02:44.18,Main Dialog,,0000,0000,0000,,This skill gives it +2000 power \Nfor every rear-guard circle
+Dialogue: 0,0:02:44.60,0:02:46.19,Main Dialog,,0000,0000,0000,,that doesn't have a unit!
+Dialogue: 0,0:02:47.71,0:02:50.01,Main Dialog,,0000,0000,0000,,There are four empty rear-guard circles.
+Dialogue: 0,0:02:50.44,0:02:53.96,Main Dialog,,0000,0000,0000,,And not only his own, but his \Nopponent's circles count, too!
+Dialogue: 0,0:02:54.61,0:02:59.11,Main Dialog,,0000,0000,0000,,Eradicator, Tempest Bolt \NDragon's power is 29000.
+Dialogue: 0,0:03:00.10,0:03:01.71,Main Dialog,,0000,0000,0000,,What tremendous power...
+Dialogue: 0,0:03:03.12,0:03:06.85,Main Dialog,,0000,0000,0000,,I knock out my enemy's units and \Npower up with their empty spaces!
+Dialogue: 0,0:03:07.36,0:03:10.87,Main Dialog,,0000,0000,0000,,This is lightning that announces the \Narrival of my enemy's destruction!
+Dialogue: 0,0:03:11.42,0:03:14.06,Main Dialog,,0000,0000,0000,,Voltaic Kaiser Thunderbolt!
+Dialogue: 0,0:03:16.84,0:03:18.76,Main Dialog,,0000,0000,0000,,To get you back to normal...
+Dialogue: 0,0:03:19.54,0:03:22.02,Main Dialog,,0000,0000,0000,,So we can fight again, \Nshoulder to shoulder...
+Dialogue: 0,0:03:22.71,0:03:26.14,Main Dialog,,0000,0000,0000,,Let this attack bring \Nyou to your senses, Shingo!
+Dialogue: 0,0:04:03.45,0:04:04.39,Main Dialog,,0000,0000,0000,,Shingo!
+Dialogue: 0,0:04:06.45,0:04:07.51,Main Dialog,,0000,0000,0000,,You guys help, too!
+Dialogue: 0,0:04:07.72,0:04:09.02,Main Dialog,,0000,0000,0000,,R-Right!
+Dialogue: 0,0:04:10.52,0:04:15.52,Signs,,0000,0000,0000,,Smash Through Everything!
+Dialogue: 0,0:04:20.47,0:04:22.97,Main Dialog,,0000,0000,0000,,It's raining buckets out there.
+Dialogue: 0,0:04:23.28,0:04:26.84,Main Dialog,,0000,0000,0000,,Yes. It's like the English expression,
+Dialogue: 0,0:04:26.84,0:04:28.97,Main Dialog,,0000,0000,0000,,"When it rains, it pours."
+Dialogue: 0,0:04:33.04,0:04:33.77,Main Dialog,,0000,0000,0000,,Shingo!
+Dialogue: 0,0:04:34.48,0:04:37.05,Main Dialog,,0000,0000,0000,,You jerk! You made me worry about you!
+Dialogue: 0,0:04:43.28,0:04:44.60,Main Dialog,,0000,0000,0000,,Tears...
+Dialogue: 0,0:04:46.33,0:04:49.06,Main Dialog,,0000,0000,0000,,Idiot! It's just rain!
+Dialogue: 0,0:04:50.64,0:04:54.71,Main Dialog,,0000,0000,0000,,Don't talk nonsense! Like I'd \Ncry over somethin' like this!
+Dialogue: 0,0:04:56.08,0:04:58.50,Main Dialog,,0000,0000,0000,,Thank you, delinquent wannabe...
+Dialogue: 0,0:05:00.58,0:05:03.81,Main Dialog,,0000,0000,0000,,I feel like I ought to tell you that.
+Dialogue: 0,0:05:06.66,0:05:08.24,Main Dialog,,0000,0000,0000,,N-Nothin'!
+Dialogue: 0,0:05:08.73,0:05:10.46,Main Dialog,,0000,0000,0000,,That's friendship.
+Dialogue: 0,0:05:10.46,0:05:15.71,Main Dialog,,0000,0000,0000,,Yeah. It's the same all over the world. \NThat's what I call a global standard!
+Dialogue: 0,0:05:17.96,0:05:19.00,Main Dialog,,0000,0000,0000,,Good grief.
+Dialogue: 0,0:05:24.55,0:05:25.47,Main Dialog,,0000,0000,0000,,This is...
+Dialogue: 0,0:05:26.48,0:05:27.51,Main Dialog,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:05:28.03,0:05:29.66,Main Dialog,,0000,0000,0000,,That's right. This is where...
+Dialogue: 0,0:05:30.90,0:05:33.51,Main Dialog,,0000,0000,0000,,...I followed her that day.
+Dialogue: 0,0:05:53.35,0:05:53.94,Main Dialog,,0000,0000,0000,,Hey!
+Dialogue: 0,0:05:54.14,0:05:55.02,Main Dialog,,0000,0000,0000,,Ishida?
+Dialogue: 0,0:05:55.63,0:05:56.81,Main Dialog,,0000,0000,0000,,Ishida?
+Dialogue: 0,0:06:10.96,0:06:14.78,Main Dialog,,0000,0000,0000,,Sendou... It seems you don't realize it,
+Dialogue: 0,0:06:14.78,0:06:16.99,Main Dialog,,0000,0000,0000,,but your heart is locked.
+Dialogue: 0,0:06:18.36,0:06:19.99,Main Dialog,,0000,0000,0000,,My heart is locked?
+Dialogue: 0,0:06:20.89,0:06:25.62,Main Dialog,,0000,0000,0000,,The usual hot wind didn't \Nrise from Blaster Blade.
+Dialogue: 0,0:06:26.57,0:06:29.29,Main Dialog,,0000,0000,0000,,You're troubled by the \Nthought of fighting Kai.
+Dialogue: 0,0:06:29.92,0:06:31.80,Main Dialog,,0000,0000,0000,,Your heart is locked!
+Dialogue: 0,0:06:32.67,0:06:36.08,Main Dialog,,0000,0000,0000,,Until you unlock it, \Nvictory will not be yours!
+Dialogue: 0,0:06:39.27,0:06:40.32,Main Dialog,,0000,0000,0000,,Troubled?
+Dialogue: 0,0:06:41.72,0:06:42.67,Main Dialog,,0000,0000,0000,,Me?
+Dialogue: 0,0:06:50.81,0:06:53.75,Main Dialog,,0000,0000,0000,,Naoki and Shingo aren't here?
+Dialogue: 0,0:06:54.52,0:06:57.70,Main Dialog,,0000,0000,0000,,Yeah. I haven't seen them \Nsince they left yesterday.
+Dialogue: 0,0:06:58.47,0:06:59.96,Main Dialog,,0000,0000,0000,,Where did they go?
+Dialogue: 0,0:07:02.12,0:07:06.95,Main Dialog,,0000,0000,0000,,I bet those two are trying \Nto do something on their own.
+Dialogue: 0,0:07:08.97,0:07:10.74,Main Dialog,,0000,0000,0000,,Don't tell me they went to Takuto's place?!
+Dialogue: 0,0:07:11.33,0:07:15.37,Main Dialog,,0000,0000,0000,,That, or even closer to home \Nto beat Reversed fighters.
+Dialogue: 0,0:07:29.41,0:07:30.39,Main Dialog,,0000,0000,0000,,What's this?
+Dialogue: 0,0:07:30.39,0:07:31.94,Main Dialog,,0000,0000,0000,,Just a wall.
+Dialogue: 0,0:07:32.93,0:07:35.35,Main Dialog,,0000,0000,0000,,I think she did this...
+Dialogue: 0,0:07:49.47,0:07:52.40,Main Dialog,,0000,0000,0000,,It seems you've recalled \Nwhat happened, Naoki Ishida.
+Dialogue: 0,0:07:53.21,0:07:54.44,Main Dialog,,0000,0000,0000,,Nagashiro!
+Dialogue: 0,0:07:55.02,0:07:58.68,Main Dialog,,0000,0000,0000,,You're the one who Reversed me back then!
+Dialogue: 0,0:08:12.80,0:08:16.83,Main Dialog,,0000,0000,0000,,I'm also the one who Reversed \NShingo Komoi there.
+Dialogue: 0,0:08:17.51,0:08:18.34,Main Dialog,,0000,0000,0000,,You jerk!
+Dialogue: 0,0:08:18.75,0:08:21.14,Main Dialog,,0000,0000,0000,,I'll Reverse you once more.
+Dialogue: 0,0:08:22.13,0:08:25.60,Main Dialog,,0000,0000,0000,,Shingo Komoi, too. \NAnd then... after that...
+Dialogue: 0,0:08:26.20,0:08:29.66,Main Dialog,,0000,0000,0000,,President, Vice President... \NIt'll be your turn!
+Dialogue: 0,0:08:30.96,0:08:33.60,Main Dialog,,0000,0000,0000,,L-Let's talk about this! We can talk it out!
+Dialogue: 0,0:08:34.22,0:08:37.04,Main Dialog,,0000,0000,0000,,You ain't gonna be able to \NReverse anyone ever again!
+Dialogue: 0,0:08:37.51,0:08:39.56,Main Dialog,,0000,0000,0000,,'Cause I'm gonna beat you!
+Dialogue: 0,0:08:41.02,0:08:43.31,Main Dialog,,0000,0000,0000,,Why do you dislike the idea \Nof being Reversed so much?
+Dialogue: 0,0:08:43.70,0:08:44.52,Main Dialog,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:44.88,0:08:48.46,Main Dialog,,0000,0000,0000,,Link Joker will take away \Nyour pain and sadness.
+Dialogue: 0,0:08:48.46,0:08:50.78,Main Dialog,,0000,0000,0000,,Huh?! I don't know what \Nyou're goin' on about!
+Dialogue: 0,0:08:51.98,0:08:56.82,Main Dialog,,0000,0000,0000,,I'm sure you'll understand as soon as \NI've Reversed you once more.
+Dialogue: 0,0:08:59.66,0:09:01.56,Main Dialog,,0000,0000,0000,,I don't wanna understand it!
+Dialogue: 0,0:09:01.93,0:09:06.50,Main Dialog,,0000,0000,0000,,If you're Reversed, I'll \Nbring you back to normal!
+Dialogue: 0,0:09:07.69,0:09:08.78,Main Dialog,,0000,0000,0000,,Fine with me.
+Dialogue: 0,0:09:17.72,0:09:19.82,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:09:24.00,0:09:25.90,Main Dialog,,0000,0000,0000,,Ambush Dragon Eradicator, Linchu!
+Dialogue: 0,0:09:26.53,0:09:28.52,Main Dialog,,0000,0000,0000,,Maiden of Physalis!
+Dialogue: 0,0:09:29.25,0:09:30.74,Main Dialog,,0000,0000,0000,,That unit is...
+Dialogue: 0,0:09:30.74,0:09:34.29,Main Dialog,,0000,0000,0000,,Isn't it from the \NBrilliant Strike booster set?
+Dialogue: 0,0:09:34.98,0:09:39.04,Main Dialog,,0000,0000,0000,,Neo-Nectar... I don't remember \Nwhat kind of fight we had,
+Dialogue: 0,0:09:40.27,0:09:41.85,Main Dialog,,0000,0000,0000,,but I'm takin' you down!
+Dialogue: 0,0:09:42.69,0:09:43.79,Main Dialog,,0000,0000,0000,,Linchu moves back!
+Dialogue: 0,0:09:44.61,0:09:47.08,Main Dialog,,0000,0000,0000,,Maiden of Cherry Stone attacks!
+Dialogue: 0,0:09:48.34,0:09:51.19,Main Dialog,,0000,0000,0000,,Thunder Boom Dragon attacks!
+Dialogue: 0,0:09:53.66,0:09:54.69,Main Dialog,,0000,0000,0000,,Iris Knight!
+Dialogue: 0,0:09:55.13,0:09:56.05,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:09:57.05,0:09:58.96,Main Dialog,,0000,0000,0000,,Maiden of Cherry Bloom!
+Dialogue: 0,0:10:04.36,0:10:07.91,Main Dialog,,0000,0000,0000,,Cherry Bloom's skill. Superior call.
+Dialogue: 0,0:10:15.58,0:10:16.46,Main Dialog,,0000,0000,0000,,What the...?!
+Dialogue: 0,0:10:17.08,0:10:20.63,Main Dialog,,0000,0000,0000,,To be precise, Link Joker is nothingness.
+Dialogue: 0,0:10:22.51,0:10:26.35,Main Dialog,,0000,0000,0000,,It spreads over everything that exists.
+Dialogue: 0,0:10:27.03,0:10:30.82,Main Dialog,,0000,0000,0000,,Like this Neo-Nectar, which has \Ngained the power of Reverse.
+Dialogue: 0,0:10:34.04,0:10:35.19,Main Dialog,,0000,0000,0000,,Disgusting!
+Dialogue: 0,0:10:37.77,0:10:40.98,Main Dialog,,0000,0000,0000,,You had the same reaction \Nwhen I Reversed you.
+Dialogue: 0,0:10:41.61,0:10:45.16,Main Dialog,,0000,0000,0000,,S-Shut up! Don't try to be cute!
+Dialogue: 0,0:10:46.10,0:10:47.72,Main Dialog,,0000,0000,0000,,Ride! Call!
+Dialogue: 0,0:10:48.99,0:10:51.12,Main Dialog,,0000,0000,0000,,I don't care how far your garden spreads,
+Dialogue: 0,0:10:51.78,0:10:54.54,Main Dialog,,0000,0000,0000,,my Eradicators are gonna mow it down!
+Dialogue: 0,0:11:04.31,0:11:08.00,Main Dialog,,0000,0000,0000,,And then, with Linchu's skill, \NI retire Corolla Dragon!
+Dialogue: 0,0:11:09.58,0:11:11.06,Main Dialog,,0000,0000,0000,,He's actually doing well!
+Dialogue: 0,0:11:11.28,0:11:12.19,Main Dialog,,0000,0000,0000,,Indeed!
+Dialogue: 0,0:11:15.36,0:11:17.69,Main Dialog,,0000,0000,0000,,Ride! And then I call.
+Dialogue: 0,0:11:19.09,0:11:21.37,Main Dialog,,0000,0000,0000,,Attack Spark Rain Dragon!
+Dialogue: 0,0:11:23.23,0:11:24.45,Main Dialog,,0000,0000,0000,,I guard with one unit!
+Dialogue: 0,0:11:27.73,0:11:28.62,Main Dialog,,0000,0000,0000,,Attack!
+Dialogue: 0,0:11:34.32,0:11:36.06,Main Dialog,,0000,0000,0000,,Guess I haven't mown enough down yet...
+Dialogue: 0,0:11:37.68,0:11:40.58,Main Dialog,,0000,0000,0000,,So... break ride!
+Dialogue: 0,0:11:41.97,0:11:44.50,Main Dialog,,0000,0000,0000,,Eradicator, Tempest Bolt Dragon!
+Dialogue: 0,0:11:46.85,0:11:49.60,Main Dialog,,0000,0000,0000,,Break ride skill! I retire two units!
+Dialogue: 0,0:11:50.76,0:11:54.18,Main Dialog,,0000,0000,0000,,This is Voltaic Kaiser Thunderbolt!
+Dialogue: 0,0:12:11.57,0:12:14.21,Main Dialog,,0000,0000,0000,,Tempest Bolt Dragon attacks!
+Dialogue: 0,0:12:23.20,0:12:23.90,Main Dialog,,0000,0000,0000,,All right!
+Dialogue: 0,0:12:25.18,0:12:30.15,Main Dialog,,0000,0000,0000,,No matter how much you struggle, \Nyou won't be able to stop this growth.
+Dialogue: 0,0:12:30.70,0:12:31.67,Main Dialog,,0000,0000,0000,,Say what?!
+Dialogue: 0,0:12:32.53,0:12:35.91,Main Dialog,,0000,0000,0000,,Life of darkness released \Nfrom the gates of Hell,
+Dialogue: 0,0:12:36.57,0:12:40.00,Main Dialog,,0000,0000,0000,,grow in abundance until \Nyou cover everything!
+Dialogue: 0,0:12:40.39,0:12:41.81,Main Dialog,,0000,0000,0000,,Break ride!
+Dialogue: 0,0:12:43.08,0:12:46.74,Main Dialog,,0000,0000,0000,,Maiden of Venus Trap "Reverse."
+Dialogue: 0,0:12:54.45,0:12:57.74,Main Dialog,,0000,0000,0000,,Break ride skill. Superior call!
+Dialogue: 0,0:13:01.81,0:13:03.96,Main Dialog,,0000,0000,0000,,The nothingness likes you.
+Dialogue: 0,0:13:04.97,0:13:07.82,Main Dialog,,0000,0000,0000,,You understand what nothingness is.
+Dialogue: 0,0:13:08.58,0:13:11.09,Main Dialog,,0000,0000,0000,,I don't know what you're sayin'!
+Dialogue: 0,0:13:11.58,0:13:14.16,Main Dialog,,0000,0000,0000,,I know what you used to be like.
+Dialogue: 0,0:13:14.45,0:13:15.32,Main Dialog,,0000,0000,0000,,What?!
+Dialogue: 0,0:13:17.27,0:13:20.71,Main Dialog,,0000,0000,0000,,You used to be a loner, right?
+Dialogue: 0,0:13:24.79,0:13:27.58,Main Dialog,,0000,0000,0000,,Miyaji is full of first-class students.
+Dialogue: 0,0:13:28.40,0:13:30.65,Main Dialog,,0000,0000,0000,,You weren't able to find anyone then...
+Dialogue: 0,0:13:31.76,0:13:34.66,Main Dialog,,0000,0000,0000,,Anyone you really wanted to meet.
+Dialogue: 0,0:13:36.59,0:13:41.47,Main Dialog,,0000,0000,0000,,When a person becomes isolated like that, \Ntheir heart embraces nothingness.
+Dialogue: 0,0:13:42.53,0:13:45.60,Main Dialog,,0000,0000,0000,,Isolation is scary. Everyone thinks so.
+Dialogue: 0,0:13:46.74,0:13:51.20,Main Dialog,,0000,0000,0000,,But the more you thought about it, \Nthe lonelier you felt.
+Dialogue: 0,0:13:52.24,0:13:54.56,Main Dialog,,0000,0000,0000,,It quickly spread throughout your heart...
+Dialogue: 0,0:13:55.35,0:13:59.67,Main Dialog,,0000,0000,0000,,Suffocating, endless darkness...
+Dialogue: 0,0:14:01.78,0:14:05.90,Main Dialog,,0000,0000,0000,,You who knows what that is \Ncannot reject Link Joker.
+Dialogue: 0,0:14:06.85,0:14:10.87,Main Dialog,,0000,0000,0000,,I understand that. \NI was the same way myself.
+Dialogue: 0,0:14:12.28,0:14:14.97,Main Dialog,,0000,0000,0000,,I felt different from everyone around me.
+Dialogue: 0,0:14:16.18,0:14:20.75,Main Dialog,,0000,0000,0000,,I came to feel that their insignificant \Nexistences were beneath me.
+Dialogue: 0,0:14:24.24,0:14:27.59,Main Dialog,,0000,0000,0000,,True, I was alone for the longest time...
+Dialogue: 0,0:14:28.86,0:14:32.56,Main Dialog,,0000,0000,0000,,And yet, I also felt \Nhopelessly lonely and empty.
+Dialogue: 0,0:14:33.86,0:14:35.93,Main Dialog,,0000,0000,0000,,Until, one day...
+Dialogue: 0,0:14:37.83,0:14:41.19,Main Dialog,,0000,0000,0000,,I'm having more trouble than \Nexpected with the Cardfight Club...
+Dialogue: 0,0:14:41.45,0:14:44.37,Main Dialog,,0000,0000,0000,,Look, dealing with them
+Dialogue: 0,0:14:44.37,0:14:46.95,Main Dialog,,0000,0000,0000,,is your job, Suwabe!
+Dialogue: 0,0:14:47.34,0:14:48.42,Main Dialog,,0000,0000,0000,,R-Right!
+Dialogue: 0,0:14:48.42,0:14:48.86,Main Dialog,,0000,0000,0000,,Yeesh.
+Dialogue: 0,0:14:57.96,0:15:00.32,Main Dialog,,0000,0000,0000,,And then I gained power.
+Dialogue: 0,0:15:00.85,0:15:05.75,Main Dialog,,0000,0000,0000,,The power to utilize my isolation \Nand the emptiness in my heart!
+Dialogue: 0,0:15:06.41,0:15:07.74,Main Dialog,,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:15:14.63,0:15:17.38,Main Dialog,,0000,0000,0000,,Okay, here I come! Attack!
+Dialogue: 0,0:15:19.45,0:15:20.31,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:15:26.94,0:15:27.73,Main Dialog,,0000,0000,0000,,Attack!
+Dialogue: 0,0:15:29.63,0:15:31.99,Main Dialog,,0000,0000,0000,,Guard! And intercept!
+Dialogue: 0,0:15:37.75,0:15:38.89,Main Dialog,,0000,0000,0000,,He held out...
+Dialogue: 0,0:15:39.01,0:15:40.82,Main Dialog,,0000,0000,0000,,But Ishida is almost...
+Dialogue: 0,0:15:45.92,0:15:48.65,Main Dialog,,0000,0000,0000,,Isolation has approached again, hasn't it?
+Dialogue: 0,0:16:12.52,0:16:14.83,Main Dialog,,0000,0000,0000,,Accept it, Naoki Ishida!
+Dialogue: 0,0:16:15.41,0:16:17.48,Main Dialog,,0000,0000,0000,,And be Reversed!
+Dialogue: 0,0:16:18.28,0:16:20.81,Main Dialog,,0000,0000,0000,,Dang it! Somebody...
+Dialogue: 0,0:16:21.76,0:16:26.15,Main Dialog,,0000,0000,0000,,And then Link Joker, which \Nreturns everything to nothingness,
+Dialogue: 0,0:16:26.15,0:16:28.98,Main Dialog,,0000,0000,0000,,will make your pain \Nand sadness go away.
+Dialogue: 0,0:16:32.02,0:16:33.21,Main Dialog,,0000,0000,0000,,Ishida...
+Dialogue: 0,0:16:36.24,0:16:37.70,Main Dialog,,0000,0000,0000,,Juvenile delinquent wannabe!
+Dialogue: 0,0:16:39.72,0:16:42.38,Main Dialog,,0000,0000,0000,,You can't let yourself get caught up in that!
+Dialogue: 0,0:16:42.77,0:16:44.74,Main Dialog,,0000,0000,0000,,Hurry up and get out of there!
+Dialogue: 0,0:16:45.16,0:16:47.30,Main Dialog,,0000,0000,0000,,Th-There's no way he can hear you...
+Dialogue: 0,0:16:47.98,0:16:50.58,Main Dialog,,0000,0000,0000,,Ishida, you're not alone now!
+Dialogue: 0,0:16:52.74,0:16:55.09,Main Dialog,,0000,0000,0000,,Everyone in the Cardfight Club is with you!
+Dialogue: 0,0:16:55.81,0:17:00.34,Main Dialog,,0000,0000,0000,,You've got Sendou! Misaki! And me!
+Dialogue: 0,0:17:03.28,0:17:06.02,Main Dialog,,0000,0000,0000,,So... So...
+Dialogue: 0,0:17:07.38,0:17:10.74,Main Dialog,,0000,0000,0000,,Thanks... Granny Glasses...
+Dialogue: 0,0:17:24.30,0:17:27.80,Main Dialog,,0000,0000,0000,,I see. This is your image.
+Dialogue: 0,0:17:28.36,0:17:32.19,Main Dialog,,0000,0000,0000,,Your image almost swallowed me up there.
+Dialogue: 0,0:17:33.14,0:17:34.50,Main Dialog,,0000,0000,0000,,You...!
+Dialogue: 0,0:17:35.45,0:17:39.98,Main Dialog,,0000,0000,0000,,You're right. I used to be alone.
+Dialogue: 0,0:17:40.71,0:17:41.75,Main Dialog,,0000,0000,0000,,But...
+Dialogue: 0,0:17:53.17,0:17:55.28,Main Dialog,,0000,0000,0000,,...I ain't alone now!
+Dialogue: 0,0:17:56.07,0:17:57.91,Main Dialog,,0000,0000,0000,,All of the rear-guards...
+Dialogue: 0,0:17:58.31,0:18:01.20,Main Dialog,,0000,0000,0000,,Not just his opponent's, \Nbut his own, too...
+Dialogue: 0,0:18:01.20,0:18:05.78,Main Dialog,,0000,0000,0000,,But with that, Tempest Bolt \NDragon's skill can be used!
+Dialogue: 0,0:18:06.13,0:18:09.23,Main Dialog,,0000,0000,0000,,Call! And skill activated!
+Dialogue: 0,0:18:13.70,0:18:15.70,Main Dialog,,0000,0000,0000,,You keep goin' on about bein' alone,
+Dialogue: 0,0:18:16.40,0:18:20.70,Main Dialog,,0000,0000,0000,,but in the first place, us Cardfighters \Nare alone when we fight.
+Dialogue: 0,0:18:21.02,0:18:22.87,Main Dialog,,0000,0000,0000,,We fight all on our own.
+Dialogue: 0,0:18:24.25,0:18:26.75,Main Dialog,,0000,0000,0000,,But in the middle of fightin',
+Dialogue: 0,0:18:26.96,0:18:30.85,Main Dialog,,0000,0000,0000,,I think the feelin's between the \Ntwo opponents are communicated.
+Dialogue: 0,0:18:31.90,0:18:35.95,Main Dialog,,0000,0000,0000,,I mean, if it ain't a fight \Nlike that, where's the fun?
+Dialogue: 0,0:18:36.78,0:18:41.46,Main Dialog,,0000,0000,0000,,It's big talk, I know, but \Nthat's what somebody told me.
+Dialogue: 0,0:18:41.87,0:18:44.18,Main Dialog,,0000,0000,0000,,A fellow member of the Cardfight Club.
+Dialogue: 0,0:18:44.69,0:18:45.82,Main Dialog,,0000,0000,0000,,Ishida...
+Dialogue: 0,0:18:46.53,0:18:48.81,Main Dialog,,0000,0000,0000,,So fighters like us...
+Dialogue: 0,0:18:49.18,0:18:52.22,Main Dialog,,0000,0000,0000,,Me and you, we ain't alone!
+Dialogue: 0,0:18:54.94,0:18:55.87,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:19:00.16,0:19:04.42,Main Dialog,,0000,0000,0000,,Not to mention, there ain't no \Nneed to fall prey to nothingness!
+Dialogue: 0,0:19:11.76,0:19:14.17,Main Dialog,,0000,0000,0000,,Juvenile delinquent wannabe, you did it!
+Dialogue: 0,0:19:25.99,0:19:27.34,Main Dialog,,0000,0000,0000,,Ishida, here!
+Dialogue: 0,0:19:27.99,0:19:28.99,Main Dialog,,0000,0000,0000,,Nagashiro!
+Dialogue: 0,0:19:37.01,0:19:37.84,Main Dialog,,0000,0000,0000,,This is...
+Dialogue: 0,0:19:38.80,0:19:41.25,Main Dialog,,0000,0000,0000,,Those two did all this?!
+Dialogue: 0,0:19:42.57,0:19:43.62,Main Dialog,,0000,0000,0000,,Aichi!
+Dialogue: 0,0:19:48.71,0:19:49.85,Main Dialog,,0000,0000,0000,,You did it!
+Dialogue: 0,0:19:49.98,0:19:50.74,Main Dialog,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:19:50.99,0:19:53.45,Main Dialog,,0000,0000,0000,,More importantly, I hope she's okay...
+Dialogue: 0,0:20:02.29,0:20:04.35,Main Dialog,,0000,0000,0000,,Thank goodness! You're up.
+Dialogue: 0,0:20:05.34,0:20:07.17,Main Dialog,,0000,0000,0000,,What was I...?
+Dialogue: 0,0:20:07.41,0:20:09.00,Main Dialog,,0000,0000,0000,,You need to rest.
+Dialogue: 0,0:20:10.36,0:20:12.91,Main Dialog,,0000,0000,0000,,I know! Let's fight next time!
+Dialogue: 0,0:20:14.17,0:20:16.37,Main Dialog,,0000,0000,0000,,You're not alone anymore.
+Dialogue: 0,0:20:16.37,0:20:19.62,Main Dialog,,0000,0000,0000,,That's right. But right now, \Nyou need to rest up.
+Dialogue: 0,0:20:27.22,0:20:30.32,Main Dialog,,0000,0000,0000,,Will Nagashiro really be okay?
+Dialogue: 0,0:20:30.66,0:20:34.13,Main Dialog,,0000,0000,0000,,Yeah. She was possessed by something.
+Dialogue: 0,0:20:35.55,0:20:38.84,Main Dialog,,0000,0000,0000,,But that wonderful fight...
+Dialogue: 0,0:20:39.69,0:20:41.60,Main Dialog,,0000,0000,0000,,And Ishida's passionate feelings...
+Dialogue: 0,0:20:42.94,0:20:46.90,Main Dialog,,0000,0000,0000,,I believe they had the power to banish it!
+Dialogue: 0,0:20:47.68,0:20:48.80,Main Dialog,,0000,0000,0000,,President...
+Dialogue: 0,0:20:49.58,0:20:54.52,Main Dialog,,0000,0000,0000,,It's like I've always said:\N Vanguard is great!
+Dialogue: 0,0:20:54.81,0:20:58.13,Main Dialog,,0000,0000,0000,,Certainly! This truly \Nis the global standard!
+Dialogue: 0,0:20:59.63,0:21:02.69,Main Dialog,,0000,0000,0000,,It looks like they've changed a bit, too.
+Dialogue: 0,0:21:02.69,0:21:03.63,Main Dialog,,0000,0000,0000,,Ishida!
+Dialogue: 0,0:21:04.50,0:21:06.49,Main Dialog,,0000,0000,0000,,Naoki! Shingo!
+Dialogue: 0,0:21:07.89,0:21:08.87,Main Dialog,,0000,0000,0000,,Sendou...
+Dialogue: 0,0:21:09.34,0:21:12.66,Main Dialog,,0000,0000,0000,,Hey. We did it...
+Dialogue: 0,0:21:14.27,0:21:15.08,Main Dialog,,0000,0000,0000,,What the...?
+Dialogue: 0,0:21:15.08,0:21:16.16,Main Dialog,,0000,0000,0000,,Naoki?
+Dialogue: 0,0:21:17.57,0:21:19.56,Main Dialog,,0000,0000,0000,,He was up all night.
+Dialogue: 0,0:21:19.82,0:21:23.28,Main Dialog,,0000,0000,0000,,Right after that, he had this big \Ncleanup at school. So it's no wonder.
+Dialogue: 0,0:21:24.65,0:21:27.09,Main Dialog,,0000,0000,0000,,Why didn't he say anything?
+Dialogue: 0,0:21:27.78,0:21:31.44,Main Dialog,,0000,0000,0000,,That was the juvenile... I mean, Ishida's... \Nway of being considerate.
+Dialogue: 0,0:21:32.22,0:21:35.42,Main Dialog,,0000,0000,0000,,He said he didn't want Sendou to worry.
+Dialogue: 0,0:21:43.63,0:21:48.61,Main Dialog,,0000,0000,0000,,While I was in doubt, Naoki and Shingo...
+Dialogue: 0,0:21:52.09,0:21:53.49,Main Dialog,,0000,0000,0000,,I've decided.
+Dialogue: 0,0:21:54.85,0:21:57.78,Main Dialog,,0000,0000,0000,,I'm through hesitating. \NI'm going to Takuto's place.
+Dialogue: 0,0:21:58.05,0:21:59.02,Main Dialog,,0000,0000,0000,,Aichi...
+Dialogue: 0,0:22:05.19,0:22:09.48,Main Dialog,,0000,0000,0000,,I won't tolerate whatever \Nmade the world like this.
+Dialogue: 0,0:22:10.84,0:22:13.39,Main Dialog,,0000,0000,0000,,Even if Kamui, Takuto...
+Dialogue: 0,0:22:13.92,0:22:16.70,Main Dialog,,0000,0000,0000,,...and Kai are the enemies.
+Dialogue: 0,0:22:19.56,0:22:21.77,Main Dialog,,0000,0000,0000,,I'll fight them!
+Dialogue: 0,0:23:57.03,0:23:58.61,Main Dialog,,0000,0000,0000,,Wake up, Ishida!
+Dialogue: 0,0:23:58.61,0:24:00.71,Main Dialog,,0000,0000,0000,,Let me sleep a little more.
+Dialogue: 0,0:24:00.71,0:24:05.27,Main Dialog,,0000,0000,0000,,Are you talking in your sleep?! \NAre you sure? Sendou is about to go!
+Dialogue: 0,0:24:05.27,0:24:08.65,Main Dialog,,0000,0000,0000,,What?! What are you sayin', Shingo? \NIf you space out, I'm gonna leave you here!
+Dialogue: 0,0:24:08.80,0:24:09.82,Main Dialog,,0000,0000,0000,,What's that?!
+Dialogue: 0,0:24:09.82,0:24:11.47,Main Dialog,,0000,0000,0000,,Naoki... Shingo...
+Dialogue: 0,0:24:11.92,0:24:13.72,Main Dialog,,0000,0000,0000,,Next time: Aichi and Kamui!
+Dialogue: 0,0:24:12.43,0:24:24.93,Signs,,0000,0000,0000,,Aichi and Kamui
+Dialogue: 0,0:24:14.01,0:24:16.55,Main Dialog,,0000,0000,0000,,Kamui, I'm your opponent for this fight.
+Dialogue: 0,0:24:16.85,0:24:18.82,Main Dialog,,0000,0000,0000,,In fact, it has to be me!
+Dialogue: 0,0:24:19.34,0:24:23.00,Main Dialog,,0000,0000,0000,,Wait for me. I promise I'll \Nbring you back to normal!

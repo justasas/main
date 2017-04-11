@@ -1,0 +1,959 @@
+{3478}{3522}The entire tribe must not|be endangered. . .
+{3527}{3585}. . .because of the defiance of|one person.
+{3590}{3625}You must forget about him.
+{3630}{3712}He was a wild spirit and this was|always to be his fate.
+{3717}{3783}You talk as if he's already dead
+{3941}{4021}Even if he does survive this time,|he's a greener. . .
+{4026}{4086}. . .so set your sights elsewhere|for a husband.
+{4091}{4151}I'll never set my sights elsewhere.
+{4975}{5045}-This is all the medicine I could find.|-I'm sorry.
+{5055}{5119}The gods took your father|in the night.
+{5715}{5809}As long as we stay here, there'll|never be enough to eat. Never.
+{5826}{5914}There may be other places|we could live where food is plentiful.
+{5919}{6001}All it takes is one demon to follow|you back from the forbidden land.
+{6006}{6045}Then we'd all be struck down.
+{6051}{6086}Have you ever seen one?
+{6091}{6122}Have you?
+{6127}{6174}Has anyone here ever seen one?
+{6185}{6209}A demon?
+{6219}{6247}A monster!
+{6252}{6281}A beast!
+{6369}{6403}The stories are true.
+{6433}{6470}The gods used to live here.
+{6492}{6578}They watched over and protected man,|but man grew selfish. . .
+{6583}{6634}. . .and cruel. So the gods left. . .
+{6639}{6699}. . .allowing the demons|to descend from the sky.
+{6829}{6917}As survivors, we must dedicate|our lives to pleasing the gods. . .
+{6923}{7013}. . .so that one day they will come back|and drive away the demons.
+{7031}{7106}That is our fate.
+{7157}{7205}Only if you believe in fate.
+{7767}{7805}I'm sorry. I can't take you.
+{7810}{7858}I can't handle myself|as well as a man?
+{7863}{7909}-No.|-You arrogant greener.
+{7914}{7983}You can handle yourself|better than most men. . .
+{7988}{8050}. . .which is why you need|to help the village.
+{8179}{8261}Your mother gave this to me|before she died.
+{8267}{8321}She hoped it'd be passed|to your children.
+{8421}{8450}It's for good luck.
+{8667}{8724}Don't let anything happen|to you out there.
+{9768}{9788}Easy!
+{9936}{9957}Easy!
+{10601}{10652}So you're the beast|we're all afraid of.
+{11285}{11324}Not a lot of meat on a dragon.
+{11509}{11556}You have been fortunate in the hunt.
+{11561}{11612}I hope you thanked the gods.
+{11644}{11712}-A nonbeliever.|-I believe what I can see.
+{11765}{11839}A nonbeliever, huh?|You from the caves?
+{11844}{11905}Probably never seen a god.|Would you like to?
+{11910}{11992}-What do you know about gods?|-We've seen gods. Rock and l.
+{11998}{12035}You lying thieves.
+{12136}{12162}Wait a minute.
+{12188}{12228}Wait a minute, we're hunting.
+{12233}{12283}No time to show you gods with no food.
+{12288}{12373}We need food. We must hunt.|Nonbeliever.
+{12460}{12485}Wait.
+{12701}{12746}First you show me the god.
+{12767}{12802}Then we eat.
+{12991}{13016}Look.
+{13032}{13073}Frozen ones.
+{13078}{13164}The way to the great god village|is marked by these frozen ones.
+{13182}{13267}When the gods left this world,|they ordered man not to look at them.
+{13275}{13367}Those that disobeyed were|frozen in place for all of eternity.
+{13373}{13446}When the gods lived here|they could fly through the air.
+{13466}{13559}They'd drive chariots in front|of special caves with golden arches.
+{13572}{13596}Golden.
+{13601}{13663}And the food would magically appear.
+{13668}{13694}Magic.
+{13700}{13728}Here!
+{13753}{13855}The gods weren't allowed to fall|in love with mortal women.
+{13865}{13903}This one did. . .
+{13908}{13980}. . .and was left behind,|frozen as punishment.
+{14083}{14116}Are you sure this was a god?
+{14122}{14181}I thought you said you believe|what you can see.
+{14456}{14483}If you need proof. . .
+{14488}{14580}. . .when the sun goes down, you can see|the rest of the gods in the sky.
+{14589}{14630}They're the bright lights.
+{14684}{14756}The evil beasts hunt in the dark.|We need to find shelter.
+{14761}{14808}There's a cave over here.
+{14940}{15034}Look at those poor bastards.|They really angered the gods.
+{15041}{15067}Carlo.
+{15084}{15115}Let's eat.
+{15474}{15512}Go. Go.
+{15889}{15916}What's a "greener"?
+{15922}{15973}The grass is greener|on the other side.
+{15991}{16077}Always looking for something better,|something out there.
+{16082}{16112}Maybe she was right.
+{16236}{16268}God stone.
+{16304}{16331}Sharp.
+{16365}{16413}No, you keep it. You keep it.
+{16429}{16512}Where we're from, a good woman|is a hard thing to find.
+{16517}{16598}So if you were stupid enough|to leave a good woman behind. . .
+{16603}{16692}. . .why don't you tell me where she is|so I can go get her for myself?
+{16697}{16721}No!
+{17734}{17792}Forget about me.|Get out of here. I can't move!
+{18121}{18144}No!
+{18249}{18285}Oh, heavenly gods!
+{22153}{22198}Don't breathe the air!
+{22211}{22235}It's poison!
+{22361}{22403}My chest is on fire!
+{22629}{22681}It helps you breathe. Take it!
+{22686}{22717}I can't!
+{22819}{22861}Get off my brother.
+{24509}{24552}-What's he saying?|-Don't know.
+{26610}{26649}Who's responsible for allowing|him to run around?
+{26655}{26675}He shot the wrangler.
+{26781}{26874}I'm a little pressed for time.|Save the going-away jokes for later.
+{26879}{26926}No joke, sir. I swear.
+{26931}{26991}The man-animal|got ahold of this gun.
+{27008}{27033}Really?
+{27064}{27093}Show me.
+{27117}{27137}Sir?
+{27245}{27272}Reach for the gun.
+{27277}{27318}But, sir, I might get shot.
+{27324}{27404}Sure, you might. And I might|suddenly grow a third arm!
+{27409}{27441}But it shot the wrangler.
+{27447}{27519}Any report filed today|still has my name on it. . .
+{27525}{27614}. . .and you are out of your skull-bone|if you think I'm going to write. . .
+{27619}{27702}. . . "shot by a man-animal" as the|cause of death unless I see it!
+{27707}{27765}If I obey your command,|I may get killed.
+{27770}{27835}If you don't, it's a certainty|you will be killed.
+{27860}{27887}Reach for the gun.
+{28166}{28226}Well, I'll be damned.
+{30205}{30274}Teleportation sequence activated.
+{30329}{30376}Teleportation sequence activated.
+{30935}{30990}It is a pleasure to see you,|Your Excellency.
+{30995}{31075}I would be honored to expedite|your clearance through security.
+{31080}{31162}Please, call me Zete.|Does all of Earth look like this?
+{31167}{31217}I'm afraid so, sir.
+{31232}{31337}Pathetic. All the green|and the blue sky.
+{31344}{31433}They told me this planet was ugly,|but this is one of the ugliest. . .
+{31438}{31507}-. . .in the entire universe.|-I couldn't agree more.
+{31512}{31618}I hate these puny, undersized planets.|The gravity is so different.
+{31626}{31666}One does get used to it.
+{31672}{31744}And the human-animals,|grossly undersized.
+{31750}{31808}They don't make good eating,|Your Excellency.
+{31814}{31870}-My executive assistant, Ker.|-Thank you.
+{31876}{31968}He has been fully trained|to replace me as chief of security.
+{31974}{32063}-As soon as my transfer goes through.|-Well, Ker. . .
+{32068}{32149}. . .once we finish mining out|this miserable little planet. . .
+{32154}{32200}. . .Iet's do the universe a favor.
+{32205}{32263}Let's exterminate the lot of them.
+{32332}{32392}-Oh, you're too much.|-So they tell me.
+{32398}{32443}Please, come this way.
+{32548}{32592}Spy satellites recorded those.
+{32598}{32676}-What is this species?|-According to the Clinko historians. . .
+{32681}{32720}. . .the species is called "dog. "
+{32726}{32767}-Dog.|-Yes.
+{32777}{32856}Obviously the superior race,|having the man-animal chauffeur.
+{32878}{32977}Well, dogs did prove to be|more cooperative than the man-animals.
+{32982}{33059}They weren't as useful|when it came to manual labor.
+{33116}{33202}I am honored by your visit,|Your Excellency.
+{33207}{33235}Thank you, Planetship.
+{33240}{33316}You'll be pleased. I approved|additional labor resources.
+{33321}{33378}They'll be here|by the end of quarter cycle.
+{33383}{33424}Thank you, Your Excellency.
+{33434}{33478}Now, let's see.
+{33552}{33609}Your long overdue transfer.
+{33622}{33719}You must be looking forward to getting|off this disgusting excuse of a planet.
+{33725}{33823}I just want to do whatever serves|the corporation best, sir.
+{33828}{33894}Very admirable.|And I must say, you've done. . .
+{33900}{33970}. . .a first-rate job here|as interim security chief.
+{33975}{34030}Hear, hear! Hear, hear!
+{34035}{34072}I do what I can.
+{34077}{34150}So we've decided to keep you|for another tour of service.
+{34261}{34311}There must be some mistake.
+{34316}{34383}Home Office does not make mistakes.
+{34388}{34444}Of course not.|But have you looked at my file?
+{34459}{34541}It explicitly says that this|is a temporary assignment.
+{34688}{34768}Are you not aware that I graduated|top of my class?
+{34773}{34805}Quite an accomplishment.
+{34816}{34886}I don't mean to second-guess|the Home Office. . .
+{34891}{34952}. . .but surely I could be|of better service--
+{34957}{35072}Home Office is well aware of your|academic achievements and talents.
+{35077}{35184}That's why we've decided not to keep|you here for another five cycles.
+{35313}{35349}It's a joke.
+{35409}{35433}Thank you, sir.
+{35438}{35524}I don't know if I|could've kept my sanity. . .
+{35529}{35576}. . .to be here another five cycles.
+{35581}{35673}We've decided to keep you here|for another 50 cycles!
+{35708}{35767}With endless options for renewal!
+{36364}{36424}Those options, of course. . .
+{36429}{36487}. . .being at Home Office's discretion.
+{36492}{36522}Not yours.
+{36569}{36602}The senator. . .
+{36640}{36693}. . .has a lot of friends.
+{36843}{36894}Would you please tell the senator. . .
+{36900}{36969}. . .if I'd had even an inkling that|that was his daughter--
+{36975}{37010}Watch your tongue.
+{37064}{37151}The senator's exact words to me were,|and I'm quoting:
+{37156}{37224}"If that blasted Terl tries|to talk his way out of it. . .
+{37229}{37285}. . .have him vaporized on the spot. "
+{37333}{37425}But cheer up.|There's one bright side to this.
+{37430}{37522}One day you're going to die,|and when you end up in hell. . .
+{37535}{37605}. . .at least it'll be a step up|from this place.
+{38964}{39012}You haven't left for Psychlo.
+{39026}{39116}Your powers of observation|are simply startling.
+{39128}{39166}Give me three pans to go.
+{39230}{39288}I don't know what|you're so down about.
+{39300}{39352}You still get to be head of security.
+{39357}{39476}Which, from what I can tell,|is a pretty cushy job.
+{39484}{39548}Well, I can assure you. . .
+{39553}{39672}. . .that I was not groomed since birth|to have some cushy job. . .
+{39677}{39747}. . .that even a moron like you|could perform.
+{39767}{39851}While you were still learning|how to spell your name. . .
+{39856}{39947}. . .I was being trained|to conquer galaxies!
+{39997}{40029}To do anything less. . .
+{40034}{40109}. . .is a disgrace|to my entire family line.
+{40143}{40182}That'll be six credits.
+{40190}{40222}Put it on my tab.
+{40227}{40253}You don't have a tab.
+{40263}{40297}I do now.
+{41271}{41333}You're new here,|so I'll explain how it works.
+{41360}{41390}I eat first.
+{41396}{41430}Then my men eat.
+{41436}{41509}If there's anything left,|you can share it with them.
+{41518}{41565}That's how it used to work.
+{41581}{41641}Greener, let's just stay alive.
+{41647}{41671}You're right.
+{41678}{41710}-So I'll fight you.|-No.
+{41738}{41802}Without food,|we don't have strength to escape.
+{41807}{41868}-So now we're escaping?|-I am.
+{41873}{41897}Come if you want.
+{41989}{42048}We fight, it's to the death.
+{42590}{42632}Say your prayers to the gods!
+{43324}{43417}We have enough problems without|killing each other over food.
+{43477}{43569}From now on, we eat at the same time.
+{44427}{44454}Sir.
+{44569}{44618}I was wondering when|you'd look at that.
+{44632}{44741}It came in last week,|and I put it right in your box.
+{44812}{44883}I've wasted my time, haven't l?
+{44930}{45025}If you're going to lie to me, have|the decency to do a credible job. . .
+{45030}{45094}. . .so I don't look like an idiot|for training you.
+{45100}{45199}But I'm not lying. I put the photo|in your box as soon as it came in.
+{45204}{45284}You are pathetic. You wouldn't last|one day at the academy.
+{45289}{45366}-And I saw you.|-What?
+{45455}{45488}You said:
+{45498}{45578}"We use picto-cameras|to spy on other offices.
+{45583}{45681}But under no circumstance|do we spy on our own office. "
+{45686}{45740}That's right. We don't. I do.
+{45760}{45798}Start talking.
+{45840}{45889}The photo's from|last week's recon drone.
+{45894}{45973}It shows a rockslide in the mountains.|It exposed a gold vein.
+{45978}{46027}You were waiting for me to transfer. . .
+{46032}{46084}. . .so you could turn it in|and get credit.
+{46089}{46121}I didn't think you'd mind.
+{46126}{46198}I don't mind. Turn it in. But before|you do, pretend you're not. . .
+{46250}{46268}. . .a complete imbecile. . .
+{46273}{46312}. . .and check the compo gradients.
+{46410}{46462}It's full of uranium. No Psychlo. . .
+{46514}{46585}. . .can get there without his breath gas|exploding. No way to mine the gold.
+{46674}{46774}But what I do mind is that you|betrayed me over a lousy recon photo!
+{46806}{46848}It's worthless! You said so!
+{46853}{46912}But you didn't know it was worthless!
+{47052}{47112}I would never hurt you, sir.
+{47176}{47293}I'm unarmed. You can't shoot me.|It's against regulations, sir.
+{47314}{47398}I can make this up to you, sir.|I promise. I swear.
+{47403}{47430}Please, sir.
+{47508}{47560}You do not have to shoot me, sir.
+{47786}{47880}Shoot you? My most trusted colleague?
+{47885}{47944}Of course not.|We have work to do. Come.
+{47990}{48084}Tomorrow morning, we must warn|the Planetship of the mutiny.
+{48089}{48113}What mutiny?
+{48118}{48186}The one you're going to pretend|is in the works. . .
+{48191}{48293}. . .Iike your life depended on it.|Because it does.
+{48325}{48408}If the worker revolt takes place,|my informants tell me. . .
+{48413}{48493}. . .that the first order of business is|to separate you from your head.
+{48533}{48610}Which is why there will be no revolt.
+{48615}{48709}I am authorizing you to use whatever|means necessary to prevent it.
+{48721}{48826}The best way is to increase profits|and stop cutting the workers' pay.
+{48831}{48883}Production equals profits.
+{48894}{48978}And I've already ordered|as many new workers as possible. . .
+{48983}{49020}. . .to boost production.
+{49025}{49089}But we have to pay the new workers.
+{49094}{49212}Maybe you were absent the day they|taught economics at the academy, Ker.
+{49222}{49278}But nobody works for free.
+{49291}{49330}Man-animals do.
+{49381}{49440}What if we were to train them|how to mine?
+{49561}{49635}Man-animals operating machinery?
+{49657}{49714}Have you blown a head gasket?
+{49725}{49839}I will be the laughingstock|of the universe.
+{49844}{49898}So you should have me|take man-animals. . .
+{49903}{49957}. . .with equipment,|out to a remote area. . .
+{49962}{50037}. . .better that you don't know where,|and try and train them.
+{50049}{50112}Have them do some test mining.
+{50117}{50180}If it doesn't work out,|no one will know.
+{50185}{50235}-Right.|-And if it does work. . .
+{50240}{50292}. . .I will be vaporized.
+{50298}{50339}It is against the law.
+{50344}{50373}Regulations say. . .
+{50378}{50479}. . .a Planetship faced with|a profit-threatening situation. . .
+{50484}{50563}. . .is relieved|of all other ordinances. . .
+{50568}{50673}. . .to pursue, to protect|and to acquire said profits.
+{50678}{50705}There you have it.
+{50881}{50950}We stick to the original plan.
+{50968}{51006}Bring in new workers. . .
+{51025}{51103}. . .and they go on half-pay|as soon as they arrive.
+{51108}{51177}And that is final!
+{52692}{52760}Run! Run!
+{54071}{54132}Okay, now! Pull his breath mask off.
+{54241}{54313}Last time we didn't even stop timing|until its lungs burst.
+{54319}{54343}That's the wager.
+{54501}{54592}No way this man-animal|lasts more than four minutes.
+{55147}{55177}Help me!
+{55194}{55223}I need your air!
+{55606}{55659}The wager's off.|The damn thing cheated.
+{55860}{55913}The Planetship is hiding something.
+{55918}{55975}All we have to do|is find out what it is. . .
+{55981}{56026}. . .then we'll have leverage.
+{56032}{56086}And then we can get the gold.
+{56092}{56143}What do you mean, we? It's my plan.
+{56153}{56252}I'm sending the gold to Psychlo, then|I'm getting off this stinking planet.
+{56258}{56287}Come on, sir.
+{56302}{56343}You gotta let me in on it.
+{56349}{56410}I barely make any lousy credits|in this job.
+{56416}{56492}And I've got five wives|to support, sir.
+{56550}{56630}I don't know if I want|to partner up with an idiot.
+{56649}{56706}How do I even know|you understand the plan?
+{56826}{56929}We train man-animals|who don't need breath gas. . .
+{56935}{56986}. . .to mine the gold for us.
+{56992}{57072}But Home Planet owns this planet.|The gold belongs to them.
+{57078}{57111}That's the beauty of it.
+{57117}{57171}Home Planet doesn't know|the gold exists.
+{57177}{57245}Those corporate crapheads|won't know we stole it.
+{57254}{57299}It's the perfect crime, sir.
+{57305}{57404}Putting aside the serious violations|of teaching mining to inferiors. . .
+{57410}{57503}. . .and insulting corporate superiors,|each one punishable by death.
+{57509}{57554}So it is my duty to report you. . .
+{57559}{57651}. . .though you'll be vaporized, and|I'll have to train a new assistant.
+{57678}{57729}But it's your stinking plan, sir.
+{57734}{57787}So I'm glad I have|a recording of you. . .
+{57792}{57843}. . .Iaying out the plan|and my reprimanding you.
+{57848}{57897}Think of it as part of your education.
+{57939}{57968}Education, huh?
+{58038}{58137}Never engage in a criminal activity|unless you have a patsy to pin it on. . .
+{58143}{58192}. . .in case you ever get found out.
+{58207}{58262}Thank you. That's great.
+{58268}{58315}But why do I have to be the patsy?
+{58321}{58381}So you don't get any bright ideas|to get rid of Terl. . .
+{58387}{58436}. . .and keep the gold for yourself.
+{58441}{58482}But I'd never double-cross you.
+{58488}{58577}I've arranged that if any unfortunate|accident were to befall me. . .
+{58594}{58662}. . .this would go|straight to the Home Office.
+{60541}{60615}Double or nothing|I can blow off one of its limbs.
+{60781}{60863}That one does seem to be unusually|intelligent and resourceful.
+{60873}{60922}But it's also defiant.
+{60931}{60972}We'll need leverage over it.
+{60977}{61030}Leverage? Over a man-animal?
+{61035}{61082}Man is a primitive species. . .
+{61087}{61200}. . .so we'll need something primitive|for leverage. Like food.
+{61210}{61276}What do you think a man-animal|would like to eat?
+{61281}{61328}What would he consider a treat?
+{61334}{61379}How the crap should I know?
+{61399}{61436}There's no way of knowing that.
+{61475}{61526}But before we educate it|on the machine. . .
+{61531}{61611}. . .we'll take it to the mountains|with a couple of the others.
+{61617}{61664}Let them think they've escaped. . .
+{61677}{61757}. . .and then we'll sit back|and watch it choose its favorite food.
+{61778}{61806}Yes.
+{62282}{62308}Look!
+{62512}{62598}Three days, and they still haven't|eaten anything yet.
+{62604}{62664}Precisely. Now that|the man-animals feel. . .
+{62671}{62720}. . .that they have|enough distance from us. . .
+{62726}{62800}. . .soon they'll find|their favorite food and celebrate.
+{63103}{63125}What is it?
+{63132}{63165}Food. Food!
+{63342}{63424}No spark, no flints, nothing.|You, Floyd?
+{63430}{63487}Plenty to burn.|Nothing to start a fire with.
+{63630}{63684}-That's their favorite.|-Of course it is.
+{63690}{63764}-They could've selected anything.|-It's not cooked.
+{63792}{63889}If man-animal prefers rat uncooked,|then our job is that much easier.
+{63896}{63976}If they like their rat so much,|how come those two aren't eating?
+{63981}{64088}Don't you know anything? The leader|of the pack always eats first. See?
+{64262}{64328}We're really going to have|leverage over them now.
+{64679}{64712}What are you doing?
+{64966}{65003}They know about the camera.
+{65008}{65051}Don't be a knot-head.|It's a man-animal.
+{65062}{65111}It couldn't possibly know about it.
+{65278}{65329}You sure called that one, sir.
+{65334}{65377}No way they know about the cameras.
+{65382}{65448}Move your fat ass|and let's go round them up!
+{65477}{65506}Crap, lousy ceiling!
+{66137}{66187}Great. This is great.
+{66451}{66476}What do we do now?
+{66482}{66552}What are you thinking, Jonnie?|Don't even think about it.
+{66557}{66646}You wouldn't live the jump, Jonnie.|You wouldn't live the jump!
+{66653}{66711}You can surrender and rot|in those cages.
+{66717}{66766}That's your choice.|I'm not going back!
+{66773}{66839}The monsters catch us,|they'll take us to the mines.
+{67100}{67127}Run!
+{67966}{68001}How do we know what he wants?
+{68006}{68083}They made me do this before.|Follow me and you'll be fine.
+{68344}{68388}Don't touch anything.
+{68394}{68450}Get them mad,|think what they'll do to us.
+{69100}{69180}Excuse me, but I am your instructor. . .
+{69186}{69217}. . .if you'll forgive such arrogance. . .
+{69270}{69303}. . .for I do not have the honor|to be a Psychlo.
+{69310}{69343}I'm a lowly Clinko language slave.
+{69409}{69521}As you are listening to me,|I most likely do not exist. . .
+{69527}{69624}. . .as we may have been exterminated|like many other races. . .
+{69630}{69700}. . .by the gas drones|of our conquerors.
+{69708}{69759}Please forgive my pretension. . .
+{69765}{69842}. . .as I try to educate you|in Psychlo. . .
+{69848}{69927}. . .the noble language|of our superiors.
+{70933}{70961}You understand?
+{70996}{71056}You understand me?
+{71091}{71157}Are you hungry, little fella? Yes?
+{71248}{71303}Obviously, this is going|to take a while.
+{71812}{71857}Jonnie! Jonnie!
+{71924}{71978}Carlo! Carlo!
+{71992}{72077}I know who they are and where they're|from. I can speak their language.
+{72083}{72128}-Monsters?|-They're called Psychlos.
+{72134}{72165}What did they do to him?
+{72172}{72234}They made him look into a light,|a god machine.
+{72240}{72293}It teaches.|It's a knowledge machine.
+{72300}{72392}It sends pictures through your head|so fast, it's spinning.
+{72399}{72439}Let's go, Jonnie. Come on.
+{72446}{72549}No, I can't. I have to stay.|I have to learn more about them.
+{72576}{72645}This may be our only way out of here.
+{73024}{73110}So this is the monster's language?
+{73115}{73161}No, no. This is mathematics.
+{73213}{73279}This is the unifying language|of the entire universe.
+{73418}{73445}Look.
+{73455}{73516}This symbol is called a triangle.
+{73525}{73585}If all these sides are equal. . .
+{73590}{73651}. . .then these three angles|must also be equal.
+{73680}{73705}Equal to what?
+{73720}{73748}To each other.
+{73754}{73829}It's the basic foundation|of Euclidean geometry.
+{73853}{73897}Seems pretty hard to understand.
+{73910}{73989}No, only at first. And then it|becomes clear in your mind.
+{73995}{74043}I learned molecular biology.
+{74049}{74150}This is the symbol for water|and engineering.
+{74164}{74274}See, a wing, see? And line|and form and artistic composition.
+{74291}{74347}You see, this is a square,|like a cage.
+{74352}{74456}I thought we were supposed to be|working on stuff to help us escape.
+{74512}{74545}This will.
+{74566}{74601}All this will.
+{74963}{75029}Jonnie. Jonnie. Human.
+{75108}{75188}"The security chief should secure|the field vault. . .
+{75193}{75266}. . .with an eight-digit|combination code. . .
+{75287}{75372}. . .and do not use a personal|or employee. . .
+{75377}{75410}. . .identification number. "
+{75415}{75464}What's an identification number?
+{75474}{75498}There.
+{75503}{75549}-How many numbers is that?|-Eight.
+{75557}{75581}Eight?
+{75599}{75631}Eight.
+{75828}{75872}It's more clever than that.
+{75877}{75917}The question is, how clever?
+{75928}{75973}Try the numbers backwards.
+{76327}{76357}Look at this.
+{76362}{76405}It's a recording machine.
+{76581}{76628}This is how he watches us.
+{77331}{77376}Stop! Chrissy, stop!
+{77397}{77424}What if he's not dead?
+{77429}{77496}Hope is an admirable quality,|but foolish isn't.
+{77501}{77570}I can't give you permission|to go and get killed.
+{77583}{77616}I don't need your permission.
+{77683}{77727}I'm no longer a child.
+{78108}{78149}Do you want lunch?
+{78384}{78449}It's obviously too much|to ask a man-animal. . .
+{78454}{78510}. . .to learn a language|as sophisticated as Psychlo.
+{78515}{78593}What if it can understand|and it's pretending it can't?
+{78598}{78649}-What the hell for?|-I don't know.
+{78654}{78738}Maybe it's secretly listening,|trying to get leverage over on us.
+{78750}{78835}Man-animal getting leverage over|a Psychlo. That'll be the day.
+{78877}{78945}What if this one is|particularly stupid?
+{78950}{78992}Maybe we should train another one.
+{79004}{79052}No time. When they detect the gold. . .
+{79057}{79118}. . .the Planetship will know|what we're doing.
+{79212}{79280}We'll have to terminate the operation|and cover our tracks.
+{79533}{79559}It speaks Psychlo.
+{79564}{79604}Go on, say something else.
+{79613}{79660}You'll stay here as my prisoner. . .
+{79665}{79732}. . .while you, you go|and get a transporter.
+{79752}{79820}Because you've learned Psychlo|doesn't mean you are one.
+{79825}{79877}Follow my orders|or I'll have you killed.
+{79960}{80006}How exactly do you plan to do that?
+{80259}{80308}-Mickey, no!|-Mickey, no!
+{80339}{80447}If any of you rat-brains|knew anything about firearms. . .
+{80462}{80549}. . .you would know that you never|store loaded weapons.
+{80554}{80587}You drop him now!
+{80596}{80656}Drop him or I won't mine|an ounce of your gold.
+{80676}{80759}I'll have you vaporized|and find someone else to mine it.
+{80764}{80790}You don't have time.
+{80800}{80856}You can't hide this|from Home Office forever.
+{80904}{81000}A man getting leverage over a Psychlo.|That'll be the day.
+{81149}{81262}I think it's time that we show|our little friend a thing or two.
+{81905}{81960}As long as you cling to|the feeble hope. . .
+{81965}{82011}. . .that you'll ever get|the better of me. . .
+{82016}{82086}. . .you'll be distracted|from more important things.
+{82091}{82137}Which is exactly why. . .
+{82142}{82197}. . .I share the following with you:
+{82233}{82277}When we attacked your planet. . .
+{82298}{82393}. . .all your soldiers and all|their advanced technology. . .
+{82402}{82454}. . .could only put up|a nine-minute fight. . .
+{82459}{82507}. . .before they were exterminated.
+{82530}{82620}Which is why man|is an endangered species.
+{82661}{82725}Everything you humans knew is here.
+{82730}{82780}You can look at anything you want. . .
+{82800}{82869}. . .because there is nothing|that will help you.
+{83672}{83703}Satisfied?
+{83716}{83743}Yes.
+{83762}{83836}I have one more demonstration|for you and your friends.
+{84113}{84176}You will be relocated|to a new mining site.
+{84181}{84252}If any of you get any bright ideas|about escaping. . .
+{84257}{84358}. . .keep in mind that although you|know nothing about firearms, I do.
+{84369}{84485}I graduated top marksman in my class.|I can kill any of you at 1 000 paces.
+{84490}{84525}Tell them what I said.
+{84530}{84573}We try to run, he'll kill us.
+{84585}{84643}-That's it?|-Yes.
+{84665}{84702}Allow me to demonstrate.
+{85122}{85155}No! Wait!
+{85569}{85626}Let's give this demon|what it deserves.
+{85631}{85686}Kill it, I say! Destroy it!
+{85691}{85740}Shoot! Shoot!
+{85745}{85770}Why wait? Kill it!
+{85776}{85811}Kill it. Then we'll run.
+{85816}{85847}Then what?
+{85855}{85942}What kind of life is it to run?|Living in fear of being hunted?
+{85958}{86012}What about those we're leaving behind?
+{86017}{86060}There's nothing we can do.
+{86065}{86103}Only the gods can free them.
+{86108}{86192}You think the lights in the sky|are gods waiting to save us?
+{86198}{86306}Do you? Those are planets,|planets like this one.
+{86311}{86359}The great villages were built by us.
+{86375}{86423}By men and women just like us.
+{86430}{86494}Willing to fight to the death|for one thing:
+{86510}{86536}Their freedom!
+{86541}{86601}Do you think no one has tried?
+{86622}{86672}You can't defeat them.
+{86793}{86851}That is our fate.
+{86893}{86951}Yes, we can. Yes, we can!
+{86965}{87002}But we have to go back.
+{87007}{87062}We go back and learn|about their weapons.
+{87083}{87151}Our race is slowly dying|and will be gone forever.
+{87158}{87247}Let it be said that we took|this one chance and fought!
+{87254}{87315}Are you with me? Are you with me?!
+{87338}{87368}We fight!
+{87404}{87479}If you're fighting the beast,|me and my men are with you.
+{87484}{87557}Thank you.|It's good to have friends out here.
+{87562}{87609}May the gods be with you.
+{87750}{87822}One as wise as you has ways|to stop me from shooting.
+{87831}{87900}I know if I'd tried,|you would've killed me first.
+{88062}{88159}Damn right, rat-brain! That's the|first intelligent thing you've said.
+{88191}{88239}Rest break is over.
+{88253}{88341}There's something I need you to see|so you're properly motivated.
+{88843}{88886}You don't know her?
+{88923}{88981}No, I don't know her.
+{89001}{89081}She's one of the foulest|looking females I've ever seen.
+{89098}{89131}While I tend to agree. . .
+{89150}{89255}. . .it's obvious that you show a lack|of aptitude for strategic deception.
+{89260}{89369}On the other hand, what you show|marginal proficiency at is. . .
+{89397}{89425}. . .drawing.
+{89477}{89528}This was found when she was collected.
+{89565}{89656}The collar has enough explosives|to remove her head from her body.
+{89661}{89702}And this remote. . .
+{89713}{89778}. . .will activate it|from anywhere on the planet.
+{89783}{89860}So if you disobey me, let me|show you what will happen.
+{89865}{89905}Please don't harm her.
+{89929}{89958}I believe you.
+{89963}{90020}Don't worry, rat-brain.
+{90028}{90093}Every collar has its own frequency.
+{90100}{90166}I'm not going to blow up|your little female friend.
+{90218}{90250}Just. . .
+{90300}{90327}. . .this one.
+{90369}{90402}You made your point.
+{90407}{90456}I said I would mine your gold.
+{90472}{90515}Please don't kill him. Please.
+{90613}{90641}Fine.
+{90657}{90761}Due to our new working relationship,|I will grant you this one request.
+{90799}{90834}I won't kill him.
+{90850}{90913}But you may never ask of me|anything again.
+{90926}{90954}I promise.
+{91045}{91115}As I've said, I won't kill him.
+{91120}{91145}Yes, sir.
+{91576}{91616}Stupid humans.
+{92279}{92322}No, no, no.
+{92327}{92373}What you did was right.
+{92385}{92423}It was right for all of us.
+{92437}{92495}Greener, you're a thinker. . .
+{92510}{92555}. . .and the gods respect thinkers.
+{92568}{92612}You didn't kill Sammy.
+{92633}{92698}Jonnie, this is not living.
+{92716}{92768}This is. . .
+{92787}{92807}. . .cages!
+{92816}{92840}Cages!
+{92845}{92929}Even if we escaped and went back|to where we all came from. . .
+{92934}{92964}. . .it'd be like you said.
+{92969}{93035}We'd be waiting for the Psychlos|to hunt us down.
+{93047}{93122}I think that is not living either.
+{93230}{93276}We all chose to fight.
+{93895}{93959}-Count us in too!|-What's going on?
+{93964}{94039}Someone knows how to speak|the Psychlo's language.
+{94044}{94083}He's gonna help us fight.
+{95424}{95466}Yes.
+{95491}{95560}Ker, I'd like you to meet Chirk.
+{95584}{95640}She's. . . .
+{95645}{95697}His soon-to-be|newly acquired secretary.
+{95702}{95757}-Yes.|-Really?
+{95766}{95858}She's stupid enough not to be a menace,|pretty enough to be decorative.
+{95863}{95965}She gets drunk with economical speed|and has other advantages.
+{96037}{96073}I can see that.
+{96079}{96142}-Don't you have some work to do?|-No.
+{96147}{96167}Ker?
+{96173}{96206}All right, sir.
+{96269}{96308}Now, listen, missy. . .
+{96313}{96388}. . .I'm still waiting for|the Planetship's accounts.
+{96457}{96535}I had to go way beyond|the call of duty to get these.
+{96540}{96616}I see. Well, that's why|I especially chose you.
+{96628}{96682}So you'll keep your side|of the bargain?
+{96702}{96745}Which was?
+{96753}{96842}You said we'd have a huge house|when we go back to Psychlo next year.
+{96848}{96905}-We're going to be rich, right?|-Right.
+{96915}{97003}I am going to make you|as happy as a baby Psychlo. . .
+{97008}{97075}. . .on a straight diet of Kerbango.
+{97399}{97444}Well, isn't it interesting. . .
+{97449}{97514}. . .that you have been keeping|two sets of books. . .
+{97519}{97569}. . .and telling all the workers. . .
+{97575}{97633}. . .that the planet has been|operating at a loss?
+{97674}{97766}I only claimed that it was|running at a loss. . .
+{97772}{97874}. . .to try and motivate them all|to work harder.
+{97879}{97917}Oh, yes, of course.
+{97927}{97980}And it had nothing to do|with the fact. . .
+{97985}{98043}. . .that it allowed you|to cut the workers' pay. . .
+{98049}{98124}. . .and keep all the extra credit|for yourself. Did it?
+{98153}{98223}That. Well, I can explain that.
+{98228}{98333}Well, unfortunately, the company|requires me to vaporize you.
+{98374}{98399}On the other hand. . .
+{98414}{98488}. . .I could understand someone|in your situation. . .
+{98493}{98545}. . .being old and having no future. . .
+{98551}{98622}. . .coming up with ways|to solve your financial problems.
+{98651}{98714}-You can?|-Oh, yes.
+{98722}{98782}It's really of no interest|to anybody. . .
+{98787}{98844}. . .to have you not be Planetship.
+{98850}{98947}But it would be prudent of you|to start to share your authority.
+{99193}{99291}But these forms are|all blank, undated.
+{99306}{99366}You could put anything|you wanted on them.
+{99372}{99458}You would run the entire planet!
+{99500}{99606}I would be nothing but a puppet.
+{99622}{99685}Well, if you don't want|to do it that way. . .
+{99690}{99741}. . .we could always do it by. . .
+{99770}{99805}. . .the book.
+{99958}{100057}What the hell does the Planetship|need with all this mining equipment?
+{100062}{100105}That's not even the crazy part.
+{100110}{100195}He's ordered me to take a group|of man-animals to a remote area. . .
+{100200}{100279}. . .with the equipment to see|if they can be trained to mine.
+{100284}{100361}Man-animals being able to mine?
+{100366}{100395}Yes.
+{100567}{100618}Old Psychlo's gone completely insane.
+{100632}{100661}Indeed.
+{100666}{100706}But what can I do?
+{100711}{100757}An order is an order.
+{100875}{100925}You have a busy day, rat-brain.
+{100930}{100968}First, learning how to fly. . .
+{100974}{101047}. . .then on to the learning machine|for mining techniques.
+{101761}{101788}Crash one more time. . .
+{101793}{101872}. . .and your little friend|will no longer be among the living.
+{101882}{101904}Again.
+{101909}{101945}Again!
+{102948}{103031}Never underestimate what a little|leverage can do, rat-brain.
+{103679}{103711}That's good, man-animal.
+{103726}{103803}This is the lever where|we mine the gold!
+{103808}{103859}Lever! Up, down!
+{103891}{103975}Warning: External sensors indicate|dangerous radiation levels ahead.
+{103980}{104023}This is as far as I can go!
+{104028}{104062}Land it!
+{104415}{104453}Meet me back here in 1 4 days.
+{104458}{104510}I want the ship's cage|half-filled with gold.
+{104632}{104698}And even though I won't be|at the mining site. . .
+{104753}{104783}. . .I'll be watching you.
+{105034}{105106}-How's your side?|-It's good. Good.
+{105409}{105451}Next time, you fly.
+{105728}{105798}No, no, no.|Even if we do mine enough gold. . .
+{105803}{105875}. . .we'll be lucky to fill|half of that cage in time.
+{105880}{105910}That's why we're not mining.
+{105915}{106000}What about the big uglies watching|us with that eye in the sky?
+{106005}{106060}Carlo, look. Here's the men, right?
+{106065}{106124}We split them in half.|One group goes. . .
+{106129}{106161}. . .and one group stays. . .
+{106166}{106226}. . .and it looks as if|we're still working.
+{106272}{106367}But if we don't deliver it in 1 4 days|to Terl, he's just gonna kill us.
+{106373}{106426}There's a place called Fort Knox|where the gold's already been mined.
+{106431}{106504}Listen, there will be no mining,|but we'll deliver it.
+{106509}{106599}Okay, so we have to pretend|that we're mining the gold.
+{106635}{106712}We have to figure out where|we're gonna get the gold. . .
+{106717}{106778}. . .then we have to get the supplies|to help our revolt.
+{106797}{106818}Yeah.
+{106823}{106883}We barely have men to|do one of those things. . .
+{106888}{106934}. . .Iet alone all three.
+{106982}{107051}It's good to have friends|on the outside!
+{107485}{107505}Come on!
+{107510}{107578}If you two kept your eyes open,|that'd be a great help.
+{107583}{107656}Look for an ocean. If you see any,|we've gone too far.
+{107711}{107751}I think this is it.
+{107756}{107799}I think we're in Washington.
+{107804}{107868}-We're still in Colorado.|-That's impossible.
+{107874}{107914}I've been watching,|we haven't crossed this line.
+{107919}{107965}You're not paying attention.
+{107971}{108060}Let him navigate and watch me.|You're gonna fly on the way back.
+{108079}{108139}We couldn't have crossed|all these lines.
+{108144}{108230}Well, we did. The lines must|have faded over time.
+{108596}{108673}This great village was the capital|for all our tribes.
+{108678}{108738}This is where our people's|history was buried.
+{108988}{109059}Here. When the Psychlos|attacked Earth. . .
+{109066}{109115}. . .they sent out flying gas drones.
+{109121}{109208}Our ancestors must've made it out|into these remote radiated areas. . .
+{109213}{109303}. . .and the only reason they survived|was because radiation is. . .
+{109308}{109347}. . .Iethal to the Psychlos.
+{109352}{109423}-And that was not good for them.|-That's good for us.
+{109428}{109498}Even if we fail, the people|will be safe if they stay--
+{109503}{109546}Safe from being hunted. . .
+{109553}{109618}. . .but radiation is|also poisonous for humans.
+{109641}{109683}So, you see, either way. . .
+{109708}{109760}. . .if we don't take back our planet. . .
+{109801}{109857}. . .the last of humanity|becomes extinct.
+{110531}{110596}Based on what I've read about|Psychlo security. . .
+{110601}{110630}. . .if we revolted. . .
+{110635}{110714}. . .only using weapons they don't|perceive as any real threat. . .
+{110719}{110779}. . .if we just use rocks and sticks. . .
+{110784}{110859}. . .they'll just throw us|back in the cages.
+{110864}{110893}But. . .
+{110908}{110994}. . .we're gonna stage this revolt|inside the dome.
+{110999}{111112}So the Psychlos are gonna have to|come inside the city to round us up.
+{111127}{111200}And that is when we blow the dome.
+{111228}{111268}Carlo's gonna blow the dome.
+{111274}{111325}-They won't have masks.|-They can't breathe.
+{111330}{111358}-They die.|-Carlo?
+{111363}{111434}-I'm gonna blow the dome?|-You're gonna blow the dome.
+{111472}{111547}Piece of cake.|Piece of cake, piece of cake.
+{111636}{111699}But remember, as soon as|we blow the dome. . .
+{111704}{111751}. . .boom, stage 2 alarm.
+{111756}{111776}What is that?
+{111781}{111858}Thousands of gas drones and troops|will be teleported here.
+{111863}{111947}-We can't fight against that.|-Then what's the point?
+{111952}{112032}If they send more monsters to Earth,|we get wiped out.
+{112046}{112113}Well, the point is,|we don't let it get to stage 2.
+{112118}{112180}We'll destroy their Home Planet|before it happens.
+{112185}{112252}-Their Home Planet?|-Their Home Planet.
+{112292}{112360}We need some extra supplies|before we can do that.
+{112365}{112423}Our first stop is a radiation bomb|storage bunker.
+{112428}{112485}Is everyone clear?
+{112533}{112558}Count us in.
+{113310}{113354}-Look.|-Flying machines.
+{113359}{113437}These are flying machines.|They're weapons of some kind.
+{113501}{113535}Flying spears.
+{113543}{113597}I think there's a little more|to it than that.
+{114018}{114060}It's a learning machine.
+{114076}{114111}Teach us to fly.
+{114564}{114590}You're right.
+{114596}{114630}It's like breaking a horse.
+{114648}{114700}Can you teach your men to fly this?
+{114705}{114775}-Piece of cake, piece of cake.|-Piece of cake.
+{114780}{114822}-Try and keep it level.|-Jonnie!
+{114827}{114857}-What is it?|-I think I found one.
+{114862}{114932}Come on! Nuclear firebomb!
+{114937}{114969}Piece of cake.
+{114994}{115056}According to the book, there's|a firing mechanism. . .
+{115061}{115144}. . .that has to be in place before|it's operational.
+{115637}{115680}Don't touch the auto-sensor.
+{115685}{115722}What happens if we do?
+{115727}{115793}The bomb will explode. Big fire.
+{115831}{115879}Look. Greeners from this cave.
+{115884}{115924}Off. Off.
+{116305}{116326}War--
+{116331}{116353}--ning.
+{116358}{116400}Warning. Warning.
+{116405}{116434}Warning.
+{116456}{116502}Warning.
+{116507}{116534}Get it?
+{116661}{116723}What does the auto-sensor look like?
+{116730}{116783}There's an illustration in Appendix A.
+{116918}{116954}What? What?
+{117043}{117078}We don't have Appendix A.
+{117284}{117310}More books, Jonnie.
+{117519}{117552}It's okay.
+{117569}{117634}I thought you said nuclear fires|were powerful?
+{117639}{117676}It's not nuclear. Mickey!
+{117681}{117711}Sorry.
+{117716}{117753}You're sorry. Mickey!
+{117758}{117832}Stop touching things|and turn off the damn light.
+{117837}{117861}Leave it on.
+{117905}{117935}Look.
+{118083}{118119}Good work, Mickey.
+{118125}{118172}You just found Appendix A.
+{118556}{118612}Will this be enough to blow up|their whole planet?
+{118617}{118674}Radiation reacts with their|planet's atmosphere.
+{118679}{118751}-There's enough to destroy it forever.|-Let me do it.
+{118804}{118859}Let me go there|and detonate the weapon.
+{118866}{118945}It's brave of you, Mickey,|but it's my plan, so I go.
+{118950}{119024}You're the only one who speaks|the monsters' language.
+{119029}{119077}You know things about them!
+{119096}{119135}Listen. . .
+{119140}{119205}. . .without you leading this revolt. . .
+{119240}{119274}. . .we might not succeed.
+{120516}{120602}I hope their eye in the sky didn't|see the gold through the lead walls.
+{121054}{121107}Start filling the cage.
+{121112}{121204}We'll hide half and deliver|the other half to Terl tonight.
+{121681}{121718}Why is it in bars?
+{121766}{121803}I assumed, sir. . .
+{121808}{121904}. . .that a Psychlo of your refinement|wouldn't want raw ore.
+{122002}{122034}Really?
+{122311}{122362}Since you have had extra time. . .
+{122367}{122417}. . .to smelt it into bricks. . .
+{122422}{122486}. . .I'll expect the rest of the gold|in seven days.
+{123198}{123258}He has no intention of sharing|that gold with you.
+{123310}{123373}What the hell are you talking about?
+{123403}{123471}Why are you here?|You should be mining the gold!
+{123476}{123547}You really think the only reason|he made that recording. . .
+{123552}{123626}. . .was to have you as his patsy?|Do you, Ker?
+{123641}{123714}No. He has leverage over you. . .
+{123719}{123782}. . .and it'll guarantee you|never see an ounce.
+{123812}{123873}How do you know|about those recordings?
+{123884}{123923}It really is amazing. . .
+{123928}{123997}. . .the collection of discs|you find in Terl's personal vault.
+{124373}{124396}First, we trade.
+{124401}{124440}-The disc--|-I don't think so!
+{124446}{124503}Because if you don't give me|the disc now. . .
+{124508}{124549}. . .I will blow your head off.
+{125046}{125084}You want to trade?
+{125116}{125144}Let's trade.
+{125175}{125205}Hooray!
+{125260}{125317}Won't the Psychlo see|I'm not wearing the collar?
+{125323}{125397}After tonight, won't matter|much either way.
+{125429}{125494}Jonnie, I know you|don't believe in fate. . .
+{125501}{125555}. . .but I've always known|this was your destiny.
+{125564}{125636}This is our destiny.|It's freedom for all of us.
+{125649}{125685}For our children.
+{125719}{125750}Children?
+{126330}{126360}Beautiful.
+{126678}{126701}Quickly!
+{127118}{127183}What if this one is|particularly stupid?
+{127188}{127248}There's no time.|When they detect the gold...
+{127253}{127315}... the Planetship will know|what we're doing.
+{127424}{127503}We'll have to terminate the operation|and cover our tracks.
+{127547}{127642}When they detect the gold, the|Planetship will know what we're doing.
+{127702}{127759}We'll have to terminate the operation|and cover our tracks.
+{127764}{127785}I've been thinking.
+{127798}{127890}80/20 is a pretty fair|distribution of the gold.
+{127907}{127949}But I should get the 80% .
+{127968}{128050}And with my share, I'm gonna|fire all my wives. . .
+{128056}{128091}. . .and buy new ones.
+{128116}{128169}Maybe pretty ones this time.
+{128198}{128225}Ker-bango!
+{128280}{128308}Congratulations.
+{128315}{128389}You've learned how to get|leverage over someone, haven't you?
+{128408}{128481}Which means I haven't wasted my time|training you, have l?
+{128500}{128546}-You're not upset?|-Don't be crazy.
+{128555}{128603}You know how long I've waited|for this day?
+{128609}{128660}I know the perfect way to celebrate.
+{128709}{128764}What are you doing?
+{128797}{128825}You can't shoot me.
+{128830}{128904}I made a copy and gave it|to someone for safekeeping.
+{128909}{128984}You are just too good of a teacher.
+{129003}{129104}How about giving your old teacher|a clue as to who this might be?
+{129109}{129159}You insult yourself, sir.
+{129164}{129197}You taught me better.
+{129202}{129255}How am I supposed to know who it is?
+{129260}{129297}I don't know.
+{129302}{129365}It could be anybody|on this damn planet.
+{129371}{129419}-It could be a mechanic.|-No.
+{129425}{129476}-It could be a concubine.|-No, no.
+{129481}{129539}It could be anybody|in communications.
+{129544}{129565}Wrong!
+{129571}{129664}I hate these things. It's like|it's a test I'm not prepared for.
+{129699}{129812}Well, hell, it could even be|our friendly bartender!
+{129948}{130001}Please. I made a mistake.
+{130118}{130173}Now, give me the original disc. . .
+{130178}{130259}. . .then meet me at the teleportation|platform in two hours.
+{130288}{130322}Sir.
+{130573}{130611}The control bunker's to the right.
+{130621}{130644}Three guards left.
+{130652}{130721}Two from the guardhouse,|one coming from the north.
+{130740}{130778}I'll take the guardhouse.
+{132317}{132384}Jonnie, the shooting's|triggered the alarm.
+{132402}{132485}Five guards from the south,|heavily armed and moving fast.
+{132492}{132526}Between you and the bunker.
+{132538}{132567}Jonnie!
+{134147}{134229}The man-animals have escaped.|They're running into the city.
+{134236}{134309}Send some guards out|and round them up. I'm busy.
+{134314}{134372}Don't bother me|with every little detail.
+{134377}{134412}Gotta round them up.
+{134691}{134717}Psychlos!
+{134751}{134782}Psychlos!
+{134828}{134875}7-7-3.
+{134915}{134998}Greener? Carlo. Explosives are set.|Can I blow the dome?
+{135048}{135073}Greener?
+{135086}{135134}What's going on? Talk to me!
+{135139}{135201}It's Carlo. What's going on?|Talk to me.
+{135206}{135236}Hold on!
+{135268}{135325}If I don't get Mickey to Psychlo,|they'll send drones.
+{135330}{135410}Well, hurry up. Just hurry up,|because I've got company.
+{139392}{139412}Here they are.
+{140094}{140144}Panther!
+{140664}{140723}Hang on. I'm right on his tail.
+{141934}{141977}You know what you gotta do.
+{142658}{142687}Greener, come on.
+{142692}{142730}I've gotta blow this dome now!
+{142735}{142791}I'm teleporting Mickey and the bomb.|Hang on.
+{142798}{142829}I'm seconds away.
+{143141}{143166}Jonnie, come on.
+{143172}{143215}They're destroying the bombs.
+{143222}{143257}-It's now or never.|-Now!
+{143262}{143326}Now, go ahead! Blow the dome!|Go! Go! Go!
+{143486}{143553}Teleportation sequence terminated.
+{143580}{143616}Interrupting something?
+{143630}{143665}Jonnie? Jonnie?
+{144460}{144513}Why isn't it coming down?
+{144542}{144593}The dome is holding!
+{144623}{144675}-It's not working.|-It's only cracked!
+{144791}{144858}The dome isn 't broken.|We can 't hold out long.
+{144929}{145007}Attention! This is Terl,|your chief of security.
+{145025}{145102}Exterminate all man-animals at will.
+{145107}{145143}And happy hunting!
+{145478}{145525}Run! Run!
+{146232}{146263}What's with the dome?
+{146292}{146352}Hold on, I'm taking it out now.
+{147354}{147388}Help us!
+{147397}{147424}They're killing us!
+{147615}{147696}We're not gonna make it!|I think we should pull out!
+{148188}{148277}I'm blowing the dome. In five.
+{148292}{148319}Four.
+{148473}{148501}Three.
+{148522}{148548}Two.
+{148562}{148583}One.
+{148635}{148672}Piece of cake.
+{149356}{149411}Everyone on the ground now! Go!
+{151457}{151521}Teleportation sequence activated.
+{151568}{151634}Teleportation sequence activated.
+{151649}{151719}Psychlo War Center,|this is a stage 3 alert!
+{151725}{151775}I repeat, a stage 3 alert.
+{151780}{151850}Initiate the gas drone|extermination sequence.
+{152200}{152258}You have been|quite a challenge, rat-brain.
+{152263}{152316}You'll make a hell|of a conversation piece. . .
+{152322}{152400}. . .when you're stuffed|and hanging on the academy wall.
+{153538}{153579}Where's the rest of my gold?
+{153589}{153644}I'll exchange it for my woman's life.
+{153660}{153738}My life is over, but hers is|of no consequence to you.
+{153764}{153844}Thanks for reminding me, rat-brain.|Now, where is it?
+{153849}{153904}Trust me, you don't want to do that.
+{153910}{153967}Trust me, there's nothing I want more.
+{156412}{156455}Carlo came through.
+{157894}{157956}Why don't you vaporize me?
+{158146}{158169}Leverage.
+{158263}{158330}If there are other Psychlo|colonies out there. . .
+{158335}{158404}. . .they'll send out gas drones|and exterminate us.
+{158422}{158494}But if they learn|that it was your greed. . .
+{158513}{158564}. . .that destroyed their Home Planet. . .
+{158622}{158681}. . .then all the credits|in the universe. . .
+{158699}{158759}. . .won't equal the bounty|on your head.
+{159077}{159169}But there is one thing you rat-brains|weren't smart enough to realize.
+{159177}{159209}Kill them.
+{159546}{159593}I fixed the problem with it.
+{159624}{159663}-It works now.|-You imbecile!
+{159673}{159723}What kind of game are you playing?
+{159734}{159842}Since I'm teaching them our technology,|they made me the head Psychlo.
+{159960}{159991}Look at the bright side.
+{160019}{160124}You may not be wallowing|in luxury on Psychlo. . .
+{160177}{160242}. . .but at least you finally|got your gold.
+{170939}{170964}English Subtitles by|SDI Media Group

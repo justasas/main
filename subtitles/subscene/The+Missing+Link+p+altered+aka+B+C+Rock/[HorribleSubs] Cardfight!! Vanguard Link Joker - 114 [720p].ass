@@ -1,0 +1,366 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.57,0:00:04.06,Main Dialog,,0000,0000,0000,,Morning, Emi!
+Dialogue: 0,0:00:04.06,0:00:05.62,Main Dialog,,0000,0000,0000,,Morning, Mai!
+Dialogue: 0,0:00:07.38,0:00:09.28,Main Dialog,,0000,0000,0000,,Listen to this! Listen to this!
+Dialogue: 0,0:00:09.68,0:00:14.74,Main Dialog,,0000,0000,0000,,The Cardfight Club that Aichi formed \Nwas recognized as an official club!
+Dialogue: 0,0:00:14.74,0:00:16.53,Main Dialog,,0000,0000,0000,,Really?! Good for them!
+Dialogue: 0,0:00:16.84,0:00:21.25,Main Dialog,,0000,0000,0000,,Yep. Oh, and it made our mom happy, too.
+Dialogue: 0,0:00:22.91,0:00:26.92,Signs,,0000,0000,0000,,Cardfight Club Now Official
+Dialogue: 0,0:00:23.56,0:00:26.92,Main Dialog,,0000,0000,0000,,Congratulations on getting official \Napproval for your Cardfight Club, Aichi.
+Dialogue: 0,0:00:30.57,0:00:34.60,Main Dialog,,0000,0000,0000,,Now dig in. It's a special Shizuka dinner.
+Dialogue: 0,0:00:36.22,0:00:37.84,Main Dialog,,0000,0000,0000,,Th-Thank you...
+Dialogue: 0,0:00:37.84,0:00:40.74,Main Dialog,,0000,0000,0000,,Uh... uh... Shizuka... right...
+Dialogue: 0,0:02:12.18,0:02:15.48,Main Dialog,,0000,0000,0000,,She didn't have to make so much \Nthat we couldn't eat it all...
+Dialogue: 0,0:02:15.80,0:02:19.74,Main Dialog,,0000,0000,0000,,Your mom must be proud of your \Nbrother for working so hard.
+Dialogue: 0,0:02:20.13,0:02:23.74,Main Dialog,,0000,0000,0000,,Yeah. For the shy Aichi to change this much...
+Dialogue: 0,0:02:23.74,0:02:25.89,Main Dialog,,0000,0000,0000,,I think he owes it to Vanguard.
+Dialogue: 0,0:02:25.89,0:02:27.00,Main Dialog,,0000,0000,0000,,Yep, must be!
+Dialogue: 0,0:02:31.61,0:02:33.38,Main Dialog,,0000,0000,0000,,Come to think of it, she's...
+Dialogue: 0,0:02:33.66,0:02:36.38,Main Dialog,,0000,0000,0000,,She did say she was going to be late.
+Dialogue: 0,0:02:36.96,0:02:39.88,Main Dialog,,0000,0000,0000,,That girl is amazing, you know?\N I really admire her.
+Dialogue: 0,0:02:40.22,0:02:41.24,Main Dialog,,0000,0000,0000,,Me too.
+Dialogue: 0,0:02:41.24,0:02:43.08,Main Dialog,,0000,0000,0000,,Let's do our best, too!
+Dialogue: 0,0:02:43.08,0:02:43.93,Main Dialog,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:02:44.51,0:02:49.52,Signs,,0000,0000,0000,,Miyaji Academy, Middle School Division
+Dialogue: 0,0:02:57.40,0:03:01.03,Signs,,0000,0000,0000,,Physics Prep Room\NCardfight Club {\s1}(tentative){\s0}
+Dialogue: 0,0:02:58.84,0:03:01.03,Main Dialog,,0000,0000,0000,,Cardfight Circle?
+Dialogue: 0,0:03:01.56,0:03:03.86,Main Dialog,,0000,0000,0000,,According to the Komoi Information Network,
+Dialogue: 0,0:03:03.86,0:03:05.94,Main Dialog,,0000,0000,0000,,which is spread throughout the academy,
+Dialogue: 0,0:03:05.94,0:03:09.79,Main Dialog,,0000,0000,0000,,a "Cardfight Circle" has formed \Nin the middle school division.
+Dialogue: 0,0:03:10.26,0:03:12.97,Main Dialog,,0000,0000,0000,,No doubt they came together
+Dialogue: 0,0:03:12.97,0:03:16.05,Main Dialog,,0000,0000,0000,,after being influenced by the \Nformation of our own Cardfight Club.
+Dialogue: 0,0:03:16.46,0:03:19.28,Main Dialog,,0000,0000,0000,,Huh, influenced by us...
+Dialogue: 0,0:03:19.28,0:03:23.10,Main Dialog,,0000,0000,0000,,That kinda makes me happy, but \Nalso a little uncomfortable...
+Dialogue: 0,0:03:23.10,0:03:27.68,Main Dialog,,0000,0000,0000,,This is an instance where we should \Nprovide guidance as upperclassmen.
+Dialogue: 0,0:03:28.28,0:03:29.43,Main Dialog,,0000,0000,0000,,Guidance?
+Dialogue: 0,0:03:29.80,0:03:30.93,Main Dialog,,0000,0000,0000,,That's right.
+Dialogue: 0,0:03:30.93,0:03:34.04,Main Dialog,,0000,0000,0000,,Cross over from the high school \Nto middle school division
+Dialogue: 0,0:03:34.04,0:03:36.37,Main Dialog,,0000,0000,0000,,and learn from each other through \Na little friendly competition.
+Dialogue: 0,0:03:36.37,0:03:38.19,Main Dialog,,0000,0000,0000,,Not a bad idea, eh?
+Dialogue: 0,0:03:38.54,0:03:40.24,Main Dialog,,0000,0000,0000,,Learn from each other \Nthrough competition!
+Dialogue: 0,0:03:40.24,0:03:43.25,Main Dialog,,0000,0000,0000,,I got nothin' against \Nthat passionate feeling!
+Dialogue: 0,0:03:43.25,0:03:45.95,Main Dialog,,0000,0000,0000,,All right! Let's give these \Nkids some guidance!
+Dialogue: 0,0:03:48.30,0:03:54.44,Main Dialog,,0000,0000,0000,,As a Vanguard beginner, silly \NIshida, you totally fell for it.
+Dialogue: 0,0:03:54.44,0:03:58.46,Main Dialog,,0000,0000,0000,,You don't realize it, but this \Nis part of my grand plan.
+Dialogue: 0,0:03:59.61,0:04:03.47,Main Dialog,,0000,0000,0000,,If I show off my prowess \Nas an upperclassman now,
+Dialogue: 0,0:04:03.47,0:04:06.21,Main Dialog,,0000,0000,0000,,the underclassmen who join \Nour club starting next year
+Dialogue: 0,0:04:06.21,0:04:08.94,Main Dialog,,0000,0000,0000,,will look upon me with respect.
+Dialogue: 0,0:04:09.85,0:04:10.98,Main Dialog,,0000,0000,0000,,That's right!
+Dialogue: 0,0:04:10.98,0:04:14.69,Main Dialog,,0000,0000,0000,,Ishida stole the position \Nof Cardfight Vice-captain,
+Dialogue: 0,0:04:14.69,0:04:18.98,Main Dialog,,0000,0000,0000,,but I'm the one who possesses \Nthe real power of influence.
+Dialogue: 0,0:04:19.30,0:04:24.49,Main Dialog,,0000,0000,0000,,I respect Sendou and Misaki, \Nand Kourin is strong,
+Dialogue: 0,0:04:24.49,0:04:28.41,Main Dialog,,0000,0000,0000,,but I can't abide this hierarchy \Nthat puts me at the bottom
+Dialogue: 0,0:04:28.41,0:04:33.87,Main Dialog,,0000,0000,0000,,while a Vanguard noob like \NIshida looks down on me!
+Dialogue: 0,0:04:33.87,0:04:39.63,Signs,,0000,0000,0000,,Cardfight Club
+Dialogue: 0,0:04:34.94,0:04:39.63,Main Dialog,,0000,0000,0000,,I'm going to use the power of the Komoi \NCorps to stand higher than Ishida.
+Dialogue: 0,0:04:42.86,0:04:44.18,Main Dialog,,0000,0000,0000,,What are you laughin' at?
+Dialogue: 0,0:04:44.18,0:04:48.14,Main Dialog,,0000,0000,0000,,Gulp! N-Nothing! Well, shall we go?
+Dialogue: 0,0:04:48.41,0:04:50.89,Main Dialog,,0000,0000,0000,,Shouldn't we go with Aichi?
+Dialogue: 0,0:04:51.29,0:04:53.24,Main Dialog,,0000,0000,0000,,Our opponents are middle school students.
+Dialogue: 0,0:04:53.24,0:04:55.00,Main Dialog,,0000,0000,0000,,Just the two of us is plenty.
+Dialogue: 0,0:04:55.00,0:04:56.90,Main Dialog,,0000,0000,0000,,I guess you're right...
+Dialogue: 0,0:04:57.29,0:05:03.15,Main Dialog,,0000,0000,0000,,If Sendou were to go with us, all of\N the respect would go his way. Right?
+Dialogue: 0,0:05:04.06,0:05:06.13,Main Dialog,,0000,0000,0000,,Come on, let's go!
+Dialogue: 0,0:05:06.13,0:05:07.65,Main Dialog,,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:05:06.13,0:05:07.65,Main Dialog,,0000,0000,0000,,Come on, come on!
+Dialogue: 0,0:05:11.12,0:05:15.54,Signs,,0000,0000,0000,,Cardfight Circle
+Dialogue: 0,0:05:14.25,0:05:15.54,Main Dialog,,0000,0000,0000,,Looks like this is the place.
+Dialogue: 0,0:05:16.18,0:05:20.54,Main Dialog,,0000,0000,0000,,Puttin' out a wimpy sign like that \Ntells me they don't got enough passion.
+Dialogue: 0,0:05:20.54,0:05:22.33,Main Dialog,,0000,0000,0000,,I'll get 'em back on track!
+Dialogue: 0,0:05:24.30,0:05:25.38,Main Dialog,,0000,0000,0000,,Let's help these guys!
+Dialogue: 0,0:05:30.37,0:05:32.31,Main Dialog,,0000,0000,0000,,What the heck is this?!
+Dialogue: 0,0:05:33.00,0:05:34.80,Main Dialog,,0000,0000,0000,,I don't believe it.
+Dialogue: 0,0:05:34.80,0:05:38.98,Main Dialog,,0000,0000,0000,,Is this really the Cardfight Circle clubroom?
+Dialogue: 0,0:05:38.98,0:05:41.69,Main Dialog,,0000,0000,0000,,I feel itchy all over... \NI can't relax here...
+Dialogue: 0,0:05:42.46,0:05:44.78,Main Dialog,,0000,0000,0000,,Um, can I help you with something?
+Dialogue: 0,0:05:46.29,0:05:48.32,Main Dialog,,0000,0000,0000,,Are you two members of the Cardfight Circle?
+Dialogue: 0,0:05:48.92,0:05:49.84,Main Dialog,,0000,0000,0000,,Yes!
+Dialogue: 0,0:05:55.45,0:05:57.33,Main Dialog,,0000,0000,0000,,So what's with this room?
+Dialogue: 0,0:05:57.66,0:06:01.36,Main Dialog,,0000,0000,0000,,Me, Mai over there, and one more\N are the founding members.
+Dialogue: 0,0:06:01.36,0:06:04.21,Main Dialog,,0000,0000,0000,,We three started the Cardfight Circle.
+Dialogue: 0,0:06:04.69,0:06:09.22,Main Dialog,,0000,0000,0000,,She's the one who had the idea \Nto make the room all cute.
+Dialogue: 0,0:06:09.80,0:06:12.56,Main Dialog,,0000,0000,0000,,I'm surprised the school allowed it.
+Dialogue: 0,0:06:12.56,0:06:13.22,Main Dialog,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:06:13.62,0:06:18.21,Main Dialog,,0000,0000,0000,,Anyway, what are you two from the high \Nschool division's Cardfight Club doing here?
+Dialogue: 0,0:06:18.21,0:06:20.29,Main Dialog,,0000,0000,0000,,When I heard that you formed \Nthe Cardfight Circle,
+Dialogue: 0,0:06:20.29,0:06:23.08,Main Dialog,,0000,0000,0000,,I thought we could fight so \Nyou could learn a few things.
+Dialogue: 0,0:06:23.08,0:06:24.49,Main Dialog,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:06:24.49,0:06:27.01,Main Dialog,,0000,0000,0000,,Since there are still only three \Nof us, I'm delighted by your offer!
+Dialogue: 0,0:06:27.01,0:06:29.24,Main Dialog,,0000,0000,0000,,I'm sure we can learn a lot \Nfrom you upperclassmen!
+Dialogue: 0,0:06:29.52,0:06:32.73,Main Dialog,,0000,0000,0000,,Upperclassmen, upperclassmen, \Nupperclassmen...
+Dialogue: 0,0:06:34.05,0:06:36.68,Main Dialog,,0000,0000,0000,,Sure, I'll teach you.
+Dialogue: 0,0:06:36.94,0:06:39.62,Main Dialog,,0000,0000,0000,,For the future of the Komoi Corps...
+Dialogue: 0,0:06:40.01,0:06:41.73,Main Dialog,,0000,0000,0000,,Komoi Corps?
+Dialogue: 0,0:06:41.73,0:06:43.97,Main Dialog,,0000,0000,0000,,Y-You misheard me...
+Dialogue: 0,0:06:43.97,0:06:47.69,Main Dialog,,0000,0000,0000,,I meant K-Komoi and I-Ishida Corps...
+Dialogue: 0,0:06:47.69,0:06:49.73,Main Dialog,,0000,0000,0000,,Oh, like a project name?
+Dialogue: 0,0:06:49.73,0:06:53.30,Main Dialog,,0000,0000,0000,,"Komoi and Ishida Corps." \NIt sounds cool, doesn't it?
+Dialogue: 0,0:06:53.30,0:06:55.01,Main Dialog,,0000,0000,0000,,Y-Yeah!
+Dialogue: 0,0:06:58.66,0:06:59.78,Main Dialog,,0000,0000,0000,,Are you ready?
+Dialogue: 0,0:06:59.78,0:07:01.52,Main Dialog,,0000,0000,0000,,Yes, please go easy on me.
+Dialogue: 0,0:07:02.08,0:07:03.90,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:07:06.01,0:07:08.03,Main Dialog,,0000,0000,0000,,Costume Change, Alk!
+Dialogue: 0,0:07:14.40,0:07:16.12,Main Dialog,,0000,0000,0000,,Ambush Dragon Eradicator, Linchu!
+Dialogue: 0,0:07:23.22,0:07:24.21,Main Dialog,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:07:24.48,0:07:28.46,Main Dialog,,0000,0000,0000,,You're gettin' a serious passionate \Nfight with me, the vice-captain!
+Dialogue: 0,0:07:34.09,0:07:36.22,Main Dialog,,0000,0000,0000,,Huh? Nobody's here...
+Dialogue: 0,0:07:37.41,0:07:40.23,Main Dialog,,0000,0000,0000,,I thought Naoki was already here...
+Dialogue: 0,0:07:41.36,0:07:46.98,Main Dialog,,0000,0000,0000,,Kourin said she might not be able to \Ncome to school today, but Shingo too?
+Dialogue: 0,0:07:47.98,0:07:51.02,Main Dialog,,0000,0000,0000,,That was Naoki Ishida
+Dialogue: 0,0:07:51.02,0:07:53.32,Main Dialog,,0000,0000,0000,,who went to the middle \Nschool division, wasn't it?
+Dialogue: 0,0:07:54.64,0:07:56.49,Main Dialog,,0000,0000,0000,,Isn't that Ishida guy kind of scary?
+Dialogue: 0,0:07:56.49,0:07:57.50,Main Dialog,,0000,0000,0000,,No kidding!
+Dialogue: 0,0:07:57.50,0:08:01.90,Main Dialog,,0000,0000,0000,,And I hear that Cardfight Club he's in \Nis frowned on by the Student Council!
+Dialogue: 0,0:08:01.90,0:08:04.37,Main Dialog,,0000,0000,0000,,Maybe it's a hangout for \N juvenile delinquents...
+Dialogue: 0,0:08:06.76,0:08:09.89,Main Dialog,,0000,0000,0000,,H-How do you say "juvenile \Ndelinquent" in English again?
+Dialogue: 0,0:08:09.89,0:08:11.78,Main Dialog,,0000,0000,0000,,M-Maybe "bad boy"...?
+Dialogue: 0,0:08:11.78,0:08:14.02,Main Dialog,,0000,0000,0000,,No good... I got nothing...
+Dialogue: 0,0:08:20.82,0:08:21.93,Main Dialog,,0000,0000,0000,,Misaki!
+Dialogue: 0,0:08:22.29,0:08:24.94,Main Dialog,,0000,0000,0000,,It looks like Naoki and Shingo are \Nat the middle school division.
+Dialogue: 0,0:08:42.81,0:08:45.21,Main Dialog,,0000,0000,0000,,I move my rear-guard Fundy to the Soul!
+Dialogue: 0,0:08:45.69,0:08:48.76,Main Dialog,,0000,0000,0000,,Eternal Idol, Pacifica gets +3000 power!
+Dialogue: 0,0:08:50.21,0:08:56.47,Main Dialog,,0000,0000,0000,,With a boost from Felucca... Eternal Idol, \NPacifica attacks Vowing Sword Dragon!
+Dialogue: 0,0:08:58.53,0:09:02.79,Main Dialog,,0000,0000,0000,,Dance, waves! Sparkle! The drop \Nof a soul that gives birth to life!
+Dialogue: 0,0:09:03.29,0:09:04.97,Main Dialog,,0000,0000,0000,,Glow with the seven colors of the rainbow!
+Dialogue: 0,0:09:05.98,0:09:08.11,Main Dialog,,0000,0000,0000,,Prism Splash!
+Dialogue: 0,0:09:09.84,0:09:12.61,Main Dialog,,0000,0000,0000,,I return my two rear-guard Celtics to my hand...
+Dialogue: 0,0:09:13.18,0:09:16.36,Main Dialog,,0000,0000,0000,,and call a new Bermuda Triangle from my deck!
+Dialogue: 0,0:09:16.98,0:09:18.62,Main Dialog,,0000,0000,0000,,PR❤ISM-Image, Rosa!
+Dialogue: 0,0:09:18.93,0:09:20.84,Main Dialog,,0000,0000,0000,,And then another ability of my Celtics!
+Dialogue: 0,0:09:20.84,0:09:23.41,Main Dialog,,0000,0000,0000,,When they return to my \Nhand, I do a Soulblast,
+Dialogue: 0,0:09:23.41,0:09:26.83,Main Dialog,,0000,0000,0000,,and Eternal Idol, Pacifica gets +8000 power!
+Dialogue: 0,0:09:27.25,0:09:29.88,Main Dialog,,0000,0000,0000,,That's a total of 31000 power!
+Dialogue: 0,0:09:30.33,0:09:32.88,Main Dialog,,0000,0000,0000,,Shining Prism Make-up!
+Dialogue: 0,0:09:33.90,0:09:35.44,Main Dialog,,0000,0000,0000,,I can't guard...
+Dialogue: 0,0:09:35.82,0:09:36.88,Main Dialog,,0000,0000,0000,,No guard!
+Dialogue: 0,0:09:42.68,0:09:44.25,Main Dialog,,0000,0000,0000,,I lost!
+Dialogue: 0,0:09:44.65,0:09:52.32,Main Dialog,,0000,0000,0000,,Me, the vice-captain of Miyaji Academy \NHigh School Division's Cardfight Club...
+Dialogue: 0,0:09:53.80,0:09:54.85,Main Dialog,,0000,0000,0000,,I did it!
+Dialogue: 0,0:09:54.85,0:09:56.50,Main Dialog,,0000,0000,0000,,Mai, that was great!
+Dialogue: 0,0:09:56.50,0:09:58.68,Main Dialog,,0000,0000,0000,,I wish she'd been here to see it, too...
+Dialogue: 0,0:09:58.68,0:10:01.91,Main Dialog,,0000,0000,0000,,She's late. Even though she said \Nshe'd be here today for sure...
+Dialogue: 0,0:10:02.28,0:10:04.97,Main Dialog,,0000,0000,0000,,What the heck, Ishida?
+Dialogue: 0,0:10:04.97,0:10:10.13,Main Dialog,,0000,0000,0000,,The vice-captain of the Cardfight Club, \Nand you lose to a middle-school student?
+Dialogue: 0,0:10:10.13,0:10:12.10,Main Dialog,,0000,0000,0000,,You're unfit to be vice-captain.
+Dialogue: 0,0:10:12.10,0:10:13.46,Main Dialog,,0000,0000,0000,,Unfit?!
+Dialogue: 0,0:10:14.66,0:10:17.82,Main Dialog,,0000,0000,0000,,I couldn't ask for a better turn of events!
+Dialogue: 0,0:10:17.82,0:10:19.85,Main Dialog,,0000,0000,0000,,If I win the next match...
+Dialogue: 0,0:10:20.55,0:10:25.81,Signs,,0000,0000,0000,,Cardfight Club
+Dialogue: 0,0:10:21.21,0:10:23.18,Main Dialog,,0000,0000,0000,,The big shot is the one who wins!
+Dialogue: 0,0:10:23.18,0:10:25.81,Main Dialog,,0000,0000,0000,,You beat me, Master Komoi!
+Dialogue: 0,0:10:26.29,0:10:29.21,Main Dialog,,0000,0000,0000,,This way, the Cardfight Club will be mine!
+Dialogue: 0,0:10:29.73,0:10:31.94,Main Dialog,,0000,0000,0000,,I can't just go home like this!
+Dialogue: 0,0:10:32.20,0:10:35.44,Main Dialog,,0000,0000,0000,,Why are you so strong?!
+Dialogue: 0,0:10:38.74,0:10:39.52,Main Dialog,,0000,0000,0000,,Mai!
+Dialogue: 0,0:10:39.52,0:10:41.07,Main Dialog,,0000,0000,0000,,Cut it out! Ishida, what are you doing?!
+Dialogue: 0,0:10:41.61,0:10:43.05,Main Dialog,,0000,0000,0000,,Tell me!
+Dialogue: 0,0:10:43.37,0:10:48.08,Main Dialog,,0000,0000,0000,,I swore by this fist that \NI'd get strong. So...
+Dialogue: 0,0:10:55.38,0:10:56.57,Main Dialog,,0000,0000,0000,,Aichi?
+Dialogue: 0,0:10:57.69,0:10:58.84,Main Dialog,,0000,0000,0000,,Boss Lady!
+Dialogue: 0,0:10:58.84,0:11:01.17,Main Dialog,,0000,0000,0000,,What are you doing to that little kid?!
+Dialogue: 0,0:11:01.96,0:11:03.68,Main Dialog,,0000,0000,0000,,We're not little kids!
+Dialogue: 0,0:11:03.68,0:11:05.64,Main Dialog,,0000,0000,0000,,We're middle school students now, so...
+Dialogue: 0,0:11:06.21,0:11:08.93,Main Dialog,,0000,0000,0000,,Th-That's right. My bad...
+Dialogue: 0,0:11:09.46,0:11:10.48,Main Dialog,,0000,0000,0000,,Okay, back to you!
+Dialogue: 0,0:11:11.30,0:11:13.48,Main Dialog,,0000,0000,0000,,Th-This isn't what you think!
+Dialogue: 0,0:11:15.77,0:11:17.26,Main Dialog,,0000,0000,0000,,She hit him with her fist...
+Dialogue: 0,0:11:17.26,0:11:18.32,Main Dialog,,0000,0000,0000,,Yeah. Yeah.
+Dialogue: 0,0:11:19.02,0:11:23.49,Main Dialog,,0000,0000,0000,,Oww! Let a guy finish talking, Boss Lady!
+Dialogue: 0,0:11:23.49,0:11:26.18,Main Dialog,,0000,0000,0000,,I just wanted to get her advice!
+Dialogue: 0,0:11:26.18,0:11:28.73,Main Dialog,,0000,0000,0000,,Oh...? It's still your fault for \Nmaking the wrong impression.
+Dialogue: 0,0:11:28.73,0:11:29.75,Main Dialog,,0000,0000,0000,,R-Right!
+Dialogue: 0,0:11:30.28,0:11:34.64,Main Dialog,,0000,0000,0000,,So let me rephrase that. \NPlease! Teach me how to fight!
+Dialogue: 0,0:11:34.64,0:11:36.50,Main Dialog,,0000,0000,0000,,I don't think I can teach you.
+Dialogue: 0,0:11:36.50,0:11:40.05,Main Dialog,,0000,0000,0000,,But we're always willing \Nto fight you... right?
+Dialogue: 0,0:11:40.05,0:11:40.76,Main Dialog,,0000,0000,0000,,Sure!
+Dialogue: 0,0:11:41.13,0:11:44.01,Main Dialog,,0000,0000,0000,,That's okay with me! \NI'm lookin' forward to it!
+Dialogue: 0,0:11:44.46,0:11:45.68,Main Dialog,,0000,0000,0000,,Me too!
+Dialogue: 0,0:11:46.94,0:11:49.27,Main Dialog,,0000,0000,0000,,Give guidance to the Cardight Circle?
+Dialogue: 0,0:11:49.73,0:11:50.72,Main Dialog,,0000,0000,0000,,That's right.
+Dialogue: 0,0:11:50.72,0:11:53.77,Main Dialog,,0000,0000,0000,,These are the Cardfight \NCircle's members, Emi and Mai.
+Dialogue: 0,0:11:54.13,0:11:55.81,Main Dialog,,0000,0000,0000,,We know each other...
+Dialogue: 0,0:11:56.42,0:11:58.46,Main Dialog,,0000,0000,0000,,So you formed the Cardfight Circle?
+Dialogue: 0,0:11:58.46,0:11:59.77,Main Dialog,,0000,0000,0000,,Yep, Aichi!
+Dialogue: 0,0:12:00.82,0:12:05.03,Main Dialog,,0000,0000,0000,,Emi, I note a certain lack of respect \Nin the way you address Sendou here.
+Dialogue: 0,0:12:06.40,0:12:07.53,Main Dialog,,0000,0000,0000,,Uh... okay...
+Dialogue: 0,0:12:07.88,0:12:12.97,Main Dialog,,0000,0000,0000,,Look! Th-This person is one of the champions \Nof the Vanguard Fight Asia Circuit,
+Dialogue: 0,0:12:12.97,0:12:15.80,Main Dialog,,0000,0000,0000,,Team Q4's Aichi Sendou!
+Dialogue: 0,0:12:15.80,0:12:19.30,Main Dialog,,0000,0000,0000,,He's someone who deserves a little more \Nrespect than what you're giving him!
+Dialogue: 0,0:12:19.30,0:12:21.24,Main Dialog,,0000,0000,0000,,Well, after all, Aichi is Aichi...
+Dialogue: 0,0:12:21.24,0:12:23.80,Main Dialog,,0000,0000,0000,,Silence! I demand you give him more respect!
+Dialogue: 0,0:12:26.18,0:12:28.12,Main Dialog,,0000,0000,0000,,Uh, Shingo, the thing is...
+Dialogue: 0,0:12:28.12,0:12:31.01,Main Dialog,,0000,0000,0000,,Sendou, please leave this to me.
+Dialogue: 0,0:12:31.01,0:12:33.17,Main Dialog,,0000,0000,0000,,She needs to be told in no uncertain terms.
+Dialogue: 0,0:12:33.17,0:12:34.69,Main Dialog,,0000,0000,0000,,Uh... but... you know...
+Dialogue: 0,0:12:35.24,0:12:41.13,Main Dialog,,0000,0000,0000,,Emi, it seems you need to be \Ntaught to respect your elders.
+Dialogue: 0,0:12:41.13,0:12:43.70,Main Dialog,,0000,0000,0000,,And I'll be the one to teach you.
+Dialogue: 0,0:12:43.97,0:12:45.70,Main Dialog,,0000,0000,0000,,I didn't do anything wrong!
+Dialogue: 0,0:12:47.48,0:12:49.82,Main Dialog,,0000,0000,0000,,Uh, come on, you two...
+Dialogue: 0,0:12:53.04,0:12:55.24,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:13:08.48,0:13:10.45,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:13:12.46,0:13:13.93,Main Dialog,,0000,0000,0000,,Prism Smile, Coro!
+Dialogue: 0,0:13:16.16,0:13:17.69,Main Dialog,,0000,0000,0000,,Deity Sealing Kid, Soh Koh!
+Dialogue: 0,0:13:21.56,0:13:23.45,Main Dialog,,0000,0000,0000,,Shingo is using a Narukami deck.
+Dialogue: 0,0:13:23.45,0:13:26.14,Main Dialog,,0000,0000,0000,,That guy switches decks a lot.
+Dialogue: 0,0:13:26.14,0:13:29.07,Main Dialog,,0000,0000,0000,,Everyone's got their own \Npreferred style of play.
+Dialogue: 0,0:13:29.33,0:13:31.08,Main Dialog,,0000,0000,0000,,Good luck, Emi!
+Dialogue: 0,0:13:33.17,0:13:36.61,Main Dialog,,0000,0000,0000,,I pretty ride PR❤ISM-Romance, Mercure!
+Dialogue: 0,0:13:42.22,0:13:45.93,Main Dialog,,0000,0000,0000,,Bermuda Triangle really is cute!
+Dialogue: 0,0:13:45.93,0:13:47.22,Main Dialog,,0000,0000,0000,,I know, right?
+Dialogue: 0,0:13:47.96,0:13:49.47,Main Dialog,,0000,0000,0000,,You're going to lose, Emi!
+Dialogue: 0,0:13:49.87,0:13:52.77,Main Dialog,,0000,0000,0000,,Caring about cute cards \Nproves you're a beginner.
+Dialogue: 0,0:13:52.77,0:13:55.10,Main Dialog,,0000,0000,0000,,There's no way I'm going to lose.
+Dialogue: 0,0:13:56.86,0:13:58.98,Main Dialog,,0000,0000,0000,,I ride Red River Dragoon!
+Dialogue: 0,0:13:59.52,0:14:01.11,Main Dialog,,0000,0000,0000,,Soh Koh moves!
+Dialogue: 0,0:14:01.65,0:14:03.09,Main Dialog,,0000,0000,0000,,Red River attacks!
+Dialogue: 0,0:14:12.58,0:14:15.54,Main Dialog,,0000,0000,0000,,I lovely ride PR❤ISM-Smile, Ligurian!
+Dialogue: 0,0:14:18.72,0:14:20.07,Main Dialog,,0000,0000,0000,,Ligurian attacks!
+Dialogue: 0,0:14:26.70,0:14:30.09,Main Dialog,,0000,0000,0000,,3 damage. Emi has turned it around! Wow!
+Dialogue: 0,0:14:33.68,0:14:37.05,Main Dialog,,0000,0000,0000,,Sendou, I'm going to win this for your honor!
+Dialogue: 0,0:14:38.04,0:14:39.34,Main Dialog,,0000,0000,0000,,What admiration, huh?
+Dialogue: 0,0:14:41.21,0:14:43.33,Main Dialog,,0000,0000,0000,,I ride Thunderstorm Dragoon!
+Dialogue: 0,0:14:44.01,0:14:45.36,Main Dialog,,0000,0000,0000,,Soh Koh boosts!
+Dialogue: 0,0:14:45.85,0:14:47.68,Main Dialog,,0000,0000,0000,,Thunderstorm, attack!
+Dialogue: 0,0:14:55.61,0:14:59.54,Main Dialog,,0000,0000,0000,,Thunder Boom Dragon attacks \Nwith a boost from Red River!
+Dialogue: 0,0:15:00.68,0:15:02.92,Main Dialog,,0000,0000,0000,,I guard with PR❤ISM-Miracle, Canary!
+Dialogue: 0,0:15:05.45,0:15:08.17,Main Dialog,,0000,0000,0000,,3 to 3! Emi, get him all at once!
+Dialogue: 0,0:15:08.73,0:15:11.36,Main Dialog,,0000,0000,0000,,Twinkle! Sparkling splash!
+Dialogue: 0,0:15:12.24,0:15:16.26,Main Dialog,,0000,0000,0000,,I super-cute ride PR❤ISM-Image, Vert!
+Dialogue: 0,0:15:19.92,0:15:20.65,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:15:22.32,0:15:23.48,Main Dialog,,0000,0000,0000,,Vert's skill!
+Dialogue: 0,0:15:24.04,0:15:27.23,Main Dialog,,0000,0000,0000,,Since I have four or more \Nrear-guards, she gets +2000 power!
+Dialogue: 0,0:15:27.73,0:15:29.99,Main Dialog,,0000,0000,0000,,PR❤ISM-Image, Rosa attacks!
+Dialogue: 0,0:15:30.41,0:15:31.72,Main Dialog,,0000,0000,0000,,Rosa's skill!
+Dialogue: 0,0:15:31.72,0:15:35.99,Main Dialog,,0000,0000,0000,,When the Vanguard has a Limit Break ability, \Nshe gets +3000 power!
+Dialogue: 0,0:15:36.32,0:15:38.50,Main Dialog,,0000,0000,0000,,I guard with Eradicator, Dragon Mage!
+Dialogue: 0,0:15:38.70,0:15:41.38,Main Dialog,,0000,0000,0000,,Vert attacks with a boost from Coro!
+Dialogue: 0,0:15:41.38,0:15:43.01,Main Dialog,,0000,0000,0000,,Drive trigger check!
+Dialogue: 0,0:15:50.18,0:15:51.89,Main Dialog,,0000,0000,0000,,Damage trigger check!
+Dialogue: 0,0:15:53.22,0:15:58.06,Main Dialog,,0000,0000,0000,,PR❤ISM-Romance, Lumiere attacks with \Na boost from PR❤ISM-Image, Clear!
+Dialogue: 0,0:15:58.42,0:15:59.86,Main Dialog,,0000,0000,0000,,Lumiere's skill!
+Dialogue: 0,0:15:59.86,0:16:04.05,Main Dialog,,0000,0000,0000,,When the Vanguard has "PR❤ISM" in \Nits name, Lumiere gets +3000 power!
+Dialogue: 0,0:16:05.32,0:16:08.07,Main Dialog,,0000,0000,0000,,I guard with Worm Toxin Eradicator, Seiobo!
+Dialogue: 0,0:16:19.42,0:16:20.69,Main Dialog,,0000,0000,0000,,3 to 4...
+Dialogue: 0,0:16:21.65,0:16:24.33,Main Dialog,,0000,0000,0000,,If Emi can just hold out \Nafter taking 1 damage...
+Dialogue: 0,0:16:24.98,0:16:27.21,Main Dialog,,0000,0000,0000,,Komoi can do 1 more damage...
+Dialogue: 0,0:16:28.13,0:16:29.84,Main Dialog,,0000,0000,0000,,It was a tie up until now...
+Dialogue: 0,0:16:30.74,0:16:33.10,Main Dialog,,0000,0000,0000,,Yep. I'm still hanging in there somehow...
+Dialogue: 0,0:16:33.86,0:16:35.86,Main Dialog,,0000,0000,0000,,You're better than I thought.
+Dialogue: 0,0:16:35.86,0:16:37.97,Main Dialog,,0000,0000,0000,,But it's time to close that loop.
+Dialogue: 0,0:16:42.25,0:16:46.40,Main Dialog,,0000,0000,0000,,Your military power rends the earth, \Ncleaves the sea, and shakes the sky!
+Dialogue: 0,0:16:47.00,0:16:49.48,Main Dialog,,0000,0000,0000,,I ride Martial Arts General, Daim!
+Dialogue: 0,0:16:51.25,0:16:52.64,Main Dialog,,0000,0000,0000,,Daim's skill!
+Dialogue: 0,0:16:52.64,0:16:56.24,Main Dialog,,0000,0000,0000,,Every time my turn comes \Naround, I can Soulcharge!
+Dialogue: 0,0:16:56.54,0:16:59.20,Main Dialog,,0000,0000,0000,,Then Daim gets +2000 power!
+Dialogue: 0,0:16:59.85,0:17:02.25,Main Dialog,,0000,0000,0000,,A Soulcharge every time it's your turn?!
+Dialogue: 0,0:17:02.65,0:17:03.50,Main Dialog,,0000,0000,0000,,That's right.
+Dialogue: 0,0:17:03.50,0:17:07.37,Main Dialog,,0000,0000,0000,,In other words, I'll eventually \Nbe able to do a Megablast!
+Dialogue: 0,0:17:07.94,0:17:11.00,Main Dialog,,0000,0000,0000,,All I have to do is bide my time...
+Dialogue: 0,0:17:14.17,0:17:16.38,Main Dialog,,0000,0000,0000,,There's a deck with that skill?!
+Dialogue: 0,0:17:16.82,0:17:17.97,Main Dialog,,0000,0000,0000,,Emi...
+Dialogue: 0,0:17:19.05,0:17:21.61,Main Dialog,,0000,0000,0000,,I call Riot General, Gyras!
+Dialogue: 0,0:17:22.34,0:17:24.77,Main Dialog,,0000,0000,0000,,Gyras attacks Lumiere!
+Dialogue: 0,0:17:25.13,0:17:27.02,Main Dialog,,0000,0000,0000,,Rosa intercepts!
+Dialogue: 0,0:17:27.24,0:17:30.27,Main Dialog,,0000,0000,0000,,Daim attacks Vert with a boost from Soh Koh!
+Dialogue: 0,0:17:30.89,0:17:32.58,Main Dialog,,0000,0000,0000,,Drive trigger check!
+Dialogue: 0,0:17:33.20,0:17:33.96,Main Dialog,,0000,0000,0000,,Second check...
+Dialogue: 0,0:17:35.68,0:17:37.36,Main Dialog,,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:17:37.85,0:17:41.54,Main Dialog,,0000,0000,0000,,I add +5000 to the power of \NEradicator, Thunder Boom Dragon
+Dialogue: 0,0:17:41.54,0:17:43.72,Main Dialog,,0000,0000,0000,,and give the extra critical to Daim!
+Dialogue: 0,0:17:53.86,0:17:55.29,Main Dialog,,0000,0000,0000,,5 damage...
+Dialogue: 0,0:17:56.57,0:17:59.57,Main Dialog,,0000,0000,0000,,It looks like I don't even \Nhave to wait for a Megablast.
+Dialogue: 0,0:17:59.57,0:18:03.85,Main Dialog,,0000,0000,0000,,Thunder Boom Dragon attacks with \Na boost from Red River Dragoon!
+Dialogue: 0,0:18:04.12,0:18:06.35,Main Dialog,,0000,0000,0000,,I guard with Mermaid Idol, Elly!
+Dialogue: 0,0:18:09.14,0:18:10.52,Main Dialog,,0000,0000,0000,,Perfect guard...
+Dialogue: 0,0:18:12.54,0:18:14.16,Main Dialog,,0000,0000,0000,,Okay, that's fine.
+Dialogue: 0,0:18:14.16,0:18:17.36,Main Dialog,,0000,0000,0000,,I don't have to do anything, and \Nvictory will come around to me.
+Dialogue: 0,0:18:17.94,0:18:21.16,Main Dialog,,0000,0000,0000,,That's right. Everything up to now \Nhas just been a warm-up, so to speak.
+Dialogue: 0,0:18:21.16,0:18:22.87,Main Dialog,,0000,0000,0000,,Now it's going to get serious.
+Dialogue: 0,0:18:23.53,0:18:27.12,Main Dialog,,0000,0000,0000,,And you're going to apologize to Sendou!
+Dialogue: 0,0:18:27.37,0:18:30.88,Main Dialog,,0000,0000,0000,,What's wrong with the way I talk to Aichi?!
+Dialogue: 0,0:18:33.25,0:18:34.72,Main Dialog,,0000,0000,0000,,Emi, do your best!
+Dialogue: 0,0:18:34.72,0:18:37.36,Main Dialog,,0000,0000,0000,,Yeah. Mai, I'm not gonna lose!
+Dialogue: 0,0:18:39.02,0:18:45.36,Main Dialog,,0000,0000,0000,,Give rise to a cute storm! A young maiden's \Ntwinkling! Sparkling! Heart-pounding!
+Dialogue: 0,0:18:45.36,0:18:47.48,Main Dialog,,0000,0000,0000,,Break ride!
+Dialogue: 0,0:18:48.90,0:18:51.38,Main Dialog,,0000,0000,0000,,PR❤ISM-Promise, Labrador!
+Dialogue: 0,0:18:57.48,0:19:02.12,Main Dialog,,0000,0000,0000,,I add +10000 to the power of \NLabrador! And then I draw a card.
+Dialogue: 0,0:19:02.12,0:19:04.33,Main Dialog,,0000,0000,0000,,I return two rear-guards to my hand.
+Dialogue: 0,0:19:07.26,0:19:11.58,Main Dialog,,0000,0000,0000,,+10000 power... I can \Nstill guard against that.
+Dialogue: 0,0:19:11.88,0:19:15.25,Main Dialog,,0000,0000,0000,,By returning Clear to hand, Clear's Soulblast!
+Dialogue: 0,0:19:17.34,0:19:19.75,Main Dialog,,0000,0000,0000,,I add +4000 to the power of Labrador!
+Dialogue: 0,0:19:23.48,0:19:24.97,Main Dialog,,0000,0000,0000,,I'm still okay...
+Dialogue: 0,0:19:25.41,0:19:26.72,Main Dialog,,0000,0000,0000,,On top of that, Coro's skill!
+Dialogue: 0,0:19:27.13,0:19:30.00,Main Dialog,,0000,0000,0000,,When a Bermuda Triangle \Nunit returns to the hand,
+Dialogue: 0,0:19:30.00,0:19:32.48,Main Dialog,,0000,0000,0000,,Coro can return to the hand, too!
+Dialogue: 0,0:19:34.42,0:19:37.02,Main Dialog,,0000,0000,0000,,A combination skill with two units...
+Dialogue: 0,0:19:37.02,0:19:38.78,Main Dialog,,0000,0000,0000,,Emi's doing well.
+Dialogue: 0,0:19:38.78,0:19:39.78,Main Dialog,,0000,0000,0000,,Yep.
+Dialogue: 0,0:19:39.78,0:19:41.61,Main Dialog,,0000,0000,0000,,Huh? Do you know her?
+Dialogue: 0,0:19:42.04,0:19:43.24,Main Dialog,,0000,0000,0000,,I call Sedna!
+Dialogue: 0,0:19:48.16,0:19:50.75,Main Dialog,,0000,0000,0000,,Labrador attacks with a boost from Sedna!
+Dialogue: 0,0:19:54.33,0:19:55.04,Main Dialog,,0000,0000,0000,,Cute!
+Dialogue: 0,0:19:55.48,0:19:56.34,Main Dialog,,0000,0000,0000,,Sweet!
+Dialogue: 0,0:19:56.82,0:20:03.16,Main Dialog,,0000,0000,0000,,Charming! Envelop the world with love!
+Dialogue: 0,0:20:04.02,0:20:06.68,Main Dialog,,0000,0000,0000,,Labrador's Limit Break!
+Dialogue: 0,0:20:08.33,0:20:10.17,Main Dialog,,0000,0000,0000,,Love Love Break!
+Dialogue: 0,0:20:12.40,0:20:16.90,Main Dialog,,0000,0000,0000,,When Labrador attacks the Vanguard, \NI can call three rear-guards!
+Dialogue: 0,0:20:17.36,0:20:21.40,Main Dialog,,0000,0000,0000,,PR❤ISM-Promise, Celtic... Clear... Lumiere!
+Dialogue: 0,0:20:22.22,0:20:26.91,Main Dialog,,0000,0000,0000,,Then Labrador gets +10000 \Npower and an extra critical!
+Dialogue: 0,0:20:27.49,0:20:31.34,Main Dialog,,0000,0000,0000,,A total of 43000 power and two criticals?!
+Dialogue: 0,0:20:32.26,0:20:34.28,Main Dialog,,0000,0000,0000,,I can't guard...
+Dialogue: 0,0:20:34.77,0:20:35.82,Main Dialog,,0000,0000,0000,,No guard!
+Dialogue: 0,0:20:36.54,0:20:39.76,Main Dialog,,0000,0000,0000,,But if I draw a heal trigger, \NI'll still have a chance...
+Dialogue: 0,0:20:40.78,0:20:42.51,Main Dialog,,0000,0000,0000,,Drive trigger check!
+Dialogue: 0,0:20:45.56,0:20:46.76,Main Dialog,,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:20:47.30,0:20:52.27,Main Dialog,,0000,0000,0000,,I give +5000 power to Lumiere and \Nthe extra critical to Labrador!
+Dialogue: 0,0:20:52.86,0:20:54.52,Main Dialog,,0000,0000,0000,,Three criticals?!
+Dialogue: 0,0:20:57.28,0:21:00.90,Main Dialog,,0000,0000,0000,,But if I draw two heal triggers, \NI'll still have a chance...
+Dialogue: 0,0:21:01.73,0:21:03.15,Main Dialog,,0000,0000,0000,,Damage trigger check!
+Dialogue: 0,0:21:05.54,0:21:06.45,Main Dialog,,0000,0000,0000,,Second check...
+Dialogue: 0,0:21:08.53,0:21:10.38,Main Dialog,,0000,0000,0000,,No... trigger...
+Dialogue: 0,0:21:14.92,0:21:18.20,Main Dialog,,0000,0000,0000,,I... I lost...
+Dialogue: 0,0:21:18.92,0:21:21.92,Signs,,0000,0000,0000,,Cardfight Club
+Dialogue: 0,0:21:22.25,0:21:24.84,Main Dialog,,0000,0000,0000,,My Cardfight Club!
+Dialogue: 0,0:21:27.02,0:21:28.74,Main Dialog,,0000,0000,0000,,I won, Mai!
+Dialogue: 0,0:21:28.74,0:21:32.56,Main Dialog,,0000,0000,0000,,Yeah! Good thing you put together \Na new deck with cute cards!
+Dialogue: 0,0:21:33.66,0:21:37.19,Main Dialog,,0000,0000,0000,,I lost to an opponent whose \Npriority is cuteness...
+Dialogue: 0,0:21:38.81,0:21:40.56,Main Dialog,,0000,0000,0000,,I'm sorry, Sendou...
+Dialogue: 0,0:21:40.56,0:21:43.28,Main Dialog,,0000,0000,0000,,Uh, you don't need to apologize...
+Dialogue: 0,0:21:43.28,0:21:45.60,Main Dialog,,0000,0000,0000,,That's two losses in a row for \Nthe high school division, huh?
+Dialogue: 0,0:21:45.90,0:21:47.13,Main Dialog,,0000,0000,0000,,Sendou!
+Dialogue: 0,0:21:47.13,0:21:50.44,Main Dialog,,0000,0000,0000,,At this rate, the dignity of us \Nupperclassmen won't be maintained!
+Dialogue: 0,0:21:50.44,0:21:53.20,Main Dialog,,0000,0000,0000,,Please show them something \Nworthy of an upperclassman!
+Dialogue: 0,0:21:53.81,0:21:55.96,Main Dialog,,0000,0000,0000,,Are you telling me to fight, too?
+Dialogue: 0,0:21:56.30,0:21:58.71,Main Dialog,,0000,0000,0000,,Yes! Please!
+Dialogue: 0,0:21:59.14,0:22:03.25,Main Dialog,,0000,0000,0000,,Then it's settled! I'm going \Nto show you Sendou's power!
+Dialogue: 0,0:22:03.25,0:22:04.86,Main Dialog,,0000,0000,0000,,Be very afraid!
+Dialogue: 0,0:22:10.52,0:22:12.01,Main Dialog,,0000,0000,0000,,Sorry to make you wait.
+Dialogue: 0,0:22:13.26,0:22:15.48,Main Dialog,,0000,0000,0000,,Classy ladies are fashionably late.
+Dialogue: 0,0:22:18.44,0:22:19.73,Main Dialog,,0000,0000,0000,,Rekka?!
+Dialogue: 0,0:23:57.38,0:24:00.81,Main Dialog,,0000,0000,0000,,Too bad, but it looks like the formation \Nof the Komoi Corps has been pushed back.
+Dialogue: 0,0:24:00.81,0:24:02.50,Main Dialog,,0000,0000,0000,,Yes. You're right.
+Dialogue: 0,0:24:02.50,0:24:05.18,Main Dialog,,0000,0000,0000,,That Emi treats Sendou too casually, \Nbut we should've been on guard
+Dialogue: 0,0:24:05.18,0:24:06.90,Main Dialog,,0000,0000,0000,,against her and her classmate, Mai.
+Dialogue: 0,0:24:06.90,0:24:07.68,Main Dialog,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:24:07.68,0:24:10.92,Main Dialog,,0000,0000,0000,,Who's that munchkin with the rhythmic \Ngymnastic ribbon pigtails?!
+Dialogue: 0,0:24:11.14,0:24:12.18,Main Dialog,,0000,0000,0000,,You mean Rekka?
+Dialogue: 0,0:24:12.76,0:24:14.69,Main Dialog,,0000,0000,0000,,Next time: Idol Fight!
+Dialogue: 0,0:24:14.69,0:24:16.93,Main Dialog,,0000,0000,0000,,Idol ride, then idol attack?
+Dialogue: 0,0:24:17.59,0:24:21.02,Main Dialog,,0000,0000,0000,,But you won't beat {\i1}my {\i0}\Nidol, Sendou, with that!
+Dialogue: 0,0:24:21.02,0:24:23.05,Main Dialog,,0000,0000,0000,,Um... Shingo...

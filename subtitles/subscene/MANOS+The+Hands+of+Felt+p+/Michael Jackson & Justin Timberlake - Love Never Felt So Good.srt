@@ -1,0 +1,398 @@
+1
+00:00:02,800 --> 00:00:03,800
+<font color=yellow>Dance!</font>
+
+2
+00:00:06,500 --> 00:00:08,200
+<font color=yellow>Let me see you move</font>
+
+3
+00:00:08,201 --> 00:00:08,800
+<font color=yellow>Come on</font>
+
+4
+00:00:08,801 --> 00:00:09,300
+<font color=#00FFFF>Come on</font>
+
+5
+00:00:09,301 --> 00:00:10,000
+<font color=red>Come on</font>
+
+6
+00:00:11,000 --> 00:00:11,800
+<font color=yellow>Dance!</font>
+
+7
+00:00:15,000 --> 00:00:16,500
+<font color=yellow>Let me see you move</font>
+
+8
+00:00:18,000 --> 00:00:20,000
+<font color=yellow>Baby...</font>
+
+9
+00:00:20,001 --> 00:00:23,800
+<font color=yellow>Love never felt so good</font>
+
+10
+00:00:23,801 --> 00:00:27,000
+<font color=yellow>And I doubt if it ever could</font>
+
+11
+00:00:27,001 --> 00:00:30,000
+<font color=yellow>Not like you hold...</font>
+
+12
+00:00:30,001 --> 00:00:31,500
+<font color=yellow>Hold me!</font>
+
+13
+00:00:31,501 --> 00:00:34,000
+<font color=yellow>Ooh, baby...</font>
+
+14
+00:00:34,500 --> 00:00:37,500
+<font color=yellow>Love never felt so fine</font>
+
+15
+00:00:38,000 --> 00:00:41,500
+<font color=yellow>And I doubt if it's never mine</font>
+
+16
+00:00:41,501 --> 00:00:44,500
+<font color=yellow>Not like you hold me</font>
+
+17
+00:00:44,501 --> 00:00:46,000
+<font color=yellow>Hold me!</font>
+
+18
+00:00:46,001 --> 00:00:50,000
+<font color=yellow>And the night is gonna be just fine</font>
+
+19
+00:00:50,001 --> 00:00:53,000
+<font color=yellow>Gotta fly, Gotta see, Can't believe</font>
+
+20
+00:00:53,001 --> 00:00:54,500
+<font color=yellow>I can't take it</font>
+
+21
+00:00:54,501 --> 00:00:57,000
+<font color=yellow>Cause, baby...</font>
+
+22
+00:00:57,001 --> 00:00:58,500
+<font color=yellow>Every time I love you</font>
+
+23
+00:00:58,501 --> 00:01:00,500
+<font color=yellow>In and out of my life...</font>
+
+24
+00:01:00,501 --> 00:01:03,000
+<font color=yellow>In-out, baby</font>
+
+25
+00:01:03,001 --> 00:01:05,000
+<font color=yellow>Tell me...</font>
+
+26
+00:01:05,001 --> 00:01:07,000
+<font color=yellow>If you really love me...</font>
+
+27
+00:01:07,001 --> 00:01:09,000
+<font color=yellow>In and out of my life...</font>
+
+28
+00:01:09,001 --> 00:01:11,000
+<font color=yellow>In-out, baby</font>
+
+29
+00:01:11,001 --> 00:01:13,000
+<font color=yellow>So, baby...</font>
+
+30
+00:01:13,001 --> 00:01:17,000
+<font color=yellow>Love never felt so good</font>
+
+31
+00:01:19,500 --> 00:01:21,500
+<font color=yellow>Baby...</font>
+
+32
+00:01:21,500 --> 00:01:25,000
+<font color=yellow>Love never felt so fine</font>
+
+33
+00:01:25,001 --> 00:01:28,500
+<font color=yellow>And I'd doubt if it was ever mine</font>
+
+34
+00:01:28,501 --> 00:01:31,500
+<font color=yellow>Not like you hold me</font>
+
+35
+00:01:31,501 --> 00:01:33,000
+<font color=yellow>Hold me!</font>
+
+36
+00:01:33,001 --> 00:01:35,500
+<font color=yellow>Ooh, baby...</font>
+
+37
+00:01:35,501 --> 00:01:38,500
+<font color=yellow>Love never felt so good</font>
+
+38
+00:01:38,501 --> 00:01:39,500
+<font color=yellow>(so good)</font>
+
+39
+00:01:39,501 --> 00:01:43,000
+<font color=yellow>And I doubt if it ever could</font>
+
+40
+00:01:43,001 --> 00:01:45,500
+<font color=yellow>Not like you hold me</font>
+
+41
+00:01:45,501 --> 00:01:47,500
+<font color=yellow>Hold me!</font>
+
+42
+00:01:47,501 --> 00:01:51,500
+<font color=yellow>And the night through the thick and thin</font>
+
+43
+00:01:51,501 --> 00:01:54,000
+<font color=yellow>Gotta fly, Gotta see, Can't believe</font>
+
+44
+00:01:54,001 --> 00:01:55,500
+<font color=yellow>I can't take it</font>
+
+45
+00:01:55,501 --> 00:01:58,000
+<font color=yellow>Cause, baby...</font>
+
+46
+00:01:58,001 --> 00:02:00,000
+<font color=yellow>Every time I love you</font>
+
+47
+00:02:00,001 --> 00:02:02,000
+<font color=yellow>In and out of my life...</font>
+
+48
+00:02:02,001 --> 00:02:04,000
+<font color=yellow>In-out, baby</font>
+
+49
+00:02:04,001 --> 00:02:06,000
+<font color=yellow>Tell me...</font>
+
+50
+00:02:06,001 --> 00:02:08,000
+<font color=yellow>If you really love me...</font>
+
+51
+00:02:08,001 --> 00:02:10,000
+<font color=yellow>In and out of my life...</font>
+
+52
+00:02:10,001 --> 00:02:12,000
+<font color=yellow>In-out, baby</font>
+
+53
+00:02:12,001 --> 00:02:14,500
+<font color=yellow>So, baby...</font>
+
+54
+00:02:14,501 --> 00:02:18,000
+<font color=yellow>Love never felt so good</font>
+
+55
+00:02:19,500 --> 00:02:21,000
+<font color=yellow>Break it down!</font>
+
+56
+00:02:22,001 --> 00:02:22,800
+<font color=yellow>Dance!</font>
+
+57
+00:02:26,000 --> 00:02:27,200
+<font color=yellow>Let me see you move</font>
+
+58
+00:02:27,201 --> 00:02:27,800
+<font color=yellow>Come on</font>
+
+59
+00:02:27,801 --> 00:02:28,400
+<font color="#8000ff">Come on</font>
+
+60
+00:02:28,401 --> 00:02:29,000
+<font color="#ff8000">Come on</font>
+
+61
+00:02:30,000 --> 00:02:31,500
+<font color=yellow>Let me see you move</font>
+
+62
+00:02:36,000 --> 00:02:37,000
+<font color=yellow>Dance!</font>
+
+63
+00:02:40,000 --> 00:02:41,300
+<font color=yellow>Let me see you move</font>
+
+64
+00:02:41,301 --> 00:02:42,000
+<font color=yellow>Come on</font>
+
+65
+00:02:42,001 --> 00:02:42,700
+<font color="#ff0080">Come on</font>
+
+66
+00:02:42,701 --> 00:02:43,500
+<font color="#ff00ff">Come on</font>
+
+67
+00:02:44,000 --> 00:02:46,000
+<font color=yellow>I said let me see you move</font>
+
+68
+00:02:48,000 --> 00:02:48,800
+<font color=yellow>Michael</font>
+
+69
+00:02:48,801 --> 00:02:51,500
+<font color=yellow>And the night, that is good</font>
+
+70
+00:02:51,501 --> 00:02:52,500
+<font color=yellow>(feels good)</font>
+
+71
+00:02:52,501 --> 00:02:55,500
+<font color=yellow>Gotta fly, Gotta see, Can't believe</font>
+
+72
+00:02:55,501 --> 00:02:57,000
+<font color=yellow>I can't take it</font>
+
+73
+00:02:57,001 --> 00:02:59,500
+<font color=yellow>Cause, baby...</font>
+
+74
+00:02:59,501 --> 00:03:01,000
+<font color=yellow>Every time I love you</font>
+
+75
+00:03:01,001 --> 00:03:03,500
+<font color=yellow>In and out of my life...</font>
+
+76
+00:03:03,501 --> 00:03:05,500
+<font color=yellow>In-out, baby</font>
+
+77
+00:03:05,501 --> 00:03:07,500
+<font color=yellow>Tell me...</font>
+
+78
+00:03:07,501 --> 00:03:09,500
+<font color=yellow>If you really love me...</font>
+
+79
+00:03:09,501 --> 00:03:11,500
+<font color=yellow>It's in and out of my life...</font>
+
+80
+00:03:11,501 --> 00:03:13,700
+<font color=yellow>trying to be, baby!</font>
+
+81
+00:03:13,701 --> 00:03:16,000
+<font color=yellow>Cause, baby...</font>
+
+82
+00:03:16,001 --> 00:03:19,000
+<font color=yellow>Love never felt so good</font>
+
+83
+00:03:22,000 --> 00:03:24,000
+<font color=yellow>Baby...</font>
+
+84
+00:03:24,001 --> 00:03:26,000
+<font color=yellow>Every time I love you</font>
+
+85
+00:03:26,001 --> 00:03:28,000
+<font color=yellow>In and out of my life...</font>
+
+86
+00:03:28,001 --> 00:03:30,000
+<font color=yellow>In-out, baby</font>
+
+87
+00:03:30,001 --> 00:03:32,000
+<font color=yellow>Tell me...</font>
+
+88
+00:03:32,001 --> 00:03:34,000
+<font color=yellow>If you really love me...</font>
+
+89
+00:03:34,001 --> 00:03:36,000
+<font color=yellow>It's in and out of my life...</font>
+
+90
+00:03:36,001 --> 00:03:38,000
+<font color=yellow>trying to be, baby!</font>
+
+91
+00:03:38,001 --> 00:03:40,000
+<font color=yellow>Cause, baby...</font>
+
+92
+00:03:40,001 --> 00:03:43,000
+<font color=yellow>Love never felt so good</font>
+
+93
+00:03:45,000 --> 00:03:47,000
+<font color=yellow>Because felt so good</font>
+
+94
+00:03:49,000 --> 00:03:51,000
+<font color=yellow>It never felt so good</font>
+
+95
+00:03:51,001 --> 00:03:53,000
+<font color=yellow>Never felt so good</font>
+
+96
+00:03:53,500 --> 00:03:56,000
+<font color=yellow>Felt so good</font>
+
+97
+00:03:57,000 --> 00:04:00,000
+<font color=yellow>Never felt so good</font>
+
+98
+00:04:00,001 --> 00:04:02,000
+<font color=yellow>Alright that's fine...</font>
+
+99
+00:04:02,001 --> 00:04:07,000
+<font color=#00FF00>wWw.ParsMovie1.Net</font>
+((l))
+<font color=red>««« AMIN . SH »»»</font>
+

@@ -1,0 +1,364 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:08.27,0:00:10.18,Main Dialog,,0000,0000,0000,,One... two...
+Dialogue: 0,0:00:09.65,0:00:11.78,Signs,,0000,0000,0000,,2nd\NSorry\N3rd\NSorry\N1st
+Dialogue: 0,0:00:10.33,0:00:11.78,Main Dialog,,0000,0000,0000,,Aww!
+Dialogue: 0,0:00:11.78,0:00:13.86,Signs,,0000,0000,0000,,1st
+Dialogue: 0,0:00:12.33,0:00:13.85,Main Dialog,,0000,0000,0000,,I go first!
+Dialogue: 0,0:00:13.85,0:00:15.61,Main Dialog,,0000,0000,0000,,I don't get to go at all...
+Dialogue: 0,0:00:13.86,0:00:15.41,Signs,,0000,0000,0000,,Sorry
+Dialogue: 0,0:00:15.41,0:00:18.03,Signs,,0000,0000,0000,,2nd
+Dialogue: 0,0:00:15.61,0:00:19.37,Main Dialog,,0000,0000,0000,,Kourin is second, and you're third, Aichi!
+Dialogue: 0,0:00:18.03,0:00:20.41,Signs,,0000,0000,0000,,Sorry                             3rd
+Dialogue: 0,0:00:19.37,0:00:20.41,Main Dialog,,0000,0000,0000,,Yep!
+Dialogue: 0,0:00:22.08,0:00:26.12,Main Dialog,,0000,0000,0000,,Suiko Tatsunagi's going first over there...
+Dialogue: 0,0:00:28.46,0:00:32.80,Main Dialog,,0000,0000,0000,,Ishida already lost to a Fukuhara \Nopponent once. Will he be okay?
+Dialogue: 0,0:00:33.80,0:00:36.26,Main Dialog,,0000,0000,0000,,I swear I'll get my revenge this time!
+Dialogue: 0,0:00:37.16,0:00:38.80,Main Dialog,,0000,0000,0000,,All right! Let's go, everyone!
+Dialogue: 0,0:00:39.53,0:00:40.94,Main Dialog,,0000,0000,0000,,Let's give it our all!
+Dialogue: 0,0:00:43.05,0:00:47.68,Main Dialog,,0000,0000,0000,,Miyaji Academy's Cardfight Club... let's fight!
+Dialogue: 0,0:00:47.68,0:00:49.02,Main Dialog,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:02:29.08,0:02:32.48,Main Dialog,,0000,0000,0000,,Oh yeah, everyone in the \Nauditorium is fired up, too!
+Dialogue: 0,0:02:32.48,0:02:35.41,Main Dialog,,0000,0000,0000,,As you'd expect from the \Nteam that's favored to win,
+Dialogue: 0,0:02:33.63,0:02:37.88,Signs,,0000,0000,0000,,VF High School Championship\NKanto Block 3
+Dialogue: 0,0:02:35.41,0:02:37.88,Main Dialog,,0000,0000,0000,,Fukuhara's got an incredible cheering section!
+Dialogue: 0,0:02:38.33,0:02:41.93,Main Dialog,,0000,0000,0000,,Cheering helps the fighters.
+Dialogue: 0,0:02:41.93,0:02:44.26,Main Dialog,,0000,0000,0000,,And I'm sure they know that.
+Dialogue: 0,0:02:44.73,0:02:47.93,Main Dialog,,0000,0000,0000,,Fukuhara! Fukuhara!
+Dialogue: 0,0:02:48.30,0:02:53.06,Main Dialog,,0000,0000,0000,,Draw! Ride! Call! Attack!
+Dialogue: 0,0:02:53.30,0:02:56.94,Main Dialog,,0000,0000,0000,,Fukuhara! Fukuhara!
+Dialogue: 0,0:02:56.94,0:03:00.28,Main Dialog,,0000,0000,0000,,Fukuhara! Fukuhara!
+Dialogue: 0,0:03:01.72,0:03:04.17,Main Dialog,,0000,0000,0000,,This is all we got to cheer our guys on?
+Dialogue: 0,0:03:04.17,0:03:06.58,Main Dialog,,0000,0000,0000,,And most of the people on this \Nside are from {\i1}our{\i0} school!
+Dialogue: 0,0:03:06.96,0:03:10.42,Main Dialog,,0000,0000,0000,,Even if it is just us, let's \Ndo our best to cheer on Miyaji!
+Dialogue: 0,0:03:10.42,0:03:11.21,Main Dialog,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:11.48,0:03:15.46,Main Dialog,,0000,0000,0000,,Miss Emi! I'm totally behind Miyaji!
+Dialogue: 0,0:03:15.46,0:03:16.68,Main Dialog,,0000,0000,0000,,Me too!
+Dialogue: 0,0:03:16.68,0:03:17.84,Main Dialog,,0000,0000,0000,,MT, yo!
+Dialogue: 0,0:03:18.09,0:03:20.98,Main Dialog,,0000,0000,0000,,Come on, guys, cheer for all you're worth!
+Dialogue: 0,0:03:22.17,0:03:25.36,Main Dialog,,0000,0000,0000,,Miyaji! Miyaji! Miyaji! Miyaji!
+Dialogue: 0,0:03:25.36,0:03:27.58,Main Dialog,,0000,0000,0000,,Hey! You two cheer 'em on, too!
+Dialogue: 0,0:03:29.73,0:03:32.25,Main Dialog,,0000,0000,0000,,Miyaji! Miyaji! Miyaji!
+Dialogue: 0,0:03:33.08,0:03:36.68,Main Dialog,,0000,0000,0000,,Don't you think the third \Nmatch should be interesting?
+Dialogue: 0,0:03:36.68,0:03:38.21,Main Dialog,,0000,0000,0000,,Yeah. It should.
+Dialogue: 0,0:03:39.02,0:03:42.24,Main Dialog,,0000,0000,0000,,It promises to be a fight that shows \Nthe true potential of both parties.
+Dialogue: 0,0:03:51.25,0:04:00.76,Signs,,0000,0000,0000,,VF High School Championship
+Dialogue: 0,0:03:52.04,0:03:55.86,Main Dialog,,0000,0000,0000,,Luck's taken them this far, \Nbut they're out of it now.
+Dialogue: 0,0:03:55.86,0:03:58.72,Main Dialog,,0000,0000,0000,,When they fail to win, that's when...
+Dialogue: 0,0:04:04.33,0:04:06.89,Main Dialog,,0000,0000,0000,,Have you improved a little?
+Dialogue: 0,0:04:07.31,0:04:08.50,Main Dialog,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:08.50,0:04:10.89,Main Dialog,,0000,0000,0000,,We ain't gonna have a repeat \Nof what happened last time.
+Dialogue: 0,0:04:11.76,0:04:15.27,Main Dialog,,0000,0000,0000,,At last, the big day is here, Aichi.
+Dialogue: 0,0:04:16.04,0:04:19.08,Main Dialog,,0000,0000,0000,,I'm really looking forward to it. I really am.
+Dialogue: 0,0:04:19.86,0:04:21.15,Main Dialog,,0000,0000,0000,,Ren...
+Dialogue: 0,0:04:23.14,0:04:29.18,Main Dialog,,0000,0000,0000,,Thanks to you, Shadow Paladin \Nhas returned to me.
+Dialogue: 0,0:04:29.18,0:04:32.22,Main Dialog,,0000,0000,0000,,That's why I wanted to thank you...
+Dialogue: 0,0:04:33.00,0:04:34.92,Main Dialog,,0000,0000,0000,,...by defeating you.
+Dialogue: 0,0:04:36.76,0:04:39.00,Main Dialog,,0000,0000,0000,,{\i1}That{\i0} Ren has come back...
+Dialogue: 0,0:04:39.52,0:04:42.05,Main Dialog,,0000,0000,0000,,But I have no intention of losing!
+Dialogue: 0,0:04:44.20,0:04:46.82,Main Dialog,,0000,0000,0000,,Nice eyes, Aichi.
+Dialogue: 0,0:04:46.82,0:04:50.69,Main Dialog,,0000,0000,0000,,I know we're third, but I'd \Nlike to fight right now.
+Dialogue: 0,0:04:50.69,0:04:54.46,Main Dialog,,0000,0000,0000,,Unfortunately, you may not \Nget the chance to fight, Ren.
+Dialogue: 0,0:04:55.13,0:04:58.56,Main Dialog,,0000,0000,0000,,Suiko and I can handle Miyaji \NAcademy all by ourselves.
+Dialogue: 0,0:05:00.10,0:05:02.19,Main Dialog,,0000,0000,0000,,I'm not going to let that comment go.
+Dialogue: 0,0:05:02.52,0:05:07.22,Main Dialog,,0000,0000,0000,,Oh, dear. Your mouth is \Ntwitching, Ms. Ultra-rare.
+Dialogue: 0,0:05:07.22,0:05:10.18,Main Dialog,,0000,0000,0000,,If you can't maintain your smile \Nover a little remark like that,
+Dialogue: 0,0:05:10.18,0:05:11.98,Main Dialog,,0000,0000,0000,,isn't that a failure as an idol?
+Dialogue: 0,0:05:11.98,0:05:14.71,Main Dialog,,0000,0000,0000,,Come on, Kourin, smile! Smile!
+Dialogue: 0,0:05:16.00,0:05:19.21,Main Dialog,,0000,0000,0000,,Thank you for the advice.
+Dialogue: 0,0:05:20.89,0:05:24.56,Main Dialog,,0000,0000,0000,,Either way, let's all \Nhave a good final round.
+Dialogue: 0,0:05:24.56,0:05:26.09,Main Dialog,,0000,0000,0000,,Right, Aichi?
+Dialogue: 0,0:05:26.70,0:05:29.34,Main Dialog,,0000,0000,0000,,Right! I look forward to it.
+Dialogue: 0,0:05:29.85,0:05:34.85,Signs,,0000,0000,0000,,Challenger Naoki
+Dialogue: 0,0:05:35.21,0:05:39.10,Main Dialog,,0000,0000,0000,,All right! In just a moment, the first \Nmatch of the final round will begin!
+Dialogue: 0,0:05:51.44,0:05:53.62,Main Dialog,,0000,0000,0000,,Naoki, give it your all!
+Dialogue: 0,0:05:53.96,0:05:58.28,Main Dialog,,0000,0000,0000,,The first match is all-important in \Nbuilding up momentum for the whole team!
+Dialogue: 0,0:05:58.28,0:05:59.60,Main Dialog,,0000,0000,0000,,We're counting on you!
+Dialogue: 0,0:05:59.60,0:06:00.88,Main Dialog,,0000,0000,0000,,Keep a clear head!
+Dialogue: 0,0:06:01.68,0:06:04.65,Main Dialog,,0000,0000,0000,,Thanks, everyone...
+Dialogue: 0,0:06:05.66,0:06:08.52,Main Dialog,,0000,0000,0000,,All right, let the first \Nmatch of the final round...
+Dialogue: 0,0:06:08.52,0:06:09.26,Main Dialog,,0000,0000,0000,,...begin!
+Dialogue: 0,0:06:09.69,0:06:11.60,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:06:17.94,0:06:19.72,Main Dialog,,0000,0000,0000,,Hope Child, Turiel!
+Dialogue: 0,0:06:21.49,0:06:24.36,Main Dialog,,0000,0000,0000,,Flag of Raijin, Corposant!
+Dialogue: 0,0:06:24.82,0:06:27.36,Main Dialog,,0000,0000,0000,,Okay, the curtain has risen on this battle!
+Dialogue: 0,0:06:27.61,0:06:32.49,Main Dialog,,0000,0000,0000,,A heated battle between high \Nschool students is s-{\i1}o{\i0} exciting!
+Dialogue: 0,0:06:32.89,0:06:35.24,Main Dialog,,0000,0000,0000,,Fight, Miyaji Academy!
+Dialogue: 0,0:06:35.58,0:06:38.50,Main Dialog,,0000,0000,0000,,Go! Go! Fukuhara!
+Dialogue: 0,0:06:39.48,0:06:42.00,Main Dialog,,0000,0000,0000,,I ride Crimson Mind, Baruch!
+Dialogue: 0,0:06:42.62,0:06:45.53,Main Dialog,,0000,0000,0000,,I ride Ceremonial Bonfire Eradicator, Castor!
+Dialogue: 0,0:06:46.01,0:06:47.52,Main Dialog,,0000,0000,0000,,Attack!
+Dialogue: 0,0:06:50.56,0:06:53.51,Main Dialog,,0000,0000,0000,,I ride Core Memory, Armaros!
+Dialogue: 0,0:06:59.32,0:07:01.18,Main Dialog,,0000,0000,0000,,Dragonic Deathscythe!
+Dialogue: 0,0:07:03.24,0:07:05.48,Main Dialog,,0000,0000,0000,,Deathscythe's skill activates!
+Dialogue: 0,0:07:06.72,0:07:09.28,Main Dialog,,0000,0000,0000,,I retire Million Ray Pegasus!
+Dialogue: 0,0:07:12.05,0:07:13.16,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:07:13.76,0:07:16.54,Main Dialog,,0000,0000,0000,,Thunderstorm attacks Armaros!
+Dialogue: 0,0:07:16.77,0:07:17.91,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:07:18.48,0:07:19.99,Main Dialog,,0000,0000,0000,,Deathscythe attacks!
+Dialogue: 0,0:07:22.52,0:07:23.66,Main Dialog,,0000,0000,0000,,Trigger check!
+Dialogue: 0,0:07:24.93,0:07:26.06,Main Dialog,,0000,0000,0000,,Corposant!
+Dialogue: 0,0:07:27.12,0:07:28.80,Main Dialog,,0000,0000,0000,,And Deathscythe!
+Dialogue: 0,0:07:34.92,0:07:37.44,Main Dialog,,0000,0000,0000,,I give all of the effects to Armaros.
+Dialogue: 0,0:07:40.21,0:07:42.69,Main Dialog,,0000,0000,0000,,Mess her up, Corposant!
+Dialogue: 0,0:07:47.37,0:07:48.57,Main Dialog,,0000,0000,0000,,I guard with Nociel!
+Dialogue: 0,0:07:52.76,0:07:54.57,Main Dialog,,0000,0000,0000,,Nociel's skill is activated.
+Dialogue: 0,0:07:57.74,0:07:59.21,Main Dialog,,0000,0000,0000,,Turn end!
+Dialogue: 0,0:08:00.18,0:08:04.00,Main Dialog,,0000,0000,0000,,Like they say, "prepare everything \Nwhen the mind is patient."
+Dialogue: 0,0:08:04.44,0:08:08.09,Main Dialog,,0000,0000,0000,,I won't lose as long as I keep \Nmovin' ahead with perseverance!
+Dialogue: 0,0:08:08.46,0:08:13.16,Main Dialog,,0000,0000,0000,,Ishida is making a valiant effort \Nto fight carefully today!
+Dialogue: 0,0:08:13.16,0:08:16.47,Main Dialog,,0000,0000,0000,,I can tell that he doesn't want to lose!
+Dialogue: 0,0:08:16.89,0:08:17.72,Main Dialog,,0000,0000,0000,,Ride!
+Dialogue: 0,0:08:18.25,0:08:20.97,Main Dialog,,0000,0000,0000,,Prophecy Celestial, Ramiel!
+Dialogue: 0,0:08:24.00,0:08:24.67,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:08:25.61,0:08:26.93,Main Dialog,,0000,0000,0000,,Attack Deathscythe!
+Dialogue: 0,0:08:34.13,0:08:36.37,Main Dialog,,0000,0000,0000,,Ramiel attacks Deathscythe!
+Dialogue: 0,0:08:37.18,0:08:40.87,Main Dialog,,0000,0000,0000,,Ramiel's skill activates. \NShe gets +2000 power!
+Dialogue: 0,0:08:47.02,0:08:48.42,Main Dialog,,0000,0000,0000,,Million Ray!
+Dialogue: 0,0:08:48.98,0:08:50.05,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:08:50.49,0:08:52.94,Main Dialog,,0000,0000,0000,,The damage is 4 to 4...
+Dialogue: 0,0:08:52.94,0:08:54.80,Main Dialog,,0000,0000,0000,,They'll be able to use Limit Breaks now,
+Dialogue: 0,0:08:55.25,0:08:58.29,Main Dialog,,0000,0000,0000,,so this is where they both get serious.
+Dialogue: 0,0:08:59.62,0:09:01.81,Main Dialog,,0000,0000,0000,,Here I go! Ride!
+Dialogue: 0,0:09:02.29,0:09:04.06,Main Dialog,,0000,0000,0000,,Armor Break Dragon!
+Dialogue: 0,0:09:08.00,0:09:08.93,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:09:13.56,0:09:15.57,Main Dialog,,0000,0000,0000,,Will he use its skill here?
+Dialogue: 0,0:09:16.01,0:09:19.86,Main Dialog,,0000,0000,0000,,He wouldn't! This is an important match!
+Dialogue: 0,0:09:19.86,0:09:22.58,Main Dialog,,0000,0000,0000,,A mistake like last time \Nwill blow the whole thing!
+Dialogue: 0,0:09:23.13,0:09:24.35,Main Dialog,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:09:24.35,0:09:28.65,Main Dialog,,0000,0000,0000,,If it means losing all the cards in my hand,\N I'll take it slow and steady instead!
+Dialogue: 0,0:09:29.90,0:09:31.06,Main Dialog,,0000,0000,0000,,Naoki...
+Dialogue: 0,0:09:33.84,0:09:35.34,Main Dialog,,0000,0000,0000,,Thunderstorm!
+Dialogue: 0,0:09:35.97,0:09:37.68,Main Dialog,,0000,0000,0000,,The left-side Million Ray!
+Dialogue: 0,0:09:44.73,0:09:46.61,Main Dialog,,0000,0000,0000,,Red River boosts!
+Dialogue: 0,0:09:46.61,0:09:49.55,Main Dialog,,0000,0000,0000,,Get her, Armor Break Dragon!
+Dialogue: 0,0:09:53.40,0:09:54.36,Main Dialog,,0000,0000,0000,,Aniel!
+Dialogue: 0,0:09:55.54,0:09:57.11,Main Dialog,,0000,0000,0000,,Perfect guard.
+Dialogue: 0,0:09:58.57,0:10:01.12,Main Dialog,,0000,0000,0000,,I'm not done yet! Red River boosts!
+Dialogue: 0,0:10:01.76,0:10:03.70,Main Dialog,,0000,0000,0000,,Go, Corposant!
+Dialogue: 0,0:10:08.40,0:10:09.44,Main Dialog,,0000,0000,0000,,Draw trigger.
+Dialogue: 0,0:10:13.41,0:10:14.88,Main Dialog,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:10:16.02,0:10:19.69,Main Dialog,,0000,0000,0000,,All right! She's just got 1 damage to go...
+Dialogue: 0,0:10:19.69,0:10:20.86,Main Dialog,,0000,0000,0000,,Just a little more!
+Dialogue: 0,0:10:23.76,0:10:24.77,Main Dialog,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:26.44,0:10:33.65,Main Dialog,,0000,0000,0000,,You chose not to use the Limit Break \Nskill that I guarded against before, huh?
+Dialogue: 0,0:10:34.96,0:10:38.28,Main Dialog,,0000,0000,0000,,"If it costs three units and she's \Nable to guard against it anyway,
+Dialogue: 0,0:10:38.61,0:10:41.20,Main Dialog,,0000,0000,0000,,I'll just attack her steadily instead."
+Dialogue: 0,0:10:41.20,0:10:43.12,Main Dialog,,0000,0000,0000,,So what if I thought that?!
+Dialogue: 0,0:10:43.46,0:10:46.42,Main Dialog,,0000,0000,0000,,Oh! Don't get mad about it.
+Dialogue: 0,0:10:46.42,0:10:50.62,Main Dialog,,0000,0000,0000,,I'm impressed, that's all. I can \Nsee you're getting wiser.
+Dialogue: 0,0:10:52.93,0:10:54.34,Main Dialog,,0000,0000,0000,,But...
+Dialogue: 0,0:10:54.34,0:10:56.51,Main Dialog,,0000,0000,0000,,...I'm not afraid of you at all anymore.
+Dialogue: 0,0:10:58.94,0:11:00.77,Main Dialog,,0000,0000,0000,,It's too bad.
+Dialogue: 0,0:11:00.77,0:11:04.26,Main Dialog,,0000,0000,0000,,I thought this match would \Nbe more interesting.
+Dialogue: 0,0:11:10.19,0:11:13.40,Main Dialog,,0000,0000,0000,,Shut up! You've got just 1 more damage to go!
+Dialogue: 0,0:11:14.02,0:11:18.65,Main Dialog,,0000,0000,0000,,If I can protect myself this turn, I'm \Ngonna knock you for a loop next turn!
+Dialogue: 0,0:11:19.09,0:11:20.92,Main Dialog,,0000,0000,0000,,Is that right?
+Dialogue: 0,0:11:20.92,0:11:24.67,Main Dialog,,0000,0000,0000,,Then before that happens, I'll let \Nyou hear the song of love again!
+Dialogue: 0,0:11:26.54,0:11:28.04,Main Dialog,,0000,0000,0000,,Break ride!
+Dialogue: 0,0:11:28.48,0:11:30.49,Main Dialog,,0000,0000,0000,,Chief Nurse, Shamsiel!
+Dialogue: 0,0:11:38.34,0:11:39.80,Main Dialog,,0000,0000,0000,,She's comin' at me with that?!
+Dialogue: 0,0:11:40.20,0:11:42.36,Main Dialog,,0000,0000,0000,,Ramiel's skill activates!
+Dialogue: 0,0:11:48.21,0:11:51.10,Main Dialog,,0000,0000,0000,,Listen to the song of love!
+Dialogue: 0,0:11:51.10,0:11:54.15,Main Dialog,,0000,0000,0000,,Eternal Song for the Injured!
+Dialogue: 0,0:11:56.78,0:11:57.82,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:11:58.72,0:12:02.53,Main Dialog,,0000,0000,0000,,Million Ray Pegasus attacks \NArmor Break Dragon!
+Dialogue: 0,0:12:02.98,0:12:04.16,Main Dialog,,0000,0000,0000,,Intercept!
+Dialogue: 0,0:12:07.28,0:12:11.02,Main Dialog,,0000,0000,0000,,Turiel boosts! Shamsiel attacks!
+Dialogue: 0,0:12:11.02,0:12:12.46,Main Dialog,,0000,0000,0000,,Shamsiel's skill!
+Dialogue: 0,0:12:15.25,0:12:19.30,Main Dialog,,0000,0000,0000,,And now, the second song! Listen \Nto the melody of inexhaustible love!
+Dialogue: 0,0:12:19.72,0:12:22.57,Main Dialog,,0000,0000,0000,,Eternal Song for the Injured!
+Dialogue: 0,0:12:25.32,0:12:27.22,Main Dialog,,0000,0000,0000,,This time, four units?!
+Dialogue: 0,0:12:27.56,0:12:30.60,Main Dialog,,0000,0000,0000,,Well? Are you happy to \Nbe able to hear so many?
+Dialogue: 0,0:12:46.54,0:12:48.72,Main Dialog,,0000,0000,0000,,This is the final round for Kanto Block 3.
+Dialogue: 0,0:12:48.72,0:12:52.12,Main Dialog,,0000,0000,0000,,We're near the end of the first \Nmatch, with 5 to 4 damage!
+Dialogue: 0,0:12:52.41,0:12:55.12,Main Dialog,,0000,0000,0000,,Ishida of Miyaji Academy is in the lead!
+Dialogue: 0,0:12:55.58,0:13:00.10,Main Dialog,,0000,0000,0000,,But Tatsunagi is expertly empl-{\i1}o-{\i0}ying \Nthe Angel Feather skills,
+Dialogue: 0,0:13:00.10,0:13:02.96,Main Dialog,,0000,0000,0000,,putting her opponent in \Na precarious p-{\i1}o{\i0}-sition!
+Dialogue: 0,0:13:04.88,0:13:09.97,Main Dialog,,0000,0000,0000,,Shamsiel's power is 24000, making \Nit a total attack of 29000,
+Dialogue: 0,0:13:09.97,0:13:12.18,Main Dialog,,0000,0000,0000,,so he needs a lot of guards.
+Dialogue: 0,0:13:12.18,0:13:14.39,Main Dialog,,0000,0000,0000,,And if she gets a trigger, he'll lose!
+Dialogue: 0,0:13:18.49,0:13:20.62,Main Dialog,,0000,0000,0000,,This fight is already over!
+Dialogue: 0,0:13:20.62,0:13:23.26,Main Dialog,,0000,0000,0000,,Let's put our hopes on the next \Nmatches with Kourin and you, Sendou!
+Dialogue: 0,0:13:23.90,0:13:24.49,Main Dialog,,0000,0000,0000,,But...
+Dialogue: 0,0:13:25.37,0:13:26.92,Main Dialog,,0000,0000,0000,,What are you talking about?!
+Dialogue: 0,0:13:26.99,0:13:30.05,Main Dialog,,0000,0000,0000,,He hasn't given up yet!
+Dialogue: 0,0:13:33.82,0:13:35.44,Main Dialog,,0000,0000,0000,,Too bad for you!
+Dialogue: 0,0:13:37.01,0:13:38.48,Main Dialog,,0000,0000,0000,,I guard with Guld!
+Dialogue: 0,0:13:39.56,0:13:41.29,Main Dialog,,0000,0000,0000,,That's a perfect guard!
+Dialogue: 0,0:13:43.36,0:13:44.40,Main Dialog,,0000,0000,0000,,Not bad.
+Dialogue: 0,0:13:44.40,0:13:48.38,Main Dialog,,0000,0000,0000,,But don't count your chickens \Nwith just a perfect guard.
+Dialogue: 0,0:13:48.38,0:13:49.55,Main Dialog,,0000,0000,0000,,Trigger check.
+Dialogue: 0,0:13:50.13,0:13:51.22,Main Dialog,,0000,0000,0000,,First check...
+Dialogue: 0,0:13:51.69,0:13:52.81,Main Dialog,,0000,0000,0000,,Second check...
+Dialogue: 0,0:13:53.94,0:13:55.18,Main Dialog,,0000,0000,0000,,Heal trigger!
+Dialogue: 0,0:13:55.65,0:13:57.57,Main Dialog,,0000,0000,0000,,I give the power to Million Ray
+Dialogue: 0,0:13:57.57,0:13:59.56,Main Dialog,,0000,0000,0000,,and heal 1 damage point.
+Dialogue: 0,0:14:00.17,0:14:02.44,Main Dialog,,0000,0000,0000,,Thousand Ray Pegasus boosts.
+Dialogue: 0,0:14:02.78,0:14:06.52,Main Dialog,,0000,0000,0000,,Million Ray Pegasus attacks \NArmor Break Dragon!
+Dialogue: 0,0:14:11.98,0:14:13.00,Main Dialog,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:14:14.21,0:14:15.96,Main Dialog,,0000,0000,0000,,Stand and draw!
+Dialogue: 0,0:14:16.60,0:14:17.68,Main Dialog,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:14:18.04,0:14:20.52,Main Dialog,,0000,0000,0000,,The damage is still 5 to 4, but reversed,
+Dialogue: 0,0:14:20.52,0:14:23.46,Main Dialog,,0000,0000,0000,,with me just 1 point away from losing!
+Dialogue: 0,0:14:25.45,0:14:28.89,Main Dialog,,0000,0000,0000,,If I use my Limit Break, I may win,
+Dialogue: 0,0:14:30.05,0:14:33.82,Main Dialog,,0000,0000,0000,,but if she's able to protect \Nagainst it, it's all over for me!
+Dialogue: 0,0:14:34.93,0:14:37.66,Main Dialog,,0000,0000,0000,,Whatever it takes, I wanna win today!
+Dialogue: 0,0:14:37.66,0:14:41.33,Main Dialog,,0000,0000,0000,,But I don't have to make a huge \Ngamble by dumping three cards!
+Dialogue: 0,0:14:41.66,0:14:45.40,Main Dialog,,0000,0000,0000,,After all, I still got a pair \Nof perfect guards in my hand...
+Dialogue: 0,0:14:46.41,0:14:50.62,Main Dialog,,0000,0000,0000,,So if I just hang on through the next turn...
+Dialogue: 0,0:14:51.17,0:14:53.28,Main Dialog,,0000,0000,0000,,But... But...
+Dialogue: 0,0:14:54.80,0:14:56.04,Main Dialog,,0000,0000,0000,,I don't wanna lose!
+Dialogue: 0,0:14:56.72,0:14:57.79,Main Dialog,,0000,0000,0000,,But...
+Dialogue: 0,0:14:58.37,0:15:00.22,Main Dialog,,0000,0000,0000,,I don't wanna make a mistake either!
+Dialogue: 0,0:15:01.40,0:15:02.61,Main Dialog,,0000,0000,0000,,What should I do?!
+Dialogue: 0,0:15:03.72,0:15:05.55,Main Dialog,,0000,0000,0000,,What should I do?!
+Dialogue: 0,0:15:07.96,0:15:09.24,Main Dialog,,0000,0000,0000,,Naoki!
+Dialogue: 0,0:15:11.49,0:15:13.18,Main Dialog,,0000,0000,0000,,Trust yourself!
+Dialogue: 0,0:15:14.45,0:15:15.82,Main Dialog,,0000,0000,0000,,Naoki!
+Dialogue: 0,0:15:17.04,0:15:20.12,Main Dialog,,0000,0000,0000,,Trust... myself...
+Dialogue: 0,0:15:23.09,0:15:24.89,Main Dialog,,0000,0000,0000,,Armor Break Dragon...
+Dialogue: 0,0:15:32.22,0:15:34.41,Main Dialog,,0000,0000,0000,,What the heck?! Jeez...
+Dialogue: 0,0:15:34.41,0:15:38.10,Main Dialog,,0000,0000,0000,,A person who's just thinkin' about safe \Nchoices and runnin' away from the fight...
+Dialogue: 0,0:15:38.10,0:15:39.40,Main Dialog,,0000,0000,0000,,...isn't me!
+Dialogue: 0,0:15:42.46,0:15:44.67,Main Dialog,,0000,0000,0000,,I started Vanguard to get \Nfired up about somethin'!
+Dialogue: 0,0:15:45.36,0:15:47.22,Main Dialog,,0000,0000,0000,,To get passionate about somethin'!
+Dialogue: 0,0:15:47.22,0:15:50.38,Main Dialog,,0000,0000,0000,,How could I have forgotten \Nsomethin' as important as that?!
+Dialogue: 0,0:15:50.61,0:15:53.22,Main Dialog,,0000,0000,0000,,I'm a complete idiot!
+Dialogue: 0,0:15:55.36,0:15:58.39,Main Dialog,,0000,0000,0000,,When there's courage in the \Nheart, there are no regrets!
+Dialogue: 0,0:15:59.02,0:16:01.10,Main Dialog,,0000,0000,0000,,Corposant's skill is activated!
+Dialogue: 0,0:16:03.25,0:16:05.81,Main Dialog,,0000,0000,0000,,Armor Break Dragon gets +3000 power!
+Dialogue: 0,0:16:06.84,0:16:08.86,Main Dialog,,0000,0000,0000,,If you can do the impossible, \Nlogic goes by the wayside!
+Dialogue: 0,0:16:09.45,0:16:11.74,Main Dialog,,0000,0000,0000,,If you can get past pride, \Nthe limit backs off!
+Dialogue: 0,0:16:12.56,0:16:14.57,Main Dialog,,0000,0000,0000,,That's the way a man lives!
+Dialogue: 0,0:16:15.03,0:16:19.41,Main Dialog,,0000,0000,0000,,Armor Break Dragon! And \Nwhat I'm doin' right now...
+Dialogue: 0,0:16:19.58,0:16:22.06,Main Dialog,,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:16:34.81,0:16:36.86,Main Dialog,,0000,0000,0000,,Armor Break Dragon!
+Dialogue: 0,0:16:36.86,0:16:41.56,Main Dialog,,0000,0000,0000,,Cast off your armor and turn its \Nprotective power into an iron fist!
+Dialogue: 0,0:16:45.16,0:16:47.52,Main Dialog,,0000,0000,0000,,I call Vowing Sword Dragon!
+Dialogue: 0,0:16:48.18,0:16:50.17,Main Dialog,,0000,0000,0000,,Red River boosts!
+Dialogue: 0,0:16:50.17,0:16:53.40,Main Dialog,,0000,0000,0000,,Armor Break Dragon attacks Shamsiel!
+Dialogue: 0,0:16:56.36,0:17:00.74,Main Dialog,,0000,0000,0000,,I guard with Critical Hit Angel, \NSamyaza, and Ramuel!
+Dialogue: 0,0:17:01.86,0:17:04.33,Main Dialog,,0000,0000,0000,,That's 32000 power versus 40000!
+Dialogue: 0,0:17:04.89,0:17:07.04,Main Dialog,,0000,0000,0000,,Suiko's guard is higher.
+Dialogue: 0,0:17:08.34,0:17:11.57,Main Dialog,,0000,0000,0000,,But that doesn't scare me!
+Dialogue: 0,0:17:11.57,0:17:16.18,Main Dialog,,0000,0000,0000,,Armor Break Dragon! Feel \Nthe flames of my heart!
+Dialogue: 0,0:17:21.74,0:17:23.24,Main Dialog,,0000,0000,0000,,Drive check!
+Dialogue: 0,0:17:24.76,0:17:26.56,Main Dialog,,0000,0000,0000,,He got a trigger!
+Dialogue: 0,0:17:26.97,0:17:31.57,Main Dialog,,0000,0000,0000,,Yeah! I add +5000 to the \Npower of Armor Break Dragon!
+Dialogue: 0,0:17:33.53,0:17:34.32,Main Dialog,,0000,0000,0000,,Second check!
+Dialogue: 0,0:17:35.89,0:17:37.07,Main Dialog,,0000,0000,0000,,He got another one!
+Dialogue: 0,0:17:37.84,0:17:41.70,Main Dialog,,0000,0000,0000,,I give all of the effects \Nto Armor Break Dragon!
+Dialogue: 0,0:17:43.79,0:17:45.75,Main Dialog,,0000,0000,0000,,Get her!
+Dialogue: 0,0:17:55.66,0:17:57.12,Main Dialog,,0000,0000,0000,,At the eleventh hour...
+Dialogue: 0,0:17:57.81,0:18:00.26,Main Dialog,,0000,0000,0000,,...he managed to draw two triggers...
+Dialogue: 0,0:18:05.73,0:18:08.23,Main Dialog,,0000,0000,0000,,He really is an interesting boy.
+Dialogue: 0,0:18:11.14,0:18:15.49,Main Dialog,,0000,0000,0000,,The winner of the first match, \Nfrom Miyaji Academy, Naoki Ishida!
+Dialogue: 0,0:18:15.49,0:18:18.49,Signs,,0000,0000,0000,,VF High School Championship\NKanto Block 3
+Dialogue: 0,0:18:21.45,0:18:24.48,Main Dialog,,0000,0000,0000,,Amazing! Miyaji Academy's \NIshida lost his lead,
+Dialogue: 0,0:18:24.48,0:18:27.12,Main Dialog,,0000,0000,0000,,then regained it, becoming victorious!
+Dialogue: 0,0:18:27.12,0:18:32.53,Main Dialog,,0000,0000,0000,,He used Armor Break Dragon's skill without \Nfear to attain a courageous victory!
+Dialogue: 0,0:18:32.53,0:18:33.88,Main Dialog,,0000,0000,0000,,You are s-{\i1}o{\i0} right!
+Dialogue: 0,0:18:34.41,0:18:35.73,Main Dialog,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:18:35.73,0:18:37.63,Main Dialog,,0000,0000,0000,,That was awesome!
+Dialogue: 0,0:18:39.38,0:18:40.96,Main Dialog,,0000,0000,0000,,What's the big deal?
+Dialogue: 0,0:18:43.30,0:18:45.17,Main Dialog,,0000,0000,0000,,You did it, Naoki!
+Dialogue: 0,0:18:45.17,0:18:47.48,Main Dialog,,0000,0000,0000,,Beating Suiko, that's really something!
+Dialogue: 0,0:18:47.48,0:18:48.98,Main Dialog,,0000,0000,0000,,You've grown.
+Dialogue: 0,0:18:48.98,0:18:50.52,Main Dialog,,0000,0000,0000,,Th-Thanks...
+Dialogue: 0,0:18:51.74,0:18:52.85,Main Dialog,,0000,0000,0000,,I did it...
+Dialogue: 0,0:18:54.94,0:18:56.13,Main Dialog,,0000,0000,0000,,I did it!
+Dialogue: 0,0:18:56.13,0:18:58.52,Main Dialog,,0000,0000,0000,,I was able to contribute to the team!
+Dialogue: 0,0:19:01.12,0:19:07.17,Main Dialog,,0000,0000,0000,,Having to cheer on a fight that makes no \Nprogress... Think how that feels from our end!
+Dialogue: 0,0:19:07.17,0:19:08.46,Main Dialog,,0000,0000,0000,,What's that?!
+Dialogue: 0,0:19:08.46,0:19:12.50,Main Dialog,,0000,0000,0000,,A true fighter draws on his units' abilities.
+Dialogue: 0,0:19:12.50,0:19:14.94,Main Dialog,,0000,0000,0000,,As famous military leader \NShingen Takeda once said,
+Dialogue: 0,0:19:14.94,0:19:17.46,Main Dialog,,0000,0000,0000,,"Use sour persimmon as sour persimmon."
+Dialogue: 0,0:19:17.94,0:19:20.30,Main Dialog,,0000,0000,0000,,Did he say that?
+Dialogue: 0,0:19:20.68,0:19:24.93,Main Dialog,,0000,0000,0000,,Shut up! You lookin' to start \Nthe Kawanakajima campaign here?!
+Dialogue: 0,0:19:24.93,0:19:26.76,Main Dialog,,0000,0000,0000,,You want to start it?!
+Dialogue: 0,0:19:27.45,0:19:29.13,Main Dialog,,0000,0000,0000,,Calm down, you two!
+Dialogue: 0,0:19:32.45,0:19:33.69,Main Dialog,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:19:34.21,0:19:36.53,Main Dialog,,0000,0000,0000,,I was done in by passion.
+Dialogue: 0,0:19:36.53,0:19:39.82,Main Dialog,,0000,0000,0000,,Maybe his rapid improvement \Nis down to his youth, too.
+Dialogue: 0,0:19:40.22,0:19:46.08,Main Dialog,,0000,0000,0000,,Honestly... Giving Ren's team a defeat \Nis a sin worthy of dying 10,000 times.
+Dialogue: 0,0:19:46.08,0:19:47.62,Main Dialog,,0000,0000,0000,,Right, Ren?
+Dialogue: 0,0:19:47.62,0:19:49.60,Main Dialog,,0000,0000,0000,,Okay, okay, Asaka.
+Dialogue: 0,0:19:49.60,0:19:51.60,Main Dialog,,0000,0000,0000,,I don't mind.
+Dialogue: 0,0:19:51.60,0:19:53.34,Main Dialog,,0000,0000,0000,,We can afford one loss.
+Dialogue: 0,0:19:53.34,0:19:55.70,Main Dialog,,0000,0000,0000,,Wha...?! Ren...
+Dialogue: 0,0:19:56.14,0:19:58.57,Main Dialog,,0000,0000,0000,,It was a worthy effort, Suiko.
+Dialogue: 0,0:19:58.57,0:20:00.47,Main Dialog,,0000,0000,0000,,Come on, have a seat.
+Dialogue: 0,0:20:01.02,0:20:02.10,Main Dialog,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:20:04.54,0:20:06.85,Main Dialog,,0000,0000,0000,,Hey, what?! That's too close!
+Dialogue: 0,0:20:07.40,0:20:10.33,Main Dialog,,0000,0000,0000,,First, let's cheer Asaka on.
+Dialogue: 0,0:20:10.33,0:20:11.23,Main Dialog,,0000,0000,0000,,Certainly.
+Dialogue: 0,0:20:14.13,0:20:15.86,Main Dialog,,0000,0000,0000,,Calm down, Asaka!
+Dialogue: 0,0:20:15.86,0:20:19.08,Main Dialog,,0000,0000,0000,,But even if I don't root for her,
+Dialogue: 0,0:20:19.08,0:20:22.11,Main Dialog,,0000,0000,0000,,I trust that Asaka will win her match.
+Dialogue: 0,0:20:23.40,0:20:25.26,Main Dialog,,0000,0000,0000,,O-Of course!
+Dialogue: 0,0:20:25.26,0:20:29.74,Main Dialog,,0000,0000,0000,,I'll be of service to Ren as sure \Nas I'm this club's vice-captain!
+Dialogue: 0,0:20:30.34,0:20:31.85,Main Dialog,,0000,0000,0000,,Such confidence!
+Dialogue: 0,0:20:31.85,0:20:36.13,Main Dialog,,0000,0000,0000,,I also have faith that you'll win.
+Dialogue: 0,0:20:38.12,0:20:40.88,Main Dialog,,0000,0000,0000,,Do us proud, Asaka.
+Dialogue: 0,0:20:41.14,0:20:42.96,Main Dialog,,0000,0000,0000,,I-I will!
+Dialogue: 0,0:20:42.96,0:20:48.22,Main Dialog,,0000,0000,0000,,Just for you, Ren, I'll put on a \Nbeautiful, victory-achieving show.
+Dialogue: 0,0:20:48.66,0:20:52.62,Main Dialog,,0000,0000,0000,,All right! Let's throw each \Nother in the air to celebrate!
+Dialogue: 0,0:20:52.72,0:20:53.77,Main Dialog,,0000,0000,0000,,Too premature.
+Dialogue: 0,0:20:54.14,0:20:57.38,Main Dialog,,0000,0000,0000,,Whoops. That's right, we \Ngotta win one more, don't we?
+Dialogue: 0,0:20:57.38,0:21:00.53,Main Dialog,,0000,0000,0000,,Then you're next, Kourin. Have a good fight.
+Dialogue: 0,0:21:00.53,0:21:02.49,Main Dialog,,0000,0000,0000,,Keep this momentum goin'!
+Dialogue: 0,0:21:02.49,0:21:04.78,Main Dialog,,0000,0000,0000,,Don't give her any mercy!
+Dialogue: 0,0:21:05.22,0:21:06.40,Main Dialog,,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:21:06.40,0:21:08.81,Main Dialog,,0000,0000,0000,,Be careful of her Soul.
+Dialogue: 0,0:21:08.81,0:21:11.16,Main Dialog,,0000,0000,0000,,Thank you. I'll be back soon.
+Dialogue: 0,0:21:12.76,0:21:14.97,Main Dialog,,0000,0000,0000,,Good luck, Kourin!
+Dialogue: 0,0:21:15.89,0:21:17.73,Main Dialog,,0000,0000,0000,,Win it for us!
+Dialogue: 0,0:21:17.73,0:21:19.48,Main Dialog,,0000,0000,0000,,Win it, you say?
+Dialogue: 0,0:21:20.73,0:21:23.36,Main Dialog,,0000,0000,0000,,I'm going to win, for Ren's sake.
+Dialogue: 0,0:21:23.36,0:21:25.80,Main Dialog,,0000,0000,0000,,And there's no way that Ren will lose.
+Dialogue: 0,0:21:26.40,0:21:30.31,Main Dialog,,0000,0000,0000,,In other words, your victories are over.
+Dialogue: 0,0:21:32.49,0:21:33.73,Main Dialog,,0000,0000,0000,,Huh...
+Dialogue: 0,0:21:33.73,0:21:35.65,Main Dialog,,0000,0000,0000,,That's some confidence.
+Dialogue: 0,0:21:35.65,0:21:38.69,Main Dialog,,0000,0000,0000,,But I have no intention of losing either.
+Dialogue: 0,0:21:40.13,0:21:41.77,Main Dialog,,0000,0000,0000,,You put up a good front.
+Dialogue: 0,0:21:42.69,0:21:49.70,Signs,,0000,0000,0000,,Love
+Dialogue: 0,0:21:43.91,0:21:49.70,Signs,,0000,0000,0000,,Kourin Love
+Dialogue: 0,0:21:44.52,0:21:46.98,Main Dialog,,0000,0000,0000,,Hooray! Hooray!
+Dialogue: 0,0:21:46.98,0:21:49.70,Main Dialog,,0000,0000,0000,,Kourin!
+Dialogue: 0,0:21:50.44,0:21:51.82,Main Dialog,,0000,0000,0000,,Let's join in!
+Dialogue: 0,0:21:51.82,0:21:54.33,Main Dialog,,0000,0000,0000,,Miyaji Academy, fight!
+Dialogue: 0,0:21:55.21,0:21:57.68,Main Dialog,,0000,0000,0000,,Give it your all, Miyaji!
+Dialogue: 0,0:21:57.68,0:21:59.25,Main Dialog,,0000,0000,0000,,Good luck!
+Dialogue: 0,0:21:59.93,0:22:02.71,Main Dialog,,0000,0000,0000,,Looks like everybody's fired up.
+Dialogue: 0,0:22:03.65,0:22:05.61,Main Dialog,,0000,0000,0000,,Asaka is strong,
+Dialogue: 0,0:22:05.61,0:22:08.56,Main Dialog,,0000,0000,0000,,but I'm sure Kourin will be okay.
+Dialogue: 0,0:22:09.37,0:22:11.22,Main Dialog,,0000,0000,0000,,Good luck, Kourin!
+Dialogue: 0,0:22:11.66,0:22:16.02,Main Dialog,,0000,0000,0000,,And now, everything is in place for \Nthe second match of the final round!
+Dialogue: 0,0:22:16.50,0:22:18.52,Main Dialog,,0000,0000,0000,,Let's fight!
+Dialogue: 0,0:22:19.08,0:22:21.34,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:23:56.84,0:23:59.16,Main Dialog,,0000,0000,0000,,That fight was nerve-wracking!
+Dialogue: 0,0:23:59.16,0:24:01.79,Main Dialog,,0000,0000,0000,,Shut up! It was the best I could do!
+Dialogue: 0,0:24:01.79,0:24:04.37,Main Dialog,,0000,0000,0000,,Kourin is up next. You can do it!
+Dialogue: 0,0:24:04.37,0:24:06.10,Main Dialog,,0000,0000,0000,,Her opponent is Asaka Narumi.
+Dialogue: 0,0:24:06.10,0:24:10.13,Main Dialog,,0000,0000,0000,,Nicknamed the Beautiful Assassin, she \Npeppers her flashy show with lethal attacks!
+Dialogue: 0,0:24:10.57,0:24:13.14,Main Dialog,,0000,0000,0000,,I'm sure it'll be a different kind \Nof fight than the one we observed.
+Dialogue: 0,0:24:13.14,0:24:14.93,Main Dialog,,0000,0000,0000,,Next time: Feelings About Victory!
+Dialogue: 0,0:24:15.42,0:24:17.18,Main Dialog,,0000,0000,0000,,Be careful, Kourin!
+Dialogue: 0,0:24:17.18,0:24:20.57,Main Dialog,,0000,0000,0000,,Her opponent is a cornerstone \Nof AL4. My heart's pounding!
+Dialogue: 0,0:24:20.98,0:24:23.48,Main Dialog,,0000,0000,0000,,They both look like fierce \Nopponents, don't they?

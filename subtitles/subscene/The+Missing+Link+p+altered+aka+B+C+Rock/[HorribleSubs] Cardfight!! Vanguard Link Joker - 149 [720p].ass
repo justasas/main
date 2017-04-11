@@ -1,0 +1,291 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:05.08,0:00:06.58,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:00:11.51,0:00:13.78,Main Dialog,Spoken,0000,0000,0000,,You wiped me out.
+Dialogue: 0,0:00:14.99,0:00:17.55,Main Dialog,Spoken,0000,0000,0000,,All right... I did it!
+Dialogue: 0,0:00:20.79,0:00:22.44,Main Dialog,Spoken,0000,0000,0000,,I did it!
+Dialogue: 0,0:00:22.44,0:00:28.75,Main Dialog,Spoken,0000,0000,0000,,The deck that I could see in my mind's eye \Nwhile fighting Leon is given form at last!
+Dialogue: 0,0:00:29.15,0:00:33.76,Main Dialog,Spoken,0000,0000,0000,,You're tough. And I'm worn out.
+Dialogue: 0,0:00:38.33,0:00:41.22,Main Dialog,Spoken,0000,0000,0000,,Sorry for makin' you hang \Nout with me like this.
+Dialogue: 0,0:00:41.22,0:00:43.51,Main Dialog,Spoken,0000,0000,0000,,You can sleep there for a while.
+Dialogue: 0,0:00:43.51,0:00:45.90,Main Dialog,Spoken,0000,0000,0000,,I got somewhere to go.
+Dialogue: 0,0:00:46.87,0:00:48.43,Main Dialog,Spoken,0000,0000,0000,,Go where?
+Dialogue: 0,0:00:48.43,0:00:50.78,Main Dialog,Spoken,0000,0000,0000,,It's obvious, isn't it?
+Dialogue: 0,0:00:51.85,0:00:54.03,Main Dialog,Spoken,0000,0000,0000,,Miyaji Academy!
+Dialogue: 0,0:02:25.07,0:02:26.93,Main Dialog,Spoken,0000,0000,0000,,Miyaji Academy?
+Dialogue: 0,0:02:26.93,0:02:28.33,Main Dialog,Spoken,0000,0000,0000,,Yeah, that's right.
+Dialogue: 0,0:02:28.73,0:02:32.63,Main Dialog,Spoken,0000,0000,0000,,It ain't like me to just run away \Nwith my tail between my legs.
+Dialogue: 0,0:02:33.47,0:02:38.17,Main Dialog,Spoken,0000,0000,0000,,Besides, one of them black \Nrings is above the school.
+Dialogue: 0,0:02:38.68,0:02:42.54,Main Dialog,Spoken,0000,0000,0000,,Bet you anything those Reversed \Nfighters are gathering there.
+Dialogue: 0,0:02:44.79,0:02:47.93,Main Dialog,Spoken,0000,0000,0000,,By hook or by crook, I gotta crush 'em.
+Dialogue: 0,0:02:48.38,0:02:52.19,Main Dialog,Spoken,0000,0000,0000,,You don't think you should \Nconsult with Sendou first?
+Dialogue: 0,0:02:53.17,0:02:56.57,Main Dialog,Spoken,0000,0000,0000,,He's got his fight with Kai.
+Dialogue: 0,0:02:56.57,0:02:59.25,Main Dialog,Spoken,0000,0000,0000,,I don't want him to worry about other stuff.
+Dialogue: 0,0:03:00.60,0:03:02.09,Main Dialog,Spoken,0000,0000,0000,,Good grief...
+Dialogue: 0,0:03:03.41,0:03:06.01,Main Dialog,Spoken,0000,0000,0000,,And I thought I could get a little sleep...
+Dialogue: 0,0:03:06.01,0:03:07.20,Main Dialog,Spoken,0000,0000,0000,,Shingo?
+Dialogue: 0,0:03:07.20,0:03:12.12,Main Dialog,Spoken,0000,0000,0000,,In the first place, you're the weakest \Nmember of Miyaji Academy's Cardfight Club!
+Dialogue: 0,0:03:12.12,0:03:14.84,Main Dialog,Spoken,0000,0000,0000,,Only your motivation is strong.
+Dialogue: 0,0:03:14.84,0:03:16.81,Main Dialog,Spoken,0000,0000,0000,,What's that?!
+Dialogue: 0,0:03:16.81,0:03:19.09,Main Dialog,Spoken,0000,0000,0000,,That's why I said...
+Dialogue: 0,0:03:20.07,0:03:22.79,Main Dialog,Spoken,0000,0000,0000,,"It may be impossible for Ishida alone,
+Dialogue: 0,0:03:23.39,0:03:26.47,Main Dialog,Spoken,0000,0000,0000,,but if both of us go, maybe \Nwe'll get somewhere!"
+Dialogue: 0,0:03:28.61,0:03:29.98,Main Dialog,Spoken,0000,0000,0000,,Granny Glasses!
+Dialogue: 0,0:03:29.98,0:03:33.98,Main Dialog,Spoken,0000,0000,0000,,Let's go, juvenile delinquent wannabe!
+Dialogue: 0,0:03:33.98,0:03:38.98,Signs,Sign,0000,0000,0000,,Recapture Miyaji Academy!
+Dialogue: 0,0:03:40.70,0:03:42.99,Main Dialog,Spoken,0000,0000,0000,,Irritating ring, isn't it?
+Dialogue: 0,0:03:42.99,0:03:45.33,Main Dialog,Spoken,0000,0000,0000,,It ticks me off.
+Dialogue: 0,0:03:45.33,0:03:49.62,Main Dialog,Spoken,0000,0000,0000,,You two are admirable for \Ncoming to school so early.
+Dialogue: 0,0:03:50.06,0:03:53.12,Main Dialog,Spoken,0000,0000,0000,,Oh, we're studious as all heck.
+Dialogue: 0,0:03:54.58,0:03:57.13,Main Dialog,Spoken,0000,0000,0000,,But today is Sunday.
+Dialogue: 0,0:03:59.09,0:04:01.69,Main Dialog,Spoken,0000,0000,0000,,Where are Aichi Sendou and Misaki Tokura?
+Dialogue: 0,0:04:01.69,0:04:04.12,Main Dialog,Spoken,0000,0000,0000,,They got somethin' important to do.
+Dialogue: 0,0:04:04.12,0:04:06.89,Main Dialog,Spoken,0000,0000,0000,,Where are Kamui Katsuragi and Kourin?
+Dialogue: 0,0:04:07.62,0:04:10.07,Main Dialog,Spoken,0000,0000,0000,,They also have something to do.
+Dialogue: 0,0:04:10.07,0:04:14.17,Main Dialog,Spoken,0000,0000,0000,,Then are you gonna study with us?
+Dialogue: 0,0:04:14.17,0:04:16.65,Main Dialog,Spoken,0000,0000,0000,,I wouldn't mind teaching you a thing or two,
+Dialogue: 0,0:04:17.26,0:04:20.61,Main Dialog,Spoken,0000,0000,0000,,but there are other kids \Nwho just love to study.
+Dialogue: 0,0:04:22.76,0:04:24.28,Main Dialog,Spoken,0000,0000,0000,,Ready, set...
+Dialogue: 0,0:04:24.28,0:04:25.28,Main Dialog,Spoken,0000,0000,0000,,Lock! Lock! Lock!
+Dialogue: 0,0:04:25.28,0:04:27.43,Main Dialog,Spoken,0000,0000,0000,,Reverse formation!
+Dialogue: 0,0:04:28.61,0:04:30.22,Main Dialog,Spoken,0000,0000,0000,,The American football club!
+Dialogue: 0,0:04:30.22,0:04:36.54,Main Dialog,Spoken,0000,0000,0000,,At last, we've obtained true power \Nfrom the black ring in the sky.
+Dialogue: 0,0:04:36.54,0:04:40.55,Main Dialog,Spoken,0000,0000,0000,,It's our destiny to spread \Nit throughout the world.
+Dialogue: 0,0:04:41.04,0:04:42.64,Main Dialog,Spoken,0000,0000,0000,,Even those guys...
+Dialogue: 0,0:04:42.64,0:04:44.68,Main Dialog,Spoken,0000,0000,0000,,Tomorrow is Monday.
+Dialogue: 0,0:04:45.20,0:04:50.43,Main Dialog,Spoken,0000,0000,0000,,When the other students come to school, \Nwe'll make even more Reversed fighters.
+Dialogue: 0,0:04:50.43,0:04:53.81,Main Dialog,Spoken,0000,0000,0000,,And the gate will become bigger, too.
+Dialogue: 0,0:04:53.81,0:04:56.44,Main Dialog,Spoken,0000,0000,0000,,What kind of person are you?!
+Dialogue: 0,0:04:57.94,0:05:03.61,Main Dialog,Spoken,0000,0000,0000,,The one who received an order from \NTakuto to keep an eye on Aichi Sendou
+Dialogue: 0,0:05:03.61,0:05:06.70,Main Dialog,Spoken,0000,0000,0000,,and the Cardfight Club as the \NStudent Council Secretary.
+Dialogue: 0,0:05:07.24,0:05:10.70,Main Dialog,Spoken,0000,0000,0000,,That's me, Maki Nagashiro.
+Dialogue: 0,0:05:10.70,0:05:15.10,Main Dialog,Spoken,0000,0000,0000,,I see... So you're the ringleader.
+Dialogue: 0,0:05:15.57,0:05:19.46,Main Dialog,Spoken,0000,0000,0000,,In that case, I'm gonna be sure to beat you!
+Dialogue: 0,0:05:23.07,0:05:24.21,Main Dialog,Spoken,0000,0000,0000,,Wait!
+Dialogue: 0,0:05:26.36,0:05:29.97,Main Dialog,Spoken,0000,0000,0000,,It seems we've got to beat them first.
+Dialogue: 0,0:05:31.19,0:05:34.39,Main Dialog,Spoken,0000,0000,0000,,Guess it's like warming up \Nbefore the main event...
+Dialogue: 0,0:05:40.32,0:05:43.15,Main Dialog,Spoken,0000,0000,0000,,What you said this morning...
+Dialogue: 0,0:05:43.98,0:05:46.64,Main Dialog,Spoken,0000,0000,0000,,It warmed my heart.
+Dialogue: 0,0:05:46.64,0:05:48.58,Main Dialog,Spoken,0000,0000,0000,,H-Huh?
+Dialogue: 0,0:05:48.58,0:05:51.83,Main Dialog,Spoken,0000,0000,0000,,About us maybe gettin' \Nsomewhere together.
+Dialogue: 0,0:05:51.83,0:05:53.74,Main Dialog,Spoken,0000,0000,0000,,Let's give it our best shot.
+Dialogue: 0,0:05:53.74,0:05:55.49,Main Dialog,Spoken,0000,0000,0000,,Together!
+Dialogue: 0,0:05:59.51,0:06:02.41,Main Dialog,Spoken,0000,0000,0000,,Don't lose, Granny Glasses!
+Dialogue: 0,0:06:02.41,0:06:05.23,Main Dialog,Spoken,0000,0000,0000,,Same to you, delinquent wannabe!
+Dialogue: 0,0:06:05.23,0:06:06.13,Main Dialog,Spoken,0000,0000,0000,,Let's go!
+Dialogue: 0,0:06:11.58,0:06:13.93,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:06:14.80,0:06:17.43,Main Dialog,Spoken,0000,0000,0000,,Spark Rain Dragon attacks!
+Dialogue: 0,0:06:18.19,0:06:21.15,Main Dialog,Spoken,0000,0000,0000,,Demonic Hair Stealth Rogue, Glenjin attacks!
+Dialogue: 0,0:06:21.15,0:06:23.94,Main Dialog,Spoken,0000,0000,0000,,Thunder Boom Dragon attacks!
+Dialogue: 0,0:06:23.94,0:06:26.74,Main Dialog,Spoken,0000,0000,0000,,Paper Umbrella Stealth \NRogue, Sukeroku attacks!
+Dialogue: 0,0:06:27.30,0:06:28.11,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:06:28.64,0:06:29.49,Main Dialog,Spoken,0000,0000,0000,,I attack!
+Dialogue: 0,0:06:30.15,0:06:33.66,Main Dialog,Spoken,0000,0000,0000,,One more time! Attack!
+Dialogue: 0,0:06:45.95,0:06:49.55,Main Dialog,Spoken,0000,0000,0000,,Jeez, feels like I'm goin' 100 rounds here!
+Dialogue: 0,0:06:50.72,0:06:53.90,Main Dialog,Spoken,0000,0000,0000,,Granny Glasses, you doin' okay?
+Dialogue: 0,0:06:59.93,0:07:01.30,Main Dialog,Spoken,0000,0000,0000,,Shingo?
+Dialogue: 0,0:07:13.86,0:07:20.08,Main Dialog,Spoken,0000,0000,0000,,S-Sorry... Ishi...da...
+Dialogue: 0,0:07:26.12,0:07:30.09,Main Dialog,Spoken,0000,0000,0000,,Shingo, if you're here, answer me! Shingo!
+Dialogue: 0,0:07:30.48,0:07:32.23,Main Dialog,Spoken,0000,0000,0000,,Hey, Shingo!
+Dialogue: 0,0:07:58.12,0:08:00.87,Main Dialog,Spoken,0000,0000,0000,,You guys are from the Student Council...
+Dialogue: 0,0:08:07.96,0:08:08.88,Main Dialog,Spoken,0000,0000,0000,,So?
+Dialogue: 0,0:08:08.88,0:08:14.58,Main Dialog,Spoken,0000,0000,0000,,After we came back from camping, we \Nwent to the Student Council office.
+Dialogue: 0,0:08:14.58,0:08:17.43,Main Dialog,Spoken,0000,0000,0000,,The work had been piling \Nup while we were out.
+Dialogue: 0,0:08:18.78,0:08:20.39,Main Dialog,Spoken,0000,0000,0000,,Break Time!
+Dialogue: 0,0:08:20.39,0:08:25.40,Main Dialog,Spoken,0000,0000,0000,,Bravo, President. You're strong, as expected.
+Dialogue: 0,0:08:25.40,0:08:28.72,Main Dialog,Spoken,0000,0000,0000,,Then it might not be a dream after all.
+Dialogue: 0,0:08:28.72,0:08:30.90,Main Dialog,Spoken,0000,0000,0000,,I could even be in the \NVF High School Championship.
+Dialogue: 0,0:08:30.90,0:08:32.74,Main Dialog,Spoken,0000,0000,0000,,That's right!
+Dialogue: 0,0:08:57.55,0:09:02.80,Main Dialog,Spoken,0000,0000,0000,,I wanted to fight, but \NSuwabe was just too scared.
+Dialogue: 0,0:09:02.80,0:09:06.73,Main Dialog,Spoken,0000,0000,0000,,Th-That's not fair! You were \Nhiding behind me the whole time!
+Dialogue: 0,0:09:06.73,0:09:11.23,Main Dialog,Spoken,0000,0000,0000,,Listen, guys, did you see \NShingo before you met me?
+Dialogue: 0,0:09:11.62,0:09:12.73,Main Dialog,Spoken,0000,0000,0000,,No.
+Dialogue: 0,0:09:12.73,0:09:17.99,Main Dialog,Spoken,0000,0000,0000,,Then do you know where that \NNaga...shiro girl or whatever is?
+Dialogue: 0,0:09:18.51,0:09:23.23,Main Dialog,Spoken,0000,0000,0000,,Nagashiro? Do you mean our secretary, Maki?
+Dialogue: 0,0:09:23.23,0:09:25.87,Main Dialog,Spoken,0000,0000,0000,,She stayed behind here, too?
+Dialogue: 0,0:09:26.23,0:09:28.63,Main Dialog,Spoken,0000,0000,0000,,If you don't know, never mind.
+Dialogue: 0,0:09:28.63,0:09:31.25,Main Dialog,Spoken,0000,0000,0000,,I-Ishida? Where are you going?
+Dialogue: 0,0:09:31.25,0:09:34.05,Main Dialog,Spoken,0000,0000,0000,,I got somethin' to do.
+Dialogue: 0,0:09:34.05,0:09:36.58,Main Dialog,Spoken,0000,0000,0000,,Stick around, run away, it's up to you.
+Dialogue: 0,0:09:39.99,0:09:43.83,Main Dialog,Spoken,0000,0000,0000,,Wait! Will you take me with you?
+Dialogue: 0,0:09:43.83,0:09:45.44,Main Dialog,Spoken,0000,0000,0000,,Hey, let go of me!
+Dialogue: 0,0:09:45.44,0:09:47.61,Main Dialog,Spoken,0000,0000,0000,,Y-You're like the Spider's Thread...
+Dialogue: 0,0:09:47.61,0:09:50.40,Main Dialog,Spoken,0000,0000,0000,,No, like Rapunzel's hair!
+Dialogue: 0,0:09:50.40,0:09:52.61,Main Dialog,Spoken,0000,0000,0000,,Hey, let go!
+Dialogue: 0,0:09:52.61,0:09:57.30,Main Dialog,Spoken,0000,0000,0000,,I-If you do, I promise to officially \Nrecognize the Cardfight Club!
+Dialogue: 0,0:09:58.47,0:10:02.28,Main Dialog,Spoken,0000,0000,0000,,We've sabotaged you like crazy up \Nto now, but we'll never do it again!
+Dialogue: 0,0:10:02.28,0:10:03.16,Main Dialog,Spoken,0000,0000,0000,,Please!
+Dialogue: 0,0:10:03.16,0:10:05.87,Main Dialog,Spoken,0000,0000,0000,,P-Please, Ishida!
+Dialogue: 0,0:10:05.87,0:10:08.20,Main Dialog,Spoken,0000,0000,0000,,We're helpless by ourselves...
+Dialogue: 0,0:10:08.20,0:10:11.54,Main Dialog,Spoken,0000,0000,0000,,Look, just let go of my leg!
+Dialogue: 0,0:10:14.40,0:10:15.55,Main Dialog,Spoken,0000,0000,0000,,Granny Glasses!
+Dialogue: 0,0:10:16.72,0:10:19.38,Main Dialog,Spoken,0000,0000,0000,,I been lookin' for you, dummy!
+Dialogue: 0,0:10:19.38,0:10:22.85,Main Dialog,Spoken,0000,0000,0000,,Don't run off like that! Make \Na guy worry about you...
+Dialogue: 0,0:10:23.88,0:10:28.36,Main Dialog,Spoken,0000,0000,0000,,Are you... strong?
+Dialogue: 0,0:10:52.54,0:10:58.51,Main Dialog,Spoken,0000,0000,0000,,Naoki Ishida. You're going to \Nbecome a member of my Komoi Corps.
+Dialogue: 0,0:10:59.34,0:11:02.01,Main Dialog,Spoken,0000,0000,0000,,Shingo... You too?
+Dialogue: 0,0:11:04.22,0:11:09.55,Main Dialog,Spoken,0000,0000,0000,,I'm full of invincible power. \NIt screams inside of my body.
+Dialogue: 0,0:11:09.55,0:11:11.77,Main Dialog,Spoken,0000,0000,0000,,"Defeat the enemy..."
+Dialogue: 0,0:11:12.30,0:11:15.81,Main Dialog,Spoken,0000,0000,0000,,I'm going to crush you.
+Dialogue: 0,0:11:15.81,0:11:19.78,Main Dialog,Spoken,0000,0000,0000,,It'll be like taking candy... from a baby!
+Dialogue: 0,0:11:20.46,0:11:24.14,Main Dialog,Spoken,0000,0000,0000,,I wanted to stand shoulder-to-shoulder \Nwith you an' fight together.
+Dialogue: 0,0:11:24.14,0:11:26.28,Main Dialog,Spoken,0000,0000,0000,,That's what I was plannin'.
+Dialogue: 0,0:11:26.74,0:11:28.37,Main Dialog,Spoken,0000,0000,0000,,It's too bad...
+Dialogue: 0,0:11:29.16,0:11:34.67,Main Dialog,Spoken,0000,0000,0000,,But I'm gonna turn you back to \Nnormal if it's the last thing I do!
+Dialogue: 0,0:11:39.54,0:11:41.72,Main Dialog,Spoken,0000,0000,0000,,Win, Ishida...
+Dialogue: 0,0:11:41.72,0:11:45.68,Main Dialog,Spoken,0000,0000,0000,,If you lose, then we become the prey.
+Dialogue: 0,0:11:52.98,0:11:55.51,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:11:58.82,0:12:01.32,Main Dialog,Spoken,0000,0000,0000,,Ambush Dragon Eradicator, Linchu!
+Dialogue: 0,0:12:01.32,0:12:03.57,Main Dialog,Spoken,0000,0000,0000,,Rogue, Boem!
+Dialogue: 0,0:12:03.57,0:12:06.70,Main Dialog,Spoken,0000,0000,0000,,I ride Ceremonial Bonfire Eradicator, Castor!
+Dialogue: 0,0:12:06.70,0:12:10.16,Main Dialog,Spoken,0000,0000,0000,,I ride Stealth Rogue of Silence, Shijimamaru.
+Dialogue: 0,0:12:10.76,0:12:12.06,Main Dialog,Spoken,0000,0000,0000,,Linchu's skill!
+Dialogue: 0,0:12:12.06,0:12:15.25,Main Dialog,Spoken,0000,0000,0000,,Paper Umbrella Stealth Rogue, \NSukeroku moves to the Drop Zone!
+Dialogue: 0,0:12:16.71,0:12:19.50,Main Dialog,Spoken,0000,0000,0000,,Call! Swift Archer, FUSHIMI!  {I guess they want the name capitalized}
+Dialogue: 0,0:12:20.18,0:12:23.01,Main Dialog,Spoken,0000,0000,0000,,Eradicator, Demolition \NDragon attacks FUSHIMI!
+Dialogue: 0,0:12:26.91,0:12:29.47,Main Dialog,Spoken,0000,0000,0000,,Eradicator, Ignition Dragon attacks!
+Dialogue: 0,0:12:35.73,0:12:38.73,Main Dialog,Spoken,0000,0000,0000,,Supreme Army Eradicator, Zuitan attacks!
+Dialogue: 0,0:12:43.79,0:12:45.50,Main Dialog,Spoken,0000,0000,0000,,That makes 4 damage!
+Dialogue: 0,0:12:45.50,0:12:48.97,Main Dialog,Spoken,0000,0000,0000,,And that attack just now \Nwiped out his rear-guards!
+Dialogue: 0,0:12:48.97,0:12:51.24,Main Dialog,Spoken,0000,0000,0000,,That's Ishida for you!
+Dialogue: 0,0:12:52.11,0:12:57.00,Main Dialog,Spoken,0000,0000,0000,,Hang on... I swear I'll \Nbring you back to normal.
+Dialogue: 0,0:12:57.42,0:13:02.44,Main Dialog,Spoken,0000,0000,0000,,Mowing down the enemy's rear-guards, \Nbattling for the advantage...
+Dialogue: 0,0:13:04.10,0:13:08.26,Main Dialog,Spoken,0000,0000,0000,,Eradicator... Certainly, \Nthat's a powerful tactic...
+Dialogue: 0,0:13:09.38,0:13:11.89,Main Dialog,Spoken,0000,0000,0000,,...but it doesn't work against Murakumo.
+Dialogue: 0,0:13:12.20,0:13:13.40,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:13:15.20,0:13:20.52,Main Dialog,Spoken,0000,0000,0000,,No one has ever successfully escaped from \Nthe curse of pandemonium on the loose!
+Dialogue: 0,0:13:20.52,0:13:21.40,Main Dialog,Spoken,0000,0000,0000,,Ride!
+Dialogue: 0,0:13:25.18,0:13:28.37,Main Dialog,Spoken,0000,0000,0000,,Covert Demonic Dragon, \NHyakki Vogue "Reverse"!
+Dialogue: 0,0:13:33.67,0:13:36.13,Main Dialog,Spoken,0000,0000,0000,,Hyakki Vogue "Reverse's" skill!
+Dialogue: 0,0:13:39.17,0:13:40.53,Main Dialog,Spoken,0000,0000,0000,,Superior call.
+Dialogue: 0,0:13:42.97,0:13:44.94,Main Dialog,Spoken,0000,0000,0000,,I call Oboro Cart.
+Dialogue: 0,0:13:44.94,0:13:46.42,Main Dialog,Spoken,0000,0000,0000,,Oboro Cart's skill.
+Dialogue: 0,0:13:48.43,0:13:49.85,Main Dialog,Spoken,0000,0000,0000,,Superior call!
+Dialogue: 0,0:13:52.48,0:13:54.31,Main Dialog,Spoken,0000,0000,0000,,Suddenly three units?!
+Dialogue: 0,0:13:54.31,0:13:58.81,Main Dialog,Spoken,0000,0000,0000,,It's like Hyakki Vogue "Reverse" \Nhas duplicated itself, doesn't it?
+Dialogue: 0,0:14:02.50,0:14:04.07,Main Dialog,Spoken,0000,0000,0000,,And next...
+Dialogue: 0,0:14:04.07,0:14:05.57,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:14:07.79,0:14:08.99,Main Dialog,Spoken,0000,0000,0000,,Lock!
+Dialogue: 0,0:14:10.11,0:14:15.08,Main Dialog,Spoken,0000,0000,0000,,With this, all of my Hyakki Vogue \N"Reverse" units get +10000!
+Dialogue: 0,0:14:15.08,0:14:16.33,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:14:19.61,0:14:25.71,Main Dialog,Spoken,0000,0000,0000,,The doubles fill the unit-less gaps and \Nthen turn to an even more powerful attack!
+Dialogue: 0,0:14:25.71,0:14:30.09,Main Dialog,Spoken,0000,0000,0000,,That's Murakumo's Devil's Shadow Cloning!
+Dialogue: 0,0:14:31.05,0:14:34.22,Main Dialog,Spoken,0000,0000,0000,,As long as I have this, you're powerless!
+Dialogue: 0,0:14:34.66,0:14:38.75,Main Dialog,Spoken,0000,0000,0000,,Right after you used an Eradicator \Nto mow down my units!
+Dialogue: 0,0:14:39.76,0:14:40.99,Main Dialog,Spoken,0000,0000,0000,,And now...
+Dialogue: 0,0:14:41.40,0:14:42.48,Main Dialog,Spoken,0000,0000,0000,,I attack!
+Dialogue: 0,0:14:43.98,0:14:45.23,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:14:45.23,0:14:46.48,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:14:52.19,0:14:53.74,Main Dialog,Spoken,0000,0000,0000,,Attack, I say!
+Dialogue: 0,0:15:12.69,0:15:15.51,Main Dialog,Spoken,0000,0000,0000,,Have you realized just how powerless you are?
+Dialogue: 0,0:15:24.14,0:15:28.19,Main Dialog,Spoken,0000,0000,0000,,The Hyakki Vogue duplicates disappear \Nafter their work is done...
+Dialogue: 0,0:15:28.19,0:15:29.53,Main Dialog,Spoken,0000,0000,0000,,So what?
+Dialogue: 0,0:15:29.95,0:15:33.86,Main Dialog,Spoken,0000,0000,0000,,In other words, the duplicates \Nare just duplicates.
+Dialogue: 0,0:15:33.86,0:15:36.65,Main Dialog,Spoken,0000,0000,0000,,They're not the real Hyakki Vogue.
+Dialogue: 0,0:15:36.65,0:15:40.79,Main Dialog,Spoken,0000,0000,0000,,Just like you're not the real you right now!
+Dialogue: 0,0:15:43.74,0:15:47.75,Main Dialog,Spoken,0000,0000,0000,,I'm gonna get you back with these attacks!
+Dialogue: 0,0:15:47.75,0:15:49.46,Main Dialog,Spoken,0000,0000,0000,,It's no use.
+Dialogue: 0,0:15:50.17,0:15:52.84,Main Dialog,Spoken,0000,0000,0000,,Ignition Dragon attacks!
+Dialogue: 0,0:15:54.91,0:15:56.60,Main Dialog,Spoken,0000,0000,0000,,Perfect guard.
+Dialogue: 0,0:15:57.92,0:15:59.89,Main Dialog,Spoken,0000,0000,0000,,Twin drive check!
+Dialogue: 0,0:16:01.93,0:16:03.60,Main Dialog,Spoken,0000,0000,0000,,Heal trigger activated!
+Dialogue: 0,0:16:04.08,0:16:05.11,Main Dialog,Spoken,0000,0000,0000,,I heal 1 damage!
+Dialogue: 0,0:16:05.11,0:16:06.74,Main Dialog,Spoken,0000,0000,0000,,I give the power to Zuitan!
+Dialogue: 0,0:16:06.74,0:16:09.78,Main Dialog,Spoken,0000,0000,0000,,Spark Rain Dragon attacks!
+Dialogue: 0,0:16:10.30,0:16:11.49,Main Dialog,Spoken,0000,0000,0000,,Guard.
+Dialogue: 0,0:16:16.89,0:16:20.00,Main Dialog,Spoken,0000,0000,0000,,Zuitan attacks with a boost from Castor!
+Dialogue: 0,0:16:22.48,0:16:23.75,Main Dialog,Spoken,0000,0000,0000,,Turn end!
+Dialogue: 0,0:16:24.71,0:16:27.57,Main Dialog,Spoken,0000,0000,0000,,Shoot! I couldn't make that last step!
+Dialogue: 0,0:16:29.42,0:16:32.83,Main Dialog,Spoken,0000,0000,0000,,It looks like you're giving \Nit everything you've got...
+Dialogue: 0,0:16:34.71,0:16:39.02,Main Dialog,Spoken,0000,0000,0000,,...but to be honest, I'm \Nnot entirely satisfied.
+Dialogue: 0,0:16:39.02,0:16:41.18,Main Dialog,Spoken,0000,0000,0000,,I'll quickly get you out of the way,
+Dialogue: 0,0:16:41.18,0:16:44.88,Main Dialog,Spoken,0000,0000,0000,,then fight people who have more spirit.
+Dialogue: 0,0:16:46.30,0:16:48.19,Main Dialog,Spoken,0000,0000,0000,,What's that you're sayin', dillweed?
+Dialogue: 0,0:16:48.19,0:16:51.06,Main Dialog,Spoken,0000,0000,0000,,Do I have to spell it out for you?
+Dialogue: 0,0:16:51.70,0:16:54.70,Main Dialog,Spoken,0000,0000,0000,,Aichi Sendou and Misaki Tokura.
+Dialogue: 0,0:16:58.14,0:17:00.45,Main Dialog,Spoken,0000,0000,0000,,Are you serious?
+Dialogue: 0,0:17:00.45,0:17:02.94,Main Dialog,Spoken,0000,0000,0000,,I don't care who it is. \NI'll wipe the floor with them.
+Dialogue: 0,0:17:02.94,0:17:08.73,Main Dialog,Spoken,0000,0000,0000,,The power flowing through my body \Nis crying out to beat the enemy.
+Dialogue: 0,0:17:09.90,0:17:12.34,Main Dialog,Spoken,0000,0000,0000,,Devil's Shadow Cloning.
+Dialogue: 0,0:17:14.59,0:17:16.60,Main Dialog,Spoken,0000,0000,0000,,Oboro Cart's skill.
+Dialogue: 0,0:17:18.09,0:17:21.10,Main Dialog,Spoken,0000,0000,0000,,And now, I'll finish this!
+Dialogue: 0,0:17:21.10,0:17:23.35,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:17:23.35,0:17:25.14,Main Dialog,Spoken,0000,0000,0000,,And then, lock!
+Dialogue: 0,0:17:34.90,0:17:36.01,Main Dialog,,0000,0000,0000,,You...
+Dialogue: 0,0:17:36.01,0:17:39.78,Main Dialog,Spoken,0000,0000,0000,,Do you really intend to make \Nenemies of Aichi and Misaki?
+Dialogue: 0,0:17:41.06,0:17:43.74,Main Dialog,Spoken,0000,0000,0000,,You used to idolize them, remember?
+Dialogue: 0,0:17:44.25,0:17:49.25,Main Dialog,Spoken,0000,0000,0000,,And you gotta have memories of \Nbein' at the Cardfight Club...
+Dialogue: 0,0:17:51.01,0:17:54.92,Main Dialog,Spoken,0000,0000,0000,,You mean to destroy all that?
+Dialogue: 0,0:17:56.53,0:18:00.55,Main Dialog,Spoken,0000,0000,0000,,What's so important about those memories?
+Dialogue: 0,0:18:02.21,0:18:07.00,Main Dialog,Spoken,0000,0000,0000,,To me right now, those people are just \Nopponents that need to be Reversed.
+Dialogue: 0,0:18:07.00,0:18:10.19,Main Dialog,Spoken,0000,0000,0000,,And you're the same.
+Dialogue: 0,0:18:14.94,0:18:19.67,Main Dialog,Spoken,0000,0000,0000,,Hyakki Vogue "Reverse" \Nattacks Ignition Dragon!
+Dialogue: 0,0:18:42.78,0:18:46.35,Main Dialog,Spoken,0000,0000,0000,,President! Now he's got 5 damage!
+Dialogue: 0,0:18:46.35,0:18:51.91,Main Dialog,Spoken,0000,0000,0000,,At first, I thought he was a superior fighter, \Nbut this is beyond even his power?
+Dialogue: 0,0:18:51.91,0:18:52.78,Main Dialog,Spoken,0000,0000,0000,,President...
+Dialogue: 0,0:18:53.98,0:18:55.86,Main Dialog,Spoken,0000,0000,0000,,If we're going to escape, now's the time.
+Dialogue: 0,0:18:55.86,0:18:56.95,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:18:56.95,0:19:00.64,Main Dialog,Spoken,0000,0000,0000,,If we stay here, we're \Ngoing to be beaten next.
+Dialogue: 0,0:19:00.64,0:19:05.82,Main Dialog,Spoken,0000,0000,0000,,But... are you saying we should just \Nturn our backs on him and run?
+Dialogue: 0,0:19:17.57,0:19:20.07,Main Dialog,Spoken,0000,0000,0000,,I... I don't think I can win this...
+Dialogue: 0,0:19:21.62,0:19:25.68,Main Dialog,Spoken,0000,0000,0000,,Is this... as far as I go?
+Dialogue: 0,0:19:27.31,0:19:30.41,Main Dialog,Spoken,0000,0000,0000,,What are you lying down for, \Njuvenile delinquent wannabe?!
+Dialogue: 0,0:19:32.10,0:19:34.44,Main Dialog,Spoken,0000,0000,0000,,Don't let something like this \Ntake the wind out of your sails!
+Dialogue: 0,0:19:34.44,0:19:36.96,Main Dialog,Spoken,0000,0000,0000,,Get up right now!
+Dialogue: 0,0:19:36.96,0:19:40.23,Main Dialog,Spoken,0000,0000,0000,,Then hurry up and save me!
+Dialogue: 0,0:19:40.89,0:19:42.70,Main Dialog,Spoken,0000,0000,0000,,Granny Glasses...
+Dialogue: 0,0:19:43.65,0:19:47.26,Main Dialog,Spoken,0000,0000,0000,,But against you right now...
+Dialogue: 0,0:19:47.90,0:19:50.21,Main Dialog,Spoken,0000,0000,0000,,...I'm not...
+Dialogue: 0,0:19:51.34,0:19:53.96,Main Dialog,Spoken,0000,0000,0000,,Don't be pathetic!
+Dialogue: 0,0:20:01.11,0:20:05.72,Main Dialog,Spoken,0000,0000,0000,,This is the deck that was made when \Nyou and I were driven to desperation.
+Dialogue: 0,0:20:08.82,0:20:12.99,Main Dialog,Spoken,0000,0000,0000,,With the two of us... \Nmaybe we'll get somewhere!
+Dialogue: 0,0:20:17.06,0:20:20.03,Main Dialog,Spoken,0000,0000,0000,,President, please hurry \Nup and make your decision!
+Dialogue: 0,0:20:27.85,0:20:29.68,Main Dialog,Spoken,0000,0000,0000,,Ishida!
+Dialogue: 0,0:20:29.68,0:20:31.25,Main Dialog,Spoken,0000,0000,0000,,He got up!
+Dialogue: 0,0:20:33.08,0:20:34.50,Main Dialog,Spoken,0000,0000,0000,,Granny Glasses...
+Dialogue: 0,0:20:41.57,0:20:45.76,Main Dialog,Spoken,0000,0000,0000,,You're incorrigible. I'll make \Nit so you can't stand up again.
+Dialogue: 0,0:20:46.36,0:20:47.98,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:20:49.77,0:20:52.23,Main Dialog,Spoken,0000,0000,0000,,I guard with a perfect guard!
+Dialogue: 0,0:20:56.52,0:20:57.77,Main Dialog,Spoken,0000,0000,0000,,Attack!
+Dialogue: 0,0:21:01.40,0:21:03.87,Main Dialog,Spoken,0000,0000,0000,,Guard! Intercept!
+Dialogue: 0,0:21:12.68,0:21:15.29,Main Dialog,Spoken,0000,0000,0000,,He protected himself!
+Dialogue: 0,0:21:17.69,0:21:21.40,Main Dialog,Spoken,0000,0000,0000,,I just talked to the real you.
+Dialogue: 0,0:21:25.06,0:21:28.96,Main Dialog,Spoken,0000,0000,0000,,I didn't make this deck alone.
+Dialogue: 0,0:21:29.68,0:21:32.56,Main Dialog,Spoken,0000,0000,0000,,This deck got made 'cause you were there too.
+Dialogue: 0,0:21:32.56,0:21:34.43,Main Dialog,Spoken,0000,0000,0000,,Your feelings are in here.
+Dialogue: 0,0:21:38.62,0:21:40.38,Main Dialog,Spoken,0000,0000,0000,,This is definitely you.
+Dialogue: 0,0:21:40.38,0:21:44.69,Main Dialog,Spoken,0000,0000,0000,,You summon the strongest guy \Nat exactly the right time.
+Dialogue: 0,0:21:46.57,0:21:50.15,Main Dialog,Spoken,0000,0000,0000,,Break through all bindings and descend,
+Dialogue: 0,0:21:50.15,0:21:52.90,Main Dialog,Spoken,0000,0000,0000,,my strongest avatar of savage lightning!
+Dialogue: 0,0:21:52.90,0:21:56.58,Main Dialog,Spoken,0000,0000,0000,,Break ride!
+Dialogue: 0,0:21:58.88,0:22:01.88,Main Dialog,Spoken,0000,0000,0000,,Eradicator, Tempest Bolt Dragon!
+Dialogue: 0,0:22:04.79,0:22:08.01,Main Dialog,Spoken,0000,0000,0000,,As long as I have this deck, I ain't alone.
+Dialogue: 0,0:22:09.39,0:22:10.80,Main Dialog,Spoken,0000,0000,0000,,Granny Glasses...
+Dialogue: 0,0:22:11.32,0:22:13.77,Main Dialog,Spoken,0000,0000,0000,,The real Shingo and I are \Ngonna fight together!
+Dialogue: 0,0:22:15.45,0:22:18.90,Main Dialog,Spoken,0000,0000,0000,,And I'm definitely gonna beat you!
+Dialogue: 0,0:23:56.68,0:23:59.74,Main Dialog,Spoken,0000,0000,0000,,The power is surging \Nthrough me, overflowing...
+Dialogue: 0,0:23:59.74,0:24:04.33,Main Dialog,Spoken,0000,0000,0000,,Naoki Ishida, you're going \Nto surrender to me now.
+Dialogue: 0,0:24:04.33,0:24:07.14,Main Dialog,Spoken,0000,0000,0000,,There's no shame in losing to me!
+Dialogue: 0,0:24:07.14,0:24:08.00,Main Dialog,Spoken,0000,0000,0000,,Shingo...
+Dialogue: 0,0:24:08.00,0:24:11.71,Main Dialog,Spoken,0000,0000,0000,,Naoki, Shingo... Did you guys really \Nventure into Miyaji Academy?
+Dialogue: 0,0:24:11.71,0:24:14.64,Main Dialog,Spoken,0000,0000,0000,,Even though the whole \Nacademy may be Reversed...
+Dialogue: 0,0:24:14.64,0:24:16.89,Main Dialog,Spoken,0000,0000,0000,,Next time: Smash Through Everything!
+Dialogue: 0,0:24:15.60,0:24:24.90,Signs,Sign,0000,0000,0000,,Smash Through Everything!
+Dialogue: 0,0:24:17.20,0:24:19.53,Main Dialog,Spoken,0000,0000,0000,,Hang in there, Naoki and Shingo!
+Dialogue: 0,0:24:19.53,0:24:23.71,Main Dialog,Spoken,0000,0000,0000,,I'm gonna bust you up with this \Ndeck that you and I put together!
+Dialogue: 0,0:24:24.90,0:24:26.90,Signs,,0000,0000,0000,,

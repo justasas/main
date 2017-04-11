@@ -1,0 +1,354 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:07.98,0:00:11.49,Signs,,0000,0000,0000,,Miyaji Academy High School \NDivision Student Council Office
+Dialogue: 0,0:00:17.08,0:00:18.72,Main Dialog,,0000,0000,0000,,Nice aroma...
+Dialogue: 0,0:00:22.01,0:00:27.00,Main Dialog,,0000,0000,0000,,Earl Grey goes well with mornings \Nat a well-ordered academy.
+Dialogue: 0,0:00:27.53,0:00:28.67,Main Dialog,,0000,0000,0000,,However...
+Dialogue: 0,0:00:29.85,0:00:32.93,Main Dialog,,0000,0000,0000,,...it seems that order is somewhat \Nlacking here these days.
+Dialogue: 0,0:00:32.93,0:00:35.04,Main Dialog,,0000,0000,0000,,Ah! My apologies, sir.
+Dialogue: 0,0:00:36.16,0:00:38.01,Main Dialog,,0000,0000,0000,,Cardfight, eh?
+Dialogue: 0,0:00:39.24,0:00:42.08,Main Dialog,,0000,0000,0000,,They're not an officially \Nrecognized club yet,
+Dialogue: 0,0:00:42.08,0:00:45.77,Main Dialog,,0000,0000,0000,,but they've already begun to have a fairly \Nconsiderable effect on the students.
+Dialogue: 0,0:00:46.13,0:00:49.32,Main Dialog,,0000,0000,0000,,Is it necessary to have a club \Ndevoted to mere card games
+Dialogue: 0,0:00:49.32,0:00:52.28,Main Dialog,,0000,0000,0000,,at an academy that supports \Nacademics and sports?
+Dialogue: 0,0:00:52.84,0:00:54.57,Main Dialog,,0000,0000,0000,,With all due deference, President,
+Dialogue: 0,0:00:54.57,0:00:58.03,Main Dialog,,0000,0000,0000,,Cardfight is currently wildly \Npopular all over the world,
+Dialogue: 0,0:00:58.37,0:01:03.04,Main Dialog,,0000,0000,0000,,and some universities abroad have even \Nset up a special department to study it.
+Dialogue: 0,0:01:03.74,0:01:04.73,Main Dialog,,0000,0000,0000,,Suwabe...
+Dialogue: 0,0:01:04.73,0:01:05.64,Main Dialog,,0000,0000,0000,,Yes?!
+Dialogue: 0,0:01:06.18,0:01:08.81,Main Dialog,,0000,0000,0000,,Does this academy need a Cardfight Club?
+Dialogue: 0,0:01:08.81,0:01:10.50,Main Dialog,,0000,0000,0000,,No, sir, it does not!
+Dialogue: 0,0:01:10.50,0:01:11.30,Main Dialog,,0000,0000,0000,,In that case...
+Dialogue: 0,0:01:12.04,0:01:17.08,Main Dialog,,0000,0000,0000,,I want you to visit that Card-whatever \NClub and put a stop to it right now.
+Dialogue: 0,0:01:17.88,0:01:20.89,Main Dialog,,0000,0000,0000,,That's your duty as the vice president.
+Dialogue: 0,0:01:22.12,0:01:23.93,Main Dialog,,0000,0000,0000,,A-At once, sir!
+Dialogue: 0,0:01:30.10,0:01:32.84,Main Dialog,,0000,0000,0000,,By the way, how I am supposed to stop them?
+Dialogue: 0,0:01:33.26,0:01:34.28,Main Dialog,,0000,0000,0000,,You should...
+Dialogue: 0,0:01:35.98,0:01:37.41,Main Dialog,,0000,0000,0000,,Figure it out for yourself.
+Dialogue: 0,0:01:39.74,0:01:42.49,Main Dialog,,0000,0000,0000,,B-But I...
+Dialogue: 0,0:03:23.94,0:03:26.90,Main Dialog,,0000,0000,0000,,What do you think about \Nthis physics prep room?
+Dialogue: 0,0:03:26.90,0:03:30.98,Main Dialog,,0000,0000,0000,,Out of all the unused rooms\N after school, this is the biggest.
+Dialogue: 0,0:03:32.38,0:03:36.05,Main Dialog,,0000,0000,0000,,The tables are big, too. I think \Nthis would be perfect for Vanguard!
+Dialogue: 0,0:03:36.05,0:03:38.38,Main Dialog,,0000,0000,0000,,Not bad, Bowl-cut!
+Dialogue: 0,0:03:39.28,0:03:43.89,Main Dialog,,0000,0000,0000,,Both athletic and culture-related \Nclubs flourish here at the academy,
+Dialogue: 0,0:03:43.89,0:03:46.80,Main Dialog,,0000,0000,0000,,so it was tough searching for an open room.
+Dialogue: 0,0:03:46.80,0:03:49.78,Main Dialog,,0000,0000,0000,,I bet a certain hooligan wouldn't \Nhave been able to accomplish it.
+Dialogue: 0,0:03:49.78,0:03:51.17,Main Dialog,,0000,0000,0000,,What was that?!
+Dialogue: 0,0:03:51.17,0:03:52.00,Main Dialog,,0000,0000,0000,,What?!
+Dialogue: 0,0:03:52.20,0:03:54.01,Main Dialog,,0000,0000,0000,,{\a6}What'd you say to me?!
+Dialogue: 0,0:03:52.98,0:03:55.13,Main Dialog,,0000,0000,0000,,E-Excuse me! No fighting!
+Dialogue: 0,0:03:56.46,0:04:02.63,Main Dialog,,0000,0000,0000,,Come on, you're both members of the \NCardfight Club now, so try to get along!
+Dialogue: 0,0:04:03.69,0:04:06.69,Main Dialog,,0000,0000,0000,,At any rate, we're allowed to use this room.
+Dialogue: 0,0:04:07.49,0:04:11.50,Main Dialog,,0000,0000,0000,,Now all we need to do is get one \Nmore member and a faculty adviser,
+Dialogue: 0,0:04:11.50,0:04:14.44,Main Dialog,,0000,0000,0000,,and then the Cardfight Club \Nwill be officially recognized!
+Dialogue: 0,0:04:14.44,0:04:16.61,Main Dialog,,0000,0000,0000,,Shut up, would ya?! We already know all that!
+Dialogue: 0,0:04:16.61,0:04:17.65,Main Dialog,,0000,0000,0000,,Yeah, yeah...
+Dialogue: 0,0:04:18.28,0:04:20.86,Main Dialog,,0000,0000,0000,,Let's start with finding a fifth member.
+Dialogue: 0,0:04:20.86,0:04:22.92,Main Dialog,,0000,0000,0000,,I'm already one step ahead of you on that.
+Dialogue: 0,0:04:23.70,0:04:27.91,Main Dialog,,0000,0000,0000,,I put up posters telling interested parties \Nto come here from now on.
+Dialogue: 0,0:04:28.22,0:04:29.93,Main Dialog,,0000,0000,0000,,Then all we gotta do is wait here,
+Dialogue: 0,0:04:29.93,0:04:33.91,Main Dialog,,0000,0000,0000,,and we'll be swamped by a bunch of rank \Namateur fighters like last time...
+Dialogue: 0,0:04:34.20,0:04:37.81,Main Dialog,,0000,0000,0000,,N-Naoki, they're people who \Nwould like to join the club,
+Dialogue: 0,0:04:37.81,0:04:39.36,Main Dialog,,0000,0000,0000,,so you shouldn't talk about them like that...
+Dialogue: 0,0:04:39.36,0:04:42.39,Main Dialog,,0000,0000,0000,,Ishida, you're a rank amateur yourself.
+Dialogue: 0,0:04:42.78,0:04:46.17,Main Dialog,,0000,0000,0000,,What's that?! Wanna \Nhave it out right here?!
+Dialogue: 0,0:04:46.17,0:04:47.84,Main Dialog,,0000,0000,0000,,Hey, is this the place?
+Dialogue: 0,0:04:47.84,0:04:48.93,Main Dialog,,0000,0000,0000,,Yes, Captain!
+Dialogue: 0,0:04:49.84,0:04:51.54,Main Dialog,,0000,0000,0000,,They're here already!
+Dialogue: 0,0:04:52.29,0:04:53.43,Main Dialog,,0000,0000,0000,,My fingers are itchin' to start!
+Dialogue: 0,0:04:53.98,0:04:56.44,Main Dialog,,0000,0000,0000,,Ready? Set! Hut-hut-hut!
+Dialogue: 0,0:05:04.00,0:05:06.07,Main Dialog,,0000,0000,0000,,W-Who are you?
+Dialogue: 0,0:05:06.30,0:05:11.58,Main Dialog,,0000,0000,0000,,We're Miyaji Academy's American \NFootball Club, the Miyaji Vipers!
+Dialogue: 0,0:05:12.10,0:05:15.08,Main Dialog,,0000,0000,0000,,Aichi Sendou, you're coming with us!
+Dialogue: 0,0:05:15.49,0:05:18.13,Main Dialog,,0000,0000,0000,,Go with you... where?
+Dialogue: 0,0:05:18.44,0:05:19.21,Main Dialog,,0000,0000,0000,,Where?!
+Dialogue: 0,0:05:19.66,0:05:21.34,Main Dialog,,0000,0000,0000,,You'll find out soon enough.
+Dialogue: 0,0:05:23.84,0:05:28.84,Signs,,0000,0000,0000,,The Football Team's Assassin
+Dialogue: 0,0:05:33.72,0:05:34.80,Main Dialog,,0000,0000,0000,,This is dangerous!
+Dialogue: 0,0:05:35.28,0:05:35.85,Main Dialog,,0000,0000,0000,,W-What the...?!
+Dialogue: 0,0:05:37.54,0:05:38.85,Main Dialog,,0000,0000,0000,,What are you doing?!
+Dialogue: 0,0:05:43.26,0:05:45.78,Main Dialog,,0000,0000,0000,,The Cardfight Club is causing another stir...
+Dialogue: 0,0:05:49.04,0:05:53.29,Main Dialog,,0000,0000,0000,,Go! Fight! Win! Go! Fight! Win!
+Dialogue: 0,0:05:53.53,0:05:56.77,Main Dialog,,0000,0000,0000,,Vipers, go!
+Dialogue: 0,0:05:56.77,0:05:58.32,Main Dialog,,0000,0000,0000,,Yay!
+Dialogue: 0,0:05:58.32,0:06:01.29,Main Dialog,,0000,0000,0000,,What the heck is this?! Where are we?!
+Dialogue: 0,0:06:01.81,0:06:03.66,Main Dialog,,0000,0000,0000,,That's a good question, boy!
+Dialogue: 0,0:06:04.65,0:06:08.01,Main Dialog,,0000,0000,0000,,This is Miyaji Academy High \NSchool Division's sub-ground.
+Dialogue: 0,0:06:08.01,0:06:10.30,Main Dialog,,0000,0000,0000,,It's the Vipers' sacred field!
+Dialogue: 0,0:06:11.02,0:06:17.31,Main Dialog,,0000,0000,0000,,And I'm the captain and quarterback of \Nthe Vipers, Ikki "the Catapult" Kongou!
+Dialogue: 0,0:06:17.73,0:06:19.56,Main Dialog,,0000,0000,0000,,The Catapult?
+Dialogue: 0,0:06:19.93,0:06:22.46,Main Dialog,,0000,0000,0000,,Yeah, you know, a catapult.
+Dialogue: 0,0:06:22.46,0:06:26.12,Main Dialog,,0000,0000,0000,,The device that launches rocks when \Nyou're attacking a fortress...
+Dialogue: 0,0:06:27.22,0:06:31.16,Main Dialog,,0000,0000,0000,,The passes that I launch tear right \Nthrough the enemy's defense line.
+Dialogue: 0,0:06:31.49,0:06:34.36,Main Dialog,,0000,0000,0000,,That's right, it's just like a catapult!
+Dialogue: 0,0:06:34.82,0:06:38.41,Main Dialog,,0000,0000,0000,,So what do you want with us, Mr. Catapult?
+Dialogue: 0,0:06:38.66,0:06:40.26,Main Dialog,,0000,0000,0000,,It's obvious.
+Dialogue: 0,0:06:40.26,0:06:42.67,Main Dialog,,0000,0000,0000,,Aichi Sendou, I want a showdown!
+Dialogue: 0,0:06:44.44,0:06:46.80,Main Dialog,,0000,0000,0000,,You're telling me to play football?!
+Dialogue: 0,0:06:53.28,0:06:55.61,Main Dialog,,0000,0000,0000,,I-It's just not you...
+Dialogue: 0,0:06:56.90,0:06:58.02,Main Dialog,,0000,0000,0000,,Wrong!
+Dialogue: 0,0:06:59.12,0:07:03.29,Main Dialog,,0000,0000,0000,,There'd be no sense of pride in \Nbeating you in a game of football!
+Dialogue: 0,0:07:03.57,0:07:06.19,Main Dialog,,0000,0000,0000,,I'm gonna fight you with this!
+Dialogue: 0,0:07:06.66,0:07:08.19,Main Dialog,,0000,0000,0000,,A Vanguard deck?
+Dialogue: 0,0:07:08.64,0:07:10.70,Main Dialog,,0000,0000,0000,,Then, by showdown, you mean...
+Dialogue: 0,0:07:11.13,0:07:13.10,Main Dialog,,0000,0000,0000,,That's right. A Vanguard fight.
+Dialogue: 0,0:07:14.60,0:07:16.52,Main Dialog,,0000,0000,0000,,Why a Cardfight?
+Dialogue: 0,0:07:16.96,0:07:19.33,Main Dialog,,0000,0000,0000,,It takes Vanguard to beat Vanguard.
+Dialogue: 0,0:07:19.78,0:07:21.58,Main Dialog,,0000,0000,0000,,Think about it.
+Dialogue: 0,0:07:21.58,0:07:26.09,Main Dialog,,0000,0000,0000,,They're so consumed by Vanguard that \Nthey're trying to build a Cardfight Club.
+Dialogue: 0,0:07:26.70,0:07:29.25,Main Dialog,,0000,0000,0000,,But if they lose to a committed \Nmember of the Football Club,
+Dialogue: 0,0:07:29.25,0:07:32.17,Main Dialog,,0000,0000,0000,,someone who chases after \Na ball instead of cards...
+Dialogue: 0,0:07:35.04,0:07:36.77,Main Dialog,,0000,0000,0000,,You're just all talk!
+Dialogue: 0,0:07:38.26,0:07:39.85,Main Dialog,,0000,0000,0000,,I-It can't be...
+Dialogue: 0,0:07:39.85,0:07:41.44,Main Dialog,,0000,0000,0000,,Aichi lost?!
+Dialogue: 0,0:07:41.44,0:07:45.11,Main Dialog,,0000,0000,0000,,Darn it! I've never felt so frustrated!
+Dialogue: 0,0:07:47.01,0:07:50.86,Main Dialog,,0000,0000,0000,,They'll be immeasurably shocked, right?
+Dialogue: 0,0:07:51.40,0:07:53.74,Main Dialog,,0000,0000,0000,,Then they'll lose the will \Nto create a Cardfight Club,
+Dialogue: 0,0:07:53.74,0:07:56.62,Main Dialog,,0000,0000,0000,,and order can be restored \Nonce more to the academy.
+Dialogue: 0,0:07:57.84,0:07:59.46,Main Dialog,,0000,0000,0000,,Is that the way it'll go?
+Dialogue: 0,0:07:59.46,0:08:00.86,Main Dialog,,0000,0000,0000,,It'll go exactly like that!
+Dialogue: 0,0:08:01.65,0:08:05.48,Main Dialog,,0000,0000,0000,,Um, I don't really \Nunderstand this... but fine.
+Dialogue: 0,0:08:05.48,0:08:06.68,Main Dialog,,0000,0000,0000,,I accept your challenge.
+Dialogue: 0,0:08:06.68,0:08:08.24,Main Dialog,,0000,0000,0000,,Wait a second, Aichi!
+Dialogue: 0,0:08:08.24,0:08:09.73,Main Dialog,,0000,0000,0000,,There's somethin' fishy here!
+Dialogue: 0,0:08:09.73,0:08:12.30,Main Dialog,,0000,0000,0000,,Come on, the Football Club suddenly \Nchallenges you to a fight?!
+Dialogue: 0,0:08:12.30,0:08:14.16,Main Dialog,,0000,0000,0000,,There must be a catch.
+Dialogue: 0,0:08:14.16,0:08:16.08,Main Dialog,,0000,0000,0000,,I don't think it's a good idea \Nto take this guy too lightly...
+Dialogue: 0,0:08:16.08,0:08:18.13,Main Dialog,,0000,0000,0000,,Yeah. I feel the same way.
+Dialogue: 0,0:08:18.13,0:08:19.10,Main Dialog,,0000,0000,0000,,Then...
+Dialogue: 0,0:08:19.10,0:08:21.33,Main Dialog,,0000,0000,0000,,But I want to have this fight.
+Dialogue: 0,0:08:22.66,0:08:26.65,Main Dialog,,0000,0000,0000,,After all, it shows that there are \NCardfighters at Miyaji Academy besides us.
+Dialogue: 0,0:08:27.40,0:08:28.91,Main Dialog,,0000,0000,0000,,There's no way I can turn \Ndown this challenge.
+Dialogue: 0,0:08:29.48,0:08:31.40,Main Dialog,,0000,0000,0000,,I wouldn't be able to call our \Ngroup the Cardfight Club if I did.
+Dialogue: 0,0:08:32.32,0:08:33.40,Main Dialog,,0000,0000,0000,,Besides...
+Dialogue: 0,0:08:33.77,0:08:36.25,Main Dialog,,0000,0000,0000,,...no matter what they're plotting,
+Dialogue: 0,0:08:36.70,0:08:38.44,Main Dialog,,0000,0000,0000,,if I win, there'll be no problem, right?
+Dialogue: 0,0:08:39.00,0:08:39.78,Main Dialog,,0000,0000,0000,,Aichi...
+Dialogue: 0,0:08:39.78,0:08:41.24,Main Dialog,,0000,0000,0000,,That was cool!
+Dialogue: 0,0:08:57.22,0:08:59.10,Main Dialog,,0000,0000,0000,,All right. We do it like this, yeah?
+Dialogue: 0,0:09:16.73,0:09:17.68,Main Dialog,,0000,0000,0000,,Stand up...
+Dialogue: 0,0:09:17.68,0:09:18.74,Main Dialog,,0000,0000,0000,,Ready, set...
+Dialogue: 0,0:09:19.38,0:09:20.05,Main Dialog,,0000,0000,0000,,...Vanguard!
+Dialogue: 0,0:09:21.42,0:09:22.88,Main Dialog,,0000,0000,0000,,Wingal Liberator!
+Dialogue: 0,0:09:24.89,0:09:27.26,Main Dialog,,0000,0000,0000,,Reign of Terror, Thermidor!
+Dialogue: 0,0:09:28.53,0:09:30.84,Main Dialog,,0000,0000,0000,,I'm not surprised. Spike Brothers, right?
+Dialogue: 0,0:09:31.18,0:09:34.53,Main Dialog,,0000,0000,0000,,Of course. Ready! Set!
+Dialogue: 0,0:09:37.14,0:09:41.74,Main Dialog,,0000,0000,0000,,You're going to experience the \Nfearsomeness of the Vipers!
+Dialogue: 0,0:09:49.88,0:09:53.20,Main Dialog,,0000,0000,0000,,This is where the Cardfight \NClub gets crushed.
+Dialogue: 0,0:10:17.12,0:10:20.02,Main Dialog,,0000,0000,0000,,Stand and draw. Gallatin attacks!
+Dialogue: 0,0:10:20.48,0:10:21.72,Main Dialog,,0000,0000,0000,,Block!
+Dialogue: 0,0:10:21.72,0:10:22.47,Main Dialog,,0000,0000,0000,,Gancelot!
+Dialogue: 0,0:10:23.32,0:10:24.36,Main Dialog,,0000,0000,0000,,Trigger check.
+Dialogue: 0,0:10:25.13,0:10:26.73,Main Dialog,,0000,0000,0000,,Damage check!
+Dialogue: 0,0:10:27.29,0:10:28.99,Main Dialog,,0000,0000,0000,,With a boost from Wingal Liberator...
+Dialogue: 0,0:10:29.55,0:10:33.48,Main Dialog,,0000,0000,0000,,Liberator of Royalty, Phallon \Nattacks Bad End Dragger!
+Dialogue: 0,0:10:33.85,0:10:36.42,Main Dialog,,0000,0000,0000,,Block! Cheer Girl, Marilyn!
+Dialogue: 0,0:10:38.68,0:10:39.99,Main Dialog,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:10:40.45,0:10:42.84,Main Dialog,,0000,0000,0000,,He only has 4 damage...
+Dialogue: 0,0:10:42.84,0:10:43.99,Main Dialog,,0000,0000,0000,,It's okay!
+Dialogue: 0,0:10:44.44,0:10:48.69,Main Dialog,,0000,0000,0000,,Aichi's just got 3 damage. \NHe's still in the lead!
+Dialogue: 0,0:10:49.36,0:10:51.30,Main Dialog,,0000,0000,0000,,That's true, but...
+Dialogue: 0,0:10:54.72,0:10:58.41,Main Dialog,,0000,0000,0000,,All right, now it's time \Nfor the Vipers to attack!
+Dialogue: 0,0:10:58.41,0:11:01.72,Main Dialog,,0000,0000,0000,,You're finally gettin' your \Nchance, Captain Catapult!
+Dialogue: 0,0:11:01.72,0:11:05.47,Main Dialog,,0000,0000,0000,,Go! Go! Vipers, go!
+Dialogue: 0,0:11:06.06,0:11:07.57,Main Dialog,,0000,0000,0000,,Stand and draw!
+Dialogue: 0,0:11:10.94,0:11:16.23,Main Dialog,,0000,0000,0000,,This will be the last thing to touch my hand \Nbefore I launch it straight at the enemy line!
+Dialogue: 0,0:11:16.93,0:11:18.24,Main Dialog,,0000,0000,0000,,Grateful Catapult!
+Dialogue: 0,0:11:18.52,0:11:19.73,Main Dialog,,0000,0000,0000,,Break Ride!
+Dialogue: 0,0:11:21.02,0:11:22.61,Main Dialog,,0000,0000,0000,,+10000 power!
+Dialogue: 0,0:11:25.41,0:11:29.33,Main Dialog,,0000,0000,0000,,And then... ready, set, hut-hut-hut!
+Dialogue: 0,0:11:31.69,0:11:34.75,Main Dialog,,0000,0000,0000,,Go, wrapped in the pale flames of youth!
+Dialogue: 0,0:11:35.56,0:11:37.24,Main Dialog,,0000,0000,0000,,Lightning bolts of the field!
+Dialogue: 0,0:11:37.24,0:11:41.77,Main Dialog,,0000,0000,0000,,Run like greased lightning and \Nscore a touchdown past the limit!
+Dialogue: 0,0:11:43.65,0:11:45.48,Main Dialog,,0000,0000,0000,,So during this turn,
+Dialogue: 0,0:11:45.48,0:11:48.98,Main Dialog,,0000,0000,0000,,all of my rear-guards get +10000 \Npower when they're attacking!
+Dialogue: 0,0:11:50.00,0:11:53.78,Main Dialog,,0000,0000,0000,,This is the Vipers' Limit Break formation!
+Dialogue: 0,0:11:57.06,0:12:00.14,Main Dialog,,0000,0000,0000,,Go, Brakki! Kick Gancelot to kingdom come!
+Dialogue: 0,0:12:02.76,0:12:05.45,Main Dialog,,0000,0000,0000,,On top of that, Brakki's Soulblast!
+Dialogue: 0,0:12:12.85,0:12:14.09,Main Dialog,,0000,0000,0000,,First down!
+Dialogue: 0,0:12:16.66,0:12:19.01,Main Dialog,,0000,0000,0000,,What's this "first down" stuff?
+Dialogue: 0,0:12:19.01,0:12:22.70,Main Dialog,,0000,0000,0000,,In football, you can do four \Nplays during your turn.
+Dialogue: 0,0:12:22.70,0:12:26.24,Main Dialog,,0000,0000,0000,,They're called "first down," \N"second down," and so on.
+Dialogue: 0,0:12:26.24,0:12:27.26,Main Dialog,,0000,0000,0000,,Huh...
+Dialogue: 0,0:12:27.62,0:12:31.74,Main Dialog,,0000,0000,0000,,And if the goal line is crossed during \Nthose four downs, it's a touchdown.
+Dialogue: 0,0:12:31.74,0:12:33.22,Main Dialog,,0000,0000,0000,,The team that does it gets points.
+Dialogue: 0,0:12:33.22,0:12:34.84,Main Dialog,,0000,0000,0000,,You don't say...
+Dialogue: 0,0:12:34.84,0:12:37.52,Main Dialog,,0000,0000,0000,,Huh. You seem to know an \Nawful lot about football.
+Dialogue: 0,0:12:37.84,0:12:42.51,Main Dialog,,0000,0000,0000,,I don't want to boast, but I've got a good \Ngrasp of the rules for every type of game,
+Dialogue: 0,0:12:42.51,0:12:46.49,Main Dialog,,0000,0000,0000,,from go and shogi to all known sports.
+Dialogue: 0,0:12:46.49,0:12:48.24,Main Dialog,,0000,0000,0000,,You {\i1}are{\i0} boasting...
+Dialogue: 0,0:12:51.82,0:12:55.08,Main Dialog,,0000,0000,0000,,Following Brakki, Juggernaut!
+Dialogue: 0,0:12:56.92,0:12:58.29,Main Dialog,,0000,0000,0000,,Soulblast!
+Dialogue: 0,0:13:05.45,0:13:06.84,Main Dialog,,0000,0000,0000,,First down!
+Dialogue: 0,0:13:07.24,0:13:11.06,Main Dialog,,0000,0000,0000,,Wait a sec! That was your second time, \Nso it should be "second down"!
+Dialogue: 0,0:13:11.06,0:13:15.62,Main Dialog,,0000,0000,0000,,If you advance ten yards or more, \Nyou're given a new first down.
+Dialogue: 0,0:13:17.69,0:13:22.65,Main Dialog,,0000,0000,0000,,Those two are playing Vanguard, so \Nfootball rules don't matter here.
+Dialogue: 0,0:13:23.93,0:13:26.77,Main Dialog,,0000,0000,0000,,What's more important than that is...
+Dialogue: 0,0:13:28.36,0:13:29.81,Main Dialog,,0000,0000,0000,,...5 damage...
+Dialogue: 0,0:13:31.69,0:13:33.84,Main Dialog,,0000,0000,0000,,The goal line is right before our eyes, huh?
+Dialogue: 0,0:13:34.46,0:13:37.47,Main Dialog,,0000,0000,0000,,I'm gonna win here with one shot!
+Dialogue: 0,0:13:37.47,0:13:39.44,Main Dialog,,0000,0000,0000,,So, Catapult, prepare to fire!
+Dialogue: 0,0:13:39.90,0:13:43.28,Main Dialog,,0000,0000,0000,,Go, Grateful Catapult and Wonder Boy!
+Dialogue: 0,0:13:45.96,0:13:48.26,Main Dialog,,0000,0000,0000,,Drive the ball deep behind enemy lines
+Dialogue: 0,0:13:48.26,0:13:52.01,Main Dialog,,0000,0000,0000,,and use that impact to destroy \Nevery last bit of the limits!
+Dialogue: 0,0:13:52.85,0:13:54.81,Main Dialog,,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:14:01.18,0:14:05.30,Main Dialog,,0000,0000,0000,,Two Juggernaut Maximum \Nunits, get in formation!
+Dialogue: 0,0:14:12.42,0:14:15.04,Main Dialog,,0000,0000,0000,,Two new units added to the front line!
+Dialogue: 0,0:14:15.04,0:14:18.93,Main Dialog,,0000,0000,0000,,Then it's possible for him to have \Na total of five attacks this turn!
+Dialogue: 0,0:14:18.93,0:14:19.80,Main Dialog,,0000,0000,0000,,Did you see that?!
+Dialogue: 0,0:14:19.80,0:14:22.84,Main Dialog,,0000,0000,0000,,This is the Vipers' Ultimate Formation!
+Dialogue: 0,0:14:23.21,0:14:24.69,Main Dialog,,0000,0000,0000,,The Catapult!
+Dialogue: 0,0:14:28.59,0:14:32.29,Main Dialog,,0000,0000,0000,,Vipers! Vipers! Vipers!
+Dialogue: 0,0:14:33.89,0:14:36.14,Main Dialog,,0000,0000,0000,,Ready! Set! Hut-hut-hut!
+Dialogue: 0,0:14:36.70,0:14:38.29,Main Dialog,,0000,0000,0000,,Your target is Gancelot!
+Dialogue: 0,0:14:39.00,0:14:41.84,Main Dialog,,0000,0000,0000,,Catapult... fire!
+Dialogue: 0,0:14:44.72,0:14:47.65,Main Dialog,,0000,0000,0000,,Perfect guard with Halo Liberator, Mark!
+Dialogue: 0,0:14:57.17,0:15:00.74,Main Dialog,,0000,0000,0000,,You blocked the Catapult's \Nattack... Impressive.
+Dialogue: 0,0:15:01.10,0:15:03.71,Main Dialog,,0000,0000,0000,,But now it's finally the second down.
+Dialogue: 0,0:15:04.30,0:15:06.34,Main Dialog,,0000,0000,0000,,I can still attack twice more!
+Dialogue: 0,0:15:07.57,0:15:09.22,Main Dialog,,0000,0000,0000,,Juggernaut! Tackle!
+Dialogue: 0,0:15:09.89,0:15:11.76,Main Dialog,,0000,0000,0000,,Liberator of Hope, Epona!
+Dialogue: 0,0:15:13.05,0:15:14.84,Main Dialog,,0000,0000,0000,,You've got some gall, blocking me.
+Dialogue: 0,0:15:14.84,0:15:17.02,Main Dialog,,0000,0000,0000,,But I've still got the third down!
+Dialogue: 0,0:15:17.54,0:15:20.97,Main Dialog,,0000,0000,0000,,Thermidor boosts! Go, Juggernaut!
+Dialogue: 0,0:15:23.78,0:15:25.77,Main Dialog,,0000,0000,0000,,I guard with Flogal and Marron!
+Dialogue: 0,0:15:26.45,0:15:29.28,Main Dialog,,0000,0000,0000,,Liberator of Silence, Gallatin intercepts!
+Dialogue: 0,0:15:29.72,0:15:31.40,Main Dialog,,0000,0000,0000,,What?!
+Dialogue: 0,0:15:31.70,0:15:33.03,Main Dialog,,0000,0000,0000,,Turnover?!
+Dialogue: 0,0:15:34.61,0:15:35.78,Main Dialog,,0000,0000,0000,,Shoot!
+Dialogue: 0,0:15:36.97,0:15:39.13,Main Dialog,,0000,0000,0000,,It seems the odds are against him...
+Dialogue: 0,0:15:39.13,0:15:41.37,Main Dialog,,0000,0000,0000,,What's wrong? Everything's \Nokay on that end, isn't it?
+Dialogue: 0,0:15:41.37,0:15:43.58,Main Dialog,,0000,0000,0000,,Y-Yes, sir. Of course!
+Dialogue: 0,0:15:46.80,0:15:48.72,Main Dialog,,0000,0000,0000,,Yes! Interception!
+Dialogue: 0,0:15:48.72,0:15:51.94,Main Dialog,,0000,0000,0000,,Oh yeah, intercept...
+Dialogue: 0,0:15:51.94,0:15:56.30,Main Dialog,,0000,0000,0000,,No, no, no! In football, they've \Ngot what's called "interception"!
+Dialogue: 0,0:15:56.58,0:16:01.56,Main Dialog,,0000,0000,0000,,Oh. That's when the defense catches \Nthe ball thrown by the offense, right?
+Dialogue: 0,0:16:01.81,0:16:04.30,Main Dialog,,0000,0000,0000,,That's it! And when that \Nhappens, there's a turnover.
+Dialogue: 0,0:16:04.30,0:16:08.44,Main Dialog,,0000,0000,0000,,The offense and defense switch sides, so \Nwhat was the defense gets to attack the enemy!
+Dialogue: 0,0:16:08.44,0:16:12.50,Main Dialog,,0000,0000,0000,,I don't get all that, but anyway, \Nit's Aichi's turn to attack, yeah?
+Dialogue: 0,0:16:12.50,0:16:13.64,Main Dialog,,0000,0000,0000,,Exactly!
+Dialogue: 0,0:16:13.64,0:16:16.05,Main Dialog,,0000,0000,0000,,All right! Go, Aichi!
+Dialogue: 0,0:16:16.05,0:16:19.58,Main Dialog,,0000,0000,0000,,You know, this is just a "turn end"...
+Dialogue: 0,0:16:20.14,0:16:21.70,Main Dialog,,0000,0000,0000,,Stand and draw!
+Dialogue: 0,0:16:23.02,0:16:27.59,Main Dialog,,0000,0000,0000,,The battle to set the world free from the \Nnightmare of limitations begins now!
+Dialogue: 0,0:16:28.46,0:16:29.90,Main Dialog,,0000,0000,0000,,Become a legend!
+Dialogue: 0,0:16:30.26,0:16:31.34,Main Dialog,,0000,0000,0000,,Break Ride!
+Dialogue: 0,0:16:33.64,0:16:36.29,Main Dialog,,0000,0000,0000,,Liberator of the Round Table, Alfred!
+Dialogue: 0,0:16:36.78,0:16:39.14,Main Dialog,,0000,0000,0000,,Alfred gets +10000 power!
+Dialogue: 0,0:16:41.20,0:16:44.48,Main Dialog,,0000,0000,0000,,Phallon, Wingal, and Llew get +5000 power!
+Dialogue: 0,0:16:44.86,0:16:48.08,Main Dialog,,0000,0000,0000,,And the limit is already broken.
+Dialogue: 0,0:16:48.08,0:16:49.11,Main Dialog,,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:16:49.38,0:16:50.26,Main Dialog,,0000,0000,0000,,Alfred!
+Dialogue: 0,0:16:52.96,0:16:56.82,Main Dialog,,0000,0000,0000,,As a result, he receives +2000 \Npower for each Liberator unit!
+Dialogue: 0,0:16:56.82,0:16:57.62,Main Dialog,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:59.69,0:17:03.74,Main Dialog,,0000,0000,0000,,Right now, he's got three Liberator \Nunits... Phallon, Wingal, and Llew!
+Dialogue: 0,0:17:03.74,0:17:05.68,Main Dialog,,0000,0000,0000,,That's a total of +6000!
+Dialogue: 0,0:17:09.30,0:17:12.30,Main Dialog,,0000,0000,0000,,Teamwork isn't found only in football!
+Dialogue: 0,0:17:14.61,0:17:17.42,Main Dialog,,0000,0000,0000,,Alfred's Especial Counterblast!
+Dialogue: 0,0:17:17.42,0:17:19.84,Main Dialog,,0000,0000,0000,,I'm going to show you the \Npower of our friendship!
+Dialogue: 0,0:17:20.41,0:17:23.56,Main Dialog,,0000,0000,0000,,Superior call... Pomerugal Liberator!
+Dialogue: 0,0:17:24.16,0:17:25.92,Main Dialog,,0000,0000,0000,,That's another Liberator!
+Dialogue: 0,0:17:25.92,0:17:26.89,Main Dialog,,0000,0000,0000,,So that means...
+Dialogue: 0,0:17:30.49,0:17:31.88,Main Dialog,,0000,0000,0000,,That's not all.
+Dialogue: 0,0:17:31.88,0:17:36.30,Main Dialog,,0000,0000,0000,,There are still two unflipped \NLiberators in the Damage Zone.
+Dialogue: 0,0:17:36.30,0:17:38.82,Main Dialog,,0000,0000,0000,,One more Especial Counterblast!
+Dialogue: 0,0:17:39.84,0:17:43.53,Main Dialog,,0000,0000,0000,,I superior call Liberator of the Flute, Escrad!
+Dialogue: 0,0:17:44.29,0:17:48.46,Main Dialog,,0000,0000,0000,,Now Alfred's power is 31000!
+Dialogue: 0,0:17:48.69,0:17:50.46,Main Dialog,,0000,0000,0000,,I-I don't believe it...
+Dialogue: 0,0:17:50.77,0:17:53.18,Main Dialog,,0000,0000,0000,,Suddenly he's got five Liberators?!
+Dialogue: 0,0:17:53.18,0:17:55.97,Main Dialog,,0000,0000,0000,,This is just like a formation!
+Dialogue: 0,0:17:56.40,0:18:01.85,Main Dialog,,0000,0000,0000,,Yeah... This is definitely an \NEspecial Counterblast formation!
+Dialogue: 0,0:18:04.52,0:18:06.97,Main Dialog,,0000,0000,0000,,That formation looks tough...
+Dialogue: 0,0:18:07.69,0:18:10.23,Main Dialog,,0000,0000,0000,,I can't find a place to break through!
+Dialogue: 0,0:18:10.69,0:18:14.98,Main Dialog,,0000,0000,0000,,Escrad attacks Grateful Catapult \Nwith a boost from Pomerugal!
+Dialogue: 0,0:18:15.44,0:18:17.99,Main Dialog,,0000,0000,0000,,Block! Silence Joker!
+Dialogue: 0,0:18:18.52,0:18:21.66,Main Dialog,,0000,0000,0000,,Alfred attacks with a boost from Llew!
+Dialogue: 0,0:18:21.66,0:18:25.26,Main Dialog,,0000,0000,0000,,With Llew's skill, Alfred \Nreceives +4000 power!
+Dialogue: 0,0:18:27.73,0:18:30.06,Main Dialog,,0000,0000,0000,,46000 power?!
+Dialogue: 0,0:18:31.01,0:18:32.28,Main Dialog,,0000,0000,0000,,Twin drive!
+Dialogue: 0,0:18:35.00,0:18:36.80,Main Dialog,,0000,0000,0000,,Liberator of Hope, Epona!
+Dialogue: 0,0:18:37.33,0:18:40.43,Main Dialog,,0000,0000,0000,,I give the power to Phallon and \Nthe extra critical to Alfred!
+Dialogue: 0,0:18:55.44,0:18:57.85,Main Dialog,,0000,0000,0000,,C-Captain!
+Dialogue: 0,0:18:58.26,0:19:00.10,Main Dialog,,0000,0000,0000,,I-I lost...
+Dialogue: 0,0:19:02.69,0:19:03.62,Main Dialog,,0000,0000,0000,,Yes!
+Dialogue: 0,0:19:03.62,0:19:05.34,Main Dialog,,0000,0000,0000,,Serves ya right!
+Dialogue: 0,0:19:06.70,0:19:08.16,Main Dialog,,0000,0000,0000,,Lame-o!
+Dialogue: 0,0:19:08.72,0:19:12.17,Main Dialog,,0000,0000,0000,,Sorry, but we're not interested in weak men!
+Dialogue: 0,0:19:12.17,0:19:14.38,Main Dialog,,0000,0000,0000,,I'm totally disappointed...
+Dialogue: 0,0:19:14.38,0:19:15.48,Main Dialog,,0000,0000,0000,,See ya!
+Dialogue: 0,0:19:15.48,0:19:16.10,Main Dialog,,0000,0000,0000,,Bye bye!
+Dialogue: 0,0:19:16.42,0:19:18.14,Main Dialog,,0000,0000,0000,,D-Don't be like that...
+Dialogue: 0,0:19:18.14,0:19:20.88,Main Dialog,,0000,0000,0000,,Come back, my angels!
+Dialogue: 0,0:19:20.88,0:19:22.96,Main Dialog,,0000,0000,0000,,W-We're no good...
+Dialogue: 0,0:19:22.96,0:19:25.37,Main Dialog,,0000,0000,0000,,...without you girls!
+Dialogue: 0,0:19:26.39,0:19:30.29,Main Dialog,,0000,0000,0000,,Jeez. They were of no use...
+Dialogue: 0,0:19:45.74,0:19:46.97,Main Dialog,,0000,0000,0000,,Hey, dude.
+Dialogue: 0,0:19:47.53,0:19:48.58,Main Dialog,,0000,0000,0000,,What?
+Dialogue: 0,0:19:48.58,0:19:50.91,Main Dialog,,0000,0000,0000,,Why did you mess with us?
+Dialogue: 0,0:19:54.26,0:19:59.42,Main Dialog,,0000,0000,0000,,The Student Council promised to \Nraise our budget if I won the fight.
+Dialogue: 0,0:20:01.30,0:20:04.42,Main Dialog,,0000,0000,0000,,Huh. So you were just dazzled by money...
+Dialogue: 0,0:20:04.42,0:20:05.44,Main Dialog,,0000,0000,0000,,Don't get the wrong idea!
+Dialogue: 0,0:20:06.64,0:20:08.50,Main Dialog,,0000,0000,0000,,Sure, I want a bigger budget.
+Dialogue: 0,0:20:08.97,0:20:12.62,Main Dialog,,0000,0000,0000,,But I'm a Cardfighter too,\N if not much of one.
+Dialogue: 0,0:20:12.62,0:20:15.13,Main Dialog,,0000,0000,0000,,I wouldn't challenge anyone \Nto a fight just for money!
+Dialogue: 0,0:20:15.61,0:20:17.44,Main Dialog,,0000,0000,0000,,Then what were you after?
+Dialogue: 0,0:20:17.44,0:20:19.57,Main Dialog,,0000,0000,0000,,Why did you challenge Aichi?
+Dialogue: 0,0:20:20.53,0:20:21.90,Main Dialog,,0000,0000,0000,,There's a strong fighter around.
+Dialogue: 0,0:20:23.16,0:20:26.86,Main Dialog,,0000,0000,0000,,That's plenty reason for a \NCardfighter to do battle.
+Dialogue: 0,0:20:33.62,0:20:34.90,Main Dialog,,0000,0000,0000,,Hey, you guys!
+Dialogue: 0,0:20:36.06,0:20:38.71,Main Dialog,,0000,0000,0000,,You gonna sit around all day?! Let's go!
+Dialogue: 0,0:20:39.24,0:20:41.97,Main Dialog,,0000,0000,0000,,Where are we going?
+Dialogue: 0,0:20:43.05,0:20:43.97,Main Dialog,,0000,0000,0000,,The setting sun!
+Dialogue: 0,0:20:44.53,0:20:47.45,Main Dialog,,0000,0000,0000,,We're all gonna run for the setting sun!
+Dialogue: 0,0:20:47.45,0:20:49.24,Main Dialog,,0000,0000,0000,,Yes, Captain!
+Dialogue: 0,0:20:49.24,0:20:52.12,Main Dialog,,0000,0000,0000,,Run? There's a river in front of you!
+Dialogue: 0,0:20:52.12,0:20:53.92,Main Dialog,,0000,0000,0000,,Let's cross the bridge over there and go!
+Dialogue: 0,0:20:54.85,0:20:56.23,Main Dialog,,0000,0000,0000,,Oh, that way...
+Dialogue: 0,0:20:59.08,0:21:00.45,Main Dialog,,0000,0000,0000,,Your helmet...
+Dialogue: 0,0:21:00.94,0:21:02.10,Main Dialog,,0000,0000,0000,,Vipers!
+Dialogue: 0,0:21:02.10,0:21:04.76,Main Dialog,,0000,0000,0000,,Fight! Fight! Fight!
+Dialogue: 0,0:21:04.76,0:21:06.18,Main Dialog,,0000,0000,0000,,Vipers!
+Dialogue: 0,0:21:06.18,0:21:08.49,Main Dialog,,0000,0000,0000,,Fight! Fight! Fight!
+Dialogue: 0,0:21:07.24,0:21:08.49,Main Dialog,,0000,0000,0000,,Men...
+Dialogue: 0,0:21:09.57,0:21:14.40,Main Dialog,,0000,0000,0000,,Anyway, why'd the Student Council \Nsend a fighter after us?
+Dialogue: 0,0:21:14.40,0:21:17.00,Main Dialog,,0000,0000,0000,,To the point of dangling the promise \Nof a budget increase in front of him...
+Dialogue: 0,0:21:17.74,0:21:19.22,Main Dialog,,0000,0000,0000,,I don't know...
+Dialogue: 0,0:21:19.22,0:21:22.26,Main Dialog,,0000,0000,0000,,But it looks like we can't \Nafford to be careless.
+Dialogue: 0,0:21:22.66,0:21:23.92,Main Dialog,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:21:23.92,0:21:27.44,Main Dialog,,0000,0000,0000,,I mean we should make the Cardfight \NClub official as soon as possible,
+Dialogue: 0,0:21:27.44,0:21:31.49,Main Dialog,,0000,0000,0000,,before anyone challenges us.
+Dialogue: 0,0:21:40.68,0:21:44.74,Main Dialog,,0000,0000,0000,,Starting tomorrow, the Football Club's \Npractice area will be Ground Six.
+Dialogue: 0,0:21:45.14,0:21:46.70,Main Dialog,,0000,0000,0000,,Inform them of it.
+Dialogue: 0,0:21:47.14,0:21:50.44,Main Dialog,,0000,0000,0000,,Ground Six... You mean, the \Nother side of the mountain?
+Dialogue: 0,0:21:50.44,0:21:54.50,Main Dialog,,0000,0000,0000,,Exactly. If they run, it should take \Nthem about two hours to get there...
+Dialogue: 0,0:21:55.16,0:21:57.62,Main Dialog,,0000,0000,0000,,The exercise will be perfect for them.
+Dialogue: 0,0:21:57.90,0:21:59.60,Main Dialog,,0000,0000,0000,,Yes, certainly...
+Dialogue: 0,0:21:59.92,0:22:03.63,Main Dialog,,0000,0000,0000,,The weak are discarded, and the \Nstrong receive favorable treatment.
+Dialogue: 0,0:22:04.14,0:22:08.08,Main Dialog,,0000,0000,0000,,The law of the jungle is the most \Nbeautiful order that exists.
+Dialogue: 0,0:22:10.90,0:22:13.70,Main Dialog,,0000,0000,0000,,I'm going to teach you the global standard...
+Dialogue: 0,0:22:15.76,0:22:17.54,Main Dialog,,0000,0000,0000,,...Cardfight Club.
+Dialogue: 0,0:23:56.41,0:23:59.69,Main Dialog,,0000,0000,0000,,Why are those Student Council \Njerks bein' a thorn in our side?!
+Dialogue: 0,0:23:59.69,0:24:02.84,Main Dialog,,0000,0000,0000,,Ishida alone is enough of a thorn in \Nmy side! They won't get away with it!
+Dialogue: 0,0:24:02.84,0:24:05.68,Main Dialog,,0000,0000,0000,,What are you talkin' about?! You're \Nthe one who's the thorn in my side!
+Dialogue: 0,0:24:05.68,0:24:08.10,Main Dialog,,0000,0000,0000,,I can't let that comment pass!
+Dialogue: 0,0:24:08.10,0:24:10.34,Main Dialog,,0000,0000,0000,,Both of you, stop fighting!
+Dialogue: 0,0:24:10.34,0:24:13.14,Main Dialog,,0000,0000,0000,,Next Time: The Birth of the Cardfight Club?!
+Dialogue: 0,0:24:13.14,0:24:15.24,Main Dialog,,0000,0000,0000,,If only Misaki were here \Nat a time like this...
+Dialogue: 0,0:24:15.24,0:24:17.92,Main Dialog,,0000,0000,0000,,Right when the club needs \Nto "stand up" for real...
+Dialogue: 0,0:24:17.92,0:24:21.53,Main Dialog,,0000,0000,0000,,Aichi! Who's the bigger thorn in the \Nside, me or Komoi?! You be the judge!
+Dialogue: 0,0:24:21.53,0:24:23.53,Main Dialog,,0000,0000,0000,,You know I can't do that!

@@ -1,0 +1,386 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.33,0:00:04.27,Main Dialog,,0000,0000,0000,,The American Football Club \Nchallenged the Cardfight Club?!
+Dialogue: 0,0:00:04.84,0:00:06.77,Main Dialog,,0000,0000,0000,,I won the fight with them, so \Nall's well that ends well...
+Dialogue: 0,0:00:07.08,0:00:11.28,Main Dialog,,0000,0000,0000,,...but it means the Student Council \Ndoesn't think much of the Cardfight Club.
+Dialogue: 0,0:00:11.28,0:00:14.03,Main Dialog,,0000,0000,0000,,Have they accepted you \Nguys as an official club?
+Dialogue: 0,0:00:14.58,0:00:19.79,Main Dialog,,0000,0000,0000,,Not yet. We need at least five people, \Nand right now, we only have four...
+Dialogue: 0,0:00:20.16,0:00:21.70,Main Dialog,,0000,0000,0000,,So you're one person short...
+Dialogue: 0,0:00:21.70,0:00:23.32,Main Dialog,,0000,0000,0000,,But if you don't hurry up \Nand get another person,
+Dialogue: 0,0:00:23.32,0:00:27.04,Main Dialog,,0000,0000,0000,,won't the Student Council challenge \Nyou again or plot against you?!
+Dialogue: 0,0:00:27.45,0:00:31.84,Main Dialog,,0000,0000,0000,,Yeah. Except the condition for joining \Nthe club is beating one of the members...
+Dialogue: 0,0:00:33.41,0:00:40.30,Main Dialog,,0000,0000,0000,,Kourin is so strong that even the ones who \Nare her fans keep giving up, one after another.
+Dialogue: 0,0:00:40.30,0:00:42.64,Main Dialog,,0000,0000,0000,,And even if that can't be helped,
+Dialogue: 0,0:00:42.64,0:00:46.24,Main Dialog,,0000,0000,0000,,recently, students aren't \Ntaking our invitation flyers.
+Dialogue: 0,0:00:49.13,0:00:54.45,Main Dialog,,0000,0000,0000,,It seems word of the Student Council's \Ndisapproval has spread to the student body.
+Dialogue: 0,0:00:54.45,0:00:57.20,Main Dialog,,0000,0000,0000,,They're probably worried about \Ngetting a black mark on their record,
+Dialogue: 0,0:00:57.20,0:01:01.79,Main Dialog,,0000,0000,0000,,or are keeping their distance because \Nthey wanna have a decent school life.
+Dialogue: 0,0:01:02.09,0:01:05.10,Main Dialog,,0000,0000,0000,,There's only one thing to do! \NKatsumi Morikawa, a man's man,
+Dialogue: 0,0:01:05.10,0:01:07.85,Main Dialog,,0000,0000,0000,,will transfer to your school \Nand join the Vanguard Club!
+Dialogue: 0,0:01:07.85,0:01:10.61,Main Dialog,,0000,0000,0000,,I told you before that your test scores\N make getting into that school impossible!
+Dialogue: 0,0:01:10.61,0:01:13.42,Main Dialog,,0000,0000,0000,,It's possible, as long as \NI have love for Kourin!
+Dialogue: 0,0:01:14.66,0:01:17.30,Main Dialog,,0000,0000,0000,,If only I went to the same school...
+Dialogue: 0,0:01:17.64,0:01:19.80,Main Dialog,,0000,0000,0000,,You're still in middle school...
+Dialogue: 0,0:01:21.34,0:01:22.56,Main Dialog,,0000,0000,0000,,Are you gonna give up?
+Dialogue: 0,0:01:24.04,0:01:27.26,Main Dialog,,0000,0000,0000,,No. I'm definitely going \Nto make the club official!
+Dialogue: 0,0:01:28.57,0:01:30.09,Main Dialog,,0000,0000,0000,,Welcome back, Misaki.
+Dialogue: 0,0:01:31.36,0:01:32.41,Main Dialog,,0000,0000,0000,,I'm back.
+Dialogue: 0,0:01:32.41,0:01:33.44,Main Dialog,,0000,0000,0000,,Misaki!
+Dialogue: 0,0:01:34.85,0:01:36.03,Main Dialog,,0000,0000,0000,,Aichi...
+Dialogue: 0,0:01:37.04,0:01:39.13,Main Dialog,,0000,0000,0000,,Let me ask you once more.
+Dialogue: 0,0:01:39.13,0:01:41.82,Main Dialog,,0000,0000,0000,,Won't you join the Cardfight Club?
+Dialogue: 0,0:01:41.82,0:01:43.91,Main Dialog,,0000,0000,0000,,I want you in the club, Misaki.
+Dialogue: 0,0:01:46.25,0:01:48.36,Main Dialog,,0000,0000,0000,,If it's the shop you're worried \Nabout, there's no need.
+Dialogue: 0,0:01:48.36,0:01:50.40,Main Dialog,,0000,0000,0000,,The sub-manager and I have \Nthings well in hand here.
+Dialogue: 0,0:01:51.25,0:01:52.40,Main Dialog,,0000,0000,0000,,I mean "manager"!
+Dialogue: 0,0:01:53.98,0:01:58.05,Main Dialog,,0000,0000,0000,,Please, Misaki. Let's fight again together.
+Dialogue: 0,0:02:00.21,0:02:01.72,Main Dialog,,0000,0000,0000,,Well, I guess...
+Dialogue: 0,0:02:02.96,0:02:03.80,Main Dialog,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:05.58,0:02:06.77,Main Dialog,,0000,0000,0000,,Kourin!
+Dialogue: 0,0:02:07.48,0:02:08.34,Main Dialog,,0000,0000,0000,,Cut it out!
+Dialogue: 0,0:02:08.34,0:02:09.09,Main Dialog,,0000,0000,0000,,Blocked!
+Dialogue: 0,0:02:09.09,0:02:10.06,Main Dialog,,0000,0000,0000,,BL-yo!
+Dialogue: 0,0:02:10.24,0:02:12.02,Main Dialog,,0000,0000,0000,,Dang it! Let go of me!
+Dialogue: 0,0:02:12.02,0:02:13.82,Main Dialog,,0000,0000,0000,,If you'd gone ahead and \Ngrabbed her, it'd be a crime!
+Dialogue: 0,0:02:13.82,0:02:14.26,Main Dialog,,0000,0000,0000,,That's right!
+Dialogue: 0,0:02:14.26,0:02:17.36,Main Dialog,,0000,0000,0000,,Aichi, you came here to \Ninvite her, didn't you?
+Dialogue: 0,0:02:17.36,0:02:18.07,Main Dialog,,0000,0000,0000,,Yes.
+Dialogue: 0,0:02:18.54,0:02:21.16,Main Dialog,,0000,0000,0000,,A club isn't something \Nyou're persuaded to join.
+Dialogue: 0,0:02:21.74,0:02:23.45,Main Dialog,,0000,0000,0000,,We don't need anybody who's \Nnot serious about it.
+Dialogue: 0,0:02:27.29,0:02:29.00,Main Dialog,,0000,0000,0000,,You're saying I'm not serious?!
+Dialogue: 0,0:02:29.48,0:02:31.38,Main Dialog,,0000,0000,0000,,Are you saying you seriously want to join?
+Dialogue: 0,0:02:33.06,0:02:36.13,Main Dialog,,0000,0000,0000,,I never said I wanted to join...
+Dialogue: 0,0:02:36.77,0:02:38.13,Main Dialog,,0000,0000,0000,,Misaki...
+Dialogue: 0,0:02:41.29,0:02:43.01,Main Dialog,,0000,0000,0000,,Oh, boy...
+Dialogue: 0,0:04:14.14,0:04:16.85,Main Dialog,,0000,0000,0000,,I can't think of anybody \Nelse but you, Misaki!
+Dialogue: 0,0:04:17.76,0:04:19.86,Main Dialog,,0000,0000,0000,,Please join the Cardfight Club!
+Dialogue: 0,0:04:20.70,0:04:21.81,Main Dialog,,0000,0000,0000,,Sorry...
+Dialogue: 0,0:04:27.24,0:04:30.33,Main Dialog,,0000,0000,0000,,Poor guy. You rejected him again, Misaki?
+Dialogue: 0,0:04:32.22,0:04:34.54,Main Dialog,,0000,0000,0000,,Don't put it like that.
+Dialogue: 0,0:04:34.54,0:04:36.66,Main Dialog,,0000,0000,0000,,I just refused to join the club.
+Dialogue: 0,0:04:36.66,0:04:41.52,Main Dialog,,0000,0000,0000,,He's cute, coming here every day to beg you.
+Dialogue: 0,0:04:41.52,0:04:42.84,Main Dialog,,0000,0000,0000,,Akari...
+Dialogue: 0,0:04:43.68,0:04:45.86,Main Dialog,,0000,0000,0000,,You hate Vanguard that much?
+Dialogue: 0,0:04:46.33,0:04:47.86,Main Dialog,,0000,0000,0000,,That's not what it is...
+Dialogue: 0,0:04:48.10,0:04:49.10,Main Dialog,,0000,0000,0000,,I figured.
+Dialogue: 0,0:04:50.08,0:04:54.21,Main Dialog,,0000,0000,0000,,If you weren't interested in this stuff, \Nyou wouldn't bring it to class, right?
+Dialogue: 0,0:04:54.21,0:04:56.73,Main Dialog,,0000,0000,0000,,Misaki, you aren't straightforward \Nwith your feelings.
+Dialogue: 0,0:04:58.50,0:05:02.23,Main Dialog,,0000,0000,0000,,"Why did you invite that \Nidol to join before me?!"
+Dialogue: 0,0:05:02.23,0:05:05.57,Main Dialog,,0000,0000,0000,,"Even though you've known \Nme much longer than her!"
+Dialogue: 0,0:05:05.57,0:05:07.36,Main Dialog,,0000,0000,0000,,That's not what I'm thinking!
+Dialogue: 0,0:05:10.41,0:05:12.78,Main Dialog,,0000,0000,0000,,We don't need anybody who's \Nnot serious about it.
+Dialogue: 0,0:05:15.37,0:05:19.29,Main Dialog,,0000,0000,0000,,Why does what she said bother me so much?
+Dialogue: 0,0:05:20.00,0:05:25.01,Signs,,0000,0000,0000,,The Birth of the Cardfight Club?!
+Dialogue: 0,0:05:25.01,0:05:27.04,Signs,,0000,0000,0000,,Physics Prep Room\NCardfight Club (tentative)
+Dialogue: 0,0:05:27.65,0:05:30.66,Main Dialog,,0000,0000,0000,,Boss Lady already has her hands full.
+Dialogue: 0,0:05:30.66,0:05:33.27,Main Dialog,,0000,0000,0000,,Anyway, it's her destiny \Nto stand alone at the top.
+Dialogue: 0,0:05:33.72,0:05:38.36,Main Dialog,,0000,0000,0000,,According to my investigation, \NMisaki works at the shop, and that's it.
+Dialogue: 0,0:05:38.36,0:05:40.77,Main Dialog,,0000,0000,0000,,I don't believe she's busy \Nshaking students down for money.
+Dialogue: 0,0:05:41.02,0:05:44.02,Main Dialog,,0000,0000,0000,,You have no clue how a \Nbig shot thinks, shorty!
+Dialogue: 0,0:05:44.02,0:05:46.40,Main Dialog,,0000,0000,0000,,"Shorty" is not my name. \NIt's Komoi!
+Dialogue: 0,0:05:46.93,0:05:49.97,Main Dialog,,0000,0000,0000,,I wonder why Misaki won't join...
+Dialogue: 0,0:05:49.97,0:05:52.97,Main Dialog,,0000,0000,0000,,If she really wanted to, \NI'm sure she'd come to us.
+Dialogue: 0,0:05:52.97,0:05:54.34,Main Dialog,,0000,0000,0000,,Kourin...
+Dialogue: 0,0:05:54.66,0:05:56.91,Signs,,0000,0000,0000,,Miyaji Academy High School \NDivision Student Council Office
+Dialogue: 0,0:05:57.17,0:06:01.86,Main Dialog,,0000,0000,0000,,So the Cardfight Club hasn't given \Nup on getting more members, eh?
+Dialogue: 0,0:06:03.14,0:06:04.01,Main Dialog,,0000,0000,0000,,Correct.
+Dialogue: 0,0:06:04.01,0:06:07.32,Main Dialog,,0000,0000,0000,,Thanks to the rumors we spread about \Nthe Student Council watching the club,
+Dialogue: 0,0:06:07.32,0:06:09.57,Main Dialog,,0000,0000,0000,,I believe there are no \Nhopeful applicants left,
+Dialogue: 0,0:06:09.57,0:06:11.30,Main Dialog,,0000,0000,0000,,but there is still a remote chance.
+Dialogue: 0,0:06:12.06,0:06:13.56,Main Dialog,,0000,0000,0000,,If we're going to cut off \Nthe head of the snake,
+Dialogue: 0,0:06:13.56,0:06:15.56,Main Dialog,,0000,0000,0000,,now would be the time, before \Nthey get five members.
+Dialogue: 0,0:06:16.80,0:06:18.31,Main Dialog,,0000,0000,0000,,Do you have an idea?
+Dialogue: 0,0:06:19.33,0:06:20.37,Main Dialog,,0000,0000,0000,,I do.
+Dialogue: 0,0:06:21.88,0:06:23.84,Main Dialog,,0000,0000,0000,,This is a message from the Student Council.
+Dialogue: 0,0:06:24.26,0:06:28.40,Main Dialog,,0000,0000,0000,,Clubs that wish to be granted official \Nstatus must have at least five members,
+Dialogue: 0,0:06:28.40,0:06:31.93,Main Dialog,,0000,0000,0000,,and the Student Council must be \Nnotified of this, by 6 p.m. today.
+Dialogue: 0,0:06:32.34,0:06:36.52,Main Dialog,,0000,0000,0000,,If there is no notification, the club will \Nnot be granted official status this year.
+Dialogue: 0,0:06:37.26,0:06:37.79,Main Dialog,,0000,0000,0000,,I repeat...
+Dialogue: 0,0:06:39.15,0:06:42.73,Main Dialog,,0000,0000,0000,,{\pos(320,80)}Clubs that wish to be granted official \Nstatus must have at least five members,
+Dialogue: 0,0:06:42.44,0:06:46.30,Main Dialog,,0000,0000,0000,,How 'bout I just grab a random person from \Nover there and force 'em to sign up?!
+Dialogue: 0,0:06:42.73,0:06:46.31,Main Dialog,,0000,0000,0000,,{\pos(320,80)}and the Student Council must be \Nnotified of this, by 6 p.m. today.
+Dialogue: 0,0:06:46.61,0:06:49.16,Main Dialog,,0000,0000,0000,,You do that, and you're out of the club.
+Dialogue: 0,0:06:49.16,0:06:51.46,Main Dialog,,0000,0000,0000,,I-I was only kiddin', of course!
+Dialogue: 0,0:06:51.46,0:06:53.05,Main Dialog,,0000,0000,0000,,I'll ask Misaki one more time...
+Dialogue: 0,0:06:57.01,0:06:58.52,Main Dialog,,0000,0000,0000,,Misaki...
+Dialogue: 0,0:06:59.38,0:07:00.48,Main Dialog,,0000,0000,0000,,Boss Lady...
+Dialogue: 0,0:07:06.26,0:07:08.20,Main Dialog,,0000,0000,0000,,Why did you invite me?
+Dialogue: 0,0:07:09.97,0:07:10.72,Main Dialog,,0000,0000,0000,,Um...
+Dialogue: 0,0:07:12.34,0:07:15.49,Main Dialog,,0000,0000,0000,,Because I wanted to play \NVanguard together with you, Misaki.
+Dialogue: 0,0:07:17.22,0:07:19.36,Main Dialog,,0000,0000,0000,,When I thought about who \NI wanted to do it with,
+Dialogue: 0,0:07:19.36,0:07:22.76,Main Dialog,,0000,0000,0000,,you're the person \Nwho came to mind, Misaki!
+Dialogue: 0,0:07:25.76,0:07:26.63,Main Dialog,,0000,0000,0000,,Please!
+Dialogue: 0,0:07:27.21,0:07:28.76,Main Dialog,,0000,0000,0000,,We're beggin' you, Boss Lady!
+Dialogue: 0,0:07:30.45,0:07:33.51,Main Dialog,,0000,0000,0000,,Does it make you feel good, \Nhaving people bow to you?
+Dialogue: 0,0:07:35.04,0:07:37.61,Main Dialog,,0000,0000,0000,,Hey, you don't have to talk like that!
+Dialogue: 0,0:07:37.61,0:07:39.16,Main Dialog,,0000,0000,0000,,I don't accept her.
+Dialogue: 0,0:07:39.16,0:07:42.77,Main Dialog,,0000,0000,0000,,Her joining out of sympathy \Nonly puts me in a bad mood.
+Dialogue: 0,0:07:43.45,0:07:48.06,Main Dialog,,0000,0000,0000,,The purpose of the Cardfight Club \Nis to fight seriously.
+Dialogue: 0,0:07:48.38,0:07:50.30,Main Dialog,,0000,0000,0000,,We don't need anyone who isn't serious.
+Dialogue: 0,0:07:50.76,0:07:51.90,Main Dialog,,0000,0000,0000,,I am serious!
+Dialogue: 0,0:07:52.54,0:07:56.66,Main Dialog,,0000,0000,0000,,Your "serious" and Aichi's "serious" are \Ndifferent. Different from ours, too!
+Dialogue: 0,0:07:57.25,0:07:58.52,Main Dialog,,0000,0000,0000,,Kourin...
+Dialogue: 0,0:08:00.64,0:08:01.77,Main Dialog,,0000,0000,0000,,Misaki...
+Dialogue: 0,0:08:03.44,0:08:04.54,Main Dialog,,0000,0000,0000,,Wait!
+Dialogue: 0,0:08:05.14,0:08:05.90,Main Dialog,,0000,0000,0000,,Misaki!
+Dialogue: 0,0:08:06.44,0:08:09.76,Main Dialog,,0000,0000,0000,,You don't need to chase after \Nher. She's the problem.
+Dialogue: 0,0:08:09.76,0:08:10.72,Main Dialog,,0000,0000,0000,,But...
+Dialogue: 0,0:08:10.72,0:08:12.97,Main Dialog,,0000,0000,0000,,If you still go after her, then I'll quit.
+Dialogue: 0,0:08:13.34,0:08:14.68,Main Dialog,,0000,0000,0000,,You would...?
+Dialogue: 0,0:08:15.41,0:08:16.58,Main Dialog,,0000,0000,0000,,Misaki...
+Dialogue: 0,0:08:17.57,0:08:20.27,Main Dialog,,0000,0000,0000,,The Cardfight Club is \Nlooking for new members!
+Dialogue: 0,0:08:20.56,0:08:23.17,Main Dialog,,0000,0000,0000,,Please join the Cardfight Club!
+Dialogue: 0,0:08:25.81,0:08:27.38,Signs,,0000,0000,0000,,Cardfight Club
+Dialogue: 0,0:08:32.68,0:08:34.51,Main Dialog,,0000,0000,0000,,We don't need anyone who isn't serious.
+Dialogue: 0,0:08:35.30,0:08:40.24,Main Dialog,,0000,0000,0000,,Your "serious" and Aichi's "serious" are \Ndifferent. Different from ours, too!
+Dialogue: 0,0:08:40.66,0:08:44.92,Main Dialog,,0000,0000,0000,,I seriously wanted to help \NAichi out of a jam...
+Dialogue: 0,0:08:45.80,0:08:48.75,Main Dialog,,0000,0000,0000,,Help...? For Aichi's sake?
+Dialogue: 0,0:08:51.16,0:08:52.00,Main Dialog,,0000,0000,0000,,No!
+Dialogue: 0,0:08:53.60,0:08:57.64,Main Dialog,,0000,0000,0000,,Drat! Almost all the students've \Ngone home already!
+Dialogue: 0,0:09:02.78,0:09:05.14,Main Dialog,,0000,0000,0000,,So you were still trying to get new members?
+Dialogue: 0,0:09:05.49,0:09:08.15,Main Dialog,,0000,0000,0000,,Hey, would you give us \Njust a little more time?
+Dialogue: 0,0:09:08.72,0:09:11.15,Main Dialog,,0000,0000,0000,,The Student Council's decisions are absolute.
+Dialogue: 0,0:09:13.86,0:09:17.33,Main Dialog,,0000,0000,0000,,If {\i1}somebody{\i0} hadn't said all that to Misaki...
+Dialogue: 0,0:09:17.33,0:09:18.50,Main Dialog,,0000,0000,0000,,Did you say something?
+Dialogue: 0,0:09:18.50,0:09:19.78,Main Dialog,,0000,0000,0000,,N-No, nothing!
+Dialogue: 0,0:09:21.16,0:09:22.54,Main Dialog,,0000,0000,0000,,Looks like it's all over.
+Dialogue: 0,0:09:37.68,0:09:41.05,Main Dialog,,0000,0000,0000,,The Cardfight Club's fifth member is me.
+Dialogue: 0,0:09:43.81,0:09:44.81,Main Dialog,,0000,0000,0000,,Misaki!
+Dialogue: 0,0:09:46.45,0:09:48.00,Main Dialog,,0000,0000,0000,,B-But...
+Dialogue: 0,0:09:48.00,0:09:49.44,Main Dialog,,0000,0000,0000,,I thought everybody went home...
+Dialogue: 0,0:09:49.85,0:09:52.44,Main Dialog,,0000,0000,0000,,That makes five people! \NYou got no gripes, do ya?!
+Dialogue: 0,0:09:56.04,0:09:56.95,Main Dialog,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:09:57.36,0:09:58.46,Main Dialog,,0000,0000,0000,,Y-Yes, sir!
+Dialogue: 0,0:10:00.06,0:10:01.68,Main Dialog,,0000,0000,0000,,Come back the day before yesterday!
+Dialogue: 0,0:10:01.68,0:10:03.74,Main Dialog,,0000,0000,0000,,They can't come back the \Nday before yesterday.
+Dialogue: 0,0:10:04.26,0:10:05.33,Main Dialog,,0000,0000,0000,,Shut up, you!
+Dialogue: 0,0:10:05.81,0:10:07.62,Main Dialog,,0000,0000,0000,,Misaki, I knew you'd come!
+Dialogue: 0,0:10:08.14,0:10:10.58,Main Dialog,,0000,0000,0000,,You're a busy girl, with all \Nyour comings and goings.
+Dialogue: 0,0:10:10.58,0:10:11.66,Main Dialog,,0000,0000,0000,,Your reason?
+Dialogue: 0,0:10:11.66,0:10:13.59,Main Dialog,,0000,0000,0000,,If I don't like it, I won't approve you.
+Dialogue: 0,0:10:18.05,0:10:22.93,Main Dialog,,0000,0000,0000,,I'm not doing it for somebody else's sake,\Nor to help the club become official...
+Dialogue: 0,0:10:24.56,0:10:28.22,Main Dialog,,0000,0000,0000,,I'm joining because I seriously \Nwant to play Vanguard.
+Dialogue: 0,0:10:30.70,0:10:32.68,Main Dialog,,0000,0000,0000,,For now, you pass.
+Dialogue: 0,0:10:32.68,0:10:33.44,Main Dialog,,0000,0000,0000,,Yes!
+Dialogue: 0,0:10:33.90,0:10:38.58,Main Dialog,,0000,0000,0000,,As a fan, I'm thrilled to be \Nin the same club as Misaki,
+Dialogue: 0,0:10:38.58,0:10:41.09,Main Dialog,,0000,0000,0000,,a member of Q4, the world's \Nbest Vanguard team!
+Dialogue: 0,0:10:41.09,0:10:43.18,Main Dialog,,0000,0000,0000,,And now we can keep on playin' Vanguard!
+Dialogue: 0,0:10:43.18,0:10:44.82,Main Dialog,,0000,0000,0000,,First, you need to take the club exam.
+Dialogue: 0,0:10:45.77,0:10:48.89,Main Dialog,,0000,0000,0000,,If you don't beat a member of the club, \Nyou can't become a member yourself.
+Dialogue: 0,0:10:49.94,0:10:50.96,Main Dialog,,0000,0000,0000,,What?!
+Dialogue: 0,0:10:50.96,0:10:51.96,Main Dialog,,0000,0000,0000,,Oh, come on...
+Dialogue: 0,0:10:56.33,0:10:57.21,Main Dialog,,0000,0000,0000,,You're fighting...
+Dialogue: 0,0:10:57.60,0:10:58.48,Main Dialog,,0000,0000,0000,,...Aichi!
+Dialogue: 0,0:11:16.08,0:11:19.30,Main Dialog,,0000,0000,0000,,If you beat Aichi, I'll \Naccept you as a member.
+Dialogue: 0,0:11:21.08,0:11:22.52,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:11:24.06,0:11:25.13,Main Dialog,,0000,0000,0000,,Wingal Liberator!
+Dialogue: 0,0:11:27.02,0:11:28.80,Main Dialog,,0000,0000,0000,,Aiming for the Stars, Artemis!
+Dialogue: 0,0:11:31.38,0:11:33.63,Main Dialog,,0000,0000,0000,,That's not Oracle Think Tank, is it?
+Dialogue: 0,0:11:34.68,0:11:36.80,Main Dialog,,0000,0000,0000,,I felt like trying out various things.
+Dialogue: 0,0:11:37.05,0:11:41.38,Main Dialog,,0000,0000,0000,,Genesis... I've got a good \Nfeeling about this clan.
+Dialogue: 0,0:11:42.18,0:11:45.68,Main Dialog,,0000,0000,0000,,Misaki has kept up her studies \Nin order to get stronger...
+Dialogue: 0,0:11:46.14,0:11:48.26,Main Dialog,,0000,0000,0000,,I really do want to be \Nin the same club as her.
+Dialogue: 0,0:11:48.74,0:11:50.28,Main Dialog,,0000,0000,0000,,But if I...
+Dialogue: 0,0:11:50.28,0:11:51.85,Main Dialog,,0000,0000,0000,,If you hold back...
+Dialogue: 0,0:11:52.57,0:11:53.85,Main Dialog,,0000,0000,0000,,...I'll never forgive you.
+Dialogue: 0,0:11:54.38,0:11:56.86,Main Dialog,,0000,0000,0000,,If you go easy on her, I'll quit.
+Dialogue: 0,0:11:58.30,0:12:01.49,Main Dialog,,0000,0000,0000,,This is what they call being caught between \Nthe tiger and the wolf, huh?
+Dialogue: 0,0:12:01.49,0:12:03.24,Main Dialog,,0000,0000,0000,,That's exactly what they look like!
+Dialogue: 0,0:12:05.80,0:12:08.04,Main Dialog,,0000,0000,0000,,Of course, I'm going to give it all I've got.
+Dialogue: 0,0:12:08.04,0:12:09.87,Main Dialog,,0000,0000,0000,,I want to participate in this club seriously!
+Dialogue: 0,0:12:11.48,0:12:14.76,Main Dialog,,0000,0000,0000,,Here I go. I ride Little Liberator, Marron!
+Dialogue: 0,0:12:19.28,0:12:20.40,Main Dialog,,0000,0000,0000,,Wingal moves.
+Dialogue: 0,0:12:21.42,0:12:24.58,Main Dialog,,0000,0000,0000,,I ride Bowstring of Heaven \Nand Earth, Artemis!
+Dialogue: 0,0:12:25.32,0:12:27.36,Main Dialog,,0000,0000,0000,,I look at the top seven cards of my deck,
+Dialogue: 0,0:12:27.36,0:12:29.64,Main Dialog,,0000,0000,0000,,and if Twilight Hunter, Artemis \Nis there, I put her in my hand.
+Dialogue: 0,0:12:30.13,0:12:32.02,Main Dialog,,0000,0000,0000,,Call! And then I attack!
+Dialogue: 0,0:12:36.70,0:12:38.64,Main Dialog,,0000,0000,0000,,Bowstring of Heaven and \NEarth, Artemis attacks!
+Dialogue: 0,0:12:47.16,0:12:49.30,Main Dialog,,0000,0000,0000,,Stand up, my avatar!
+Dialogue: 0,0:12:49.49,0:12:53.54,Main Dialog,,0000,0000,0000,,I ride Blaster Blade Liberator!
+Dialogue: 0,0:12:55.14,0:12:56.12,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:12:58.94,0:12:59.80,Main Dialog,,0000,0000,0000,,Gallatin!
+Dialogue: 0,0:13:00.56,0:13:01.38,Main Dialog,,0000,0000,0000,,Damage check.
+Dialogue: 0,0:13:02.29,0:13:03.67,Main Dialog,,0000,0000,0000,,Blaster Blade!
+Dialogue: 0,0:13:04.57,0:13:05.43,Main Dialog,,0000,0000,0000,,Check.
+Dialogue: 0,0:13:06.17,0:13:06.93,Main Dialog,,0000,0000,0000,,Phallon!
+Dialogue: 0,0:13:13.58,0:13:16.16,Main Dialog,,0000,0000,0000,,This isn't just a fight \Nbetween me and Aichi...
+Dialogue: 0,0:13:17.21,0:13:20.29,Main Dialog,,0000,0000,0000,,It's also a fight against you, \Nwith my "seriousness" at stake.
+Dialogue: 0,0:13:21.49,0:13:25.10,Main Dialog,,0000,0000,0000,,I think you already know \Nthis, but Aichi isn't so easy
+Dialogue: 0,0:13:25.10,0:13:26.78,Main Dialog,,0000,0000,0000,,that you'll be able to beat \Nhim with lukewarm feelings...
+Dialogue: 0,0:13:28.16,0:13:30.89,Main Dialog,,0000,0000,0000,,I ride Twilight Hunter, Artemis!
+Dialogue: 0,0:13:32.24,0:13:35.96,Main Dialog,,0000,0000,0000,,Broom Witch, Callaway and Bowstring \Nof Heaven and Earth, Artemis!
+Dialogue: 0,0:13:36.70,0:13:37.96,Main Dialog,,0000,0000,0000,,Callaway attacks!
+Dialogue: 0,0:13:38.25,0:13:39.71,Main Dialog,,0000,0000,0000,,I guard with Escrad!
+Dialogue: 0,0:13:40.58,0:13:42.21,Main Dialog,,0000,0000,0000,,Twilight Hunter attacks!
+Dialogue: 0,0:13:42.76,0:13:45.22,Main Dialog,,0000,0000,0000,,Trigger check. Critical trigger!
+Dialogue: 0,0:13:45.60,0:13:47.97,Main Dialog,,0000,0000,0000,,I give all the effects to Twilight Hunter!
+Dialogue: 0,0:13:54.05,0:13:56.77,Main Dialog,,0000,0000,0000,,I Soulcharge with Twilight Hunter's skill.
+Dialogue: 0,0:13:57.18,0:14:01.02,Main Dialog,,0000,0000,0000,,Then, since I've got a Bowstring of \NHeaven and Earth in the Soul, I do it again.
+Dialogue: 0,0:14:02.33,0:14:05.24,Main Dialog,,0000,0000,0000,,Man! Four cards into the Soul all at once?!
+Dialogue: 0,0:14:05.24,0:14:08.53,Main Dialog,,0000,0000,0000,,The Soul is the key to \NMisaki's clan, Genesis.
+Dialogue: 0,0:14:08.85,0:14:12.40,Main Dialog,,0000,0000,0000,,After this, I'm sure there'll be \Nsome big effect that uses the Soul.
+Dialogue: 0,0:14:14.52,0:14:17.97,Main Dialog,,0000,0000,0000,,Misaki, you put together a deck like this...
+Dialogue: 0,0:14:19.96,0:14:24.42,Main Dialog,,0000,0000,0000,,When it comes to fighting Aichi, I really \Nhave to throw everything I've got at him...
+Dialogue: 0,0:14:29.09,0:14:31.43,Main Dialog,,0000,0000,0000,,Enter the fray, King of all Knights!
+Dialogue: 0,0:14:31.47,0:14:32.11,Main Dialog,,0000,0000,0000,,I ride...
+Dialogue: 0,0:14:33.93,0:14:36.90,Main Dialog,,0000,0000,0000,,Liberator of the Round Table, Alfred!
+Dialogue: 0,0:14:38.06,0:14:39.44,Main Dialog,,0000,0000,0000,,Gallatin attacks!
+Dialogue: 0,0:14:39.97,0:14:42.31,Main Dialog,,0000,0000,0000,,I guard with Witch of Owls, Paprika!
+Dialogue: 0,0:14:46.16,0:14:46.97,Main Dialog,,0000,0000,0000,,Here I go.
+Dialogue: 0,0:14:47.13,0:14:48.03,Main Dialog,,0000,0000,0000,,I'm looking forward to it.
+Dialogue: 0,0:14:48.77,0:14:51.32,Main Dialog,,0000,0000,0000,,Break through the limit! Alfred!
+Dialogue: 0,0:14:51.32,0:14:52.53,Main Dialog,,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:14:55.09,0:14:57.83,Main Dialog,,0000,0000,0000,,There are four rear-guard units, \Nso that's +8000 power!
+Dialogue: 0,0:14:58.14,0:15:00.46,Main Dialog,,0000,0000,0000,,Alfred attacks with a boost from Flare Mane!
+Dialogue: 0,0:15:01.46,0:15:03.14,Main Dialog,,0000,0000,0000,,Flare Mane's Soulblast!
+Dialogue: 0,0:15:03.69,0:15:07.28,Main Dialog,,0000,0000,0000,,When it boosts Alfred, he gets +5000 power!
+Dialogue: 0,0:15:09.45,0:15:12.26,Main Dialog,,0000,0000,0000,,Twin drive check. No trigger.
+Dialogue: 0,0:15:13.94,0:15:15.10,Main Dialog,,0000,0000,0000,,Heal trigger!
+Dialogue: 0,0:15:16.05,0:15:19.14,Main Dialog,,0000,0000,0000,,I give the power to Phallon \Nand heal 1 damage point.
+Dialogue: 0,0:15:23.49,0:15:24.56,Main Dialog,,0000,0000,0000,,Phallon attacks!
+Dialogue: 0,0:15:29.09,0:15:32.20,Main Dialog,,0000,0000,0000,,3 to 5... What's going to happen next?
+Dialogue: 0,0:15:32.61,0:15:34.66,Main Dialog,,0000,0000,0000,,Now I'll show them how serious I am...
+Dialogue: 0,0:15:35.09,0:15:37.33,Main Dialog,,0000,0000,0000,,I'll show them the true power of Genesis!
+Dialogue: 0,0:15:38.33,0:15:41.50,Main Dialog,,0000,0000,0000,,The heat of silent souls like stars...
+Dialogue: 0,0:15:41.50,0:15:44.00,Main Dialog,,0000,0000,0000,,...and deep, intense emotions like the sea...
+Dialogue: 0,0:15:44.00,0:15:45.34,Main Dialog,,0000,0000,0000,,...are for eternity!
+Dialogue: 0,0:15:45.72,0:15:49.54,Main Dialog,,0000,0000,0000,,I ride Eternal Goddess, Iwanagahime!
+Dialogue: 0,0:15:52.37,0:15:55.55,Main Dialog,,0000,0000,0000,,Surpass the limits and open up a new world!
+Dialogue: 0,0:15:55.81,0:15:57.22,Main Dialog,,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:15:58.21,0:15:59.36,Main Dialog,,0000,0000,0000,,Soulblast!
+Dialogue: 0,0:16:02.52,0:16:05.10,Main Dialog,,0000,0000,0000,,Take the tune of unchanging life,
+Dialogue: 0,0:16:05.54,0:16:08.73,Main Dialog,,0000,0000,0000,,and vanish beyond a time \Nthat's longer than infinity!
+Dialogue: 0,0:16:09.25,0:16:11.24,Main Dialog,,0000,0000,0000,,Everlasting Vanish!
+Dialogue: 0,0:16:14.96,0:16:17.87,Main Dialog,,0000,0000,0000,,I retire all of my opponent's front \Nrow rear-guards from the field!
+Dialogue: 0,0:16:18.21,0:16:19.08,Main Dialog,,0000,0000,0000,,Gallatin!
+Dialogue: 0,0:16:20.05,0:16:20.93,Main Dialog,,0000,0000,0000,,Phallon!
+Dialogue: 0,0:16:22.24,0:16:24.25,Main Dialog,,0000,0000,0000,,Now you can't intercept!
+Dialogue: 0,0:16:25.82,0:16:27.00,Main Dialog,,0000,0000,0000,,Whoa...
+Dialogue: 0,0:16:29.70,0:16:33.76,Main Dialog,,0000,0000,0000,,I call Witch of Wolves, Saffron \Nand Battle Maiden, Kukurihime!
+Dialogue: 0,0:16:34.38,0:16:35.76,Main Dialog,,0000,0000,0000,,Saffron attacks!
+Dialogue: 0,0:16:36.48,0:16:38.01,Main Dialog,,0000,0000,0000,,I guard with Gwydion!
+Dialogue: 0,0:16:38.36,0:16:41.42,Main Dialog,,0000,0000,0000,,Iwanagahime attacks with a boost \Nfrom Bowstring of Heaven and Earth!
+Dialogue: 0,0:16:41.42,0:16:42.27,Main Dialog,,0000,0000,0000,,Twin drive!
+Dialogue: 0,0:16:43.50,0:16:45.02,Main Dialog,,0000,0000,0000,,I got a critical trigger!
+Dialogue: 0,0:16:45.62,0:16:49.02,Main Dialog,,0000,0000,0000,,I give the power to Callaway and \Nthe extra critical to Iwanagahime.
+Dialogue: 0,0:16:49.88,0:16:51.03,Main Dialog,,0000,0000,0000,,Damage check.
+Dialogue: 0,0:16:53.09,0:16:54.40,Main Dialog,,0000,0000,0000,,Critical trigger!
+Dialogue: 0,0:16:54.96,0:16:56.85,Main Dialog,,0000,0000,0000,,I give all of the effects to Alfred!
+Dialogue: 0,0:16:57.82,0:16:59.66,Main Dialog,,0000,0000,0000,,I attack with the boosted Callaway!
+Dialogue: 0,0:17:00.36,0:17:02.41,Main Dialog,,0000,0000,0000,,I guard with Elixir Liberator!
+Dialogue: 0,0:17:05.30,0:17:06.30,Main Dialog,,0000,0000,0000,,Turn end.
+Dialogue: 0,0:17:10.14,0:17:12.56,Main Dialog,,0000,0000,0000,,Those two look like they're \Nhaving a good time.
+Dialogue: 0,0:17:12.56,0:17:15.73,Main Dialog,,0000,0000,0000,,It's like they don't even care \Nwhether they win or lose.
+Dialogue: 0,0:17:15.73,0:17:18.05,Main Dialog,,0000,0000,0000,,Seriousness brings out the \Nopponent's seriousness.
+Dialogue: 0,0:17:18.05,0:17:20.06,Main Dialog,,0000,0000,0000,,They heighten each other.
+Dialogue: 0,0:17:20.06,0:17:24.46,Main Dialog,,0000,0000,0000,,It's a passionate fight between the two of \Nthem that no one can get in the middle of!
+Dialogue: 0,0:17:25.52,0:17:28.06,Main Dialog,,0000,0000,0000,,Alfred's Especial Counterblast!
+Dialogue: 0,0:17:28.25,0:17:32.78,Main Dialog,,0000,0000,0000,,I turn over two Liberators in the Damage \NZone, look at the top card of my deck,
+Dialogue: 0,0:17:32.78,0:17:35.50,Main Dialog,,0000,0000,0000,,and superior call Escrad!
+Dialogue: 0,0:17:37.34,0:17:39.62,Main Dialog,,0000,0000,0000,,One more Especial Counterblast!
+Dialogue: 0,0:17:40.14,0:17:42.62,Main Dialog,,0000,0000,0000,,Superior call, Gancelot!
+Dialogue: 0,0:17:43.40,0:17:48.36,Main Dialog,,0000,0000,0000,,He brought back the front line that Misaki \Nretired without even using his hand!
+Dialogue: 0,0:17:48.36,0:17:49.42,Main Dialog,,0000,0000,0000,,Incredible...
+Dialogue: 0,0:17:49.93,0:17:51.66,Main Dialog,,0000,0000,0000,,1 more damage...
+Dialogue: 0,0:17:52.00,0:17:54.77,Main Dialog,,0000,0000,0000,,Show me how serious you can get.
+Dialogue: 0,0:17:55.62,0:17:57.93,Main Dialog,,0000,0000,0000,,Gancelot attacks Callaway!
+Dialogue: 0,0:18:00.73,0:18:05.56,Main Dialog,,0000,0000,0000,,In order to ensure his win, he started \Nby retiring a unit that can intercept!
+Dialogue: 0,0:18:05.97,0:18:08.77,Main Dialog,,0000,0000,0000,,Alfred attacks with a boost from Flare Mane!
+Dialogue: 0,0:18:08.77,0:18:11.62,Main Dialog,,0000,0000,0000,,Flare Mane's Soulblast! +5000 power!
+Dialogue: 0,0:18:13.09,0:18:15.17,Main Dialog,,0000,0000,0000,,Also, because of the Limit Break's effect,
+Dialogue: 0,0:18:15.17,0:18:18.32,Main Dialog,,0000,0000,0000,,Alfred gets +8000 power this turn, too!
+Dialogue: 0,0:18:18.96,0:18:21.25,Main Dialog,,0000,0000,0000,,This is the power of Alfred's bond!
+Dialogue: 0,0:18:24.02,0:18:26.20,Main Dialog,,0000,0000,0000,,I guard with Goddess of \NSelf-sacrifice, Kushinada!
+Dialogue: 0,0:18:31.10,0:18:32.71,Main Dialog,,0000,0000,0000,,Perfect guard?!
+Dialogue: 0,0:18:35.74,0:18:37.12,Main Dialog,,0000,0000,0000,,I've got more!
+Dialogue: 0,0:18:37.12,0:18:40.01,Main Dialog,,0000,0000,0000,,Escrad attacks with a boost from Wingal!
+Dialogue: 0,0:18:40.01,0:18:41.45,Main Dialog,,0000,0000,0000,,I guard with Kukurihime!
+Dialogue: 0,0:18:42.80,0:18:43.90,Main Dialog,,0000,0000,0000,,Turn end...
+Dialogue: 0,0:18:44.86,0:18:46.58,Main Dialog,,0000,0000,0000,,She made it through with no damage...
+Dialogue: 0,0:18:47.56,0:18:51.31,Main Dialog,,0000,0000,0000,,If Misaki could protect \Nherself... then so can I!
+Dialogue: 0,0:18:51.90,0:18:53.31,Main Dialog,,0000,0000,0000,,Not while I'm around!
+Dialogue: 0,0:18:58.16,0:19:02.70,Main Dialog,,0000,0000,0000,,Pure battle maiden, cut through the \Ndarkness with your moonlit bow.
+Dialogue: 0,0:19:04.05,0:19:07.25,Main Dialog,,0000,0000,0000,,I ride Battle Deity of the Night, Artemis!
+Dialogue: 0,0:19:08.68,0:19:09.89,Main Dialog,,0000,0000,0000,,Battle Deity of the Night!
+Dialogue: 0,0:19:09.89,0:19:12.04,Main Dialog,,0000,0000,0000,,A grade 3 on top of a grade 3!
+Dialogue: 0,0:19:12.50,0:19:14.13,Main Dialog,,0000,0000,0000,,I call Paprika.
+Dialogue: 0,0:19:14.13,0:19:15.49,Main Dialog,,0000,0000,0000,,Kukurihime's skill.
+Dialogue: 0,0:19:15.49,0:19:18.50,Main Dialog,,0000,0000,0000,,I put her in the Soul and \Ngive +3000 power to Saffron.
+Dialogue: 0,0:19:18.50,0:19:20.05,Main Dialog,,0000,0000,0000,,Now there are three units in the Soul.
+Dialogue: 0,0:19:21.88,0:19:23.60,Main Dialog,,0000,0000,0000,,Paprika attacks!
+Dialogue: 0,0:19:23.60,0:19:28.04,Main Dialog,,0000,0000,0000,,When she attacks, if there's a Genesis unit \Non the field that has a Limit Break ability,
+Dialogue: 0,0:19:28.04,0:19:29.31,Main Dialog,,0000,0000,0000,,she gets +3000 power!
+Dialogue: 0,0:19:29.84,0:19:30.56,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:19:31.26,0:19:33.48,Main Dialog,,0000,0000,0000,,I attack with the boosted \NBattle Deity of the Night!
+Dialogue: 0,0:19:34.17,0:19:35.32,Main Dialog,,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:19:35.98,0:19:37.32,Main Dialog,,0000,0000,0000,,Soulblast!
+Dialogue: 0,0:19:37.61,0:19:41.65,Main Dialog,,0000,0000,0000,,Battle Deity of the Night's Limit Break \Nincreases units in the hand while attacking!
+Dialogue: 0,0:19:42.58,0:19:44.20,Main Dialog,,0000,0000,0000,,That ain't all!
+Dialogue: 0,0:19:44.54,0:19:49.10,Main Dialog,,0000,0000,0000,,Your blue rays control the tide \Nand shine a light on life...
+Dialogue: 0,0:19:50.09,0:19:51.88,Main Dialog,,0000,0000,0000,,Blue Moon Rising!
+Dialogue: 0,0:19:52.53,0:19:55.42,Main Dialog,,0000,0000,0000,,Battle Deity of the Night \Nreceives +5000 power!
+Dialogue: 0,0:19:59.08,0:19:59.86,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:20:00.66,0:20:01.72,Main Dialog,,0000,0000,0000,,Drive trigger check...
+Dialogue: 0,0:20:03.90,0:20:05.22,Main Dialog,,0000,0000,0000,,Heal trigger!
+Dialogue: 0,0:20:05.80,0:20:09.47,Main Dialog,,0000,0000,0000,,I give the power to Battle Deity of \Nthe Night, and heal 1 damage point!
+Dialogue: 0,0:20:17.53,0:20:19.48,Main Dialog,,0000,0000,0000,,Damage trigger check!
+Dialogue: 0,0:20:22.36,0:20:23.57,Main Dialog,,0000,0000,0000,,Critical trigger...
+Dialogue: 0,0:20:31.85,0:20:33.41,Main Dialog,,0000,0000,0000,,I lose.
+Dialogue: 0,0:20:35.76,0:20:37.42,Main Dialog,,0000,0000,0000,,This is me being serious.
+Dialogue: 0,0:20:41.49,0:20:44.25,Main Dialog,,0000,0000,0000,,Jeez, she's strong... She beat Aichi!
+Dialogue: 0,0:20:44.25,0:20:46.05,Main Dialog,,0000,0000,0000,,That's the Misaki I know!
+Dialogue: 0,0:20:46.61,0:20:49.81,Main Dialog,,0000,0000,0000,,Misaki, welcome to the Cardfight Club.
+Dialogue: 0,0:20:51.12,0:20:53.06,Main Dialog,,0000,0000,0000,,I'm looking forward to it.
+Dialogue: 0,0:20:54.18,0:20:57.44,Main Dialog,,0000,0000,0000,,You look happier than when I joined the club.
+Dialogue: 0,0:20:58.40,0:21:00.57,Main Dialog,,0000,0000,0000,,Come on, let's go to the \NStudent Council office.
+Dialogue: 0,0:21:01.29,0:21:04.02,Main Dialog,,0000,0000,0000,,To get their approval to \Nmake this club official!
+Dialogue: 0,0:21:04.02,0:21:05.30,Main Dialog,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:21:08.78,0:21:11.09,Main Dialog,,0000,0000,0000,,I can't believe they have five members.
+Dialogue: 0,0:21:11.09,0:21:12.40,Main Dialog,,0000,0000,0000,,President...
+Dialogue: 0,0:21:12.40,0:21:13.48,Main Dialog,,0000,0000,0000,,What is it?
+Dialogue: 0,0:21:13.48,0:21:16.46,Main Dialog,,0000,0000,0000,,I have a good plan.
+Dialogue: 0,0:21:18.68,0:21:22.10,Main Dialog,,0000,0000,0000,,Cardfight Club application \Nfor authorization...
+Dialogue: 0,0:21:22.10,0:21:22.71,Main Dialog,,0000,0000,0000,,Yes.
+Dialogue: 0,0:21:23.49,0:21:24.90,Main Dialog,,0000,0000,0000,,Permission denied.
+Dialogue: 0,0:21:24.90,0:21:28.09,Main Dialog,,0000,0000,0000,,I can't give your Cardfight Club \Nthe official seal of approval.
+Dialogue: 0,0:21:30.44,0:21:32.72,Main Dialog,,0000,0000,0000,,What are you talkin' about?! \NWe got five people!
+Dialogue: 0,0:21:33.38,0:21:35.73,Main Dialog,,0000,0000,0000,,It's because you don't \Nhave a faculty advisor.
+Dialogue: 0,0:21:36.24,0:21:37.98,Main Dialog,,0000,0000,0000,,Faculty advisor?
+Dialogue: 0,0:21:38.36,0:21:40.84,Main Dialog,,0000,0000,0000,,There's a rule that states that \Nofficial status can only be granted
+Dialogue: 0,0:21:40.84,0:21:44.24,Main Dialog,,0000,0000,0000,,if there's a faculty advisor.
+Dialogue: 0,0:21:44.78,0:21:48.22,Main Dialog,,0000,0000,0000,,Oh, no... Isn't there \Nanything that can be done?!
+Dialogue: 0,0:21:48.22,0:21:49.76,Main Dialog,,0000,0000,0000,,It is possible.
+Dialogue: 0,0:21:49.76,0:21:50.99,Main Dialog,,0000,0000,0000,,How?!
+Dialogue: 0,0:21:51.96,0:21:54.09,Main Dialog,,0000,0000,0000,,Create a track record.
+Dialogue: 0,0:21:54.09,0:21:56.14,Main Dialog,,0000,0000,0000,,If you accomplish outstanding results,
+Dialogue: 0,0:21:56.14,0:21:58.62,Main Dialog,,0000,0000,0000,,you'll be treated as a special \Ncase and recognized as a club.
+Dialogue: 0,0:21:59.37,0:22:00.88,Main Dialog,,0000,0000,0000,,What should we do?
+Dialogue: 0,0:22:01.45,0:22:05.41,Main Dialog,,0000,0000,0000,,Fight against a powerful high school \Nteam of my choice and achieve victory.
+Dialogue: 0,0:22:08.08,0:22:10.26,Main Dialog,,0000,0000,0000,,We'll do it. Please let us do it!
+Dialogue: 0,0:22:16.13,0:22:19.70,Main Dialog,,0000,0000,0000,,Our Vanguard Club has a new challenger.
+Dialogue: 0,0:23:56.29,0:23:57.92,Main Dialog,,0000,0000,0000,,You really are a great fighter, Misaki!
+Dialogue: 0,0:23:57.92,0:24:00.17,Main Dialog,,0000,0000,0000,,No, I owe it to your seriousness, Aichi.
+Dialogue: 0,0:24:00.17,0:24:03.16,Main Dialog,,0000,0000,0000,,Again, let's both give a \Nboost to the Cardfight Club.
+Dialogue: 0,0:24:03.16,0:24:04.04,Main Dialog,,0000,0000,0000,,I'm game.
+Dialogue: 0,0:24:04.04,0:24:06.34,Main Dialog,,0000,0000,0000,,I-I'm looking forward to it... Boss Lady.
+Dialogue: 0,0:24:06.34,0:24:09.33,Main Dialog,,0000,0000,0000,,All right! Now our club can be made official!
+Dialogue: 0,0:24:09.33,0:24:13.16,Main Dialog,,0000,0000,0000,,Next time: First Match! Miyaji \NAcademy vs. Hitsue High School!
+Dialogue: 0,0:24:13.16,0:24:15.22,Main Dialog,,0000,0000,0000,,Faculty advisor, matches outside of school...
+Dialogue: 0,0:24:15.22,0:24:18.13,Main Dialog,,0000,0000,0000,,We're off to a rocky \Nstart, but we won't lose!
+Dialogue: 0,0:24:18.13,0:24:20.64,Main Dialog,,0000,0000,0000,,You're getting a fighter's face, Aichi.
+Dialogue: 0,0:24:21.66,0:24:23.34,Main Dialog,,0000,0000,0000,,I'm fired up!

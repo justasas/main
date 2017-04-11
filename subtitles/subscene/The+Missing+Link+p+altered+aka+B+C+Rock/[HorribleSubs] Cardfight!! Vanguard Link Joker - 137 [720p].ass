@@ -1,0 +1,335 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.00,0:00:05.27,Main Dialog,,0000,0000,0000,,I won't give up. Not as \Nlong as there's a chance!
+Dialogue: 0,0:00:09.55,0:00:11.46,Main Dialog,,0000,0000,0000,,No trigger.
+Dialogue: 0,0:00:11.46,0:00:13.03,Main Dialog,,0000,0000,0000,,I win.
+Dialogue: 0,0:00:13.77,0:00:14.41,Main Dialog,,0000,0000,0000,,Mitsusada...
+Dialogue: 0,0:00:25.78,0:00:27.86,Main Dialog,,0000,0000,0000,,Mitsu...sada...
+Dialogue: 0,0:00:33.10,0:00:34.61,Main Dialog,,0000,0000,0000,,Well, Yuri...
+Dialogue: 0,0:00:34.61,0:00:37.38,Main Dialog,,0000,0000,0000,,Let's paint the world in darkness together.
+Dialogue: 0,0:00:38.51,0:00:41.93,Main Dialog,,0000,0000,0000,,Yes. As you command, Your Imperial Majesty.
+Dialogue: 0,0:02:21.91,0:02:25.19,Main Dialog,,0000,0000,0000,,So you bought a raincoat \Nand a large backpack...
+Dialogue: 0,0:02:25.19,0:02:27.07,Main Dialog,,0000,0000,0000,,Um... what else?
+Dialogue: 0,0:02:27.07,0:02:28.87,Main Dialog,,0000,0000,0000,,An extra pair of sneakers.
+Dialogue: 0,0:02:30.24,0:02:32.13,Main Dialog,,0000,0000,0000,,Why another pair?
+Dialogue: 0,0:02:32.13,0:02:35.00,Main Dialog,,0000,0000,0000,,We're only gonna be campin' for three days.
+Dialogue: 0,0:02:35.00,0:02:39.59,Main Dialog,,0000,0000,0000,,Just in case it suddenly rains, and \Nher shoes get soaked during athletics.
+Dialogue: 0,0:02:39.59,0:02:44.26,Main Dialog,,0000,0000,0000,,A juvenile delinquent wannabe like \Nyou probably needs five or six pairs.
+Dialogue: 0,0:02:44.26,0:02:47.02,Main Dialog,,0000,0000,0000,,Excuse me?! Three pairs are plenty!
+Dialogue: 0,0:02:47.28,0:02:49.52,Main Dialog,,0000,0000,0000,,You need three pairs...
+Dialogue: 0,0:02:49.94,0:02:53.28,Main Dialog,,0000,0000,0000,,And now, our Vanguard segment.
+Dialogue: 0,0:02:54.17,0:02:59.34,Main Dialog,,0000,0000,0000,,Dr. O, the VF High School Championship \Nis almost upon us, isn't it?
+Dialogue: 0,0:02:59.34,0:03:04.53,Main Dialog,,0000,0000,0000,,{\i1}Oh{\i0}, yes, it certainly is! And \NI couldn't be m-{\i1}o{\i0}-re excited!
+Dialogue: 0,0:03:04.53,0:03:17.05,Signs,,0000,0000,0000,,VF High School Championship
+Dialogue: 0,0:03:04.87,0:03:08.30,Main Dialog,,0000,0000,0000,,Fukuhara High, led by Ren Suzugamori,
+Dialogue: 0,0:03:08.30,0:03:10.73,Main Dialog,,0000,0000,0000,,is heavily favored to win,
+Dialogue: 0,0:03:10.73,0:03:17.05,Main Dialog,,0000,0000,0000,,but you never know when someone will become \Na new hero and star. That's Vanguard!
+Dialogue: 0,0:03:18.12,0:03:19.94,Main Dialog,,0000,0000,0000,,Ren Suzugamori...
+Dialogue: 0,0:03:19.94,0:03:22.49,Main Dialog,,0000,0000,0000,,I wish we didn't have to go camping!
+Dialogue: 0,0:03:22.49,0:03:27.32,Main Dialog,,0000,0000,0000,,I wanted to go all out fightin' tough \Nopponents at the VF High School Championship!
+Dialogue: 0,0:03:27.32,0:03:29.31,Main Dialog,,0000,0000,0000,,There'll be a next time, Naoki.
+Dialogue: 0,0:03:29.71,0:03:31.84,Main Dialog,,0000,0000,0000,,Come on, we've got more shopping to do.
+Dialogue: 0,0:03:32.68,0:03:33.71,Main Dialog,,0000,0000,0000,,Right.
+Dialogue: 0,0:03:35.50,0:03:41.54,Main Dialog,,0000,0000,0000,,And the other contender is Leon Souryu, \Nwho uses the legendary Aqua Force clan.
+Dialogue: 0,0:03:41.54,0:03:44.07,Main Dialog,,0000,0000,0000,,He's certainly being watched \Nwith keen interest.
+Dialogue: 0,0:03:44.07,0:03:45.32,Signs,,0000,0000,0000,,VF High School Championship
+Dialogue: 0,0:03:45.82,0:03:48.10,Main Dialog,,0000,0000,0000,,Good luck, everyone.
+Dialogue: 0,0:03:49.00,0:03:51.14,Main Dialog,,0000,0000,0000,,Let's go, Sendou!
+Dialogue: 0,0:03:51.14,0:03:52.67,Main Dialog,,0000,0000,0000,,Oh, right!
+Dialogue: 0,0:03:58.98,0:04:02.38,Main Dialog,,0000,0000,0000,,He refuses to meet me?! \NWhy, for heaven's sake?!
+Dialogue: 0,0:04:02.90,0:04:06.14,Main Dialog,,0000,0000,0000,,Has he taken ill? Or something \Nalong those lines?
+Dialogue: 0,0:04:06.76,0:04:09.89,Main Dialog,,0000,0000,0000,,I appreciate your concern. But that's not it.
+Dialogue: 0,0:04:10.49,0:04:14.27,Main Dialog,,0000,0000,0000,,Right now, prior to the VF High School \NChampionship, is a very important time for Leon.
+Dialogue: 0,0:04:14.27,0:04:16.37,Main Dialog,,0000,0000,0000,,So I hope you'll leave him alone.
+Dialogue: 0,0:04:16.98,0:04:18.73,Main Dialog,,0000,0000,0000,,There are a lot of people like you.
+Dialogue: 0,0:04:18.73,0:04:22.65,Main Dialog,,0000,0000,0000,,Fighters who want to make a name \Nfor themselves by challenging Leon.
+Dialogue: 0,0:04:24.59,0:04:28.92,Main Dialog,,0000,0000,0000,,Well, that's what you say, but perhaps \NLeon Souryu is hiding from me?
+Dialogue: 0,0:04:29.38,0:04:32.29,Main Dialog,,0000,0000,0000,,Because my Megacolony is so fearsome...
+Dialogue: 0,0:04:32.65,0:04:34.31,Main Dialog,,0000,0000,0000,,Yeah, that's right!
+Dialogue: 0,0:04:36.02,0:04:38.13,Main Dialog,,0000,0000,0000,,The legendary Aqua Force,
+Dialogue: 0,0:04:38.13,0:04:43.35,Main Dialog,,0000,0000,0000,,I'd wager it doesn't stand a chance against \Nthe full moon-like brilliance of my bugs.
+Dialogue: 0,0:04:43.35,0:04:44.93,Main Dialog,,0000,0000,0000,,No one's stronger than you, Bro!
+Dialogue: 0,0:04:47.93,0:04:52.93,Signs,,0000,0000,0000,,Dark Dimensional Combination! \NReversed Daiyusha
+Dialogue: 0,0:04:53.71,0:04:55.25,Main Dialog,,0000,0000,0000,,Attack!
+Dialogue: 0,0:04:55.25,0:04:56.48,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:04:56.48,0:04:58.06,Main Dialog,,0000,0000,0000,,Get 'er, Bro!
+Dialogue: 0,0:04:59.58,0:05:01.82,Main Dialog,,0000,0000,0000,,You're doing well.
+Dialogue: 0,0:05:01.82,0:05:06.20,Main Dialog,,0000,0000,0000,,You blocked my attacks not \Nonly twice, but three times.
+Dialogue: 0,0:05:06.51,0:05:10.20,Main Dialog,,0000,0000,0000,,Yeah, yeah. Sorry for being a \Nwoman who doesn't know her place.
+Dialogue: 0,0:05:10.53,0:05:15.05,Main Dialog,,0000,0000,0000,,What's this? When did I ever call you that?
+Dialogue: 0,0:05:15.05,0:05:16.61,Main Dialog,,0000,0000,0000,,I never said anything like that.
+Dialogue: 0,0:05:16.61,0:05:18.33,Main Dialog,,0000,0000,0000,,Bro never said that.
+Dialogue: 0,0:05:18.33,0:05:20.13,Main Dialog,,0000,0000,0000,,You've got some nerve!
+Dialogue: 0,0:05:21.99,0:05:24.08,Main Dialog,,0000,0000,0000,,There it is! That's what I'm talking about!
+Dialogue: 0,0:05:24.08,0:05:26.64,Main Dialog,,0000,0000,0000,,What the heart thinks, the mouth speaks!
+Dialogue: 0,0:05:27.02,0:05:27.84,Main Dialog,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:05:29.09,0:05:31.22,Main Dialog,,0000,0000,0000,,Actually, most of that was \Njust to get you riled up.
+Dialogue: 0,0:05:31.54,0:05:32.20,Main Dialog,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:05:32.65,0:05:33.63,Main Dialog,,0000,0000,0000,,No.
+Dialogue: 0,0:05:33.63,0:05:37.74,Main Dialog,,0000,0000,0000,,As the eldest, I'm responsible for any \Ncrudities my younger brothers utter.
+Dialogue: 0,0:05:37.74,0:05:39.78,Main Dialog,,0000,0000,0000,,Now, come and get me!
+Dialogue: 0,0:05:39.78,0:05:41.02,Main Dialog,,0000,0000,0000,,You impudent female!
+Dialogue: 0,0:05:41.92,0:05:42.73,Main Dialog,,0000,0000,0000,,Bro!
+Dialogue: 0,0:05:45.65,0:05:49.38,Main Dialog,,0000,0000,0000,,You make me want to apologize. \NIt looks like you're actually good people.
+Dialogue: 0,0:05:49.38,0:05:50.62,Main Dialog,,0000,0000,0000,,I mean, you're all so close...
+Dialogue: 0,0:05:52.02,0:05:55.45,Main Dialog,,0000,0000,0000,,N-No, my Megacolony is a den of evil!
+Dialogue: 0,0:05:55.45,0:05:57.37,Main Dialog,,0000,0000,0000,,It's outrageous to call me a good person!
+Dialogue: 0,0:05:57.96,0:05:58.62,Main Dialog,,0000,0000,0000,,Attack!
+Dialogue: 0,0:05:59.36,0:06:02.64,Main Dialog,,0000,0000,0000,,Cobalt Wave Dragon! Marine Blue Splash!
+Dialogue: 0,0:06:05.13,0:06:08.13,Main Dialog,,0000,0000,0000,,I'm shocked!
+Dialogue: 0,0:06:11.76,0:06:12.47,Main Dialog,,0000,0000,0000,,Bro!
+Dialogue: 0,0:06:15.69,0:06:18.14,Main Dialog,,0000,0000,0000,,My Megacolony will never perish.
+Dialogue: 0,0:06:18.68,0:06:22.27,Main Dialog,,0000,0000,0000,,But I'll let you off the hook today.
+Dialogue: 0,0:06:23.64,0:06:24.90,Main Dialog,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:06:25.27,0:06:26.58,Main Dialog,,0000,0000,0000,,Retreat!
+Dialogue: 0,0:06:26.58,0:06:27.92,Main Dialog,,0000,0000,0000,,Bro!
+Dialogue: 0,0:06:30.74,0:06:32.13,Main Dialog,,0000,0000,0000,,Yeesh...
+Dialogue: 0,0:06:44.60,0:06:45.67,Main Dialog,,0000,0000,0000,,Jillian!
+Dialogue: 0,0:06:46.23,0:06:48.38,Main Dialog,,0000,0000,0000,,Sharlene. Where's Leon?
+Dialogue: 0,0:06:48.38,0:06:49.84,Main Dialog,,0000,0000,0000,,Shhh.
+Dialogue: 0,0:06:59.36,0:07:01.92,Main Dialog,,0000,0000,0000,,He's mentally focusing.
+Dialogue: 0,0:07:01.92,0:07:05.59,Main Dialog,,0000,0000,0000,,He said he absolutely has to \Nwin the tournament this time.
+Dialogue: 0,0:07:06.18,0:07:07.48,Main Dialog,,0000,0000,0000,,Leon...
+Dialogue: 0,0:07:11.10,0:07:12.91,Main Dialog,,0000,0000,0000,,Say, Sharlene...
+Dialogue: 0,0:07:13.34,0:07:17.04,Main Dialog,,0000,0000,0000,,Will we have to live on this \Nisland for the rest of our lives?
+Dialogue: 0,0:07:19.04,0:07:21.30,Main Dialog,,0000,0000,0000,,Of course not!
+Dialogue: 0,0:07:25.38,0:07:26.17,Main Dialog,,0000,0000,0000,,Look!
+Dialogue: 0,0:07:26.56,0:07:30.91,Main Dialog,,0000,0000,0000,,If you ask the birds to take \Nyou with them, it'll work out!
+Dialogue: 0,0:07:31.54,0:07:33.49,Main Dialog,,0000,0000,0000,,Sharlene, you should really grow up.
+Dialogue: 0,0:07:38.50,0:07:41.42,Main Dialog,,0000,0000,0000,,Then... Then ask the fish...
+Dialogue: 0,0:07:41.42,0:07:42.78,Main Dialog,,0000,0000,0000,,You're a dummy, aren't you?
+Dialogue: 0,0:07:44.21,0:07:46.26,Main Dialog,,0000,0000,0000,,We really are stuck here.
+Dialogue: 0,0:07:47.38,0:07:48.79,Main Dialog,,0000,0000,0000,,Jillian...
+Dialogue: 0,0:07:52.89,0:07:56.20,Main Dialog,,0000,0000,0000,,I'm sorry, Jillian! If only \NI weren't so stupid...
+Dialogue: 0,0:07:58.26,0:07:59.26,Main Dialog,,0000,0000,0000,,You're not.
+Dialogue: 0,0:07:59.26,0:08:00.71,Main Dialog,,0000,0000,0000,,You're not, Sharlene!
+Dialogue: 0,0:08:00.71,0:08:03.20,Main Dialog,,0000,0000,0000,,I'm the one who's stupid!
+Dialogue: 0,0:08:05.70,0:08:07.32,Main Dialog,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:08:07.32,0:08:08.96,Main Dialog,,0000,0000,0000,,I'm sorry, Jillian!
+Dialogue: 0,0:08:12.92,0:08:14.27,Main Dialog,,0000,0000,0000,,It's all right.
+Dialogue: 0,0:08:14.27,0:08:15.22,Main Dialog,,0000,0000,0000,,Leon!
+Dialogue: 0,0:08:15.96,0:08:18.22,Main Dialog,,0000,0000,0000,,This island has a legend.
+Dialogue: 0,0:08:19.19,0:08:20.72,Main Dialog,,0000,0000,0000,,Legend?
+Dialogue: 0,0:08:21.26,0:08:23.47,Main Dialog,,0000,0000,0000,,Yeah. It says the Souryu child
+Dialogue: 0,0:08:23.47,0:08:27.80,Main Dialog,,0000,0000,0000,,will take us, the Souryu \Ntribe, to the free world.
+Dialogue: 0,0:08:29.47,0:08:30.73,Main Dialog,,0000,0000,0000,,So...
+Dialogue: 0,0:08:32.65,0:08:34.04,Main Dialog,,0000,0000,0000,,So...
+Dialogue: 0,0:08:34.04,0:08:36.74,Main Dialog,,0000,0000,0000,,...both of you, smile.
+Dialogue: 0,0:08:46.51,0:08:50.89,Main Dialog,,0000,0000,0000,,The revival of Aqua Force and the \Nrestoration of the Souryu tribe...
+Dialogue: 0,0:08:50.89,0:08:54.28,Main Dialog,,0000,0000,0000,,We've been relying on Leon for everything.
+Dialogue: 0,0:08:54.87,0:08:56.64,Main Dialog,,0000,0000,0000,,But we can't afford to keep doing it.
+Dialogue: 0,0:08:59.09,0:09:02.62,Main Dialog,,0000,0000,0000,,As expected, my greatest \Nenemy is Ren Suzugamori.
+Dialogue: 0,0:09:02.62,0:09:03.64,Main Dialog,,0000,0000,0000,,Unless...
+Dialogue: 0,0:09:04.22,0:09:07.50,Main Dialog,,0000,0000,0000,,No. Whoever it is, I have to win.
+Dialogue: 0,0:09:07.50,0:09:09.79,Main Dialog,,0000,0000,0000,,That's the mission of the Souryu child.
+Dialogue: 0,0:09:09.79,0:09:11.40,Main Dialog,,0000,0000,0000,,That's {\i1}my{\i0} mission.
+Dialogue: 0,0:09:18.16,0:09:18.94,Main Dialog,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:20.36,0:09:21.71,Main Dialog,,0000,0000,0000,,I messed up again.
+Dialogue: 0,0:09:21.71,0:09:24.86,Main Dialog,,0000,0000,0000,,We're just not as good at\N making them as Leon!
+Dialogue: 0,0:09:24.86,0:09:26.10,Main Dialog,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:09:27.43,0:09:28.89,Main Dialog,,0000,0000,0000,,Leon!
+Dialogue: 0,0:09:33.86,0:09:34.78,Main Dialog,,0000,0000,0000,,This is...
+Dialogue: 0,0:09:34.78,0:09:41.12,Main Dialog,,0000,0000,0000,,When we were little, you would \Nmake these boats to cheer us up,
+Dialogue: 0,0:09:41.12,0:09:42.81,Main Dialog,,0000,0000,0000,,so now it's our turn...
+Dialogue: 0,0:09:43.27,0:09:44.95,Main Dialog,,0000,0000,0000,,Since you're exhausted,
+Dialogue: 0,0:09:44.95,0:09:48.20,Main Dialog,,0000,0000,0000,,we thought we'd try to do \Nsomething to make you happy.
+Dialogue: 0,0:09:48.20,0:09:51.05,Main Dialog,,0000,0000,0000,,But we can't make a decent \None between the two of us...
+Dialogue: 0,0:09:51.05,0:09:55.74,Main Dialog,,0000,0000,0000,,You're doing your best all by yourself, \Nand there's nothing we can do for you.
+Dialogue: 0,0:09:57.38,0:09:58.87,Main Dialog,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:09:59.45,0:10:01.95,Main Dialog,,0000,0000,0000,,Jillian... Sharlene...
+Dialogue: 0,0:10:04.81,0:10:06.20,Main Dialog,,0000,0000,0000,,That's no good.
+Dialogue: 0,0:10:07.65,0:10:09.08,Main Dialog,,0000,0000,0000,,Leon?
+Dialogue: 0,0:10:10.08,0:10:11.59,Main Dialog,,0000,0000,0000,,Thinking I have to win...
+Dialogue: 0,0:10:12.45,0:10:15.00,Main Dialog,,0000,0000,0000,,It seems I've been too self-absorbed.
+Dialogue: 0,0:10:24.08,0:10:27.93,Main Dialog,,0000,0000,0000,,Smile for me, Jillian and Sharlene.
+Dialogue: 0,0:10:27.93,0:10:31.48,Main Dialog,,0000,0000,0000,,The three of us are Souryu \Nchildren. We'll fight together.
+Dialogue: 0,0:10:32.11,0:10:33.42,Main Dialog,,0000,0000,0000,,Leon!
+Dialogue: 0,0:10:34.88,0:10:35.86,Main Dialog,,0000,0000,0000,,I'll do my best!
+Dialogue: 0,0:10:43.81,0:10:48.16,Main Dialog,,0000,0000,0000,,I'm thrilled that you're letting \Nus practice fighting with you.
+Dialogue: 0,0:10:48.98,0:10:51.72,Main Dialog,,0000,0000,0000,,Sharlene, you brought that along?
+Dialogue: 0,0:10:51.72,0:10:53.78,Main Dialog,,0000,0000,0000,,It'll be my good luck charm!
+Dialogue: 0,0:10:53.78,0:10:55.92,Main Dialog,,0000,0000,0000,,And I know you have yours too!
+Dialogue: 0,0:10:59.70,0:11:01.69,Main Dialog,,0000,0000,0000,,What's wrong with that?
+Dialogue: 0,0:11:13.04,0:11:14.31,Main Dialog,,0000,0000,0000,,Who are you?!
+Dialogue: 0,0:11:14.71,0:11:16.87,Main Dialog,,0000,0000,0000,,Oh, come on! It's me!
+Dialogue: 0,0:11:16.87,0:11:17.95,Main Dialog,,0000,0000,0000,,Me!
+Dialogue: 0,0:11:18.66,0:11:20.61,Main Dialog,,0000,0000,0000,,You don't mean anything to them, Ali.
+Dialogue: 0,0:11:20.61,0:11:21.79,Main Dialog,,0000,0000,0000,,How rude!
+Dialogue: 0,0:11:21.79,0:11:26.58,Main Dialog,,0000,0000,0000,,When a girl meets me once, \Nshe {\i1}never{\i0} forgets me.
+Dialogue: 0,0:11:27.80,0:11:28.97,Main Dialog,,0000,0000,0000,,I remember them now!
+Dialogue: 0,0:11:28.97,0:11:30.59,Main Dialog,,0000,0000,0000,,Team Genius...
+Dialogue: 0,0:11:32.13,0:11:34.62,Main Dialog,,0000,0000,0000,,We haven't seen you since VF Circuit.
+Dialogue: 0,0:11:39.19,0:11:40.80,Main Dialog,,0000,0000,0000,,Are you...
+Dialogue: 0,0:11:40.80,0:11:42.34,Main Dialog,,0000,0000,0000,,...strong?
+Dialogue: 0,0:11:45.30,0:11:47.37,Main Dialog,,0000,0000,0000,,I'll make the introduction.
+Dialogue: 0,0:11:47.37,0:11:52.46,Main Dialog,,0000,0000,0000,,This is Kenji Mitsusada, \Nan SIT fighter like us.
+Dialogue: 0,0:11:52.94,0:11:55.48,Main Dialog,,0000,0000,0000,,He's dying to fight you.
+Dialogue: 0,0:11:55.98,0:11:57.74,Main Dialog,,0000,0000,0000,,Kenji Mitsusada?
+Dialogue: 0,0:11:58.74,0:11:59.80,Main Dialog,,0000,0000,0000,,Forget it!
+Dialogue: 0,0:11:59.80,0:12:03.32,Main Dialog,,0000,0000,0000,,Right before the tournament is \Na very important time for Leon.
+Dialogue: 0,0:12:03.32,0:12:05.12,Main Dialog,,0000,0000,0000,,He's going to train now!
+Dialogue: 0,0:12:05.32,0:12:07.88,Main Dialog,,0000,0000,0000,,Then this is perfect.
+Dialogue: 0,0:12:07.88,0:12:12.12,Main Dialog,,0000,0000,0000,,Our friend here has beaten \NRen Suzugamori before.
+Dialogue: 0,0:12:13.02,0:12:14.88,Main Dialog,,0000,0000,0000,,You've beaten Ren Suzugamori?
+Dialogue: 0,0:12:15.38,0:12:17.26,Main Dialog,,0000,0000,0000,,I hope you're up for a match.
+Dialogue: 0,0:12:35.73,0:12:39.10,Main Dialog,,0000,0000,0000,,That's strange. Where did \Nmy sister and Koutei go?
+Dialogue: 0,0:12:40.94,0:12:43.08,Main Dialog,,0000,0000,0000,,And they haven't answered my texts...
+Dialogue: 0,0:12:43.08,0:12:45.78,Main Dialog,,0000,0000,0000,,Where did they go?!
+Dialogue: 0,0:12:55.45,0:12:58.70,Main Dialog,,0000,0000,0000,,And I thought I'd get the \Nchance to fight Leon...
+Dialogue: 0,0:12:59.80,0:13:02.56,Main Dialog,,0000,0000,0000,,I like you, my strong-willed {\i1}bambina{\i0}.
+Dialogue: 0,0:13:02.56,0:13:05.14,Main Dialog,,0000,0000,0000,,Yeah, you really are my type.
+Dialogue: 0,0:13:10.04,0:13:11.18,Main Dialog,,0000,0000,0000,,Leon...
+Dialogue: 0,0:13:11.97,0:13:13.96,Main Dialog,,0000,0000,0000,,I promise you I'll win!
+Dialogue: 0,0:13:13.96,0:13:15.55,Main Dialog,,0000,0000,0000,,Please watch me!
+Dialogue: 0,0:13:16.41,0:13:18.91,Main Dialog,,0000,0000,0000,,Those two are cute, aren't they?
+Dialogue: 0,0:13:18.91,0:13:21.01,Main Dialog,,0000,0000,0000,,They're Leon's teammates,
+Dialogue: 0,0:13:21.01,0:13:24.82,Main Dialog,,0000,0000,0000,,as well as childhood friends and some of the\Nfew remaining descendants of the Souryu tribe.
+Dialogue: 0,0:13:25.36,0:13:31.33,Main Dialog,,0000,0000,0000,,During the VF Circuit, no matter what, \Nthose two never left his side.
+Dialogue: 0,0:13:31.99,0:13:34.83,Main Dialog,,0000,0000,0000,,But what about this time?
+Dialogue: 0,0:13:36.56,0:13:39.08,Main Dialog,,0000,0000,0000,,You have fine subjects.
+Dialogue: 0,0:13:41.14,0:13:42.71,Main Dialog,,0000,0000,0000,,They're not "subjects."
+Dialogue: 0,0:13:43.05,0:13:45.72,Main Dialog,,0000,0000,0000,,Oh. I guess I got the wrong idea.
+Dialogue: 0,0:13:46.03,0:13:50.49,Main Dialog,,0000,0000,0000,,Kenji Mitsusada, a.k.a. the Emperor,
+Dialogue: 0,0:13:50.49,0:13:53.60,Main Dialog,,0000,0000,0000,,I'm looking forward to seeing just \Nwhat kind of fight you've got for me.
+Dialogue: 0,0:13:54.28,0:13:56.41,Main Dialog,,0000,0000,0000,,I'm looking forward to this, too...
+Dialogue: 0,0:13:56.41,0:13:57.91,Main Dialog,,0000,0000,0000,,Souryu child.
+Dialogue: 0,0:13:58.50,0:14:00.73,Main Dialog,,0000,0000,0000,,Leon Souryu...
+Dialogue: 0,0:14:03.88,0:14:06.50,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:14:03.88,0:14:06.50,Main Dialog,,0000,0000,0000,,Stand up, my Vanguard!
+Dialogue: 0,0:14:10.33,0:14:12.30,Main Dialog,,0000,0000,0000,,Advance Party Brave Shooter.
+Dialogue: 0,0:14:13.67,0:14:16.09,Main Dialog,,0000,0000,0000,,Dimensional Robo, Daimagnum.
+Dialogue: 0,0:14:17.47,0:14:19.29,Main Dialog,,0000,0000,0000,,Dimension Police...
+Dialogue: 0,0:14:20.18,0:14:22.26,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:14:23.74,0:14:26.01,Main Dialog,,0000,0000,0000,,Bubble Edge Dracokid!
+Dialogue: 0,0:14:26.62,0:14:28.07,Main Dialog,,0000,0000,0000,,Acorn Master.
+Dialogue: 0,0:14:29.76,0:14:31.51,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:14:33.61,0:14:36.02,Main Dialog,,0000,0000,0000,,I go first. Draw.
+Dialogue: 0,0:14:36.75,0:14:40.06,Main Dialog,,0000,0000,0000,,I ride Dimensional Robo, Daitiger.
+Dialogue: 0,0:14:42.57,0:14:43.73,Main Dialog,,0000,0000,0000,,Draw.
+Dialogue: 0,0:14:44.37,0:14:45.41,Main Dialog,,0000,0000,0000,,I ride...
+Dialogue: 0,0:14:46.21,0:14:47.24,Main Dialog,,0000,0000,0000,,...Wheel Assault!
+Dialogue: 0,0:14:50.33,0:14:51.70,Main Dialog,,0000,0000,0000,,Call.
+Dialogue: 0,0:14:52.19,0:14:54.52,Main Dialog,,0000,0000,0000,,Mercenary Brave Shooter.
+Dialogue: 0,0:14:54.52,0:14:55.80,Main Dialog,,0000,0000,0000,,Attack!
+Dialogue: 0,0:15:04.63,0:15:06.21,Main Dialog,,0000,0000,0000,,Wheel Assault!
+Dialogue: 0,0:15:13.54,0:15:14.74,Main Dialog,,0000,0000,0000,,I see.
+Dialogue: 0,0:15:15.14,0:15:17.64,Main Dialog,,0000,0000,0000,,So this is the legendary Aqua Force...
+Dialogue: 0,0:15:18.24,0:15:22.15,Main Dialog,,0000,0000,0000,,That's right. It's a deck that's been handed \Ndown to those of us in the Souryu tribe.
+Dialogue: 0,0:15:22.52,0:15:24.40,Main Dialog,,0000,0000,0000,,The Souryu tribe, eh?
+Dialogue: 0,0:15:25.91,0:15:29.15,Main Dialog,,0000,0000,0000,,That's a "tribe" in name only. You're \None step away from extinction.
+Dialogue: 0,0:15:31.04,0:15:32.41,Main Dialog,,0000,0000,0000,,Historically...
+Dialogue: 0,0:15:32.41,0:15:36.74,Main Dialog,,0000,0000,0000,,...small, weak nations are fated to be \Ncrushed underfoot by large, strong nations.
+Dialogue: 0,0:15:36.74,0:15:38.26,Main Dialog,,0000,0000,0000,,With that in mind...
+Dialogue: 0,0:15:38.26,0:15:41.29,Main Dialog,,0000,0000,0000,,...how long are you going \Nto cling to your legend?
+Dialogue: 0,0:15:49.92,0:15:52.43,Main Dialog,,0000,0000,0000,,Don't insult the Souryu tribe!
+Dialogue: 0,0:15:52.87,0:15:55.28,Main Dialog,,0000,0000,0000,,I'm just talking about reality.
+Dialogue: 0,0:15:55.28,0:15:58.16,Main Dialog,,0000,0000,0000,,You, an all-but-extinct king,
+Dialogue: 0,0:15:58.16,0:16:01.00,Main Dialog,,0000,0000,0000,,are in battle with me,
+Dialogue: 0,0:16:01.00,0:16:03.94,Main Dialog,,0000,0000,0000,,the emperor of an empire!
+Dialogue: 0,0:16:06.64,0:16:07.71,Main Dialog,,0000,0000,0000,,Draw.
+Dialogue: 0,0:16:08.40,0:16:09.44,Main Dialog,,0000,0000,0000,,Ride!
+Dialogue: 0,0:16:10.14,0:16:13.09,Main Dialog,,0000,0000,0000,,Dimensional Robo, Daiheart.
+Dialogue: 0,0:16:15.15,0:16:15.99,Main Dialog,,0000,0000,0000,,Call.
+Dialogue: 0,0:16:16.58,0:16:17.78,Main Dialog,,0000,0000,0000,,Counterblast.
+Dialogue: 0,0:16:21.42,0:16:24.58,Main Dialog,,0000,0000,0000,,I attack with a boost from Daimagnum.
+Dialogue: 0,0:16:25.54,0:16:26.79,Main Dialog,,0000,0000,0000,,No guard.
+Dialogue: 0,0:16:27.20,0:16:28.29,Main Dialog,,0000,0000,0000,,Check...
+Dialogue: 0,0:16:31.94,0:16:35.33,Main Dialog,,0000,0000,0000,,Daiheart's power is 13000!
+Dialogue: 0,0:16:35.33,0:16:38.18,Main Dialog,,0000,0000,0000,,And this brings forth another skill.
+Dialogue: 0,0:16:38.45,0:16:40.29,Main Dialog,,0000,0000,0000,,Your tribe...
+Dialogue: 0,0:16:40.29,0:16:41.85,Main Dialog,,0000,0000,0000,,Your clan...
+Dialogue: 0,0:16:42.38,0:16:47.02,Main Dialog,,0000,0000,0000,,...are powerless, unable \Nto bring forth anything.
+Dialogue: 0,0:16:47.02,0:16:48.82,Main Dialog,,0000,0000,0000,,You're about to realize that.
+Dialogue: 0,0:16:51.17,0:16:53.95,Main Dialog,,0000,0000,0000,,Dimensional Robo, Daiheart's \Nskill is activated.
+Dialogue: 0,0:16:54.52,0:16:56.95,Main Dialog,,0000,0000,0000,,I take two Daiyusha cards from my hand
+Dialogue: 0,0:16:57.19,0:16:58.32,Main Dialog,,0000,0000,0000,,and move them to the Soul.
+Dialogue: 0,0:16:59.76,0:17:00.95,Main Dialog,,0000,0000,0000,,And then...
+Dialogue: 0,0:17:09.22,0:17:12.84,Main Dialog,,0000,0000,0000,,I'm sure this will be passed down from \Ngeneration to generation, for eternity.
+Dialogue: 0,0:17:13.25,0:17:16.81,Main Dialog,,0000,0000,0000,,Tyrannus, who claims the sparkling \Ncrown in the darkness!
+Dialogue: 0,0:17:16.81,0:17:19.26,Main Dialog,,0000,0000,0000,,Superior crossride!
+Dialogue: 0,0:17:22.62,0:17:24.27,Main Dialog,,0000,0000,0000,,Dark Dimensional Robo...
+Dialogue: 0,0:17:25.27,0:17:30.22,Main Dialog,,0000,0000,0000,,..."Reversed" Daiyusha!
+Dialogue: 0,0:17:31.77,0:17:33.00,Main Dialog,,0000,0000,0000,,What?!
+Dialogue: 0,0:17:34.61,0:17:37.24,Main Dialog,,0000,0000,0000,,Since there's a Daiyusha in the Soul,
+Dialogue: 0,0:17:37.24,0:17:40.87,Main Dialog,,0000,0000,0000,,its power increases to 13000.
+Dialogue: 0,0:17:40.87,0:17:42.53,Main Dialog,,0000,0000,0000,,It's unfortunate,
+Dialogue: 0,0:17:42.53,0:17:45.31,Main Dialog,,0000,0000,0000,,but it can only make its debut this turn.
+Dialogue: 0,0:17:46.78,0:17:49.75,Main Dialog,,0000,0000,0000,,Assuming you keep riding properly,
+Dialogue: 0,0:17:50.49,0:17:52.83,Main Dialog,,0000,0000,0000,,your next turn will be a grade 2,
+Dialogue: 0,0:17:52.83,0:17:54.76,Main Dialog,,0000,0000,0000,,with only about 10000 power.
+Dialogue: 0,0:17:55.31,0:17:59.39,Main Dialog,,0000,0000,0000,,And the next one will be a grade 3,\N with 11000 power at best.
+Dialogue: 0,0:18:01.48,0:18:03.53,Main Dialog,,0000,0000,0000,,Each time it comes to your turn,
+Dialogue: 0,0:18:03.53,0:18:06.39,Main Dialog,,0000,0000,0000,,you'll experience the despair \Nof falling short of the mark.
+Dialogue: 0,0:18:08.21,0:18:10.43,Main Dialog,,0000,0000,0000,,Even though his opponent's \NVanguard is still grade 1,
+Dialogue: 0,0:18:10.43,0:18:13.03,Main Dialog,,0000,0000,0000,,he managed to crossride \Nto "Reversed" Daiyusha.
+Dialogue: 0,0:18:13.03,0:18:14.15,Main Dialog,,0000,0000,0000,,Brilliant.
+Dialogue: 0,0:18:16.56,0:18:19.89,Main Dialog,,0000,0000,0000,,I feel an unusual wind coming from that unit.
+Dialogue: 0,0:18:19.89,0:18:22.42,Main Dialog,,0000,0000,0000,,In fact, I sense its power.
+Dialogue: 0,0:18:24.92,0:18:27.62,Main Dialog,,0000,0000,0000,,What is this?! I'm scared!
+Dialogue: 0,0:18:43.72,0:18:46.24,Main Dialog,,0000,0000,0000,,King of the jungle darkness!
+Dialogue: 0,0:18:46.24,0:18:50.32,Main Dialog,,0000,0000,0000,,Use your sharp fangs that can crush anyone...
+Dialogue: 0,0:18:50.32,0:18:52.15,Main Dialog,,0000,0000,0000,,...to devour the weak!
+Dialogue: 0,0:18:52.44,0:18:53.52,Main Dialog,,0000,0000,0000,,I ride...
+Dialogue: 0,0:18:53.87,0:18:57.36,Main Dialog,,0000,0000,0000,,...School Punisher, Leo-pald "Reverse"!
+Dialogue: 0,0:18:59.63,0:19:02.53,Main Dialog,,0000,0000,0000,,What?! What is that unit?!
+Dialogue: 0,0:19:03.89,0:19:06.73,Main Dialog,,0000,0000,0000,,You're cute when you're shocked!
+Dialogue: 0,0:19:06.73,0:19:10.47,Main Dialog,,0000,0000,0000,,Show me more expressions, {\i1}bambina!{\i0}
+Dialogue: 0,0:19:11.89,0:19:15.19,Main Dialog,,0000,0000,0000,,I'm going to keep winning with this unit.
+Dialogue: 0,0:19:15.19,0:19:17.84,Main Dialog,,0000,0000,0000,,It's a logical necessity.
+Dialogue: 0,0:19:22.14,0:19:23.80,Main Dialog,,0000,0000,0000,,Are you worried?
+Dialogue: 0,0:19:24.23,0:19:28.66,Main Dialog,,0000,0000,0000,,But instead of your subjects, maybe you had \Nbetter be concerned for your own welfare,
+Dialogue: 0,0:19:28.66,0:19:30.31,Main Dialog,,0000,0000,0000,,Souryu king.
+Dialogue: 0,0:19:32.25,0:19:35.75,Main Dialog,,0000,0000,0000,,Legends aren't necessary \Nduring a war-torn era.
+Dialogue: 0,0:19:35.75,0:19:37.02,Main Dialog,,0000,0000,0000,,Power is!
+Dialogue: 0,0:19:37.02,0:19:39.94,Main Dialog,,0000,0000,0000,,And that's what I have!
+Dialogue: 0,0:19:46.30,0:19:50.40,Main Dialog,,0000,0000,0000,,Well? You can feel the grief \Nof a minor nation, can't you?
+Dialogue: 0,0:19:51.26,0:19:54.58,Main Dialog,,0000,0000,0000,,And right about now, your subjects...
+Dialogue: 0,0:19:56.37,0:20:00.17,Main Dialog,,0000,0000,0000,,Leo-pald "Reverse"! Obsidian sword!
+Dialogue: 0,0:20:11.57,0:20:12.91,Main Dialog,,0000,0000,0000,,I can't...
+Dialogue: 0,0:20:14.06,0:20:15.61,Main Dialog,,0000,0000,0000,,Leon!
+Dialogue: 0,0:20:27.73,0:20:29.33,Main Dialog,,0000,0000,0000,,Leon...
+Dialogue: 0,0:20:30.94,0:20:33.07,Main Dialog,,0000,0000,0000,,If we lose,
+Dialogue: 0,0:20:33.07,0:20:34.50,Main Dialog,,0000,0000,0000,,Leon will...
+Dialogue: 0,0:20:36.01,0:20:37.75,Main Dialog,,0000,0000,0000,,Leon will...
+Dialogue: 0,0:20:41.14,0:20:44.71,Main Dialog,,0000,0000,0000,,The three of us are Souryu \Nchildren. We'll fight together.
+Dialogue: 0,0:20:46.24,0:20:47.73,Main Dialog,,0000,0000,0000,,Leon...
+Dialogue: 0,0:21:14.50,0:21:16.32,Main Dialog,,0000,0000,0000,,Looks like it's over.
+Dialogue: 0,0:21:23.61,0:21:25.76,Main Dialog,,0000,0000,0000,,Jillian! Sharlene!
+Dialogue: 0,0:21:29.94,0:21:31.76,Main Dialog,,0000,0000,0000,,Watch from there.
+Dialogue: 0,0:21:32.19,0:21:34.39,Main Dialog,,0000,0000,0000,,Yes, Your Imperial Majesty.
+Dialogue: 0,0:21:34.39,0:21:36.02,Main Dialog,,0000,0000,0000,,As you command.
+Dialogue: 0,0:21:37.85,0:21:40.93,Main Dialog,,0000,0000,0000,,The loser becomes a subject of the winner.
+Dialogue: 0,0:21:42.30,0:21:45.25,Main Dialog,,0000,0000,0000,,You see the same thing occurring \Nin history from time to time.
+Dialogue: 0,0:21:45.25,0:21:48.78,Main Dialog,,0000,0000,0000,,It's only right. A logical \Nconsequence, don't you agree?
+Dialogue: 0,0:21:51.35,0:21:53.02,Main Dialog,,0000,0000,0000,,So, tell me.
+Dialogue: 0,0:21:53.02,0:21:57.04,Main Dialog,,0000,0000,0000,,How does it feel to become a king \Nwithout even a single citizen to rule?
+Dialogue: 0,0:22:00.09,0:22:04.95,Main Dialog,,0000,0000,0000,,Your power, and Aqua Force too, \Nare so close to being annihilated.
+Dialogue: 0,0:22:06.72,0:22:08.89,Main Dialog,,0000,0000,0000,,Won't you become my subject?
+Dialogue: 0,0:22:09.94,0:22:13.64,Main Dialog,,0000,0000,0000,,Imbecile! Aqua Force \Nwill never be destroyed!
+Dialogue: 0,0:22:13.64,0:22:16.60,Main Dialog,,0000,0000,0000,,I am the Souryu child!
+Dialogue: 0,0:23:57.12,0:24:00.57,Main Dialog,,0000,0000,0000,,Leon Souryu. Cease struggling and surrender.
+Dialogue: 0,0:24:00.96,0:24:02.84,Main Dialog,,0000,0000,0000,,In the face of absolute power,
+Dialogue: 0,0:24:02.84,0:24:05.51,Main Dialog,,0000,0000,0000,,everything is useless... powerless... in vain!
+Dialogue: 0,0:24:05.51,0:24:08.35,Main Dialog,,0000,0000,0000,,I'll be the one who decides \Nif it's useless or not!
+Dialogue: 0,0:24:08.35,0:24:09.73,Main Dialog,,0000,0000,0000,,It's a shame.
+Dialogue: 0,0:24:09.73,0:24:11.72,Main Dialog,,0000,0000,0000,,I'll just have to destroy you with my power!
+Dialogue: 0,0:24:12.05,0:24:14.87,Main Dialog,,0000,0000,0000,,The fierce battle between Mitsusada and Leon
+Dialogue: 0,0:24:14.87,0:24:17.39,Main Dialog,,0000,0000,0000,,is approaching its end.
+Dialogue: 0,0:24:17.39,0:24:19.03,Main Dialog,,0000,0000,0000,,Next time: Tight-knit Ship!
+Dialogue: 0,0:24:19.03,0:24:21.41,Main Dialog,,0000,0000,0000,,Take this, tyrant...
+Dialogue: 0,0:24:21.41,0:24:23.61,Main Dialog,,0000,0000,0000,,This wind that I've stirred up!

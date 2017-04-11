@@ -1,0 +1,390 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0030,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:03.60,0:00:09.48,Main Dialog,Spoken,0000,0000,0000,,So the black knight's attack \Nhit the gold knight...
+Dialogue: 0,0:00:09.94,0:00:12.88,Main Dialog,Spoken,0000,0000,0000,,In other words, the Cardfight \NClub missed out on the chance
+Dialogue: 0,0:00:12.88,0:00:15.24,Main Dialog,Spoken,0000,0000,0000,,to participate in the high \Nschool championship, yes?
+Dialogue: 0,0:00:15.24,0:00:16.76,Main Dialog,Spoken,0000,0000,0000,,Yes.
+Dialogue: 0,0:00:16.76,0:00:17.47,Main Dialog,Spoken,0000,0000,0000,,All right, then.
+Dialogue: 0,0:00:18.24,0:00:20.62,Main Dialog,Spoken,0000,0000,0000,,I assume you've come up with another plan?
+Dialogue: 0,0:00:21.02,0:00:24.30,Main Dialog,Spoken,0000,0000,0000,,Yes. I thought we could put {\i1}them{\i0} to work.
+Dialogue: 0,0:00:24.30,0:00:25.92,Main Dialog,Spoken,0000,0000,0000,,Them?
+Dialogue: 0,0:00:25.92,0:00:28.00,Main Dialog,Spoken,0000,0000,0000,,After being persecuted for many years...
+Dialogue: 0,0:00:28.00,0:00:31.26,Main Dialog,Spoken,0000,0000,0000,,Persecuted? Are you joking?
+Dialogue: 0,0:00:31.26,0:00:34.30,Main Dialog,Spoken,0000,0000,0000,,No, that's not what I meant.
+Dialogue: 0,0:00:34.30,0:00:36.29,Main Dialog,Spoken,0000,0000,0000,,I mean, as a consequence \Nof their peculiarities,
+Dialogue: 0,0:00:36.29,0:00:38.10,Main Dialog,Spoken,0000,0000,0000,,they haven't been able to gather members,
+Dialogue: 0,0:00:38.10,0:00:40.92,Main Dialog,Spoken,0000,0000,0000,,still haven't been able to go beyond \Nthe barrier of an "association,"
+Dialogue: 0,0:00:40.92,0:00:42.68,Main Dialog,Spoken,0000,0000,0000,,haven't been given a clubroom...
+Dialogue: 0,0:00:42.68,0:00:43.93,Main Dialog,Spoken,0000,0000,0000,,That's a lot of "haven'ts."
+Dialogue: 0,0:00:44.45,0:00:47.56,Main Dialog,Spoken,0000,0000,0000,,Those three "haven'ts" \Nhave become their strength
+Dialogue: 0,0:00:47.56,0:00:53.16,Main Dialog,Spoken,0000,0000,0000,,as they research hate-filled paranormal \Npower, befriend time and space,
+Dialogue: 0,0:00:53.16,0:00:55.11,Main Dialog,Spoken,0000,0000,0000,,with a wasteland as their den...
+Dialogue: 0,0:00:58.62,0:00:59.73,Main Dialog,Spoken,0000,0000,0000,,I see...
+Dialogue: 0,0:02:37.12,0:02:39.72,Main Dialog,Spoken,0000,0000,0000,,What's happening with that plan we discussed?
+Dialogue: 0,0:02:40.29,0:02:45.10,Main Dialog,Spoken,0000,0000,0000,,Relax. We'll lure them up here and \Ntake them down in one fell swoop.
+Dialogue: 0,0:02:45.10,0:02:48.10,Signs,Sign,0000,0000,0000,,Paranormal Power Research Society
+Dialogue: 0,0:02:45.62,0:02:48.10,Main Dialog,Spoken,0000,0000,0000,,I've mastered this for that very purpose.
+Dialogue: 0,0:02:48.61,0:02:51.60,Main Dialog,Spoken,0000,0000,0000,,With our powers, it's simplicity itself.
+Dialogue: 0,0:02:52.10,0:02:55.61,Main Dialog,Spoken,0000,0000,0000,,Fine. Though I don't believe \Nin supernatural power.
+Dialogue: 0,0:02:56.65,0:02:59.32,Main Dialog,Spoken,0000,0000,0000,,It doesn't matter to me if \Nnormal people believe or not.
+Dialogue: 0,0:02:59.74,0:03:06.36,Main Dialog,Spoken,0000,0000,0000,,Whatever. Just succeed, and the physics \Npreparation room will be waiting for you.
+Dialogue: 0,0:03:06.36,0:03:07.58,Main Dialog,Spoken,0000,0000,0000,,Here, take this.
+Dialogue: 0,0:03:09.82,0:03:11.33,Main Dialog,Spoken,0000,0000,0000,,Why, if that isn't...
+Dialogue: 0,0:03:11.33,0:03:13.58,Main Dialog,Spoken,0000,0000,0000,,...the key to sealed power!
+Dialogue: 0,0:03:13.92,0:03:18.08,Main Dialog,Spoken,0000,0000,0000,,The time has come! Now our \Npower shall be unleashed!
+Dialogue: 0,0:03:19.09,0:03:24.09,Signs,Sign,0000,0000,0000,,A Windy Day
+Dialogue: 0,0:03:24.09,0:03:34.94,Signs,Sign,0000,0000,0000,,Physics Prep\N{\fs24}We challenge you to a Vanguard duel! \NWe'll be waiting at the gateway to the sky <<= the roof!!\N- The Paranormal Power Research Society
+Dialogue: 0,0:03:27.25,0:03:32.16,Main Dialog,Spoken,0000,0000,0000,,We challenge you to a Vanguard duel. We'll \Nbe waiting at the gateway to the sky.
+Dialogue: 0,0:03:32.16,0:03:33.90,Main Dialog,Spoken,0000,0000,0000,,The Paranormal Power Research Society.
+Dialogue: 0,0:03:35.32,0:03:35.97,Main Dialog,Spoken,0000,0000,0000,,Rise!
+Dialogue: 0,0:03:36.97,0:03:37.57,Main Dialog,Spoken,0000,0000,0000,,Bow!
+Dialogue: 0,0:03:41.48,0:03:44.95,Main Dialog,Spoken,0000,0000,0000,,Days with only morning classes \Nare perfect for Vanguard!
+Dialogue: 0,0:03:45.36,0:03:47.46,Main Dialog,Spoken,0000,0000,0000,,Aichi, to the clubroom at warp speed!
+Dialogue: 0,0:03:47.46,0:03:48.85,Main Dialog,Spoken,0000,0000,0000,,R-Right!
+Dialogue: 0,0:03:48.85,0:03:51.37,Main Dialog,Spoken,0000,0000,0000,,It looks like he enjoys himself every day.
+Dialogue: 0,0:03:51.37,0:03:55.57,Main Dialog,Spoken,0000,0000,0000,,Hey, you guys haven't forgotten, have you?
+Dialogue: 0,0:03:59.13,0:04:00.71,Main Dialog,Spoken,0000,0000,0000,,They still haven't shown up?!
+Dialogue: 0,0:04:01.62,0:04:03.72,Main Dialog,Spoken,0000,0000,0000,,Classes have long been over with!
+Dialogue: 0,0:04:04.25,0:04:06.28,Main Dialog,Spoken,0000,0000,0000,,The barrier has stopped spreading.
+Dialogue: 0,0:04:06.28,0:04:09.77,Main Dialog,Spoken,0000,0000,0000,,Don't fret. Haste makes waste.
+Dialogue: 0,0:04:10.12,0:04:14.92,Main Dialog,Spoken,0000,0000,0000,,What we need to grasp is victory. \NNothing more and nothing less.
+Dialogue: 0,0:04:15.96,0:04:17.42,Main Dialog,Spoken,0000,0000,0000,,You're right.
+Dialogue: 0,0:04:18.04,0:04:19.90,Main Dialog,Spoken,0000,0000,0000,,It seems that they've appeared.
+Dialogue: 0,0:04:22.54,0:04:26.16,Main Dialog,Spoken,0000,0000,0000,,Have you come? Your opponents are right here.
+Dialogue: 0,0:04:27.28,0:04:28.40,Main Dialog,Spoken,0000,0000,0000,,Oh?
+Dialogue: 0,0:04:28.40,0:04:30.91,Main Dialog,Spoken,0000,0000,0000,,So you don't mind having \Na Cardfight with me, then.
+Dialogue: 0,0:04:31.29,0:04:32.91,Main Dialog,Spoken,0000,0000,0000,,Don't try to be funny!
+Dialogue: 0,0:04:32.91,0:04:36.42,Main Dialog,Spoken,0000,0000,0000,,You came here after receiving \Nour letter of challenge.
+Dialogue: 0,0:04:36.85,0:04:42.76,Main Dialog,Spoken,0000,0000,0000,,Yes. I thought I would warm up here before \Ngoing to the VF High School Championship.
+Dialogue: 0,0:04:42.76,0:04:46.14,Main Dialog,Spoken,0000,0000,0000,,I'm not surprised, given that Aichi Sendou \Nis a student here at Miyaji Academy.
+Dialogue: 0,0:04:46.14,0:04:48.42,Main Dialog,Spoken,0000,0000,0000,,This school's got unusual-looking fighters.
+Dialogue: 0,0:04:48.42,0:04:51.93,Main Dialog,Spoken,0000,0000,0000,,Wonderful! Did you people \Ncall forth this weather?
+Dialogue: 0,0:04:52.50,0:04:53.68,Main Dialog,Spoken,0000,0000,0000,,Who is he?
+Dialogue: 0,0:04:53.68,0:04:57.04,Main Dialog,Spoken,0000,0000,0000,,Not Sendou, apparently. \NMaybe that Ishida guy?
+Dialogue: 0,0:04:57.96,0:05:00.82,Main Dialog,Spoken,0000,0000,0000,,Girl, you have a penetrating eye.
+Dialogue: 0,0:05:01.25,0:05:04.54,Main Dialog,Spoken,0000,0000,0000,,That's right! We, the members of the \NParanormal Power Research Society,
+Dialogue: 0,0:05:04.54,0:05:07.20,Main Dialog,Spoken,0000,0000,0000,,are allies of all paranormal power!
+Dialogue: 0,0:05:07.86,0:05:08.49,Main Dialog,Spoken,0000,0000,0000,,Wind!
+Dialogue: 0,0:05:09.48,0:05:10.89,Main Dialog,Spoken,0000,0000,0000,,Clouds!
+Dialogue: 0,0:05:10.89,0:05:13.38,Main Dialog,Spoken,0000,0000,0000,,Only a little earlier, \Nit was a clear blue sky,
+Dialogue: 0,0:05:13.38,0:05:16.78,Main Dialog,Spoken,0000,0000,0000,,but now it celebrates our foray into battle!
+Dialogue: 0,0:05:17.98,0:05:20.17,Main Dialog,Spoken,0000,0000,0000,,My name is Eru Nakagami.
+Dialogue: 0,0:05:20.17,0:05:23.46,Main Dialog,Spoken,0000,0000,0000,,Whether it means your lives or not, \NI challenge you to a bout of Cardfighting!
+Dialogue: 0,0:05:26.32,0:05:27.34,Main Dialog,Spoken,0000,0000,0000,,Are you surprised?
+Dialogue: 0,0:05:27.69,0:05:31.28,Main Dialog,Spoken,0000,0000,0000,,At this academy, we possess \Npower recognized by the gods...
+Dialogue: 0,0:05:31.28,0:05:35.10,Main Dialog,Spoken,0000,0000,0000,,That's why we're feared and \Nwere banished to this place.
+Dialogue: 0,0:05:35.57,0:05:37.45,Main Dialog,Spoken,0000,0000,0000,,Grieving Senri and Nakao, my comrades...
+Dialogue: 0,0:05:38.29,0:05:42.11,Main Dialog,Spoken,0000,0000,0000,,at the end of the day, we're just wandering \Nnomads without a place to call our own.
+Dialogue: 0,0:05:45.21,0:05:48.40,Main Dialog,Spoken,0000,0000,0000,,Our leader, Nakagami, possesses \Nan awesome fearsomeness...
+Dialogue: 0,0:05:48.40,0:05:50.32,Main Dialog,Spoken,0000,0000,0000,,And you'll experience it firsthand.
+Dialogue: 0,0:05:50.76,0:05:53.83,Main Dialog,Spoken,0000,0000,0000,,We bear no grudge against you Cardfighters,
+Dialogue: 0,0:05:54.56,0:05:57.83,Main Dialog,Spoken,0000,0000,0000,,but it's in our sad nature \Nto seek out safe refuge.
+Dialogue: 0,0:05:59.60,0:06:00.83,Main Dialog,Spoken,0000,0000,0000,,Forgive us...
+Dialogue: 0,0:06:01.25,0:06:02.46,Main Dialog,Spoken,0000,0000,0000,,Leon...
+Dialogue: 0,0:06:02.46,0:06:04.29,Main Dialog,Spoken,0000,0000,0000,,He thinks you're somebody else...
+Dialogue: 0,0:06:04.29,0:06:05.15,Main Dialog,Spoken,0000,0000,0000,,I understand.
+Dialogue: 0,0:06:05.97,0:06:09.14,Main Dialog,Spoken,0000,0000,0000,,I shall accept this letter of challenge.
+Dialogue: 0,0:06:09.14,0:06:10.09,Main Dialog,Spoken,0000,0000,0000,,Leon?!
+Dialogue: 0,0:06:12.22,0:06:14.10,Main Dialog,Spoken,0000,0000,0000,,Wandering nomads, eh?
+Dialogue: 0,0:06:14.72,0:06:16.60,Main Dialog,Spoken,0000,0000,0000,,That strikes a sad note.
+Dialogue: 0,0:06:19.21,0:06:20.90,Main Dialog,Spoken,0000,0000,0000,,Let us fight and leave \Nno grudges behind.
+Dialogue: 0,0:06:22.08,0:06:23.15,Main Dialog,Spoken,0000,0000,0000,,Ready?
+Dialogue: 0,0:06:23.41,0:06:25.24,Main Dialog,Spoken,0000,0000,0000,,Y-Yeah...
+Dialogue: 0,0:06:26.82,0:06:31.86,Main Dialog,Spoken,0000,0000,0000,,It aches... My sealed right arm aches!
+Dialogue: 0,0:06:31.86,0:06:35.16,Main Dialog,Spoken,0000,0000,0000,,It's sobbing out, "I'm \Ngoing to beat you bloody!"
+Dialogue: 0,0:06:38.45,0:06:41.24,Main Dialog,Spoken,0000,0000,0000,,Not yet... It's still too early...
+Dialogue: 0,0:06:41.24,0:06:44.36,Main Dialog,Spoken,0000,0000,0000,,You two. It's possible \Nthat something may happen.
+Dialogue: 0,0:06:44.36,0:06:46.98,Main Dialog,Spoken,0000,0000,0000,,Get back so you won't get \Nsucked into the maelstrom!
+Dialogue: 0,0:06:46.98,0:06:48.05,Main Dialog,Spoken,0000,0000,0000,,R-Right!
+Dialogue: 0,0:06:48.37,0:06:51.90,Main Dialog,Spoken,0000,0000,0000,,You women in the back! It's \Ndangerous over there! Move away!
+Dialogue: 0,0:06:51.90,0:06:54.20,Main Dialog,Spoken,0000,0000,0000,,Jillian, let's go! It's dangerous here!
+Dialogue: 0,0:06:54.20,0:06:56.40,Main Dialog,Spoken,0000,0000,0000,,He's right. Back up.
+Dialogue: 0,0:06:56.40,0:06:57.56,Main Dialog,Spoken,0000,0000,0000,,R-Right.
+Dialogue: 0,0:06:57.56,0:06:59.52,Main Dialog,Spoken,0000,0000,0000,,Hurry, hurry!
+Dialogue: 0,0:07:00.21,0:07:01.57,Main Dialog,Spoken,0000,0000,0000,,You're prepared?
+Dialogue: 0,0:07:02.37,0:07:03.46,Main Dialog,Spoken,0000,0000,0000,,Here I go.
+Dialogue: 0,0:07:04.60,0:07:07.50,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:07:04.60,0:07:07.50,Main Dialog,Spoken,0000,0000,0000,,Stand up, my Vanguard!
+Dialogue: 0,0:07:09.73,0:07:11.28,Main Dialog,Spoken,0000,0000,0000,,Greedy Hand!
+Dialogue: 0,0:07:12.32,0:07:14.37,Main Dialog,Spoken,0000,0000,0000,,Advance Party Brave Shooter!
+Dialogue: 0,0:07:15.68,0:07:19.41,Main Dialog,Spoken,0000,0000,0000,,I can almost see you on your \Nhands and knees before my power.
+Dialogue: 0,0:07:19.77,0:07:21.54,Main Dialog,Spoken,0000,0000,0000,,How amusing...
+Dialogue: 0,0:07:22.25,0:07:24.29,Main Dialog,Spoken,0000,0000,0000,,I ride Doreen the Thruster!
+Dialogue: 0,0:07:25.09,0:07:26.86,Main Dialog,Spoken,0000,0000,0000,,Greedy Hand moves back!
+Dialogue: 0,0:07:27.29,0:07:28.93,Main Dialog,Spoken,0000,0000,0000,,Oh, Leon...
+Dialogue: 0,0:07:30.10,0:07:32.65,Main Dialog,Spoken,0000,0000,0000,,We came here looking for Aichi Sendou, but...
+Dialogue: 0,0:07:33.76,0:07:35.97,Signs,Sign,0000,0000,0000,,Physics Prep\N{\fs24}We challenge you to a Vanguard duel! \NWe'll be waiting at the gateway to the sky <<= the roof!!\N- The Paranormal Power Research Society
+Dialogue: 0,0:07:34.24,0:07:35.97,Main Dialog,Spoken,0000,0000,0000,,A Vanguard duel?
+Dialogue: 0,0:07:36.34,0:07:38.34,Main Dialog,Spoken,0000,0000,0000,,"We'll be waiting at the gateway to the sky"?
+Dialogue: 0,0:07:39.85,0:07:43.85,Main Dialog,Spoken,0000,0000,0000,,Tear Knight, Theo attacks. Drive check.
+Dialogue: 0,0:07:46.92,0:07:48.12,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:07:49.38,0:07:52.66,Main Dialog,Spoken,0000,0000,0000,,The Damage Zone stigma is 2-0, huh?
+Dialogue: 0,0:07:52.66,0:07:54.97,Main Dialog,Spoken,0000,0000,0000,,Nakagami hasn't gotten serious yet.
+Dialogue: 0,0:07:54.97,0:07:56.62,Main Dialog,Spoken,0000,0000,0000,,But when he does...
+Dialogue: 0,0:07:57.65,0:07:59.12,Main Dialog,Spoken,0000,0000,0000,,W-What?
+Dialogue: 0,0:08:00.04,0:08:01.87,Main Dialog,Spoken,0000,0000,0000,,Now it's my turn...
+Dialogue: 0,0:08:02.38,0:08:05.21,Main Dialog,Spoken,0000,0000,0000,,Get on your hands and \Nknees! Quiver in fear!
+Dialogue: 0,0:08:06.96,0:08:08.80,Main Dialog,Spoken,0000,0000,0000,,Th-That's...
+Dialogue: 0,0:08:10.40,0:08:11.45,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:08:11.45,0:08:12.84,Main Dialog,Spoken,0000,0000,0000,,I'll tell you.
+Dialogue: 0,0:08:12.84,0:08:16.74,Main Dialog,Spoken,0000,0000,0000,,That's Eru Nakagami's third eye, \Nwhich can see through anything!
+Dialogue: 0,0:08:16.74,0:08:19.09,Main Dialog,Spoken,0000,0000,0000,,Also called "Eru's Eye"!
+Dialogue: 0,0:08:19.09,0:08:20.35,Main Dialog,Spoken,0000,0000,0000,,Eru's Eye?!
+Dialogue: 0,0:08:20.81,0:08:25.56,Main Dialog,Spoken,0000,0000,0000,,Anyone that eye gazes upon, be they one \Nperson or ten, will lose all resistance to him!
+Dialogue: 0,0:08:28.08,0:08:31.99,Main Dialog,Spoken,0000,0000,0000,,Watch this. The resurrection \Nof a terrifying power!
+Dialogue: 0,0:08:32.36,0:08:34.74,Main Dialog,Spoken,0000,0000,0000,,I ride Gwynn the Ripper!
+Dialogue: 0,0:08:35.25,0:08:39.20,Main Dialog,Spoken,0000,0000,0000,,I use the power of my third eye \Nto activate Ripper's skill!
+Dialogue: 0,0:08:39.20,0:08:41.54,Main Dialog,Spoken,0000,0000,0000,,Move out, Ill Arms!
+Dialogue: 0,0:08:52.04,0:08:53.97,Main Dialog,Spoken,0000,0000,0000,,Eru's Eye is scary!
+Dialogue: 0,0:08:54.26,0:08:54.97,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:08:56.37,0:08:59.47,Main Dialog,Spoken,0000,0000,0000,,Rear-guard Ripper, destroy him!
+Dialogue: 0,0:09:04.77,0:09:06.23,Main Dialog,Spoken,0000,0000,0000,,Continue!
+Dialogue: 0,0:09:08.98,0:09:10.80,Main Dialog,Spoken,0000,0000,0000,,Two stigmas in a row!
+Dialogue: 0,0:09:11.38,0:09:15.03,Main Dialog,Spoken,0000,0000,0000,,What kind of power is gonna be unleashed \Nnext? It'll be a real spectacle.
+Dialogue: 0,0:09:16.28,0:09:18.37,Main Dialog,Spoken,0000,0000,0000,,Why am I getting the chills?
+Dialogue: 0,0:09:18.37,0:09:20.58,Main Dialog,Spoken,0000,0000,0000,,I can't stop shivering!
+Dialogue: 0,0:09:22.26,0:09:28.06,Main Dialog,Spoken,0000,0000,0000,,I don't believe you people... We planned \Nto all have lunch together today, remember?
+Dialogue: 0,0:09:38.18,0:09:41.10,Main Dialog,Spoken,0000,0000,0000,,Wow. Kourin, you made all this yourself?
+Dialogue: 0,0:09:41.10,0:09:46.48,Main Dialog,Spoken,0000,0000,0000,,I-It's not like I made it because \NI wanted you guys to eat it!
+Dialogue: 0,0:09:46.48,0:09:48.09,Main Dialog,Spoken,0000,0000,0000,,I just ended up making too much.
+Dialogue: 0,0:09:48.09,0:09:50.04,Main Dialog,Spoken,0000,0000,0000,,Eh? Is that so...?
+Dialogue: 0,0:09:50.69,0:09:51.80,Main Dialog,Spoken,0000,0000,0000,,Takuto?!
+Dialogue: 0,0:09:51.80,0:09:54.36,Main Dialog,Spoken,0000,0000,0000,,Long time no see, Aichi Sendou.
+Dialogue: 0,0:09:54.58,0:09:56.56,Main Dialog,Spoken,0000,0000,0000,,Hey, what are you doing here?!
+Dialogue: 0,0:09:56.56,0:09:59.66,Main Dialog,Spoken,0000,0000,0000,,I told you I was coming today.
+Dialogue: 0,0:10:00.09,0:10:01.20,Main Dialog,Spoken,0000,0000,0000,,Who is he?
+Dialogue: 0,0:10:01.20,0:10:04.37,Main Dialog,Spoken,0000,0000,0000,,He's the greatest sponsor \Nof the Vanguard world,
+Dialogue: 0,0:10:04.78,0:10:08.53,Main Dialog,Spoken,0000,0000,0000,,Takuto Tatsunagi, chairman of \Nthe Tatsunagi Financial Group!
+Dialogue: 0,0:10:08.53,0:10:09.88,Main Dialog,Spoken,0000,0000,0000,,Nice to meet you.
+Dialogue: 0,0:10:09.88,0:10:11.54,Main Dialog,Spoken,0000,0000,0000,,H-Hello.
+Dialogue: 0,0:10:11.54,0:10:13.57,Main Dialog,Spoken,0000,0000,0000,,It's an honor to meet you!
+Dialogue: 0,0:10:13.57,0:10:15.73,Main Dialog,Spoken,0000,0000,0000,,"Chairman"? This kid?
+Dialogue: 0,0:10:15.73,0:10:18.80,Main Dialog,Spoken,0000,0000,0000,,How rude! You're just an Ishida yourself!
+Dialogue: 0,0:10:18.80,0:10:20.05,Main Dialog,Spoken,0000,0000,0000,,What was that?!
+Dialogue: 0,0:10:20.42,0:10:23.53,Main Dialog,Spoken,0000,0000,0000,,Plus, "an Ishida"?! That doesn't even make sense!
+Dialogue: 0,0:10:21.45,0:10:23.53,Main Dialog,Spoken,0000,0000,0000,,What fun.
+Dialogue: 0,0:10:23.53,0:10:26.92,Main Dialog,Spoken,0000,0000,0000,,I'm happy you've made such good friends, Kourin.
+Dialogue: 0,0:10:26.92,0:10:31.13,Main Dialog,Spoken,0000,0000,0000,,After all, while you were making this lunch, \Nyou were like, "I hope everybody eats it."
+Dialogue: 0,0:10:31.13,0:10:32.15,Main Dialog,Spoken,0000,0000,0000,,Takuto!
+Dialogue: 0,0:10:32.15,0:10:35.58,Main Dialog,Spoken,0000,0000,0000,,You looked like you were having \Nso much fun making it...
+Dialogue: 0,0:10:35.58,0:10:36.78,Main Dialog,Spoken,0000,0000,0000,,Is that right?
+Dialogue: 0,0:10:39.66,0:10:42.87,Main Dialog,Spoken,0000,0000,0000,,Boss Lady, did you prepare \Na homemade lunch, too?
+Dialogue: 0,0:10:46.94,0:10:47.54,Main Dialog,Spoken,0000,0000,0000,,Wow!
+Dialogue: 0,0:10:47.54,0:10:48.37,Main Dialog,Spoken,0000,0000,0000,,Awesome!
+Dialogue: 0,0:10:48.93,0:10:50.87,Main Dialog,Spoken,0000,0000,0000,,You're amazing too, Misaki!
+Dialogue: 0,0:10:51.24,0:10:53.84,Main Dialog,Spoken,0000,0000,0000,,R-Really? Thanks...
+Dialogue: 0,0:10:54.80,0:10:55.77,Main Dialog,Spoken,0000,0000,0000,,...I can't...
+Dialogue: 0,0:10:57.24,0:10:59.60,Main Dialog,Spoken,0000,0000,0000,,...tell them that Shin made it...
+Dialogue: 0,0:11:01.12,0:11:02.36,Main Dialog,Spoken,0000,0000,0000,,I can't tell them...
+Dialogue: 0,0:11:04.50,0:11:06.64,Main Dialog,Spoken,0000,0000,0000,,Thank you for the food!
+Dialogue: 0,0:11:07.05,0:11:12.08,Main Dialog,Spoken,0000,0000,0000,,Come to think of it, there should \Nbe one more guest here...
+Dialogue: 0,0:11:13.33,0:11:15.65,Main Dialog,Spoken,0000,0000,0000,,Tear Knight, Lazarus attacks!
+Dialogue: 0,0:11:16.17,0:11:18.15,Main Dialog,Spoken,0000,0000,0000,,Barrier with Cursed Doctor!
+Dialogue: 0,0:11:18.78,0:11:20.61,Main Dialog,Spoken,0000,0000,0000,,The stigma is 3 to 2...
+Dialogue: 0,0:11:20.61,0:11:22.53,Main Dialog,Spoken,0000,0000,0000,,The moment of truth is fast approaching.
+Dialogue: 0,0:11:23.05,0:11:24.54,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:11:25.72,0:11:28.32,Main Dialog,Spoken,0000,0000,0000,,I ride Blade Wing Reijy!
+Dialogue: 0,0:11:33.46,0:11:35.16,Main Dialog,Spoken,0000,0000,0000,,H-Here it comes!
+Dialogue: 0,0:11:35.16,0:11:37.21,Main Dialog,Spoken,0000,0000,0000,,The power is gonna be unleashed at last!
+Dialogue: 0,0:11:38.46,0:11:41.72,Main Dialog,Spoken,0000,0000,0000,,Wait... Wait, my right arm!
+Dialogue: 0,0:11:41.72,0:11:43.93,Main Dialog,Spoken,0000,0000,0000,,Not yet... Not just yet...
+Dialogue: 0,0:11:45.00,0:11:48.22,Main Dialog,Spoken,0000,0000,0000,,W-When this unit is placed on the Vanguard,
+Dialogue: 0,0:11:49.78,0:11:52.48,Main Dialog,Spoken,0000,0000,0000,,I choose one of my rear-guards on the field,
+Dialogue: 0,0:11:53.94,0:11:57.98,Main Dialog,Spoken,0000,0000,0000,,take up to three cards of the same name \Nfrom my deck, and move them to the Soul...
+Dialogue: 0,0:11:58.38,0:12:01.70,Main Dialog,Spoken,0000,0000,0000,,That's Reijy's power, Telekinesis Soulcharge!
+Dialogue: 0,0:12:03.97,0:12:06.49,Main Dialog,Spoken,0000,0000,0000,,Call! Destroy Lazarus!
+Dialogue: 0,0:12:07.06,0:12:07.99,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:12:08.52,0:12:12.75,Main Dialog,Spoken,0000,0000,0000,,Greedy Hand boosts! Reijy, destroy Lazarus!
+Dialogue: 0,0:12:13.26,0:12:14.78,Main Dialog,Spoken,0000,0000,0000,,Twin drive!
+Dialogue: 0,0:12:17.77,0:12:20.13,Main Dialog,Spoken,0000,0000,0000,,The power is with me!
+Dialogue: 0,0:12:20.13,0:12:24.05,Main Dialog,Spoken,0000,0000,0000,,I give the power to Gwynn the Ripper,\N and the critical to Reijy!
+Dialogue: 0,0:12:29.84,0:12:32.39,Main Dialog,Spoken,0000,0000,0000,,Heal trigger! I heal 1 damage point.
+Dialogue: 0,0:12:33.93,0:12:35.77,Main Dialog,Spoken,0000,0000,0000,,Destroy him, Ripper!
+Dialogue: 0,0:12:40.57,0:12:42.53,Main Dialog,Spoken,0000,0000,0000,,The tables are turned!
+Dialogue: 0,0:12:44.98,0:12:47.68,Main Dialog,Spoken,0000,0000,0000,,Blow, wind that alters destiny!
+Dialogue: 0,0:12:47.68,0:12:49.41,Main Dialog,Spoken,0000,0000,0000,,Blow on my dearest wish!
+Dialogue: 0,0:13:05.78,0:13:06.81,Main Dialog,Spoken,0000,0000,0000,,Rain?
+Dialogue: 0,0:13:07.33,0:13:10.48,Main Dialog,Spoken,0000,0000,0000,,It's not going to rain. And the sky \Nwill clear up by the time we go home.
+Dialogue: 0,0:13:11.18,0:13:13.24,Main Dialog,Spoken,0000,0000,0000,,Do you have supernatural \Npowers or somethin'?
+Dialogue: 0,0:13:13.24,0:13:17.06,Main Dialog,Spoken,0000,0000,0000,,What are you talking about? I just \Nsaw a weather report, obviously.
+Dialogue: 0,0:13:17.41,0:13:20.44,Main Dialog,Spoken,0000,0000,0000,,Um... Takuto, can I ask you something?
+Dialogue: 0,0:13:20.82,0:13:22.61,Main Dialog,Spoken,0000,0000,0000,,Sure. What is it?
+Dialogue: 0,0:13:23.09,0:13:27.74,Main Dialog,Spoken,0000,0000,0000,,What are Kourin, Rekka, \Nand Suiko like at home?
+Dialogue: 0,0:13:28.69,0:13:32.29,Main Dialog,Spoken,0000,0000,0000,,Granny Glasses, you're not supposed \Nto ask that kinda question.
+Dialogue: 0,0:13:32.29,0:13:34.00,Main Dialog,Spoken,0000,0000,0000,,I-I know, right?
+Dialogue: 0,0:13:34.49,0:13:36.88,Main Dialog,Spoken,0000,0000,0000,,Besides, I'm sure they lounge \Naround in long T-shirts,
+Dialogue: 0,0:13:36.88,0:13:39.12,Main Dialog,Spoken,0000,0000,0000,,laugh their heads off while watching sitcoms,
+Dialogue: 0,0:13:39.12,0:13:41.81,Main Dialog,Spoken,0000,0000,0000,,sleep three in a row next to \Neach other, snoring lightly...
+Dialogue: 0,0:13:41.81,0:13:43.00,Main Dialog,Spoken,0000,0000,0000,,Wha...?! We do not!
+Dialogue: 0,0:13:44.04,0:13:45.72,Main Dialog,Spoken,0000,0000,0000,,Good question...
+Dialogue: 0,0:13:45.72,0:13:47.59,Main Dialog,Spoken,0000,0000,0000,,Hey, Takuto!
+Dialogue: 0,0:13:47.59,0:13:50.90,Main Dialog,Spoken,0000,0000,0000,,If you talk out of turn, I'll \Nnever speak to you again!
+Dialogue: 0,0:13:50.90,0:13:53.26,Main Dialog,Spoken,0000,0000,0000,,What the heck? Don't be so serious...
+Dialogue: 0,0:13:54.05,0:13:57.74,Main Dialog,Spoken,0000,0000,0000,,Idols are our ideals, and that's \Nwhat makes them idols, right?
+Dialogue: 0,0:13:57.74,0:14:00.11,Main Dialog,Spoken,0000,0000,0000,,You're the one who asked in the first place!
+Dialogue: 0,0:14:00.92,0:14:05.32,Main Dialog,Spoken,0000,0000,0000,,Good for you, Kourin. It looks like you \Nget along really well with your friends.
+Dialogue: 0,0:14:05.32,0:14:10.24,Main Dialog,Spoken,0000,0000,0000,,Kourin is like the pillar \Nof the Cardfight Club.
+Dialogue: 0,0:14:10.58,0:14:12.69,Main Dialog,Spoken,0000,0000,0000,,That's right. We can always count on her,
+Dialogue: 0,0:14:12.69,0:14:14.49,Main Dialog,Spoken,0000,0000,0000,,and she's a demonic drill instructor \Nto our two new recruits.
+Dialogue: 0,0:14:15.08,0:14:17.18,Main Dialog,Spoken,0000,0000,0000,,Come on, "demonic" is a little harsh...
+Dialogue: 0,0:14:17.18,0:14:18.36,Main Dialog,Spoken,0000,0000,0000,,No, I agree.
+Dialogue: 0,0:14:19.98,0:14:22.71,Main Dialog,Spoken,0000,0000,0000,,I'm glad I had you come to this school.
+Dialogue: 0,0:14:23.22,0:14:29.59,Main Dialog,Spoken,0000,0000,0000,,Sometimes, in order to change yourself, \Nyou have to come out of your shell.
+Dialogue: 0,0:14:30.48,0:14:31.93,Main Dialog,Spoken,0000,0000,0000,,I attack with Lucas!
+Dialogue: 0,0:14:32.65,0:14:34.18,Main Dialog,Spoken,0000,0000,0000,,Psychic barrier!
+Dialogue: 0,0:14:34.97,0:14:35.96,Main Dialog,Spoken,0000,0000,0000,,Turn end.
+Dialogue: 0,0:14:37.84,0:14:41.01,Main Dialog,Spoken,0000,0000,0000,,Again? I hope he'll be okay.
+Dialogue: 0,0:14:41.01,0:14:43.82,Main Dialog,Spoken,0000,0000,0000,,Yeah. The damage is 4 to 4...
+Dialogue: 0,0:14:47.33,0:14:50.07,Main Dialog,Spoken,0000,0000,0000,,N-Now, the portal to space opens...
+Dialogue: 0,0:14:51.02,0:14:55.20,Main Dialog,Spoken,0000,0000,0000,,Five elements that are the building \Nblocks of the world, give me power!
+Dialogue: 0,0:14:57.78,0:15:01.33,Main Dialog,Spoken,0000,0000,0000,,I ride Master of the Fifth Element!
+Dialogue: 0,0:15:05.61,0:15:09.37,Main Dialog,Spoken,0000,0000,0000,,Call! Greedy Hand's skill! \NIt moves to the Soul.
+Dialogue: 0,0:15:09.37,0:15:13.36,Main Dialog,Spoken,0000,0000,0000,,And then I can put a grade 2 \Nor lower unit into the Soul!
+Dialogue: 0,0:15:21.51,0:15:22.23,Main Dialog,Spoken,0000,0000,0000,,Nakagami!
+Dialogue: 0,0:15:23.68,0:15:24.48,Main Dialog,Spoken,0000,0000,0000,,No!
+Dialogue: 0,0:15:24.98,0:15:27.08,Main Dialog,Spoken,0000,0000,0000,,Don't do this! Stop!
+Dialogue: 0,0:15:27.84,0:15:28.74,Main Dialog,Spoken,0000,0000,0000,,Stop!
+Dialogue: 0,0:15:38.77,0:15:41.13,Main Dialog,Spoken,0000,0000,0000,,Th-There it is! God Hand!
+Dialogue: 0,0:15:41.13,0:15:42.17,Main Dialog,Spoken,0000,0000,0000,,God Hand?!
+Dialogue: 0,0:15:42.94,0:15:46.13,Main Dialog,Spoken,0000,0000,0000,,To all of life, it brings \Nthe uncertainty of death.
+Dialogue: 0,0:15:46.13,0:15:49.30,Main Dialog,Spoken,0000,0000,0000,,And it deals out reborn affection. \NThat's why it's called...
+Dialogue: 0,0:15:49.74,0:15:51.46,Main Dialog,Spoken,0000,0000,0000,,...God Hand!
+Dialogue: 0,0:15:53.29,0:15:55.78,Main Dialog,Spoken,0000,0000,0000,,Doreen obtains power from the Soul.
+Dialogue: 0,0:15:56.82,0:16:02.56,Main Dialog,Spoken,0000,0000,0000,,Dimension Creeper, create life in my \NSoul with the light breath of a soul!
+Dialogue: 0,0:16:02.56,0:16:06.31,Main Dialog,Spoken,0000,0000,0000,,Telekinesis Soulblast! And charge!
+Dialogue: 0,0:16:07.26,0:16:09.32,Main Dialog,Spoken,0000,0000,0000,,A total of eight cards for a Soulcharge?!
+Dialogue: 0,0:16:09.78,0:16:13.80,Main Dialog,Spoken,0000,0000,0000,,This is what makes the world go round, \Nthe never-ending cycle of life and death!
+Dialogue: 0,0:16:18.09,0:16:21.96,Main Dialog,Spoken,0000,0000,0000,,No! Don't come out of me!
+Dialogue: 0,0:16:21.96,0:16:23.13,Main Dialog,Spoken,0000,0000,0000,,What is it?!
+Dialogue: 0,0:16:23.13,0:16:24.66,Main Dialog,Spoken,0000,0000,0000,,What's going to come out?
+Dialogue: 0,0:16:24.66,0:16:26.90,Main Dialog,Spoken,0000,0000,0000,,The power that's been sealed away...
+Dialogue: 0,0:16:26.90,0:16:29.03,Main Dialog,Spoken,0000,0000,0000,,Look... He can't hold back anymore...
+Dialogue: 0,0:16:30.69,0:16:32.92,Main Dialog,Spoken,0000,0000,0000,,Come forth, power of \Ndestruction and creation!
+Dialogue: 0,0:16:33.36,0:16:34.76,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:16:35.22,0:16:38.60,Main Dialog,Spoken,0000,0000,0000,,Fifth Element Enhanced Strength!
+Dialogue: 0,0:16:41.88,0:16:44.73,Main Dialog,Spoken,0000,0000,0000,,All of the units get +3000 power?!
+Dialogue: 0,0:16:45.10,0:16:49.48,Main Dialog,Spoken,0000,0000,0000,,Against my power, Vanguard fighters \Nare like helpless babies!
+Dialogue: 0,0:16:50.20,0:16:52.74,Main Dialog,Spoken,0000,0000,0000,,Obliteration! Gwynn the Ripper!
+Dialogue: 0,0:16:57.01,0:16:58.37,Main Dialog,Spoken,0000,0000,0000,,Fifth Element!
+Dialogue: 0,0:16:58.92,0:16:59.87,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:17:00.32,0:17:01.98,Main Dialog,Spoken,0000,0000,0000,,Twin drive, check!
+Dialogue: 0,0:17:04.12,0:17:07.63,Main Dialog,Spoken,0000,0000,0000,,I give all of the effects to Werwolf Sieger!
+Dialogue: 0,0:17:08.49,0:17:12.28,Main Dialog,Spoken,0000,0000,0000,,Now I'm going to bring the \Nhistory of darkness to a close!
+Dialogue: 0,0:17:12.28,0:17:15.93,Main Dialog,Spoken,0000,0000,0000,,Doreen the Thruster! 33000 boost!
+Dialogue: 0,0:17:15.93,0:17:18.51,Main Dialog,Spoken,0000,0000,0000,,Obliterate him, Werwolf Sieger!
+Dialogue: 0,0:17:25.06,0:17:26.90,Main Dialog,Spoken,0000,0000,0000,,All of you, wake up!
+Dialogue: 0,0:17:30.09,0:17:32.26,Main Dialog,Spoken,0000,0000,0000,,Bring history to a close, you say?
+Dialogue: 0,0:17:32.26,0:17:36.89,Main Dialog,Spoken,0000,0000,0000,,You need to learn that you can't change your \Nown fate by borrowing someone else's power.
+Dialogue: 0,0:17:38.20,0:17:39.25,Main Dialog,Spoken,0000,0000,0000,,What?!
+Dialogue: 0,0:17:44.72,0:17:47.92,Main Dialog,Spoken,0000,0000,0000,,Huh? Is there a window open somewhere?
+Dialogue: 0,0:17:49.64,0:17:52.67,Main Dialog,Spoken,0000,0000,0000,,I'll tell you a story.
+Dialogue: 0,0:17:53.49,0:17:58.18,Main Dialog,Spoken,0000,0000,0000,,There was once a person who \Nwas cursed with a sealed fate,
+Dialogue: 0,0:17:59.32,0:18:02.33,Main Dialog,Spoken,0000,0000,0000,,and he wanted power so badly \Nthat he sold his soul for it.
+Dialogue: 0,0:18:05.84,0:18:08.08,Main Dialog,Spoken,0000,0000,0000,,He had lost sight of himself.
+Dialogue: 0,0:18:09.19,0:18:12.98,Main Dialog,Spoken,0000,0000,0000,,I'd forgotten my true objective.
+Dialogue: 0,0:18:13.32,0:18:15.78,Main Dialog,Spoken,0000,0000,0000,,If I hadn't had that fight with Sendou,
+Dialogue: 0,0:18:15.78,0:18:18.08,Main Dialog,Spoken,0000,0000,0000,,I'm sure I wouldn't be here right now.
+Dialogue: 0,0:18:23.48,0:18:24.58,Main Dialog,Spoken,0000,0000,0000,,Leon...
+Dialogue: 0,0:18:25.64,0:18:29.93,Main Dialog,Spoken,0000,0000,0000,,The point is, just as Sendou \Nguided me to the light back then,
+Dialogue: 0,0:18:29.93,0:18:32.04,Main Dialog,Spoken,0000,0000,0000,,I'm going to purify you people!
+Dialogue: 0,0:18:35.93,0:18:37.61,Main Dialog,Spoken,0000,0000,0000,,Last Card, Revonn!
+Dialogue: 0,0:18:38.13,0:18:40.14,Main Dialog,Spoken,0000,0000,0000,,I obtain the power of Trans-core Dragon
+Dialogue: 0,0:18:40.14,0:18:42.65,Main Dialog,Spoken,0000,0000,0000,,and cut through despairing destiny!
+Dialogue: 0,0:18:43.44,0:18:47.33,Main Dialog,Spoken,0000,0000,0000,,Break ride, my Vanguard!
+Dialogue: 0,0:18:50.85,0:18:52.12,Main Dialog,Spoken,0000,0000,0000,,Counterblast!
+Dialogue: 0,0:18:55.62,0:18:58.17,Main Dialog,Spoken,0000,0000,0000,,Titan of the Beam Rifle attacks!
+Dialogue: 0,0:19:00.25,0:19:01.28,Main Dialog,Spoken,0000,0000,0000,,5 damage...
+Dialogue: 0,0:19:01.28,0:19:02.28,Main Dialog,Spoken,0000,0000,0000,,Uh oh...
+Dialogue: 0,0:19:02.76,0:19:03.70,Main Dialog,Spoken,0000,0000,0000,,Lucas!
+Dialogue: 0,0:19:04.34,0:19:06.33,Main Dialog,Spoken,0000,0000,0000,,Shoot! It can't end!
+Dialogue: 0,0:19:06.96,0:19:08.44,Main Dialog,Spoken,0000,0000,0000,,It can't end like this!
+Dialogue: 0,0:19:11.06,0:19:12.67,Main Dialog,Spoken,0000,0000,0000,,And yet it is going to end like this.
+Dialogue: 0,0:19:13.26,0:19:15.62,Main Dialog,Spoken,0000,0000,0000,,Last Card, Revonn attacks!
+Dialogue: 0,0:19:19.76,0:19:21.05,Main Dialog,Spoken,0000,0000,0000,,There are two choices before you.
+Dialogue: 0,0:19:21.05,0:19:25.25,Main Dialog,Spoken,0000,0000,0000,,The first is to throw \Ndown your hand and lose.
+Dialogue: 0,0:19:26.14,0:19:29.06,Main Dialog,Spoken,0000,0000,0000,,The other is to keep your hand and lose.
+Dialogue: 0,0:19:32.31,0:19:33.20,Main Dialog,Spoken,0000,0000,0000,,Wha...?!
+Dialogue: 0,0:19:33.20,0:19:36.82,Main Dialog,Spoken,0000,0000,0000,,It's cleared up. Just like Kourin said!
+Dialogue: 0,0:19:36.82,0:19:39.72,Main Dialog,Spoken,0000,0000,0000,,It's not me, it's the weather report.
+Dialogue: 0,0:19:39.72,0:19:43.65,Main Dialog,Spoken,0000,0000,0000,,Yeesh. Check the TV news or \Na newspaper once in a while.
+Dialogue: 0,0:19:44.69,0:19:48.20,Main Dialog,Spoken,0000,0000,0000,,Shucks. It would've been cooler \Nif you had supernatural powers...
+Dialogue: 0,0:19:51.17,0:19:52.46,Main Dialog,Spoken,0000,0000,0000,,Nakagami...
+Dialogue: 0,0:19:52.46,0:19:56.46,Main Dialog,Spoken,0000,0000,0000,,Are we doomed to be wandering \Nnomads for eternity?
+Dialogue: 0,0:19:56.97,0:19:58.85,Main Dialog,Spoken,0000,0000,0000,,There's no reason to give up.
+Dialogue: 0,0:19:58.85,0:20:01.57,Main Dialog,Spoken,0000,0000,0000,,You work out your own fate.
+Dialogue: 0,0:20:01.57,0:20:04.52,Main Dialog,Spoken,0000,0000,0000,,If you believe in yourself, \Nbelieve in your comrades,
+Dialogue: 0,0:20:04.52,0:20:09.67,Main Dialog,Spoken,0000,0000,0000,,and devote yourself to your research, \Na path will open naturally.
+Dialogue: 0,0:20:12.25,0:20:14.81,Main Dialog,Spoken,0000,0000,0000,,It was a good fight. I'm grateful to you.
+Dialogue: 0,0:20:15.88,0:20:17.29,Main Dialog,Spoken,0000,0000,0000,,Wait for us!
+Dialogue: 0,0:20:17.29,0:20:18.48,Main Dialog,Spoken,0000,0000,0000,,Leon!
+Dialogue: 0,0:20:19.49,0:20:21.38,Main Dialog,Spoken,0000,0000,0000,,Bye bye!
+Dialogue: 0,0:20:23.01,0:20:25.56,Main Dialog,Spoken,0000,0000,0000,,That guy... was the real thing...
+Dialogue: 0,0:20:25.56,0:20:26.84,Main Dialog,Spoken,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:26.84,0:20:28.00,Main Dialog,Spoken,0000,0000,0000,,I lost.
+Dialogue: 0,0:20:29.93,0:20:33.37,Main Dialog,Spoken,0000,0000,0000,,Kourin, Misaki Tokura, thank you for lunch.
+Dialogue: 0,0:20:33.93,0:20:36.20,Main Dialog,Spoken,0000,0000,0000,,Everything was really delicious.
+Dialogue: 0,0:20:36.20,0:20:39.60,Main Dialog,Spoken,0000,0000,0000,,If you're happy and full, \Nthen it was worth making.
+Dialogue: 0,0:20:40.52,0:20:42.38,Main Dialog,Spoken,0000,0000,0000,,Yeah, exactly...
+Dialogue: 0,0:20:42.86,0:20:45.48,Main Dialog,Spoken,0000,0000,0000,,All right, now let's get to the club!
+Dialogue: 0,0:20:45.48,0:20:47.26,Main Dialog,Spoken,0000,0000,0000,,May I participate, as well?
+Dialogue: 0,0:20:47.92,0:20:49.26,Main Dialog,Spoken,0000,0000,0000,,Leon?!
+Dialogue: 0,0:20:49.26,0:20:50.89,Main Dialog,Spoken,0000,0000,0000,,You finally got here.
+Dialogue: 0,0:20:51.62,0:20:52.89,Main Dialog,Spoken,0000,0000,0000,,Sorry I'm late.
+Dialogue: 0,0:20:53.29,0:20:57.02,Main Dialog,Spoken,0000,0000,0000,,So your "one more guest" was Leon!
+Dialogue: 0,0:20:57.64,0:21:01.25,Main Dialog,Spoken,0000,0000,0000,,I wanted to fight you once before going \Nto the VF High School Championship.
+Dialogue: 0,0:21:01.62,0:21:02.78,Main Dialog,Spoken,0000,0000,0000,,Please indulge me.
+Dialogue: 0,0:21:03.57,0:21:06.04,Main Dialog,Spoken,0000,0000,0000,,Sure. It'd be my pleasure.
+Dialogue: 0,0:21:07.77,0:21:13.10,Main Dialog,Spoken,0000,0000,0000,,I-I can't believe it! I get to see a fight \Nbetween Aichi Sendou and Leon Souryu!
+Dialogue: 0,0:21:13.10,0:21:15.04,Main Dialog,Spoken,0000,0000,0000,,I'm moved!
+Dialogue: 0,0:21:15.66,0:21:18.29,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:21:15.66,0:21:18.29,Main Dialog,Spoken,0000,0000,0000,,Stand up, my Vanguard!
+Dialogue: 0,0:21:18.70,0:21:22.22,Main Dialog,Spoken,0000,0000,0000,,Well, why don't we have a friendly fight, too?
+Dialogue: 0,0:21:22.22,0:21:23.13,Main Dialog,Spoken,0000,0000,0000,,Good idea.
+Dialogue: 0,0:21:23.13,0:21:24.24,Main Dialog,Spoken,0000,0000,0000,,I'm in!
+Dialogue: 0,0:21:24.24,0:21:25.93,Main Dialog,Spoken,0000,0000,0000,,All right!
+Dialogue: 0,0:21:25.93,0:21:29.05,Main Dialog,Spoken,0000,0000,0000,,Blaster Blade Liberator attacks!
+Dialogue: 0,0:21:29.05,0:21:29.61,Main Dialog,Spoken,0000,0000,0000,,No guard!
+Dialogue: 0,0:21:29.61,0:21:30.32,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:21:30.78,0:21:32.72,Main Dialog,Spoken,0000,0000,0000,,Curse you, Cardfight Club!
+Dialogue: 0,0:21:32.72,0:21:36.31,Main Dialog,Spoken,0000,0000,0000,,Our next move... I need \Nto plan our next move!
+Dialogue: 0,0:21:36.82,0:21:38.22,Main Dialog,Spoken,0000,0000,0000,,No guard!
+Dialogue: 0,0:21:39.01,0:21:39.81,Main Dialog,Spoken,0000,0000,0000,,Heal trigger!
+Dialogue: 0,0:21:46.02,0:21:47.53,Main Dialog,Spoken,0000,0000,0000,,Did everybody eat it?
+Dialogue: 0,0:21:48.06,0:21:50.92,Main Dialog,Spoken,0000,0000,0000,,Of course. After all, I made it.
+Dialogue: 0,0:21:52.00,0:21:57.79,Main Dialog,Spoken,0000,0000,0000,,Yeah. And if they hadn't eaten it, I'm sure \Nright now you'd be all... down in the dumps.
+Dialogue: 0,0:21:58.13,0:21:59.92,Main Dialog,Spoken,0000,0000,0000,,I would not!
+Dialogue: 0,0:21:59.92,0:22:01.30,Main Dialog,Spoken,0000,0000,0000,,Oh. Did you take a photo?
+Dialogue: 0,0:22:01.30,0:22:04.63,Main Dialog,Spoken,0000,0000,0000,,Yes. I got a good shot of Kourin.
+Dialogue: 0,0:22:05.08,0:22:05.89,Main Dialog,Spoken,0000,0000,0000,,Oh, my...
+Dialogue: 0,0:22:05.89,0:22:07.09,Main Dialog,Spoken,0000,0000,0000,,That's adorable!
+Dialogue: 0,0:22:07.09,0:22:09.61,Main Dialog,Spoken,0000,0000,0000,,Hey! When did you take that?!
+Dialogue: 0,0:22:09.61,0:22:10.89,Main Dialog,Spoken,0000,0000,0000,,Give me that data!
+Dialogue: 0,0:22:11.42,0:22:15.73,Main Dialog,Spoken,0000,0000,0000,,Forget about it! This kind of thing is...
+Dialogue: 0,0:22:15.73,0:22:17.60,Main Dialog,Spoken,0000,0000,0000,,...totally cute!
+Dialogue: 0,0:22:17.60,0:22:20.26,Main Dialog,Spoken,0000,0000,0000,,Just look at that happy face!
+Dialogue: 0,0:22:20.26,0:22:22.96,Main Dialog,Spoken,0000,0000,0000,,He-ey! Takuto!
+Dialogue: 0,0:23:56.66,0:24:01.66,Main Dialog,Spoken,0000,0000,0000,,We went to all the trouble of making lunch, \Nand all the guys forgot about it! You know?
+Dialogue: 0,0:24:02.01,0:24:03.52,Main Dialog,Spoken,0000,0000,0000,,R-Right...
+Dialogue: 0,0:24:03.52,0:24:06.89,Main Dialog,Spoken,0000,0000,0000,,I-I mean, it's not like I put a \Nlot of effort into making it...
+Dialogue: 0,0:24:06.89,0:24:10.76,Main Dialog,Spoken,0000,0000,0000,,Your lunches were really delicious. \NAnd I got to fight Leon, too.
+Dialogue: 0,0:24:11.29,0:24:13.26,Main Dialog,Spoken,0000,0000,0000,,I wish all days could be like this.
+Dialogue: 0,0:24:13.62,0:24:15.74,Main Dialog,Spoken,0000,0000,0000,,Next time: Mystery Dragon!
+Dialogue: 0,0:24:14.14,0:24:24.90,Signs,Sign,0000,0000,0000,,Mystery Dragon!
+Dialogue: 0,0:24:15.74,0:24:18.21,Main Dialog,Spoken,0000,0000,0000,,Huh? Kourin's absent today?
+Dialogue: 0,0:24:18.21,0:24:21.09,Main Dialog,Spoken,0000,0000,0000,,Naoki? You're acting kind of weird...
+Dialogue: 0,0:24:21.09,0:24:23.40,Main Dialog,Spoken,0000,0000,0000,,What? What's going on?!

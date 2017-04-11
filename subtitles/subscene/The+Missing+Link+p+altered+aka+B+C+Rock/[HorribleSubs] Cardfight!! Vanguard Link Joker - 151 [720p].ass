@@ -1,0 +1,309 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.88,0:00:03.35,Main Dialog,,0000,0000,0000,,You keep goin' on about bein' alone,
+Dialogue: 0,0:00:03.35,0:00:09.84,Main Dialog,,0000,0000,0000,,but in the first place, us Cardfighters \Nare alone when we fight.
+Dialogue: 0,0:00:11.38,0:00:14.05,Main Dialog,,0000,0000,0000,,But in the middle of fightin',
+Dialogue: 0,0:00:14.05,0:00:17.94,Main Dialog,,0000,0000,0000,,I think the feelin's between the \Ntwo opponents are communicated.
+Dialogue: 0,0:00:18.85,0:00:22.77,Main Dialog,,0000,0000,0000,,I mean, if it ain't a fight \Nlike that, where's the fun?
+Dialogue: 0,0:00:24.88,0:00:28.54,Main Dialog,,0000,0000,0000,,It's big talk, I know, but \Nthat's what somebody told me.
+Dialogue: 0,0:00:28.90,0:00:31.20,Main Dialog,,0000,0000,0000,,A fellow member of the Cardfight Club.
+Dialogue: 0,0:00:31.87,0:00:32.57,Main Dialog,,0000,0000,0000,,Ishida...
+Dialogue: 0,0:00:33.52,0:00:36.27,Main Dialog,,0000,0000,0000,,So fighters like us...
+Dialogue: 0,0:00:36.27,0:00:39.21,Main Dialog,,0000,0000,0000,,Me and you, we ain't alone!
+Dialogue: 0,0:00:54.21,0:00:56.04,Main Dialog,,0000,0000,0000,,Naoki! Shingo!
+Dialogue: 0,0:00:57.53,0:00:58.39,Main Dialog,,0000,0000,0000,,Sendou...
+Dialogue: 0,0:00:59.05,0:01:01.14,Main Dialog,,0000,0000,0000,,Hey. We did it...
+Dialogue: 0,0:01:08.90,0:01:13.79,Main Dialog,,0000,0000,0000,,While I was in doubt, Naoki and Shingo...
+Dialogue: 0,0:01:17.64,0:01:18.65,Main Dialog,,0000,0000,0000,,I've decided.
+Dialogue: 0,0:01:20.20,0:01:23.43,Main Dialog,,0000,0000,0000,,I'm through hesitating. \NI'm going to Takuto's place.
+Dialogue: 0,0:01:23.43,0:01:24.19,Main Dialog,,0000,0000,0000,,Aichi...
+Dialogue: 0,0:01:30.29,0:01:34.49,Main Dialog,,0000,0000,0000,,I won't tolerate whatever \Nmade the world like this.
+Dialogue: 0,0:01:35.75,0:01:38.51,Main Dialog,,0000,0000,0000,,Even if Kamui, Takuto...
+Dialogue: 0,0:01:39.05,0:01:41.90,Main Dialog,,0000,0000,0000,,...and Kai are the enemies.
+Dialogue: 0,0:01:44.63,0:01:46.65,Main Dialog,,0000,0000,0000,,I'll fight them!
+Dialogue: 0,0:03:33.62,0:03:34.52,Main Dialog,,0000,0000,0000,,Naoki?
+Dialogue: 0,0:03:34.85,0:03:36.92,Main Dialog,,0000,0000,0000,,It's nothin'.
+Dialogue: 0,0:03:39.17,0:03:40.83,Main Dialog,,0000,0000,0000,,Naoki...?
+Dialogue: 0,0:03:40.83,0:03:42.76,Main Dialog,,0000,0000,0000,,I think you should get some rest.
+Dialogue: 0,0:03:42.76,0:03:44.86,Main Dialog,,0000,0000,0000,,We can't have you dragging us down.
+Dialogue: 0,0:03:45.67,0:03:47.75,Main Dialog,,0000,0000,0000,,Says the guy whose knees are shakin'.
+Dialogue: 0,0:03:48.19,0:03:49.37,Main Dialog,,0000,0000,0000,,They are not...
+Dialogue: 0,0:03:53.48,0:03:55.30,Main Dialog,,0000,0000,0000,,I'm mortified.
+Dialogue: 0,0:03:55.30,0:03:57.10,Main Dialog,,0000,0000,0000,,You stayed up all night \Nputting together a deck
+Dialogue: 0,0:03:57.10,0:04:00.19,Main Dialog,,0000,0000,0000,,and then battling all \Nthose Reversed fighters.
+Dialogue: 0,0:04:00.19,0:04:01.09,Main Dialog,,0000,0000,0000,,I don't blame you.
+Dialogue: 0,0:04:02.30,0:04:04.30,Main Dialog,,0000,0000,0000,,Leave the rest to Misaki and me.
+Dialogue: 0,0:04:05.61,0:04:08.80,Main Dialog,,0000,0000,0000,,From here on, even stronger fighters \Nare gonna come out to play, right?
+Dialogue: 0,0:04:08.80,0:04:11.08,Main Dialog,,0000,0000,0000,,Like I could rest now, \Nbein' a fellow brother-in-arms!
+Dialogue: 0,0:04:11.08,0:04:11.83,Main Dialog,,0000,0000,0000,,Y'know?
+Dialogue: 0,0:04:11.83,0:04:13.19,Main Dialog,,0000,0000,0000,,That's right.
+Dialogue: 0,0:04:21.16,0:04:22.19,Main Dialog,,0000,0000,0000,,Here we go.
+Dialogue: 0,0:04:28.44,0:04:31.19,Main Dialog,,0000,0000,0000,,I've been waiting for you, Aichi Sendou.
+Dialogue: 0,0:04:33.58,0:04:34.29,Main Dialog,,0000,0000,0000,,Kamui...
+Dialogue: 0,0:04:35.46,0:04:40.46,Signs,Sign,0000,0000,0000,,Aichi and Kamui
+Dialogue: 0,0:04:41.66,0:04:44.22,Main Dialog,,0000,0000,0000,,I've been waiting for you, Aichi Sendou.
+Dialogue: 0,0:04:45.62,0:04:48.60,Main Dialog,,0000,0000,0000,,Hey, kid. A middle school student \Nshould respect his elders.
+Dialogue: 0,0:04:49.06,0:04:50.64,Main Dialog,,0000,0000,0000,,I'm not here for nobodies like you.
+Dialogue: 0,0:04:50.64,0:04:51.81,Main Dialog,,0000,0000,0000,,What was that?! You little...
+Dialogue: 0,0:04:51.81,0:04:52.51,Main Dialog,,0000,0000,0000,,Naoki!
+Dialogue: 0,0:04:54.11,0:04:55.03,Main Dialog,,0000,0000,0000,,I'll go.
+Dialogue: 0,0:04:55.84,0:04:58.95,Main Dialog,,0000,0000,0000,,You were with him more than anyone.
+Dialogue: 0,0:05:00.76,0:05:02.26,Main Dialog,,0000,0000,0000,,Fighting against him \Nseriously would be...
+Dialogue: 0,0:05:02.26,0:05:03.13,Main Dialog,,0000,0000,0000,,That's exactly why.
+Dialogue: 0,0:05:04.63,0:05:05.33,Main Dialog,,0000,0000,0000,,Aichi?
+Dialogue: 0,0:05:05.91,0:05:10.66,Main Dialog,,0000,0000,0000,,That's exactly why I need \Nto fight and beat Kamui.
+Dialogue: 0,0:05:12.34,0:05:13.12,Main Dialog,,0000,0000,0000,,Okay.
+Dialogue: 0,0:05:18.79,0:05:20.38,Main Dialog,,0000,0000,0000,,Let's go, Kamui.
+Dialogue: 0,0:05:22.56,0:05:23.16,Main Dialog,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:05:34.55,0:05:36.43,Main Dialog,,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:05:42.78,0:05:47.40,Main Dialog,,0000,0000,0000,,Kamui... I swear I'll \Nbring you back to normal.
+Dialogue: 0,0:05:48.71,0:05:52.16,Main Dialog,,0000,0000,0000,,The great Kamui rides Beast Deity, Blank Marsh!
+Dialogue: 0,0:05:52.53,0:05:55.23,Main Dialog,,0000,0000,0000,,I ride Little Liberator, Marron!
+Dialogue: 0,0:05:59.61,0:06:02.97,Main Dialog,,0000,0000,0000,,Beast Deity, Damned Leo. \NAnd then I call!
+Dialogue: 0,0:06:03.75,0:06:04.88,Main Dialog,,0000,0000,0000,,Damned Leo!
+Dialogue: 0,0:06:07.57,0:06:08.93,Main Dialog,,0000,0000,0000,,Hatred Chaos!
+Dialogue: 0,0:06:11.30,0:06:12.43,Main Dialog,,0000,0000,0000,,Damage check.
+Dialogue: 0,0:06:13.98,0:06:16.43,Main Dialog,,0000,0000,0000,,They both drew a heal trigger...
+Dialogue: 0,0:06:16.43,0:06:18.23,Main Dialog,,0000,0000,0000,,Who will get the upper hand?
+Dialogue: 0,0:06:18.23,0:06:22.11,Main Dialog,,0000,0000,0000,,Well, his opponent's just a middle \Nschooler, so Aichi should be fine.
+Dialogue: 0,0:06:22.73,0:06:27.79,Main Dialog,,0000,0000,0000,,In Team Q4, Sendou was \Nlike the leader figure.
+Dialogue: 0,0:06:29.19,0:06:32.09,Main Dialog,,0000,0000,0000,,But it didn't start out that way.
+Dialogue: 0,0:06:32.09,0:06:35.87,Main Dialog,,0000,0000,0000,,At the beginning, \NAichi was a lot weaker than him.
+Dialogue: 0,0:06:39.50,0:06:41.28,Main Dialog,,0000,0000,0000,,Team Q4...
+Dialogue: 0,0:06:41.28,0:06:43.17,Main Dialog,,0000,0000,0000,,Sendou and Misaki...
+Dialogue: 0,0:06:43.17,0:06:45.87,Main Dialog,,0000,0000,0000,,And Kamui Katsuragi...
+Dialogue: 0,0:06:45.87,0:06:48.76,Main Dialog,,0000,0000,0000,,And Toshiki Kai...
+Dialogue: 0,0:06:50.32,0:06:54.71,Main Dialog,,0000,0000,0000,,I've idolized them as a top fighting team!
+Dialogue: 0,0:06:54.71,0:06:58.89,Main Dialog,,0000,0000,0000,,Yeah. For me, they're a huge goal.
+Dialogue: 0,0:06:59.60,0:07:02.13,Main Dialog,,0000,0000,0000,,Darn it! A fight like this...
+Dialogue: 0,0:07:02.90,0:07:05.28,Main Dialog,,0000,0000,0000,,It's gotta be frustratin' for Aichi \Nmore than anyone!
+Dialogue: 0,0:07:09.48,0:07:10.91,Main Dialog,,0000,0000,0000,,I stand and draw!
+Dialogue: 0,0:07:12.31,0:07:12.79,Main Dialog,,0000,0000,0000,,Ride!
+Dialogue: 0,0:07:17.56,0:07:18.22,Main Dialog,,0000,0000,0000,,W-What?!
+Dialogue: 0,0:07:20.70,0:07:21.92,Main Dialog,,0000,0000,0000,,Kamui?
+Dialogue: 0,0:07:21.92,0:07:24.25,Main Dialog,,0000,0000,0000,,Aichi Sendou! Showdown!
+Dialogue: 0,0:07:24.70,0:07:26.80,Main Dialog,,0000,0000,0000,,Stand up, my avatar!
+Dialogue: 0,0:07:27.85,0:07:30.34,Main Dialog,,0000,0000,0000,,I ride Blaster Blade!
+Dialogue: 0,0:07:34.38,0:07:36.51,Main Dialog,,0000,0000,0000,,Special move! Hell Stand!
+Dialogue: 0,0:07:37.00,0:07:38.63,Main Dialog,,0000,0000,0000,,I attack Gancelot!
+Dialogue: 0,0:07:43.04,0:07:44.94,Main Dialog,,0000,0000,0000,,Please let me call you "Brother"!
+Dialogue: 0,0:07:46.86,0:07:47.82,Main Dialog,,0000,0000,0000,,Brother!
+Dialogue: 0,0:07:48.62,0:07:49.61,Main Dialog,,0000,0000,0000,,Brother!
+Dialogue: 0,0:07:50.41,0:07:51.40,Main Dialog,,0000,0000,0000,,Brother!
+Dialogue: 0,0:07:53.39,0:07:54.49,Main Dialog,,0000,0000,0000,,Kamui...
+Dialogue: 0,0:07:56.12,0:07:57.93,Main Dialog,,0000,0000,0000,,Liberator of Royalty, Phallon!
+Dialogue: 0,0:07:57.93,0:07:58.48,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:07:58.89,0:07:59.71,Main Dialog,,0000,0000,0000,,Escrad!
+Dialogue: 0,0:08:00.27,0:08:00.75,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:08:01.75,0:08:02.33,Main Dialog,,0000,0000,0000,,Attack!
+Dialogue: 0,0:08:02.95,0:08:03.50,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:08:04.16,0:08:06.00,Main Dialog,,0000,0000,0000,,He protected himself three times!
+Dialogue: 0,0:08:08.71,0:08:11.97,Main Dialog,,0000,0000,0000,,What's wrong? Your attacks aren't even close.
+Dialogue: 0,0:08:12.66,0:08:14.80,Main Dialog,,0000,0000,0000,,Is this all the strength you have?!
+Dialogue: 0,0:08:17.42,0:08:19.12,Main Dialog,,0000,0000,0000,,Beast Deity, Ethics Buster!
+Dialogue: 0,0:08:19.74,0:08:21.56,Main Dialog,,0000,0000,0000,,Call! Attack!
+Dialogue: 0,0:08:21.87,0:08:22.82,Main Dialog,,0000,0000,0000,,Intercept!
+Dialogue: 0,0:08:23.75,0:08:25.69,Main Dialog,,0000,0000,0000,,Aichi Sendou...
+Dialogue: 0,0:08:25.69,0:08:27.81,Main Dialog,,0000,0000,0000,,Somewhere in my heart,
+Dialogue: 0,0:08:27.81,0:08:31.69,Main Dialog,,0000,0000,0000,,I've been waiting impatiently for \Nthis moment, this fight with you.
+Dialogue: 0,0:08:34.22,0:08:38.69,Main Dialog,,0000,0000,0000,,The first time we fought, \Nyou were pretty much a novice.
+Dialogue: 0,0:08:39.72,0:08:43.96,Main Dialog,,0000,0000,0000,,But before I knew it, you were \Nstanding next to me as a teammate...
+Dialogue: 0,0:08:45.69,0:08:48.67,Main Dialog,,0000,0000,0000,,And now you're way ahead of me.
+Dialogue: 0,0:08:48.67,0:08:50.70,Main Dialog,,0000,0000,0000,,A top world-class fighter...
+Dialogue: 0,0:08:54.03,0:08:55.13,Main Dialog,,0000,0000,0000,,Kamui...
+Dialogue: 0,0:08:55.61,0:08:58.35,Main Dialog,,0000,0000,0000,,Don't get the wrong idea. I'm not like Kai.
+Dialogue: 0,0:08:59.23,0:09:02.38,Main Dialog,,0000,0000,0000,,I wanted to be like you, Aichi Sendou.
+Dialogue: 0,0:09:03.20,0:09:09.12,Main Dialog,,0000,0000,0000,,How could you get that far, when we were in \Nthe same place, at the same time, together?
+Dialogue: 0,0:09:10.24,0:09:13.01,Main Dialog,,0000,0000,0000,,I thought you were totally awesome.
+Dialogue: 0,0:09:13.63,0:09:17.07,Main Dialog,,0000,0000,0000,,So, when I got the power of Reverse...
+Dialogue: 0,0:09:19.94,0:09:23.39,Main Dialog,,0000,0000,0000,,My heart is quivering with excitement.
+Dialogue: 0,0:09:23.39,0:09:26.84,Main Dialog,,0000,0000,0000,,With this power, I could even fight {\i1}you{\i0}...
+Dialogue: 0,0:09:28.38,0:09:31.97,Main Dialog,,0000,0000,0000,,Probably fight you on equal terms, I thought.
+Dialogue: 0,0:09:31.97,0:09:36.05,Main Dialog,,0000,0000,0000,,So come at me with everything \Nyou've got, Aichi Sendou!
+Dialogue: 0,0:09:42.01,0:09:43.18,Main Dialog,,0000,0000,0000,,Hatred Chaos!
+Dialogue: 0,0:09:43.64,0:09:44.19,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:09:48.01,0:09:49.73,Main Dialog,,0000,0000,0000,,Got it, Kamui.
+Dialogue: 0,0:09:51.11,0:09:52.94,Main Dialog,,0000,0000,0000,,I'll seriously beat you!
+Dialogue: 0,0:09:55.96,0:09:57.31,Main Dialog,,0000,0000,0000,,Stand and draw!
+Dialogue: 0,0:09:59.14,0:10:02.45,Main Dialog,,0000,0000,0000,,Sweep down on the battlefield \Nonce again, solitary warrior.
+Dialogue: 0,0:10:02.99,0:10:07.26,Main Dialog,,0000,0000,0000,,Guide the new leader with your noble wings!
+Dialogue: 0,0:10:08.65,0:10:13.09,Main Dialog,,0000,0000,0000,,I ride Solitary Liberator, Gancelot!
+Dialogue: 0,0:10:18.22,0:10:19.01,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:10:20.37,0:10:21.18,Main Dialog,,0000,0000,0000,,Attack!
+Dialogue: 0,0:10:27.60,0:10:28.69,Main Dialog,,0000,0000,0000,,Counterblast!
+Dialogue: 0,0:10:30.23,0:10:31.24,Main Dialog,,0000,0000,0000,,Superior call!
+Dialogue: 0,0:10:33.22,0:10:34.68,Main Dialog,,0000,0000,0000,,Gancelot attacks!
+Dialogue: 0,0:10:39.11,0:10:40.06,Main Dialog,,0000,0000,0000,,No guard.
+Dialogue: 0,0:10:40.61,0:10:42.02,Main Dialog,,0000,0000,0000,,Twin drive check.
+Dialogue: 0,0:10:43.74,0:10:46.87,Main Dialog,,0000,0000,0000,,I give the power to Phallon, \Nand the extra critical to Gancelot!
+Dialogue: 0,0:10:49.37,0:10:50.33,Main Dialog,,0000,0000,0000,,Second check.
+Dialogue: 0,0:10:58.29,0:11:00.79,Main Dialog,,0000,0000,0000,,With Enide's skill, I draw one card.
+Dialogue: 0,0:11:01.26,0:11:02.39,Main Dialog,,0000,0000,0000,,Phallon attacks!
+Dialogue: 0,0:11:08.95,0:11:10.31,Main Dialog,,0000,0000,0000,,No guard.
+Dialogue: 0,0:11:16.91,0:11:18.05,Main Dialog,,0000,0000,0000,,He did it!
+Dialogue: 0,0:11:18.05,0:11:20.65,Main Dialog,,0000,0000,0000,,All right! All the way to 4 damage!
+Dialogue: 0,0:11:21.46,0:11:24.90,Main Dialog,,0000,0000,0000,,But... there's no way \Nit'll end this easily.
+Dialogue: 0,0:11:26.09,0:11:27.91,Main Dialog,,0000,0000,0000,,I stand and draw.
+Dialogue: 0,0:11:30.26,0:11:32.17,Main Dialog,,0000,0000,0000,,Here I go, Aichi Sendou!
+Dialogue: 0,0:11:32.17,0:11:33.86,Main Dialog,,0000,0000,0000,,The strongest on Earth!
+Dialogue: 0,0:11:33.86,0:11:37.88,Main Dialog,,0000,0000,0000,,Anxiety, evil, and anguish, \Ngrovel before Kamui the Great!
+Dialogue: 0,0:11:38.30,0:11:40.01,Main Dialog,,0000,0000,0000,,Crossbreak ride!
+Dialogue: 0,0:11:41.01,0:11:45.67,Main Dialog,,0000,0000,0000,,Strongest Beast Deity, \NEthics Buster "Reverse"!
+Dialogue: 0,0:11:48.41,0:11:49.10,Main Dialog,,0000,0000,0000,,This is...
+Dialogue: 0,0:11:50.83,0:11:54.13,Main Dialog,,0000,0000,0000,,This is Kamui's Reverse unit!
+Dialogue: 0,0:12:08.62,0:12:10.50,Main Dialog,,0000,0000,0000,,Here I go, Aichi Sendou!
+Dialogue: 0,0:12:10.95,0:12:11.63,Main Dialog,,0000,0000,0000,,Call!
+Dialogue: 0,0:12:12.95,0:12:18.11,Main Dialog,,0000,0000,0000,,Ethics Buster "Reverse's" \Nstrongest Limit Break!
+Dialogue: 0,0:12:20.30,0:12:21.60,Main Dialog,,0000,0000,0000,,I lock two units!
+Dialogue: 0,0:12:26.39,0:12:27.95,Main Dialog,,0000,0000,0000,,And that sets everything up.
+Dialogue: 0,0:12:29.40,0:12:31.24,Main Dialog,,0000,0000,0000,,You're strong.
+Dialogue: 0,0:12:31.24,0:12:34.80,Main Dialog,,0000,0000,0000,,Every scrape you get into, \Nyou always get out of.
+Dialogue: 0,0:12:35.83,0:12:39.15,Main Dialog,,0000,0000,0000,,But... how about when \Nfaced with this skill?!
+Dialogue: 0,0:12:41.46,0:12:42.15,Main Dialog,,0000,0000,0000,,First!
+Dialogue: 0,0:12:42.58,0:12:43.42,Main Dialog,,0000,0000,0000,,Intercept!
+Dialogue: 0,0:12:44.18,0:12:44.99,Main Dialog,,0000,0000,0000,,Second!
+Dialogue: 0,0:12:49.76,0:12:50.66,Main Dialog,,0000,0000,0000,,No guard!
+Dialogue: 0,0:12:54.70,0:12:55.66,Main Dialog,,0000,0000,0000,,Third time!
+Dialogue: 0,0:12:56.10,0:12:58.73,Main Dialog,,0000,0000,0000,,Ethics Buster "Reverse"!
+Dialogue: 0,0:13:02.52,0:13:04.75,Main Dialog,,0000,0000,0000,,Twin drive. First check.
+Dialogue: 0,0:13:05.67,0:13:06.91,Main Dialog,,0000,0000,0000,,Second check.
+Dialogue: 0,0:13:17.41,0:13:18.94,Main Dialog,,0000,0000,0000,,5 damage...
+Dialogue: 0,0:13:18.94,0:13:22.13,Main Dialog,,0000,0000,0000,,Normally, Aichi would be able to hold out...
+Dialogue: 0,0:13:22.13,0:13:24.19,Main Dialog,,0000,0000,0000,,...but all of Kamui's units...
+Dialogue: 0,0:13:24.19,0:13:26.12,Main Dialog,,0000,0000,0000,,...are standing!
+Dialogue: 0,0:13:28.08,0:13:32.29,Main Dialog,,0000,0000,0000,,I wonder how many more times \Nyou can handle this attack?
+Dialogue: 0,0:13:32.29,0:13:34.58,Main Dialog,,0000,0000,0000,,My Infinite Hell!
+Dialogue: 0,0:13:37.10,0:13:39.34,Main Dialog,,0000,0000,0000,,Here I go! Fourth time!
+Dialogue: 0,0:13:41.57,0:13:42.33,Main Dialog,,0000,0000,0000,,Marron!
+Dialogue: 0,0:13:44.43,0:13:45.09,Main Dialog,,0000,0000,0000,,Fifth!
+Dialogue: 0,0:13:45.45,0:13:46.09,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:13:49.02,0:13:50.99,Main Dialog,,0000,0000,0000,,His guard worked!
+Dialogue: 0,0:13:50.99,0:13:53.39,Main Dialog,,0000,0000,0000,,Just a little more! Hang in there, Aichi!
+Dialogue: 0,0:13:53.88,0:13:54.92,Main Dialog,,0000,0000,0000,,Sixth!
+Dialogue: 0,0:13:58.14,0:14:00.08,Main Dialog,,0000,0000,0000,,He's still standin'?!
+Dialogue: 0,0:14:00.08,0:14:01.44,Main Dialog,,0000,0000,0000,,I can't believe it...
+Dialogue: 0,0:14:01.44,0:14:03.24,Main Dialog,,0000,0000,0000,,5 damage...
+Dialogue: 0,0:14:03.24,0:14:05.07,Main Dialog,,0000,0000,0000,,He only has three cards in his hand.
+Dialogue: 0,0:14:06.07,0:14:09.53,Main Dialog,,0000,0000,0000,,Sword Formation Liberator, Igraine guards!
+Dialogue: 0,0:14:12.70,0:14:15.79,Main Dialog,,0000,0000,0000,,You really think you can hold \Nout with just one card?!
+Dialogue: 0,0:14:19.04,0:14:21.38,Main Dialog,,0000,0000,0000,,I still have comrades!
+Dialogue: 0,0:14:21.38,0:14:23.30,Main Dialog,,0000,0000,0000,,Quintet Wall!
+Dialogue: 0,0:14:27.10,0:14:28.17,Main Dialog,,0000,0000,0000,,Counterblast!
+Dialogue: 0,0:14:29.57,0:14:33.29,Main Dialog,,0000,0000,0000,,I call these five units \Nto my guardian circles!
+Dialogue: 0,0:14:36.79,0:14:37.81,Main Dialog,,0000,0000,0000,,Twin drive...
+Dialogue: 0,0:14:38.19,0:14:39.05,Main Dialog,,0000,0000,0000,,...check!
+Dialogue: 0,0:14:43.20,0:14:43.63,Main Dialog,,0000,0000,0000,,Check!
+Dialogue: 0,0:14:53.22,0:14:54.64,Main Dialog,,0000,0000,0000,,All right!
+Dialogue: 0,0:14:54.64,0:14:57.72,Main Dialog,,0000,0000,0000,,But Kamui's attack isn't finished.
+Dialogue: 0,0:14:58.46,0:15:02.12,Main Dialog,,0000,0000,0000,,And on top of that, he's \Npowered up with a critical!
+Dialogue: 0,0:15:02.79,0:15:04.21,Main Dialog,,0000,0000,0000,,Seventh!
+Dialogue: 0,0:15:05.75,0:15:06.57,Main Dialog,,0000,0000,0000,,Epona!
+Dialogue: 0,0:15:11.39,0:15:12.83,Main Dialog,,0000,0000,0000,,Hatred Chaos!
+Dialogue: 0,0:15:12.83,0:15:14.45,Main Dialog,,0000,0000,0000,,This makes eighth!
+Dialogue: 0,0:15:25.07,0:15:25.69,Main Dialog,,0000,0000,0000,,I win!
+Dialogue: 0,0:15:32.64,0:15:34.92,Main Dialog,,0000,0000,0000,,W-What?!
+Dialogue: 0,0:15:47.81,0:15:51.32,Main Dialog,,0000,0000,0000,,Wow! A second Quintet Wall!
+Dialogue: 0,0:15:53.38,0:15:56.30,Main Dialog,,0000,0000,0000,,How...? Even with this power...?
+Dialogue: 0,0:15:57.79,0:16:00.67,Main Dialog,,0000,0000,0000,,Kamui. Earlier, you wondered...
+Dialogue: 0,0:16:02.26,0:16:08.61,Main Dialog,,0000,0000,0000,,We were in the same place and spent the same \Ntime together, so how did I get stronger?
+Dialogue: 0,0:16:09.71,0:16:14.32,Main Dialog,,0000,0000,0000,,The answer is... \NIt was thanks to you, Kamui.
+Dialogue: 0,0:16:14.88,0:16:15.59,Main Dialog,,0000,0000,0000,,What?!
+Dialogue: 0,0:16:16.44,0:16:19.56,Main Dialog,,0000,0000,0000,,You're more experienced, you're my rival...
+Dialogue: 0,0:16:20.18,0:16:21.92,Main Dialog,,0000,0000,0000,,I look up to you.
+Dialogue: 0,0:16:22.60,0:16:23.44,Main Dialog,,0000,0000,0000,,Liar!
+Dialogue: 0,0:16:25.16,0:16:30.24,Main Dialog,,0000,0000,0000,,Sometimes I'm a weak fighter \Nwho hesitates over fights.
+Dialogue: 0,0:16:31.69,0:16:34.99,Main Dialog,,0000,0000,0000,,But you're not afraid of anyone.
+Dialogue: 0,0:16:34.99,0:16:37.01,Main Dialog,,0000,0000,0000,,No matter what happens, you push forward.
+Dialogue: 0,0:16:37.67,0:16:40.90,Main Dialog,,0000,0000,0000,,I've always admired that about you.
+Dialogue: 0,0:16:41.61,0:16:42.27,Main Dialog,,0000,0000,0000,,Admired...?
+Dialogue: 0,0:16:43.44,0:16:49.19,Main Dialog,,0000,0000,0000,,Kamui... I'm here because you and our other \Ncomrades were there in the beginning.
+Dialogue: 0,0:16:50.72,0:16:53.54,Main Dialog,,0000,0000,0000,,Me? Our comrades?
+Dialogue: 0,0:16:54.87,0:16:59.56,Main Dialog,,0000,0000,0000,,May your noble power rain down \Nand become the world's bond!
+Dialogue: 0,0:16:59.56,0:17:01.40,Main Dialog,,0000,0000,0000,,Crossbreak ride!
+Dialogue: 0,0:17:02.53,0:17:05.51,Main Dialog,,0000,0000,0000,,Liberator of Bonds, Gancelot Zenith!
+Dialogue: 0,0:17:08.89,0:17:12.97,Main Dialog,,0000,0000,0000,,Solitary Liberator, Gancelot's \Nbreak ride skill!
+Dialogue: 0,0:17:13.80,0:17:17.72,Main Dialog,,0000,0000,0000,,I add +10000 to Liberator of Bonds, \NGancelot Zenith's power!
+Dialogue: 0,0:17:17.72,0:17:21.02,Main Dialog,,0000,0000,0000,,And then +5000 power to \Nmy three rear-guard units!
+Dialogue: 0,0:17:22.80,0:17:27.03,Main Dialog,,0000,0000,0000,,I became strong? Yeah. Maybe...
+Dialogue: 0,0:17:27.75,0:17:29.53,Main Dialog,,0000,0000,0000,,I've felt like that before...
+Dialogue: 0,0:17:31.47,0:17:32.83,Main Dialog,,0000,0000,0000,,But let me prove it...
+Dialogue: 0,0:17:33.95,0:17:38.82,Main Dialog,,0000,0000,0000,,Let me prove what our \Ncomrades and you have said!
+Dialogue: 0,0:17:41.50,0:17:42.33,Main Dialog,,0000,0000,0000,,That's...
+Dialogue: 0,0:17:55.26,0:17:58.39,Main Dialog,,0000,0000,0000,,Team... Q4...
+Dialogue: 0,0:18:00.20,0:18:01.94,Main Dialog,,0000,0000,0000,,Gorlois's skill activated!
+Dialogue: 0,0:18:08.18,0:18:09.48,Main Dialog,,0000,0000,0000,,Phallon attacks!
+Dialogue: 0,0:18:10.90,0:18:11.43,Main Dialog,,0000,0000,0000,,Guard!
+Dialogue: 0,0:18:11.80,0:18:13.11,Main Dialog,,0000,0000,0000,,Gancelot Zenith!
+Dialogue: 0,0:18:14.15,0:18:17.70,Main Dialog,,0000,0000,0000,,Counterblast! And then, Limit Break!
+Dialogue: 0,0:18:19.07,0:18:20.26,Main Dialog,,0000,0000,0000,,Superior call!
+Dialogue: 0,0:18:21.03,0:18:23.64,Main Dialog,,0000,0000,0000,,Blaster Blade Liberator!
+Dialogue: 0,0:18:26.03,0:18:28.37,Main Dialog,,0000,0000,0000,,Blaster Blade!
+Dialogue: 0,0:18:28.74,0:18:31.81,Main Dialog,,0000,0000,0000,,With its skill, I add +3000 to Bruno's power!
+Dialogue: 0,0:18:34.12,0:18:34.87,Main Dialog,,0000,0000,0000,,Twin drive...
+Dialogue: 0,0:18:54.67,0:18:56.44,Main Dialog,,0000,0000,0000,,Darn it!
+Dialogue: 0,0:19:00.04,0:19:01.62,Main Dialog,,0000,0000,0000,,Kamui!
+Dialogue: 0,0:19:25.07,0:19:25.78,Main Dialog,,0000,0000,0000,,Kamui!
+Dialogue: 0,0:19:30.05,0:19:31.04,Main Dialog,,0000,0000,0000,,Brother...
+Dialogue: 0,0:19:32.54,0:19:33.68,Main Dialog,,0000,0000,0000,,It's over.
+Dialogue: 0,0:19:38.70,0:19:40.42,Main Dialog,,0000,0000,0000,,Kamui, are you okay?
+Dialogue: 0,0:19:42.80,0:19:43.97,Main Dialog,,0000,0000,0000,,Brother...
+Dialogue: 0,0:19:44.38,0:19:45.40,Main Dialog,,0000,0000,0000,,Kamui...
+Dialogue: 0,0:19:46.43,0:19:48.49,Main Dialog,,0000,0000,0000,,Misaki...
+Dialogue: 0,0:19:49.22,0:19:51.12,Main Dialog,,0000,0000,0000,,...and the guys from Miyaji Academy...
+Dialogue: 0,0:19:53.28,0:19:57.58,Main Dialog,,0000,0000,0000,,I was... Reversed, wasn't I?
+Dialogue: 0,0:19:58.47,0:20:04.19,Main Dialog,,0000,0000,0000,,I probably... did some bad things. I'm sorry.
+Dialogue: 0,0:20:05.55,0:20:09.64,Main Dialog,,0000,0000,0000,,No, you didn't. You didn't, Kamui.
+Dialogue: 0,0:20:11.44,0:20:14.81,Main Dialog,,0000,0000,0000,,Shucks. I'm so lame...
+Dialogue: 0,0:20:14.81,0:20:17.08,Main Dialog,,0000,0000,0000,,To have you support me, Brother...
+Dialogue: 0,0:20:18.49,0:20:21.45,Main Dialog,,0000,0000,0000,,I'm fine. It should be the opposite.
+Dialogue: 0,0:20:22.59,0:20:25.41,Main Dialog,,0000,0000,0000,,I should actually support...
+Dialogue: 0,0:20:25.96,0:20:26.92,Main Dialog,,0000,0000,0000,,Kamui?
+Dialogue: 0,0:20:27.88,0:20:29.64,Main Dialog,,0000,0000,0000,,H-Huh?
+Dialogue: 0,0:20:29.64,0:20:31.83,Main Dialog,,0000,0000,0000,,My legs have no strength...
+Dialogue: 0,0:20:31.83,0:20:32.28,Main Dialog,,0000,0000,0000,,Kamui!
+Dialogue: 0,0:20:32.74,0:20:33.32,Main Dialog,,0000,0000,0000,,Kamui!
+Dialogue: 0,0:20:35.25,0:20:36.70,Main Dialog,,0000,0000,0000,,Are you okay, Kamui?
+Dialogue: 0,0:20:37.73,0:20:42.23,Main Dialog,,0000,0000,0000,,Sorry... um... Glasses?
+Dialogue: 0,0:20:42.23,0:20:43.86,Main Dialog,,0000,0000,0000,,The name is Shingo Komoi.
+Dialogue: 0,0:20:44.56,0:20:48.65,Main Dialog,,0000,0000,0000,,And Ishi... Wannabe?
+Dialogue: 0,0:20:48.65,0:20:51.34,Main Dialog,,0000,0000,0000,,What the heck is that?! It's Naoki Ishida!
+Dialogue: 0,0:20:53.67,0:20:57.38,Main Dialog,,0000,0000,0000,,Being Reversed must take \Na lot out of a person.
+Dialogue: 0,0:21:00.38,0:21:05.11,Main Dialog,,0000,0000,0000,,Feels like I ran 42.195 km \Nat my fastest pace. {Tempted to change it to "ran a marathon," but it's probably not quite as accurate.}
+Dialogue: 0,0:21:05.92,0:21:10.33,Main Dialog,,0000,0000,0000,,But I also feel refreshed somehow...
+Dialogue: 0,0:21:19.91,0:21:23.28,Main Dialog,,0000,0000,0000,,Sorry. You seem pretty tired, too, Naoki...
+Dialogue: 0,0:21:23.72,0:21:25.13,Main Dialog,,0000,0000,0000,,Don't worry 'bout it!
+Dialogue: 0,0:21:25.13,0:21:28.34,Main Dialog,,0000,0000,0000,,Any comrade of Sendou's\N is a comrade of ours.
+Dialogue: 0,0:21:28.85,0:21:30.69,Main Dialog,,0000,0000,0000,,Comrade, huh?
+Dialogue: 0,0:21:31.55,0:21:33.17,Main Dialog,,0000,0000,0000,,Comrade... Sounds good...
+Dialogue: 0,0:21:33.93,0:21:36.00,Main Dialog,,0000,0000,0000,,You're pretty slick for a middle schooler.
+Dialogue: 0,0:21:36.00,0:21:41.60,Main Dialog,,0000,0000,0000,,What's that?! 'Til just recently, you were \Nstill a middle school student yourself, Naoki!
+Dialogue: 0,0:21:39.55,0:21:40.87,Main Dialog,,0000,0000,0000,,{\an8}Restrain yourself!
+Dialogue: 0,0:21:41.60,0:21:43.07,Main Dialog,,0000,0000,0000,,Shut up, middle schooler!
+Dialogue: 0,0:21:43.07,0:21:44.62,Main Dialog,,0000,0000,0000,,Took you long enough.
+Dialogue: 0,0:21:50.93,0:21:55.85,Main Dialog,,0000,0000,0000,,But I guess the fact that you got this far \Nproves you're a tough nut to crack.
+Dialogue: 0,0:21:57.05,0:21:57.83,Main Dialog,,0000,0000,0000,,Miwa...
+Dialogue: 0,0:22:06.77,0:22:07.83,Main Dialog,,0000,0000,0000,,Kai...
+Dialogue: 0,0:23:56.14,0:24:00.62,Main Dialog,,0000,0000,0000,,Brother Aichi... Misaki... and, um...
+Dialogue: 0,0:24:00.62,0:24:04.75,Main Dialog,,0000,0000,0000,,Yeah, yeah! We're your merry \NMiyaji Academy comrades!
+Dialogue: 0,0:24:05.40,0:24:08.23,Main Dialog,,0000,0000,0000,,Sorry to make you fuss over me.
+Dialogue: 0,0:24:08.23,0:24:11.13,Main Dialog,,0000,0000,0000,,No worries, middle schooler. \NYou did your best.
+Dialogue: 0,0:24:11.13,0:24:15.76,Main Dialog,,0000,0000,0000,,Right. Kamui, I'm the one \Nwho needs to apologize.
+Dialogue: 0,0:24:15.76,0:24:17.76,Main Dialog,,0000,0000,0000,,After what happened in the \Nmiddle school division...
+Dialogue: 0,0:24:18.25,0:24:19.34,Main Dialog,,0000,0000,0000,,I'm sorry, everyone.
+Dialogue: 0,0:24:19.89,0:24:21.76,Main Dialog,,0000,0000,0000,,Next time: The Form of Friendship!
+Dialogue: 0,0:24:20.52,0:24:25.75,Signs,,0000,0000,0000,,The Form of Friendship
+Dialogue: 0,0:24:22.24,0:24:24.00,Main Dialog,,0000,0000,0000,,Kai! Takuto!

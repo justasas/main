@@ -1,0 +1,356 @@
+﻿1
+00:00:13,000 --> 00:00:16,000
+<font color="#7d7dff">[Seulgi]</font>
+<font color="#ffff00">Oh haessal nunbusin hangaron hyuil</font>
+<font color="#ffffff">It’s a sunny and relaxing holiday</font>
+
+2
+00:00:16,000 --> 00:00:19,000
+<font color="#7d7dff">[Seulgi]</font>
+<font color="#ffff00">Yeppeun saehayan wonpiseureul ipgo Oh Oh</font>
+<font color="#ffffff">I’m wearing my pretty, white dress</font>
+
+3
+00:00:19,000 --> 00:00:22,000
+<font color="#7d7dff">[Irene]</font>
+<font color="#ffff00">Nan jibeul naseotji kotnorae naoji</font>
+<font color="#ffffff">I left the house while humming</font>
+
+4
+00:00:24,500 --> 00:00:27,000
+<font color="#7d7dff">[Wendy]</font>
+<font color="#ffff00">Neon nareul barabwa neogseul neohgo tto bwa</font>
+<font color="#ffffff">You’re looking at me, staring at me</font>
+
+5
+00:00:27,000 --> 00:00:30,500
+<font color="#7d7dff">[Wendy]</font>
+<font color="#ffff00">Ni mameul sarojaba beorin geu sungan Oh</font>
+<font color="#ffffff">You’re looking at me, staring at me</font>
+
+6
+00:00:30,500 --> 00:00:33,000
+<font color="#7d7dff">[Yeri]</font>
+<font color="#ffff00">Tteollineun moksori ni mameun boksori</font>
+<font color="#ffffff">My trembling voice is like drums in your heart</font>
+
+7
+00:00:33,000 --> 00:00:36,000
+<font color="#7d7dff">[Joy]</font>
+<font color="#ffff00">Deo banjjagineun jungsoriga ulliji</font>
+<font color="#ffffff">The twinkling sound of a bell rings</font>
+
+8
+00:00:43,500 --> 00:00:46,500
+<font color="#ffff00">Juseyo dalkomhan geu mat Ice Cream Cake</font>
+<font color="#ffffff">Please give me that sweet taste, ice cream cake</font>
+
+9
+00:00:46,500 --> 00:00:49,500
+<font color="#ffff00">Teukbyeolhajin oneure oulineun maseuro</font>
+<font color="#ffffff">With a flavor that fits this special day</font>
+
+10
+00:00:49,500 --> 00:00:52,500
+<font color="#ffff00">Ibgae mudeun Ice Creame</font>
+<font color="#ffffff">The ice cream that’s on my mouth</font>
+
+11
+00:00:52,500 --> 00:00:55,500
+<font color="#ffff00">Ni gaseum dugeungeoryeo naege daga ogetjyo</font>
+<font color="#ffffff">Makes your heart pound and you’ll come to me</font>
+
+12
+00:00:55,500 --> 00:00:58,000
+<font color="#ffff00">It’s So Tasty </font>
+
+13
+00:00:58,000 --> 00:01:00,500
+<font color="#ffff00">Come And Chase Me</font>
+
+14
+00:01:00,500 --> 00:01:03,500
+<font color="#ffff00">Mot chamgesseo</font>
+<font color="#ffffff">I can’t hold it in </font>
+
+15
+00:01:03,500 --> 00:01:05,000
+<font color="#ffff00">I Scream, You Scream</font>
+
+16
+00:01:05,000 --> 00:01:06,000
+<font color="#ffff00">Gimme That, Gimme That Ice Cream</font>
+
+17
+00:01:06,000 --> 00:01:09,000
+<font color="#7d7dff">[Wendy]</font>
+<font color="#ffff00">Oh Vanilla Chocolate Honey With A Cherry On Top</font>
+
+18
+00:01:09,000 --> 00:01:12,000
+<font color="#7d7dff">[Wendy]</font>
+<font color="#ffff00">Maeil dayanghage boyeojulge neoegeman</font>
+<font color="#ffffff">I’ll show you different things every day, only to you</font>
+
+19
+00:01:12,000 --> 00:01:15,000
+<font color="#7d7dff">[Joy]</font>
+<font color="#ffff00">Mujigael geuryeodaeneun jeo bunsudae boda nan</font>
+<font color="#ffffff">More variety than the rainbow reflected in the fountain</font>
+
+20
+00:01:15,000 --> 00:01:18,000
+<font color="#7d7dff">[Joy]</font>
+<font color="#ffff00">Sarange geuryeonaeneun nege jom deo keullil geoya</font>
+<font color="#ffffff">I’ll be pulled even more by you, who draws out my love</font>
+
+21
+00:01:18,000 --> 00:01:20,000
+<font color="#7d7dff">[Seulgi]</font>
+<font color="#ffff00">Neon nareul derigo tteona eoseo tteona</font>
+<font color="#ffffff">Take me and go, hurry and go</font>
+
+22
+00:01:20,000 --> 00:01:23,000
+<font color="#7d7dff">[Seulgi]</font>
+<font color="#ffff00">Jogeuman seukuteoe taewobwa Oh nal</font>
+<font color="#ffffff">Put me on a small scooter</font>
+
+23
+00:01:23,000 --> 00:01:26,000
+<font color="#7d7dff">[Irene]</font>
+<font color="#ffff00">Uh ne heoril gamssaneun nae sone oneuri</font>
+<font color="#ffffff">My hands that wrap around your waist</font>
+
+24
+00:01:26,500 --> 00:01:29,000
+<font color="#7d7dff">[Yeri]</font>
+<font color="#ffff00">Da gado mami dugeundugeun georiji</font>
+<font color="#ffffff">Your heart will pound even after the day has passed</font>
+
+25
+00:01:34,000 --> 00:01:37,000
+<font color="#ffff00">Juseyeo dalkomhan geu mat Ice Cream Cake</font>
+<font color="#ffffff">Please give me that sweet taste, ice cream cake</font>
+
+26
+00:01:37,000 --> 00:01:40,000
+<font color="#ffff00">Teukbyeolhajin oneure oulineun maseuro</font>
+<font color="#ffffff">With a flavor that fits this special day</font>
+
+27
+00:01:40,000 --> 00:01:42,500
+<font color="#ffff00">Ibgae mudeun Ice Creame</font>
+<font color="#ffffff">The ice cream that’s on my mouth</font>
+
+28
+00:01:42,500 --> 00:01:45,500
+<font color="#ffff00">Ni gaseum dugeungeoryeo naege daga ogetjyo</font>
+<font color="#ffffff">Makes your heart pound and you’ll come to me</font>
+
+29
+00:01:45,500 --> 00:01:48,500
+<font color="#ffff00">It’s So Tasty</font>
+
+30
+00:01:48,500 --> 00:01:51,000
+<font color="#ffff00">Come And Chase Me</font>
+
+31
+00:01:51,000 --> 00:01:53,500
+<font color="#ffff00">Mot chamgesseo</font>
+<font color="#ffffff">I can’t hold it in </font>
+
+32
+00:01:53,500 --> 00:01:55,000
+<font color="#ffff00">I Scream, You Scream</font>
+
+33
+00:01:55,000 --> 00:01:57,000
+<font color="#ffff00">Gimme That, Gimme That Ice Cream</font>
+
+34
+00:01:57,000 --> 00:01:58,000
+<font color="#ffff00">I Scream, You Scream</font>
+
+35
+00:01:58,000 --> 00:01:59,500
+<font color="#ffff00">Gimme That, Gimme That Ice Cream</font>
+
+36
+00:01:59,500 --> 00:02:00,500
+<font color="#ffff00">I Scream, You Scream</font>
+
+37
+00:02:00,500 --> 00:02:02,000
+<font color="#ffff00">Gimme That, Gimme That</font>
+
+38
+00:02:02,000 --> 00:02:04,500
+<font color="#7d7dff">[Irene]</font>
+<font color="#ffff00">Pops nae ibane noga naerineun jung</font>
+<font color="#ffffff">Pops, it’s melting in my mouth, Putting so much in</font>
+
+39
+00:02:04,500 --> 00:02:07,500
+<font color="#7d7dff">[Irene]</font>
+<font color="#ffff00">Jantteuk neoheo nae ibane noga naerineun jul</font>
+<font color="#ffffff">That it’ll feel like my mouth is melting down</font>
+
+40
+00:02:07,500 --> 00:02:10,500
+<font color="#7d7dff">[Irene]</font>
+<font color="#ffff00">Baby Boy dareun namjadeureun amogeotdo molla</font>
+<font color="#ffffff">Baby boy, other guys don’t know anything,</font>
+
+41
+00:02:10,500 --> 00:02:13,500
+<font color="#7d7dff">[Irene]</font>
+<font color="#ffff00">You’re So Fine haeseo an twineun otman golla</font>
+<font color="#ffffff">You’re so fine so only wear clothes That don’t make you stand out</font>
+
+42
+00:02:13,500 --> 00:02:14,500
+<font color="#7d7dff">[Joy]</font>
+<font color="#ffff00">Never Get Me Wrong My Boo</font>
+<font color="#ffffff">Never get me wrong my boo,</font>
+
+43
+00:02:14,500 --> 00:02:16,000
+<font color="#7d7dff">[Joy]</font>
+<font color="#ffff00">I Have No gwansim In That Bag</font>
+<font color="#ffffff">I have no interest in that bag</font>
+
+44
+00:02:16,000 --> 00:02:18,500
+<font color="#7d7dff">[Joy]</font>
+<font color="#ffff00">Jiruhan wolhwabuteo sumokkkaji Man I Wanna Pass</font>
+<font color="#ffffff">From boring Mon-Wed, Thurs Man I wanna pass</font>
+
+45
+00:02:18,500 --> 00:02:21,000
+<font color="#7d7dff">[Joy]</font>
+<font color="#ffff00">Nal boneun ne siseone See Some Good Vibe</font>
+<font color="#ffffff">Your look toward me, I see some good vibes</font>
+
+46
+00:02:21,000 --> 00:02:22,500
+<font color="#7d7dff">[Joy]</font>
+<font color="#ffff00">Gibeun joheun neukkimiya</font>
+<font color="#ffffff">when my eyes meet yours</font>
+
+47
+00:02:22,500 --> 00:02:24,500
+<font color="#7d7dff">[Joy]</font>
+<font color="#ffff00">Neowa nuni majuchineun sungan</font>
+<font color="#ffffff">It’s a good feeling</font>
+
+48
+00:02:24,500 --> 00:02:25,750
+<font color="#ffff00">Gimme That, Gimme That, Gimme That</font>
+
+49
+00:02:25,750 --> 00:02:26,750
+<font color="#ffff00">Gimme That, Gimme That, Gimme That</font>
+
+50
+00:02:26,750 --> 00:02:27,500
+<font color="#ffff00">Ice Cream</font>
+
+51
+00:02:27,500 --> 00:02:30,000
+<font color="#ffff00">Eoseoyo budeureoun geu mat Ice Cream Cake</font>
+<font color="#ffffff">Hurry and give me that soft taste, ice cream cake</font>
+
+52
+00:02:30,000 --> 00:02:33,000
+<font color="#ffff00">Ojik neol gidarimyeo chotbureul kyeodulgeyo</font>
+<font color="#ffffff">I’ll light the candles as I only wait for you</font>
+
+53
+00:02:33,000 --> 00:02:35,500
+<font color="#ffff00">Ttaseuhan mame Ice Cream Cake</font>
+<font color="#ffffff">In my warm heart, ice cream cake</font>
+
+54
+00:02:35,500 --> 00:02:38,500
+<font color="#ffff00">Nogabeorigi jeone naege imachwojwoyo</font>
+<font color="#ffffff">Kiss me before it melts</font>
+
+55
+00:02:38,500 --> 00:02:41,500
+<font color="#ffff00">It’s So Tasty</font>
+
+56
+00:02:41,500 --> 00:02:44,000
+<font color="#ffff00">Come And Chase Me</font>
+
+57
+00:02:44,000 --> 00:02:47,000
+<font color="#ffff00">Ni ibsuri</font>
+<font color="#ffffff">I’m closing my eyes</font>
+
+58
+00:02:47,000 --> 00:02:50,000
+<font color="#ffff00">Dalkomhage nogayo naneun nuneul gamayo</font>
+<font color="#ffffff">Your lips are sweetly melting, </font>
+
+59
+00:02:50,000 --> 00:02:52,000
+<font color="#ffff00">Dalkomhan geu mat Ice Cream Cake</font>
+<font color="#ffffff">That sweet taste, ice cream cake</font>
+
+60
+00:02:52,000 --> 00:02:55,500
+<font color="#ffff00">Teukbyeolhajin oneure oulineun maseuro</font>
+<font color="#ffffff">With a flavor that fits this special day</font>
+
+61
+00:02:55,500 --> 00:02:58,000
+<font color="#ffff00">Ibgae mudeun Ice Creame</font>
+<font color="#ffffff">The ice cream that’s on my mouth</font>
+
+62
+00:02:58,000 --> 00:03:01,000
+<font color="#ffff00">Ni gaseum dugeungeoryeo naege daga ogetjyo</font>
+<font color="#ffffff">Makes your heart pound and you’ll come to me</font>
+
+63
+00:03:01,000 --> 00:03:03,500
+<font color="#ffff00">It’s So Tasty</font>
+
+64
+00:03:03,500 --> 00:03:06,500
+<font color="#ffff00">Come And Chase Me</font>
+
+65
+00:03:06,500 --> 00:03:09,000
+<font color="#ffff00">Mot chamgesseo</font>
+
+67
+00:03:09,000 --> 00:03:10,500
+<font color="#ffff00">I Scream, You Scream</font>
+
+68
+00:03:10,500 --> 00:03:12,000
+<font color="#ffff00">Gimme That, Gimme That Ice Cream</font>
+
+69
+00:03:12,000 --> 00:03:13,500
+<font color="#ffff00">I Scream, You Scream</font>
+
+70
+00:03:13,500 --> 00:03:15,000
+<font color="#ffff00">Gimme That, Gimme That Ice Cream</font>
+
+71
+00:03:15,000 --> 00:03:16,000
+<font color="#ffff00">I Scream, You Scream</font>
+
+72
+00:03:16,000 --> 00:03:18,000
+<font color="#ffff00">Gimme that, Gimme That, Your Lips</font>
+
+73
+00:03:20,000 --> 00:03:22,720
+Shrine

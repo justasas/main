@@ -1,0 +1,175 @@
+1
+00:12:19,073 --> 00:12:21,242
+"Funds transferred."
+
+2
+00:16:54,056 --> 00:16:57,267
+"Mamuro was being followed."
+
+3
+00:25:06,840 --> 00:25:08,258
+"Maneuver Area 6"
+
+4
+00:37:53,814 --> 00:37:54,398
+"Special agent" "The LTC is innocent"
+
+5
+00:38:22,134 --> 00:38:26,055
+"Special agent" "The LTC is innocent"
+
+6
+00:48:15,102 --> 00:48:17,020
+"The LTC is innocent"
+
+7
+00:53:04,391 --> 00:53:10,105
+<i>(mem mem mem mem mem)</i>
+
+8
+00:53:10,313 --> 00:53:16,570
+<i>(memories memories memories)</i>
+
+9
+00:53:16,778 --> 00:53:22,117
+<i>(memories memories memories memories)</i>
+
+10
+00:53:22,325 --> 00:53:27,831
+<i>(my memories my memories my memories)</i>
+
+11
+00:53:28,039 --> 00:53:41,303
+<i>Fragmented memories</i>
+
+12
+00:53:41,511 --> 00:53:50,061
+<i>Here flowers (here birds); this is the sky</i>
+
+13
+00:53:51,938 --> 00:53:58,403
+<i>Clouds, grass, the house I grew up in</i>
+
+14
+00:53:58,612 --> 00:54:06,661
+<i>I search (and search) through the photos</i>
+
+15
+00:54:06,870 --> 00:54:14,628
+<i>But I'm nowhere to be found</i>
+
+16
+00:54:14,836 --> 00:54:23,637
+<i>Why am I not there? Why am I not there?
+Why am I not there? Why am I not there?</i>
+
+17
+00:54:23,845 --> 00:54:28,141
+<i>Why am I not there?
+Why am I not there?</i>
+
+18
+00:54:28,350 --> 00:54:36,775
+<i>Why am I not there? Why am I not there?
+Why am I not there? Why am I not there?</i>
+
+19
+00:54:36,983 --> 00:54:50,205
+<i>Fragmented beautiful memories</i>
+
+20
+00:54:50,413 --> 00:55:00,799
+<i>Look right (look left); where is this (place)?</i>
+
+21
+00:55:01,007 --> 00:55:07,555
+<i>Buildings, streets, hustle and bustle</i>
+
+22
+00:55:07,764 --> 00:55:15,730
+<i>I walk (and walk) through it all</i>
+
+23
+00:55:15,939 --> 00:55:23,571
+<i>But I'm nowhere to be found</i>
+
+24
+00:55:23,780 --> 00:55:32,580
+<i>The world, the world, the world, the world</i>
+
+25
+00:55:32,789 --> 00:55:37,085
+<i>The world, the world</i>
+
+26
+00:55:37,293 --> 00:55:44,217
+<i>The world, the world, the world...</i>
+
+27
+00:55:44,426 --> 00:55:50,265
+<i>(Just) keeps on going</i>
+
+28
+00:55:50,473 --> 00:55:56,354
+<i>Sweeping (skies)</i>
+
+29
+00:55:56,563 --> 00:56:02,318
+<i>Vibrant (greenery)</i>
+
+30
+00:56:02,527 --> 00:56:08,366
+<i>Mountains and (seas and)</i>
+
+31
+00:56:08,575 --> 00:56:14,330
+<i>The wind (from the past)</i>
+
+32
+00:56:14,539 --> 00:56:20,211
+<i>To the future (blows)</i>
+
+33
+00:56:20,420 --> 00:56:26,259
+<i>Leaving me (behind)</i>
+
+34
+00:56:26,468 --> 00:56:32,140
+<i>Deserted here (all alone)</i>
+
+35
+00:56:32,348 --> 00:56:35,143
+<i>Whoosh</i>
+
+36
+00:56:40,273 --> 00:56:46,446
+<i>(me me me me)</i>
+
+37
+00:56:46,654 --> 00:56:52,118
+<i>(me me why me why me)</i>
+
+38
+00:56:52,327 --> 00:56:56,623
+<i>Why am I not there?
+Why am I not there?</i>
+
+39
+00:56:56,831 --> 00:57:05,632
+<i>Why am I not there? Why am I not there?
+Why am I not there? Why am I not there?</i>
+
+40
+00:57:05,840 --> 00:57:10,136
+<i>Why am I not there?
+Why am I not there?</i>
+
+41
+00:57:10,345 --> 00:57:19,062
+<i>Why am I not there? Why am I not there?
+Why am I not there? Why am I not there?</i>
+
+42
+00:57:19,270 --> 00:57:22,065
+<i>Why am I not there?</i>
+

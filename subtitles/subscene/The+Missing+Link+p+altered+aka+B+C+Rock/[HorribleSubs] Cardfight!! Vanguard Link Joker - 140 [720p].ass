@@ -1,0 +1,296 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Main Dialog,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H010000FF,&H00311F0E,&H806F5135,0,0,0,0,100,120,0,0,1,2,1,2,10,10,15,1
+Style: Signs,A-OTF Maru Folk Pro H,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,20,20,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:15.88,0:00:18.83,Main Dialog,Spoken,0000,0000,0000,,Why do you have bags under your eyes?
+Dialogue: 0,0:00:18.83,0:00:22.37,Main Dialog,Spoken,0000,0000,0000,,I stayed up all night standing.
+Dialogue: 0,0:00:22.37,0:00:26.56,Main Dialog,Spoken,0000,0000,0000,,Sorry, Maki. Address everyone for me.
+Dialogue: 0,0:00:29.99,0:00:32.71,Main Dialog,Spoken,0000,0000,0000,,Good morning, everyone.
+Dialogue: 0,0:00:32.71,0:00:34.78,Main Dialog,Spoken,0000,0000,0000,,Good morning...
+Dialogue: 0,0:00:34.78,0:00:37.55,Main Dialog,Spoken,0000,0000,0000,,Did you all get a good night's sleep?
+Dialogue: 0,0:00:38.25,0:00:42.46,Main Dialog,Spoken,0000,0000,0000,,For the second day of our camp, \Ncooking outdoors is on the agenda.
+Dialogue: 0,0:00:42.46,0:00:44.38,Main Dialog,Spoken,0000,0000,0000,,Cooking outdoors?
+Dialogue: 0,0:00:44.38,0:00:46.81,Main Dialog,Spoken,0000,0000,0000,,As in, we have to do the cooking.
+Dialogue: 0,0:00:47.15,0:00:50.24,Main Dialog,Spoken,0000,0000,0000,,We're having fine weather today too. Great!
+Dialogue: 0,0:00:50.24,0:00:53.95,Main Dialog,Spoken,0000,0000,0000,,I'm a woman who brings out the sun \Nwherever I go. So I beat you, Misaki!
+Dialogue: 0,0:00:53.95,0:00:56.72,Main Dialog,Spoken,0000,0000,0000,,What are you saying? I bring out the rain?
+Dialogue: 0,0:00:58.11,0:01:01.20,Main Dialog,Spoken,0000,0000,0000,,Huh? Where's Kourin?
+Dialogue: 0,0:01:01.60,0:01:06.13,Main Dialog,Spoken,0000,0000,0000,,Since the weather is nice, \Nwe'll have a campfire this evening.
+Dialogue: 0,0:01:06.13,0:01:08.96,Main Dialog,Spoken,0000,0000,0000,,We'll probably be able \Nto see the Milky Way too.
+Dialogue: 0,0:01:09.41,0:01:15.34,Main Dialog,Spoken,0000,0000,0000,,Everyone, on this second day, please keep in \Ntouch with nature in a meaningful way.
+Dialogue: 0,0:02:48.93,0:02:54.03,Main Dialog,Spoken,0000,0000,0000,,Apparently, Kourin doesn't feel well, \Nso she's staying in bed in the room.
+Dialogue: 0,0:02:54.03,0:02:57.15,Main Dialog,Spoken,0000,0000,0000,,I see. That's too bad.
+Dialogue: 0,0:02:57.87,0:03:01.66,Main Dialog,Spoken,0000,0000,0000,,Okay, please prepare your group's meals.
+Dialogue: 0,0:03:03.43,0:03:05.24,Main Dialog,Spoken,0000,0000,0000,,These are the results of the lottery.
+Dialogue: 0,0:03:05.86,0:03:07.81,Main Dialog,Spoken,0000,0000,0000,,Akari will make the salad.
+Dialogue: 0,0:03:07.81,0:03:09.17,Main Dialog,Spoken,0000,0000,0000,,Okay!
+Dialogue: 0,0:03:09.17,0:03:12.60,Main Dialog,Spoken,0000,0000,0000,,Shingo and Naoki are in charge \Nof the pork miso soup.
+Dialogue: 0,0:03:12.60,0:03:13.82,Main Dialog,Spoken,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:03:13.82,0:03:17.13,Main Dialog,Spoken,0000,0000,0000,,It'll be a showdown to see which \Nof us can make the tastier soup!
+Dialogue: 0,0:03:17.63,0:03:21.31,Main Dialog,Spoken,0000,0000,0000,,And then Misaki and I \Nwill make the rice balls.
+Dialogue: 0,0:03:21.31,0:03:22.28,Main Dialog,Spoken,0000,0000,0000,,Roger.
+Dialogue: 0,0:03:36.66,0:03:40.40,Main Dialog,Spoken,0000,0000,0000,,After we turn it upside down \Nand steam it, it'll be ready.
+Dialogue: 0,0:03:40.78,0:03:42.53,Main Dialog,Spoken,0000,0000,0000,,Oof!
+Dialogue: 0,0:03:45.42,0:03:49.46,Main Dialog,Spoken,0000,0000,0000,,It's supposed to be pork miso soup! \NWhat's the point of stir-frying?
+Dialogue: 0,0:03:49.46,0:03:52.58,Main Dialog,Spoken,0000,0000,0000,,I'm stir-fryin' it 'cause that makes it tastier!
+Dialogue: 0,0:03:52.58,0:03:54.83,Main Dialog,Spoken,0000,0000,0000,,That's not what the recipe calls for.
+Dialogue: 0,0:03:54.83,0:03:56.65,Main Dialog,Spoken,0000,0000,0000,,Well, you'll see.
+Dialogue: 0,0:03:58.10,0:04:01.02,Main Dialog,Spoken,0000,0000,0000,,Now I just need to dish it out.
+Dialogue: 0,0:04:03.72,0:04:08.52,Main Dialog,Spoken,0000,0000,0000,,You use your bottom hand for pressure, \Nkeeping your top hand for support only.
+Dialogue: 0,0:04:08.52,0:04:13.72,Main Dialog,Spoken,0000,0000,0000,,Maintain a good rhythm, using as few \Ngrips as possible to complete it.
+Dialogue: 0,0:04:15.81,0:04:17.95,Main Dialog,Spoken,0000,0000,0000,,Shin just taught me how to do it.
+Dialogue: 0,0:04:19.88,0:04:22.19,Main Dialog,Spoken,0000,0000,0000,,The top hand is only used for support...
+Dialogue: 0,0:04:22.64,0:04:24.05,Main Dialog,Spoken,0000,0000,0000,,I did it!
+Dialogue: 0,0:04:29.50,0:04:33.58,Main Dialog,Spoken,0000,0000,0000,,Well, it looks like everyone has \Nfinished their preparations.
+Dialogue: 0,0:04:34.21,0:04:40.73,Main Dialog,Spoken,0000,0000,0000,,Out of respect for the ingredients, even if \Nyou had a cooking failure, let's eat heartily.
+Dialogue: 0,0:04:40.73,0:04:41.84,Main Dialog,Spoken,0000,0000,0000,,Okay!
+Dialogue: 0,0:04:42.49,0:04:44.59,Main Dialog,Spoken,0000,0000,0000,,Thank you for the food!
+Dialogue: 0,0:04:47.66,0:04:48.60,Main Dialog,Spoken,0000,0000,0000,,Delicious!
+Dialogue: 0,0:04:49.11,0:04:51.02,Main Dialog,Spoken,0000,0000,0000,,It has a nice savory smell.
+Dialogue: 0,0:04:51.38,0:04:54.15,Main Dialog,Spoken,0000,0000,0000,,H-How is mine?
+Dialogue: 0,0:04:55.31,0:04:58.10,Main Dialog,Spoken,0000,0000,0000,,It's simple, but it has a gentle flavor.
+Dialogue: 0,0:04:58.10,0:04:59.56,Main Dialog,Spoken,0000,0000,0000,,Thank you!
+Dialogue: 0,0:04:59.56,0:05:02.28,Main Dialog,Spoken,0000,0000,0000,,I created a gentle flavor!
+Dialogue: 0,0:05:05.45,0:05:08.03,Main Dialog,Spoken,0000,0000,0000,,Your soup is good too, Shingo.
+Dialogue: 0,0:05:08.03,0:05:12.87,Main Dialog,Spoken,0000,0000,0000,,Yes! That's two to two, a tie!
+Dialogue: 0,0:05:13.96,0:05:16.30,Main Dialog,Spoken,0000,0000,0000,,I'm the one who got Aichi's point!
+Dialogue: 0,0:05:16.30,0:05:18.78,Main Dialog,Spoken,0000,0000,0000,,Wrong! I did!
+Dialogue: 0,0:05:22.18,0:05:25.39,Main Dialog,Spoken,0000,0000,0000,,I wanted to eat with Kourin too.
+Dialogue: 0,0:05:25.39,0:05:29.61,Main Dialog,Spoken,0000,0000,0000,,Let's hold another Cardfight camp \Nand cook together then, too.
+Dialogue: 0,0:05:29.61,0:05:30.68,Main Dialog,Spoken,0000,0000,0000,,Sure!
+Dialogue: 0,0:05:30.68,0:05:35.68,Signs,Sign,0000,0000,0000,,Under the Starry Sky...
+Dialogue: 0,0:05:39.88,0:05:44.93,Main Dialog,Spoken,0000,0000,0000,,Everyone, please wear your uniforms \Nfor the campfire this evening.
+Dialogue: 0,0:05:46.08,0:05:49.31,Main Dialog,Spoken,0000,0000,0000,,The time has come at last, Suwabe.
+Dialogue: 0,0:05:49.31,0:05:54.75,Main Dialog,Spoken,0000,0000,0000,,Yes, President. Let's dismantle the \NCardfight Club with our own hands!
+Dialogue: 0,0:05:57.90,0:06:00.38,Main Dialog,Spoken,0000,0000,0000,,Like summer moths to a flame...
+Dialogue: 0,0:06:01.00,0:06:03.96,Main Dialog,Spoken,0000,0000,0000,,I guard with Seiobo and Castor!
+Dialogue: 0,0:06:04.50,0:06:10.14,Main Dialog,Spoken,0000,0000,0000,,He should have intercepted. Instead, \Nhe's wasting cards in his hand.
+Dialogue: 0,0:06:10.42,0:06:14.49,Main Dialog,Spoken,0000,0000,0000,,We're more advanced than they are.
+Dialogue: 0,0:06:14.49,0:06:17.31,Main Dialog,Spoken,0000,0000,0000,,Even though we've only had one night's \Nworth of intensive training.
+Dialogue: 0,0:06:17.31,0:06:18.42,Main Dialog,Spoken,0000,0000,0000,,You see?
+Dialogue: 0,0:06:18.42,0:06:23.26,Main Dialog,Spoken,0000,0000,0000,,For global citizens such as us, card games \Nare simple if we just turn our attention to them.
+Dialogue: 0,0:06:23.26,0:06:24.47,Main Dialog,Spoken,0000,0000,0000,,All right!
+Dialogue: 0,0:06:25.91,0:06:28.86,Main Dialog,Spoken,0000,0000,0000,,Your temporary confidence ends here!
+Dialogue: 0,0:06:28.86,0:06:31.18,Main Dialog,Spoken,0000,0000,0000,,This is my break ride!
+Dialogue: 0,0:06:31.18,0:06:32.94,Main Dialog,Spoken,0000,0000,0000,,It's break time!
+Dialogue: 0,0:06:32.94,0:06:34.10,Main Dialog,Spoken,0000,0000,0000,,Wha...?!
+Dialogue: 0,0:06:34.10,0:06:38.29,Main Dialog,Spoken,0000,0000,0000,,You used it before me! Darn you, Ishida!
+Dialogue: 0,0:06:38.88,0:06:43.39,Main Dialog,Spoken,0000,0000,0000,,Hey, Suwabe. Exactly what kind \Nof skill is "break time"?
+Dialogue: 0,0:06:43.39,0:06:45.41,Main Dialog,Spoken,0000,0000,0000,,I-I don't know.
+Dialogue: 0,0:06:45.86,0:06:51.96,Main Dialog,Spoken,0000,0000,0000,,Maybe you say "break time" to call \Nfor a brief rest during a long fight?
+Dialogue: 0,0:06:51.96,0:06:55.17,Main Dialog,Spoken,0000,0000,0000,,But it seems there's an \Nadvantage to using it first!
+Dialogue: 0,0:06:55.17,0:06:57.56,Main Dialog,Spoken,0000,0000,0000,,I wonder what it is...
+Dialogue: 0,0:06:59.24,0:07:02.26,Main Dialog,Spoken,0000,0000,0000,,We'll just have to withdraw for now.
+Dialogue: 0,0:07:02.26,0:07:07.47,Main Dialog,Spoken,0000,0000,0000,,When we do confront them \Ndirectly, we mustn't fail!
+Dialogue: 0,0:07:07.47,0:07:12.57,Main Dialog,Spoken,0000,0000,0000,,This mysterious skill, "break time"... \Nit confounds me!
+Dialogue: 0,0:07:13.38,0:07:14.69,Main Dialog,Spoken,0000,0000,0000,,Find out what it means!
+Dialogue: 0,0:07:14.69,0:07:15.83,Main Dialog,Spoken,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:07:27.23,0:07:29.84,Main Dialog,Spoken,0000,0000,0000,,All right! That makes three wins!
+Dialogue: 0,0:07:29.84,0:07:33.88,Main Dialog,Spoken,0000,0000,0000,,Listen! The correct way to say \Nit is "three wins and two losses"!
+Dialogue: 0,0:07:33.88,0:07:37.41,Main Dialog,Spoken,0000,0000,0000,,Either way, I got one more win than you!
+Dialogue: 0,0:07:39.41,0:07:41.74,Main Dialog,Spoken,0000,0000,0000,,Huh? Just you two?
+Dialogue: 0,0:07:41.74,0:07:43.90,Main Dialog,Spoken,0000,0000,0000,,Aichi isn't here.
+Dialogue: 0,0:07:43.90,0:07:48.65,Main Dialog,Spoken,0000,0000,0000,,Aichi went with Kourin over \Nthat way a little while ago.
+Dialogue: 0,0:07:49.29,0:07:52.70,Main Dialog,Spoken,0000,0000,0000,,Over that way...\N By the legendary tree!
+Dialogue: 0,0:07:53.29,0:07:55.24,Main Dialog,Spoken,0000,0000,0000,,I can't just stand around here!
+Dialogue: 0,0:07:55.24,0:07:55.92,Main Dialog,Spoken,0000,0000,0000,,Akari?
+Dialogue: 0,0:07:56.48,0:07:58.84,Main Dialog,Spoken,0000,0000,0000,,Come on, let's go, Misaki!
+Dialogue: 0,0:07:58.84,0:08:01.66,Main Dialog,Spoken,0000,0000,0000,,I'm not gonna miss that legendary moment!
+Dialogue: 0,0:08:03.21,0:08:05.67,Main Dialog,Spoken,0000,0000,0000,,Legendary moment...
+Dialogue: 0,0:08:06.23,0:08:08.37,Main Dialog,Spoken,0000,0000,0000,,H-Hey, Akari!
+Dialogue: 0,0:08:15.67,0:08:17.93,Main Dialog,Spoken,0000,0000,0000,,U-Um...
+Dialogue: 0,0:08:20.30,0:08:23.22,Main Dialog,Spoken,0000,0000,0000,,Do you feel better now?
+Dialogue: 0,0:08:24.94,0:08:29.03,Main Dialog,Spoken,0000,0000,0000,,We all cooked together this afternoon.
+Dialogue: 0,0:08:29.03,0:08:32.19,Main Dialog,Spoken,0000,0000,0000,,I'd like to do that sometime \Nwith you too, Kourin.
+Dialogue: 0,0:08:33.11,0:08:34.45,Main Dialog,Spoken,0000,0000,0000,,Oh?
+Dialogue: 0,0:08:38.86,0:08:41.20,Main Dialog,Spoken,0000,0000,0000,,The stars are really pretty, aren't they?
+Dialogue: 0,0:08:41.84,0:08:47.07,Main Dialog,Spoken,0000,0000,0000,,Without the lights of the city, \Nthe Milky Way looks so beautiful.
+Dialogue: 0,0:08:49.31,0:08:51.51,Main Dialog,Spoken,0000,0000,0000,,I wonder which constellation that is.
+Dialogue: 0,0:08:56.15,0:08:57.97,Main Dialog,Spoken,0000,0000,0000,,Ah! A shooting star!
+Dialogue: 0,0:08:59.68,0:09:02.60,Main Dialog,Spoken,0000,0000,0000,,What did you wish for, Kourin?
+Dialogue: 0,0:09:04.17,0:09:09.47,Main Dialog,Spoken,0000,0000,0000,,I wished that all of us could go to \Nthe National High School Championship.
+Dialogue: 0,0:09:13.13,0:09:16.07,Main Dialog,Spoken,0000,0000,0000,,Let's win together for sure!
+Dialogue: 0,0:09:23.90,0:09:25.02,Main Dialog,Spoken,0000,0000,0000,,Hey, Akari!
+Dialogue: 0,0:09:25.02,0:09:27.05,Main Dialog,Spoken,0000,0000,0000,,Shhh, quiet!
+Dialogue: 0,0:09:27.05,0:09:30.68,Main Dialog,Spoken,0000,0000,0000,,I was right, those two are \Ngoing over by that tree!
+Dialogue: 0,0:09:30.68,0:09:36.68,Main Dialog,Spoken,0000,0000,0000,,I've got it! This is what \NKourin has been brooding over!
+Dialogue: 0,0:09:41.96,0:09:44.19,Main Dialog,Spoken,0000,0000,0000,,Come on, Akari. Let's go back.
+Dialogue: 0,0:09:44.19,0:09:48.33,Main Dialog,Spoken,0000,0000,0000,,What are you talking about?! \NAren't you curious?
+Dialogue: 0,0:09:48.33,0:09:51.16,Main Dialog,Spoken,0000,0000,0000,,I sure am! And it should be interesting!
+Dialogue: 0,0:09:51.16,0:09:52.97,Main Dialog,Spoken,0000,0000,0000,,Actually, I think...
+Dialogue: 0,0:09:52.97,0:09:57.14,Main Dialog,Spoken,0000,0000,0000,,Well, it's not like you'd leave me \Nalone in a place like this!
+Dialogue: 0,0:09:57.14,0:09:59.25,Main Dialog,Spoken,0000,0000,0000,,Right, Misaki?
+Dialogue: 0,0:10:08.88,0:10:09.92,Main Dialog,Spoken,0000,0000,0000,,This tree.
+Dialogue: 0,0:10:16.79,0:10:19.22,Main Dialog,Spoken,0000,0000,0000,,I can hear its voice.
+Dialogue: 0,0:10:19.97,0:10:22.43,Main Dialog,Spoken,0000,0000,0000,,It echoes in my heart.
+Dialogue: 0,0:10:22.86,0:10:25.89,Main Dialog,Spoken,0000,0000,0000,,Please, lend me your power.
+Dialogue: 0,0:10:27.34,0:10:29.14,Main Dialog,Spoken,0000,0000,0000,,Kourin?
+Dialogue: 0,0:10:38.24,0:10:40.28,Main Dialog,Spoken,0000,0000,0000,,Um... Aichi...
+Dialogue: 0,0:10:40.65,0:10:42.03,Main Dialog,Spoken,0000,0000,0000,,Yes?
+Dialogue: 0,0:11:09.14,0:11:12.81,Main Dialog,Spoken,0000,0000,0000,,I want you to fight me.
+Dialogue: 0,0:11:16.19,0:11:21.57,Main Dialog,Spoken,0000,0000,0000,,I want to have a serious showdown \Nwith you under this legendary tree.
+Dialogue: 0,0:11:24.71,0:11:28.05,Main Dialog,Spoken,0000,0000,0000,,Kourin saw yesterday's fight too...
+Dialogue: 0,0:11:31.70,0:11:35.09,Main Dialog,Spoken,0000,0000,0000,,Understood. I'm honored by your request.
+Dialogue: 0,0:11:35.65,0:11:38.09,Main Dialog,Spoken,0000,0000,0000,,Jeez! Just a fight?!
+Dialogue: 0,0:11:41.35,0:11:44.18,Main Dialog,Spoken,0000,0000,0000,,Boy, you guys and your fights...
+Dialogue: 0,0:11:44.18,0:11:46.93,Main Dialog,Spoken,0000,0000,0000,,Even all the way out here...
+Dialogue: 0,0:11:48.48,0:11:50.02,Main Dialog,Spoken,0000,0000,0000,,I'm going back.
+Dialogue: 0,0:11:50.87,0:11:52.28,Main Dialog,Spoken,0000,0000,0000,,I'm going to stay and watch.
+Dialogue: 0,0:11:53.44,0:11:56.50,Main Dialog,Spoken,0000,0000,0000,,Something about this fight... bothers me.
+Dialogue: 0,0:12:03.38,0:12:07.28,Main Dialog,Spoken,0000,0000,0000,,Aichi. After this fight is over...
+Dialogue: 0,0:12:07.28,0:12:09.75,Main Dialog,Spoken,0000,0000,0000,,...you'll be mine.
+Dialogue: 0,0:12:11.48,0:12:13.43,Main Dialog,Spoken,0000,0000,0000,,Stand up, Vanguard!
+Dialogue: 0,0:12:14.63,0:12:18.53,Main Dialog,Spoken,0000,0000,0000,,I ride Stinging Jewel Knight, Shellie!
+Dialogue: 0,0:12:18.53,0:12:20.76,Main Dialog,Spoken,0000,0000,0000,,I ride Future Liberator, Llew!
+Dialogue: 0,0:12:27.86,0:12:30.94,Main Dialog,Spoken,0000,0000,0000,,I ride Dogmatize Jewel Knight, Sybill!
+Dialogue: 0,0:12:30.94,0:12:32.27,Main Dialog,Spoken,0000,0000,0000,,And then I call!
+Dialogue: 0,0:12:32.74,0:12:36.63,Main Dialog,Spoken,0000,0000,0000,,Kourin... I sense even greater \Ndetermination in her than usual.
+Dialogue: 0,0:12:42.92,0:12:45.25,Main Dialog,Spoken,0000,0000,0000,,Stand up, my avatar!
+Dialogue: 0,0:12:45.25,0:12:49.35,Main Dialog,Spoken,0000,0000,0000,,I ride Blaster Blade Liberator!
+Dialogue: 0,0:12:57.36,0:12:58.67,Main Dialog,Spoken,0000,0000,0000,,I retire Tracie!
+Dialogue: 0,0:13:01.55,0:13:02.67,Main Dialog,Spoken,0000,0000,0000,,Call!
+Dialogue: 0,0:13:03.28,0:13:04.55,Main Dialog,Spoken,0000,0000,0000,,Marron attacks!
+Dialogue: 0,0:13:05.12,0:13:06.05,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:13:06.55,0:13:08.02,Main Dialog,Spoken,0000,0000,0000,,Blaster Blade!
+Dialogue: 0,0:13:08.58,0:13:09.85,Main Dialog,Spoken,0000,0000,0000,,Drive check!
+Dialogue: 0,0:13:15.73,0:13:17.35,Main Dialog,Spoken,0000,0000,0000,,Damage check.
+Dialogue: 0,0:13:19.32,0:13:20.52,Main Dialog,Spoken,0000,0000,0000,,Draw trigger.
+Dialogue: 0,0:13:24.26,0:13:25.11,Main Dialog,Spoken,0000,0000,0000,,Phallon!
+Dialogue: 0,0:13:25.39,0:13:26.45,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:13:30.89,0:13:33.87,Main Dialog,Spoken,0000,0000,0000,,Hey. What's going on there now?
+Dialogue: 0,0:13:34.32,0:13:38.15,Main Dialog,Spoken,0000,0000,0000,,The damage is 3 to 4, \Nwith Kourin on the defensive.
+Dialogue: 0,0:13:38.79,0:13:39.63,Main Dialog,Spoken,0000,0000,0000,,But...
+Dialogue: 0,0:13:40.63,0:13:42.77,Main Dialog,Spoken,0000,0000,0000,,...it's too early to say who's going to win.
+Dialogue: 0,0:13:44.92,0:13:46.13,Main Dialog,Spoken,0000,0000,0000,,Ride!
+Dialogue: 0,0:13:46.93,0:13:50.23,Main Dialog,Spoken,0000,0000,0000,,Pure Heart Jewel Knight, Ashlei!
+Dialogue: 0,0:13:53.80,0:13:56.66,Main Dialog,Spoken,0000,0000,0000,,But this isn't my trump card...
+Dialogue: 0,0:13:57.41,0:13:59.46,Main Dialog,Spoken,0000,0000,0000,,When that card comes...
+Dialogue: 0,0:14:00.19,0:14:03.73,Main Dialog,Spoken,0000,0000,0000,,That's when our destiny will be decided.
+Dialogue: 0,0:14:04.38,0:14:06.36,Main Dialog,Spoken,0000,0000,0000,,I swear I'll win this!
+Dialogue: 0,0:14:07.29,0:14:09.37,Main Dialog,Spoken,0000,0000,0000,,Shellie moves. And then I call!
+Dialogue: 0,0:14:10.95,0:14:13.36,Main Dialog,Spoken,0000,0000,0000,,Tracie attacks Blaster Blade!
+Dialogue: 0,0:14:16.73,0:14:17.83,Main Dialog,Spoken,0000,0000,0000,,Guard!
+Dialogue: 0,0:14:18.36,0:14:19.08,Main Dialog,Spoken,0000,0000,0000,,Ashlei!
+Dialogue: 0,0:14:25.05,0:14:26.20,Main Dialog,Spoken,0000,0000,0000,,No guard.
+Dialogue: 0,0:14:27.43,0:14:28.67,Main Dialog,Spoken,0000,0000,0000,,Drive check.
+Dialogue: 0,0:14:32.14,0:14:33.60,Main Dialog,Spoken,0000,0000,0000,,I give the power to Olwen...
+Dialogue: 0,0:14:34.15,0:14:37.39,Main Dialog,Spoken,0000,0000,0000,,...and the critical to Ashlei!
+Dialogue: 0,0:14:45.62,0:14:47.30,Main Dialog,Spoken,0000,0000,0000,,Now she's in the lead!
+Dialogue: 0,0:14:48.59,0:14:50.07,Main Dialog,Spoken,0000,0000,0000,,Aichi is in a pinch?
+Dialogue: 0,0:14:50.86,0:14:56.20,Main Dialog,Spoken,0000,0000,0000,,I was right... Kourin is many times \Nstronger than her usual self tonight.
+Dialogue: 0,0:14:56.84,0:14:59.46,Main Dialog,Spoken,0000,0000,0000,,What's doing this to you?
+Dialogue: 0,0:15:00.51,0:15:01.99,Main Dialog,Spoken,0000,0000,0000,,Olwen attacks!
+Dialogue: 0,0:15:03.08,0:15:06.42,Main Dialog,Spoken,0000,0000,0000,,Guard! And then I intercept!
+Dialogue: 0,0:15:08.38,0:15:11.81,Main Dialog,Spoken,0000,0000,0000,,You're incredibly strong tonight, Kourin.
+Dialogue: 0,0:15:11.81,0:15:15.72,Main Dialog,Spoken,0000,0000,0000,,Your determination to have a serious \Nshowdown really comes through.
+Dialogue: 0,0:15:18.89,0:15:22.87,Main Dialog,Spoken,0000,0000,0000,,But... I have no intention \Nwhatsoever of losing, either.
+Dialogue: 0,0:15:24.02,0:15:29.19,Main Dialog,Spoken,0000,0000,0000,,We met around the time I was \Njust starting to get into Vanguard,
+Dialogue: 0,0:15:30.09,0:15:35.83,Main Dialog,Spoken,0000,0000,0000,,and a lot's happened since then, \Nbut you've always helped me.
+Dialogue: 0,0:15:36.40,0:15:41.40,Main Dialog,Spoken,0000,0000,0000,,I never imagined we'd one day be students \Nin the same class in high school,
+Dialogue: 0,0:15:41.40,0:15:47.21,Main Dialog,Spoken,0000,0000,0000,,but I'm thrilled to share a friendly rivalry \Nwith you, as a fellow teammate.
+Dialogue: 0,0:15:47.83,0:15:51.87,Main Dialog,Spoken,0000,0000,0000,,I want to keep fighting with \Nyou as we both aim for the top.
+Dialogue: 0,0:15:52.89,0:15:56.68,Main Dialog,Spoken,0000,0000,0000,,So I'm going to answer \Nyour seriousness in kind!
+Dialogue: 0,0:15:58.69,0:16:01.23,Main Dialog,Spoken,0000,0000,0000,,Even in solitude, you fear no battle.
+Dialogue: 0,0:16:01.23,0:16:04.52,Main Dialog,Spoken,0000,0000,0000,,Only a strong soul knows true friendship!
+Dialogue: 0,0:16:05.15,0:16:05.69,Main Dialog,Spoken,0000,0000,0000,,I ride...
+Dialogue: 0,0:16:11.83,0:16:15.09,Main Dialog,Spoken,0000,0000,0000,,...Wolf Fang Liberator, Garmore!
+Dialogue: 0,0:16:25.69,0:16:29.05,Main Dialog,Spoken,0000,0000,0000,,I'll show Kourin how serious I can be!
+Dialogue: 0,0:16:30.70,0:16:32.92,Main Dialog,Spoken,0000,0000,0000,,Cheer Up Trumpeter's skill!
+Dialogue: 0,0:16:33.58,0:16:38.18,Main Dialog,Spoken,0000,0000,0000,,During this turn, every time a \Nrear-guard is called from my deck,
+Dialogue: 0,0:16:38.56,0:16:40.43,Main Dialog,Spoken,0000,0000,0000,,Garmore gets +3000 power!
+Dialogue: 0,0:16:41.20,0:16:43.31,Main Dialog,Spoken,0000,0000,0000,,Garmore's skill activates!
+Dialogue: 0,0:16:44.30,0:16:46.06,Main Dialog,Spoken,0000,0000,0000,,Limit Break!
+Dialogue: 0,0:16:48.26,0:16:52.19,Main Dialog,Spoken,0000,0000,0000,,Brave ones, gather together \Naround this solitary soul.
+Dialogue: 0,0:16:53.26,0:16:56.86,Main Dialog,Spoken,0000,0000,0000,,I superior call Gold Paladin comrades!
+Dialogue: 0,0:16:59.95,0:17:04.21,Main Dialog,Spoken,0000,0000,0000,,With that, Garmore's power \Nis a total of 23000!
+Dialogue: 0,0:17:05.12,0:17:07.07,Main Dialog,Spoken,0000,0000,0000,,How very like you, Aichi.
+Dialogue: 0,0:17:07.07,0:17:09.46,Main Dialog,Spoken,0000,0000,0000,,You've gathered comrades all across the field.
+Dialogue: 0,0:17:10.20,0:17:11.61,Main Dialog,Spoken,0000,0000,0000,,Here I go.
+Dialogue: 0,0:17:13.34,0:17:15.72,Main Dialog,Spoken,0000,0000,0000,,Garmore attacks Ashlei!
+Dialogue: 0,0:17:16.12,0:17:17.59,Main Dialog,Spoken,0000,0000,0000,,Skill activated!
+Dialogue: 0,0:17:18.24,0:17:21.15,Main Dialog,Spoken,0000,0000,0000,,Garmore gets +4000 power!
+Dialogue: 0,0:17:23.11,0:17:27.11,Main Dialog,Spoken,0000,0000,0000,,This is me being serious, Kourin!
+Dialogue: 0,0:17:28.57,0:17:30.43,Main Dialog,Spoken,0000,0000,0000,,You're naive, Aichi.
+Dialogue: 0,0:17:31.66,0:17:33.01,Main Dialog,Spoken,0000,0000,0000,,Perfect guard!
+Dialogue: 0,0:17:38.87,0:17:40.07,Main Dialog,Spoken,0000,0000,0000,,Drive check.
+Dialogue: 0,0:17:42.42,0:17:44.92,Main Dialog,Spoken,0000,0000,0000,,I give all of the effects to Alfred!
+Dialogue: 0,0:17:50.92,0:17:53.09,Main Dialog,Spoken,0000,0000,0000,,Gallatin attacks Tracie!
+Dialogue: 0,0:17:58.73,0:18:01.14,Main Dialog,Spoken,0000,0000,0000,,Alfred attacks Ashlei!
+Dialogue: 0,0:18:01.35,0:18:04.52,Main Dialog,Spoken,0000,0000,0000,,Guard! And intercept!
+Dialogue: 0,0:18:16.63,0:18:22.12,Main Dialog,Spoken,0000,0000,0000,,Aichi's serious attack \Ndidn't even do 1 damage!
+Dialogue: 0,0:18:24.14,0:18:25.38,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:18:27.12,0:18:32.48,Main Dialog,Spoken,0000,0000,0000,,I want to keep fighting together, too.
+Dialogue: 0,0:18:37.96,0:18:39.19,Main Dialog,Spoken,0000,0000,0000,,Aichi...
+Dialogue: 0,0:18:40.34,0:18:42.93,Signs,Sign,0000,0000,0000,,Kourin Tatsunagi
+Dialogue: 0,0:18:41.53,0:18:44.14,Main Dialog,Spoken,0000,0000,0000,,When we first met,
+Dialogue: 0,0:18:45.11,0:18:48.18,Main Dialog,Spoken,0000,0000,0000,,it never crossed my mind that we \Nmight be together so much.
+Dialogue: 0,0:18:51.31,0:18:55.18,Main Dialog,Spoken,0000,0000,0000,,Thank you, truly, for all of the memories.
+Dialogue: 0,0:18:56.42,0:18:57.63,Main Dialog,Spoken,0000,0000,0000,,But...
+Dialogue: 0,0:18:57.63,0:18:59.38,Main Dialog,Spoken,0000,0000,0000,,...the time for fun is over!
+Dialogue: 0,0:19:03.94,0:19:08.75,Main Dialog,Spoken,0000,0000,0000,,With this card, I'll make \Nyou my true comrade!
+Dialogue: 0,0:19:12.03,0:19:14.46,Main Dialog,Spoken,0000,0000,0000,,My new ace in the hole...
+Dialogue: 0,0:19:14.97,0:19:17.38,Main Dialog,Spoken,0000,0000,0000,,Become a blade that decides fate!
+Dialogue: 0,0:19:23.90,0:19:25.34,Main Dialog,Spoken,0000,0000,0000,,I'll protect myself!
+Dialogue: 0,0:19:26.83,0:19:28.48,Main Dialog,Spoken,0000,0000,0000,,Those eyes...
+Dialogue: 0,0:19:30.39,0:19:33.52,Main Dialog,Spoken,0000,0000,0000,,Aichi's straightforward eyes...
+Dialogue: 0,0:19:36.19,0:19:37.38,Main Dialog,Spoken,0000,0000,0000,,That's right.
+Dialogue: 0,0:19:37.86,0:19:41.95,Main Dialog,Spoken,0000,0000,0000,,Aichi never does give up until the end.
+Dialogue: 0,0:19:43.14,0:19:46.09,Main Dialog,Spoken,0000,0000,0000,,He just puts all of his faith in winning.
+Dialogue: 0,0:19:47.32,0:19:48.41,Main Dialog,Spoken,0000,0000,0000,,Now, too...
+Dialogue: 0,0:19:49.65,0:19:54.28,Main Dialog,Spoken,0000,0000,0000,,He has no idea what I'm trying to do.
+Dialogue: 0,0:19:55.08,0:19:58.64,Main Dialog,Spoken,0000,0000,0000,,He's just looking straight ahead.
+Dialogue: 0,0:20:04.81,0:20:06.51,Main Dialog,Spoken,0000,0000,0000,,Kourin is acting strange!
+Dialogue: 0,0:20:07.77,0:20:08.77,Main Dialog,Spoken,0000,0000,0000,,Kourin?
+Dialogue: 0,0:20:09.31,0:20:13.02,Main Dialog,Spoken,0000,0000,0000,,Stop it! Don't look at me with those eyes!
+Dialogue: 0,0:20:14.27,0:20:16.51,Main Dialog,Spoken,0000,0000,0000,,Are you okay, Kourin?
+Dialogue: 0,0:20:16.51,0:20:18.27,Main Dialog,Spoken,0000,0000,0000,,If you're not feeling up to it...
+Dialogue: 0,0:20:18.98,0:20:20.42,Main Dialog,Spoken,0000,0000,0000,,Stay away!
+Dialogue: 0,0:20:21.25,0:20:24.70,Main Dialog,Spoken,0000,0000,0000,,Why? Why can't I ride?
+Dialogue: 0,0:20:25.78,0:20:29.48,Main Dialog,Spoken,0000,0000,0000,,Even though I'm Reversed!
+Dialogue: 0,0:20:30.87,0:20:34.54,Main Dialog,Spoken,0000,0000,0000,,Those eyes of yours bind me!
+Dialogue: 0,0:20:37.63,0:20:39.80,Main Dialog,Spoken,0000,0000,0000,,I'm sorry, Aichi!
+Dialogue: 0,0:20:41.04,0:20:42.52,Main Dialog,Spoken,0000,0000,0000,,Kourin!
+Dialogue: 0,0:20:45.45,0:20:47.12,Main Dialog,Spoken,0000,0000,0000,,I wonder what's wrong.
+Dialogue: 0,0:20:47.12,0:20:48.51,Main Dialog,Spoken,0000,0000,0000,,Misaki?!
+Dialogue: 0,0:20:50.01,0:20:51.91,Main Dialog,Spoken,0000,0000,0000,,Misaki, what are you doing here?
+Dialogue: 0,0:20:51.91,0:20:54.01,Main Dialog,Spoken,0000,0000,0000,,Oh... I was... uh...
+Dialogue: 0,0:20:54.01,0:20:55.06,Main Dialog,Spoken,0000,0000,0000,,Let's go after her!
+Dialogue: 0,0:20:55.06,0:20:56.13,Main Dialog,Spoken,0000,0000,0000,,Right!
+Dialogue: 0,0:20:57.50,0:20:59.98,Main Dialog,Spoken,0000,0000,0000,,Hey! Guys?
+Dialogue: 0,0:21:08.96,0:21:13.19,Main Dialog,Spoken,0000,0000,0000,,It's time to return to \Nthe dormitory, you two.
+Dialogue: 0,0:21:13.19,0:21:17.40,Main Dialog,Spoken,0000,0000,0000,,Leave Ms. Takanagi to me and go back.
+Dialogue: 0,0:21:17.40,0:21:19.25,Main Dialog,Spoken,0000,0000,0000,,Uh... But...
+Dialogue: 0,0:21:19.25,0:21:22.63,Main Dialog,Spoken,0000,0000,0000,,I'm in the same room as her, so I'll \Ntake responsibility and look after her.
+Dialogue: 0,0:21:44.76,0:21:48.45,Main Dialog,Spoken,0000,0000,0000,,So in the end, we didn't get to see \Nwhat happens with the legendary tree.
+Dialogue: 0,0:21:48.45,0:21:50.27,Main Dialog,Spoken,0000,0000,0000,,I wanted to see it so badly!
+Dialogue: 0,0:21:50.27,0:21:53.57,Main Dialog,Spoken,0000,0000,0000,,In fact, if possible, I wanted \Nto be part of the legend!
+Dialogue: 0,0:21:53.57,0:21:59.04,Main Dialog,Spoken,0000,0000,0000,,Kourin got picked up \Nyesterday, but is she okay?
+Dialogue: 0,0:21:59.04,0:22:00.86,Main Dialog,Spoken,0000,0000,0000,,I'm worried.
+Dialogue: 0,0:22:00.86,0:22:02.14,Main Dialog,Spoken,0000,0000,0000,,Yeah...
+Dialogue: 0,0:22:03.32,0:22:05.38,Main Dialog,Spoken,0000,0000,0000,,I'm sorry, Aichi!
+Dialogue: 0,0:22:07.86,0:22:09.39,Main Dialog,Spoken,0000,0000,0000,,Kourin...
+Dialogue: 0,0:23:56.74,0:24:00.23,Main Dialog,Spoken,0000,0000,0000,,Orienteering, cooking outside... \NThat was so much fun!
+Dialogue: 0,0:24:00.23,0:24:02.46,Main Dialog,Spoken,0000,0000,0000,,And my pork miso soup won!
+Dialogue: 0,0:24:02.46,0:24:05.00,Main Dialog,Spoken,0000,0000,0000,,That's nonsense! I say \Nwe have another showdown!
+Dialogue: 0,0:24:05.00,0:24:06.57,Main Dialog,Spoken,0000,0000,0000,,I hope Kourin is okay.
+Dialogue: 0,0:24:06.57,0:24:08.55,Main Dialog,Spoken,0000,0000,0000,,I bet she's better already.
+Dialogue: 0,0:24:08.55,0:24:09.80,Main Dialog,Spoken,0000,0000,0000,,You're probably right.
+Dialogue: 0,0:24:09.80,0:24:13.05,Main Dialog,Spoken,0000,0000,0000,,Meanwhile, Kamui and the \Nothers are in trouble!
+Dialogue: 0,0:24:13.05,0:24:15.80,Main Dialog,Spoken,0000,0000,0000,,Next time: The Pirate Flag \NFluttering at Miyaji!
+Dialogue: 0,0:24:13.89,0:24:24.94,Signs,Sign,0000,0000,0000,,The Pirate Flag Fluttering at Miyaji!
+Dialogue: 0,0:24:16.12,0:24:19.06,Main Dialog,Spoken,0000,0000,0000,,Pirates... Meaning Team Handsome? \NWhat's happening with them?
+Dialogue: 0,0:24:19.06,0:24:21.72,Main Dialog,Spoken,0000,0000,0000,,I've got it! I've just made a \Ndecision about the Komoi Corps!
+Dialogue: 0,0:24:21.72,0:24:23.43,Main Dialog,Spoken,0000,0000,0000,,Back to that again?

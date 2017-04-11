@@ -1,0 +1,1594 @@
+﻿1
+00:00:18,309 --> 00:00:20,019
+<font color="#404040">ANNOUNCER: </font><i>Planet Ryloth invaded.</i>
+
+2
+00:00:20,103 --> 00:00:22,521
+<i>Subjected to a brutal droid occupation,</i>
+
+3
+00:00:22,605 --> 00:00:26,525
+<i>the people of Ryloth are starving</i>
+<i>under the blockade of a Separatist fleet.</i>
+
+4
+00:00:26,609 --> 00:00:31,488
+<i>Evil Separatist leader, Wat Tambor,</i>
+<i>now rules with an iron fist.</i>
+
+5
+00:00:31,573 --> 00:00:33,115
+<i>Answering a plea from the Senate,</i>
+
+6
+00:00:33,199 --> 00:00:37,494
+<i>the Grand Army of the Republic mounts</i>
+<i>a bold offensive to liberate the system.</i>
+
+7
+00:00:37,579 --> 00:00:40,622
+<i>It is up to Anakin Skywalker</i>
+<i>and his Padawan, Ahsoka,</i>
+
+8
+00:00:40,707 --> 00:00:43,792
+<i>to make way</i>
+<i>for Obi-Wan's ground assault.</i>
+
+9
+00:00:47,130 --> 00:00:49,173
+<i>Captain, are you prepared?</i>
+
+10
+00:00:49,257 --> 00:00:52,092
+Our blockade is impenetrable.
+
+11
+00:00:52,343 --> 00:00:58,182
+When the Republic attacks,
+they will get quite a surprise.
+
+12
+00:00:58,308 --> 00:01:00,726
+<i>I'm counting on you, Captain.</i>
+
+13
+00:01:00,810 --> 00:01:04,354
+<i>We cannot allow the Republic</i>
+<i>to invade this planet.</i>
+
+14
+00:01:14,491 --> 00:01:18,994
+-Sir, we're coming out of hyperspace.
+-Prepare for battle! Raise the shields.
+
+15
+00:01:21,998 --> 00:01:24,416
+<i>YULAREN ON PA:</i>
+<i>All ships prepare for launch.</i>
+
+16
+00:01:25,043 --> 00:01:27,419
+<i>All ships prepare for launch.</i>
+
+17
+00:01:27,504 --> 00:01:28,670
+<font color="#DF01D7">(R7 WHISTLING)</font>
+
+18
+00:01:28,713 --> 00:01:31,673
+This is my first time
+commanding a squadron, R7.
+
+19
+00:01:31,716 --> 00:01:33,217
+Let's make a good impression.
+
+20
+00:01:33,343 --> 00:01:34,885
+<font color="#DF01D7">(R7 BEEPING)</font>
+
+21
+00:01:35,220 --> 00:01:36,929
+Of course I'm not nervous!
+
+22
+00:01:37,013 --> 00:01:41,225
+Hey, Snips, this is it, your first command.
+Don't be nervous.
+
+23
+00:01:41,392 --> 00:01:43,644
+I wish everyone would stop saying that.
+
+24
+00:01:43,812 --> 00:01:46,897
+The men you're commanding
+are depending on you with their lives.
+
+25
+00:01:47,190 --> 00:01:51,735
+Thanks. That takes the pressure off.
+If I wasn't nervous before, I sure am now.
+
+26
+00:01:52,028 --> 00:01:54,029
+Hey, I have faith in you.
+
+27
+00:01:54,322 --> 00:01:56,990
+I wouldn't send you out there
+if I didn't think you could handle it.
+
+28
+00:01:58,368 --> 00:02:00,244
+May the Force be with you.
+
+29
+00:02:00,328 --> 00:02:02,955
+I won't let you down. I hope.
+
+30
+00:02:12,340 --> 00:02:14,174
+Okay, you boys ready?
+
+31
+00:02:14,259 --> 00:02:16,426
+This is two, Axe.
+Ready when you are, Skipper.
+
+32
+00:02:16,511 --> 00:02:18,887
+Ready on three. This is Slammer, over.
+
+33
+00:02:19,639 --> 00:02:22,141
+Ready on four. Kickback checking in, over.
+
+34
+00:02:22,225 --> 00:02:25,686
+Swoop to Blue Leader,
+group two is standing by, over.
+
+35
+00:02:25,770 --> 00:02:28,564
+Tucker on five,
+waiting for mother bird, over.
+
+36
+00:02:43,997 --> 00:02:46,331
+-Commander!
+-Yes, Captain?
+
+37
+00:02:46,416 --> 00:02:49,168
+-Launch all fighters!
+-Roger, roger.
+
+38
+00:03:01,639 --> 00:03:04,975
+-Tell Ahsoka the fleet is ready.
+-Commander, you're all clear.
+
+39
+00:03:05,059 --> 00:03:06,351
+Thank you, Admiral.
+
+40
+00:03:06,436 --> 00:03:08,687
+Keep the cruisers back
+until we've softened them up.
+
+41
+00:03:09,105 --> 00:03:11,690
+Well, R7, are you ready for some action?
+
+42
+00:03:12,150 --> 00:03:13,150
+<font color="#DF01D7">(BEEPING)</font>
+
+43
+00:03:13,693 --> 00:03:16,820
+Axe, keep your squadron back
+and wait for my signal.
+
+44
+00:03:17,113 --> 00:03:18,197
+You got it, boss.
+
+45
+00:03:21,951 --> 00:03:23,118
+Here we go.
+
+46
+00:03:29,542 --> 00:03:32,461
+-All right, boys, let's clear a path.
+-Right away, sir!
+
+47
+00:03:34,881 --> 00:03:36,173
+Pick your targets.
+
+48
+00:03:44,641 --> 00:03:45,849
+<font color="#404040">PILOT 1:</font> <i>We got another bogey.</i>
+<font color="#404040">PILOT 2:</font> <i>I'm on it.</i>
+
+49
+00:03:45,934 --> 00:03:47,893
+<font color="#404040">PILOT 3:</font> <i>You are clear!</i>
+<font color="#404040">PILOT 4:</font> <i>Nice work, Blue 5.</i>
+
+50
+00:03:47,977 --> 00:03:49,853
+<font color="#404040">PILOT 5:</font> <i>We're outflanked!</i>
+<font color="#404040">PILOT 4:</font> <i>Two new targets closing!</i>
+
+51
+00:03:51,689 --> 00:03:55,484
+That is General Skywalker's flagship.
+
+52
+00:03:55,652 --> 00:03:57,861
+He is leading this attack.
+
+53
+00:03:58,154 --> 00:04:00,572
+Sir, their fighters are closing fast.
+
+54
+00:04:00,657 --> 00:04:06,662
+Patience. Let's see what trickery
+the Jedi have planned for us.
+
+55
+00:04:06,913 --> 00:04:08,997
+<font color="#DF01D7">(WEAPONS FIRING)</font>
+
+56
+00:04:11,000 --> 00:04:12,542
+We've got their fighters occupied.
+
+57
+00:04:13,920 --> 00:04:16,421
+Axe, time for us
+to make a run for the battleship.
+
+58
+00:04:18,549 --> 00:04:21,176
+Come on, you whiners. Let's get dirty.
+
+59
+00:04:28,643 --> 00:04:33,563
+Sir, a squadron of fighters are attacking.
+They have a clear path right to us.
+
+60
+00:04:33,690 --> 00:04:36,984
+Now is the time
+to bring in our reinforcements.
+
+61
+00:04:37,819 --> 00:04:42,489
+Battle cruiser 17. Battle cruiser 19.
+Attack position.
+
+62
+00:04:46,703 --> 00:04:49,871
+Admiral, four more enemy cruisers
+have joined the blockade.
+
+63
+00:04:49,914 --> 00:04:51,665
+We've got to warn those fighters.
+
+64
+00:04:51,916 --> 00:04:54,042
+<i>Commander, we've been caught in a trap!</i>
+
+65
+00:04:54,085 --> 00:04:57,170
+You're overreacting, Admiral.
+I can get us through.
+
+66
+00:04:57,213 --> 00:05:01,008
+-Blue Squadron, stay the course.
+-We're all set, Blue Leader.
+
+67
+00:05:01,050 --> 00:05:04,594
+I'm ordering you to return to the ship!
+We're going to need your help!
+
+68
+00:05:04,721 --> 00:05:08,265
+Ahsoka, it's too risky!
+Get your pilots out of there!
+
+69
+00:05:08,683 --> 00:05:12,436
+-Sir, we've got their fighters surrounded.
+-Good.
+
+70
+00:05:12,895 --> 00:05:14,104
+There's no turning around.
+
+71
+00:05:14,188 --> 00:05:16,523
+Did you train her not to follow orders?
+
+72
+00:05:19,235 --> 00:05:21,111
+Axe, are you still there?
+
+73
+00:05:21,195 --> 00:05:23,905
+Come on, boys, stay in formation!
+
+74
+00:05:24,324 --> 00:05:26,158
+I've got two on my tail!
+I can't shake them!
+
+75
+00:05:28,578 --> 00:05:30,579
+I can't help you, Axe.
+I've got my own problems!
+
+76
+00:05:33,374 --> 00:05:34,458
+<font color="#DF01D7">(GROANS)</font>
+
+77
+00:05:35,543 --> 00:05:37,085
+We're far too outnumbered!
+
+78
+00:05:37,128 --> 00:05:38,754
+They're breaking our lines!
+
+79
+00:05:38,880 --> 00:05:41,757
+Ahsoka, we are in trouble!
+I order you back here!
+
+80
+00:05:41,924 --> 00:05:43,425
+All right, all right.
+
+81
+00:05:43,468 --> 00:05:45,927
+Let's go, squad.
+Pull back to the command ship.
+
+82
+00:05:46,054 --> 00:05:47,262
+Why are we retreating?
+
+83
+00:05:47,388 --> 00:05:49,931
+We're not retreating.
+We're following orders.
+
+84
+00:06:04,113 --> 00:06:05,781
+Intensify deflector shields.
+
+85
+00:06:05,823 --> 00:06:08,283
+There are too many.
+We can't shoot them all down!
+
+86
+00:06:08,409 --> 00:06:10,452
+Fighter squadron, where are you?
+
+87
+00:06:10,703 --> 00:06:12,412
+Cool your jets, Admiral.
+
+88
+00:06:12,455 --> 00:06:13,538
+We're almost there.
+
+89
+00:06:13,623 --> 00:06:16,124
+-It's too late!
+-Run for it!
+
+90
+00:06:22,048 --> 00:06:24,091
+Admiral, come in. Admiral!
+
+91
+00:06:24,300 --> 00:06:27,302
+-Hang on, Admiral.
+-Get us out of here.
+
+92
+00:06:27,387 --> 00:06:30,138
+Get those fighters onboard
+and prepare for lightspeed!
+
+93
+00:06:38,439 --> 00:06:41,108
+<font color="#404040">CLONE OFFICER:</font> <i>All fighters return.</i>
+<i>We are preparing for lightspeed.</i>
+
+94
+00:06:41,150 --> 00:06:44,152
+Uh, right. Axe, stand on it.
+
+95
+00:06:44,237 --> 00:06:46,822
+We only have a few seconds
+to get on board.
+
+96
+00:06:46,948 --> 00:06:48,615
+Don't worry about me, Skipper.
+
+97
+00:06:49,409 --> 00:06:53,954
+Captain, the Republic space forces
+are in retreat. Shall we pursue?
+
+98
+00:06:53,996 --> 00:06:59,292
+No. Do not break our formation.
+Let those cowards run.
+
+99
+00:06:59,502 --> 00:07:00,627
+<font color="#DF01D7">(GROANS)</font>
+
+100
+00:07:00,670 --> 00:07:02,629
+My power converters. They're failing!
+
+101
+00:07:02,839 --> 00:07:04,673
+Just stay with me, Axe.
+
+102
+00:07:12,014 --> 00:07:13,098
+<font color="#DF01D7">(ALARM BEEPING)</font>
+
+103
+00:07:13,182 --> 00:07:14,433
+Overload! Overload!
+
+104
+00:07:15,017 --> 00:07:16,184
+<font color="#DF01D7">(AXE SCREAMS)</font>
+
+105
+00:07:17,186 --> 00:07:18,687
+Axe!
+
+106
+00:07:22,275 --> 00:07:24,651
+Close up the hangar doors. We're home.
+
+107
+00:07:35,788 --> 00:07:37,622
+Jump to lightspeed.
+
+108
+00:07:44,213 --> 00:07:46,840
+Get your squad together.
+I need a head count.
+
+109
+00:07:46,924 --> 00:07:49,801
+We need to know
+how many we lost today.
+
+110
+00:07:54,056 --> 00:07:57,058
+Ahsoka, I'm very disappointed in you.
+
+111
+00:07:57,310 --> 00:08:00,312
+You not only disobeyed the Admiral,
+you disobeyed me.
+
+112
+00:08:00,396 --> 00:08:02,105
+I thought
+I could knock out those battleships
+
+113
+00:08:02,190 --> 00:08:05,358
+so when Master Obi-Wan arrived,
+he could get through.
+
+114
+00:08:05,651 --> 00:08:07,694
+I know you meant well, Snips,
+
+115
+00:08:07,987 --> 00:08:10,614
+but there's a bigger picture
+that you're not aware of.
+
+116
+00:08:10,781 --> 00:08:14,201
+First rule of war,
+listen and obey your superiors.
+
+117
+00:08:14,285 --> 00:08:16,828
+But sometimes you get carried away.
+
+118
+00:08:16,913 --> 00:08:20,040
+All that means is that I understand
+what you're going through.
+
+119
+00:08:20,124 --> 00:08:21,541
+But I failed.
+
+120
+00:08:21,626 --> 00:08:24,544
+It was a trap, Snips. It wasn't your fault.
+
+121
+00:08:24,629 --> 00:08:27,589
+I lost so many of my pilots.
+
+122
+00:08:27,965 --> 00:08:31,718
+Take heart, little one.
+That's the reality of command.
+
+123
+00:08:33,596 --> 00:08:35,639
+General, we're approaching
+our staging area.
+
+124
+00:08:35,723 --> 00:08:36,932
+Very good, Captain.
+
+125
+00:08:37,016 --> 00:08:39,518
+Master Windu is requesting
+a report on our progress.
+
+126
+00:08:39,602 --> 00:08:42,687
+Our progress, huh?
+Well, we haven't made any progress yet.
+
+127
+00:08:42,772 --> 00:08:43,813
+I'll tell him, sir.
+
+128
+00:08:43,898 --> 00:08:46,483
+No, Rex. I'll tell him myself, thank you.
+
+129
+00:08:46,567 --> 00:08:49,277
+As soon as we tend to our wounded,
+get me a damage report.
+
+130
+00:08:49,362 --> 00:08:50,445
+Right away, sir.
+
+131
+00:08:50,530 --> 00:08:52,948
+Now, Snips, I'm gonna need you to...
+
+132
+00:08:57,537 --> 00:09:00,622
+<i>Captain, what is the status</i>
+<i>of the enemy attack?</i>
+
+133
+00:09:00,706 --> 00:09:02,707
+The Jedi were crushed, of course.
+
+134
+00:09:02,792 --> 00:09:06,336
+They fled the system,
+their ships in flames.
+
+135
+00:09:06,963 --> 00:09:10,799
+I assure you, Emir,
+our blockade is very much intact.
+
+136
+00:09:11,884 --> 00:09:16,846
+<i>Congratulations are in order, Captain,</i>
+<i>but do not underestimate the Jedi.</i>
+
+137
+00:09:18,140 --> 00:09:22,477
+Commander, bring me the archive data
+on General Skywalker.
+
+138
+00:09:22,562 --> 00:09:25,897
+-I need to learn more about our opponent.
+-Roger, roger.
+
+139
+00:09:28,776 --> 00:09:32,237
+<font color="#404040">ANAKIN:</font> They caught us by surprise,
+Master. We were outnumbered.
+
+140
+00:09:32,321 --> 00:09:33,947
+<i>How many men did you lose?</i>
+
+141
+00:09:34,031 --> 00:09:39,286
+We lost a cruiser, the Redeemer,
+plus an entire squadron of fighters.
+
+142
+00:09:39,370 --> 00:09:41,371
+<i>And your Padawan?</i>
+
+143
+00:09:41,455 --> 00:09:45,375
+No, Ahsoka is fine.
+She's just recovering from the battle.
+
+144
+00:09:45,459 --> 00:09:48,420
+Losing her squadron was hard to take.
+
+145
+00:09:48,504 --> 00:09:49,754
+<i>Give her time.</i>
+
+146
+00:09:49,839 --> 00:09:53,508
+<i>But, Anakin, you will need her help</i>
+<i>if you are going to get through this.</i>
+
+147
+00:09:53,593 --> 00:09:54,676
+I know.
+
+148
+00:09:54,760 --> 00:09:57,470
+<i>Your forces have been cut in half,</i>
+<i>Skywalker.</i>
+
+149
+00:09:57,555 --> 00:10:01,141
+<i>If you can't break that blockade</i>
+<i>before the next planetary rotation,</i>
+
+150
+00:10:01,225 --> 00:10:03,101
+<i>we will have to postpone the invasion.</i>
+
+151
+00:10:03,185 --> 00:10:05,729
+The Twi'leks on that planet
+can't wait forever, Master.
+
+152
+00:10:05,813 --> 00:10:08,857
+The longer the Techno Union
+keeps control of Ryloth,
+
+153
+00:10:08,941 --> 00:10:10,900
+the more difficult it'll be to free them.
+
+154
+00:10:10,985 --> 00:10:13,695
+<i>I agree. We don't have much time.</i>
+
+155
+00:10:16,824 --> 00:10:18,992
+Rex, see if you can find Ahsoka.
+
+156
+00:10:23,331 --> 00:10:25,206
+He is stable for now.
+
+157
+00:10:29,211 --> 00:10:33,131
+Admiral, I am so sorry.
+
+158
+00:10:34,717 --> 00:10:36,593
+They're all gone.
+
+159
+00:10:38,262 --> 00:10:41,598
+Commander Ahsoka,
+General Skywalker is looking for you.
+
+160
+00:10:45,603 --> 00:10:46,686
+<font color="#DF01D7">(DOOR CLOSES)</font>
+
+161
+00:10:47,647 --> 00:10:48,938
+<font color="#404040">ANAKIN:</font> No, Artoo, the other one.
+
+162
+00:10:49,023 --> 00:10:50,148
+<font color="#DF01D7">(R2-D2 BEEPING)</font>
+
+163
+00:10:50,232 --> 00:10:52,067
+Yeah, that's it.
+
+164
+00:10:53,069 --> 00:10:54,736
+This'll do it.
+
+165
+00:10:55,363 --> 00:10:57,322
+You wanted to see me, Master?
+
+166
+00:10:57,740 --> 00:11:00,700
+Ahsoka, hand me that socket plug.
+
+167
+00:11:02,453 --> 00:11:03,703
+Here.
+
+168
+00:11:04,830 --> 00:11:07,832
+Thanks, Snips. How are you feeling?
+
+169
+00:11:07,917 --> 00:11:12,962
+-Oh, I'm fine, Master. Just fine.
+-That's good to hear.
+
+170
+00:11:13,172 --> 00:11:15,965
+I'm gonna need you level-headed
+if we're gonna pull this thing off.
+
+171
+00:11:16,092 --> 00:11:18,009
+Pull this off? Pull what off?
+
+172
+00:11:19,303 --> 00:11:21,054
+I talked to Master Windu.
+
+173
+00:11:21,097 --> 00:11:23,598
+We are to proceed with our attack
+on the blockade.
+
+174
+00:11:23,641 --> 00:11:27,644
+<font color="#DF01D7">(STAMMERING)</font> What? We can't! I mean...
+
+175
+00:11:27,770 --> 00:11:30,563
+Ahsoka, we have to break that blockade.
+
+176
+00:11:30,773 --> 00:11:32,899
+The Twi'leks on Ryloth
+are depending on us.
+
+177
+00:11:32,942 --> 00:11:37,070
+I understand that, Master,
+but we've lost so many men.
+
+178
+00:11:37,822 --> 00:11:38,947
+Did we get more support?
+
+179
+00:11:39,073 --> 00:11:42,158
+No. We have to make do
+with the forces we have,
+
+180
+00:11:42,576 --> 00:11:44,160
+and I need to come up with a plan.
+
+181
+00:11:44,286 --> 00:11:48,164
+-You don't even have a plan?
+-Don't worry, Ahsoka.
+
+182
+00:11:48,666 --> 00:11:53,128
+No! That's what you said last time,
+and now everyone's gone.
+
+183
+00:11:53,170 --> 00:11:54,838
+-My whole squadron!
+-Ahsoka...
+
+184
+00:11:54,964 --> 00:11:56,965
+We can't just smash
+through that blockade!
+
+185
+00:11:57,007 --> 00:11:58,800
+<font color="#DF01D7">(COMLINK BEEPING)</font>
+
+186
+00:12:03,597 --> 00:12:04,639
+Skywalker here.
+
+187
+00:12:04,765 --> 00:12:06,766
+<font color="#404040"><font color="#404040">REX:</font> </font><font color="#DF01D7">(ON COMLINK)</font> <i>General,</i>
+<i>the Defender is contacting us.</i>
+
+188
+00:12:06,809 --> 00:12:08,268
+<i>There seems to be a problem.</i>
+
+189
+00:12:08,310 --> 00:12:10,979
+All right, Rex, I'll be right there.
+
+190
+00:12:11,105 --> 00:12:15,316
+Go back to your quarters and cool off.
+We'll finish this talk later.
+
+191
+00:12:19,655 --> 00:12:21,281
+<font color="#DF01D7">(R2-D2 BEEPING)</font>
+
+192
+00:12:26,495 --> 00:12:31,499
+Not a conventional Jedi, to say the least,
+it would seem.
+
+193
+00:12:31,625 --> 00:12:32,834
+Hmm.
+
+194
+00:12:32,877 --> 00:12:35,044
+-Commander!
+-Yes, Captain.
+
+195
+00:12:35,171 --> 00:12:39,841
+Prepare all cannons and send the droids
+to their battle stations.
+
+196
+00:12:39,884 --> 00:12:41,342
+Yes, sir.
+
+197
+00:12:42,136 --> 00:12:44,554
+Captain, are we under attack?
+
+198
+00:12:44,680 --> 00:12:51,478
+No, but if Skywalker's record
+indicates anything, he'll be back.
+
+199
+00:12:51,896 --> 00:12:54,689
+<font color="#DF01D7">(ALARM BLARING)</font>
+
+200
+00:12:58,527 --> 00:13:00,862
+Trooper, what's going on?
+
+201
+00:13:00,988 --> 00:13:03,156
+The starship Defender
+is being evacuated, sir.
+
+202
+00:13:03,199 --> 00:13:06,743
+-Evacuated? Why?
+-I'm not sure, Commander.
+
+203
+00:13:06,869 --> 00:13:09,996
+We're on our way to help
+General Skywalker in the hangar.
+
+204
+00:13:18,005 --> 00:13:20,173
+All right, men, all right. This way.
+
+205
+00:13:20,216 --> 00:13:23,718
+Come on, move it, move it! Let's go.
+No time to waste.
+
+206
+00:13:23,886 --> 00:13:26,971
+Master, I'm almost afraid to ask.
+
+207
+00:13:27,056 --> 00:13:29,057
+I ordered the Defender evacuated.
+
+208
+00:13:29,099 --> 00:13:33,978
+-I can see that. Why?
+-Actually, I got the idea from you.
+
+209
+00:13:34,230 --> 00:13:35,313
+Oh!
+
+210
+00:13:35,397 --> 00:13:36,481
+Great.
+
+211
+00:13:36,565 --> 00:13:38,399
+Rex, take over, will you?
+
+212
+00:13:38,484 --> 00:13:40,902
+You said we couldn't just smash
+through the blockade.
+
+213
+00:13:40,986 --> 00:13:43,112
+I decided that's partly true.
+
+214
+00:13:43,239 --> 00:13:45,782
+You also implied
+that my plans put a lot of people at risk,
+
+215
+00:13:45,908 --> 00:13:49,160
+-and I agree with you on that one.
+-That's a first.
+
+216
+00:13:49,411 --> 00:13:51,746
+I decided the only way
+we can break the blockade
+
+217
+00:13:51,831 --> 00:13:56,084
+is if I pilot the Defender right into their
+battleship and take out the Commander.
+
+218
+00:13:56,168 --> 00:13:59,087
+-What?
+-This way I'm the only one at risk.
+
+219
+00:13:59,505 --> 00:14:02,173
+Besides, the Defender is damaged already.
+
+220
+00:14:02,258 --> 00:14:05,927
+You can't be serious, Master. You'll die!
+
+221
+00:14:05,970 --> 00:14:08,596
+No, I won't. That's where you come in.
+
+222
+00:14:08,681 --> 00:14:11,516
+The enemy can't stop that ship
+from taking them out.
+
+223
+00:14:11,600 --> 00:14:14,644
+Artoo and I will get in an escape pod
+and jettison right before impact.
+
+224
+00:14:14,770 --> 00:14:17,647
+But the enemy fleet is right there!
+
+225
+00:14:17,940 --> 00:14:22,277
+I know, and I'll pretty much be defenseless
+in an escape pod.
+
+226
+00:14:22,486 --> 00:14:25,697
+So I'm depending on you
+to engage the remaining fleet
+
+227
+00:14:25,781 --> 00:14:27,490
+with the combined forces we have here.
+
+228
+00:14:27,616 --> 00:14:31,119
+Master, I... I can't.
+
+229
+00:14:31,537 --> 00:14:34,789
+If something goes wrong, I...
+I can't be responsible for it.
+
+230
+00:14:34,832 --> 00:14:37,208
+You are responsible, Ahsoka.
+
+231
+00:14:37,626 --> 00:14:41,671
+These men are depending on you,
+and this time, so am I.
+
+232
+00:14:41,797 --> 00:14:43,715
+But, Master, last time I thought...
+
+233
+00:14:43,799 --> 00:14:46,801
+Attention! Everyone, attention!
+
+234
+00:14:47,720 --> 00:14:49,470
+All right, men, listen up.
+
+235
+00:14:49,555 --> 00:14:53,474
+I'm taking over the Defender, and
+I'm leaving Commander Ahsoka in charge.
+
+236
+00:14:53,559 --> 00:14:55,143
+She'll lead the second half of the mission
+
+237
+00:14:55,227 --> 00:14:57,604
+when we engage
+what's remaining of the blockade.
+
+238
+00:14:57,646 --> 00:15:01,190
+-Try to leave some ships for us, General.
+-<font color="#DF01D7">(CHUCKLES)</font> Will do, Rex.
+
+239
+00:15:01,483 --> 00:15:04,652
+Now, Commander Ahsoka will fill you in
+on the full plan.
+
+240
+00:15:04,695 --> 00:15:06,613
+-Master, wait!
+-Good luck.
+
+241
+00:15:06,655 --> 00:15:08,114
+Master!
+
+242
+00:15:08,157 --> 00:15:10,658
+<font color="#404040">REX:</font> Awaiting orders, Commander.
+
+243
+00:15:10,701 --> 00:15:13,661
+I'll be on the bridge.
+
+244
+00:15:14,914 --> 00:15:19,334
+Well, you heard her, boys. Back to work.
+Come on, move it. Move it!
+
+245
+00:15:29,845 --> 00:15:32,555
+-Commander on deck!
+-At ease.
+
+246
+00:15:34,850 --> 00:15:37,060
+General Skywalker is contacting you.
+
+247
+00:15:37,853 --> 00:15:40,396
+<i>All right, Ahsoka,</i>
+<i>we're ready to get underway.</i>
+
+248
+00:15:40,522 --> 00:15:43,858
+Master, are you sure
+you won't reconsider this?
+
+249
+00:15:43,901 --> 00:15:46,402
+<i>This is the only way. Trust me.</i>
+
+250
+00:15:49,406 --> 00:15:52,742
+-Better fill us in, Commander.
+-Right.
+
+251
+00:15:57,581 --> 00:16:02,627
+<i>Count Dooku has assured me the Republic</i>
+<i>forces are stretched thin in our sector.</i>
+
+252
+00:16:03,212 --> 00:16:06,214
+<i>They should be unable</i>
+<i>to mount a counterattack.</i>
+
+253
+00:16:06,548 --> 00:16:09,550
+<i>Any attempt to do so would be suicide.</i>
+
+254
+00:16:09,635 --> 00:16:14,389
+Still, I am certain
+this Skywalker will return.
+
+255
+00:16:14,473 --> 00:16:19,769
+His ultimate defeat
+shall be my greatest victory.
+
+256
+00:16:20,562 --> 00:16:24,816
+<i>-You admire Skywalker?</i>
+-As a general, yes.
+
+257
+00:16:24,900 --> 00:16:27,986
+His record shows he is a great warrior,
+
+258
+00:16:28,070 --> 00:16:33,157
+and I want him to know
+it is I who has beaten him.
+
+259
+00:16:34,410 --> 00:16:38,246
+Well, I have to say this plan
+is questionable.
+
+260
+00:16:38,288 --> 00:16:41,749
+Yeah, but with their general destroyed
+along with their battleship,
+
+261
+00:16:41,792 --> 00:16:43,960
+the droid commanders will be in chaos.
+
+262
+00:16:44,086 --> 00:16:45,420
+Only temporarily,
+
+263
+00:16:45,504 --> 00:16:48,423
+and there's still General Skywalker
+to find in all that mess.
+
+264
+00:16:48,465 --> 00:16:50,299
+-I know, but...
+-In our first attack,
+
+265
+00:16:50,426 --> 00:16:53,094
+we had three fully armed cruisers,
+and we failed.
+
+266
+00:16:53,137 --> 00:16:56,931
+<font color="#404040">REX:</font> I wish General Skywalker
+had discussed this plan with us.
+
+267
+00:16:56,974 --> 00:17:01,019
+-The odds are very much against us.
+-They always are.
+
+268
+00:17:01,103 --> 00:17:04,647
+Yes, but normally we have
+General Skywalker to lead us and...
+
+269
+00:17:06,650 --> 00:17:09,944
+-I meant no offense, Commander.
+-None taken.
+
+270
+00:17:20,080 --> 00:17:23,416
+Sir, an enemy ship is emerging
+from hyperspace.
+
+271
+00:17:23,500 --> 00:17:25,835
+I knew he'd return.
+
+272
+00:17:26,670 --> 00:17:30,798
+-There is an incoming transmission, sir.
+-Ah! Put it through.
+
+273
+00:17:33,385 --> 00:17:37,722
+<i>Greetings, Captain. I'm Anakin Skywalker,</i>
+<i>general of the Grand Army of the...</i>
+
+274
+00:17:37,806 --> 00:17:41,142
+I know who you are, Skywalker.
+
+275
+00:17:41,351 --> 00:17:43,561
+<i>Well, my reputation precedes me, then.</i>
+
+276
+00:17:43,645 --> 00:17:45,563
+<i>I have been ordered to surrender myself,</i>
+
+277
+00:17:45,647 --> 00:17:48,066
+<i>the entire crew of this vessel and my ship,</i>
+
+278
+00:17:48,150 --> 00:17:53,362
+<i>in exchange for safe passage of food and</i>
+<i>medical supplies to the people of Ryloth.</i>
+
+279
+00:17:53,447 --> 00:17:55,990
+A noble gesture, Jedi.
+
+280
+00:17:56,075 --> 00:18:01,120
+And your capture would make me
+the envy of the Separatist fleet.
+
+281
+00:18:02,372 --> 00:18:06,834
+Sir, even if Skywalker is successful
+and destroys the battleship,
+
+282
+00:18:06,919 --> 00:18:11,547
+how will we stand up to the combined
+firepower of the remaining frigates?
+
+283
+00:18:11,632 --> 00:18:16,677
+I thought about that,
+and, well, I have an idea.
+
+284
+00:18:16,762 --> 00:18:18,262
+Go ahead, Commander.
+
+285
+00:18:18,347 --> 00:18:22,517
+If we took the Resolute and angled
+her hull against the incoming frigates,
+
+286
+00:18:22,601 --> 00:18:26,729
+the bridge and hangar deck would
+be relatively safe from their attack.
+
+287
+00:18:26,814 --> 00:18:30,525
+We could draw them in and
+then use the bombers to outflank them.
+
+288
+00:18:30,609 --> 00:18:33,111
+The bombers would be too fast,
+and they would be trapped.
+
+289
+00:18:33,195 --> 00:18:36,948
+-Hmm. I'm not sure about this, Commander.
+-I... I think...
+
+290
+00:18:37,032 --> 00:18:39,534
+If we were certain
+the shields would hold...
+
+291
+00:18:39,618 --> 00:18:43,746
+Perhaps a different strategy.
+We need to take more time and plan.
+
+292
+00:18:43,831 --> 00:18:49,752
+No! We don't have any more time!
+Master Skywalker needs me now!
+
+293
+00:18:50,212 --> 00:18:52,338
+He needs us now.
+
+294
+00:18:52,965 --> 00:18:54,882
+The Commander is right.
+
+295
+00:18:55,717 --> 00:18:58,177
+I know this strategy is very bold,
+
+296
+00:18:58,262 --> 00:19:01,430
+but these circumstances
+call for drastic measures.
+
+297
+00:19:01,515 --> 00:19:06,018
+-Then the strategy will work, sir?
+-Well, will it?
+
+298
+00:19:07,312 --> 00:19:09,105
+Yes, it will.
+
+299
+00:19:13,193 --> 00:19:15,862
+We have completed
+the scan of the enemy ship.
+
+300
+00:19:16,029 --> 00:19:19,031
+-And?
+-The ship is heavily damaged.
+
+301
+00:19:19,116 --> 00:19:21,993
+All power is diverted
+to the forward shields.
+
+302
+00:19:22,077 --> 00:19:25,037
+-There is only one life form onboard.
+-What?
+
+303
+00:19:25,122 --> 00:19:27,582
+The ship is heavily damaged.
+All power is...
+
+304
+00:19:27,666 --> 00:19:30,209
+No, you insolent scraphead!
+
+305
+00:19:30,294 --> 00:19:34,755
+Skywalker, what treachery is this?
+You have nothing to bargain with!
+
+306
+00:19:34,923 --> 00:19:37,133
+<i><font color="#DF01D7">(SCOFFS)</font> In that case, I'll be going.</i>
+
+307
+00:19:37,217 --> 00:19:40,428
+<i>Oh. You can still have my ship.</i>
+
+308
+00:19:41,471 --> 00:19:45,016
+Sir, there's a second Republic ship
+entering the system.
+
+309
+00:19:45,934 --> 00:19:48,895
+She made it! Boost the engines
+and let's get out of here.
+
+310
+00:19:49,146 --> 00:19:50,479
+<font color="#DF01D7">(R2-D2 BEEPING)</font>
+
+311
+00:19:57,070 --> 00:19:59,530
+When those two ships collide,
+there'll be chaos.
+
+312
+00:19:59,615 --> 00:20:02,200
+We need that time
+to get General Skywalker's pod
+
+313
+00:20:02,284 --> 00:20:03,826
+into the tractor beam.
+
+314
+00:20:03,911 --> 00:20:05,703
+Right, Commander.
+
+315
+00:20:06,580 --> 00:20:10,374
+I'll command the fighter squadron.
+Wait for my signal to begin our attack.
+
+316
+00:20:10,459 --> 00:20:11,834
+<font color="#404040">REX:</font> Yes, sir.
+
+317
+00:20:14,087 --> 00:20:17,298
+All cannons, fire! Fire!
+
+318
+00:20:17,925 --> 00:20:19,383
+<font color="#DF01D7">(FIRING)</font>
+
+319
+00:20:30,604 --> 00:20:33,231
+We can't stop it. What should we do?
+
+320
+00:20:33,315 --> 00:20:37,485
+-You stay here. I'll be back.
+-Oh, that's great.
+
+321
+00:20:45,077 --> 00:20:46,661
+See, I told you it would work.
+
+322
+00:20:46,787 --> 00:20:49,080
+<font color="#404040">AHSOKA: </font><font color="#DF01D7">(ON RADIO)</font> <i>Skyguy,</i>
+<i>we're approaching your position.</i>
+
+323
+00:20:49,164 --> 00:20:50,748
+<i>Standby for retrieval.</i>
+
+324
+00:20:50,832 --> 00:20:52,124
+Right on time, Ahsoka.
+
+325
+00:21:01,260 --> 00:21:03,469
+I don't think they're going to attack,
+Commander.
+
+326
+00:21:03,553 --> 00:21:06,514
+<i>-<font color="#404040">REX:</font> We'll have to retreat.</i>
+-No, wait!
+
+327
+00:21:06,598 --> 00:21:10,226
+Remember, they are droids.
+They're just a little slow.
+
+328
+00:21:10,644 --> 00:21:12,353
+They'll figure it out.
+
+329
+00:21:13,230 --> 00:21:16,565
+<i>-I think the Captain left.</i>
+<i>-Who's in charge?</i>
+
+330
+00:21:16,650 --> 00:21:18,693
+<i>-Not me.</i>
+<i>-Not me.</i>
+
+331
+00:21:19,528 --> 00:21:21,946
+<i>-What should we do?</i>
+<i>-Begin attack.</i>
+
+332
+00:21:22,072 --> 00:21:23,656
+<font color="#DF01D7">(FIRING)</font>
+
+333
+00:21:31,665 --> 00:21:33,249
+The droids are attacking, sir.
+
+334
+00:21:33,333 --> 00:21:36,210
+Commander, on your order,
+commence flanking maneuver.
+
+335
+00:21:36,753 --> 00:21:39,672
+Okay, boys. Here we go! Follow my lead.
+
+336
+00:21:56,690 --> 00:21:58,524
+<i>-We've been outflanked!</i>
+<i>-Affirmative.</i>
+
+337
+00:21:58,608 --> 00:21:59,734
+<i><font color="#DF01D7">(EXCLAIMING IN ALARM)</font></i>
+
+338
+00:22:01,153 --> 00:22:02,320
+Attagirl, Ahsoka.
+
+339
+00:22:11,163 --> 00:22:16,000
+<i>-Where is the Captain? What is going on?</i>
+-He's in an escape pod.
+
+340
+00:22:16,084 --> 00:22:19,170
+<i>Idiots! Your blockade has been broken.</i>
+
+341
+00:22:19,671 --> 00:22:22,006
+Uh, where are those escape pods?
+
+342
+00:22:22,090 --> 00:22:23,215
+<font color="#DF01D7">(YELLING)</font>
+
+343
+00:22:24,509 --> 00:22:27,595
+<font color="#404040">CLONE OFFICER:</font> <i>Commander, the invasion</i>
+<i>fleet is coming out of hyperspace.</i>
+
+344
+00:22:29,765 --> 00:22:33,017
+Ahsoka, this is Obi-Wan.
+May we begin our landing?
+
+345
+00:22:33,435 --> 00:22:36,270
+Yes, Master.
+You're cleared for ground assault.
+
+346
+00:22:36,438 --> 00:22:39,273
+I won't even ask
+where the rest of Anakin's fleet is
+
+347
+00:22:39,358 --> 00:22:41,942
+or why he's in an escape pod.
+
+348
+00:22:42,361 --> 00:22:44,737
+That's probably for the best.
+
+349
+00:22:45,113 --> 00:22:49,116
+Rex, that reminds me. Send a shuttle
+to pick up Master Skywalker.
+
+350
+00:23:01,630 --> 00:23:02,797
+<font color="#DF01D7">(COMLINK BEEPS)</font>
+
+351
+00:23:02,881 --> 00:23:05,132
+<font color="#404040">CLONE:</font><i> General, you still there?</i>
+
+352
+00:23:05,258 --> 00:23:08,135
+Yep, I'm just sitting here
+watching the show.
+
+353
+00:24:11,950 --> 00:24:12,992
+English - SDH
+
